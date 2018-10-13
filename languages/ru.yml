@@ -203,13 +203,16 @@ ru:
   LABEL_DIFFICULTY_NORMAL: Нормальный
   LABEL_DIFFICULTY_HARD: Жесткий
   LABEL_DIFFICULTY_INSANE: ненормальный
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s выпустила новую платформу: «%s»"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s убирают так хорошо известные «%s»,
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s выпустила новую платформу: '%s'"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >-
+    "%s убирают так хорошо известные "%s",
     фанаты плачут"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "%s выпустит новую платформу в течение
-    нескольких месяцев «%s», которая длится в течение многих лет"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s объявляет о конце жизни столь
-    известного «%s»,"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >-
+    "%s выпустит новую платформу в течение
+    нескольких месяцев "%s", которая длится в течение многих лет"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >-
+    "%s объявляет о конце жизни столь
+    известного "%s","
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: Вы разблокировали лицензию для%s, она стоит %s$
   LABEL_PLATFORM_RELEASED_TITLE: Выпущена платформа
   LABEL_PLATFORM_DISCONTINUED_TITLE: Снятая с производства платформа
@@ -226,8 +229,9 @@ ru:
   LABEL_NEW_GAME: Новая игра
   LABEL_MODDING: Моддинг
   LABEL_ARTWORK: произведение искусства
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Благодаря вашему недавнему опыту вы открыли
-    новый жанр «%s»,
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: >-
+    Благодаря вашему недавнему опыту вы открыли
+    новый жанр "%s",
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Тема разблокирована: %s"
   LABEL_MAGAZINE_0: Фан-игра
   LABEL_MAGAZINE_1: ПК-плеер
@@ -318,17 +322,18 @@ ru:
   LABEL_CREATE_SEQUEL: Создать сиквел
   LABEL_NEW_IP: Новый IP-адрес
   LABEL_POSTMORTEM: Посмертный
-  LABEL_EMPTY_STUDIO: Предупреждение, что эта студия не содержит рабочего стола с
+  LABEL_EMPTY_STUDIO: >-
+    Предупреждение, что эта студия не содержит рабочего стола с
     компьютером!
   LABEL_MATCH_EXCELLENT: Отличный матч
   LABEL_MATCH_GOOD: Хорошая партия
   LABEL_MATCH_OK: Хорошо
   LABEL_MATCH_POOR: Плохое соответствие
   LABEL_POSTMORTEM_TITLE: Посмертный
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Мы ничего не узнали из «%s»,
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из «%s»: %s"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Мы ничего не узнали из '%s'
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из '%s': %s"
   LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между '%s' и '%s' равно '%s' [/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - управлять «%s» для типа игры «%s» [/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - управлять '%s' для типа игры '%s' [/ul]"
   LABEL_MARKET_SHARE: Рыночная доля
   LABEL_LICENSE_COST: Лицензия
   LABEL_OWNED: Принадлежит
@@ -336,43 +341,53 @@ ru:
   LABEL_CATALOG_SIZE: Размер каталога
   LABEL_PLATFORM_LIST: Список платформ
   LABEL_IDLE: вхолостую
-  LABEL_ADOPT_CAT_DESCRIPTION: Сотрудники студии %s нашли бездомную кошку, скрытую
+  LABEL_ADOPT_CAT_DESCRIPTION: >-
+    Сотрудники студии %s нашли бездомную кошку, скрытую
     за мусором. Эта кошка очень приятная, и персонал уже дал ей имя. Что ты хочешь
     делать?
   LABEL_ADOPT_CAT_TITLE: Бродячий кот
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: В Blue Studio два брата только что выпустили
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION:  >-
+    В Blue Studio два брата только что выпустили
     новую игру. Это игровой чейнджер, и появился новый тип игры. Таинственный
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Придумана загадочная
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: "«DustStar только что выпустила новую игру, которая
-    произвела революцию в игровой индустрии. Она создала жанр HTA»,"
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >-
+    "DustStar только что выпустила новую игру, которая
+    произвела революцию в игровой индустрии. Она создала жанр HTA"
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-подобный был изобретен
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: 3 парня в гараже создали новую новую игру.
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >-
+    3 парня в гараже создали новую новую игру.
     Он настолько знаменит, что создал новый игровой жанр, Crook
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Крук-подобный был изобретен
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: 3 Американские дизайнеры просто создали мод
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >-
+    3 Американские дизайнеры просто создали мод
     для знаменитой игры. Родился Моба
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Придумана Моба-подобная
   LABEL_BROKEN_COFFEEMAKER_TITLE: Сломанная кофемашина
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: Ваши сотрудники студии %s являются зависимыми
-    от кофе. Но кофеварка подала последний кубок ... Что ты хочешь сделать?
-  LABEL_RABBIT_INVASION_DESCRIPTION: Кролики, кролики повсюду. Они делают какие-то
-    шумы ... они бегут повсюду. Но никто их не замечает, и люди продолжают работать
-    ...
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >-
+    Ваши сотрудники студии %s являются зависимыми
+    от кофе. Но кофеварка подала последний кубок... Что ты хочешь сделать?
+  LABEL_RABBIT_INVASION_DESCRIPTION:  >-
+    Кролики, кролики повсюду. Они делают какие-то
+    шумы... они бегут повсюду. Но никто их не замечает, и люди продолжают работать...
   LABEL_RABBIT_INVASION_TITLE: Кроличье вторжение
-  LABEL_TARGETTED_AUDIENCE_FEATURE: "«Эксперты обнаружили, что игры могут ориентироваться
+  LABEL_TARGETTED_AUDIENCE_FEATURE:  >-
+    "Эксперты обнаружили, что игры могут ориентироваться
     на определенную аудиторию. Они опубликовали статью о трех разных аудиториях: молодые,
-    все и зрелые»,"
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: Появился новый вирус. Он ориентирован только
+    все и зрелые"
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >-
+    Появился новый вирус. Он ориентирован только
     на компании видеоигр. Это кажется шансом, но он замедляет курсоры и случайным
     образом перезагружает компьютеры. Это, безусловно, повлияет на производительность
     ваших сотрудников. Нападает только %s
   LABEL_VIRUS_UNLEASHED_TITLE: Вирус развязан
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: Vlogger, известный своими
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >-
+    Vlogger, известный своими
     обзорами игр, только что опубликовал новое видео. И на этот раз он рассмотрел
     одну из ваших игр %s. Это, безусловно, повлияет на продажи.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Бесплатные объявления
   LABEL_LOAN_TITLE: Последний кредит
-  LABEL_LOAN_DESCRIPTION: Вам нужны дополнительные деньги, мы можем вам помочь. Вы
+  LABEL_LOAN_DESCRIPTION: >-
+    Вам нужны дополнительные деньги, мы можем вам помочь. Вы
     можете вернуть себе кредит в %s. Наши процентные ставки составляют всего %s%%,
     и у вас есть %s недель для погашения. Это как вся жизнь для такой компании, как
     ваша. Мы ваш последний вариант, позвольте себе искушаться.
@@ -380,7 +395,8 @@ ru:
   LABEL_PAYLOAN_DESCRIPTION: Планируемое погашение подошло к концу, вы должны заплатить %s$.
   LABEL_SELL_STUDIO_TITLE: Продажа студии
   LABEL_SELL_STUDIO_DESCRIPTION: Вы продаете студию %s, вы хотите продолжить?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Поскольку %s является вашей последней студией
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >-
+    Поскольку %s является вашей последней студией
     или она занята работой над проектом, вы не можете ее продать
   LABEL_BUILDING_AREA: Площадь %sm²
   LABEL_BUILDING_BUY: Цена
@@ -421,7 +437,8 @@ ru:
   LABEL_NO_STUDIO: Нет студий
   LABEL_EMPLOYEE_CAPACITY: Prod.
   LABEL_STUDIO_CAPACITY: Студия prod.
-  LABEL_EMPLOYEE_TOOLTIP: Производительность (Prod.) Повышает эффективность работы
+  LABEL_EMPLOYEE_TOOLTIP: >-
+    Производительность (Prod.) Повышает эффективность работы
     сотрудников
   LABEL_STUDIO_TOOLTIP: Производительность (Prod.) Повышает эффективность студии
   LABEL_BUILD_STUDIO: Редактировать студию
@@ -452,59 +469,81 @@ ru:
   LABEL_SKILLS_AVERAGE: Навыки (в среднем)
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Окно без полей
-  LABEL_GAMEEDITION_SUBMIT: У вас много поклонников. Вы достаточно хорошо знаете,
+  LABEL_GAMEEDITION_SUBMIT: >-
+    У вас много поклонников. Вы достаточно хорошо знаете,
     чтобы редактировать игры.
-  LABEL_GAMEEDITION_RECEIVE: После вашего недавнего успеха издатели свяжутся с вами
+  LABEL_GAMEEDITION_RECEIVE: >-
+    После вашего недавнего успеха издатели свяжутся с вами
     в кратчайшие сроки, чтобы сделать вам предложения.
   LABEL_WORLDMAP: Вы смотрите вверх, весь мир ждет вас снаружи.
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: Появляются первые журналы для видеоигр, вы хотите
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >-
+    Появляются первые журналы для видеоигр, вы хотите
     рекламировать одну из своих игр?
-  LABEL_MARKETING_CAMPAIGN_TV: Настало время сделать ваши игры известными благодаря
+  LABEL_MARKETING_CAMPAIGN_TV: >-
+    Настало время сделать ваши игры известными благодаря
     телевизионной рекламе.
-  LABEL_MARKETING_CAMPAIGN_INTERNET: Эпоха Интернета начинается, вы можете охватить
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >-
+    Эпоха Интернета начинается, вы можете охватить
     миллионы людей простым рекламным баннером.
-  LABEL_CONCURRENT_STUDIOS_LIST: Ваша студия растет, пришло время изучить рынок и
+  LABEL_CONCURRENT_STUDIOS_LIST: >-
+    Ваша студия растет, пришло время изучить рынок и
     заглянуть на конкурс.
-  LABEL_CONCURRENT_STUDIOS_BUY: Вы катитесь в тесте, может быть, пришло время покупать
+  LABEL_CONCURRENT_STUDIOS_BUY: >-
+    Вы катитесь в тесте, может быть, пришло время покупать
     конкурирующие студии?
   LABEL_FURNITURES_COMMON_BUY: Теперь у нас есть стильная офисная косметика.
-  LABEL_EMPLOYEES_HIRE: Ваша студия растет, производит больше игр, улучшает ее качество.
+  LABEL_EMPLOYEES_HIRE: >-
+    Ваша студия растет, производит больше игр, улучшает ее качество.
     Но сначала вам нужно нанять.
-  LABEL_STUDIO_RENT: Теперь вы чувствуете себя в коробке в своей маленькой студии,
+  LABEL_STUDIO_RENT: >-
+    Теперь вы чувствуете себя в коробке в своей маленькой студии,
     идите в свое следующее место.
   LABEL_STUDIO_BUILD: Ваш успех позволяет вам создавать собственные студии.
-  LABEL_CONVENTION_ORGANIZE: С миллионом людей, поддерживающих вас, вы можете теперь
+  LABEL_CONVENTION_ORGANIZE: >-
+    С миллионом людей, поддерживающих вас, вы можете теперь
     организовать свои собственные соглашения.
-  LABEL_CONVENTION_PARTICIPATE: Ваш игровой каталог заслуживает внимания, участие
+  LABEL_CONVENTION_PARTICIPATE: >-
+    Ваш игровой каталог заслуживает внимания, участие
     в конвенциях может помочь вам улучшить вашу видимость.
-  LABEL_STUDIO_CUSTOMIZE: Ваши скучные стены подрывают вашу производительность? Время
+  LABEL_STUDIO_CUSTOMIZE: >-
+    Ваши скучные стены подрывают вашу производительность? Время
     переделать его.
-  LABEL_FURNITURES_SERVERS_BUY: Больше стола, больше стула, больше компьютера, больше
+  LABEL_FURNITURES_SERVERS_BUY: >-
+    Больше стола, больше стула, больше компьютера, больше
     белой доски, больше!
-  LABEL_GAME_ONLINE: "«Как держать ваших игроков приклеенными к экрану? ИНТЕРНЕТ:
-    сделайте онлайн-игры, и они будут зависимы!»"
-  LABEL_DIGITAL_STORE: 'Дематериализованный: вы начинаете слышать об этом, и вы уже
-    знаете, что это футур.'
-  LABEL_POSTMORTEM_FEATURE: Поздравляем, вы сделали свою первую игру. Теперь вы можете
+  LABEL_GAME_ONLINE: >-
+    "Как держать ваших игроков приклеенными к экрану? ИНТЕРНЕТ:
+    сделайте онлайн-игры, и они будут зависимы!"
+  LABEL_DIGITAL_STORE: >-
+    "Дематериализованный: вы начинаете слышать об этом, и вы уже
+    знаете, что это футур."
+  LABEL_POSTMORTEM_FEATURE: >-
+    Поздравляем, вы сделали свою первую игру. Теперь вы можете
     перейти к вскрытию, чтобы помочь вам оценить его разработку, дизайн и полировку
-  LABEL_NEW_GAME_FEATURE: Готовы пережить эпическую историю видеоигр с самого начала?
+  LABEL_NEW_GAME_FEATURE: >-
+    Готовы пережить эпическую историю видеоигр с самого начала?
     Добро пожаловать в City Game Studio. Начните работу и создайте свою первую игру.
   LABEL_LOADING: загрузка
   LABEL_NAME: название
   LABEL_SALARY: Оплата труда
   LABEL_NO_SCORE: Еще нет оценки!
-  LABEL_CAPACITY_STORY_FEATURE: Хорошая игра всегда хороша, хорошая история всегда
+  LABEL_CAPACITY_STORY_FEATURE: >-
+    Хорошая игра всегда хороша, хорошая история всегда
     хороша. А как насчет хорошей игры с хорошей историей?
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: Какова цель этой кнопки? Вам необходимо управлять
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >-
+    Какова цель этой кнопки? Вам необходимо управлять
     пользовательским интерфейсом ваших игр
   LABEL_CAPACITY_NETWORK_FEATURE: Настало время играть в видеоигру, это потрясающе,
     однако играть с друзьями еще лучше! Вам нужно управлять сетью для своих игр
-  LABEL_CAPACITY_MODDING_FEATURE: '«Некоторые из ваших игр уже были изменены игроками,
+  LABEL_CAPACITY_MODDING_FEATURE: >-
+    "Некоторые из ваших игр уже были изменены игроками,
     благодаря чему вы продаете больше игр. Пришло время помочь этим хакерам и работать
-    над правильным API-интерфейсом: для ваших игр"'
-  LABEL_CAPACITY_CUTSCENES_FEATURE: Фильмы влияют на видеоигры, нам нужно управлять
+    над правильным API-интерфейсом: для ваших игр"
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >-
+    Фильмы влияют на видеоигры, нам нужно управлять
     роликами при создании новой игры
-  LABEL_CAPACITY_TUTORIEL_FEATURE: Игра в новую игру - это как обучение. Это непросто,
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >-
+    Игра в новую игру - это как обучение. Это непросто,
     поэтому вы решили создать учебник для своих новых игр.
 
   # Placeholder used for forms
@@ -514,17 +553,25 @@ ru:
   PLACEHOLDER_PLAYER_NAME: Ваше имя
 
   # Tooltips
-  TOOLTIP_POSTMORTEM: Создайте отчет postmortem. Отчет postmortem поможет вам создать
+  TOOLTIP_POSTMORTEM: >-
+    Создайте отчет postmortem.
+    Отчет postmortem поможет вам создать
     лучшие игры
   TOOLTIP_CREATE_GAME: Создать новую игру
   TOOLTIP_STAFF: Список сотрудников
-  TOOLTIP_RECRUIT: Список потенциальных кандидатов, доступных в городе
-  TOOLTIP_PORTFOLIO: Перечислите всю игру, которую вы сделали до сих пор.
+  TOOLTIP_RECRUIT: >-
+    Список потенциальных кандидатов,
+    доступных в городе
+  TOOLTIP_PORTFOLIO: >-
+   Перечислите всю игру,
+   которую вы сделали до сих пор.
   TOOLTIP_OPTION: Параметры и параметры
   TOOLTIP_EXIT: Вернуться к Linux
   TOOLTIP_STUDIOS: Перечислите свои студии
   TOOLTIP_STUDIOLIST: Список офисов, доступных в городе
-  TOOLTIP_CONSTRUCT: Создать новое здание для офиса или принять конвенцию
+  TOOLTIP_CONSTRUCT: >-
+    Создать новое здание для офиса
+    или принять конвенцию
   TOOLTIP_CONFERENCE: Управление соглашениями
   TOOLTIP_MARKETING: Управление маркетинговыми кампаниями
   TOOLTIP_SELL: Продать свой офис

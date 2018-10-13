@@ -1,0 +1,21 @@
+{
+  "name": "city-game-studio-i18n",
+  "version": "1.0.0",
+  "description": "A repository for City Game Studio's translation efforts. There is only one folder:",
+  "main": "tocsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binogure-studio/city-game-studio-i18n.git"
+  },
+  "author": "Binogure Studio",
+  "bugs": {
+    "url": "https://github.com/binogure-studio/city-game-studio-i18n/issues"
+  },
+  "homepage": "https://github.com/binogure-studio/city-game-studio-i18n#readme",
+  "dependencies": {
+    "yaml": "^1.0.0"
+  }
+}
