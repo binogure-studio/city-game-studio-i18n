@@ -1,0 +1,564 @@
+fr:
+  # Buttons actions verbs
+  BUTTON_NEW_GAME: Nouvelle partie
+  BUTTON_HIRE: Engager
+  BUTTON_APPLY: Appliquer
+  BUTTON_BACK: Précédent
+  BUTTON_BUILD_MODE: Constuire
+  BUTTON_BUILDING_RENT: Louer
+  BUTTON_CANCEL: Annuler
+  BUTTON_CLOSE: Fermer
+  BUTTON_CREDITS: Crédits
+  BUTTON_EXIT: Quitter
+  BUTTON_FIRE: Renvoyer
+  BUTTON_LOAD: Charger
+  BUTTON_LOAD_GAME: Charger une partie
+  BUTTON_MAIN_MENU: Menu principal
+  BUTTON_NEXT: Suivant
+  BUTTON_OK: Ok
+  BUTTON_OPTIONS: Options
+  BUTTON_RESET: Reset
+  BUTTON_SKIP: Passer
+  BUTTON_START: Commencer
+  BUTTON_NEED_STUDIO: Aucun studio disponible
+  BUTTON_CLEAR_EVENTS: Effacer
+  BUTTON_TOO_BAD: C'est dommage
+  BUTTON_BUY_ANOTHER_ONE: En acheter une autre
+  BUTTON_ADOPT: Adopter
+  BUTTON_ABANDON: Abandonner
+  BUTTON_ASSIGN_EMPLOYEE: Assigner
+  BUTTON_KEEP_PLAYING: Continuer à jouer
+  BUTTON_LEADERBOARD: Tableau des scores
+  BUTTON_GIVEUP: Abandonner
+  BUTTON_LOAN: Emprunter
+  BUTTON_REPAY: Rembourser
+  BUTTON_ZOOM: Zoom
+  BUTTON_BUY: Acheter
+  BUTTON_SELL: Vendre
+  BUTTON_RENT: Louer
+  BUTTON_CONFIRM: Confirmer
+  DROPDOWN_LANGUAGE: Langues
+
+  # Labels, descriptive
+  LABEL_AI: Intelligence artificielle
+  LABEL_ANIMATION: Animation
+  LABEL_ANISOTROPIC_FILTER: Filtre anisotropic
+  LABEL_BUILDING_LEASE: Loyer
+  LABEL_TYPE_BUILDING: Type
+  LABEL_CHARACTERS: Personnages
+  LABEL_COMPANY_NAME: Nom de la compagnie
+  LABEL_CUTSCENES: Scènes coupées
+  LABEL_CURRENCY: Argent
+  LABEL_DESIGN: Design
+  LABEL_DEVELOPMENT: Developpement
+  LABEL_DIFFICULTY: Difficulté
+  LABEL_EVENT_TYPE: Type d'évènement
+  LABEL_UNIT_SOLD: Ventes
+  LABEL_FANBASE: Fan
+  LABEL_FULLSCREEN: Plein écran
+  LABEL_GAME_GENRE: Genre
+  LABEL_GAME_HISTORY: Portfolio
+  LABEL_GAME_NAME: Nom
+  LABEL_GAME_SIZE: Taille
+  LABEL_GAMEPLAY: Gameplay
+  LABEL_GRAPHIC_SETTINGS: Paramètres graphiques
+  LABEL_GRAPHISM: Graphismes
+  LABEL_INCOME: Revenus
+  LABEL_INVALID_SAVE: Fichier corrompu
+  LABEL_KICKOFF: Kick off
+  LABEL_LOAD_GAME: Charger une partie
+  LABEL_MAP_SIZE: Taille de la carte
+  LABEL_MARKETING_MATERIAL: Matériel publicitaire
+  LABEL_MUSIC: Musique
+  LABEL_NETWORK: Réseau
+  LABEL_GRADE: Note
+  LABEL_OPTIMIZATION: Optimisation
+  LABEL_OUTCOME: Dépenses
+  LABEL_PHYSICS: Physique
+  LABEL_GAME_FINISHED: Félicitations, vous avez terminé City Game Studio
+  LABEL_PLANNING: Planning
+  LABEL_PLATFORM: Plateforme
+  LABEL_PLAYER_NAME: Nom du joueur
+  LABEL_PROFITS: Profits
+  LABEL_POLISH: Polissage
+  LABEL_PRICE: Prix
+  LABEL_RELEASE: Publier
+  LABEL_RESOLUTION: Résolution
+  LABEL_SCRIPTING: Scripting
+  LABEL_SOUND: Son
+  LABEL_SOUND_SETTINGS: Paramètres sonores
+  LABEL_SOUNDFX: Effets spéciaux
+  LABEL_SQUARE_FOOTAGE: Surface
+  LABEL_STAFF: Équipe
+  LABEL_STORY: Histoire
+  LABEL_STUDIO: Studio
+  LABEL_TARGETTED_AUDIENCE: Public visé
+  LABEL_THEME: Thème
+  LABEL_TUTORIEL: Tutoriel
+  LABEL_USERINTERFACE: Interface utilisateur
+  LABEL_NAME: Nom
+  LABEL_SALARY: Salaire
+  LABEL_NO_SCORE: Soit le premier à envoyer ton score
+
+  LABEL_CAPACITY_STORY_FEATURE: >
+    Après plusieurs jeux, vous vous rendez compte qu'un bon jeu a forcément une histoire!
+    Créer des jeux ne sera plus jamais pareil
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
+    Une ergonomie exceptionnelle, des animations sublimes, rien de tel qu'une belle interface utilisateur pour apprécier un jeu
+  LABEL_CAPACITY_NETWORK_FEATURE: >
+    Nous sommes a l'aube d'une nouvelle ère, l'industrie du jeu vidéo est sur le point de changer a jamais.
+    Il faut maintenant apprendre a gérer le réseau pour vos créations
+  LABEL_CAPACITY_MODDING_FEATURE: >
+    Avec l'explosion d'Internet, vos fans vont vouloir apporter des modifications aux jeux vidéo que vous créez, vous devez maintenant gérer le modding
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
+    Certains succès du monde des jeux vidéo viennent directement du monde du cinéma.
+    Afin d'être plus immersif, le monde du jeu vidéo veut désormai des scènes coupées
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
+    Jouer a un nouveau jeu, c'est aussi apprendre a jouer a un nouveau jeu.
+    Cela peut s'avérer ardu et c'est la tache qui vous ait confiée, vous devez maintenant gérer les tutoriels pour vos créations
+  LABEL_THEME_MOVIE_ADAPTATION: Adaptation de film
+  LABEL_THEME_PREHISTORY: Pré-histoire
+  LABEL_THEME_ARCHEOLOGY: Archéologie
+  LABEL_THEME_POSTAPOCALYPTIC: Post-apocalyptique
+  LABEL_THEME_ATLANTIS: Atlantide
+  LABEL_THEME_RELIGIOUS: Religieux
+  LABEL_THEME_ORGANIZED_CRIME: Crime organisé
+  LABEL_THEME_CROSSOVER: Cross-over
+  LABEL_THEME_DESERT: Désert
+  LABEL_THEME_COMEDY: Comédie
+  LABEL_THEME_DRAGON: Dragon
+  LABEL_THEME_EROTIC: Érotique
+  LABEL_THEME_SPY: Espionnage
+  LABEL_THEME_FANTASY: Fantaisie
+  LABEL_THEME_GHOST: Fantôme
+  LABEL_THEME_HISTORY: Histoire
+  LABEL_THEME_HORROR: Horreur
+  LABEL_THEME_MEDICAL: Médical
+  LABEL_THEME_OCEAN: Océan
+  LABEL_THEME_ARABIAN_NIGHTS: Mille et une nuits
+  LABEL_THEME_MYTHOLOGY: Mythologie
+  LABEL_THEME_NINJA: Ninja
+  LABEL_THEME_PARK: Parc et loisir
+  LABEL_THEME_PIRATES: Pirate
+  LABEL_THEME_SCIENCE_FICTION: Science fiction
+  LABEL_THEME_SUPER_HEROS: Super héro
+  LABEL_THEME_VAMPIRE: Vampire
+  LABEL_THEME_TIME_TRAVEL: Voyage dans le temps
+  LABEL_THEME_WESTERN: Western
+  LABEL_THEME_ZOMBIE: Zombie
+  LABEL_TYPE_ACTION: Action
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_VERSUS_FIGHTING: Combat
+  LABEL_TYPE_PLATFORMS: Plates-formes
+  LABEL_TYPE_SHOOT: Tirs
+  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_FPS: FPS
+  LABEL_TYPE_TPS: TPS
+  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_OPEN_WORLD: Monde ouvert
+  LABEL_TYPE_HTA_LIKE: HTA-like
+  LABEL_TYPE_INFILTRATION: Infiltration
+  LABEL_TYPE_SURVIVAL: Survie
+  LABEL_TYPE_HORROR: Horreur
+  LABEL_TYPE_ADVENTURE: Aventure
+  LABEL_TYPE_INTERACTIVE_FICTION: Fiction interactive
+  LABEL_TYPE_INTERACTIVE_MOVIE: Film interactif
+  LABEL_TYPE_CHAT: Drague
+  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_EROGE: Eroge
+  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_VISUAL_NOVEL: Nouvelle visuelle
+  LABEL_TYPE_MYSTERY_LIKE: Mystery-like
+  LABEL_TYPE_RPG: RPG
+  LABEL_TYPE_ACTION_RPG: Action RPG
+  LABEL_TYPE_DUNGEON_CRAWLER: Dungeon crawler
+  LABEL_TYPE_MMORPG: MMO-RPG
+  LABEL_TYPE_DUNGEON: Dungeon
+  LABEL_TYPE_CROOK_LIKE: Crook-like
+  LABEL_TYPE_TACTICAL_RPG: RPG Tactique
+  LABEL_TYPE_REFLEXION: Réflexion
+  LABEL_TYPE_MAZE: Labyrinthe
+  LABEL_TYPE_HIDDEN_OBJECT: Objets cachés
+  LABEL_TYPE_PUZZLE: Casse-tête
+  LABEL_TYPE_SIMULATION: Simulation
+  LABEL_TYPE_ANIMALS: Animaux
+  LABEL_TYPE_GOD_GAME: God-game
+  LABEL_TYPE_FARMING: Élevage
+  LABEL_TYPE_LIVING_ORGANISM: Organisme vivant
+  LABEL_TYPE_SPORT: Sport
+  LABEL_TYPE_MANAGEMENT: Gestion
+  LABEL_TYPE_ECONOMY: Économie
+  LABEL_TYPE_CITY_BUILDER: City-builder
+  LABEL_TYPE_GOVERNMENT: Gouvernement
+  LABEL_TYPE_VEHICLE: Véhicule
+  LABEL_TYPE_RACING: Course
+  LABEL_TYPE_DRIVE: Conduite
+  LABEL_TYPE_FLY: Vol
+  LABEL_TYPE_SPACE: Espace
+  LABEL_TYPE_SUBMARINE: Sous-marin
+  LABEL_TYPE_TRAIN: Train
+  LABEL_TYPE_STRATEGY: Stratégie
+  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_MOBA_LIKE: Moba-like
+  LABEL_TYPE_TOWER_DEFENSE: Tower défense
+  LABEL_TYPE_TURN_BASED: Tour-par-tour
+  LABEL_TYPE_ARTILLERY: Artillerie
+  LABEL_TYPE_CASUAL: Casual
+  LABEL_TYPE_BREAKOUT: Casse-brique
+  LABEL_TYPE_RYTHM: Rythme
+  LABEL_TYPE_CLICKER_GAME: Clicker-game
+  LABEL_TARGETTED_AUDIENCE_YOUNG: Jeune
+  LABEL_TARGETTED_AUDIENCE_ALL: Tout public
+  LABEL_TARGETTED_AUDIENCE_MATURE: Mature
+  LABEL_GAME_SIZE_INDIE: Indie
+  LABEL_GAME_SIZE_NORMAL: Normal
+  LABEL_GAME_SIZE_BIG: Gros
+  LABEL_GAME_SIZE_AAA: AAA
+  LABEL_MAP_SIZE_TINY: Minuscule
+  LABEL_MAP_SIZE_SMALL: Petite
+  LABEL_MAP_SIZE_MEDIUM: Moyenne
+  LABEL_MAP_SIZE_LARGE: Grande
+  LABEL_MAP_SIZE_HUGE: Énorme
+  LABEL_DIFFICULTY_EASY: Facile
+  LABEL_DIFFICULTY_NORMAL: Normale
+  LABEL_DIFFICULTY_HARD: Difficile
+  LABEL_DIFFICULTY_INSANE: Impossible
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: >
+    "%s sort une nouvelle plateforme: '%s'"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
+    "%s retire la très populaire plateforme '%s', les fans sont en émois"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
+    "%s va sortir une nouvelle plateforme dans quelques mois '%s' elle devrait durer des années"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
+    "%s va bientôt retirer la '%s' du marché"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: >
+    "Vous avez débloqué la license pour %s, cela vous a coûté %s$"
+  LABEL_PLATFORM_RELEASED_TITLE: Nouvelle plateforme
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Fin de vie
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Plateforme annoncée
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Fin de vie annoncée
+  LABEL_PLATFORM_UNLOCKED_TITLE: Plateforme achetée
+  LABEL_CLICK_TO_CLOSE: Clicker pour fermer
+  LABEL_SHOP_UI: Boutique
+  LABEL_DESK: Bureau
+  LABEL_PLANT: Plante
+  LABEL_BOOKSHELF: Étagère
+  LABEL_WASTEBASKET: Corbeille
+  LABEL_ASSIGN_EMPLOYEE: Liste des employés
+  LABEL_NEW_GAME: Nouvelle partie
+  LABEL_MODDING: Mods
+  LABEL_ARTWORK: Illustrations
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: >
+    Votre récente expérience dans le développement de jeux vidéos vous a permis de débloquer le genre '%s'
+  LABEL_UNLOCK_GAME_TYPE_TITLE: >
+    "Theme débloqué: %s"
+  LABEL_MAGAZINE_0: Console Moins
+  LABEL_MAGAZINE_1: Cochon PC
+  LABEL_MAGAZINE_2: Play Game
+  LABEL_MAGAZINE_3: Jeux Vidéales
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Amal Game
+  LABEL_MAGAZINE_6: WASD
+  LABEL_MAGAZINE_7: Wiki Player
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: Game over
+  LABEL_SCORE: Score
+  LABEL_WAGE_INCREASES_TITLE: Augmentations de salaires
+  LABEL_WAGE_INCREASES_DESCRIPTION: >
+    "Les employés suivants ont récemment eu une augmentation de salaire:"
+  LABEL_PRESS_KEY: Appuyez sur
+  LABEL_WORD_OR: ou
+  LABEL_INPUT_ACTION_UI_ROTATE: pour pivoter l'objet
+  LABEL_INPUT_ACTION_UI_DELETE: pour vendre l'objet
+  LABEL_INPUT_ACTION_UI_PAUSE: pour mettre/enlever la pause
+  LABEL_INPUT_ACTION_UI_CANCEL: pour annuler
+  LABEL_INPUT_ACTION_UI_REPEAT: pour poser plusieurs objets à la suite
+  LABEL_CATCHPHRASE_1_0: Une perte de temps
+  LABEL_CATCHPHRASE_1_1: Ils ont tout mis dans le trailer
+  LABEL_CATCHPHRASE_1_2: Ne l'achetez pas
+  LABEL_CATCHPHRASE_1_3: Un manque de créativité flagrant
+  LABEL_CATCHPHRASE_1_4: La médiocrité à son paroxisme
+  LABEL_CATCHPHRASE_1_5: On ne peut pas mettre moins
+  LABEL_CATCHPHRASE_2_0: Une déception que l'on n'avait pas vu venir
+  LABEL_CATCHPHRASE_2_1: Quelqu'un a dit médiocre?
+  LABEL_CATCHPHRASE_2_2: Quelqu'un a dit mauvais?
+  LABEL_CATCHPHRASE_2_3: Une expérience décevante
+  LABEL_CATCHPHRASE_2_4: En un mot vide
+  LABEL_CATCHPHRASE_2_5: Ils auraient dû le faire annuler
+  LABEL_CATCHPHRASE_3_0: Droit dans le mur
+  LABEL_CATCHPHRASE_3_1: Une déception à la hauteur de ses ambitions
+  LABEL_CATCHPHRASE_3_2: Ils ont tout donné, mais ils avaient pas grand chose
+  LABEL_CATCHPHRASE_3_3: Si seulement ils avaient fait un jeu
+  LABEL_CATCHPHRASE_3_4: Une expérience affligeante
+  LABEL_CATCHPHRASE_3_5: On a vu pire, mais on a surtout vu mieux!
+  LABEL_CATCHPHRASE_4_0: Trop de maladresses pour quelques bonnes idées
+  LABEL_CATCHPHRASE_4_1: Un jeu pas si indispensable que ça
+  LABEL_CATCHPHRASE_4_2: Une bonne idée mal réalisée
+  LABEL_CATCHPHRASE_4_3: Le jeu qui se voulait innovant...
+  LABEL_CATCHPHRASE_4_4: Sur un malentendu, on pourrait y rejouer
+  LABEL_CATCHPHRASE_4_5: Le meilleur moment ? C'est quand ça s'arrête
+  LABEL_CATCHPHRASE_5_0: Le service minimum
+  LABEL_CATCHPHRASE_5_1: Un melting pot peu savoureux
+  LABEL_CATCHPHRASE_5_2: Un constat très mitigé
+  LABEL_CATCHPHRASE_5_3: On a vu mieux, mais on a surtout vu pire!
+  LABEL_CATCHPHRASE_5_4: C'est sûr, c'est pas le jeu de l'année
+  LABEL_CATCHPHRASE_5_5: Un jeu creux avec une durée de vie limité
+  LABEL_CATCHPHRASE_6_0: Sans panache
+  LABEL_CATCHPHRASE_6_1: Un jeu simpliste mais redondant
+  LABEL_CATCHPHRASE_6_2: Modeste mais intéressant
+  LABEL_CATCHPHRASE_6_3: Fun mais peu profond
+  LABEL_CATCHPHRASE_6_4: Un concept intéressant gâché par un hasard omniprésent
+  LABEL_CATCHPHRASE_6_5: A de bons moments, sans plus
+  LABEL_CATCHPHRASE_7_0: Sobriété et efficacité
+  LABEL_CATCHPHRASE_7_1: Un contenu riche plombé par une réalisation médiocre
+  LABEL_CATCHPHRASE_7_2: Une esthétique superbe, des mécanismes perfectibles
+  LABEL_CATCHPHRASE_7_3: Un excellent concept au contenu limité
+  LABEL_CATCHPHRASE_7_4: Une compilation satisfaisante?
+  LABEL_CATCHPHRASE_7_5: On est pas loin d'une pépite
+  LABEL_CATCHPHRASE_8_0: Du fun a l'état pur
+  LABEL_CATCHPHRASE_8_1: Un souffle de fraîcheur
+  LABEL_CATCHPHRASE_8_2: L'incontournable des soirées entre amis
+  LABEL_CATCHPHRASE_8_3: Un opus vraiment à part
+  LABEL_CATCHPHRASE_8_4: La beauté masquée
+  LABEL_CATCHPHRASE_8_5: Plaisant et intense
+  LABEL_CATCHPHRASE_9_0: Un des meilleurs jeux de l'année
+  LABEL_CATCHPHRASE_9_1: Le jeu ultime?
+  LABEL_CATCHPHRASE_9_2: Une mécanique parfaitement huilée
+  LABEL_CATCHPHRASE_9_3: Ça envoie du lourd
+  LABEL_CATCHPHRASE_9_4: Une excellente expérience
+  LABEL_CATCHPHRASE_9_5: Le travail accompli est quasi impeccable
+  LABEL_CATCHPHRASE_10_0: Une pépite de gameplay
+  LABEL_CATCHPHRASE_10_1: Un chef d'oeuvre de mise en scène, tout simplement
+  LABEL_CATCHPHRASE_10_2: Un must-have
+  LABEL_CATCHPHRASE_10_3: Un des meilleurs jeux de ces dernières années
+  LABEL_CATCHPHRASE_10_4: Des heures de jeu, que des bons moments
+  LABEL_CATCHPHRASE_10_5: Ce jeu va marquer les esprits
+  LABEL_CATCHPHRASE_11_0: Une claque artistique
+  LABEL_CATCHPHRASE_11_1: La perle rare
+  LABEL_CATCHPHRASE_11_2: Un hommage aux jeux vidéo
+  LABEL_CATCHPHRASE_11_3: Un opus qui redonne ses lettres de noblesses aux jeux vidéo
+  LABEL_CATCHPHRASE_11_4: Si la perfection avait un nom
+  LABEL_CATCHPHRASE_11_5: La XXième merveille mondiale
+  LABEL_CREATE_SEQUEL: Créer une suite
+  LABEL_NEW_IP: Nouvelle franchise
+  LABEL_POSTMORTEM: Post-mortem
+  LABEL_EMPTY_STUDIO: Attention le studio sélectionné ne contient aucun poste de travail incluant un ordinateur!
+  LABEL_MATCH_EXCELLENT: Excellente association
+  LABEL_MATCH_GOOD: Bonne association
+  LABEL_MATCH_OK: Association ok
+  LABEL_MATCH_POOR: Mauvaise association
+  LABEL_POSTMORTEM_TITLE: Post-mortem
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: '%s' ne nous a rien appris de neuf
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: Voici ce que nous avons pu tirer de '%s':%s
+  LABEL_POSTMORTEM_MATCH: [ul]- Le rapport '%s/%s' est '%s'[/ul]
+  LABEL_POSTMORTEM_CAPACITY: [ul]- À jauger correctement le '%s' pour un jeu de type '%s'[/ul]
+  LABEL_MARKET_SHARE: Parts de marché
+  LABEL_LICENSE_COST: License
+  LABEL_OWNED: Possédée
+  LABEL_WEEK_COST: Coûts de développement
+  LABEL_CATALOG_SIZE: Taille du catalogue
+  LABEL_PLATFORM_LIST: Liste des plateformes
+  LABEL_IDLE: Inactif
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    Les employés du studio %s ont trouvé un chat errant caché derrière une poubelle.
+    L'animal semble calin et vos employés lui ont déjà donné un nom. Qu'allez vous faire?
+  LABEL_ADOPT_CAT_TITLE: Chat errant
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
+    Deux frères du studio bleu viennent de sortir un jeu qui redéfinition les règles du gameplay.
+    Ils viennent de créer le Mystery-like
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like a été inventé
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
+    Une compagnie connue sous le nom de DustStar vient de sortir un nouveau jeu qui révolutionne le genre.
+    Il vient d'engendre le genre HTA-like
+  LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like a été inventé
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
+    3 mecs dans un garage ont créé un nouveau jeu.
+    Il tellement populaire qu'il vient d'engendrer un nouveau genre le Crook-like
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like a été inventé
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
+    3 designers amricains ont travaillé sur un mod de jeu qui vient de changer les lois du jeu vidéo.
+    Le MOBA-like vient de naitre
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like a été inventé
+  LABEL_BROKEN_COFFEEMAKER_TITLE: La machine a café est brisée
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    Vos employées du studio %s ont un dépendances fortes au café.
+    Cependant cette dernière vient de servir sa dernière tasse tout à l'heure ...
+    Qu'allons nous faire?
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
+    Des lapins, partout. Ils courrent, mangent et font de tout petits bruits...
+    C'est que ça galope ces bêtes là.
+    Et pourtant tout est calme et les gens continuent de se rendre au travail...
+  LABEL_RABBIT_INVASION_TITLE: Invasion de lapins
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
+    Des experts ont découvert que les jeux pouvaient s'adresser a un certain public.
+    Il se dégage trois genre de publics différents:public jeune, tout public, public mature
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
+    Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux-vidéos.
+    Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Défois la machine redémarre.
+    Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché %s
+  LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
+    Un vlogger célèbre pour ses critiques de jeux vidéos vient de publier une nouvelle vidéo. Et cette fois, il traite d'un de vos jeux:%s.
+    Cela aura un impact sur vos ventes c'est sûr!
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Publicité gratuite
+  LABEL_LOAN_TITLE: Prêt de dernier recours
+  LABEL_LOAN_DESCRIPTION: >
+    Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de %s$ pour le taux maudique de %s%%.
+    De plus vous aurez %s semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
+    Nous sommes votre dernier recours, laissez vous tenter!
+  LABEL_PAYLOAN_TITLE: Rembourser un prêt
+  LABEL_PAYLOAN_DESCRIPTION: L'échéancier arrive à son terme. Vous devez rembourser la totalité des sommes empruntées, soit %s$
+  LABEL_SELL_STUDIO_TITLE: Vendre un studio
+  LABEL_SELL_STUDIO_DESCRIPTION: Vous êtes sur le point de vendre le studio '%s', êtes-vous sûr de vouloir continuer?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Vous ne pouvez pas vendre le studio '%s', il est soit votre dernier studio, soit occupé sur un projet
+  LABEL_BUILDING_AREA: Surface %s m2
+  LABEL_BUILDING_BUY: Prix
+  LABEL_BUILDING_RENT: Loyer
+  LABEL_BUILDING_TYPE: Batiment
+  LABEL_BUILDING_ROAD: Route
+  LABEL_BUILDING_STREET: Rue
+  LABEL_BUILDING_APARTMENT: Appartement
+  LABEL_BUILDING_HOTEL: Hotel
+  LABEL_BUILDING_THEATER: Théatre
+  LABEL_BUILDING_STUDIO: Studio
+  LABEL_BUILDING_BUILDING: Résidence
+  LABEL_BUILDING_GRASS: Terrain
+  LABEL_BUILDING_SQUARE: Place
+  LABEL_BUILDING_CAFE: Café
+  LABEL_BUILDING_RESTAURANT: Restaurant
+  LABEL_BUILDING_PIZZERIA: Pizzeria
+  LABEL_BUILDING_GYM: Gym
+  LABEL_BUILDING_OFFICE: Bureaux
+  LABEL_NO_MONEY: Trop cher
+  LABEL_COMPUTER: Ordinateur
+  LABEL_PLANT: Plante
+  LABEL_TABLEPLANT: Table
+  LABEL_PRINTER: Imprimante
+  LABEL_COFFEEMACHINE: Machine à café
+  LABEL_DARKMETALTABLEDESK: Bureau en métal sombre
+  LABEL_METALDESK: Bureau en métal
+  LABEL_METALLARGEDESK: Grand bureau en métal
+  LABEL_METALTABLEDESK: Bureau en métal
+  LABEL_WOODDESK: Bureau en bois
+  LABEL_WOODLARGEDESK: Grand bureau en bois
+  LABEL_WOODTABLEDESK: Bureau en bois
+  LABEL_WATERTANK: Fontaine
+  LABEL_WHITEBOARD: Tableau blanc
+  LABEL_WOODBOOKSHELF: Bibliothèque en bois
+  LABEL_METALBOOKSHELF: Bibliothèque en métal
+  LABEL_HOLIDAY: Vacances
+  LABEL_NO_COMPUTER: Pas d'ordinateur
+  LABEL_NO_STUDIO: Aucun studio
+  LABEL_EMPLOYEE_CAPACITY: Prod.
+  LABEL_STUDIO_CAPACITY: Prod. du studio
+  LABEL_EMPLOYEE_TOOLTIP: La productivité (Prod.) améliore l'efficacité de l'employé
+  LABEL_STUDIO_TOOLTIP: La productivité (Prod.) améliore l'efficacité des employés du studio
+  LABEL_BUILD_STUDIO: Editer le studio,Edit studio
+  LABEL_WALL: Mur
+  LABEL_PILLAR: Pillier
+  LABEL_FLOOR: Sol
+  LABEL_HIRING_DATE: Date d'embauche
+  LABEL_WORK: Occupation
+  LABEL_NUMBER_OF_GAME_PRODUCED: Nombre de jeux produits
+  LABEL_DESIGN_POINT_PRODUCED: Nombre de points de design produit
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Nombre de points de developpement produit
+  LABEL_POLISH_POINT_PRODUCED: Nombre de points de polissage produit
+  LABEL_PRODUCTIVITY: Productivité
+  LABEL_MONEY_EFFICIENCY: Coût de production
+  LABEL_SKILLS: Compétences
+  LABEL_HOME: Maison
+  LABEL_MONTH: Mois
+  LABEL_ORDER_BY: Trier par
+  LABEL_BUY_PRICE: Prix d'achat
+  LABEL_RENT_PRICE: Prix de location
+  LABEL_NO_STUDIO_AVAILABLE: Aucun studio disponible
+  LABEL_REAL_ESTATE: Petites annonces
+  LABEL_STAFF_SIZE: Nombre d'employés
+  LABEL_CREATION_DATE: Date d'ouverture
+  LABEL_STUDIO_LIST: Liste des studios
+  LABEL_NO_STUDIO_FOUND: Aucun studio possédé
+  LABEL_PRODUCTIVITY_BONUS: Productivité bonus
+  LABEL_SKILLS_AVERAGE: Compétences (moyenne)
+  LABEL_VSYNC: Sync. verticale
+  LABEL_BORDERLESS_WINDOW: Fenêtre sans bord
+  LABEL_GAMEEDITION_SUBMIT: >
+    Vous avez un sacré nombre de fans. Vous êtes suffisament connu pour éditer des jeux
+  LABEL_GAMEEDITION_RECEIVE: >
+    Suite à vos récents succès, les éditeurs vont rapidement vous contacter pour vous faire des offres d'éditions
+  LABEL_WORLDMAP: >
+    Vous relevez la tête, il y a un monde qui vous attend dehors
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
+    Les premiers magasines de jeux vidéo paraissent, voulez-vous y faire de la publicité pour un de vos jeux?
+  LABEL_MARKETING_CAMPAIGN_TV: >
+    Il est temps de faire connaître vos jeux via des publicités télévisuelles
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
+    L'ère Internet débute, vous pouvez atteindre des millions de personnes avec une simple bannière publicitaire.
+  LABEL_CONCURRENT_STUDIOS_LIST: >
+    Votre studio prend de l'ampleur, il est temps d'étudier le marché et de voir vos concurrents
+  LABEL_CONCURRENT_STUDIOS_BUY: >
+    Vos caisses sont pleines, peut-être serait-il temps d'acheter les studios concurrents?
+  LABEL_FURNITURES_COMMON_BUY: >
+    Il est temps d'amenager votre studio avec classe
+  LABEL_EMPLOYEES_HIRE: >
+    Votre studio prend de l'ampleur, produire plus de jeux, de meilleur qualité. Mais d'abord il faut recruter
+  LABEL_STUDIO_RENT: >
+    On se sent a l'étroit dans ce petit studio, allez prendre possession de votre prochain local
+  LABEL_STUDIO_BUILD: >
+    Vos succès vous permettent de construire vos propres studios
+  LABEL_CONVENTION_ORGANIZE: >
+    Avec un million de personnes derrière vous, vous êtes prêts pour organiser vos propres conventions
+  LABEL_CONVENTION_PARTICIPATE: >
+    Votre catalogue de jeu mérite d'être vu, participer a des conventions peut vous aider a améliorer votre visibilité
+  LABEL_STUDIO_CUSTOMIZE: >
+    Les murs ternes de votre studio vous sappent le moral? Il est temps de les changer
+  LABEL_FURNITURES_SERVERS_BUY: >
+    Plus de bureau, plus de chaise, plus d'ordinateur, plus de tableau blanc, plus plus plus!
+  LABEL_GAME_ONLINE: >
+    Comment garder vos joueurs rivés à leurs écrans... INTERNET, faites des jeux en ligne et vous verrez ils ne décrocheront plus!
+  LABEL_DIGITAL_STORE: >
+    Dématérialisé, vous commencez à entendre parler de ce nouveau terme et déjà vous savez que c'est l'avenir.
+  LABEL_POSTMORTEM_FEATURE: >
+    Félicitations vous avez réalisé votre premier jeu.
+    Vous pouvez maintenant faire un post-mortem, cela vous aidera à jauger le développement, le design et le polissage
+  LABEL_NEW_GAME_FEATURE: >
+    Prêt a revivre l'épopée des jeux vidéo depuis son commencement? Bienvenue dans City Game Studio.
+    Lancez-vous et créez votre premier jeu
+  LABEL_LOADING: Chargement
+
+  # Placeholder used for forms
+  PLACEHOLDER_COMPANY_NAME: Nom de ,Loading
+  PLACEHOLDER_GAME_GENRE: Genre du ,Loading
+  PLACEHOLDER_GAME_NAME: Nom du jeu,Loading
+  PLACEHOLDER_PLAYER_NAME: Votre nom
+
+  # Tooltips
+  TOOLTIP_POSTMORTEM: >
+    Faire un post-mortem
+    Un post-mortem vous permet de mieux
+    jauger les jeux que vous voulez créer
+  TOOLTIP_CREATE_GAME: Créer un nouveau jeu
+  TOOLTIP_STAFF: Consulter la liste de vos employés
+  TOOLTIP_RECRUIT: >
+    Lister les candidats potentiels
+    disponibles sur le marché
+  TOOLTIP_PORTFOLIO: >
+    Lister la liste des jeux que
+    vous avez publié depuis la
+    création de votre studio
+  TOOLTIP_OPTION: Paramètres et options
+  TOOLTIP_EXIT: Retourner sur Linux
+  TOOLTIP_STUDIOS: Lister vos studios
+  TOOLTIP_STUDIOLIST: Lister les bureaux disponibles sur le marché
+  TOOLTIP_CONSTRUCT: >
+    Construire un batiment pour en faire un
+    studio ou encore une
+    salle de conférence
+  TOOLTIP_CONFERENCE: Participer ou organiser des conférences
+  TOOLTIP_MARKETING: Organiser des campagnes publicitaires
+  TOOLTIP_SELL: Vendre votre studio
+  TOOLTIP_SHOP: Acheter des meubles et autres fournitures
+  TOOLTIP_BUILDMOD: >
+    Refaire la peinture,
+    les sols et embelir votre studio
+  TOOLTIP_ASSIGN: Assigner vos employés à un bureau
+  TOOLTIP_STUDIO_SELECT: Lister vos studios
