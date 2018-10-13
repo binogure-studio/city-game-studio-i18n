@@ -100,20 +100,20 @@ fr:
   LABEL_SALARY: Salaire
   LABEL_NO_SCORE: Soit le premier à envoyer ton score
 
-  LABEL_CAPACITY_STORY_FEATURE: >-
+  LABEL_CAPACITY_STORY_FEATURE: |
     Après plusieurs jeux, vous vous rendez compte qu'un bon jeu a forcément une histoire!
     Créer des jeux ne sera plus jamais pareil
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >-
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
     Une ergonomie exceptionnelle, des animations sublimes, rien de tel qu'une belle interface utilisateur pour apprécier un jeu
-  LABEL_CAPACITY_NETWORK_FEATURE: >-
+  LABEL_CAPACITY_NETWORK_FEATURE: |
     Nous sommes a l'aube d'une nouvelle ère, l'industrie du jeu vidéo est sur le point de changer a jamais.
     Il faut maintenant apprendre a gérer le réseau pour vos créations
-  LABEL_CAPACITY_MODDING_FEATURE: >-
+  LABEL_CAPACITY_MODDING_FEATURE: |
     Avec l'explosion d'Internet, vos fans vont vouloir apporter des modifications aux jeux vidéo que vous créez, vous devez maintenant gérer le modding
-  LABEL_CAPACITY_CUTSCENES_FEATURE: >-
+  LABEL_CAPACITY_CUTSCENES_FEATURE: |
     Certains succès du monde des jeux vidéo viennent directement du monde du cinéma.
     Afin d'être plus immersif, le monde du jeu vidéo veut désormai des scènes coupées
-  LABEL_CAPACITY_TUTORIEL_FEATURE: >-
+  LABEL_CAPACITY_TUTORIEL_FEATURE: |
     Jouer a un nouveau jeu, c'est aussi apprendre a jouer a un nouveau jeu.
     Cela peut s'avérer ardu et c'est la tache qui vous ait confiée, vous devez maintenant gérer les tutoriels pour vos créations
   LABEL_THEME_MOVIE_ADAPTATION: Adaptation de film
@@ -223,16 +223,16 @@ fr:
   LABEL_DIFFICULTY_NORMAL: Normale
   LABEL_DIFFICULTY_HARD: Difficile
   LABEL_DIFFICULTY_INSANE: Impossible
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: >-
-    "%s sort une nouvelle plateforme: '%s'"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >-
-    "%s retire la très populaire plateforme '%s', les fans sont en émois"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >-
-    "%s va sortir une nouvelle plateforme dans quelques mois '%s' elle devrait durer des années"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >-
-    "%s va bientôt retirer la '%s' du marché"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: >-
-    "Vous avez débloqué la license pour %s, cela vous a coûté %s$"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: |
+    %s sort une nouvelle plateforme: '%s'
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    %s retire la très populaire plateforme '%s', les fans sont en émois
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+    %s va sortir une nouvelle plateforme dans quelques mois '%s' elle devrait durer des années
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    %s va bientôt retirer la '%s' du marché
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
+    Vous avez débloqué la license pour %s, cela vous a coûté %s$
   LABEL_PLATFORM_RELEASED_TITLE: Nouvelle plateforme
   LABEL_PLATFORM_DISCONTINUED_TITLE: Fin de vie
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Plateforme annoncée
@@ -248,10 +248,10 @@ fr:
   LABEL_NEW_GAME: Nouvelle partie
   LABEL_MODDING: Mods
   LABEL_ARTWORK: Illustrations
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: >-
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: |
     Votre récente expérience dans le développement de jeux vidéos vous a permis de débloquer le genre '%s'
-  LABEL_UNLOCK_GAME_TYPE_TITLE: >-
-    "Theme débloqué: %s"
+  LABEL_UNLOCK_GAME_TYPE_TITLE: |
+    Theme débloqué: %s
   LABEL_MAGAZINE_0: Console Moins
   LABEL_MAGAZINE_1: Cochon PC
   LABEL_MAGAZINE_2: Play Game
@@ -264,8 +264,8 @@ fr:
   LABEL_GAME_OVER: Game over
   LABEL_SCORE: Score
   LABEL_WAGE_INCREASES_TITLE: Augmentations de salaires
-  LABEL_WAGE_INCREASES_DESCRIPTION: >-
-    "Les employés suivants ont récemment eu une augmentation de salaire:"
+  LABEL_WAGE_INCREASES_DESCRIPTION: |
+    Les employés suivants ont récemment eu une augmentation de salaire:
   LABEL_PRESS_KEY: Appuyez sur
   LABEL_WORD_OR: ou
   LABEL_INPUT_ACTION_UI_ROTATE: pour pivoter l'objet
@@ -359,50 +359,50 @@ fr:
   LABEL_CATALOG_SIZE: Taille du catalogue
   LABEL_PLATFORM_LIST: Liste des plateformes
   LABEL_IDLE: Inactif
-  LABEL_ADOPT_CAT_DESCRIPTION: >-
+  LABEL_ADOPT_CAT_DESCRIPTION: |
     Les employés du studio %s ont trouvé un chat errant caché derrière une poubelle.
     L'animal semble calin et vos employés lui ont déjà donné un nom. Qu'allez vous faire?
   LABEL_ADOPT_CAT_TITLE: Chat errant
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
     Deux frères du studio bleu viennent de sortir un jeu qui redéfinition les règles du gameplay.
     Ils viennent de créer le Mystery-like
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like a été inventé
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
     Une compagnie connue sous le nom de DustStar vient de sortir un nouveau jeu qui révolutionne le genre.
     Il vient d'engendre le genre HTA-like
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like a été inventé
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >-
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
     3 mecs dans un garage ont créé un nouveau jeu.
     Il tellement populaire qu'il vient d'engendrer un nouveau genre le Crook-like
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like a été inventé
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
     3 designers amricains ont travaillé sur un mod de jeu qui vient de changer les lois du jeu vidéo.
     Le MOBA-like vient de naitre
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like a été inventé
   LABEL_BROKEN_COFFEEMAKER_TITLE: La machine a café est brisée
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >-
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
     Vos employées du studio %s ont un dépendances fortes au café.
     Cependant cette dernière vient de servir sa dernière tasse tout à l'heure ...
     Qu'allons nous faire?
-  LABEL_RABBIT_INVASION_DESCRIPTION: >-
+  LABEL_RABBIT_INVASION_DESCRIPTION: |
     Des lapins, partout. Ils courrent, mangent et font de tout petits bruits...
     C'est que ça galope ces bêtes là.
     Et pourtant tout est calme et les gens continuent de se rendre au travail...
   LABEL_RABBIT_INVASION_TITLE: Invasion de lapins
-  LABEL_TARGETTED_AUDIENCE_FEATURE: >-
+  LABEL_TARGETTED_AUDIENCE_FEATURE: |
     Des experts ont découvert que les jeux pouvaient s'adresser a un certain public.
     Il se dégage trois genre de publics différents:public jeune, tout public, public mature
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >-
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
     Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux-vidéos.
     Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Défois la machine redémarre.
     Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché %s
   LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >-
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Un vlogger célèbre pour ses critiques de jeux vidéos vient de publier une nouvelle vidéo. Et cette fois, il traite d'un de vos jeux:%s.
     Cela aura un impact sur vos ventes c'est sûr!
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Publicité gratuite
   LABEL_LOAN_TITLE: Prêt de dernier recours
-  LABEL_LOAN_DESCRIPTION: >-
+  LABEL_LOAN_DESCRIPTION: |
     Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de %s$ pour le taux maudique de %s%%.
     De plus vous aurez %s semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
     Nous sommes votre dernier recours, laissez vous tenter!
@@ -480,46 +480,46 @@ fr:
   LABEL_SKILLS_AVERAGE: Compétences (moyenne)
   LABEL_VSYNC: Sync. verticale
   LABEL_BORDERLESS_WINDOW: Fenêtre sans bord
-  LABEL_GAMEEDITION_SUBMIT: >-
+  LABEL_GAMEEDITION_SUBMIT: |
     Vous avez un sacré nombre de fans. Vous êtes suffisament connu pour éditer des jeux
-  LABEL_GAMEEDITION_RECEIVE: >-
+  LABEL_GAMEEDITION_RECEIVE: |
     Suite à vos récents succès, les éditeurs vont rapidement vous contacter pour vous faire des offres d'éditions
-  LABEL_WORLDMAP: >-
+  LABEL_WORLDMAP: |
     Vous relevez la tête, il y a un monde qui vous attend dehors
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >-
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
     Les premiers magasines de jeux vidéo paraissent, voulez-vous y faire de la publicité pour un de vos jeux?
-  LABEL_MARKETING_CAMPAIGN_TV: >-
+  LABEL_MARKETING_CAMPAIGN_TV: |
     Il est temps de faire connaître vos jeux via des publicités télévisuelles
-  LABEL_MARKETING_CAMPAIGN_INTERNET: >-
+  LABEL_MARKETING_CAMPAIGN_INTERNET: |
     L'ère Internet débute, vous pouvez atteindre des millions de personnes avec une simple bannière publicitaire.
-  LABEL_CONCURRENT_STUDIOS_LIST: >-
+  LABEL_CONCURRENT_STUDIOS_LIST: |
     Votre studio prend de l'ampleur, il est temps d'étudier le marché et de voir vos concurrents
-  LABEL_CONCURRENT_STUDIOS_BUY: >-
+  LABEL_CONCURRENT_STUDIOS_BUY: |
     Vos caisses sont pleines, peut-être serait-il temps d'acheter les studios concurrents?
-  LABEL_FURNITURES_COMMON_BUY: >-
+  LABEL_FURNITURES_COMMON_BUY: |
     Il est temps d'amenager votre studio avec classe
-  LABEL_EMPLOYEES_HIRE: >-
+  LABEL_EMPLOYEES_HIRE: |
     Votre studio prend de l'ampleur, produire plus de jeux, de meilleur qualité. Mais d'abord il faut recruter
-  LABEL_STUDIO_RENT: >-
+  LABEL_STUDIO_RENT: |
     On se sent a l'étroit dans ce petit studio, allez prendre possession de votre prochain local
-  LABEL_STUDIO_BUILD: >-
+  LABEL_STUDIO_BUILD: |
     Vos succès vous permettent de construire vos propres studios
-  LABEL_CONVENTION_ORGANIZE: >-
+  LABEL_CONVENTION_ORGANIZE: |
     Avec un million de personnes derrière vous, vous êtes prêts pour organiser vos propres conventions
-  LABEL_CONVENTION_PARTICIPATE: >-
+  LABEL_CONVENTION_PARTICIPATE: |
     Votre catalogue de jeu mérite d'être vu, participer a des conventions peut vous aider a améliorer votre visibilité
-  LABEL_STUDIO_CUSTOMIZE: >-
+  LABEL_STUDIO_CUSTOMIZE: |
     Les murs ternes de votre studio vous sappent le moral? Il est temps de les changer
-  LABEL_FURNITURES_SERVERS_BUY: >-
+  LABEL_FURNITURES_SERVERS_BUY: |
     Plus de bureau, plus de chaise, plus d'ordinateur, plus de tableau blanc, plus plus plus!
-  LABEL_GAME_ONLINE: >-
+  LABEL_GAME_ONLINE: |
     Comment garder vos joueurs rivés à leurs écrans... INTERNET, faites des jeux en ligne et vous verrez ils ne décrocheront plus!
-  LABEL_DIGITAL_STORE: >-
+  LABEL_DIGITAL_STORE: |
     Dématérialisé, vous commencez à entendre parler de ce nouveau terme et déjà vous savez que c'est l'avenir.
-  LABEL_POSTMORTEM_FEATURE: >-
+  LABEL_POSTMORTEM_FEATURE: |
     Félicitations vous avez réalisé votre premier jeu.
     Vous pouvez maintenant faire un post-mortem, cela vous aidera à jauger le développement, le design et le polissage
-  LABEL_NEW_GAME_FEATURE: >-
+  LABEL_NEW_GAME_FEATURE: |
     Prêt a revivre l'épopée des jeux vidéo depuis son commencement? Bienvenue dans City Game Studio.
     Lancez-vous et créez votre premier jeu
   LABEL_LOADING: Chargement
@@ -531,16 +531,16 @@ fr:
   PLACEHOLDER_PLAYER_NAME: Votre nom
 
   # Tooltips
-  TOOLTIP_POSTMORTEM: >-
+  TOOLTIP_POSTMORTEM: |
     Faire un post-mortem
     Un post-mortem vous permet de mieux
     jauger les jeux que vous voulez créer
   TOOLTIP_CREATE_GAME: Créer un nouveau jeu
   TOOLTIP_STAFF: Consulter la liste de vos employés
-  TOOLTIP_RECRUIT: >-
+  TOOLTIP_RECRUIT: |
     Lister les candidats potentiels
     disponibles sur le marché
-  TOOLTIP_PORTFOLIO: >-
+  TOOLTIP_PORTFOLIO: |
     Lister la liste des jeux que
     vous avez publié depuis la
     création de votre studio
@@ -548,7 +548,7 @@ fr:
   TOOLTIP_EXIT: Retourner sur Linux
   TOOLTIP_STUDIOS: Lister vos studios
   TOOLTIP_STUDIOLIST: Lister les bureaux disponibles sur le marché
-  TOOLTIP_CONSTRUCT: >-
+  TOOLTIP_CONSTRUCT: |
     Construire un batiment pour en faire un
     studio ou encore une
     salle de conférence
@@ -556,7 +556,7 @@ fr:
   TOOLTIP_MARKETING: Organiser des campagnes publicitaires
   TOOLTIP_SELL: Vendre votre studio
   TOOLTIP_SHOP: Acheter des meubles et autres fournitures
-  TOOLTIP_BUILDMOD: >-
+  TOOLTIP_BUILDMOD: |
     Refaire la peinture,
     les sols et embelir votre studio
   TOOLTIP_ASSIGN: Assigner vos employés à un bureau

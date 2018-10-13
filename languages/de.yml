@@ -203,18 +203,18 @@ de:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Schwer
   LABEL_DIFFICULTY_INSANE: Wahnsinnig
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: >-
-    "%s hat eine neue Plattform veröffentlicht:
-    '%s'"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >-
-    "%s ziehen das so bekannte '%s' zurück,
-    die Fans weinen"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >-
-    "%s wird innerhalb weniger Monate
-    eine neue Plattform veröffentlichen, %s 'sollte es jahrelang halten"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >-
-    "%s kündigt das Ende des Lebens
-    des so bekannten '%s' an"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: |
+    %s hat eine neue Plattform veröffentlicht:
+      '%s'
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    %s ziehen das so bekannte '%s' zurück,
+    die Fans weinen
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+    %s wird innerhalb weniger Monate
+    eine neue Plattform veröffentlichen, %s 'sollte es jahrelang halten
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    %s kündigt das Ende des Lebens
+    des so bekannten '%s' an
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: Du hast die Lizenz für %s freigeschaltet, kostet %s$
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
@@ -339,56 +339,56 @@ de:
   LABEL_CATALOG_SIZE: Kataloggröße
   LABEL_PLATFORM_LIST: Plattformliste
   LABEL_IDLE: Leerlauf
-  LABEL_ADOPT_CAT_DESCRIPTION: >-
+  LABEL_ADOPT_CAT_DESCRIPTION: |
     Die Mitarbeiter von %s Studio haben eine streunende
     Katze gefunden, die hinter Müll versteckt ist. Diese Katze ist sehr kuschelig
     und das Personal hat ihr schon einen Namen gegeben. Was willst du tun?
   LABEL_ADOPT_CAT_TITLE: Streunende Katze
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
     Bei Blue Studio haben zwei Brüder gerade
     ein neues Spiel veröffentlicht. Es verändert das Spiel und ein neuer Spieltyp
     ist entstanden. Das Geheimnisvolle
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like wurde erfunden
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >-
-    "DustStar hat gerade ein neues Spiel veröffentlicht,
-    das die Spieleindustrie revolutionierte. Es hat das HTA-Genre geschaffen"
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
+    DustStar hat gerade ein neues Spiel veröffentlicht,
+    das die Spieleindustrie revolutionierte. Es hat das HTA-Genre geschaffen
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like wurde erfunden
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >-
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
    3 Jungs in einer Garage haben ein frisches
     neues Spiel geschaffen. Es ist so berühmt, dass es ein neues Spielgenre, Crook,
     geschaffen hat
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like wurde erfunden
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
     3 Amerikaner Designer haben gerade einen Mod
     für ein berühmtes Spiel erstellt. Das Moba-Genre wurde geboren
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like wurde erfunden
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kaputte Kaffeemaschine
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >-
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
     Ihre Mitarbeiter von Studio%s sind kaffeeabhängig.
     Aber die Kaffeemaschine hat ihre letzte Tasse serviert... Was willst du machen?
-  LABEL_RABBIT_INVASION_DESCRIPTION: >-
+  LABEL_RABBIT_INVASION_DESCRIPTION: |
     Kaninchen, Kaninchen überall. Sie machen ein
     paar Geräusche ... sie laufen überall hin. Aber niemand bemerkt sie, und die Leute
     arbeiten weiter ...
   LABEL_RABBIT_INVASION_TITLE: Kaninchen Invasion
-  LABEL_TARGETTED_AUDIENCE_FEATURE: >-
-    "Experten haben herausgefunden, dass Spiele ein
+  LABEL_TARGETTED_AUDIENCE_FEATURE: |
+    Experten haben herausgefunden, dass Spiele ein
     bestimmtes Publikum ansprechen können. Sie haben ein Paper über 3 verschiedene
-    Zielgruppen veröffentlicht: jung, alle und reif"
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >-
+    Zielgruppen veröffentlicht: jung, alle und reif
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
     Ein neuer Virus wurde entfesselt. Es zielt nur
     auf die Videospiel-Unternehmen ab. Es scheint Odds, aber es verlangsamt Cursor
     und startet zufällig Computer neu. Dies wird sich sicherlich auf die Produktivität
     Ihrer Mitarbeiter auswirken. Nur %s wird angegriffen
   LABEL_VIRUS_UNLEASHED_TITLE: Virus entfesselt
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >-
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Ein für seine Spielebesprechungen
     berühmter Vlogger hat gerade ein neues Video veröffentlicht. Und dieses Mal hat
     er eines deiner Spiele überprüft  %s. Dies wird sich sicherlich auf die Verkäufe
     auswirken.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Freie Werbung
   LABEL_LOAN_TITLE: Last-Resort-Darlehen
-  LABEL_LOAN_DESCRIPTION: >-
+  LABEL_LOAN_DESCRIPTION: |
     Sie brauchen etwas zusätzliches Geld, wir können Ihnen helfen.
     Sie können sich mit einem Kredit von %s$ zurückerstatten. Unsere Zinssätze sind
     so niedrig wie nur %s%% und Sie haben %s Wochen zurückzuzahlen. Es ist wie ein
@@ -398,7 +398,7 @@ de:
   LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu Ende, Sie müssen %s$ bezahlen.
   LABEL_SELL_STUDIO_TITLE: Ein Studio verkaufen
   LABEL_SELL_STUDIO_DESCRIPTION: Sie verkaufen das Studio %s, möchten Sie fortfahren?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >-
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
     Da %s dein letztes Studio ist oder es an einem
     Projekt arbeitet, kannst du es nicht verkaufen
   LABEL_BUILDING_AREA: Fläche %s m²
@@ -470,61 +470,61 @@ de:
   LABEL_SKILLS_AVERAGE: Fähigkeiten (Durchschnitt)
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Randloses Fenster
-  LABEL_GAMEEDITION_SUBMIT: >-
+  LABEL_GAMEEDITION_SUBMIT: |
     Du hast viele Fans. Sie sind gut genug bekannt, um Spiele
     zu bearbeiten.
-  LABEL_GAMEEDITION_RECEIVE: >-
+  LABEL_GAMEEDITION_RECEIVE: |
     Nach Ihrem kürzlichen Erfolg werden sich Publisher umgehend
     mit Ihnen in Verbindung setzen, um Ihnen Angebote zu unterbreiten.
-  LABEL_WORLDMAP: >-
+  LABEL_WORLDMAP: |
     Nach Ihrem kürzlichen Erfolg werden sich Publisher umgehend mit
     Ihnen in Verbindung setzen, um Ihnen Angebote zu unterbreiten....
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >-
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
     Die ersten Videospielzeitschriften erscheinen,
     willst du eines deiner Spiele darin bewerben?
-  LABEL_MARKETING_CAMPAIGN_TV: >-
+  LABEL_MARKETING_CAMPAIGN_TV: |
     Es ist Zeit, Ihre Spiele über Fernsehwerbung bekannt
     zu machen.
-  LABEL_MARKETING_CAMPAIGN_INTERNET: >-
+  LABEL_MARKETING_CAMPAIGN_INTERNET: |
     Die Internet-Ära beginnt, Sie können Millionen
     von Menschen mit einer einfachen Bannerwerbung erreichen.
-  LABEL_CONCURRENT_STUDIOS_LIST: >-
+  LABEL_CONCURRENT_STUDIOS_LIST: |
     Ihr Studio wächst, es ist Zeit, den Markt zu studieren
     und einen Blick auf den Wettbewerb zu werfen.
-  LABEL_CONCURRENT_STUDIOS_BUY: >-
+  LABEL_CONCURRENT_STUDIOS_BUY: |
     Sie rollen im Teig, vielleicht ist es Zeit, konkurrierende
     Studios zu kaufen?
   LABEL_FURNITURES_COMMON_BUY: Zeit, jetzt eine stilvolle Büroumgestaltung zu haben.
-  LABEL_EMPLOYEES_HIRE: >-
+  LABEL_EMPLOYEES_HIRE: |
     Dein Studio wächst, produziert mehr Spiele, verbessert seine
     Qualität. Aber zuerst müssen Sie rekrutieren.
-  LABEL_STUDIO_RENT: >-
+  LABEL_STUDIO_RENT: |
     Du fühlst dich jetzt in deinem kleinen Studio eingekeilt und
     gehst deinen nächsten Ort.
   LABEL_STUDIO_BUILD: Ihr Erfolg ermöglicht es Ihnen, Ihre eigenen Studios zu bauen.
-  LABEL_CONVENTION_ORGANIZE: >-
+  LABEL_CONVENTION_ORGANIZE: |
     Mit einer Million von Menschen, die Sie unterstützen,
     können Sie jetzt Ihre eigenen Konventionen organisieren.
-  LABEL_CONVENTION_PARTICIPATE: >-
+  LABEL_CONVENTION_PARTICIPATE: |
     Ihr Spielekatalog ist es wert, gesehen zu werden,
     Teilnahme an Konventionen kann Ihnen helfen, Ihre Sichtbarkeit zu verbessern.
-  LABEL_STUDIO_CUSTOMIZE: >-
+  LABEL_STUDIO_CUSTOMIZE: |
     Ihre stumpfen Wände beeinträchtigen Ihre Produktivität?
     Zeit, es neu zu gestalten.
-  LABEL_FURNITURES_SERVERS_BUY: >-
+  LABEL_FURNITURES_SERVERS_BUY: |
     Mehr Schreibtisch, mehr Stuhl, mehr Computer, mehr
     Whiteboard, mehr mehr!
-  LABEL_GAME_ONLINE:  >-
-    "Wie halten Sie Ihre Spieler auf dem Bildschirm fest? Das INTERNET:
-    Machen Sie Online-Spiele und sie werden süchtig!"
-  LABEL_DIGITAL_STORE: >-
-    "Entmaterialisiert: Sie fangen an, davon zu hören und Sie wissen
-    bereits, dass es die Zukunft ist."
-  LABEL_POSTMORTEM_FEATURE: >-
+  LABEL_GAME_ONLINE:  |
+    Wie halten Sie Ihre Spieler auf dem Bildschirm fest? Das INTERNET:
+    Machen Sie Online-Spiele und sie werden süchtig!
+  LABEL_DIGITAL_STORE: |
+    Entmaterialisiert: Sie fangen an, davon zu hören und Sie wissen
+    bereits, dass es die Zukunft ist.
+  LABEL_POSTMORTEM_FEATURE: |
     Herzlichen Glückwunsch, Sie haben Ihr erstes Spiel gemacht.
     Sie können nun zu einer Obduktion übergehen, um Ihnen bei der Bewertung seiner
     Entwicklung, seines Designs und seines Aussehens zu helfen
-  LABEL_NEW_GAME_FEATURE: >-
+  LABEL_NEW_GAME_FEATURE: |
     Bereit, die epische Geschichte der Videospiele von Anfang
     an zu erleben? Willkommen im City Game Studio. Fangen Sie an und erstellen Sie Ihr
     erstes Spiel.
@@ -532,24 +532,24 @@ de:
   LABEL_NAME: Name
   LABEL_SALARY: Gehalt
   LABEL_NO_SCORE: Noch keine Punktzahl hochgeladen!
-  LABEL_CAPACITY_STORY_FEATURE: >-
+  LABEL_CAPACITY_STORY_FEATURE: |
     Ein gutes Spiel ist immer gut, eine gute Geschichte
     ist immer gut. Was ist mit einem guten Spiel mit einer guten Geschichte?
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >-
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
     Was ist der Zweck dieser Schaltfläche? Sie
     müssen die Benutzeroberfläche Ihrer Spiele verwalten
-  LABEL_CAPACITY_NETWORK_FEATURE: >-
+  LABEL_CAPACITY_NETWORK_FEATURE: |
     Es ist Zeit, ein Videospiel zu spielen ist großartig,
     aber es mit Freunden zu spielen ist noch besser! Sie müssen das Netzwerk für Ihre
     Spiele verwalten
-  LABEL_CAPACITY_MODDING_FEATURE: >-
-    "Einige Ihrer Spiele wurden bereits von Spielern
+  LABEL_CAPACITY_MODDING_FEATURE: |
+    Einige Ihrer Spiele wurden bereits von Spielern
     modifiziert. Dadurch verkaufen Sie mehr Spiel. Es ist Zeit, diesen Hackern zu
-    helfen und an einer richtigen Mod API zu arbeiten: für Ihre Spiele"
-  LABEL_CAPACITY_CUTSCENES_FEATURE: >-
+    helfen und an einer richtigen Mod API zu arbeiten: für Ihre Spiele
+  LABEL_CAPACITY_CUTSCENES_FEATURE: |
     Filme beeinflussen Videospiele, wir müssen Zwischensequenzen
     verwalten, während wir ein neues Spiel erstellen
-  LABEL_CAPACITY_TUTORIEL_FEATURE: >-
+  LABEL_CAPACITY_TUTORIEL_FEATURE: |
     Ein neues Spiel zu spielen ist wie Lernen. Es ist
     nicht einfach, also haben Sie sich entschieden, ein Tutorial für Ihre neuen Spiele
     zu erstellen.
@@ -561,13 +561,13 @@ de:
   PLACEHOLDER_PLAYER_NAME: Dein Name
 
   # Tooltips
-  TOOLTIP_POSTMORTEM: >-
+  TOOLTIP_POSTMORTEM: |
     Erstellen Sie einen Post-Mortem-Bericht.
     Ein Postmortem-Bericht hilft dir,
     bessere Spiele zu erstellen
   TOOLTIP_CREATE_GAME: Erstelle ein neues Spiel
   TOOLTIP_STAFF: Mitarbeiterliste
-  TOOLTIP_RECRUIT: >-
+  TOOLTIP_RECRUIT: |
     Listen Sie potenzielle Kandidaten auf,
     die in der Stadt verfügbar sind
   TOOLTIP_PORTFOLIO: Listen Sie all das Spiel auf, das Sie bisher gemacht haben
@@ -575,7 +575,7 @@ de:
   TOOLTIP_EXIT: Zurück zu Linux
   TOOLTIP_STUDIOS: Listen Sie Ihre Studios auf
   TOOLTIP_STUDIOLIST: Listen Sie Büros in der Stadt auf
-  TOOLTIP_CONSTRUCT: >-
+  TOOLTIP_CONSTRUCT: |
     Baue ein neues Gebäude für ein
     Büro oder veranstalte eine Tagung
   TOOLTIP_CONFERENCE: Verwalten Sie Konventionen

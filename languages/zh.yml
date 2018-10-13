@@ -331,11 +331,11 @@ zh:
   LABEL_CATALOG_SIZE: 目录大小
   LABEL_PLATFORM_LIST: 平台清单
   LABEL_IDLE: 闲
-  LABEL_ADOPT_CAT_DESCRIPTION: >-
-    "%s 工作室的工作人员发现一只隐藏在垃圾后面的流浪猫。 这只猫非常可爱，工作人员已经给它起了个名字。
-    你想干什么？"
+  LABEL_ADOPT_CAT_DESCRIPTION: |
+    %s 工作室的工作人员发现一只隐藏在垃圾后面的流浪猫。 这只猫非常可爱，工作人员已经给它起了个名字。
+    你想干什么？
   LABEL_ADOPT_CAT_TITLE: 流浪猫
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
     在Blue Studio，两兄弟刚刚发布了一款新游戏。 它改变了游戏规则，并出现了一种新的游戏类型。
     神秘般的
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: 已经发明了类似神秘的东西
@@ -350,16 +350,16 @@ zh:
   LABEL_RABBIT_INVASION_DESCRIPTION: 兔子，兔子到处都是。 他们发出一些声音......他们到处跑。 但没有人注意到他们，人们继续工作......
   LABEL_RABBIT_INVASION_TITLE: 兔子入侵
   LABEL_TARGETTED_AUDIENCE_FEATURE: "专家们发现游戏可以针对特定的受众。他们发表了一篇关于3个不同受众群体的论文：年轻人，每个人都成熟了"
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >-
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
     一种新病毒已被释放。 它只针对视频游戏公司。 这看起来很可能，但它会减慢游标速度并随机重新启动计算机。
     这肯定会对员工的工作效率产生影响。 只有 %s 受到攻击
   LABEL_VIRUS_UNLEASHED_TITLE: 病毒释放出来
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >-
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     以游戏评论闻名的vlogger刚刚发布了一个新视频。
     而这一次，他回顾了你的一个游戏 %s。 这肯定会对销售产生影响。
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 免费广告
   LABEL_LOAN_TITLE: 最后贷款
-  LABEL_LOAN_DESCRIPTION: >-
+  LABEL_LOAN_DESCRIPTION: |
     你需要一些额外的钱，我们可以帮助你。 您可以使用 %s $贷款退款。 我们的利率只有 %s%%，您还有 %s 周要偿还。
     对于像你这样的公司来说，它就像一生。 我们是你的最后选择，让自己受到诱惑。
   LABEL_PAYLOAN_TITLE: 偿还贷款
@@ -463,9 +463,9 @@ zh:
   LABEL_CAPACITY_STORY_FEATURE: 好游戏总是好的，好的故事总是好的。 一个好故事的好游戏怎么样？
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: 那个按钮的目的是什么？ 您需要管理游戏的用户界面
   LABEL_CAPACITY_NETWORK_FEATURE: 现在是时候，玩视频游戏真棒，但与朋友一起玩甚至更好！ 您需要管理游戏的网络
-  LABEL_CAPACITY_MODDING_FEATURE: >-
-    "你的一些游戏已被玩家修改过了。多亏了这一点，你就卖出了更多的游戏。现在是时候帮助那些黑客了，并为你的游戏开发一个合适的mod
-    API"
+  LABEL_CAPACITY_MODDING_FEATURE: |
+    你的一些游戏已被玩家修改过了。多亏了这一点，你就卖出了更多的游戏。现在是时候帮助那些黑客了，并为你的游戏开发一个合适的mod
+    API
   LABEL_CAPACITY_CUTSCENES_FEATURE: 电影正在影响视频游戏，我们需要在创建新游戏时管理过场动画
   LABEL_CAPACITY_TUTORIEL_FEATURE: 玩新游戏就像学习一样。 这并不容易，所以你决定为你的新游戏创建一个教程。
 
@@ -476,7 +476,7 @@ zh:
   PLACEHOLDER_PLAYER_NAME: 你的名字
 
   # Tooltips
-  TOOLTIP_POSTMORTEM: >-
+  TOOLTIP_POSTMORTEM: |
     创建事后报告。
     事后报告可帮助您创建更好的游戏
   TOOLTIP_CREATE_GAME: 制作一款新游戏

@@ -27,5 +27,9 @@ const result = files.reduce((acc, filename) => {
   id: []
 })
 
-console.log(result)
+console.log(Object.keys(result).reduce((acc, key) => {
+  let value = result[key]
 
+  return `${acc}
+${key},"${value.join('", "')}"`
+}, ''))

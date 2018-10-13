@@ -42,7 +42,7 @@ LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s has released a new platform: '%s'"
 To print a single `%` we need to double it: `%%`.
 
 ```yaml
-LABEL_LOAN_DESCRIPTION: >
+LABEL_LOAN_DESCRIPTION: |
     You need some extra money, we can help you. You can refund yourself with a loan of %s$.
     Our interests rates are as low as only %s%%, and you have %s weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
