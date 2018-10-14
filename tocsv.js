@@ -30,6 +30,6 @@ const result = files.reduce((acc, filename) => {
 console.log(Object.keys(result).reduce((acc, key) => {
   let value = result[key]
 
-  return `${acc}
-${key},"${value.join('", "')}"`
+  return `${acc}${key},"${value.join('","')}"
+`
 }, ''))
