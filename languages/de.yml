@@ -19,12 +19,12 @@ de:
   BUTTON_RESET: Zurücksetzen
   BUTTON_SKIP: Überspringen
   BUTTON_START: Start
-  BUTTON_NEED_STUDIO: Kein verfügbares Studio
+  BUTTON_NEED_STUDIO: Keine verfügbaren Studios
   BUTTON_CLEAR_EVENTS: Leeren
   BUTTON_TOO_BAD: Schade
   BUTTON_BUY_ANOTHER_ONE: Nochmal kaufen
   BUTTON_ADOPT: Adoptieren
-  BUTTON_ABANDON: Stehen lassen
+  BUTTON_ABANDON: Aussetzen
   BUTTON_ASSIGN_EMPLOYEE: Zuweisen
   BUTTON_KEEP_PLAYING: Weiter spielen
   BUTTON_LEADERBOARD: Bestenliste
@@ -44,7 +44,7 @@ de:
   LABEL_TYPE_BUILDING: Typ
   LABEL_CHARACTERS: Charaktere
   LABEL_COMPANY_NAME: Name der Firma
-  LABEL_CUTSCENES: Cutscenes
+  LABEL_CUTSCENES: Zwischensequenzen
   LABEL_CURRENCY: Währung
   LABEL_DESIGN: Design
   LABEL_DEVELOPMENT: Entwicklung
@@ -59,13 +59,13 @@ de:
   LABEL_GAME_SIZE: Größe
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Grafikeinstellungen
-  LABEL_GRAPHISM: Graphismus
+  LABEL_GRAPHISM: Grafische Gestaltungselemente
   LABEL_INCOME: Einkommen
   LABEL_INVALID_SAVE: Beschädigter Speicherstand
   LABEL_KICKOFF: Loslegen
   LABEL_LOAD_GAME: Spiel laden
   LABEL_MAP_SIZE: Kartengröße
-  LABEL_MARKETING_MATERIAL: Werbematerial
+  LABEL_MARKETING_MATERIAL: Marketing
   LABEL_MUSIC: Musik
   LABEL_NETWORK: Netzwerk
   LABEL_GRADE: Note
@@ -77,11 +77,11 @@ de:
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
   LABEL_PROFITS: Profite
-  LABEL_POLISH: Perfektionieren
+  LABEL_POLISH: Perfektionierung
   LABEL_PRICE: Preis
   LABEL_RELEASE: Veröffentlichung
   LABEL_RESOLUTION: Auflösung
-  LABEL_SCRIPTING: Skripting
+  LABEL_SCRIPTING: Programmierung
   LABEL_SOUND: Sound
   LABEL_SOUND_SETTINGS: Soundeinstellungen
   LABEL_SOUNDFX: Sound FX
@@ -182,7 +182,7 @@ de:
   LABEL_TYPE_ARTILLERY: Artillerie
   LABEL_TYPE_CASUAL: Gelegenheitsspiel
   LABEL_TYPE_BREAKOUT: Ausbrechen
-  LABEL_TYPE_RYTHM: Rythmus
+  LABEL_TYPE_RYTHM: Rhyth­mus
   LABEL_TYPE_CLICKER_GAME: Clicker-Spiel
   LABEL_TARGETTED_AUDIENCE_YOUNG: Jung
   LABEL_TARGETTED_AUDIENCE_ALL: Alle
@@ -212,10 +212,10 @@ de:
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Bevorstehende Plattform bis zum Ende der Lebensdauer
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Kommende nicht-fortgeführte Plattform
   LABEL_PLATFORM_UNLOCKED_TITLE: Plattform gekauft
   LABEL_CLICK_TO_CLOSE: Klicken um zu Schließen
-  LABEL_SHOP_UI: Geschäft
+  LABEL_SHOP_UI: Shop
   LABEL_DESK: Schreibtisch
   LABEL_BOOKSHELF: Regal
   LABEL_WASTEBASKET: Papierkorb
@@ -224,7 +224,7 @@ de:
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Illustrationen
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: 'Dank deiner aktuellen Erfahrung hast du ein neues Genre freigeschaltet: ''%s'''
-  LABEL_UNLOCK_GAME_TYPE_TITLE: 'Thema entsperrt: %s'
+  LABEL_UNLOCK_GAME_TYPE_TITLE: 'Genre freigeschaltet: %s'
   LABEL_MAGAZINE_0: Fan Game
   LABEL_MAGAZINE_1: PC Player
   LABEL_MAGAZINE_2: Game Geek
@@ -243,7 +243,7 @@ de:
   LABEL_INPUT_ACTION_UI_ROTATE: um den Gegenstand zu drehen
   LABEL_INPUT_ACTION_UI_DELETE: um den Gegenstand zu verkaufen
   LABEL_INPUT_ACTION_UI_PAUSE: um das Spiel zu pausieren
-  LABEL_INPUT_ACTION_UI_CANCEL: um Abzubrechen
+  LABEL_INPUT_ACTION_UI_CANCEL: um abzubrechen
   LABEL_INPUT_ACTION_UI_REPEAT: um mehrere Gegenstände zu platzieren
   LABEL_CATCHPHRASE_1_0: Zeitverschwendung
   LABEL_CATCHPHRASE_1_1: Sie legen alles in den Anhänger
@@ -255,16 +255,16 @@ de:
   LABEL_CATCHPHRASE_2_1: Hat schon jemand mittelmäßig erwähnt?
   LABEL_CATCHPHRASE_2_2: Hat schon jemand schlecht erwähnt?
   LABEL_CATCHPHRASE_2_3: Eine enttäuschende Erfahrung
-  LABEL_CATCHPHRASE_2_4: 'Ein Wort: leer'
+  LABEL_CATCHPHRASE_2_4: 'Ein Wort: inhaltslos'
   LABEL_CATCHPHRASE_2_5: Es hätte abgebrochen werden sollen
   LABEL_CATCHPHRASE_3_0: Auf direktem Weg in die Katastrophe
   LABEL_CATCHPHRASE_3_1: 'Eine Enttäuschung, die ihren Ambitionen entspricht'
   LABEL_CATCHPHRASE_3_2: 'Sie haben alles hineingelegt, aber sie hatten nicht viel'
   LABEL_CATCHPHRASE_3_3: Wenn sie bloß ein Spiel gemacht hätten
   LABEL_CATCHPHRASE_3_4: Eine peinliche Erfahrung
-  LABEL_CATCHPHRASE_3_5: 'Wir haben schon Schlimmeres gesehen, aber wir sahen vor allem besseres!'
+  LABEL_CATCHPHRASE_3_5: 'Wir haben schon schlimmeres gesehen, aber wir sahen vor allem besseres!'
   LABEL_CATCHPHRASE_4_0: Zu peinlich für einige gute Ideen
-  LABEL_CATCHPHRASE_4_1: Ein Spiel. dass nicht so wichtig ist
+  LABEL_CATCHPHRASE_4_1: 'Ein Spiel, dass nicht so wichtig ist'
   LABEL_CATCHPHRASE_4_2: Eine schlechte Idee
   LABEL_CATCHPHRASE_4_3: 'Das Spiel, das innovativ sein wollte ...'
   LABEL_CATCHPHRASE_4_4: Bei einem Missverständnis könnten wir es wieder spielen
@@ -272,7 +272,7 @@ de:
   LABEL_CATCHPHRASE_5_0: Der Mindestservice
   LABEL_CATCHPHRASE_5_1: Ein geschmackloser Schmelztiegel
   LABEL_CATCHPHRASE_5_2: Ein sehr gemischter Bericht
-  LABEL_CATCHPHRASE_5_3: 'Wir haben schon Besseres gesehen, aber wir sahen vor allem schlechteres!'
+  LABEL_CATCHPHRASE_5_3: 'Wir haben schon besseres gesehen, aber wir sahen vor allem schlechteres!'
   LABEL_CATCHPHRASE_5_4: 'Sicher, es ist nicht das Spiel des Jahres'
   LABEL_CATCHPHRASE_5_5: Ein Hohlraum mit einer begrenzten Lebensdauer
   LABEL_CATCHPHRASE_6_0: Gewürzlos
@@ -361,7 +361,7 @@ de:
     Reste vom Boden...
   LABEL_RABBIT_INVASION_DESCRIPTION: >-
     Hasen, überall Hasen. Sie machen ein paar Geräusche, laufen überall hin.
-    Aber niemand bemerkt sie, und die Leute arbeiten weiter...
+    Aber niemand bemerkt sie und die Leute arbeiten weiter...
   LABEL_RABBIT_INVASION_TITLE: Hasen Invasion
   LABEL_TARGETTED_AUDIENCE_FEATURE: >-
     Experten haben herausgefunden, dass Spiele ein bestimmtes Publikum
@@ -371,7 +371,7 @@ de:
     Ein neuer Computer-Virus wurde entfesselt. Es greift nur die
     Videospiel-Unternehmen an. Klingt blöd, aber es verlangsamt den Cursor und
     startet zufällig den Computer neu. Dies wird sich sicherlich auf die
-    Produktivität Ihrer Mitarbeiter auswirken! Nur %s wird angegriffen.
+    Produktivität deiner Mitarbeiter auswirken! Nur %s wird angegriffen.
   LABEL_VIRUS_UNLEASHED_TITLE: Virus entfesselt
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >-
     Ein Vlogger, bekannt für seine Spiele-Reviews, hat gerade ein neues Video
