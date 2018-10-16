@@ -1,4 +1,5 @@
 de:
+  # Buttons actions verbs
   BUTTON_NEW_GAME: Neues Spiel
   BUTTON_HIRE: Einstellen
   BUTTON_APPLY: Übernehmen
@@ -37,6 +38,8 @@ de:
   BUTTON_RENT: Mieten
   BUTTON_CONFIRM: Bestätigen
   DROPDOWN_LANGUAGE: Sprache
+
+  # Labels, descriptive
   LABEL_AI: Künstliche Intelligenz
   LABEL_ANIMATION: Animation
   LABEL_ANISOTROPIC_FILTER: Anisotropischer Filter
@@ -72,7 +75,7 @@ de:
   LABEL_OPTIMIZATION: Optimierung
   LABEL_OUTCOME: Ergebnis
   LABEL_PHYSICS: Physik
-  LABEL_GAME_FINISHED: 'Herzlichen Glückwunsch, du hast City Game Studio abgeschlossen'
+  LABEL_GAME_FINISHED: Herzlichen Glückwunsch, du hast City Game Studio abgeschlossen
   LABEL_PLANNING: Planung
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
@@ -200,15 +203,11 @@ de:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Schwer
   LABEL_DIFFICULTY_INSANE: Höllisch
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: |
-    %s hat eine neue Plattform veröffentlicht:
-      '%s'
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: '%s ziehen das allseits bekannte ''%s'' zurück. Die Fans weinen!'
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >-
-    %s wird innerhalb weniger Monate eine neue Plattform veröffentlichen: '%s'.
-    Es soll jahrelang halten!
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: '%s kündigt das Ende des allseits bekannten ''%s'' an'
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: 'Du hast die Lizenz für %s freigeschaltet, es kostet %s$'
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s hat eine neue Plattform veröffentlicht: '%s'"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s ziehen das allseits bekannte '%s' zurück. Die Fans weinen!"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "%s wird innerhalb weniger Monate eine neue Plattform veröffentlichen: '%s'. Es soll jahrelang halten!"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s kündigt das Ende des allseits bekannten '%s' an"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für %s freigeschaltet, es kostet %s$"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
@@ -223,8 +222,8 @@ de:
   LABEL_NEW_GAME: Neues Spiel
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Illustrationen
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: 'Dank deiner aktuellen Erfahrung hast du ein neues Genre freigeschaltet: ''%s'''
-  LABEL_UNLOCK_GAME_TYPE_TITLE: 'Genre freigeschaltet: %s'
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Dank deiner aktuellen Erfahrung hast du ein neues Genre freigeschaltet: '%s'"
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Genre freigeschaltet: %s"
   LABEL_MAGAZINE_0: Fan Game
   LABEL_MAGAZINE_1: PC Player
   LABEL_MAGAZINE_2: Game Geek
@@ -237,7 +236,7 @@ de:
   LABEL_GAME_OVER: Game over
   LABEL_SCORE: Ergebnis
   LABEL_WAGE_INCREASES_TITLE: Der Lohn steigt
-  LABEL_WAGE_INCREASES_DESCRIPTION: 'Die folgenden Mitarbeiter hatten einen Lohnanstieg:'
+  LABEL_WAGE_INCREASES_DESCRIPTION: "Die folgenden Mitarbeiter hatten einen Lohnanstieg:"
   LABEL_PRESS_KEY: Drücke
   LABEL_WORD_OR: oder
   LABEL_INPUT_ACTION_UI_ROTATE: um den Gegenstand zu drehen
@@ -255,42 +254,42 @@ de:
   LABEL_CATCHPHRASE_2_1: Hat schon jemand mittelmäßig erwähnt?
   LABEL_CATCHPHRASE_2_2: Hat schon jemand schlecht erwähnt?
   LABEL_CATCHPHRASE_2_3: Eine enttäuschende Erfahrung
-  LABEL_CATCHPHRASE_2_4: 'Ein Wort: inhaltslos'
+  LABEL_CATCHPHRASE_2_4: "Ein Wort: inhaltslos"
   LABEL_CATCHPHRASE_2_5: Es hätte abgebrochen werden sollen
   LABEL_CATCHPHRASE_3_0: Auf direktem Weg in die Katastrophe
-  LABEL_CATCHPHRASE_3_1: 'Eine Enttäuschung, die ihren Ambitionen entspricht'
-  LABEL_CATCHPHRASE_3_2: 'Sie haben alles hineingelegt, aber sie hatten nicht viel'
+  LABEL_CATCHPHRASE_3_1: Eine Enttäuschung, die ihren Ambitionen entspricht
+  LABEL_CATCHPHRASE_3_2: Sie haben alles hineingelegt, aber sie hatten nicht viel
   LABEL_CATCHPHRASE_3_3: Wenn sie bloß ein Spiel gemacht hätten
   LABEL_CATCHPHRASE_3_4: Eine peinliche Erfahrung
-  LABEL_CATCHPHRASE_3_5: 'Wir haben schon schlimmeres gesehen, aber wir sahen vor allem besseres!'
+  LABEL_CATCHPHRASE_3_5: Wir haben schon schlimmeres gesehen, aber wir sahen vor allem besseres!
   LABEL_CATCHPHRASE_4_0: Zu peinlich für einige gute Ideen
-  LABEL_CATCHPHRASE_4_1: 'Ein Spiel, dass nicht so wichtig ist'
+  LABEL_CATCHPHRASE_4_1: Ein Spiel, dass nicht so wichtig ist
   LABEL_CATCHPHRASE_4_2: Eine schlechte Idee
-  LABEL_CATCHPHRASE_4_3: 'Das Spiel, das innovativ sein wollte ...'
+  LABEL_CATCHPHRASE_4_3: Das Spiel, das innovativ sein wollte...
   LABEL_CATCHPHRASE_4_4: Bei einem Missverständnis könnten wir es wieder spielen
   LABEL_CATCHPHRASE_4_5: Der beste Moment? Wenn es aufhört
   LABEL_CATCHPHRASE_5_0: Der Mindestservice
   LABEL_CATCHPHRASE_5_1: Ein geschmackloser Schmelztiegel
   LABEL_CATCHPHRASE_5_2: Ein sehr gemischter Bericht
-  LABEL_CATCHPHRASE_5_3: 'Wir haben schon besseres gesehen, aber wir sahen vor allem schlechteres!'
-  LABEL_CATCHPHRASE_5_4: 'Sicher, es ist nicht das Spiel des Jahres'
+  LABEL_CATCHPHRASE_5_3: Wir haben schon besseres gesehen, aber wir sahen vor allem schlechteres!
+  LABEL_CATCHPHRASE_5_4: Klar, es ist nicht das Spiel des Jahres, aber...
   LABEL_CATCHPHRASE_5_5: Ein Hohlraum mit einer begrenzten Lebensdauer
   LABEL_CATCHPHRASE_6_0: Gewürzlos
-  LABEL_CATCHPHRASE_6_1: 'Ein simples, aber überflüssiges Spiel'
-  LABEL_CATCHPHRASE_6_2: 'Bescheiden, aber interessant'
-  LABEL_CATCHPHRASE_6_3: 'Spaß, aber flach'
-  LABEL_CATCHPHRASE_6_4: 'Ein interessantes Konzept, das durch Zufälligkeiten verdorben wird'
+  LABEL_CATCHPHRASE_6_1: Ein simples, aber überflüssiges Spiel
+  LABEL_CATCHPHRASE_6_2: Bescheiden, aber interessant
+  LABEL_CATCHPHRASE_6_3: Spaß, aber flach
+  LABEL_CATCHPHRASE_6_4: Ein interessantes Konzept, das durch Zufälligkeiten verdorben wird
   LABEL_CATCHPHRASE_6_5: Hatte ihre Momente
   LABEL_CATCHPHRASE_7_0: Nüchternheit und Effizienz
-  LABEL_CATCHPHRASE_7_1: 'Ein reichhaltiger Inhalt, geführt von einer mittelmäßigen Leistung'
-  LABEL_CATCHPHRASE_7_2: 'Super Ästhetik, fehlerhafte Mechanismen'
+  LABEL_CATCHPHRASE_7_1: Ein reichhaltiger Inhalt, geführt von einer mittelmäßigen Leistung
+  LABEL_CATCHPHRASE_7_2: Super Ästhetik, fehlerhafte Mechanismen
   LABEL_CATCHPHRASE_7_3: Ein ausgezeichnetes Konzept mit begrenztem Inhalt
   LABEL_CATCHPHRASE_7_4: Ein befriedigendes Medley?
   LABEL_CATCHPHRASE_7_5: Wir sind nicht weit von einem Juwel entfernt
   LABEL_CATCHPHRASE_8_0: Spaß pur
   LABEL_CATCHPHRASE_8_1: Eine frische Brise
   LABEL_CATCHPHRASE_8_2: Ein Muss für Partys mit Freunden
-  LABEL_CATCHPHRASE_8_3: 'Ein Diamant, der wahrlich Herzen trennt'
+  LABEL_CATCHPHRASE_8_3: Ein Diamant, der wahrlich die Herzen trennt
   LABEL_CATCHPHRASE_8_4: Eine verschleierte Schönheit
   LABEL_CATCHPHRASE_8_5: Angenehm und intensiv
   LABEL_CATCHPHRASE_9_0: Eines der besten Spiele des Jahres
@@ -303,29 +302,27 @@ de:
   LABEL_CATCHPHRASE_10_1: Ein Meisterwerk der Inszenierung
   LABEL_CATCHPHRASE_10_2: Ein Must-have
   LABEL_CATCHPHRASE_10_3: Eines der besten Spiele in letzter Zeit
-  LABEL_CATCHPHRASE_10_4: 'Stundenlanges Spiel, nur gute Momente'
+  LABEL_CATCHPHRASE_10_4: Stundenlanges Spiel, nur gute Momente
   LABEL_CATCHPHRASE_10_5: Dieses Spiel wird jeden in seinen Bann ziehen
   LABEL_CATCHPHRASE_11_0: Ein künstlerischer Schlag
   LABEL_CATCHPHRASE_11_1: Ein seltener Edelstein der Schönheit
   LABEL_CATCHPHRASE_11_2: Eine Hommage an Videospiele
-  LABEL_CATCHPHRASE_11_3: 'Ein Diamant, der das Ansehen von Videospielen wiederherstellt'
+  LABEL_CATCHPHRASE_11_3: Ein Diamant, der das Ansehen von Videospielen wiederherstellt
   LABEL_CATCHPHRASE_11_4: Wenn Perfektion ein Spiel war
   LABEL_CATCHPHRASE_11_5: Das zwanzigste Weltwunder
   LABEL_CREATE_SEQUEL: Eine Fortsetzung erstellen
   LABEL_NEW_IP: Neue IP
   LABEL_POSTMORTEM: Spiele-Bericht
-  LABEL_EMPTY_STUDIO: >-
-    Warnung: Dieses Studio enthält keinen einzigen Schreibtisch mit einem
-    Computer!
+  LABEL_EMPTY_STUDIO: "Warnung: Dieses Studio enthält keinen einzigen Schreibtisch mit einem Computer!"
   LABEL_MATCH_EXCELLENT: Ausgezeichnete Kombination
   LABEL_MATCH_GOOD: Gute Kombination
   LABEL_MATCH_OK: Mittelmäßige Kombination
   LABEL_MATCH_POOR: Schlechte Kombination
   LABEL_POSTMORTEM_TITLE: Spiele-Bericht
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Wir haben nichts neues von '%s' gelernt...
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: 'Das haben wir von ''%s'' gelernt: %s'
-  LABEL_POSTMORTEM_MATCH: '[ul] - Passende Kombination zwischen ''%s'' und ''%s'' ist ''%s''[/ul]'
-  LABEL_POSTMORTEM_CAPACITY: '[ul] - Um ''%s'' für das Genre ''%s'' zu verwalten [/ul]'
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von '%s' gelernt: %s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Passende Kombination zwischen '%s' und '%s' ist '%s'[/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- '%s' passt gut zum Genre '%s'[/ul]"
   LABEL_MARKET_SHARE: Marktanteil
   LABEL_LICENSE_COST: Lizenz
   LABEL_OWNED: Im Besitz
@@ -357,7 +354,7 @@ de:
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kaputte Kaffeemaschine
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >-
     Die Mitarbeiter vom Studio %s sind kaffeeabhängig, aber die Kaffeemaschine
-    hat ihren Geist aufgegeben... Was willst du tun? Manche kratzen schon die
+    hat ihren Geist aufgegeben! Was willst du tun? Manche kratzen schon die
     Reste vom Boden...
   LABEL_RABBIT_INVASION_DESCRIPTION: >-
     Hasen, überall Hasen. Sie machen ein paar Geräusche, laufen überall hin.
@@ -386,13 +383,13 @@ de:
     ganzes Leben für ein Unternehmen wie Ihres. Wir sind Ihre letzte Option,
     überzeugen Sie sich selbst.
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
-  LABEL_PAYLOAN_DESCRIPTION: 'Die geplante Rückzahlung ist nun zu fällig, du musst %s$ bezahlen.'
+  LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu fällig, du musst %s$ bezahlen.
   LABEL_SELL_STUDIO_TITLE: Ein Studio verkaufen
   LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Studio %s. Bist du dir sicher?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: >-
     Da %s dein letztes Studio ist oder es an einem Projekt arbeitet, kannst du
     es nicht verkaufen
-  LABEL_BUILDING_AREA: 'Fläche: %s m²'
+  LABEL_BUILDING_AREA: "Fläche: %s m²"
   LABEL_BUILDING_BUY: Preis
   LABEL_BUILDING_RENT: Mietpreis
   LABEL_BUILDING_TYPE: Gebäude
@@ -416,7 +413,7 @@ de:
   LABEL_TABLEPLANT: Tischpflanze
   LABEL_PRINTER: Drucker
   LABEL_COFFEEMACHINE: Kaffeemaschine
-  LABEL_DARKMETALTABLEDESK: 'Schreibtisch - Metall, Dunkel'
+  LABEL_DARKMETALTABLEDESK: Schreibtisch - Metall, Dunkel
   LABEL_METALDESK: Schreibtisch - Metall
   LABEL_METALLARGEDESK: Großer Schreibtisch - Metall
   LABEL_METALTABLEDESK: Schreibtisch - Metall
@@ -473,24 +470,24 @@ de:
   LABEL_MARKETING_CAMPAIGN_TV: 'Es wird Zeit, deine Spiele über Fernsehwerbung bekannt zu machen!'
   LABEL_MARKETING_CAMPAIGN_INTERNET: >-
     Die Internet-Ära beginnt! Nun kannst du Millionen von Menschen mit einer
-    einfachen nervigen Banner-Werbung erreichen!
+    einfachen nervigen Banner-Werbung erreichen! Wow!
   LABEL_CONCURRENT_STUDIOS_LIST: >-
     Dein Studio wächst. Es ist Zeit, den Markt zu studieren und einen Blick auf
     deine Konkurrenz zu werfen!
   LABEL_CONCURRENT_STUDIOS_BUY: >-
     Du badest bereits im Geld. Vielleicht ist es Zeit, konkurrierende Studios zu
-    kaufen?
-  LABEL_FURNITURES_COMMON_BUY: 'Es wird Zeit, eine stilvolle Büro-Umgestaltung zu machen.'
+    kaufen? *Böses Lachen*
+  LABEL_FURNITURES_COMMON_BUY: Es wird Zeit, eine stilvolle Büro-Umgestaltung zu machen.
   LABEL_EMPLOYEES_HIRE: >-
     Dein Studio wächst, produziert mehr und mehr Spiele und verbessert die
-    Qualität. Aber zuerst musst du Mitarbeiter suchen!
+    Qualität jedes mal. Aber zuerst musst du Mitarbeiter suchen!
   LABEL_STUDIO_RENT: >-
     Du fühlst dich mittlerweile in deinem kleinen Studio eingeengt. Zieh los zu
     deinem nächsten Ort!
-  LABEL_STUDIO_BUILD: 'Dein Erfolg ermöglicht es dir, deine eigenen Studios zu bauen.'
+  LABEL_STUDIO_BUILD: Dein Erfolg ermöglicht es dir, deine eigenen Studios zu bauen.
   LABEL_CONVENTION_ORGANIZE: >-
     Mit mehr als 1 Millionen Fans, die dich unterstützen, kannst du jetzt deine
-    eigenen Conventions organisieren!
+    eigenen Conventions organisieren! (Aber bitte nicht so wie Tanacon...)
   LABEL_CONVENTION_PARTICIPATE: >-
     Dein Spiele-Repertoire ist es wert, gesehen zu werden! Die Teilnahme an
     Conventions kann dir helfen, deine Bekanntheit zu steigern!
@@ -508,12 +505,12 @@ de:
     bereits, dass es die Zukunft sein wird.
   LABEL_POSTMORTEM_FEATURE: >-
     Herzlichen Glückwunsch, du hast dein erstes Spiel erstellt. Nun kannst du
-    einen Bericht erstellen, um bei der Bewertung seiner Entwicklungs-, Design-
-    und Perfektionswerte zu helfen
+    einen Bericht erstellen, um bei der Einschätzung der Entwicklungs-, Design-
+    und Perfektionspunkte zu helfen
   LABEL_NEW_GAME_FEATURE: >-
     Bereit, die epische Geschichte der Videospiel-Industrie von Anfang zu
     erleben? Willkommen in City Game Studio! Fang an und erstelle dein erstes
-    Spiel.
+    Spiel!
   LABEL_LOADING: Wird geladen
   LABEL_NAME: Name
   LABEL_SALARY: Gehalt
@@ -522,36 +519,40 @@ de:
     Ein gutes Spiel ist immer gut, eine gute Story ist immer gut. Was ist mit
     einer Mischung aus gutem Spiel und guter Story?
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: >-
-    "Was passiert wenn ich den großen roten Knopf drücke???". Du musst dich um
-    die Benutzeroberfläche deiner Spiele kümmern
+    "Was passiert, wenn ich den großen roten Knopf drücke???" - Du musst dich um
+    die Benutzeroberfläche deiner Spiele kümmern!
   LABEL_CAPACITY_NETWORK_FEATURE: >-
     Es wird Zeit! Ein Videospiel zu spielen ist großartig, aber es mit Freunden
-    zu spielen ist noch besser! Du solltest dich um Multiplayer-Server für deine
-    Spiele kümmern
+    zu spielen ist noch besser! (Wenn man Freunde hat...)
+    Du solltest dich um Multiplayer-Server für deine Spiele kümmern!
   LABEL_CAPACITY_MODDING_FEATURE: >-
     Einige deiner Spiele wurden bereits von Spielern modifiziert. Dadurch
-    verkaufst du mehr Spiele. Es ist Zeit, diesen Leuten zu helfen und an einer
+    verkaufst du mehr Spiele! Es ist Zeit, diesen Leuten zu helfen und an einer
     richtigen Modding API für deine Spiele zu arbeiten.
   LABEL_CAPACITY_CUTSCENES_FEATURE: >-
     Filme beeinflussen die Videospiele. Wir müssen uns also um Zwischensequenzen
     kümmern, während wir ein neues Spiel entwickeln
   LABEL_CAPACITY_TUTORIEL_FEATURE: >-
-    Um neues Spiel zu spielen muss man erst die Steuerung und Mechaniken kennen
+    Um neues Spiel spielen zu können, muss man erst die Steuerung und Mechaniken kennen
     lernen. Das ist nicht einfach, also hast du dich entschieden, ein Tutorial
     für deine neuen Spiele zu erstellen.
+
+  # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Name der Firma
   PLACEHOLDER_GAME_GENRE: Spielgenre
   PLACEHOLDER_GAME_NAME: Spielname
   PLACEHOLDER_PLAYER_NAME: Dein Name
+
+  # Tooltips
   TOOLTIP_POSTMORTEM: >-
     Erstelle einen Spiele-Bericht. Ein Spiele-Bericht hilft dir, aus deinen
     Spielen zu lernen und bessere Spiele zu erstellen
   TOOLTIP_CREATE_GAME: Erstelle ein neues Spiel
   TOOLTIP_STAFF: Mitarbeiterliste
-  TOOLTIP_RECRUIT: 'Liste potenzielle Kandidaten auf, die in der Stadt verfügbar sind'
-  TOOLTIP_PORTFOLIO: 'Liste all deine Spiele auf, die du bisher erstellt hast'
+  TOOLTIP_RECRUIT: Liste potenzielle Kandidaten auf, die in der Stadt verfügbar sind
+  TOOLTIP_PORTFOLIO: Liste all deine Spiele auf, die du bisher erstellt hast
   TOOLTIP_OPTION: Parameter und Optionen
-  TOOLTIP_EXIT: Zurück zu Linux
+  TOOLTIP_EXIT: Zurück zum Desktop
   TOOLTIP_STUDIOS: Liste deine Studios auf
   TOOLTIP_STUDIOLIST: Liste alle Studios in der Stadt auf
   TOOLTIP_CONSTRUCT: Baue ein neues Gebäude für ein Büro oder veranstalte eine Tagung
