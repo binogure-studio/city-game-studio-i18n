@@ -40,6 +40,8 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_GAME: Game
+  LABEL_GAMEPORT: Port a game
   LABEL_CONVENTION: Exhibition center
   LABEL_LAND_VALUE: Land value
   LABEL_SURFACE: Surface
@@ -404,6 +406,7 @@ en:
   LABEL_BUILDING_PIZZERIA: Pizzeria
   LABEL_BUILDING_GYM: Gym
   LABEL_BUILDING_OFFICE: Office
+  LABEL_NO_GAME_AVAILABLE: No game available
   LABEL_NO_MONEY: Too expensive
   LABEL_COMPUTER: Computer
   LABEL_PLANT: Plant
@@ -547,6 +550,7 @@ en:
   PLACEHOLDER_PLAYER_NAME: Your name
 
   # Tooltips
+  TOOLTIP_GAMEPORT: Port a video game onto another platform
   TOOLTIP_POSTMORTEM: |
     Create a postmortem report.
     A postmortem report help
