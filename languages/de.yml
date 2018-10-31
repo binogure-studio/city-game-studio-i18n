@@ -22,7 +22,7 @@ de:
   BUTTON_START: Start
   BUTTON_NEED_STUDIO: Keine verfügbaren Studios
   BUTTON_CLEAR_EVENTS: Leeren
-  BUTTON_TOO_BAD: Schade
+  BUTTON_TOO_BAD: Mist!
   BUTTON_BUY_ANOTHER_ONE: Nochmal kaufen
   BUTTON_ADOPT: Adoptieren
   BUTTON_ABANDON: Aussetzen
@@ -54,7 +54,7 @@ de:
   LABEL_CUTSCENES: Zwischensequenzen
   LABEL_CURRENCY: Währung
   LABEL_DESIGN: Design
-  LABEL_DEVELOPMENT: Entwicklung
+  LABEL_DEVELOPMENT: Technologie
   LABEL_DIFFICULTY: Schwierigkeit
   LABEL_EVENT_TYPE: Ereignistyp
   LABEL_UNIT_SOLD: Einheiten verkauft
@@ -65,8 +65,8 @@ de:
   LABEL_GAME_NAME: Name
   LABEL_GAME_SIZE: Größe
   LABEL_GAMEPLAY: Gameplay
-  LABEL_GRAPHIC_SETTINGS: Grafikeinstellungen
-  LABEL_GRAPHISM: Grafische Gestaltungselemente
+  LABEL_GRAPHIC_SETTINGS: Grafik
+  LABEL_GRAPHISM: Visuelle Aspekte
   LABEL_INCOME: Einkommen
   LABEL_INVALID_SAVE: Beschädigter Speicherstand
   LABEL_KICKOFF: Loslegen
@@ -84,13 +84,13 @@ de:
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
   LABEL_PROFITS: Profite
-  LABEL_POLISH: Perfektionierung
+  LABEL_POLISH: Perfektion
   LABEL_PRICE: Preis
   LABEL_RELEASE: Veröffentlichung
   LABEL_RESOLUTION: Auflösung
   LABEL_SCRIPTING: Programmierung
   LABEL_SOUND: Sound
-  LABEL_SOUND_SETTINGS: Soundeinstellungen
+  LABEL_SOUND_SETTINGS: Sound
   LABEL_SOUNDFX: Sound FX
   LABEL_SQUARE_FOOTAGE: Bereich
   LABEL_STAFF: Mitarbeiter
@@ -100,30 +100,30 @@ de:
   LABEL_THEME: Thema
   LABEL_TUTORIEL: Tutorial
   LABEL_USERINTERFACE: Benutzeroberfläche
-  LABEL_THEME_MOVIE_ADAPTATION: Filmadaption
+  LABEL_THEME_MOVIE_ADAPTATION: Film-Adaption
   LABEL_THEME_PREHISTORY: Urzeit
   LABEL_THEME_ARCHEOLOGY: Archäologie
-  LABEL_THEME_POSTAPOCALYPTIC: Post-apokalyptisch
+  LABEL_THEME_POSTAPOCALYPTIC: Post-Apokalyptisch
   LABEL_THEME_ATLANTIS: Atlantis
-  LABEL_THEME_RELIGIOUS: Religiös
+  LABEL_THEME_RELIGIOUS: Religion
   LABEL_THEME_ORGANIZED_CRIME: Organisiertes Verbrechen
   LABEL_THEME_CROSSOVER: Cross-over
   LABEL_THEME_DESERT: Wüste
   LABEL_THEME_COMEDY: Komödie
   LABEL_THEME_DRAGON: Drachen
-  LABEL_THEME_EROTIC: Erotisch
+  LABEL_THEME_EROTIC: Erotik
   LABEL_THEME_SPY: Spion
   LABEL_THEME_FANTASY: Fantasie
   LABEL_THEME_GHOST: Geist
   LABEL_THEME_HISTORY: Geschichte
   LABEL_THEME_HORROR: Grusel
-  LABEL_THEME_MEDICAL: Medizinisch
+  LABEL_THEME_MEDICAL: Medizin
   LABEL_THEME_OCEAN: Ozean
   LABEL_THEME_ARABIAN_NIGHTS: Arabische Nächte
   LABEL_THEME_MYTHOLOGY: Mythologie
   LABEL_THEME_NINJA: Ninja
   LABEL_THEME_PARK: Park
-  LABEL_THEME_PIRATES: Pirat
+  LABEL_THEME_PIRATES: Piraten
   LABEL_THEME_SCIENCE_FICTION: Science-Fiction
   LABEL_THEME_SUPER_HEROS: Superheld
   LABEL_THEME_VAMPIRE: Vampir
@@ -219,7 +219,7 @@ de:
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
     %s kündigt das Ende des allseits
     bekannten '%s' an
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für %s freigeschaltet, es kostet %s$"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für %s freigeschaltet, sie kostete dich %s$"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
@@ -336,7 +336,7 @@ de:
   LABEL_POSTMORTEM_MATCH: "[ul]- Passende Kombination zwischen '%s' und '%s' ist '%s'[/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul]- '%s' passt gut zum Genre '%s'[/ul]"
   LABEL_MARKET_SHARE: Marktanteil
-  LABEL_LICENSE_COST: Lizenz
+  LABEL_LICENSE_COST: Lizenzkosten
   LABEL_OWNED: Im Besitz
   LABEL_WEEK_COST: Entwicklungskosten
   LABEL_CATALOG_SIZE: Kataloggröße
@@ -369,8 +369,8 @@ de:
     hat ihren Geist aufgegeben! Was willst du tun? Manche kratzen schon die
     Reste vom Boden...
   LABEL_RABBIT_INVASION_DESCRIPTION: |
-    Hasen, überall Hasen. Sie machen ein paar Geräusche, laufen überall hin.
-    Aber niemand bemerkt sie und die Leute arbeiten weiter...
+    Hasen! Überall Hasen!!! Sie machen ein paar Geräusche, laufen überall hin und pinkeln auf den Boden!
+    Doch niemand bemerkt sie und die Leute arbeiten weiter...
   LABEL_RABBIT_INVASION_TITLE: Hasen Invasion
   LABEL_TARGETTED_AUDIENCE_FEATURE: |
     Experten haben herausgefunden, dass Spiele ein bestimmtes Publikum
@@ -452,7 +452,7 @@ de:
   LABEL_WORK: Status
   LABEL_NUMBER_OF_GAME_PRODUCED: Produzierte Spiele
   LABEL_DESIGN_POINT_PRODUCED: Anzahl der erstellten Designpunkte
-  LABEL_DEVELOPMENT_POINT_PRODUCED: Anzahl der produzierten Entwicklungspunkte
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Anzahl der produzierten Technologiepunkte
   LABEL_POLISH_POINT_PRODUCED: Anzahl der produzierten Perfektionspunkte
   LABEL_PRODUCTIVITY: Produktivität
   LABEL_MONEY_EFFICIENCY: Kosteneffizienz
@@ -518,13 +518,13 @@ de:
     bereits, dass es die Zukunft sein wird.
   LABEL_POSTMORTEM_FEATURE: |
     Herzlichen Glückwunsch, du hast dein erstes Spiel entwickelt. Nun kannst du
-    einen Bericht erstellen, um bei der Einschätzung der Entwicklungs-, Design-
+    einen Bericht erstellen, um bei der Einschätzung der Technologie-, Design-
     und Perfektionspunkte zu helfen
   LABEL_NEW_GAME_FEATURE: |
     Bereit, die epische Geschichte der Videospiel-Industrie von Anfang zu
     erleben? Willkommen in City Game Studio! Fang an und erstelle dein erstes
     Spiel!
-  LABEL_LOADING: Wird geladen
+  LABEL_LOADING: Wird geladen...
   LABEL_NAME: Name
   LABEL_SALARY: Gehalt
   LABEL_NO_SCORE: Noch keine Punktzahl hochgeladen!
@@ -580,7 +580,7 @@ de:
   TOOLTIP_STAFF: Mitarbeiterliste
   TOOLTIP_RECRUIT: Liste potenzielle Kandidaten auf, die in der Stadt verfügbar sind
   TOOLTIP_PORTFOLIO: Liste all deine Spiele auf, die du bisher erstellt hast
-  TOOLTIP_OPTION: Parameter und Optionen
+  TOOLTIP_OPTION: Einstellungen
   TOOLTIP_EXIT: Zurück zum Desktop
   TOOLTIP_STUDIOS: Liste deine Studios auf
   TOOLTIP_STUDIOLIST: Liste alle Studios in der Stadt auf
