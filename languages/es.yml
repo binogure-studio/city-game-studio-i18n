@@ -40,6 +40,8 @@ es:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_GAME: Juego
+  LABEL_GAMEPORT: Portar un juego
   LABEL_CONVENTION: Centro de exhibición
   LABEL_LAND_VALUE: Precio del terreno
   LABEL_SURFACE: Superficie
@@ -81,6 +83,8 @@ es:
   LABEL_PHYSICS: Física
   LABEL_GAME_FINISHED: Enhorabuena, has completado City Game Studio.
   LABEL_PLANNING: Planificación
+  LABEL_NO_PLATFORM_AVAILABLE: |
+    Juego ya portado a todas las plataformas disponibles
   LABEL_PLATFORM: Plataforma
   LABEL_PLAYER_NAME: Nombre del jugador
   LABEL_PROFITS: Beneficios
@@ -425,6 +429,7 @@ es:
   LABEL_BUILDING_PIZZERIA: Pizzería
   LABEL_BUILDING_GYM: Gimnasio
   LABEL_BUILDING_OFFICE: Oficina
+  LABEL_NO_GAME_AVAILABLE: No hay juego disponible
   LABEL_NO_MONEY: Muy caro
   LABEL_COMPUTER: Computadora
   LABEL_TABLEPLANT: Mesa
@@ -576,6 +581,7 @@ es:
   PLACEHOLDER_PLAYER_NAME: Tu nombre
 
   # Tooltips
+  TOOLTIP_GAMEPORT: Portar un videojuego a otra plataforma.
   TOOLTIP_POSTMORTEM: |
     Crear un informe postmortem.
     Un informe postmortem te ayuda

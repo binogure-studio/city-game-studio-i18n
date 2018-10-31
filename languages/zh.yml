@@ -40,6 +40,8 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_GAME: 游戏
+  LABEL_GAMEPORT: 移植游戏
   LABEL_CONVENTION: 展览中心
   LABEL_LAND_VALUE: 土地价值
   LABEL_SURFACE: 表面
@@ -81,6 +83,8 @@ zh:
   LABEL_PHYSICS: 物理
   LABEL_GAME_FINISHED: 恭喜你，你已经完成了City Game Studio
   LABEL_PLANNING: 规划
+  LABEL_NO_PLATFORM_AVAILABLE: |
+    游戏已经移植到每个可用的平台
   LABEL_PLATFORM: 平台
   LABEL_PLAYER_NAME: 选手姓名
   LABEL_PROFITS: 利润
@@ -390,6 +394,7 @@ zh:
   LABEL_BUILDING_PIZZERIA: 比萨店
   LABEL_BUILDING_GYM: 健身房
   LABEL_BUILDING_OFFICE: 办公室
+  LABEL_NO_GAME_AVAILABLE: 没有游戏可用
   LABEL_NO_MONEY: 太贵了
   LABEL_COMPUTER: 电脑
   LABEL_TABLEPLANT: 表
@@ -494,6 +499,7 @@ zh:
   PLACEHOLDER_PLAYER_NAME: 你的名字
 
   # Tooltips
+  TOOLTIP_GAMEPORT: 将视频游戏移植到另一个平台上
   TOOLTIP_POSTMORTEM: |
     创建事后报告。
     事后报告可帮助您创建更好的游戏

@@ -40,6 +40,8 @@ de:
   DROPDOWN_LANGUAGE: Sprache
 
   # Labels, description
+  LABEL_GAME: Spiel
+  LABEL_GAMEPORT: Ein Spiel portieren
   LABEL_CONVENTION: Ausstellungs Center
   LABEL_LAND_VALUE: Land Wert
   LABEL_SURFACE: Oberfläche
@@ -81,6 +83,8 @@ de:
   LABEL_PHYSICS: Physik
   LABEL_GAME_FINISHED: Herzlichen Glückwunsch, du hast City Game Studio abgeschlossen
   LABEL_PLANNING: Planung
+  LABEL_NO_PLATFORM_AVAILABLE: |
+    Das Spiel wurde bereits für jede einzelne Platform verfügbar gemacht!
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
   LABEL_PROFITS: Profite
@@ -420,6 +424,7 @@ de:
   LABEL_BUILDING_PIZZERIA: Pizzeria
   LABEL_BUILDING_GYM: Fitnessstudio
   LABEL_BUILDING_OFFICE: Büro
+  LABEL_NO_GAME_AVAILABLE: Kein Spiel verfügbar
   LABEL_NO_MONEY: Nicht genug Geld
   LABEL_COMPUTER: Computer
   LABEL_PLANT: Pflanze
@@ -573,6 +578,7 @@ de:
   PLACEHOLDER_PLAYER_NAME: Dein Name
 
   # Tooltips
+  TOOLTIP_GAMEPORT: Portiere ein Videospiel auf eine andere Plattform
   TOOLTIP_POSTMORTEM: |
     Erstelle einen Spiele-Bericht. Ein Spiele-Bericht hilft dir, aus deinen
     Spielen zu lernen und bessere Spiele zu erstellen
