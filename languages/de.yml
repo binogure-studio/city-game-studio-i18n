@@ -9,11 +9,11 @@ de:
   BUTTON_CANCEL: Abbrechen
   BUTTON_CLOSE: Schließen
   BUTTON_CREDITS: Credits
-  BUTTON_EXIT: Spiel verlassen
+  BUTTON_EXIT: Zum Desktop
   BUTTON_FIRE: Feuern
   BUTTON_LOAD: Laden
   BUTTON_LOAD_GAME: Spiel laden
-  BUTTON_MAIN_MENU: Hauptmenü
+  BUTTON_MAIN_MENU: Zum Hauptmenü
   BUTTON_NEXT: Weiter
   BUTTON_OK: Okay
   BUTTON_OPTIONS: Optionen
@@ -54,7 +54,7 @@ de:
   LABEL_CHARACTERS: Charaktere
   LABEL_COMPANY_NAME: Name der Firma
   LABEL_CUTSCENES: Zwischensequenzen
-  LABEL_CURRENCY: Währung
+  LABEL_CURRENCY: Geld
   LABEL_DESIGN: Design
   LABEL_DEVELOPMENT: Technologie
   LABEL_DIFFICULTY: Schwierigkeit
@@ -87,7 +87,7 @@ de:
     Das Spiel wurde bereits für jede einzelne Platform verfügbar gemacht!
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
-  LABEL_PROFITS: Profite
+  LABEL_PROFITS: Umsatz
   LABEL_POLISH: Perfektion
   LABEL_PRICE: Preis
   LABEL_RELEASE: Veröffentlichung
@@ -96,10 +96,10 @@ de:
   LABEL_SOUND: Sound
   LABEL_SOUND_SETTINGS: Sound
   LABEL_SOUNDFX: Sound FX
-  LABEL_SQUARE_FOOTAGE: Bereich
+  LABEL_SQUARE_FOOTAGE: Fläche
   LABEL_STAFF: Mitarbeiter
   LABEL_STORY: Story
-  LABEL_STUDIO: Studio
+  LABEL_STUDIO: Studios
   LABEL_TARGETTED_AUDIENCE: Zielgruppe
   LABEL_THEME: Thema
   LABEL_TUTORIEL: Tutorial
@@ -138,7 +138,7 @@ de:
   LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
   LABEL_TYPE_VERSUS_FIGHTING: Versus-Kampf
   LABEL_TYPE_PLATFORMS: Plattformen
-  LABEL_TYPE_SHOOT: Schießen
+  LABEL_TYPE_SHOOT: Shooter
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
@@ -219,16 +219,16 @@ de:
     Die Fans weinen!
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
     %s wird innerhalb weniger Monate eine neue Plattform veröffentlichen: '%s'.
-    Es soll jahrelang halten!
+    Sie soll jahrelang halten!
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s kündigt das Ende des allseits
-    bekannten '%s' an
+    %s kündigt das Ende der allseits
+    bekannten Platform '%s' an.
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für %s freigeschaltet, sie kostete dich %s$"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Kommende nicht-fortgeführte Plattform
-  LABEL_PLATFORM_UNLOCKED_TITLE: Plattform gekauft
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Plattform wird eingestellt
+  LABEL_PLATFORM_UNLOCKED_TITLE: Plattform freigeschaltet
   LABEL_CLICK_TO_CLOSE: Klicken um zu Schließen
   LABEL_SHOP_UI: Shop
   LABEL_DESK: Schreibtisch
@@ -278,8 +278,8 @@ de:
   LABEL_CATCHPHRASE_3_3: Wenn sie bloß ein Spiel gemacht hätten
   LABEL_CATCHPHRASE_3_4: Eine peinliche Erfahrung
   LABEL_CATCHPHRASE_3_5: Wir haben schon schlimmeres gesehen, aber wir sahen vor allem besseres!
-  LABEL_CATCHPHRASE_4_0: Zu peinlich für einige gute Ideen
-  LABEL_CATCHPHRASE_4_1: Ein Spiel, dass nicht so wichtig ist
+  LABEL_CATCHPHRASE_4_0: Total peinlich, trotz der guten Ideen
+  LABEL_CATCHPHRASE_4_1: Ein total irrelevantes Spiel
   LABEL_CATCHPHRASE_4_2: Eine schlechte Idee
   LABEL_CATCHPHRASE_4_3: Das Spiel, das innovativ sein wollte...
   LABEL_CATCHPHRASE_4_4: Bei einem Missverständnis könnten wir es wieder spielen
@@ -326,18 +326,18 @@ de:
   LABEL_CATCHPHRASE_11_3: Ein Diamant, der das Ansehen von Videospielen wiederherstellt
   LABEL_CATCHPHRASE_11_4: Wenn Perfektion ein Spiel war
   LABEL_CATCHPHRASE_11_5: Das zwanzigste Weltwunder
-  LABEL_CREATE_SEQUEL: Eine Fortsetzung erstellen
-  LABEL_NEW_IP: Neue IP
+  LABEL_CREATE_SEQUEL: Fortsetzung erstellen
+  LABEL_NEW_IP: Neues Spiel
   LABEL_POSTMORTEM: Spiele-Bericht
   LABEL_EMPTY_STUDIO: "Warnung: Dieses Studio enthält keinen einzigen Schreibtisch mit einem Computer!"
-  LABEL_MATCH_EXCELLENT: Ausgezeichnete Kombination
-  LABEL_MATCH_GOOD: Gute Kombination
-  LABEL_MATCH_OK: Mittelmäßige Kombination
-  LABEL_MATCH_POOR: Schlechte Kombination
+  LABEL_MATCH_EXCELLENT: ausgezeichnete Kombination
+  LABEL_MATCH_GOOD: gute Kombination
+  LABEL_MATCH_OK: mittelmäßige Kombination
+  LABEL_MATCH_POOR: schlechte Kombination
   LABEL_POSTMORTEM_TITLE: Spiele-Bericht
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Wir haben nichts neues von '%s' gelernt...
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von '%s' gelernt: %s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- Passende Kombination zwischen '%s' und '%s' ist '%s'[/ul]"
+  LABEL_POSTMORTEM_MATCH: "[ul]- '%s' und '%s' sind eine %s[/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul]- '%s' passt gut zum Genre '%s'[/ul]"
   LABEL_MARKET_SHARE: Marktanteil
   LABEL_LICENSE_COST: Lizenzkosten
@@ -395,7 +395,7 @@ de:
   LABEL_LOAN_DESCRIPTION: |
     Sie brauchen etwas zusätzliches Geld, wir können Ihnen helfen. Sie können
     sich mit einem Kredit von %s$ zurückerstatten. Unsere Zinssätze sind so
-    niedrig wie nur %s%% und Sie haben %s Wochen zurückzuzahlen. Es ist wie ein
+    niedrig wie nur %s%% und Sie haben %s Wochen um zurückzuzahlen. Es ist wie ein
     ganzes Leben für ein Unternehmen wie Ihres. Wir sind Ihre letzte Option,
     überzeugen Sie sich selbst.
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
@@ -453,17 +453,17 @@ de:
   LABEL_WALL: Wand
   LABEL_PILLAR: Säule
   LABEL_FLOOR: Fußboden
-  LABEL_HIRING_DATE: Einstellungsdatum
-  LABEL_WORK: Status
+  LABEL_HIRING_DATE: Eingestellt am
+  LABEL_WORK: Arbeitet an
   LABEL_NUMBER_OF_GAME_PRODUCED: Produzierte Spiele
-  LABEL_DESIGN_POINT_PRODUCED: Anzahl der erstellten Designpunkte
+  LABEL_DESIGN_POINT_PRODUCED: Anzahl der produzierten Designpunkte
   LABEL_DEVELOPMENT_POINT_PRODUCED: Anzahl der produzierten Technologiepunkte
   LABEL_POLISH_POINT_PRODUCED: Anzahl der produzierten Perfektionspunkte
   LABEL_PRODUCTIVITY: Produktivität
   LABEL_MONEY_EFFICIENCY: Kosteneffizienz
   LABEL_SKILLS: Fähigkeiten
   LABEL_HOME: Home
-  LABEL_MONTH: Monat
+  LABEL_MONTH: Monat(e)
   LABEL_ORDER_BY: Sortieren nach
   LABEL_BUY_PRICE: Kaufpreis
   LABEL_RENT_PRICE: Mietpreis
@@ -565,11 +565,11 @@ de:
     und du kannst sie benutzen, um deine Spiele zu vermarkten!
 
   LABEL_GAMEPORT_FEATURE: |
-    Träume werden wahr. Eine neue Konsole wurde gerade veröffentlicht!
-    Aber du weißt, dass du ein plattformübergreifendes Spiel veröffentlichen willst.
-    Lass uns gehen, probier es aus!
+    Träume werden wahr - Eine neue Konsole wurde gerade veröffentlicht!
+    Du kannst bereits veröffentlichte Spiele nun auf andere Platformen umportieren.
+    Los geht's, probier es aus!
 
-  LABEL_GAME_CREATION: Schätzen Sie die Arbeitsbelastung jedes Teils Ihres Spiels, indem Sie jedes Messgerät anpassen
+  LABEL_GAME_CREATION: Legen sie die Zeit, die in die jeweiligen Bereiche der Entwicklung gesteckt wird, mithilfe der Regler fest.
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Name der Firma
@@ -587,7 +587,7 @@ de:
   TOOLTIP_RECRUIT: Liste potenzielle Kandidaten auf, die in der Stadt verfügbar sind
   TOOLTIP_PORTFOLIO: Liste all deine Spiele auf, die du bisher erstellt hast
   TOOLTIP_OPTION: Einstellungen
-  TOOLTIP_EXIT: Zurück zum Desktop
+  TOOLTIP_EXIT: Spiel verlassen
   TOOLTIP_STUDIOS: Liste deine Studios auf
   TOOLTIP_STUDIOLIST: Liste alle Studios in der Stadt auf
   TOOLTIP_CONSTRUCT: Baue ein neues Gebäude für ein Büro oder veranstalte eine Tagung
