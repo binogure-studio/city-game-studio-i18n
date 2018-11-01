@@ -56,7 +56,7 @@ ru:
   LABEL_CUTSCENES: Кат-сцены
   LABEL_CURRENCY: Валюта
   LABEL_DESIGN: Дизайн
-  LABEL_DEVELOPMENT: Разработка
+  LABEL_DEVELOPMENT: Движок
   LABEL_DIFFICULTY: Сложность
   LABEL_EVENT_TYPE: Тип события
   LABEL_UNIT_SOLD: Единица продана
@@ -68,10 +68,10 @@ ru:
   LABEL_GAME_SIZE: Размер
   LABEL_GAMEPLAY: Игровой процесс
   LABEL_GRAPHIC_SETTINGS: Графические настройки
-  LABEL_GRAPHISM: Графики
+  LABEL_GRAPHISM: Графика
   LABEL_INCOME: Доход
   LABEL_INVALID_SAVE: Поврежденное сохранение
-  LABEL_KICKOFF: Выгнать
+  LABEL_KICKOFF: Создание игры
   LABEL_LOAD_GAME: Загрузить игру
   LABEL_MAP_SIZE: Размер карты
   LABEL_MARKETING_MATERIAL: Маркетинговые материалы
@@ -87,7 +87,7 @@ ru:
   LABEL_PLATFORM: Платформа
   LABEL_PLAYER_NAME: Имя игрока
   LABEL_PROFITS: Доходы
-  LABEL_POLISH: Отполировать
+  LABEL_POLISH: Полировка
   LABEL_PRICE: Цена
   LABEL_RELEASE: Релиз
   LABEL_RESOLUTION: Разрешение
@@ -137,8 +137,8 @@ ru:
   LABEL_TYPE_BEAT_THEM_ALL: Побей их всех
   LABEL_TYPE_VERSUS_FIGHTING: Драки
   LABEL_TYPE_PLATFORMS: Платформы
-  LABEL_TYPE_SHOOT: Стрелять
-  LABEL_TYPE_SHOOT_EM_UP: Стрелялка
+  LABEL_TYPE_SHOOT: Стрелялка
+  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
   LABEL_TYPE_HACK_N_SLASH: hack'n'slash
@@ -210,7 +210,7 @@ ru:
   LABEL_DIFFICULTY_NORMAL: Нормальный
   LABEL_DIFFICULTY_HARD: Сложный
   LABEL_DIFFICULTY_INSANE: Сверх-сложный
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s выпустила новую платформу: %s'"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s выпустила новую платформу: '%s'"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s убирают хорошо известную '%s',фанаты плачут"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
     %s выпустит новую платформу в течение нескольких месяцев '%s', которая будет
@@ -218,7 +218,7 @@ ru:
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s объявляет о конце жизни столь известного %s"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Вы разблокировали лицензию для %s, она стоит %s$"
   LABEL_PLATFORM_RELEASED_TITLE: Выпущена платформа
-  LABEL_PLATFORM_DISCONTINUED_TITLE: Снятая с производства платформа
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Снята с производства платформа
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Предстоящая платформа
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Предстоит конец жизни платформы
   LABEL_PLATFORM_UNLOCKED_TITLE: Покупка платформы
@@ -247,11 +247,11 @@ ru:
   LABEL_WAGE_INCREASES_TITLE: Увеличение заработной платы
   LABEL_WAGE_INCREASES_DESCRIPTION: "У следующих сотрудников повышена заработная плата:"
   LABEL_PRESS_KEY: Нажмите
-  LABEL_WORD_OR: или же
-  LABEL_INPUT_ACTION_UI_ROTATE: Повернуть предмет
-  LABEL_INPUT_ACTION_UI_DELETE: Продать товар
+  LABEL_WORD_OR: или
+  LABEL_INPUT_ACTION_UI_ROTATE: что бы повернуть предмет
+  LABEL_INPUT_ACTION_UI_DELETE: что бы продать предмет
   LABEL_INPUT_ACTION_UI_PAUSE: Приостановить/Продолжить игру
-  LABEL_INPUT_ACTION_UI_CANCEL: Отменить
+  LABEL_INPUT_ACTION_UI_CANCEL: что бы отменить
   LABEL_INPUT_ACTION_UI_REPEAT: Разместить несколько предметов
   LABEL_CATCHPHRASE_1_0: Трата времени
   LABEL_CATCHPHRASE_1_1: Они положили все в трейлер
@@ -320,18 +320,18 @@ ru:
   LABEL_CATCHPHRASE_11_4: Если совершенство было игрой
   LABEL_CATCHPHRASE_11_5: Двадцатое мировое чудо
   LABEL_CREATE_SEQUEL: Создать сиквел
-  LABEL_NEW_IP: Новый IP-адрес
-  LABEL_POSTMORTEM: Посмертный
+  LABEL_NEW_IP: Новая игра
+  LABEL_POSTMORTEM: Отчёт
   LABEL_EMPTY_STUDIO: Предупреждаю, что эта студия не содержит рабочего стола с компьютером!
   LABEL_MATCH_EXCELLENT: Отличный матч
   LABEL_MATCH_GOOD: Хорошая партия
   LABEL_MATCH_OK: Хорошо
   LABEL_MATCH_POOR: Плохое соответствие
-  LABEL_POSTMORTEM_TITLE: Посмертный
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из '%s'"
+  LABEL_POSTMORTEM_TITLE: Отчёт
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Мы ничего не узнали из '%s'
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из '%s': %s"
-  LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между '%s' и '%s' равно '%s' [/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - управлять '%s' для типа игры '%s' [/ul]"
+  LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между '%s' и '%s' равно '%s'[/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - изменить опцию '%s' для типа игры '%s'[/ul]"
   LABEL_MARKET_SHARE: Рыночная доля
   LABEL_LICENSE_COST: Лицензия
   LABEL_OWNED: Принадлежит
@@ -375,8 +375,8 @@ ru:
     Появился новый вирус. Он ориентирован только на компании видеоигр. Это
     кажется странным, но он замедляет курсоры и случайным образом перезагружает
     компьютеры. Это, безусловно, повлияет на производительность ваших
-    сотрудников. Нападает только на %s
-  LABEL_VIRUS_UNLEASHED_TITLE: Вирус развязан
+    сотрудников. Нападает только на студию %s
+  LABEL_VIRUS_UNLEASHED_TITLE: Появился вирус
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Влоггер, известный своими обзорами игр, только что опубликовал новое видео.
     И на этот раз он рассмотрел одну из ваших игр %s. Это, безусловно, повлияет
@@ -481,22 +481,22 @@ ru:
   LABEL_MARKETING_CAMPAIGN_INTERNET: |
     Эпоха Интернета начинается, вы можете охватить миллионы людей простым
     рекламным баннером.
-  LABEL_CONCURRENT_STUDIOS_LIST: "Ваша студия растет, пришло время изучить рынок и заглянуть на конкурс."
-  LABEL_CONCURRENT_STUDIOS_BUY: "Вы катитесь в тесте, может быть, пришло время покупать конкурирующие студии?"
-  LABEL_FURNITURES_COMMON_BUY: Теперь у нас есть стильная офисная косметика.
+  LABEL_CONCURRENT_STUDIOS_LIST: Ваша студия растет, пришло время изучить рынок и заглянуть на конкурс.
+  LABEL_CONCURRENT_STUDIOS_BUY: Вы катитесь в тесте, может быть, пришло время покупать конкурирующие студии?
+  LABEL_FURNITURES_COMMON_BUY: Теперь у нас есть возможность перестройки дизайна здания.
   LABEL_EMPLOYEES_HIRE: |
     Ваша студия растет, производит больше игр, улучшает ее качество.
     Но сначала вам нужно нанять.
   LABEL_STUDIO_RENT: |
-    Сейчас вы чувствуете себя замкнутым в своей маленькой студии,идите в свое
-    следующее место.
+    Сейчас вы чувствуете себя замкнутым в своей маленькой студии,нужно переехать
+    в свою следующую студию.
   LABEL_STUDIO_BUILD: Ваш успех позволяет вам создавать собственные студии.
   LABEL_CONVENTION_ORGANIZE: |
     С миллионом людей, поддерживающих вас, вы можете теперь организовать свои
     собственные соглашения.
   LABEL_CONVENTION_PARTICIPATE: |
     Ваш игровой каталог заслуживает внимания, участие в конвенциях может помочь
-    вам улучшить вашу видимость.
+    вам улучшить заметность.
   LABEL_STUDIO_CUSTOMIZE: Ваши скучные стены подрывают вашу производительность? Время поменять это.
   LABEL_FURNITURES_SERVERS_BUY: "Больше стола, больше стула, больше компьютера, больше белой доски, больше!"
   LABEL_GAME_ONLINE: |
@@ -506,11 +506,10 @@ ru:
     Дематериализованный: вы начинаете слышать об этом, и вы уже знаете, что это
     будущее.
   LABEL_POSTMORTEM_FEATURE: |
-    Поздравляем, вы сделали свою первую игру. Теперь вы можете перейти к
-    вскрытию, чтобы помочь вам оценить его разработку, дизайн и полировку
-  LABEL_NEW_GAME_FEATURE: >
+    Поздравляем, вы сделали свою первую игру. Теперь вы можете перейти к отчёту,
+    чтобы помочь себе улучшить его движок, дизайн и полировку
+  LABEL_NEW_GAME_FEATURE: |
     Готовы пережить эпическую историю видеоигр с самого начала?
-
     Добро пожаловать в City Game Studio. Начните работу и создайте свою первую
     игру.
   LABEL_LOADING: Загрузка
@@ -544,9 +543,11 @@ ru:
     значительно увеличить видимость ваших игр. Спам - это новое слово в
     настроении, и вы можете использовать их для продвижения своих игр!
   LABEL_GAMEPORT_FEATURE: |
-    Мечты сбываются. Только что выпущена новая консоль!Но вы знаете, что хотите
-    выпустить кросс-платформенную игру.Пойдем, попробуешь!
-  LABEL_GAME_CREATION: "Оцените рабочую нагрузку каждой части вашей игры, настроив каждый  параметр"
+    Мечты сбываются. Только что выпущена новая консоль!Теперь вы знаете, что
+    хотите выпустить кросс-платформенную игру.Пойдем, попробуешь!
+  LABEL_GAME_CREATION: |
+    Настройте рабочую нагрузку каждой части вашей игры, настроив каждый 
+    параметр
   PLACEHOLDER_COMPANY_NAME: Название компании
   PLACEHOLDER_GAME_GENRE: Игровой жанр
   PLACEHOLDER_GAME_NAME: Название игры
@@ -555,9 +556,9 @@ ru:
   TOOLTIP_POSTMORTEM: Создайте отчет .Отчет поможет вам создать лучшие игры
   TOOLTIP_CREATE_GAME: Создать новую игру
   TOOLTIP_STAFF: Список сотрудников
-  TOOLTIP_RECRUIT: "Список потенциальных кандидатов, доступных в городе"
-  TOOLTIP_PORTFOLIO: "Лист игр, которые вы успели сделать."
-  TOOLTIP_OPTION: Параметры и Опции
+  TOOLTIP_RECRUIT: Список потенциальных кандидатов, доступных в городе
+  TOOLTIP_PORTFOLIO: Лист игр, которые вы успели сделать.
+  TOOLTIP_OPTION: Настройки
   TOOLTIP_EXIT: Вернуться к Linux
   TOOLTIP_STUDIOS: Лист ваших студий
   TOOLTIP_STUDIOLIST: "Список офисов, доступных в городе"
