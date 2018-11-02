@@ -37,6 +37,14 @@ ru:
   BUTTON_RENT: Аренда
   BUTTON_CONFIRM: Подтвердить
   DROPDOWN_LANGUAGE: Языки
+  LABEL_NO_BUILDING: Нет доступных зданий
+  LABEL_NO_CONVENTION: Hет запланированых съездов
+  LABEL_CONVENTION_LAST_DATE: Последний съезд
+  LABEL_DATE: Срок оплаты
+  LABEL_STANDSIZE: Размер стенда
+  LABEL_CONVENTION_NAME: Название съезда
+  LABEL_ATTEND: Посетить
+  LABEL_ORGANIZE: Организовать
   LABEL_INFORMATIONS: Подробности
   LABEL_GAME: Игра
   LABEL_GAMEPORT: Портировать игру
@@ -209,8 +217,8 @@ ru:
   LABEL_DIFFICULTY_HARD: Сложный
   LABEL_DIFFICULTY_INSANE: Сверх-сложный
   LABEL_PLATFORM_RELEASED_DESCRIPTION: '%s выпустила новую платформу: ''%s'''
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: '%s убирают хорошо известную платформу ''%s'',фанаты плачут'
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >-
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: '%s убирают хорошо известную платформу ''%s'', фанаты плачут'
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
     %s выпустит новую платформу в течение нескольких месяцев '%s', которая будет
     работать в течение многих лет
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: '%s объявляет о конце жизни столь известного %s'
@@ -465,14 +473,14 @@ ru:
   LABEL_SKILLS_AVERAGE: Навыки (в среднем)
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Окно без полей
-  LABEL_GAMEEDITION_SUBMIT: |
+  LABEL_GAMEEDITION_SUBMIT: >-
     У вас много поклонников. Вы достаточно много знаете,чтобы редактировать
     игры.
   LABEL_GAMEEDITION_RECEIVE: |
     После вашего недавнего успеха издатели свяжутся с вами в кратчайшие сроки,
     чтобы сделать вам предложения.
-  LABEL_WORLDMAP: 'Вы смотрите вверх, дальше вас ждет вся вселенная'
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
+  LABEL_WORLDMAP: 'Вы смотрите вверх, дальше вас ждет вас вселенная'
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >-
     Появляются первые журналы про видеоигр, вы хотите рекламировать одну из
     своих игр?
   LABEL_MARKETING_CAMPAIGN_TV: Настало время сделать ваши игры известными благодаря телевизионной рекламе.
@@ -485,14 +493,14 @@ ru:
   LABEL_EMPLOYEES_HIRE: |
     Ваша студия растет, производит больше игр, улучшает ее качество.
     Но сначала вам нужно нанять.
-  LABEL_STUDIO_RENT: |
+  LABEL_STUDIO_RENT: >-
     Сейчас вы чувствуете себя замкнутым в своей маленькой студии,нужно переехать
     в свою следующую студию.
   LABEL_STUDIO_BUILD: Ваш успех позволяет вам создавать собственные студии.
-  LABEL_CONVENTION_ORGANIZE: |
+  LABEL_CONVENTION_ORGANIZE: >-
     С миллионом людей, поддерживающих вас, вы можете теперь организовать свои
     собственные соглашения.
-  LABEL_CONVENTION_PARTICIPATE: |
+  LABEL_CONVENTION_PARTICIPATE: >-
     Ваш игровой каталог заслуживает внимания, участие в конвенциях может помочь
     вам улучшить заметность.
   LABEL_STUDIO_CUSTOMIZE: Ваши скучные стены подрывают вашу производительность? Время поменять это.
@@ -500,34 +508,33 @@ ru:
   LABEL_GAME_ONLINE: |
     Как держать ваших игроков приклеенными к экрану? ИНТЕРНЕТ:
     сделайте онлайн-игры, и они будут зависимы!
-  LABEL_DIGITAL_STORE: |
+  LABEL_DIGITAL_STORE: >-
     Дематериализованный: вы начинаете слышать об этом, и вы уже знаете, что это
     будущее.
   LABEL_POSTMORTEM_FEATURE: |
     Поздравляем, вы сделали свою первую игру. Теперь вы можете перейти к отчёту,
     чтобы помочь себе улучшить его движок, дизайн и полировку
-  LABEL_NEW_GAME_FEATURE: |
-    Готовы пережить эпическую историю видеоигр с самого начала?
-    Добро пожаловать в City Game Studio. Начните работу и создайте свою первую
-    игру.
+  LABEL_NEW_GAME_FEATURE: >-
+    Готовы пережить эпическую историю видеоигр с самого начала?Добро пожаловать
+    в City Game Studio. Начните работу и создайте свою первую игру.
   LABEL_LOADING: Загрузка
   LABEL_NAME: Название
   LABEL_SALARY: Зарплата
   LABEL_NO_SCORE: Еще нет оценки!
-  LABEL_CAPACITY_STORY_FEATURE: |
+  LABEL_CAPACITY_STORY_FEATURE: >-
     Хорошая игра всегда хороша, хорошая история всегда хороша. А как насчет
     хорошей игры с хорошей историей?
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >-
     Какова цель этой кнопки? Вам необходимо управлять пользовательским
     интерфейсом ваших игр
-  LABEL_CAPACITY_NETWORK_FEATURE: |
+  LABEL_CAPACITY_NETWORK_FEATURE: >-
     Настало время играть в видеоигру, это потрясающе, однако играть с друзьями
     еще лучше! Вам нужно управлять сетью для своих игр
-  LABEL_CAPACITY_MODDING_FEATURE: |
+  LABEL_CAPACITY_MODDING_FEATURE: >-
     Некоторые из ваших игр уже были изменены игроками,благодаря чему вы продаете
     больше игр. Пришло время помочь этим хакерам и работать над правильным
-    API-интерфейсом: для ваших игр
-  LABEL_CAPACITY_CUTSCENES_FEATURE: |
+    API-интерфейсом для ваших игр
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >-
     Фильмы влияют на видеоигры, нам нужно управлять роликами при создании новой
     игры
   LABEL_CAPACITY_TUTORIEL_FEATURE: |
@@ -536,7 +543,7 @@ ru:
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
     Рик и Париж демонстрируют свою личную жизнь. Социальные сети здесь навсегда,
     и вы можете использовать их для продвижения своих игр!
-  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: |
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >-
     Недавнее исследование показывает, что отправка ненужных писем может
     значительно увеличить видимость ваших игр. Спам - это новое слово в
     настроении, и вы можете использовать их для продвижения своих игр!
