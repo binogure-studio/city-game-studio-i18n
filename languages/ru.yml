@@ -38,19 +38,17 @@ ru:
   BUTTON_CONFIRM: Подтвердить
   DROPDOWN_LANGUAGE: Языки
 
-  # Labels, description
   LABEL_VISITORS: "%d посетители"
   LABEL_ATTENDANCE: Посещаемость
-  LABEL_NONE: Никто
   LABEL_NO_BUILDING: Нет доступных зданий
-  LABEL_NO_CONVENTION: Конгресс не запланирован
+  LABEL_NO_CONVENTION: Hет запланированых съездов
   LABEL_CONVENTION_LAST_DATE: Последний съезд
   LABEL_DATE: Срок оплаты
   LABEL_STANDSIZE: Размер стенда
-  LABEL_CONVENTION_NAME: Название соглашения
-  LABEL_ATTEND: Посещать
-  LABEL_ORGANIZE: организовать
-  LABEL_INFORMATIONS: подробности
+  LABEL_CONVENTION_NAME: Название съезда
+  LABEL_ATTEND: Посетить
+  LABEL_ORGANIZE: Организовать
+  LABEL_INFORMATIONS: Подробности
   LABEL_GAME: Игра
   LABEL_GAMEPORT: Портировать игру
   LABEL_CONVENTION: Выставочный центр
@@ -77,7 +75,7 @@ ru:
   LABEL_GAME_HISTORY: История игры
   LABEL_GAME_NAME: Название
   LABEL_GAME_SIZE: Размер
-  LABEL_GAMEPLAY: Игровой процесс
+  LABEL_GAMEPLAY: Геймплей
   LABEL_GRAPHIC_SETTINGS: Графические настройки
   LABEL_GRAPHISM: Графика
   LABEL_INCOME: Доход
@@ -171,7 +169,7 @@ ru:
   LABEL_TYPE_ACTION_RPG: Экшн RPG
   LABEL_TYPE_DUNGEON_CRAWLER: Подземелье
   LABEL_TYPE_MMORPG: MMO-RPG
-  LABEL_TYPE_DUNGEON: Данжы
+  LABEL_TYPE_DUNGEON: Данжи
   LABEL_TYPE_CROOK_LIKE: Crook-like
   LABEL_TYPE_TACTICAL_RPG: Тактическая RPG
   LABEL_TYPE_REFLEXION: Классическая головоломка
@@ -294,7 +292,7 @@ ru:
   LABEL_CATCHPHRASE_5_3: Мы видели лучше, но мы видели и ещё хуже!
   LABEL_CATCHPHRASE_5_4: Конечно, это не игра года
   LABEL_CATCHPHRASE_5_5: Полый зазор с ограниченным сроком службы
-  LABEL_CATCHPHRASE_6_0: Spiceless
+  LABEL_CATCHPHRASE_6_0: Беспомощный
   LABEL_CATCHPHRASE_6_1: Простейшая, но избыточная игра
   LABEL_CATCHPHRASE_6_2: Скромный, но интересный
   LABEL_CATCHPHRASE_6_3: Веселое, но мелкое
@@ -302,7 +300,7 @@ ru:
   LABEL_CATCHPHRASE_6_5: Были хорошие времена
   LABEL_CATCHPHRASE_7_0: Трезвость и эффективность
   LABEL_CATCHPHRASE_7_1: Богатое содержание, на которое оказало посредственное достижение
-  LABEL_CATCHPHRASE_7_2: Превоцсходная эстетика, недостатки механизмов
+  LABEL_CATCHPHRASE_7_2: Превосходная эстетика, недостатки механизмов
   LABEL_CATCHPHRASE_7_3: Отличная концепция с ограниченным содержанием
   LABEL_CATCHPHRASE_7_4: Удовлетворительная смесь?
   LABEL_CATCHPHRASE_7_5: Мы недалеко от драгоценности
@@ -334,10 +332,10 @@ ru:
   LABEL_NEW_IP: Новая игра
   LABEL_POSTMORTEM: Отчёт
   LABEL_EMPTY_STUDIO: Предупреждаю, что эта студия не содержит рабочего стола с компьютером!
-  LABEL_MATCH_EXCELLENT: Отличный матч
-  LABEL_MATCH_GOOD: Хорошая партия
-  LABEL_MATCH_OK: Хорошо
-  LABEL_MATCH_POOR: Плохое соответствие
+  LABEL_MATCH_EXCELLENT: Отличное
+  LABEL_MATCH_GOOD: Хорошее
+  LABEL_MATCH_OK: Нормальное
+  LABEL_MATCH_POOR: Плохое
   LABEL_POSTMORTEM_TITLE: Отчёт
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Мы ничего не узнали из '%s'
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из '%s': %s"
@@ -355,13 +353,13 @@ ru:
     очень приятная, и персонал уже дал ей имя. Что ты будешь делать?
   LABEL_ADOPT_CAT_TITLE: Бродячий кот
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
-    В Blue Studio два брата только что выпустилиновую игру. Это игровой
+    В Blue Studio два брата только что выпустили новую игру. Это игровой
     чейнджер, и появился новый тип игры: таинственный
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Жанр "мистика" был изобретен
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
     DustStar только что выпустила новую игру, которая произвела революцию в
     игровой индустрии. Она создала жанр HTA
-  LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like был изобретен
+  LABEL_UNLOCK_HTA_LIKE_TITLE: Жанр HTA-like был изобретен
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
     3 парня в гараже создали новую новую игру.
     Он настолько знаменит, что создал новый игровой жанр, Crook
@@ -369,7 +367,7 @@ ru:
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
     3 Американские дизайнеры просто создали мод для знаменитой игры. Родился
     жанр: Moba
-  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like был изобретен
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Жанр Moba-like был изобретен
   LABEL_BROKEN_COFFEEMAKER_TITLE: Сломанная кофемашина
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
     Ваши сотрудники студии %s являются зависимыми от кофе. Но кофеварка подала
@@ -396,9 +394,9 @@ ru:
   LABEL_LOAN_TITLE: Последний займ
   LABEL_LOAN_DESCRIPTION: |
     Вам нужны дополнительные деньги, мы можем вам помочь. Вы можете вернуть себе
-    займ в %s. Наши процентные ставки составляют всего %s%%,и у вас есть %s
-    недель для погашения. Это как вся жизнь для такой компании, как ваша. Мы ваш
-    последний вариант, позвольте себе искушаться.
+    займ в %s. Наши процентные ставки составляют всего %s%%,и у вас есть
+    %sнедель для погашения. Это как вся жизнь для такой компании, как ваша. Мы
+    вашпоследний вариант, позвольте себе искушаться.
   LABEL_PAYLOAN_TITLE: Погасить заем
   LABEL_PAYLOAN_DESCRIPTION: "Планируемое погашение подошло к концу, вы должны заплатить %s$."
   LABEL_SELL_STUDIO_TITLE: Продажа студии
@@ -453,7 +451,7 @@ ru:
   LABEL_BUILD_STUDIO: Редактировать студию
   LABEL_WALL: Стена
   LABEL_PILLAR: Столб
-  LABEL_FLOOR: Этаж
+  LABEL_FLOOR: Пол
   LABEL_HIRING_DATE: Дата проката
   LABEL_WORK: Статус
   LABEL_NUMBER_OF_GAME_PRODUCED: Производимые игры
@@ -484,7 +482,7 @@ ru:
   LABEL_GAMEEDITION_RECEIVE: |
     После вашего недавнего успеха издатели свяжутся с вами в кратчайшие сроки,
     чтобы сделать вам предложения.
-  LABEL_WORLDMAP: "Вы смотрите вверх, дальше вас ждет вас вселенная"
+  LABEL_WORLDMAP: Вы смотрите вверх, дальше вас ждет вся вселенная
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
     Появляются первые журналы про видеоигр, вы хотите рекламировать одну из
     своих игр?
@@ -520,9 +518,8 @@ ru:
     Поздравляем, вы сделали свою первую игру. Теперь вы можете перейти к отчёту,
     чтобы помочь себе улучшить его движок, дизайн и полировку
   LABEL_NEW_GAME_FEATURE: |
-    Готовы пережить эпическую историю видеоигр с самого начала?
-    Добро пожаловать в City Game Studio. Начните работу и создайте свою первую
-    игру.
+    Готовы пережить эпическую историю видеоигр с самого начала?Добро пожаловать
+    в City Game Studio. Начните работу и создайте свою первую игру.
   LABEL_LOADING: Загрузка
   LABEL_NAME: Название
   LABEL_SALARY: Зарплата
@@ -534,12 +531,12 @@ ru:
     Какова цель этой кнопки? Вам необходимо управлять пользовательским
     интерфейсом ваших игр
   LABEL_CAPACITY_NETWORK_FEATURE: |
-    Настало время играть в видеоигру, это потрясающе, однако играть с друзьями
-    еще лучше! Вам нужно управлять сетью для своих игр
+    Играть в видеоигру, это потрясающе, однако играть с друзьями еще лучше! Вам
+    нужно управлять сетью для своих игр
   LABEL_CAPACITY_MODDING_FEATURE: |
     Некоторые из ваших игр уже были изменены игроками,благодаря чему вы продаете
     больше игр. Пришло время помочь этим хакерам и работать над правильным
-    API-интерфейсом: для ваших игр
+    API-интерфейсом для ваших игр
   LABEL_CAPACITY_CUTSCENES_FEATURE: |
     Фильмы влияют на видеоигры, нам нужно управлять роликами при создании новой
     игры
