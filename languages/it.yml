@@ -207,7 +207,7 @@ it:
   LABEL_TYPE_BREAKOUT: Break-out
   LABEL_TYPE_RYTHM: Ritmo
   LABEL_TYPE_CLICKER_GAME: Clicker-game
-  LABEL_TARGETTED_AUDIENCE_YOUNG: Bambini
+  LABEL_TARGETTED_AUDIENCE_YOUNG: Giovani
   LABEL_TARGETTED_AUDIENCE_ALL: Tutti
   LABEL_TARGETTED_AUDIENCE_MATURE: Adulti
   LABEL_GAME_SIZE_INDIE: Indie
@@ -347,7 +347,7 @@ it:
   LABEL_LICENSE_COST: Licenza
   LABEL_OWNED: Di tua proprietà
   LABEL_WEEK_COST: Costo di sviluppo
-  LABEL_CATALOG_SIZE: Dimenzione catalogo
+  LABEL_CATALOG_SIZE: Dimensione catalogo
   LABEL_PLATFORM_LIST: Lista piattaforme
   LABEL_IDLE: Disoccupato
   LABEL_ADOPT_CAT_DESCRIPTION: |
@@ -363,228 +363,225 @@ it:
     Ha creato il genere HTA.
   LABEL_UNLOCK_HTA_LIKE_TITLE: È stato inventato il genere HTA-like
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
-    3 ragazzi in un garage hanno creato un nuovo gioco.
+    Tre ragazzi in un garage hanno creato un nuovo gioco.
     È così famoso da aver creato un nuovo genere, il Crook.
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: È stato inventato il genere Crook-like
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
-    3 Americans designers just created a mod for a famous game.
-    The Moba genre has been born
-  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like has been invented
-  LABEL_BROKEN_COFFEEMAKER_TITLE: Broken coffee machine
+    Tre designer americani hanno creato una mod per un gioco famoso.
+    È nato il genere Moba.
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: È stato inventato il genere Moba-like
+  LABEL_BROKEN_COFFEEMAKER_TITLE: Macchina del caffè rotta
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Your employees of studio %s are coffee-addicted.
-    But the coffee machine has served its last cup... What do you want to do?
+    Gli impiegati dello studio %s hanno sviluppato una dipendenza da caffè.
+    Ma la macchina del caffè ha servita la sua ultima tazzina... Che cosa vuoi fare?
   LABEL_RABBIT_INVASION_DESCRIPTION: |
-    Rabbits, rabbits everywhere. They are making some noises... they are running everywhere.
-    But nobody notices them, and people continue to work...
-  LABEL_RABBIT_INVASION_TITLE: Rabbit invasion
+    Conigli, conigli ovunque. Stanno facendo rumore... stanno saltellando ovunque.
+    Ma nessuno li nota, e tutti continuano a lavorare...
+  LABEL_RABBIT_INVASION_TITLE: Invasione di conigli
   LABEL_TARGETTED_AUDIENCE_FEATURE: |
-    Experts had found that games can target a specific audience.
-    They published a paper about 3 differents audiences: young, everybody and mature
+    Gli esperti hanno scoperto che i giochi possono essere indirizzati verso un pubblico specifico.
+    Hanno pubblicato un articolo su 3 diversi tipi di pubblico: Giovani, Tutti e Adulti.
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
-    A new virus has been unleashed. It only targets the video game companies.
-    It seems odds, but it slows down cursors and randomly reboots computers.
-    This will have certainly an impact on the productivity of your employees.
-    Only %s is being attacked
-  LABEL_VIRUS_UNLEASHED_TITLE: Virus unleashed
+    Un nuovo virus si sta diffondendo. Infetta solo le compagnia di videogiochi.
+    Sembra strano, ma rallenta i cursori e riavvia i computer in modo casuale.
+    Questo avrà certamente un impatto sulla produttività dei tuoi dipendenti.
+    Soltanto %s è sotto attacco
+  LABEL_VIRUS_UNLEASHED_TITLE: Nuovo virus in circolazione
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
-    A vlogger famous for his game reviews just published a new video.
-    And this time, he reviewed one of your games %s. This will certainly have an impact on sells.
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Free ads
-  LABEL_LOAN_TITLE: Last-resort loan
+    Un vlogger famoso per le sue recensioni di giochi ha appena pubblicato un video.
+    E questa volta ha recensito uno dei tuoi giochi %s. Questo avrà sicuramente un impatto sulle vendite.
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Pubblicità gratuita
+  LABEL_LOAN_TITLE: Prestito disperato*
   LABEL_LOAN_DESCRIPTION: |
-    You need some extra money, we can help you. You can refund yourself with a loan of %s$.
-    Our interests rates are as low as only %s%%, and you have %s weeks to repay.
-    Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
-  LABEL_PAYLOAN_TITLE: Repay a loan
-  LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, you have to pay %s$.
-  LABEL_SELL_STUDIO_TITLE: Selling a studio
-  LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio %s, do you want to continue ?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Since %s is your last studio or it is busy to work on a project, you cannot sell it
-  LABEL_BUILDING_AREA: Area %s m²
-  LABEL_BUILDING_BUY: Price
-  LABEL_BUILDING_RENT: Rent
-  LABEL_BUILDING_CONVENTION: Exhibition center
-  LABEL_BUILDING_TYPE: Building
-  LABEL_BUILDING_ROAD: Road
-  LABEL_BUILDING_STREET: Street
-  LABEL_BUILDING_APARTMENT: Apartment
+    Ha bisogno di soldi extra, possiamo aiutarla. Possiamo offrirle un prestito di %s$.
+    I nostri tassi d'interesse sono pari al %s%% ed avrà %s per sdebitarsi.
+    È una vita per una compaglia come la sua. Siamo la vostra ultima speranza, lasciatevi tentare.
+  LABEL_PAYLOAN_TITLE: Ripaga un prestito
+  LABEL_PAYLOAN_DESCRIPTION: Il tempo previsto per ripagare il prestito è terminato, devi pagare %s$.
+  LABEL_SELL_STUDIO_TITLE: Vendi studio
+  LABEL_SELL_STUDIO_DESCRIPTION: Stai vendendo lo studio %s, desideri continuare?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Dato che %s è il tuo ultimo studio o sta lavorando ad un progetto, non puoi venderlo
+  LABEL_BUILDING_AREA: Area: %s m²
+  LABEL_BUILDING_BUY: Prezzo
+  LABEL_BUILDING_RENT: Affitto
+  LABEL_BUILDING_CONVENTION: Centro esposizioni
+  LABEL_BUILDING_TYPE: Edificio
+  LABEL_BUILDING_ROAD: Strada
+  LABEL_BUILDING_STREET: Strada
+  LABEL_BUILDING_APARTMENT: Appartamento
   LABEL_BUILDING_HOTEL: Hotel
-  LABEL_BUILDING_THEATER: Theater
+  LABEL_BUILDING_THEATER: Teatro
   LABEL_BUILDING_STUDIO: Studio
-  LABEL_BUILDING_BUILDING: Residence
-  LABEL_BUILDING_GRASS: Grass
-  LABEL_BUILDING_SQUARE: Square
-  LABEL_BUILDING_CAFE: Coffee
-  LABEL_BUILDING_RESTAURANT: Restaurant
+  LABEL_BUILDING_BUILDING: Residenza
+  LABEL_BUILDING_GRASS: Erba
+  LABEL_BUILDING_SQUARE: Piazza
+  LABEL_BUILDING_CAFE: Caffè
+  LABEL_BUILDING_RESTAURANT: Ristorante
   LABEL_BUILDING_PIZZERIA: Pizzeria
-  LABEL_BUILDING_GYM: Gym
-  LABEL_BUILDING_OFFICE: Office
-  LABEL_NO_GAME_AVAILABLE: No game available
-  LABEL_NO_MONEY: Too expensive
+  LABEL_BUILDING_GYM: Palestra
+  LABEL_BUILDING_OFFICE: Ufficio
+  LABEL_NO_GAME_AVAILABLE: Nessun gioco disponibile
+  LABEL_NO_MONEY: Troppo costoso
   LABEL_COMPUTER: Computer
-  LABEL_PLANT: Plant
-  LABEL_TABLEPLANT: Table
-  LABEL_PRINTER: Printer
-  LABEL_COFFEEMACHINE: Coffe machine
-  LABEL_DARKMETALTABLEDESK: Dark metal desk
-  LABEL_METALDESK: Metal desk
-  LABEL_METALLARGEDESK: Large metal desk
-  LABEL_METALTABLEDESK: Metal desk
-  LABEL_WOODDESK: Wood desk
-  LABEL_WOODLARGEDESK: Large wood desk
-  LABEL_WOODTABLEDESK: Wood desk
-  LABEL_WATERTANK: Water fountain
-  LABEL_WHITEBOARD: Whiteboard
-  LABEL_WOODBOOKSHELF: Wood bookshelf
-  LABEL_METALBOOKSHELF: Metal bookshelf
-  LABEL_HOLIDAY: Holiday
-  LABEL_NO_COMPUTER: No computer
-  LABEL_NO_STUDIO: No studio
+  LABEL_PLANT: Pianta
+  LABEL_TABLEPLANT: Tavolo
+  LABEL_PRINTER: Stampante
+  LABEL_COFFEEMACHINE: Macchina del caffè
+  LABEL_DARKMETALTABLEDESK: Scrivania in metallo scura
+  LABEL_METALDESK: Scrivania in metallo
+  LABEL_METALLARGEDESK: Scrivania in metallo grande
+  LABEL_METALTABLEDESK: Tavolo in metallo
+  LABEL_WOODDESK: Scrivania in legno
+  LABEL_WOODLARGEDESK: Scrivania in legno grande
+  LABEL_WOODTABLEDESK: Tavolo in legno
+  LABEL_WATERTANK: Fontana
+  LABEL_WHITEBOARD: Lavagna
+  LABEL_WOODBOOKSHELF: Libreria in legno
+  LABEL_METALBOOKSHELF: Libreria in metallo
+  LABEL_HOLIDAY: Vacanza
+  LABEL_NO_COMPUTER: Nessun computer
+  LABEL_NO_STUDIO: Nessuno studio
   LABEL_EMPLOYEE_CAPACITY: Prod.
-  LABEL_STUDIO_CAPACITY: Studio prod.
-  LABEL_EMPLOYEE_TOOLTIP: The productivity (Prod.) boosts the employee efficiency
-  LABEL_STUDIO_TOOLTIP: The productivity (Prod.) boosts the studio efficiency
-  LABEL_BUILD_STUDIO: Edit studio
-  LABEL_WALL: Wall
-  LABEL_PILLAR: Pillar
-  LABEL_FLOOR: Floor
-  LABEL_HIRING_DATE: Date of hire
-  LABEL_WORK: Status
-  LABEL_NUMBER_OF_GAME_PRODUCED: Produced games
-  LABEL_DESIGN_POINT_PRODUCED: Number of design points produced
-  LABEL_DEVELOPMENT_POINT_PRODUCED: Number of development points produced
-  LABEL_POLISH_POINT_PRODUCED: Number of polish points produced
-  LABEL_PRODUCTIVITY: Productivity
-  LABEL_MONEY_EFFICIENCY: Cost efficiency
-  LABEL_SKILLS: Skills
-  LABEL_HOME: Home
-  LABEL_MONTH: Month
-  LABEL_ORDER_BY: Order by
-  LABEL_BUY_PRICE: Buy price
-  LABEL_RENT_PRICE: Rent price
-  LABEL_NO_STUDIO_AVAILABLE: No studio available
-  LABEL_REAL_ESTATE: Real estate
-  LABEL_STAFF_SIZE: Staff size
-  LABEL_CREATION_DATE: Creation date
-  LABEL_STUDIO_LIST: Studio list
-  LABEL_NO_STUDIO_FOUND: No studio found
-  LABEL_PRODUCTIVITY_BONUS: Productivity bonus
-  LABEL_SKILLS_AVERAGE: Skills (average)
+  LABEL_STUDIO_CAPACITY: Prod studio.
+  LABEL_EMPLOYEE_TOOLTIP: Maggiore è la produttività (Prod.) maggiore è l'efficienza di un dipendente
+  LABEL_STUDIO_TOOLTIP: Maggiore è la produttività (Prod.) maggiore è l'efficienza dello studio
+  LABEL_BUILD_STUDIO: Modifica studio
+  LABEL_WALL: Muro
+  LABEL_PILLAR: Pilastro
+  LABEL_FLOOR: Pavimento
+  LABEL_HIRING_DATE: Data di assunzione
+  LABEL_WORK: Stato
+  LABEL_NUMBER_OF_GAME_PRODUCED: Giochi prodotti
+  LABEL_DESIGN_POINT_PRODUCED: Numero di punti design prodotti
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Numero di punti sviluppo prodotti
+  LABEL_POLISH_POINT_PRODUCED: Numero di punti rifinitura prodotti
+  LABEL_PRODUCTIVITY: produttività
+  LABEL_MONEY_EFFICIENCY: Rapporto spese
+  LABEL_SKILLS: Abilità
+  LABEL_HOME: Casa
+  LABEL_MONTH: Mese
+  LABEL_ORDER_BY: Ordina per
+  LABEL_BUY_PRICE: Prezzo
+  LABEL_RENT_PRICE: Prezzo affitto
+  LABEL_NO_STUDIO_AVAILABLE: Nessuno studio disponibile
+  LABEL_REAL_ESTATE: Immobile
+  LABEL_STAFF_SIZE: Dimensioni staff
+  LABEL_CREATION_DATE: Data di creazione
+  LABEL_STUDIO_LIST: Lista studi
+  LABEL_NO_STUDIO_FOUND: Nessuno studio trovato
+  LABEL_PRODUCTIVITY_BONUS: Bonus produttività
+  LABEL_SKILLS_AVERAGE: Abilità (media)
   LABEL_VSYNC: VSync
-  LABEL_BORDERLESS_WINDOW: Borderless window
+  LABEL_BORDERLESS_WINDOW: Finestra senza bordi
   LABEL_GAMEEDITION_SUBMIT: |
-    You have a lot of fans.
-    You are known well enough to edit games.
+    Hai molti fans.
+    Hai una reputazione sufficiente per modificare i giochi.
   LABEL_GAMEEDITION_RECEIVE: |
-    Following your recent success, publishers will contact you in no time to make you offers.
+    A seguito del tuo successo, i publishers presto ti contatteranno per proporti offerte.
   LABEL_WORLDMAP: |
-    You look up, there is a whole world waiting for you outside.
+    Guarda in alto, c'è un intero mondo che ti aspetta là fuori.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
-    The first video game magazines appear, do you want to advertise one of your game in it?
+    Appaiono i primi magazines dedicati ai videogiochi, desideri pubblicizzare uno dei tuoi giochi?
   LABEL_MARKETING_CAMPAIGN_TV: |
-    It is time to make your games known through television ads.
+    È giunto il momento di pubblicizzare i tuoi giochi tramite la televisione.
   LABEL_MARKETING_CAMPAIGN_INTERNET: |
-    The Internet era begins, you can reach millions of people with a simple banner ad.
+    Inizia l'era di internet, puoi raggiungere milioni di persone con un semplice banner.
   LABEL_CONCURRENT_STUDIOS_LIST: |
-    Your studio is growing, it's time to study the market and have a peek at the competition.
+    Il tuo studio sta crescendo, è giunto di momento di studiare il mercato e dare un'occhiata alla competizione.
   LABEL_CONCURRENT_STUDIOS_BUY: |
-    Your are rolling in dough, maybe it would be time to buy competing studios?
+    Stai sguazzando nel denaro, forse sarebbe ora di comprare qualche compagnia avversaria?
   LABEL_FURNITURES_COMMON_BUY: |
-    Time now to have a stylish office redecoration.
+    È giunto di momento di ridecorare l'ufficio.
   LABEL_EMPLOYEES_HIRE: |
-    Your studio is growing, produces more games, improves its quality. But first, you need to recruit.
+    Il tuo studio sta crescendo, produce più giochi e ne migliora la qualità. Ma prima, devi assumere.
   LABEL_STUDIO_RENT: |
-    You are now feeling boxed in your little studio, go get your next location.
+    Lo studio sta diventando affollato, trova un posto migliore.
   LABEL_STUDIO_BUILD: |
-    Your success allows you to build your own studios.
+    Il tuo successo ti permetterà di costruire degli studi personali.
   LABEL_CONVENTION_ORGANIZE: |
-    With a million of people backing you up, you can now organize your own conventions.
+    Con un milione di persone che ti appoggiano, ora puoi organizzare le tue convention.
   LABEL_CONVENTION_PARTICIPATE: |
-    You game catalog is worth being seen, participate in conventions may help you improve your visibility.
+    Il tuo catalogo giochi vale la pena di essere visto, partecipare alle convention può aiutare a migliorarne la visibilità.
   LABEL_STUDIO_CUSTOMIZE: |
-    Your dull walls are sapping your productivity?
-    Time to redesign it.
+    Quelle noiose pareti stanno fiaccando la tua produttività?
+    È tempo di cambiarle.
   LABEL_FURNITURES_SERVERS_BUY: |
-    More desk, more chair, more computer, more white board, more more!
+    Più scrivanie, più sedie, più computer, più lavagne, di più, di più!
   LABEL_GAME_ONLINE: |
-    How to keep your players glued to the screen?
-    The INTERNET: make online games and they will be addicted!
+    Come mantenere i giocatori incollati sullo schermo?
+    INTERNET: crea giochi online e ne saranno dipendenti!
   LABEL_DIGITAL_STORE: |
-    Dematerialised: you start hearing about it and you already know it is the future.
+    Immateriale: inizi a sentirne parlare e sai già che sarà il futuro.
   LABEL_POSTMORTEM_FEATURE: |
-    Congratulations, you have made your first game. You can now proceed to a post-mortem in order to help you evaluate its development, design and polish
+    Congratulazioni, sviluppato il tuo primo gioco. Ora puoi procedere ad un post-mortem per valutarne lo sviluppo, il design, e la rifinitura.
   LABEL_NEW_GAME_FEATURE: |
-    Ready to relive the epic history of video games from its very beginning?
-    Welcome to City Game Studio. Get started and create your first game.
-  LABEL_LOADING: Loading
-  LABEL_NAME: Name
-  LABEL_SALARY: Salary
-  LABEL_NO_SCORE: No score uploaded yet!
+    Pronti a rivivere la storia epica dei videogiochi fin dal suo inizio?
+    Benvenuto in City Game Studio. Inizia e crea il tuo primo gioco.
+  LABEL_LOADING: Caricamento...
+  LABEL_NAME: Nome
+  LABEL_SALARY: Stipendio
+  LABEL_NO_SCORE: Nessun punteggio è ancora stato caricato.
   LABEL_CAPACITY_STORY_FEATURE: |
-    A good game is always good, a good story is always good.
-    What about a good game with a good story?
+    Un buon gioco è sempre bello, una buona storia è sempre bella.
+    Che ne dite di un buon gioco con una buona storia?
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
-    What is the purpose of that button?
-    You need to manage the user interface of your games
+    A cosa serve quel bottone?
+    Devi gestire l'interfacci utente dei tuoi giochi
   LABEL_CAPACITY_NETWORK_FEATURE: |
-    It is time, playing a video game is awesome, however playing it with friends is even better!
-    You need to manage the network for your games
+    È il momento, giocare ai videogiochi è fantastico, ma giocarci con gli amici è ancora meglio!
+    Devi gestire il networking dei tuoi giochi
   LABEL_CAPACITY_MODDING_FEATURE: |
-    Some of your games have already been modified by players.
-    Thanks to that, you sell more game.
-    It is time to help those hackers, and work on a proper mod API: for your games
+    Alcuni dei tuoi giochi sono già stati modificati dai giocatori.
+    Grazie a questo, stai vendendo più giochi.
+    È tempo di aiutare gli hacker, e lavorare su un vero e proprio mod API per i tuoi giochi
   LABEL_CAPACITY_CUTSCENES_FEATURE: |
-    Movies are influencing video games, we need to manage cutscenes while creating a new game
+    I film stanno influenzando i videogiochi, dobbiamo realizzare filmati durante la creazione di un nuovo gioco
   LABEL_CAPACITY_TUTORIEL_FEATURE: |
-    Playing a new game is like learning.
-    It is not easy, so you've decided to create a tutorial for your new games.
+    Giocare un nuovo gioco è come imparare.
+    Non è facile, quindi hai deciso di creare un tutorial per i tuoi nuovi giochi.
 
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
-    Rick and Paris exhibit their private lives.
-    Social networks are here for good, and you can use them
-    to market your games!
+    Rick e Paris mostrano la loro vita privata.
+    È possibile sfruttare i Social Network per pubblicizzare i giochi.
 
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST: |
-    A recent study shows that sending unsolicited emails can significantly increase
-    the visibility of your games. Spam is the new word in the mood and
-    you can use them to market your games!
+    Uno studio recente mostra che l'invio di email non richieste può aumentare significativamente la visibilità dei tuoi giochi.
+    Lo spam è una nuova parola comune e potete usarlo per commercializzare i vostri giochi!
 
   LABEL_GAMEPORT_FEATURE: |
-    Dreams come true. A new console has just been released!
-    You can release a cross-platform game.
-    Let's go, try it out!
+    I sogni si avverano. Una nuova console è stata appena rilasciata!
+    È ora possibile rilasciare giochi cross-platform.
+    Andiamo, provalo!
 
-  LABEL_GAME_CREATION: Estimate the workload of every part of your game by adjusting each gauge
+  LABEL_GAME_CREATION: Stabilisci il carico di lavoro di ogni parte del vostro gioco regolando ogni barra
 
   # Placeholder used for forms
-  PLACEHOLDER_COMPANY_NAME: Company name
-  PLACEHOLDER_GAME_GENRE: Game genre
-  PLACEHOLDER_GAME_NAME: Game name
-  PLACEHOLDER_PLAYER_NAME: Your name
+  PLACEHOLDER_COMPANY_NAME: Nome della compagnia
+  PLACEHOLDER_GAME_GENRE: Genere di gioco
+  PLACEHOLDER_GAME_NAME: Nome del gioco
+  PLACEHOLDER_PLAYER_NAME: Il tuo nome
 
   # Tooltips
-  TOOLTIP_GAMEPORT: Port a video game onto another platform
+  TOOLTIP_GAMEPORT: Porta un gioco su altre piattaforme
   TOOLTIP_POSTMORTEM: |
-    Create a postmortem report.
-    A postmortem report help
-    you create better games
-  TOOLTIP_CREATE_GAME: Create a new game
-  TOOLTIP_STAFF: Staff's list
-  TOOLTIP_RECRUIT: List potential candidates available in town
-  TOOLTIP_PORTFOLIO: List all the game you've made so far
-  TOOLTIP_OPTION: Parameter and options
-  TOOLTIP_EXIT: Back to Linux
-  TOOLTIP_STUDIOS: List your studios
-  TOOLTIP_STUDIOLIST: List offices available in town
+    Crea un resoconto postmortem.
+    I resoconti postmortem ti aiutano a creare giochi migliori.
+  TOOLTIP_CREATE_GAME: Crea un nuovo gioco
+  TOOLTIP_STAFF: Lista staff
+  TOOLTIP_RECRUIT: Elenco dei potenziali candidati disponibili in città
+  TOOLTIP_PORTFOLIO: Lista di tutti i giochi sviluppati fin'ora
+  TOOLTIP_OPTION: Parametri e opzioni
+  TOOLTIP_EXIT: Torna a Linux
+  TOOLTIP_STUDIOS: Lista dei tuoi studi
+  TOOLTIP_STUDIOLIST: Lista degli uffici disponibili in città
   TOOLTIP_CONSTRUCT: |
-    Make a new building for
-    an office or to
-    host a convention
-  TOOLTIP_CONFERENCE: Manage conventions
-  TOOLTIP_MARKETING: Manage your marketing campaigns
-  TOOLTIP_SELL: Sell your office
-  TOOLTIP_SHOP: Buy furniture and stuff for your office
-  TOOLTIP_BUILDMOD: Peint and beautify your office
-  TOOLTIP_ASSIGN: Assign employee to desk
-  TOOLTIP_STUDIO_SELECT: List your studios
+    Crea un nuovo edificio
+    come ufficio o per
+    organizzare una convention
+  TOOLTIP_CONFERENCE: Gestisci conventions
+  TOOLTIP_MARKETING: Gestisci le tua campagne di marketing
+  TOOLTIP_SELL: Vendi il tuo ufficio
+  TOOLTIP_SHOP: Compra mobili e oggetti per il tuo ufficio
+  TOOLTIP_BUILDMOD: Dipingi e abbellisci il tuo ufficio
+  TOOLTIP_ASSIGN: Assegna un impiegato alla scrivania
+  TOOLTIP_STUDIO_SELECT: Lista dei tuoi studi
