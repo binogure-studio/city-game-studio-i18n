@@ -1,0 +1,1 @@
+Sei il fondatore di una ditta di videogiochi. Inizia nel tuo umile garage, punta in alto, espandi la tua azienda e domina il mercato. Saranno le tue scelte a determinare il successo della tua carriera, hai la soffa per lasciare il segno nella storia dei videogiochi?

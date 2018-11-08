@@ -5,7 +5,7 @@ it:
   BUTTON_APPLY: Applica
   BUTTON_BACK: Indietro
   BUTTON_BUILD_MODE: Modalità costruzione
-  BUTTON_BUILDING_RENT: Affitto
+  BUTTON_BUILDING_RENT: Affitta
   BUTTON_CANCEL: Annulla
   BUTTON_CLOSE: Chiudi
   BUTTON_CREDITS: Crediti
@@ -42,7 +42,7 @@ it:
   # Labels, description
   LABEL_VISITORS: "%d visitatori"
   LABEL_ATTENDANCE: Presenza
-  LABEL_NONE: Nulla
+  LABEL_NONE: Niente
   LABEL_NO_BUILDING: Nessun edificio disponibile
   LABEL_NO_CONVENTION: Nessuna convention organizzata
   LABEL_CONVENTION_LAST_DATE: Ultima convention
@@ -80,7 +80,7 @@ it:
   LABEL_GAME_SIZE: Dimensione
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Impostazioni grafiche
-  LABEL_GRAPHISM: Grafismo
+  LABEL_GRAPHISM: Design grafico
   LABEL_INCOME: Reddito
   LABEL_INVALID_SAVE: Salvataggio corrotto
   LABEL_KICKOFF: Iniza
@@ -150,7 +150,7 @@ it:
   LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
   LABEL_TYPE_VERSUS_FIGHTING: Combattimento Versus
   LABEL_TYPE_PLATFORMS: Piattaforme
-  LABEL_TYPE_SHOOT: Spara
+  LABEL_TYPE_SHOOT: Sparatorie
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
@@ -158,7 +158,7 @@ it:
   LABEL_TYPE_OPEN_WORLD: Open world
   LABEL_TYPE_HTA_LIKE: HTA-like
   LABEL_TYPE_INFILTRATION: Infiltraizione
-  LABEL_TYPE_SURVIVAL: Survival
+  LABEL_TYPE_SURVIVAL: Sopravvivenza
   LABEL_TYPE_HORROR: Horror
   LABEL_TYPE_ADVENTURE: Avventura
   LABEL_TYPE_INTERACTIVE_FICTION: Fiction interattiva
@@ -182,7 +182,7 @@ it:
   LABEL_TYPE_PUZZLE: Puzzle
   LABEL_TYPE_SIMULATION: Simulazione
   LABEL_TYPE_ANIMALS: Animali
-  LABEL_TYPE_GOD_GAME: God-game*
+  LABEL_TYPE_GOD_GAME: God-game
   LABEL_TYPE_FARMING: Agricoltura
   LABEL_TYPE_LIVING_ORGANISM: Organismi viventi
   LABEL_TYPE_SPORT: Sport
@@ -199,7 +199,7 @@ it:
   LABEL_TYPE_TRAIN: Treni
   LABEL_TYPE_STRATEGY: Strategia
   LABEL_TYPE_RTS: RTS
-  LABEL_TYPE_MOBA_LIKE: Moba-like
+  LABEL_TYPE_MOBA_LIKE: Moba
   LABEL_TYPE_TOWER_DEFENSE: Tower defense
   LABEL_TYPE_TURN_BASED: A turni
   LABEL_TYPE_ARTILLERY: Artiglieria
@@ -214,7 +214,7 @@ it:
   LABEL_GAME_SIZE_NORMAL: Normale
   LABEL_GAME_SIZE_BIG: Grande
   LABEL_GAME_SIZE_AAA: AAA
-  LABEL_MAP_SIZE_TINY: Piccolo
+  LABEL_MAP_SIZE_TINY: Molto piccola
   LABEL_MAP_SIZE_SMALL: Piccola
   LABEL_MAP_SIZE_MEDIUM: Media
   LABEL_MAP_SIZE_LARGE: Grande
@@ -227,7 +227,7 @@ it:
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s ha interrotto il supporto per il famoso '%s', i fans stanno piangendo"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "%s rilascierà una nuova piattaforma nei prossimi mesi '%s' dovrebbe durare anni"
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s annuncia la fine del supporto per il famoso'%s'"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Hai sbloccato una licenza per il %s, costa %s$"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Hai sbloccato una licenza per %s, costa %s$"
   LABEL_PLATFORM_RELEASED_TITLE: Piattaforma rilasciata
   LABEL_PLATFORM_DISCONTINUED_TITLE: Piattaforma chiusa
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Piattaforme future
@@ -235,11 +235,11 @@ it:
   LABEL_PLATFORM_UNLOCKED_TITLE: Piattaforma acquistata
   LABEL_CLICK_TO_CLOSE: Premere per chiudere
   LABEL_SHOP_UI: Negozio
-  LABEL_DESK: Banco
+  LABEL_DESK: Scrivania
   LABEL_BOOKSHELF: Libreria
   LABEL_WASTEBASKET: Cestino
   LABEL_ASSIGN_EMPLOYEE: Staff
-  LABEL_NEW_GAME: Nuono gioco
+  LABEL_NEW_GAME: Nuovo gioco
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Artwork
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Grazie alle tue recenti esperienze, hai sbloccato un nuovo genere '%s'
@@ -253,7 +253,7 @@ it:
   LABEL_MAGAZINE_6: ZQSD
   LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
-  LABEL_GAME_OVER: Game over
+  LABEL_GAME_OVER: Hai perso
   LABEL_SCORE: Punteggio
   LABEL_WAGE_INCREASES_TITLE: Aumento salari
   LABEL_WAGE_INCREASES_DESCRIPTION: "Il salario dei seguenti dipendenti è aumentato:"
@@ -281,8 +281,8 @@ it:
   LABEL_CATCHPHRASE_3_2: Ci hanno messo tutto, ma non avevano molto
   LABEL_CATCHPHRASE_3_3: Se solo avessero fatto un gioco...
   LABEL_CATCHPHRASE_3_4: Un'esperienza stressante
-  LABEL_CATCHPHRASE_3_5: Abbiamo visto di peggio, ma abbiamo visto roba molto migliore!*
-  LABEL_CATCHPHRASE_4_0: Troppo strano per alcune buone idee*
+  LABEL_CATCHPHRASE_3_5: Abbiamo visto di peggio, ma abbiamo anche visto giochi molto migliori!
+  LABEL_CATCHPHRASE_4_0: Buone idee, mediocre realizzazione
   LABEL_CATCHPHRASE_4_1: Un gioco non proprio essenziale
   LABEL_CATCHPHRASE_4_2: Un'idea povera
   LABEL_CATCHPHRASE_4_3: Il gioco che voleva essere innovativo...
@@ -290,8 +290,8 @@ it:
   LABEL_CATCHPHRASE_4_5: Il momento migliore? Quando finisce
   LABEL_CATCHPHRASE_5_0: Il servizio minimo
   LABEL_CATCHPHRASE_5_1: Un crogiolo insipido
-  LABEL_CATCHPHRASE_5_2: Un resoconto molto misto
-  LABEL_CATCHPHRASE_5_3: Abbiamo visto di meglio, ma prealentemente abbiamo visto di peggio!
+  LABEL_CATCHPHRASE_5_2: Non saprei...
+  LABEL_CATCHPHRASE_5_3: Abbiamo visto di meglio, ma prevalentemente abbiamo visto di peggio!
   LABEL_CATCHPHRASE_5_4: Sicuramente non è il gioco dell'anno
   LABEL_CATCHPHRASE_5_5: Uno spazio vuoto di breve durata
   LABEL_CATCHPHRASE_6_0: Insipido
@@ -301,7 +301,7 @@ it:
   LABEL_CATCHPHRASE_6_4: Un concetto interessante rovinato dalla casualità
   LABEL_CATCHPHRASE_6_5: È stato divertente
   LABEL_CATCHPHRASE_7_0: Sobrietà ed efficienza
-  LABEL_CATCHPHRASE_7_1: Un contenuto ricco guidato da un risultato mediocre
+  LABEL_CATCHPHRASE_7_1: Mediocre, ma ricco di contenuti
   LABEL_CATCHPHRASE_7_2: Estetica stupenda, meccaniche fallate
   LABEL_CATCHPHRASE_7_3: Un'idea eccellente con contenuti limitati
   LABEL_CATCHPHRASE_7_4: Una melodia soddisfaciente?
@@ -333,7 +333,7 @@ it:
   LABEL_CREATE_SEQUEL: Crea un sequel
   LABEL_NEW_IP: Nuova IP
   LABEL_POSTMORTEM: Post-mortem
-  LABEL_EMPTY_STUDIO: Attinzione! Questo studio non contiene scrivanie con PC!
+  LABEL_EMPTY_STUDIO: Attenzione! Nessuna scrivania in questo studio è munita di PC!
   LABEL_MATCH_EXCELLENT: Abbinamento eccellente
   LABEL_MATCH_GOOD: Buon abbinamento
   LABEL_MATCH_OK: Abbinamento decente
@@ -343,15 +343,15 @@ it:
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Questo è ciò che abbiamo imparato da '%s':%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- L'abbinamento tra '%s' e '%s' è '%s'[/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul]- Per gestire '%s' per il tipo di gioco '%s'[/ul]"
-  LABEL_MARKET_SHARE: Market share
+  LABEL_MARKET_SHARE: Quota di mercato
   LABEL_LICENSE_COST: Licenza
   LABEL_OWNED: Di tua proprietà
-  LABEL_WEEK_COST: Costo di sviluppo
-  LABEL_CATALOG_SIZE: Dimensione catalogo
+  LABEL_WEEK_COST: Costi di sviluppo
+  LABEL_CATALOG_SIZE: Dimensioni catalogo
   LABEL_PLATFORM_LIST: Lista piattaforme
   LABEL_IDLE: Disoccupato
   LABEL_ADOPT_CAT_DESCRIPTION: |
-    Lo staff dello studio di %s hanno trovato un gatto randagio nascosto dietro della spazzatura.
+    Lo staff dello studio di %s hanno trovato un gatto randagio nascosto dietro a della spazzatura.
     Il gatto è molto affettuoso e lo staff gli ha già dato un nome. Che cosa facciamo?
   LABEL_ADOPT_CAT_TITLE: Gatto randagio
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
@@ -360,20 +360,20 @@ it:
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: È stato inventato il genere Mystery-like
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
     DustStar ha appena rilasciato un nuovo gioco che ha rivoluzionato l'industria videoludica.
-    Ha creato il genere HTA.
+    Ha creato il genere HTA-like.
   LABEL_UNLOCK_HTA_LIKE_TITLE: È stato inventato il genere HTA-like
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
     Tre ragazzi in un garage hanno creato un nuovo gioco.
-    È così famoso da aver creato un nuovo genere, il Crook.
+    È così famoso da aver creato un nuovo genere, il Crook-like.
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: È stato inventato il genere Crook-like
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
     Tre designer americani hanno creato una mod per un gioco famoso.
     È nato il genere Moba.
-  LABEL_UNLOCK_MOBA_LIKE_TITLE: È stato inventato il genere Moba-like
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: È stato inventato il genere Moba
   LABEL_BROKEN_COFFEEMAKER_TITLE: Macchina del caffè rotta
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
     Gli impiegati dello studio %s hanno sviluppato una dipendenza da caffè.
-    Ma la macchina del caffè ha servita la sua ultima tazzina... Che cosa vuoi fare?
+    Ma la macchina del caffè ha servito la sua ultima tazzina... Che cosa vuoi fare?
   LABEL_RABBIT_INVASION_DESCRIPTION: |
     Conigli, conigli ovunque. Stanno facendo rumore... stanno saltellando ovunque.
     Ma nessuno li nota, e tutti continuano a lavorare...
@@ -382,23 +382,23 @@ it:
     Gli esperti hanno scoperto che i giochi possono essere indirizzati verso un pubblico specifico.
     Hanno pubblicato un articolo su 3 diversi tipi di pubblico: Giovani, Tutti e Adulti.
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
-    Un nuovo virus si sta diffondendo. Infetta solo le compagnia di videogiochi.
+    Un nuovo virus si sta diffondendo. Infetta solo le compagnie di videogiochi.
     Sembra strano, ma rallenta i cursori e riavvia i computer in modo casuale.
     Questo avrà certamente un impatto sulla produttività dei tuoi dipendenti.
-    Soltanto %s è sotto attacco
+    Attualmente, soltanto %s è sotto attacco
   LABEL_VIRUS_UNLEASHED_TITLE: Nuovo virus in circolazione
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Un vlogger famoso per le sue recensioni di giochi ha appena pubblicato un video.
-    E questa volta ha recensito uno dei tuoi giochi %s. Questo avrà sicuramente un impatto sulle vendite.
+    E questa volta ha recensito uno dei tuoi giochi, %s. Questo avrà sicuramente un impatto sulle vendite.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Pubblicità gratuita
-  LABEL_LOAN_TITLE: Prestito disperato*
+  LABEL_LOAN_TITLE: Prestito disperato
   LABEL_LOAN_DESCRIPTION: |
     Ha bisogno di soldi extra, possiamo aiutarla. Possiamo offrirle un prestito di %s$.
     I nostri tassi d'interesse sono pari al %s%% ed avrà %s per sdebitarsi.
-    È una vita per una compaglia come la sua. Siamo la vostra ultima speranza, lasciatevi tentare.
+    È una vita per una compagnia come la sua. Siamo la vostra ultima speranza, lasciatevi tentare.
   LABEL_PAYLOAN_TITLE: Ripaga un prestito
   LABEL_PAYLOAN_DESCRIPTION: Il tempo previsto per ripagare il prestito è terminato, devi pagare %s$.
-  LABEL_SELL_STUDIO_TITLE: Vendi studio
+  LABEL_SELL_STUDIO_TITLE: Vendi uno studio
   LABEL_SELL_STUDIO_DESCRIPTION: Stai vendendo lo studio %s, desideri continuare?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: Dato che %s è il tuo ultimo studio o sta lavorando ad un progetto, non puoi venderlo
   LABEL_BUILDING_AREA: Area: %s m²
@@ -455,7 +455,7 @@ it:
   LABEL_DESIGN_POINT_PRODUCED: Numero di punti design prodotti
   LABEL_DEVELOPMENT_POINT_PRODUCED: Numero di punti sviluppo prodotti
   LABEL_POLISH_POINT_PRODUCED: Numero di punti rifinitura prodotti
-  LABEL_PRODUCTIVITY: produttività
+  LABEL_PRODUCTIVITY: Produttività
   LABEL_MONEY_EFFICIENCY: Rapporto spese
   LABEL_SKILLS: Abilità
   LABEL_HOME: Casa
@@ -477,11 +477,11 @@ it:
     Hai molti fans.
     Hai una reputazione sufficiente per modificare i giochi.
   LABEL_GAMEEDITION_RECEIVE: |
-    A seguito del tuo successo, i publishers presto ti contatteranno per proporti offerte.
+    A seguito del tuo successo, gli editori presto ti contatteranno per proporti offerte.
   LABEL_WORLDMAP: |
     Guarda in alto, c'è un intero mondo che ti aspetta là fuori.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
-    Appaiono i primi magazines dedicati ai videogiochi, desideri pubblicizzare uno dei tuoi giochi?
+    Appaiono le prime riviste dedicate ai videogiochi, desideri pubblicizzare uno dei tuoi giochi?
   LABEL_MARKETING_CAMPAIGN_TV: |
     È giunto il momento di pubblicizzare i tuoi giochi tramite la televisione.
   LABEL_MARKETING_CAMPAIGN_INTERNET: |
@@ -508,14 +508,14 @@ it:
   LABEL_FURNITURES_SERVERS_BUY: |
     Più scrivanie, più sedie, più computer, più lavagne, di più, di più!
   LABEL_GAME_ONLINE: |
-    Come mantenere i giocatori incollati sullo schermo?
-    INTERNET: crea giochi online e ne saranno dipendenti!
+    Come mantenere i giocatori incollati allo schermo?
+    INTERNET: Crea giochi online e ne saranno dipendenti!
   LABEL_DIGITAL_STORE: |
-    Immateriale: inizi a sentirne parlare e sai già che sarà il futuro.
+    Mercato digitale: inizi a sentirne parlare e sai già che sarà il futuro.
   LABEL_POSTMORTEM_FEATURE: |
-    Congratulazioni, sviluppato il tuo primo gioco. Ora puoi procedere ad un post-mortem per valutarne lo sviluppo, il design, e la rifinitura.
+    Congratulazioni, hai sviluppato il tuo primo gioco. Ora puoi procedere ad un post-mortem per valutarne lo sviluppo, il design, e la rifinitura.
   LABEL_NEW_GAME_FEATURE: |
-    Pronti a rivivere la storia epica dei videogiochi fin dal suo inizio?
+    Pronti a rivivere l'epica storia dei videogiochi fin dal suo inizio?
     Benvenuto in City Game Studio. Inizia e crea il tuo primo gioco.
   LABEL_LOADING: Caricamento...
   LABEL_NAME: Nome
@@ -526,16 +526,16 @@ it:
     Che ne dite di un buon gioco con una buona storia?
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
     A cosa serve quel bottone?
-    Devi gestire l'interfacci utente dei tuoi giochi
+    Devi gestire l'interfaccia utente dei tuoi giochi.
   LABEL_CAPACITY_NETWORK_FEATURE: |
     È il momento, giocare ai videogiochi è fantastico, ma giocarci con gli amici è ancora meglio!
-    Devi gestire il networking dei tuoi giochi
+    Devi gestire il networking dei tuoi giochi.
   LABEL_CAPACITY_MODDING_FEATURE: |
     Alcuni dei tuoi giochi sono già stati modificati dai giocatori.
-    Grazie a questo, stai vendendo più giochi.
-    È tempo di aiutare gli hacker, e lavorare su un vero e proprio mod API per i tuoi giochi
+    Grazie a questo, le vendite stanno salendo.
+    È tempo di aiutare gli hacker, e lavorare su una vera e propria mod API per i tuoi giochi.
   LABEL_CAPACITY_CUTSCENES_FEATURE: |
-    I film stanno influenzando i videogiochi, dobbiamo realizzare filmati durante la creazione di un nuovo gioco
+    I film stanno influenzando i videogiochi, dobbiamo realizzare filmati durante la creazione di un nuovo gioco.
   LABEL_CAPACITY_TUTORIEL_FEATURE: |
     Giocare un nuovo gioco è come imparare.
     Non è facile, quindi hai deciso di creare un tutorial per i tuoi nuovi giochi.
@@ -551,9 +551,9 @@ it:
   LABEL_GAMEPORT_FEATURE: |
     I sogni si avverano. Una nuova console è stata appena rilasciata!
     È ora possibile rilasciare giochi cross-platform.
-    Andiamo, provalo!
+    Andiamo, provaci!
 
-  LABEL_GAME_CREATION: Stabilisci il carico di lavoro di ogni parte del vostro gioco regolando ogni barra
+  LABEL_GAME_CREATION: Stabilisci l'importanza e il carico di lavoro di ogni parte del vostro gioco regolando ogni barra.
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Nome della compagnia
@@ -564,8 +564,8 @@ it:
   # Tooltips
   TOOLTIP_GAMEPORT: Porta un gioco su altre piattaforme
   TOOLTIP_POSTMORTEM: |
-    Crea un resoconto postmortem.
-    I resoconti postmortem ti aiutano a creare giochi migliori.
+    Crea un resoconto post-mortem.
+    I resoconti post-mortem ti aiutano a creare giochi migliori.
   TOOLTIP_CREATE_GAME: Crea un nuovo gioco
   TOOLTIP_STAFF: Lista staff
   TOOLTIP_RECRUIT: Elenco dei potenziali candidati disponibili in città
@@ -579,7 +579,7 @@ it:
     come ufficio o per
     organizzare una convention
   TOOLTIP_CONFERENCE: Gestisci conventions
-  TOOLTIP_MARKETING: Gestisci le tua campagne di marketing
+  TOOLTIP_MARKETING: Gestisci le tue campagne di marketing
   TOOLTIP_SELL: Vendi il tuo ufficio
   TOOLTIP_SHOP: Compra mobili e oggetti per il tuo ufficio
   TOOLTIP_BUILDMOD: Dipingi e abbellisci il tuo ufficio
