@@ -1,0 +1,1 @@
+Vous êtes le président fondateur de votre studio de jeu vidéo. Le point de départ vous appartient, vous pouvez commencer dans votre garage, ou alors voir grand en acquérant votre premier local. Au bout du coup compte, ce sont vos choix qui vont faire entrer votre studio dans l'Histoire du Jeu Vidéo

@@ -1,0 +1,1 @@
+Você é o fundador da sua empresa de videogames. O ponto de partida pertence a você, em sua garagem, ou pense grande em vez de pequeno, adquirindo seu primeiro local. No final do dia, suas decisões farão do seu estúdio um sucesso e marcarão o Histórico dos videogames.
