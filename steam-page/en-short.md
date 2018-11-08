@@ -1,0 +1,1 @@
+You are the founder of your video game company. The starting point belongs to you, in your garage, or think big instead of small by acquiring your first local. At the end of the day, your decisions will make your studio a success and will mark the Video Game History.
