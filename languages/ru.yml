@@ -1,4 +1,6 @@
 ru:
+  # Buttons actions verbs
+  BUTTON_ANNOUNCE: Объявить игру
   BUTTON_NEW_GAME: Новая игра
   BUTTON_HIRE: Нанять
   BUTTON_APPLY: Применять
@@ -39,6 +41,14 @@ ru:
   DROPDOWN_LANGUAGE: Языки
 
   # Labels, description
+  LABEL_CAMPAIGN_NO_COST: Поговорите с прессой
+  LABEL_CAMPAIGN_DEMO: Опубликовать демонстрационную версию
+  LABEL_CAMPAIGN_FULL: Запустить рекламную кампанию
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s только что показал свою следующую игру: %s
+    Он будет доступен на %s
+    Поклонники взволнованы, как и мы!
+  LABEL_GAME_ANNOUNCED_TITLE: "Объявлено %s"
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Создано
   LABEL_PRODUCER: Pежиссер
@@ -587,3 +597,6 @@ ru:
   TOOLTIP_BUILDMOD: Покраска и украшение вашего офиса
   TOOLTIP_ASSIGN: Назначить сотрудника за стол
   TOOLTIP_STUDIO_SELECT: Список ваших студий
+  TOOLTIP_ANNOUNCE_GAME: |
+    Объявите видеоигру.
+    Создает обман.
