@@ -1,5 +1,6 @@
 it:
   # Buttons actions verbs
+  BUTTON_ANNOUNCE: Annuncia il gioco
   BUTTON_NEW_GAME: Nuova partita
   BUTTON_HIRE: Assumi
   BUTTON_APPLY: Applica
@@ -40,6 +41,15 @@ it:
   DROPDOWN_LANGUAGE: Lingue
 
   # Labels, description
+  LABEL_CAMPAIGN_NO_COST: Parla alla stampa
+  LABEL_CAMPAIGN_DEMO: Pubblica una demo
+  LABEL_CAMPAIGN_FULL: Esegui una campagna pubblicitaria
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s ha appena rivelato la sua prossima partita: %s
+    Sarà disponibile su %s
+    I fan sono eccitati come noi!
+  LABEL_GAME_ANNOUNCED_TITLE: "Annunciato %s"
+  LABEL_TRENDING: Tendere
   LABEL_CREATOR: Creato da
   LABEL_PRODUCER: Produttore
   LABEL_COMMUNITY_MANAGER: Direttore della comunità
@@ -591,3 +601,6 @@ it:
   TOOLTIP_BUILDMOD: Dipingi e abbellisci il tuo ufficio
   TOOLTIP_ASSIGN: Assegna un impiegato alla scrivania
   TOOLTIP_STUDIO_SELECT: Lista dei tuoi studi
+  TOOLTIP_ANNOUNCE_GAME: |
+    Annuncia il videogioco.
+    Crea hype.

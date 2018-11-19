@@ -1,5 +1,6 @@
 de:
   # Buttons actions verbs
+  BUTTON_ANNOUNCE: Kündigen Sie das Spiel an
   BUTTON_NEW_GAME: Neues Spiel
   BUTTON_HIRE: Einstellen
   BUTTON_APPLY: Übernehmen
@@ -40,6 +41,15 @@ de:
   DROPDOWN_LANGUAGE: Sprache
 
   # Labels, description
+  LABEL_CAMPAIGN_NO_COST: Sprich mit der Presse
+  LABEL_CAMPAIGN_DEMO: Veröffentlichen Sie eine Demo
+  LABEL_CAMPAIGN_FULL: Führen Sie eine Werbekampagne aus
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s hat gerade sein nächstes Spiel enthüllt: %s
+    Es wird auf %s verfügbar sein
+    Fans sind aufgeregt wie wir!
+  LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
+  LABEL_TRENDING: Trending
   LABEL_CREATOR: Entwicklung
   LABEL_PRODUCER: Produzent
   LABEL_COMMUNITY_MANAGER: Community-Manager
@@ -609,3 +619,6 @@ de:
   TOOLTIP_BUILDMOD: Streiche und verschönere dein Studio
   TOOLTIP_ASSIGN: Weise den Angestellten einem Schreibtisch zu
   TOOLTIP_STUDIO_SELECT: Studio wechseln
+  TOOLTIP_ANNOUNCE_GAME: |
+    Kündigen Sie das Videospiel an.
+    Schafft Hype

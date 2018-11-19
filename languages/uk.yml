@@ -1,4 +1,6 @@
 uk:
+  # Buttons actions verbs
+  BUTTON_ANNOUNCE: Оголосіть гру
   BUTTON_NEW_GAME: Нова гра
   BUTTON_HIRE: Прокат
   BUTTON_APPLY: Застосувати
@@ -39,6 +41,15 @@ uk:
   DROPDOWN_LANGUAGE: Мови
 
   # Labels, description
+  LABEL_CAMPAIGN_NO_COST: Поговоримо з пресою
+  LABEL_CAMPAIGN_DEMO: Опублікувати демо
+  LABEL_CAMPAIGN_FULL: Запустіть рекламну кампанію
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s щойно випустив свою наступну гру: %s
+    Він буде доступний лише в %s
+    Шанувальники збуджуються так само, як і ми!
+  LABEL_GAME_ANNOUNCED_TITLE: "%s оголосив"
+  LABEL_TRENDING: Тенденції
   LABEL_CREATOR: Створений
   LABEL_PRODUCER: Виробник
   LABEL_COMMUNITY_MANAGER: Менеджер спільноти
@@ -601,3 +612,6 @@ uk:
   TOOLTIP_BUILDMOD: Друкуйте та прикрасьте свій офіс
   TOOLTIP_ASSIGN: Призначити працівника на стіл
   TOOLTIP_STUDIO_SELECT: Перелічіть свої студії
+  TOOLTIP_ANNOUNCE_GAME: |
+    Оголосити відеоігри.
+    Створює галас.

@@ -1,5 +1,6 @@
 fr:
   # Buttons actions verbs
+  BUTTON_ANNOUNCE: Annoncer le jeu
   BUTTON_NEW_GAME: Nouvelle partie
   BUTTON_HIRE: Engager
   BUTTON_APPLY: Appliquer
@@ -40,6 +41,15 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_CAMPAIGN_NO_COST: Contacter la presse
+  LABEL_CAMPAIGN_DEMO: Publier une démo
+  LABEL_CAMPAIGN_FULL: Organiser une campagne publicitaire
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s vient juste d'annoncer la sortie prochaine de %s.
+    Le jeu sortira d'abord sur la plateforme %s.
+    Les fans ont hâte d'y être et nous aussi!
+  LABEL_GAME_ANNOUNCED_TITLE: "%s annoncé"
+  LABEL_TRENDING: Tendance
   LABEL_CREATOR: Créé par
   LABEL_PRODUCER: Productrice
   LABEL_COMMUNITY_MANAGER: Responsable de la communication
@@ -596,8 +606,7 @@ fr:
   TOOLTIP_STUDIOLIST: Lister les bureaux disponibles sur le marché
   TOOLTIP_CONSTRUCT: |
     Construire un batiment pour en faire un
-    studio ou encore une
-    salle de conférence
+    studio ou encore une salle de conférence
   TOOLTIP_CONFERENCE: Participer ou organiser des conférences
   TOOLTIP_MARKETING: Organiser des campagnes publicitaires
   TOOLTIP_SELL: Vendre votre studio
@@ -607,3 +616,6 @@ fr:
     les sols et embelir votre studio
   TOOLTIP_ASSIGN: Assigner vos employés à un bureau
   TOOLTIP_STUDIO_SELECT: Lister vos studios
+  TOOLTIP_ANNOUNCE_GAME: |
+    Annoncer le jeu au grand public.
+    Génère de l'engouement.

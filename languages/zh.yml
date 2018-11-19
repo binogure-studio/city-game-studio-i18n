@@ -1,5 +1,6 @@
 zh:
   # Buttons actions verbs
+  BUTTON_ANNOUNCE: 宣布比赛
   BUTTON_NEW_GAME: 新游戏
   BUTTON_HIRE: 聘请
   BUTTON_APPLY: 应用
@@ -40,6 +41,15 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_CAMPAIGN_NO_COST: 与媒体交谈
+  LABEL_CAMPAIGN_DEMO: 发布演示
+  LABEL_CAMPAIGN_FULL: 举办广告活动
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s 刚刚公布了他们的下一场比赛: %s
+    它将在 %s 上提供
+    粉丝们很兴奋！
+  LABEL_GAME_ANNOUNCED_TITLE: "%s 宣布"
+  LABEL_TRENDING: 趋势
   LABEL_CREATOR: 由...制作
   LABEL_PRODUCER: 制片人
   LABEL_COMMUNITY_MANAGER: 社区管理员
@@ -537,3 +547,6 @@ zh:
   TOOLTIP_BUILDMOD: 打印并美化您的办公室
   TOOLTIP_ASSIGN: 将员工分配到桌面
   TOOLTIP_STUDIO_SELECT: 列出你的工作室
+  TOOLTIP_ANNOUNCE_GAME: |
+    宣布视频游戏。
+    创造炒作。

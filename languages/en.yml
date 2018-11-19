@@ -1,5 +1,6 @@
 en:
   # Buttons actions verbs
+  BUTTON_ANNOUNCE: Announce the game
   BUTTON_NEW_GAME: New game
   BUTTON_HIRE: Hire
   BUTTON_APPLY: Apply
@@ -40,6 +41,15 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_CAMPAIGN_NO_COST: Talk to the press
+  LABEL_CAMPAIGN_DEMO: Publish a demo
+  LABEL_CAMPAIGN_FULL: Run an advertising campaign
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s has just revealed their next game: %s
+    It will be available on %s
+    Fans are excited, so say we all!
+  LABEL_GAME_ANNOUNCED_TITLE: "%s announced"
+  LABEL_TRENDING: Trending
   LABEL_CREATOR: Created by
   LABEL_PRODUCER: Producer
   LABEL_COMMUNITY_MANAGER: Community manager
@@ -594,3 +604,6 @@ en:
   TOOLTIP_BUILDMOD: Peint and beautify your office
   TOOLTIP_ASSIGN: Assign employee to desk
   TOOLTIP_STUDIO_SELECT: List your studios
+  TOOLTIP_ANNOUNCE_GAME: |
+    Announce the video game.
+    Creates hype.
