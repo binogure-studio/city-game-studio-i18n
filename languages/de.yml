@@ -41,6 +41,8 @@ de:
   DROPDOWN_LANGUAGE: Sprache
 
   # Labels, description
+  LABEL_YES: Ja
+  LABEL_NO: Nein
   LABEL_PRICE_MONTHLY: Monatliche Kosten
   LABEL_ONLINE_CAPACITY: Gesamtkapazität des Spielers
   LABEL_ONLINE_CAPACITY_TOOLTIP: Anzahl der gleichzeitigen Online-Spieler
@@ -97,6 +99,9 @@ de:
   LABEL_GAME_HISTORY: Spielverlauf
   LABEL_GAME_NAME: Name
   LABEL_GAME_SIZE: Größe
+  LABEL_GAME_ONLINE_SHORT: Online-Multiplayer
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Diese Plattform unterstützt keinen Online-Multiplayer
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Grafik
   LABEL_GRAPHISM: Visuelle Aspekte
@@ -429,6 +434,13 @@ de:
     Unsere Zinssätze sind so niedrig wie nur %s%% und Sie haben %s Wochen um zurückzuzahlen.
     Es ist wie ein ganzes Leben für ein Unternehmen wie Ihres!
     Wir sind Ihre letzte Option, überzeugen Sie sich selbst.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Riecht es nach Feuer ?! Ja, Ihre Server haben ihre maximale Kapazität erreicht. Es ist Zeit, neue Server zu kaufen oder ein Online-Spiel zu schließen!
+  LABEL_BURNING_SERVER_TITLE: Server brennen
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Sie machen ein sehr gutes Online-Spiel und verkaufen es sehr gut. Ihre Server erreichen jedoch ihre maximale Kapazität, die meisten davon werden zu
+    90% oder mehr verwendet. Sie sollten neue Server kaufen.
+  LABEL_SMOKING_SERVER_TITLE: Warnung zur Serverkapazität
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
   LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu fällig, du musst %s$ bezahlen.
   LABEL_SELL_STUDIO_TITLE: Studio verkaufen

@@ -41,6 +41,8 @@ uk:
   DROPDOWN_LANGUAGE: Мови
 
   # Labels, description
+  LABEL_YES: Так
+  LABEL_NO: Ні
   LABEL_PRICE_MONTHLY: Щомісячні витрати
   LABEL_ONLINE_CAPACITY: Загальна кількість гравців
   LABEL_ONLINE_CAPACITY_TOOLTIP: Кількість одночасних гравців у мережі
@@ -97,6 +99,9 @@ uk:
   LABEL_GAME_HISTORY: Історія гри
   LABEL_GAME_NAME: Ім'я
   LABEL_GAME_SIZE: Розмір
+  LABEL_GAME_ONLINE_SHORT: Oнлайн-мультиплеєр
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Ця платформа не підтримує онлайн мультиплеер
   LABEL_GAMEPLAY: Геймплей
   LABEL_GRAPHIC_SETTINGS: Графічні налаштування
   LABEL_GRAPHISM: Графізм
@@ -428,6 +433,12 @@ uk:
     можете повернути собі кредит у розмірі%s $.Наші процентні ставки настільки низькі,
     що тільки %s%%, і ви маєте %s тижнів, щоб погасити.Це все, як ціле життя для
     компанії, як твій. Ми ваш останній варіант, дозвольте спокуситись.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Чи пахне воно як вогонь ?! Так, ваші сервери досягли максимальної потужності. Настав час купувати нові сервери або закрити онлайн-гру!
+  LABEL_BURNING_SERVER_TITLE: Сервери горять
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Ви робите дуже хорошу онлайн-гру, і ви продаєте їх дуже добре. Однак ваші сервери досягають максимальної потужності, більшість з них використовуються на 90% і більше. Вам слід купувати нові сервери.
+  LABEL_SMOKING_SERVER_TITLE: Попередження про пропуск сервера
   LABEL_PAYLOAN_TITLE: Погасити кредит
   LABEL_PAYLOAN_DESCRIPTION: Запланована виплата закінчиться, ви повинні заплатити %s$.
   LABEL_SELL_STUDIO_TITLE: Продаж студії

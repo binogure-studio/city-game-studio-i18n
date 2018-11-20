@@ -41,6 +41,8 @@ it:
   DROPDOWN_LANGUAGE: Lingue
 
   # Labels, description
+  LABEL_YES: Sì
+  LABEL_NO: No
   LABEL_PRICE_MONTHLY: Costi mensili
   LABEL_ONLINE_CAPACITY: Capacità totale del giocatore
   LABEL_ONLINE_CAPACITY_TOOLTIP: Quantità di giocatori concorrenti online
@@ -97,6 +99,9 @@ it:
   LABEL_GAME_HISTORY: Cronologia giochi
   LABEL_GAME_NAME: Nome
   LABEL_GAME_SIZE: Dimensione
+  LABEL_GAME_ONLINE_SHORT: Multiplayer online
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Questa piattaforma non supporta il multiplayer online
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Impostazioni grafiche
   LABEL_GRAPHISM: Design grafico
@@ -415,6 +420,12 @@ it:
     Ha bisogno di soldi extra, possiamo aiutarla. Possiamo offrirle un prestito di %s$.
     I nostri tassi d'interesse sono pari al %s%% ed avrà %s per sdebitarsi.
     È una vita per una compagnia come la sua. Siamo la vostra ultima speranza, lasciatevi tentare.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Puzza di fuoco ?! Sì, i server hanno raggiunto la loro capacità massima. È tempo di comprare nuovi server o chiudere un gioco online!
+  LABEL_BURNING_SERVER_TITLE: I server stanno bruciando
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Stai facendo un ottimo gioco online e li stai vendendo molto bene. Tuttavia, i tuoi server stanno raggiungendo la loro capacità massima, la maggior parte dei quali viene utilizzata al 90% o più. Dovresti comprare nuovi server.
+  LABEL_SMOKING_SERVER_TITLE: Avviso sulla capacità del server
   LABEL_PAYLOAN_TITLE: Ripaga un prestito
   LABEL_PAYLOAN_DESCRIPTION: Il tempo previsto per ripagare il prestito è terminato, devi pagare %s$.
   LABEL_SELL_STUDIO_TITLE: Vendi uno studio

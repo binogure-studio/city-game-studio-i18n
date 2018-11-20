@@ -41,6 +41,8 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_YES: Yes
+  LABEL_NO: No
   LABEL_PRICE_MONTHLY: Monthly costs
   LABEL_ONLINE_CAPACITY: Total player capacity
   LABEL_ONLINE_CAPACITY_TOOLTIP: Amount of online concurrent players
@@ -97,6 +99,9 @@ en:
   LABEL_GAME_HISTORY: Game history
   LABEL_GAME_NAME: Name
   LABEL_GAME_SIZE: Size
+  LABEL_GAME_ONLINE_SHORT: Online multiplayer
+  LABEL_PLATFORM_NOT_ONLINE: |
+    This platform does not support online multiplayer
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Graphic settings
   LABEL_GRAPHISM: Graphism
@@ -261,7 +266,7 @@ en:
   LABEL_NEW_GAME: New game
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Artwork
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Thank to your recent experience, you have unlocked a new genre '%s'
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Thanks to your recent experience, you have unlocked a new genre '%s'
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Genre unlocked: %s"
   LABEL_MAGAZINE_0: Fan Game
   LABEL_MAGAZINE_1: PC Player
@@ -415,6 +420,16 @@ en:
     You need some extra money, we can help you. You can refund yourself with a loan of %s$.
     Our interests rates are as low as only %s%%, and you have %s weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Does it smell like fire?!
+    Your servers have reached their maximum capacity.
+    It is time to buy new servers or to close an online game!
+  LABEL_BURNING_SERVER_TITLE: This is fine
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    You are making very good online game, and you are selling them very well.
+    However your servers are reaching their maximum capacity, most of them are used at 90% or more.
+    You should buy new servers.
+  LABEL_SMOKING_SERVER_TITLE: Server capacity warning
   LABEL_PAYLOAN_TITLE: Repay a loan
   LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, you have to pay %s$.
   LABEL_SELL_STUDIO_TITLE: Selling a studio

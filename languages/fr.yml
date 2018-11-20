@@ -41,6 +41,8 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_YES: Oui
+  LABEL_NO: Non
   LABEL_PRICE_MONTHLY: Coûts mensuels
   LABEL_ONLINE_CAPACITY: Capacité de joueurs
   LABEL_ONLINE_CAPACITY_TOOLTIP: Nombre de joueurs en ligne supporté
@@ -97,6 +99,10 @@ fr:
   LABEL_GAME_HISTORY: Portfolio
   LABEL_GAME_NAME: Nom
   LABEL_GAME_SIZE: Taille
+  LABEL_GAME_ONLINE_SHORT: Multijoueur en ligne
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Vous ne pouvez pas créer de jeux en ligne sur cette plateforme
+    car elle n'est pas compatible avec les jeux en ligne
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Paramètres graphiques
   LABEL_GRAPHISM: Graphismes
@@ -445,6 +451,15 @@ fr:
     Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de %s$ pour le taux maudique de %s%%.
     De plus vous aurez %s semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
     Nous sommes votre dernier recours, laissez vous tenter!
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Les serveurs sont utilisés à 100%. De nombreux joueurs sont mécontents et quittent le navire.
+    Il est urgent d'acheter de nouveaux serveurs, le manque a gagner est important.
+  LABEL_BURNING_SERVER_TITLE: Les serveurs sont surchargés!
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Vos jeux ont du succès est ça se voit. La plupart de vos serveurs
+    sont utilisés a plus de 90% de leur capacité.
+    Il faudrait envisager de monter plus de serveurs
+  LABEL_SMOKING_SERVER_TITLE: Les serveurs atteignent leur limite
   LABEL_PAYLOAN_TITLE: Rembourser un prêt
   LABEL_PAYLOAN_DESCRIPTION: L'échéancier arrive à son terme. Vous devez rembourser la totalité des sommes empruntées, soit %s$
   LABEL_SELL_STUDIO_TITLE: Vendre un studio

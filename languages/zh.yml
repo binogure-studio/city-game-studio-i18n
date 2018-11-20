@@ -41,6 +41,8 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_YES: 是
+  LABEL_NO: 没有
   LABEL_PRICE_MONTHLY: 每月费用
   LABEL_ONLINE_CAPACITY: 玩家总容量
   LABEL_ONLINE_CAPACITY_TOOLTIP: 在线并发玩家数量
@@ -97,6 +99,9 @@ zh:
   LABEL_GAME_HISTORY: 游戏历史
   LABEL_GAME_NAME: 名称
   LABEL_GAME_SIZE: 尺寸
+  LABEL_GAME_ONLINE_SHORT: 在线多人游戏
+  LABEL_PLATFORM_NOT_ONLINE: |
+    该平台不支持在线多人游戏
   LABEL_GAMEPLAY: 游戏
   LABEL_GRAPHIC_SETTINGS: 图形设置
   LABEL_GRAPHISM: Graphism
@@ -401,6 +406,12 @@ zh:
   LABEL_LOAN_DESCRIPTION: |
     你需要一些额外的钱，我们可以帮助你。 您可以使用 %s $贷款退款。 我们的利率只有 %s%%，您还有 %s 周要偿还。
     对于像你这样的公司来说，它就像一生。 我们是你的最后选择，让自己受到诱惑。
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    它闻起来像火吗？！ 是的，您的服务器已达到其最大容量。 是时候购买新服务器或关闭在线游戏了！
+  LABEL_BURNING_SERVER_TITLE: 服务器正在燃烧
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    你正在制作非常好的在线游戏，而且你正在畅销它们。 但是，您的服务器正在达到其最大容量，其中大多数使用率为90％或更高。 你应该买新的服务器。
+  LABEL_SMOKING_SERVER_TITLE: 服务器容量警告
   LABEL_PAYLOAN_TITLE: 偿还贷款
   LABEL_PAYLOAN_DESCRIPTION: 预定的还款现在已经结束，你必须支付 %s$。
   LABEL_SELL_STUDIO_TITLE: 卖工作室

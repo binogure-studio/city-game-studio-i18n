@@ -41,6 +41,8 @@ ru:
   DROPDOWN_LANGUAGE: Языки
 
   # Labels, description
+  LABEL_YES: да
+  LABEL_NO: Hет
   LABEL_PRICE_MONTHLY: Ежемесячные расходы
   LABEL_ONLINE_CAPACITY: Общая емкость игрока
   LABEL_ONLINE_CAPACITY_TOOLTIP: Количество онлайн-игроков
@@ -97,6 +99,9 @@ ru:
   LABEL_GAME_HISTORY: История игры
   LABEL_GAME_NAME: Название
   LABEL_GAME_SIZE: Размер
+  LABEL_GAME_ONLINE_SHORT: Cетевой мультиплеер
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Эта платформа не поддерживает многопользовательскую онлайн-игру
   LABEL_GAMEPLAY: Геймплей
   LABEL_GRAPHIC_SETTINGS: Графические настройки
   LABEL_GRAPHISM: Графика
@@ -419,6 +424,13 @@ ru:
     займ в %s. Наши процентные ставки составляют всего %s%%,и у вас есть
     %sнедель для погашения. Это как вся жизнь для такой компании, как ваша. Мы
     вашпоследний вариант, позвольте себе искушаться.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Пахнет ли он огнем ?! Да, ваши серверы достигли максимальной емкости. Пришло время покупать новые серверы или закрывать онлайн-игру!    
+  LABEL_BURNING_SERVER_TITLE: Серверы горят    
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Вы делаете очень хорошую онлайн-игру, и вы продаете их очень хорошо. Однако ваши серверы достигают максимальной емкости,
+    большинство из них используются на уровне 90% и более. Вы должны покупать новые серверы.
+  LABEL_SMOKING_SERVER_TITLE: Предупреждение о емкости сервера
   LABEL_PAYLOAN_TITLE: Погасить заем
   LABEL_PAYLOAN_DESCRIPTION: "Планируемое погашение подошло к концу, вы должны заплатить %s$."
   LABEL_SELL_STUDIO_TITLE: Продажа студии

@@ -41,6 +41,8 @@ pt:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_YES: Sim
+  LABEL_NO: Não
   LABEL_PRICE_MONTHLY: Custos mensais
   LABEL_ONLINE_CAPACITY: Capacidade total do jogador
   LABEL_ONLINE_CAPACITY_TOOLTIP: Quantidade de jogadores simultâneos on-line
@@ -97,6 +99,9 @@ pt:
   LABEL_GAME_HISTORY: História do jogo
   LABEL_GAME_NAME: Nome
   LABEL_GAME_SIZE: Tamanho
+  LABEL_GAME_ONLINE_SHORT: Multijogador online
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Esta plataforma não suporta multijogador online
   LABEL_GAMEPLAY: Jogabilidade
   LABEL_GRAPHIC_SETTINGS: Configurações gráficas
   LABEL_GRAPHISM: Grafismo
@@ -430,6 +435,13 @@ pt:
     Você pode reembolsar-se com um empréstimo de %s$. Nossas taxas de juros são tão
     baixas quanto apenas %s%%, e você tem %s semanas para pagar. É como uma vida
     inteira para uma empresa como a sua. Nós somos sua última opção, deixe-se tentar.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Cheira como fogo ?! Sim, seus servidores atingiram sua capacidade máxima. É hora de comprar novos servidores ou fechar um jogo online!
+  LABEL_BURNING_SERVER_TITLE: Servidores estão queimando
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Você está fazendo um bom jogo online e está vendendo muito bem. No entanto, seus servidores estão atingindo sua capacidade máxima,
+    a maioria deles é usada em 90% ou mais. Você deve comprar novos servidores.    
+  LABEL_SMOKING_SERVER_TITLE: Aviso de capacidade do servidor
   LABEL_PAYLOAN_TITLE: Reembolsar um empréstimo
   LABEL_PAYLOAN_DESCRIPTION: O reembolso agendado já chegou ao fim, você tem que pagar %s$.
   LABEL_SELL_STUDIO_TITLE: Vendendo um estúdio

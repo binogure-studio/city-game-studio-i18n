@@ -41,6 +41,8 @@ es:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_YES: Sí
+  LABEL_NO: No
   LABEL_PRICE_MONTHLY: Costos mensuales
   LABEL_ONLINE_CAPACITY: Capacidad total del jugador
   LABEL_ONLINE_CAPACITY_TOOLTIP: Cantidad de jugadores concurrentes en línea
@@ -96,7 +98,10 @@ es:
   LABEL_GAME_GENRE: Tipo
   LABEL_GAME_HISTORY: Historia del juego
   LABEL_GAME_NAME: Nombre
-  LABEL_GAME_SIZE: tamaño
+  LABEL_GAME_SIZE: Tamaño
+  LABEL_GAME_ONLINE_SHORT: Multijugador en línea
+  LABEL_PLATFORM_NOT_ONLINE: |
+    Esta plataforma no soporta multijugador en línea.
   LABEL_GAMEPLAY: Jugabilidad
   LABEL_GRAPHIC_SETTINGS: Ajustes gráficos
   LABEL_GRAPHISM: Grafismo
@@ -432,6 +437,13 @@ es:
     reembolsarte con un préstamo de %s $. Nuestras tasas de interés son tan bajas
     como solo %s%%, y usted tiene %s semanas para pagar. Es como toda una vida para
     una empresa como la tuya. Somos tu última opción, déjate tentar.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    ¿Huele a fuego? Sí, sus servidores han alcanzado su capacidad máxima. ¡Es hora de comprar nuevos servidores o cerrar un juego en línea!
+  LABEL_BURNING_SERVER_TITLE: Los servidores se están quemando
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Usted está haciendo muy buen juego en línea, y los está vendiendo muy bien. Sin embargo, sus servidores están alcanzando su capacidad máxima,
+    la mayoría de ellos se utilizan al 90% o más. Usted debe comprar nuevos servidores.
+  LABEL_SMOKING_SERVER_TITLE: Advertencia de capacidad del servidor
   LABEL_PAYLOAN_TITLE: Pagar un prestamo
   LABEL_PAYLOAN_DESCRIPTION: |
     El pago programado ha llegado a su fin, usted tiene que
