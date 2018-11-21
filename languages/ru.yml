@@ -1,22 +1,22 @@
 ru:
   # Buttons actions verbs
-  BUTTON_ANNOUNCE: Объявить игру
+  BUTTON_ANNOUNCE: Анонсировать игру
   BUTTON_NEW_GAME: Новая игра
   BUTTON_HIRE: Нанять
-  BUTTON_APPLY: Применять
+  BUTTON_APPLY: Применить
   BUTTON_BACK: Назад
   BUTTON_BUILD_MODE: Режим строительства
   BUTTON_BUILDING_RENT: Аренда
   BUTTON_CANCEL: Отменить
   BUTTON_CLOSE: Закрыть
-  BUTTON_CREDITS: Credits
+  BUTTON_CREDITS: Титры
   BUTTON_EXIT: Выход
   BUTTON_FIRE: Удалить
   BUTTON_LOAD: Загрузить
   BUTTON_LOAD_GAME: Загрузить игру
   BUTTON_MAIN_MENU: Главное меню
   BUTTON_NEXT: Дальше
-  BUTTON_OK: Хорошо
+  BUTTON_OK: Ок
   BUTTON_OPTIONS: Настройки
   BUTTON_RESET: Сброс
   BUTTON_SKIP: Пропустить
@@ -29,7 +29,7 @@ ru:
   BUTTON_ABANDON: Отказаться
   BUTTON_ASSIGN_EMPLOYEE: Назначить
   BUTTON_KEEP_PLAYING: Продолжить играть
-  BUTTON_LEADERBOARD: Leaderboard
+  BUTTON_LEADERBOARD: Статистика
   BUTTON_GIVEUP: Сдаться
   BUTTON_LOAN: Займ
   BUTTON_REPAY: Погасить
@@ -41,22 +41,22 @@ ru:
   DROPDOWN_LANGUAGE: Языки
 
   # Labels, description
-  LABEL_YES: да
+  LABEL_YES: Да
   LABEL_NO: Hет
   LABEL_PRICE_MONTHLY: Ежемесячные расходы
-  LABEL_ONLINE_CAPACITY: Общая емкость игрока
+  LABEL_ONLINE_CAPACITY: Вместительность игроков
   LABEL_ONLINE_CAPACITY_TOOLTIP: Количество онлайн-игроков
   LABEL_SERVER: Cервер
-  LABEL_CAMPAIGN_NO_COST: Поговорите с прессой
+  LABEL_CAMPAIGN_NO_COST: Поговорить с прессой
   LABEL_CAMPAIGN_DEMO: Опубликовать демонстрационную версию
   LABEL_CAMPAIGN_FULL: Запустить рекламную кампанию
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s только что показал свою следующую игру: %s
-    Он будет доступен на %s
+    %s только что показали свою следующую игру: %s
+    Она будет доступна на %s
     Поклонники взволнованы, как и мы!
   LABEL_GAME_ANNOUNCED_TITLE: "Объявлено %s"
-  LABEL_TRENDING: Trending
-  LABEL_CREATOR: Создано
+  LABEL_TRENDING: Трэнды
+  LABEL_CREATOR: Создатель
   LABEL_PRODUCER: Pежиссер
   LABEL_COMMUNITY_MANAGER: Менеджер сообщества
   LABEL_SOUND_COMPOSER: Звуковой композитор
@@ -78,8 +78,8 @@ ru:
   LABEL_CONVENTION: Выставочный центр
   LABEL_LAND_VALUE: Стоимость земли
   LABEL_SURFACE: Поверхность
-  LABEL_HYPE: Обман
-  LABEL_AI: Искусственный интеллект
+  LABEL_HYPE: Ажиотаж
+  LABEL_AI: Искусственный Интеллект
   LABEL_ANIMATION: Анимация
   LABEL_ANISOTROPIC_FILTER: Анизотропная фильтрация
   LABEL_BUILDING_LEASE: Аренда
@@ -92,8 +92,8 @@ ru:
   LABEL_DEVELOPMENT: Движок
   LABEL_DIFFICULTY: Сложность
   LABEL_EVENT_TYPE: Тип события
-  LABEL_UNIT_SOLD: Единица продана
-  LABEL_FANBASE: Фаны
+  LABEL_UNIT_SOLD: Единиц продано
+  LABEL_FANBASE: Фан-база
   LABEL_FULLSCREEN: Полноэкранный режим
   LABEL_GAME_GENRE: Тип
   LABEL_GAME_HISTORY: История игры
@@ -101,9 +101,9 @@ ru:
   LABEL_GAME_SIZE: Размер
   LABEL_GAME_ONLINE_SHORT: Cетевой мультиплеер
   LABEL_PLATFORM_NOT_ONLINE: |
-    Эта платформа не поддерживает многопользовательскую онлайн-игру
+    Эта платформа не поддерживает многопользовательские онлайн-игры
   LABEL_GAMEPLAY: Геймплей
-  LABEL_GRAPHIC_SETTINGS: Графические настройки
+  LABEL_GRAPHIC_SETTINGS: Настройки графики
   LABEL_GRAPHISM: Графика
   LABEL_INCOME: Доход
   LABEL_INVALID_SAVE: Поврежденное сохранение
@@ -117,7 +117,7 @@ ru:
   LABEL_OPTIMIZATION: Оптимизация
   LABEL_OUTCOME: Результат
   LABEL_PHYSICS: Физика
-  LABEL_GAME_FINISHED: Поздравляем, вы прошли City Game Studio
+  LABEL_GAME_FINISHED: Поздравляем, вы прошли City Game Studio!
   LABEL_PLANNING: Планирование
   LABEL_NO_PLATFORM_AVAILABLE: Игра уже портирована на каждую доступную платформу
   LABEL_PLATFORM: Платформа
@@ -214,9 +214,9 @@ ru:
   LABEL_TYPE_CITY_BUILDER: Строительство городов
   LABEL_TYPE_GOVERNMENT: Правительство
   LABEL_TYPE_VEHICLE: Транспортное средство
-  LABEL_TYPE_RACING: Гоночный
-  LABEL_TYPE_DRIVE: Водитель
-  LABEL_TYPE_FLY: Летать
+  LABEL_TYPE_RACING: Гонки
+  LABEL_TYPE_DRIVE: Вождение
+  LABEL_TYPE_FLY: Полёт
   LABEL_TYPE_SPACE: Космос
   LABEL_TYPE_SUBMARINE: Подводная лодка
   LABEL_TYPE_TRAIN: Поезд
@@ -234,8 +234,8 @@ ru:
   LABEL_TARGETTED_AUDIENCE_ALL: Все
   LABEL_TARGETTED_AUDIENCE_MATURE: Взрослые
   LABEL_GAME_SIZE_INDIE: Инди
-  LABEL_GAME_SIZE_NORMAL: Нормальный
-  LABEL_GAME_SIZE_BIG: Большой
+  LABEL_GAME_SIZE_NORMAL: Средняя
+  LABEL_GAME_SIZE_BIG: Большая
   LABEL_GAME_SIZE_AAA: AAA
   LABEL_MAP_SIZE_TINY: Крошечный
   LABEL_MAP_SIZE_SMALL: Маленький
@@ -245,9 +245,9 @@ ru:
   LABEL_DIFFICULTY_EASY: Легкий
   LABEL_DIFFICULTY_NORMAL: Нормальный
   LABEL_DIFFICULTY_HARD: Сложный
-  LABEL_DIFFICULTY_INSANE: Сверх-сложный
+  LABEL_DIFFICULTY_INSANE: Безумный
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s выпустила новую платформу: '%s'"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s убирают хорошо известную платформу '%s', фанаты плачут"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s убирают хорошо известную платформу '%s', фанаты огорчены"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
     %s выпустит новую платформу в течение нескольких месяцев '%s', которая будет
     работать в течение многих лет
