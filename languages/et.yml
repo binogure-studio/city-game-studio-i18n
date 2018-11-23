@@ -1,0 +1,636 @@
+et:
+  # Buttons actions verbs
+  BUTTON_ANNOUNCE: Kuulutage mängu
+  BUTTON_NEW_GAME: Uus mäng
+  BUTTON_HIRE: Laenutus
+  BUTTON_APPLY: Rakenda
+  BUTTON_BACK: tagasi
+  BUTTON_BUILD_MODE: Ehituse režiim
+  BUTTON_BUILDING_RENT: Rentima
+  BUTTON_CANCEL: Loobu
+  BUTTON_CLOSE: Sulge
+  BUTTON_CREDITS: Autorid
+  BUTTON_EXIT: Välju
+  BUTTON_FIRE: Tulekahju
+  BUTTON_LOAD: Koormus
+  BUTTON_LOAD_GAME: Laadige mängu
+  BUTTON_MAIN_MENU: Peamenüü
+  BUTTON_NEXT: Järgmine
+  BUTTON_OK: Okei
+  BUTTON_OPTIONS: Valikud
+  BUTTON_RESET: Lähtesta
+  BUTTON_SKIP: Vahele jätma
+  BUTTON_START: Alusta
+  BUTTON_NEED_STUDIO: Ükski stuudio puudub
+  BUTTON_CLEAR_EVENTS: Selge
+  BUTTON_TOO_BAD: Kahju
+  BUTTON_BUY_ANOTHER_ONE: Osta veel üks
+  BUTTON_ADOPT: Vastu võtma
+  BUTTON_ABANDON: Loobuma
+  BUTTON_ASSIGN_EMPLOYEE: Määrake
+  BUTTON_KEEP_PLAYING: Jätkake mängimist
+  BUTTON_LEADERBOARD: Leaderboard
+  BUTTON_GIVEUP: Alla andma
+  BUTTON_LOAN: Laen
+  BUTTON_REPAY: Tagastama
+  BUTTON_ZOOM: Suumi
+  BUTTON_BUY: Osta
+  BUTTON_SELL: Müüa
+  BUTTON_RENT: Rentima
+  BUTTON_CONFIRM: Kinnita
+  DROPDOWN_LANGUAGE: Keeled
+
+  # Labels, description
+  LABEL_MARKETING_MAGAZINE_ITEM: Ajakiri
+  LABEL_MARKETING_TV_ITEM: Televiisor
+  LABEL_MARKETING_WEBSITE_ITEM: Veebisait
+  LABEL_MARKETING_ONLINEAD_ITEM: Internetireklaam
+  LABEL_MARKETING_BILLBOARD_ITEM: Reklaamikampaania
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: Sotsiaalsed võrgustikud
+  LABEL_MARKETING_MAILINGLIST_ITEM: Uudiskiri
+  LABEL_SELF_PUBLISH: Isiklik avaldamine
+  LABEL_TRADE_PUBLISH: Traditsiooniline kirjastamine
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Tere,
+    
+    Ma olen %s, ma armastan %s ja tahaksin oma meeskonda võimalikult kiiresti liituda.
+    Võin olla tõhus ja tuua uusi teadmisi oma meeskondadele.
+    
+    Täname teid teie aja eest,
+    %s
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaanne rakendamine
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Tere,
+    
+    Kirjutan teid teavitama, et ma loobun oma positsioonist %s kohe.
+    Ma jätsin sellepärast, et leidsin uue töö kodumaale lähemal ja ettevõttes atraktiivsemaks.
+    Mulle meeldis väga palju aastaid, kes koos
+    sinuga töötasid, ma igatsen sind kõik!
+    
+    Lugupidamisega
+    %s
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Tagasiastumine
+  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+    Teil ei ole stuudioid, mis võiksid luua normaalse või suurema suurusega mängu.
+  LABEL_NO_FAN_BIG_GAME: |
+    Normaal- või suuremahulise mängu loomiseks on soovitatav, et vähemalt fännid oleksid %s, muidu mõjutab see müüki
+  LABEL_CONCURRENT_AMOUNT: Võistlejate arv
+  LABEL_YES: Jah
+  LABEL_NO: Ei
+  LABEL_PRICE_MONTHLY: Kuu kulud
+  LABEL_ONLINE_CAPACITY: Mängija kogu võimsus
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Samaaegselt tegutsevate mängijate arv
+  LABEL_SERVER: Server
+  LABEL_CAMPAIGN_NO_COST: Räägi pressiga
+  LABEL_CAMPAIGN_DEMO: Avaldage demo
+  LABEL_CAMPAIGN_FULL: Käivitage reklaamikampaania
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    %s on just näinud oma järgmist mängu: %s
+    See on saadaval %sVentilaatorid on põnevil, nii et ütleme me kõik!"
+  LABEL_GAME_ANNOUNCED_TITLE: "%s teatas"
+  LABEL_TRENDING: Trendid
+  LABEL_CREATOR: Loodud
+  LABEL_PRODUCER: Tootja
+  LABEL_COMMUNITY_MANAGER: Ühenduse juht
+  LABEL_SOUND_COMPOSER: Helilooja
+  LABEL_SPECIAL_THANKS: Eriline tänu
+  LABEL_VISITORS: "% d külastajat"
+  LABEL_ATTENDANCE: Osalejad
+  LABEL_NONE: Puudub
+  LABEL_NO_BUILDING: Hoone pole saadaval
+  LABEL_NO_CONVENTION: Ühtegi konventsiooni ei kavandata
+  LABEL_CONVENTION_LAST_DATE: Viimane konventsioon
+  LABEL_DATE: Tähtaeg
+  LABEL_STANDSIZE: Aluse suurus
+  LABEL_CONVENTION_NAME: Konvendi nimi
+  LABEL_ATTEND: Osalema
+  LABEL_ORGANIZE: Korraldage
+  LABEL_INFORMATIONS: Andmed
+  LABEL_GAME: Mäng
+  LABEL_GAMEPORT: Pange mäng
+  LABEL_CONVENTION: Messikeskus
+  LABEL_LAND_VALUE: Maa väärtus
+  LABEL_SURFACE: Pind
+  LABEL_HYPE: Pind...
+  LABEL_AI: Tehisintellekt
+  LABEL_ANIMATION: Animatsioon
+  LABEL_ANISOTROPIC_FILTER: Anisotroopne filter
+  LABEL_BUILDING_LEASE: Rentimine
+  LABEL_TYPE_BUILDING: Tüüp
+  LABEL_CHARACTERS: Tähemärgid
+  LABEL_COMPANY_NAME: Firma nimi
+  LABEL_CUTSCENES: Cutscenes
+  LABEL_CURRENCY: Valuuta
+  LABEL_DESIGN: Disain
+  LABEL_DEVELOPMENT: Areng
+  LABEL_DIFFICULTY: Raskused
+  LABEL_EVENT_TYPE: Sündmuse tüüp
+  LABEL_UNIT_SOLD: Müüdud üksus
+  LABEL_FANBASE: Fanbase
+  LABEL_FULLSCREEN: Täisekraan
+  LABEL_GAME_GENRE: Tüüp
+  LABEL_GAME_HISTORY: Mängute ajalugu
+  LABEL_GAME_NAME: Nimi
+  LABEL_GAME_SIZE: Suurus
+  LABEL_GAME_ONLINE_SHORT: Multiplayer online
+  LABEL_PLATFORM_NOT_ONLINE: See platvorm ei toeta multiplayerit
+  LABEL_GAMEPLAY: Gameplay
+  LABEL_GRAPHIC_SETTINGS: Graafilised seaded
+  LABEL_GRAPHISM: Grafism
+  LABEL_INCOME: Tulu
+  LABEL_INVALID_SAVE: Tulu...
+  LABEL_KICKOFF: Avalööki tegema
+  LABEL_LOAD_GAME: Laadige mängu
+  LABEL_MAP_SIZE: Kaardi suurus
+  LABEL_MARKETING_MATERIAL: Turundusmaterjal
+  LABEL_MUSIC: Muusika
+  LABEL_NETWORK: Võrk
+  LABEL_GRADE: Hinne
+  LABEL_OPTIMIZATION: Optimeerimine
+  LABEL_OUTCOME: Tulemus
+  LABEL_PHYSICS: Füüsika
+  LABEL_GAME_FINISHED: Õnnitleme, olete lõpetanud City Game Studio'i
+  LABEL_PLANNING: Planeerimine
+  LABEL_NO_PLATFORM_AVAILABLE: Mäng on juba saadaval kõigile kättesaadavatele platvormidele
+  LABEL_PLATFORM: Platvorm
+  LABEL_PLAYER_NAME: Mängija nimi
+  LABEL_PROFITS: Kasum
+  LABEL_POLISH: Poola keel
+  LABEL_PRICE: Hind
+  LABEL_RELEASE: Vabastage
+  LABEL_RESOLUTION: Vabastage...
+  LABEL_SCRIPTING: Skriptimine
+  LABEL_SOUND: Heli
+  LABEL_SOUND_SETTINGS: Heli seaded
+  LABEL_SOUNDFX: SoundFX
+  LABEL_SQUARE_FOOTAGE: Ala
+  LABEL_STAFF: Töötajad
+  LABEL_STORY: Lugu
+  LABEL_STUDIO: Stuudio
+  LABEL_TARGETTED_AUDIENCE: Sihtrühm
+  LABEL_THEME: Teema
+  LABEL_TUTORIEL: Juhendaja
+  LABEL_USERINTERFACE: Kasutajaliides
+  LABEL_THEME_MOVIE_ADAPTATION: Filmi kohanemine
+  LABEL_THEME_PREHISTORY: Eelajalooline
+  LABEL_THEME_ARCHEOLOGY: Arheoloogia
+  LABEL_THEME_POSTAPOCALYPTIC: Post-apokalüptiline
+  LABEL_THEME_ATLANTIS: Atlantis
+  LABEL_THEME_RELIGIOUS: Religioosne
+  LABEL_THEME_ORGANIZED_CRIME: Organiseeritud kuritegevus
+  LABEL_THEME_CROSSOVER: Mööda üle
+  LABEL_THEME_DESERT: Kõrbes
+  LABEL_THEME_COMEDY: Komöödia
+  LABEL_THEME_DRAGON: Draakon
+  LABEL_THEME_EROTIC: Erotic
+  LABEL_THEME_SPY: Spioon
+  LABEL_THEME_FANTASY: Fantaasia
+  LABEL_THEME_GHOST: Kummitus
+  LABEL_THEME_HISTORY: Ajalugu
+  LABEL_THEME_HORROR: Horror
+  LABEL_THEME_MEDICAL: Meditsiiniline
+  LABEL_THEME_OCEAN: Ookean
+  LABEL_THEME_ARABIAN_NIGHTS: Ookean...
+  LABEL_THEME_MYTHOLOGY: Mütoloogia
+  LABEL_THEME_NINJA: Ninja
+  LABEL_THEME_PARK: Parkima
+  LABEL_THEME_PIRATES: Piraat
+  LABEL_THEME_SCIENCE_FICTION: Ulme
+  LABEL_THEME_SUPER_HEROS: Super kangelane
+  LABEL_THEME_VAMPIRE: Vampiir
+  LABEL_THEME_TIME_TRAVEL: Ajas reisimine
+  LABEL_THEME_WESTERN: Lääneosa
+  LABEL_THEME_ZOMBIE: Zombie
+  LABEL_TYPE_ACTION: Tegevus
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_VERSUS_FIGHTING: Versus võitluses
+  LABEL_TYPE_PLATFORMS: Platvormid
+  LABEL_TYPE_SHOOT: Tulge
+  LABEL_TYPE_SHOOT_EM_UP: Tulista nende pihta
+  LABEL_TYPE_FPS: FPS
+  LABEL_TYPE_TPS: TPS
+  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_OPEN_WORLD: Avatud maailm
+  LABEL_TYPE_HTA_LIKE: HTA-tüüpi
+  LABEL_TYPE_INFILTRATION: Infiltratsioon
+  LABEL_TYPE_SURVIVAL: Ellujäämine
+  LABEL_TYPE_HORROR: Horror
+  LABEL_TYPE_ADVENTURE: Seiklus
+  LABEL_TYPE_INTERACTIVE_FICTION: Interaktiivne ilukirjandus
+  LABEL_TYPE_INTERACTIVE_MOVIE: Interaktiivne film
+  LABEL_TYPE_CHAT: Vestlus
+  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_EROGE: Eroge
+  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_VISUAL_NOVEL: Visuaalne romaan
+  LABEL_TYPE_MYSTERY_LIKE: Mystery-like
+  LABEL_TYPE_RPG: RPG
+  LABEL_TYPE_ACTION_RPG: Tegevus RPG
+  LABEL_TYPE_DUNGEON_CRAWLER: Dungeon roomik
+  LABEL_TYPE_MMORPG: MMO-RPG
+  LABEL_TYPE_DUNGEON: Dungeon
+  LABEL_TYPE_CROOK_LIKE: Crook-like
+  LABEL_TYPE_TACTICAL_RPG: Taktikaline RPG
+  LABEL_TYPE_REFLEXION: Klassikaline mõistatus
+  LABEL_TYPE_MAZE: Maze
+  LABEL_TYPE_HIDDEN_OBJECT: Varjatud objektid
+  LABEL_TYPE_PUZZLE: Mõistatus
+  LABEL_TYPE_SIMULATION: Mõistatus...
+  LABEL_TYPE_ANIMALS: Loomad
+  LABEL_TYPE_GOD_GAME: Jumala mäng
+  LABEL_TYPE_FARMING: Põllumajandus
+  LABEL_TYPE_LIVING_ORGANISM: Elav organism
+  LABEL_TYPE_SPORT: Sport
+  LABEL_TYPE_MANAGEMENT: Juhtimine
+  LABEL_TYPE_ECONOMY: Majandus
+  LABEL_TYPE_CITY_BUILDER: Linnaehitaja
+  LABEL_TYPE_GOVERNMENT: Valitsus
+  LABEL_TYPE_VEHICLE: Sõiduk
+  LABEL_TYPE_RACING: Võidusõit
+  LABEL_TYPE_DRIVE: Juht
+  LABEL_TYPE_FLY: Lendama
+  LABEL_TYPE_SPACE: Ruumi
+  LABEL_TYPE_SUBMARINE: Allveelaev
+  LABEL_TYPE_TRAIN: Rong
+  LABEL_TYPE_STRATEGY: Strateegia
+  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_MOBA_LIKE: Moba-like
+  LABEL_TYPE_TOWER_DEFENSE: Tower kaitse
+  LABEL_TYPE_TURN_BASED: Pöörake baasil
+  LABEL_TYPE_ARTILLERY: Suurtükivägi
+  LABEL_TYPE_CASUAL: Casual
+  LABEL_TYPE_BREAKOUT: Välja murdma
+  LABEL_TYPE_RYTHM: Rythm
+  LABEL_TYPE_CLICKER_GAME: Clicker-mäng
+  LABEL_TARGETTED_AUDIENCE_YOUNG: Noored
+  LABEL_TARGETTED_AUDIENCE_ALL: Kõik
+  LABEL_TARGETTED_AUDIENCE_MATURE: Küps
+  LABEL_GAME_SIZE_INDIE: Indie
+  LABEL_GAME_SIZE_NORMAL: Tavaline
+  LABEL_GAME_SIZE_BIG: Suur
+  LABEL_GAME_SIZE_AAA: AAA
+  LABEL_MAP_SIZE_TINY: Tiny
+  LABEL_MAP_SIZE_SMALL: Väike
+  LABEL_MAP_SIZE_MEDIUM: Keskmine
+  LABEL_MAP_SIZE_LARGE: Suur
+  LABEL_MAP_SIZE_HUGE: Tohutu
+  LABEL_DIFFICULTY_EASY: Lihtne
+  LABEL_DIFFICULTY_NORMAL: Tavaline
+  LABEL_DIFFICULTY_HARD: Raske
+  LABEL_DIFFICULTY_INSANE: Hullumeelsus
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: Hullumeelsus...
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    %s pensioneerib nii tuntud " %s", fännid nutt
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+    %s vabastab uue platvormi paari kuu jooksul %s, peaks see kesta aastaid
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    %s teatab nii tuntud "%s"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
+    Olete lukustanud %s litsentsi, see maksab %s $
+  LABEL_PLATFORM_RELEASED_TITLE: Platvorm vabastati
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Katkestatud platvorm
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Tulevane platvorm
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Tulevane eluetapi platvorm
+  LABEL_PLATFORM_UNLOCKED_TITLE: Platvorm ostis
+  LABEL_CLICK_TO_CLOSE: Klõpsake sulgemiseks
+  LABEL_SHOP_UI: Pood
+  LABEL_DESK: Laud
+  LABEL_BOOKSHELF: Raamaturiiul
+  LABEL_WASTEBASKET: Prügikast
+  LABEL_ASSIGN_EMPLOYEE: Töötajad
+  LABEL_NEW_GAME: Uus mäng
+  LABEL_MODDING: Modifitseerimine
+  LABEL_ARTWORK: Kunstiteos
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Kunstiteos...
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Žanr lukus: %s"
+  LABEL_MAGAZINE_0: Fännimäng
+  LABEL_MAGAZINE_1: PC-mängija
+  LABEL_MAGAZINE_2: Mäng Geek
+  LABEL_MAGAZINE_3: Mäng üle Mag
+  LABEL_MAGAZINE_4: Geeki keskus
+  LABEL_MAGAZINE_5: Mäng 2
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: Wiki-mängija
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: Mäng läbi
+  LABEL_SCORE: Skoor
+  LABEL_WAGE_INCREASES_TITLE: Palgatõus
+  LABEL_WAGE_INCREASES_DESCRIPTION: "Palgatõusud on tõusnud järgmistel töötajatel:"
+  LABEL_PRESS_KEY: Vajuta
+  LABEL_WORD_OR: või
+  LABEL_INPUT_ACTION_UI_ROTATE: objekti pööramiseks
+  LABEL_INPUT_ACTION_UI_DELETE: objekti müüa
+  LABEL_INPUT_ACTION_UI_PAUSE: pausi
+  LABEL_INPUT_ACTION_UI_CANCEL: tühistada
+  LABEL_INPUT_ACTION_UI_REPEAT: panna mitu eset
+  LABEL_CATCHPHRASE_1_0: Ajaraiskamine
+  LABEL_CATCHPHRASE_1_1: Nad panid kõike haagisesse
+  LABEL_CATCHPHRASE_1_2: Ära seda osta
+  LABEL_CATCHPHRASE_1_3: Tundmatu loovuse puudumine
+  LABEL_CATCHPHRASE_1_4: Keskpärasus selle paroksüsmil
+  LABEL_CATCHPHRASE_1_5: Halvim võimalik skoor
+  LABEL_CATCHPHRASE_2_0: Ilmne pettumus
+  LABEL_CATCHPHRASE_2_1: Keegi ütles keskpäraseks?
+  LABEL_CATCHPHRASE_2_2: Keegi ütles halvasti?
+  LABEL_CATCHPHRASE_2_3: Pettumusttekitav kogemus
+  LABEL_CATCHPHRASE_2_4: "Üks sõna: tühi"
+  LABEL_CATCHPHRASE_2_5: "Üks sõna: tühi..."
+  LABEL_CATCHPHRASE_3_0: Katastroofi otseülevaade
+  LABEL_CATCHPHRASE_3_1: Pettumus, mis vastab tema ambitsioonidele
+  LABEL_CATCHPHRASE_3_2: Nad panid kõike sisse, kuid neil polnud palju
+  LABEL_CATCHPHRASE_3_3: Kui ainult nad oleksid teinud mängu
+  LABEL_CATCHPHRASE_3_4: Häiriv kogemus
+  LABEL_CATCHPHRASE_3_5: Me nägime halvemini, kuid nägime ennekõike paremini!
+  LABEL_CATCHPHRASE_4_0: Mõne hea idee jaoks liiga ebamugav
+  LABEL_CATCHPHRASE_4_1: Mäng ei ole nii oluline
+  LABEL_CATCHPHRASE_4_2: Halb idee
+  LABEL_CATCHPHRASE_4_3: Mäng, mis soovis olla uuenduslik...
+  LABEL_CATCHPHRASE_4_4: Arusaamatuse korral võiksime seda uuesti mängida
+  LABEL_CATCHPHRASE_4_5: Parim hetk? Kui see peatub
+  LABEL_CATCHPHRASE_5_0: Minimaalne teenus
+  LABEL_CATCHPHRASE_5_1: Maitsetu sulatuspott
+  LABEL_CATCHPHRASE_5_2: Väga segatud aruanne
+  LABEL_CATCHPHRASE_5_3: Nägime paremini, kuid me nägime eriti hullemat!
+  LABEL_CATCHPHRASE_5_4: Muidugi, see pole aasta mäng
+  LABEL_CATCHPHRASE_5_5: Õõnesruum, mille kasutusiga on piiratud
+  LABEL_CATCHPHRASE_6_0: Tundmatu
+  LABEL_CATCHPHRASE_6_1: Lihtsus, kuid üleliigne mäng
+  LABEL_CATCHPHRASE_6_2: Humble, kuid huvitav
+  LABEL_CATCHPHRASE_6_3: Humble, kuid huvitav...
+  LABEL_CATCHPHRASE_6_4: Huvitav mõiste, mida rikkus juhuslikkus
+  LABEL_CATCHPHRASE_6_5: Olin hea aeg
+  LABEL_CATCHPHRASE_7_0: Sobivus ja tõhusus
+  LABEL_CATCHPHRASE_7_1: Rikas sisu, mida juhib keskpärane saavutus
+  LABEL_CATCHPHRASE_7_2: Suurepärane esteetika, vigased mehhanismid
+  LABEL_CATCHPHRASE_7_3: Suurepärane piiratud sisu kontseptsioon
+  LABEL_CATCHPHRASE_7_4: Kas sobib mulle?
+  LABEL_CATCHPHRASE_7_5: Me ei ole päris kaugel
+  LABEL_CATCHPHRASE_8_0: Lõbu parimas riigis
+  LABEL_CATCHPHRASE_8_1: Värske tuul
+  LABEL_CATCHPHRASE_8_2: Peab olema sõpradega pidude jaoks
+  LABEL_CATCHPHRASE_8_3: Opus tõeliselt üksteisest
+  LABEL_CATCHPHRASE_8_4: Kaetud ilu
+  LABEL_CATCHPHRASE_8_5: Meeldiv ja intensiivne
+  LABEL_CATCHPHRASE_9_0: Üks aasta parimatest mängudest
+  LABEL_CATCHPHRASE_9_1: Lõplik mäng?
+  LABEL_CATCHPHRASE_9_2: Täiesti õlitatud masin
+  LABEL_CATCHPHRASE_9_3: See on tohutu
+  LABEL_CATCHPHRASE_9_4: Awesome kogemus
+  LABEL_CATCHPHRASE_9_5: Suurepärane töö
+  LABEL_CATCHPHRASE_10_0: Gameplayi kalliskivi
+  LABEL_CATCHPHRASE_10_1: Lavastuse meistriteos
+  LABEL_CATCHPHRASE_10_2: Peab olema
+  LABEL_CATCHPHRASE_10_3: Üks parimaid mänge viimasel ajal
+  LABEL_CATCHPHRASE_10_4: Tundi, ainult headel aegadel
+  LABEL_CATCHPHRASE_10_5: See mäng tähistab kõigi meelt
+  LABEL_CATCHPHRASE_11_0: Kunstiline punch
+  LABEL_CATCHPHRASE_11_1: Kunstiline punch...
+  LABEL_CATCHPHRASE_11_2: Auhind videomänge
+  LABEL_CATCHPHRASE_11_3: Video, mis taastab videomängude prestiiži
+  LABEL_CATCHPHRASE_11_4: Kui täiuslikkus oli mäng
+  LABEL_CATCHPHRASE_11_5: Kahekümnenda maailma ime
+  LABEL_CREATE_SEQUEL: Loo järge
+  LABEL_NEW_IP: Uus IP
+  LABEL_POSTMORTEM: Surnud tapmine
+  LABEL_EMPTY_STUDIO: Hoiatus selles stuudios ei sisalda ühtegi arvutiga arvutit!
+  LABEL_MATCH_EXCELLENT: Suurepärane vaste
+  LABEL_MATCH_GOOD: Hea matš
+  LABEL_MATCH_OK: Hea küll
+  LABEL_MATCH_POOR: Kehv matš
+  LABEL_POSTMORTEM_TITLE: Surnud tapmine
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Me pole õppinud midagi '%s'"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Siin me oleme õppinud '%s' -st: %s"
+  LABEL_POSTMORTEM_MATCH: "[ul] - Match '%s ja '%s' vahel on '%s' [/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - '%s' haldamiseks mängu tüüpi '%s' [/ul]"
+  LABEL_MARKET_SHARE: Turuosa
+  LABEL_LICENSE_COST: Litsents
+  LABEL_OWNED: Omandanud
+  LABEL_WEEK_COST: Arengukulu
+  LABEL_CATALOG_SIZE: Kataloogi suurus
+  LABEL_PLATFORM_LIST: Platvormi loend
+  LABEL_IDLE: Idle
+  LABEL_ADOPT_CAT_DESCRIPTION: |
+    %s oma stuudio töötajad on leidnud mõne prügikasti
+    peidetud hullu kassi.See kass on väga kaval ja personali nimi on juba antud. Mida
+    sa tahad teha?
+  LABEL_ADOPT_CAT_TITLE: Kodutu kass
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
+    Blue Studio'is said kaks venda äsja uue mängu.See
+    on mängude vahetaja ja on tekkinud uus mängutüüp. Mystery-like
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like on leiutatud
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: Mystery-like on leiutatud...
+  LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-taoline on leiutatud
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
+    3 garaažis olevat meest on loonud uue värske mängu.See on nii kuulus, et on loonud uue mängu žanri, Crook
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like on leiutatud
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
+    3 ameeriklaste disainerid lõid modsid kuulsale mängule. Moba žanr on sündinud
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Mobatarnane on leiutatud
+  LABEL_BROKEN_COFFEEMAKER_TITLE: Purustatud kohvimasin
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
+    Teie stuudios %s töötajad on kohvi sõltuvad.Kuid
+    kohvimasin on teeninud oma viimast tassi... Mida sa tahad teha?
+  LABEL_RABBIT_INVASION_DESCRIPTION: |
+    Küülikud, küülikud kõikjal. Nad teevad müra...
+    nad töötavad kõikjal.Kuid keegi ei märka neid ja inimesed jätkavad tööd...
+  LABEL_RABBIT_INVASION_TITLE: Küüliku sissetung
+  LABEL_TARGETTED_AUDIENCE_FEATURE: |
+    Eksperdid leidsid, et mängud võivad sihtida konkreetset
+    vaatajaskonda.Nad avaldasid paberi umbes 3 erineva publiku kohta: noored, kõik
+    ja küpsed
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
+    Uut viirust on vallandatud. See on suunatud ainult
+    videomänguettevõtetele.Tundub koefitsient, kuid aeglustab kursorit ja arvutid
+    juhuslikult taaskäivitatakse.See mõjutab kindlasti teie töötajate tootlikkust. Ainult %s on rünnatud
+  LABEL_VIRUS_UNLEASHED_TITLE: Virus vallandas
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
+    Vlogger, kes kuulus oma
+    mängude arvustuste üle, avaldas uue video.Ja seekord vaatles ta ühte oma mängudest %s.
+    See kindlasti mõjutab müüki.
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Tasuta reklaamid
+  LABEL_LOAN_TITLE: Viimase abinõu laen
+  LABEL_LOAN_DESCRIPTION: |
+    Te vajate lisaraha, me saame teid aidata. Võite end ära
+    tasuda laenu %s $.Meie intressimäärad on nii madalad kui ainult %s %%, ja teil
+    on tagasimaksmiseks %s nädalat.See on nagu terve elu nii nagu sinu jaoks. Me oleme
+    teie viimane võimalus, lase ennast kiusata.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Kas see lõhnab nagu tulekahju ?!Teie serverid
+    on jõudnud maksimaalse võimsusega.On aeg uute serverite ostmiseks või veebimängu
+    sulgemiseks!
+  LABEL_BURNING_SERVER_TITLE: See sobib
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Teete väga hea veebimängu ja müüte neid väga hästi.Kuid
+    teie serverid jõuavad oma maksimaalse võimsusega, enamik neist on kasutusel vähemalt
+    90% ulatuses.Sa peaksid ostma uusi servereid.
+  LABEL_SMOKING_SERVER_TITLE: Serveri võimsuse hoiatus
+  LABEL_PAYLOAN_TITLE: Tagastama laenu
+  LABEL_PAYLOAN_DESCRIPTION: |
+    Kavandatud tagasimaksmine on nüüd lõppenud, peate maksma %s $.
+  LABEL_SELL_STUDIO_TITLE: Stuudio müümine
+  LABEL_SELL_STUDIO_DESCRIPTION: Müüte stuudio %s, kas soovite jätkata?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Kuna %s on teie viimane stuudio või see on projektis töötamiseks hõivatud, ei saa te seda müüa
+  LABEL_BUILDING_AREA: Pindala %s m²
+  LABEL_BUILDING_BUY: Hind
+  LABEL_BUILDING_RENT: Rentima
+  LABEL_BUILDING_CONVENTION: Messikeskus
+  LABEL_BUILDING_TYPE: Hoone
+  LABEL_BUILDING_ROAD: Tee
+  LABEL_BUILDING_STREET: Tänav
+  LABEL_BUILDING_APARTMENT: Korter
+  LABEL_BUILDING_HOTEL: Hotell
+  LABEL_BUILDING_THEATER: Teater
+  LABEL_BUILDING_TOWER: Torn
+  LABEL_BUILDING_STUDIO: Stuudio
+  LABEL_BUILDING_BUILDING: Elukoht
+  LABEL_BUILDING_GRASS: Rohi
+  LABEL_BUILDING_SQUARE: Ruut
+  LABEL_BUILDING_CAFE: Kohv
+  LABEL_BUILDING_RESTAURANT: Restoran
+  LABEL_BUILDING_PIZZERIA: Pizzeria
+  LABEL_BUILDING_GYM: Jõusaal
+  LABEL_BUILDING_OFFICE: Büroo
+  LABEL_NO_GAME_AVAILABLE: Mäng pole saadaval
+  LABEL_NO_MONEY: Liiga kallis
+  LABEL_COMPUTER: Arvuti
+  LABEL_PLANT: Taim
+  LABEL_TABLEPLANT: Tabel
+  LABEL_PRINTER: Printer
+  LABEL_COFFEEMACHINE: Kohvimasin
+  LABEL_DARKMETALTABLEDESK: Tume metallist laud
+  LABEL_METALDESK: Metalltoolid
+  LABEL_METALLARGEDESK: Suur metalltool
+  LABEL_METALTABLEDESK: Metalltoolid
+  LABEL_WOODDESK: Puidust laud
+  LABEL_WOODLARGEDESK: Suur puidust laud
+  LABEL_WOODTABLEDESK: Puidust laud
+  LABEL_WATERTANK: Purskkaev
+  LABEL_WHITEBOARD: Tahvel
+  LABEL_WOODBOOKSHELF: Puidust raamaturiiul
+  LABEL_METALBOOKSHELF: Metallist raamaturiiul
+  LABEL_HOLIDAY: Puhkus
+  LABEL_NO_COMPUTER: Ei ole arvutit
+  LABEL_NO_STUDIO: Nr stuudio
+  LABEL_EMPLOYEE_CAPACITY: Prod.
+  LABEL_STUDIO_CAPACITY: Studio prod.
+  LABEL_EMPLOYEE_TOOLTIP: Tootlikkus (Prod.) Suurendab töötajate efektiivsust
+  LABEL_STUDIO_TOOLTIP: Tootlikkus (Prod.) Suurendab stuudio efektiivsust
+  LABEL_BUILD_STUDIO: Muuda stuudioid
+  LABEL_WALL: Sein
+  LABEL_PILLAR: Sammas
+  LABEL_FLOOR: Põrand
+  LABEL_HIRING_DATE: Rendi kuupäev
+  LABEL_WORK: Olek
+  LABEL_NUMBER_OF_GAME_PRODUCED: Toodetud mängud
+  LABEL_DESIGN_POINT_PRODUCED: Projekteeritud punktide arv
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Toodetud arenduspunktide arv
+  LABEL_POLISH_POINT_PRODUCED: Poola toodetud punktide arv
+  LABEL_PRODUCTIVITY: Tootlikkus
+  LABEL_MONEY_EFFICIENCY: Kulude tõhusus
+  LABEL_SKILLS: Oskused
+  LABEL_HOME: Kodu
+  LABEL_MONTH: Kuu
+  LABEL_ORDER_BY: Telli poolt
+  LABEL_BUY_PRICE: Osta hinda
+  LABEL_RENT_PRICE: Rendihind
+  LABEL_NO_STUDIO_AVAILABLE: Ühtegi stuudio pole saadaval
+  LABEL_REAL_ESTATE: Kinnisvara
+  LABEL_STAFF_SIZE: Personali suurus
+  LABEL_CREATION_DATE: Loomise kuupäev
+  LABEL_STUDIO_LIST: Stuudio nimekiri
+  LABEL_NO_STUDIO_FOUND: Ükski stuudio ei leitud
+  LABEL_PRODUCTIVITY_BONUS: Tootlikkuse boonus
+  LABEL_SKILLS_AVERAGE: Oskused (keskmiselt)
+  LABEL_VSYNC: VSync
+  LABEL_BORDERLESS_WINDOW: Borderless window
+  LABEL_GAMEEDITION_SUBMIT: Teil on palju fänne.Olete piisavalt tuntud mängude muutmiseks.
+  LABEL_GAMEEDITION_RECEIVE: |
+    Pärast hiljutist edu saavutab kirjastajad teiega teiega pakkumise tegemiseks aega.
+  LABEL_WORLDMAP: Sa otsid üles, kogu maailm ootab sind väljas.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
+    Esimesed videomängude ajakirjad ilmuvad, kas soovite reklaamida ühte oma mängu sellesse?
+  LABEL_MARKETING_CAMPAIGN_TV: On aeg teha oma mänge teada telereklaamide kaudu.
+  LABEL_MARKETING_CAMPAIGN_INTERNET: |
+    Algab Interneti-ajastu, saate jõuda miljonitele inimestele lihtsa bänner-reklaamiga.
+  LABEL_CONCURRENT_STUDIOS_LIST: |
+    Teie stuudio kasvab, on aeg uurida turgu ja jälgida konkurentsi.
+  LABEL_CONCURRENT_STUDIOS_BUY: |
+    Kas teed jooksevad, võib-olla oleks aeg osta konkureerivaid stuudioid?
+  LABEL_FURNITURES_COMMON_BUY: Aeg on nüüd stiilse kontoritööde tegemiseks.
+  LABEL_EMPLOYEES_HIRE: |
+    Teie stuudio kasvab, toodab rohkem mänge, parandab selle kvaliteeti. Kuid kõigepealt peate värbama.
+  LABEL_STUDIO_RENT: |
+    Oled nüüd oma väikese stuudio küljes pakendis, mine järgmisele asukohale.
+  LABEL_STUDIO_BUILD: Teie edu võimaldab teil luua enda stuudiod.
+  LABEL_CONVENTION_ORGANIZE: |
+    Kui miljon inimest toetab teid, saate nüüd oma tavasid korraldada.
+  LABEL_CONVENTION_PARTICIPATE: |
+    Sa mängude kataloogi on väärt nähtus, konventsioonide osalemine võib aidata parandada oma nähtavust.
+  LABEL_STUDIO_CUSTOMIZE: |
+    Teie igavad seinad kahandavad teie tootlikkust? Aeg seda ümber kujundada.
+  LABEL_FURNITURES_SERVERS_BUY: |
+    Veel lauale, rohkem tooli, rohkem arvutit, rohkem valgeid plaate, veelgi rohkem!
+  LABEL_GAME_ONLINE: |
+    Kuidas hoida oma mängijad ekraanile liimitud?INTERNET: tee online mänge ja nad on sõltuvuses!
+  LABEL_DIGITAL_STORE: |
+    Dematerialiseeritud: hakkate seda kuulma ja te juba teate, et see on tulevik.
+  LABEL_POSTMORTEM_FEATURE: |
+    Õnnitleme, olete teinud oma esimese mängu. Nüüd saate jätkata post-mortem, et aidata teil hinnata selle arengut, disaini ja poleerimine
+  LABEL_NEW_GAME_FEATURE: |
+    Kas olete valmis alustama videomängude eetilist ajalugu? Tere tulemast City Game Studio'i.
+    Alustage ja looge oma esimene mäng.
+  LABEL_LOADING: Laadimine
+  LABEL_NAME: Nimi
+  LABEL_SALARY: Palk
+  LABEL_NO_SCORE: Ühtegi skoori pole veel üles laaditud!
+  LABEL_CAPACITY_STORY_FEATURE: |
+    Hea mäng on alati hea, hea lugu on alati hea.Mis on hea lugu mäng?
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
+    Mis on selle nupu eesmärk?Peate hallata oma mängude kasutajaliidest
+  LABEL_CAPACITY_NETWORK_FEATURE: |
+    On aeg mängida videomängu suurepäraselt, kuid mängides seda sõpradega on veelgi parem!Peate oma mängude võrgu haldama
+  LABEL_CAPACITY_MODDING_FEATURE: |
+    Mõned teie mängud on mängijad juba muutnud. Tänu sellele müüte rohkem mängu.
+    On aeg aidata häkkeritel ja töötada õige mod API-ga: teie mängude jaoks
+  LABEL_CAPACITY_CUTSCENES_FEATURE: |
+    Videod mõjutavad videomänge, peame uue mängu loomise ajal mängima lugusid
+  LABEL_CAPACITY_TUTORIEL_FEATURE: |
+    Uue mängu mängimine on nagu õppimine.See pole lihtne, nii et olete otsustanud oma uute mängude juhendamise luua.
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
+    Rick ja Paris näitavad oma eraelu. Sotsiaalsed võrgustikud on siin hea ja saate neid kasutadaoma mängude turustamiseks!
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: |
+    Hiljutised uuringud näitavad, et soovimatute meilide saatmine võib märkimisväärselt suurenedateie mängude nähtavus.
+    Rämpspost on uus sõna meeleolu javõite neid oma mängude turustamiseks kasutada!
+  LABEL_GAMEPORT_FEATURE: |
+    Unistused täituvad. Uus konsool on äsja välja lastud! Saate vabastada platvormiülese mängu. Lähme, proovige seda!
+  LABEL_GAME_CREATION: Iga matemaatilise osa määramiseks arvutage iga mänguosa töökoormus
+  
+  # Placeholder used for forms
+  PLACEHOLDER_COMPANY_NAME: Firma nimi
+  PLACEHOLDER_GAME_GENRE: Mängu žanr
+  PLACEHOLDER_GAME_NAME: Mängu nimi
+  PLACEHOLDER_PLAYER_NAME: Sinu nimi
+
+  # Tooltips
+  TOOLTIP_GAMEPORT: Pange videomäng teisele platvormile
+  TOOLTIP_POSTMORTEM: |
+    Loo postmortemi aruanne.Ajutine aruanne aitabsa loote paremaid mänge
+  TOOLTIP_CREATE_GAME: Loo uus mäng
+  TOOLTIP_STAFF: Töötajate nimekiri
+  TOOLTIP_RECRUIT: Võimalike kandidaatide nimekiri linnas
+  TOOLTIP_PORTFOLIO: Lisage kõik seni tehtud mängud
+  TOOLTIP_OPTION: Parameeter ja valikud
+  TOOLTIP_EXIT: Tagasi Linuxile
+  TOOLTIP_STUDIOS: Lisage oma stuudiod
+  TOOLTIP_STUDIOLIST: Nimekiri bürood on saadaval linnas
+  TOOLTIP_CONSTRUCT: Tehke uus hoonekontoris võivastuvõttev konventsioon
+  TOOLTIP_CONFERENCE: Konventsioonide haldamine
+  TOOLTIP_MARKETING: Turunduskampaaniate haldamine
+  TOOLTIP_SELL: Müü oma kontorit
+  TOOLTIP_SHOP: Osta oma kontori jaoks mööblit ja asju
+  TOOLTIP_BUILDMOD: Printige ja kaunistage oma kontor
+  TOOLTIP_ASSIGN: Asetage töötaja lauale
+  TOOLTIP_STUDIO_SELECT: Lisage oma stuudiod
+  TOOLTIP_ANNOUNCE_GAME: Kuulutage videomängu.Loob hype.
+  TOOLTIP_CONCURRENT: Videomängu ettevõtted
