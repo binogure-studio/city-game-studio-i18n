@@ -41,6 +41,30 @@ de:
   DROPDOWN_LANGUAGE: Sprache
 
   # Labels, description
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Hallo,
+    
+    Ich bin %s, ich liebe %s und möchte so schnell wie möglich Ihrem Team beitreten.
+    Ich werde in der Lage sein, effektiv zu sein und neues Wissen in Ihre Teams einzubringen.
+
+    Vielen Dank für Ihre Zeit,
+    %s
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontane Bewerbung
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Hallo,
+
+    Ich schreibe, um Ihnen mitzuteilen, dass ich mit sofortiger Wirkung von meiner Position bei %s zurücktrete.
+    Ich bin gegangen, weil ich einen neuen Job in der Nähe von zu Hause und in einem attraktiveren Unternehmen gefunden habe.
+
+    Ich habe die Jahre der Zusammenarbeit mit euch sehr genossen, ich werde euch alle vermissen!
+
+    Mit freundlichen Grüßen
+    %s
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Rücktritt
+  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+    Du hast kein Studio, das ein Spiel von normaler oder größerer Größe erstellen kann.
+  LABEL_NO_FAN_BIG_GAME: |
+    Um ein Spiel von normaler oder größerer Größe zu erstellen, wird empfohlen, mindestens %s der Fans zu haben, da es sonst Auswirkungen auf den Umsatz haben wird.
   LABEL_CONCURRENT_AMOUNT: Anzahl der Wettbewerber
   LABEL_YES: Ja
   LABEL_NO: Nein
@@ -639,3 +663,5 @@ de:
   TOOLTIP_ANNOUNCE_GAME: |
     Kündigen Sie das Videospiel an.
     Schafft Hype
+  TOOLTIP_CONCURRENT: |
+    Liste der Videospielunternehmen

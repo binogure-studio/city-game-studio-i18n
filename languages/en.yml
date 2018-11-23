@@ -41,6 +41,30 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Hello,
+    
+    I am %s, I love %s and I would like to join your team as soon as possible.
+    I will be able to be effective and bring new knowledge to your teams.
+
+    Thank you for your time,
+    %s
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaneous application
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Hello,
+
+    I am writing to inform you that I am resigning from my position at %s effective immediately.
+    I left because I found a new job closer to home, and in a company more attractive.
+
+    I really enjoyed the years spent working with you, I will miss you all!
+
+    Sincerely
+    %s
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Resignation
+  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+    You don't have a studio that can create a game of normal or larger size.
+  LABEL_NO_FAN_BIG_GAME: |
+    To create a game of normal or larger size, it is recommended to have at least %s of fans, otherwise it will have an impact on sales
   LABEL_CONCURRENT_AMOUNT: Number of competitors
   LABEL_YES: Yes
   LABEL_NO: No
@@ -627,3 +651,5 @@ en:
   TOOLTIP_ANNOUNCE_GAME: |
     Announce the video game.
     Creates hype.
+  TOOLTIP_CONCURRENT: |
+    List of video game companies

@@ -41,6 +41,30 @@ it:
   DROPDOWN_LANGUAGE: Lingue
 
   # Labels, description
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Salve,
+    
+    Sono %s, amo %s e vorrei unirmi alla vostra squadra il più presto possibile.
+    Sarò in grado di essere efficace e portare nuove conoscenze ai vostri team.
+
+    Grazie per il vostro tempo,
+    %s
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Applicazione spontanea.
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Salve,
+
+    Le scrivo per informarla che mi dimetterò dalla mia posizione a %s con effetto immediato.
+    Sono partito perché ho trovato un nuovo lavoro più vicino a casa e in un'azienda più attraente.
+
+    Mi sono davvero piaciuti gli anni passati a lavorare con voi, mi mancherete tutti!
+
+    Sinceramente
+    %s
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Dimissioni.
+  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+    Non hai uno studio che può creare un gioco di dimensioni normali o maggiori.
+  LABEL_NO_FAN_BIG_GAME: |
+    Per creare un gioco di dimensioni normali o maggiori, si raccomanda di avere almeno %s di fan, altrimenti avrà un impatto sulle vendite.
   LABEL_CONCURRENT_AMOUNT: Numero di concorrenti
   LABEL_YES: Sì
   LABEL_NO: No
@@ -620,3 +644,5 @@ it:
   TOOLTIP_ANNOUNCE_GAME: |
     Annuncia il videogioco.
     Crea hype.
+  TOOLTIP_CONCURRENT: |
+    Elenco delle aziende di videogiochi

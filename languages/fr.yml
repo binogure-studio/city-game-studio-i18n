@@ -41,6 +41,30 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Bonjour,
+    
+    Je me présente %s, j'adore %s et je souhaiterai rejoindre votre équipe au plus vite.
+    Je saurai me montrer efficace et apporterai de nouvelles connaissances a vos équipes.
+
+    Merci pour votre temps,
+    %s
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Candidature spontannée
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Bonjour,
+
+    La présente a pour objet de vous faire que je démissionne de mon poste chez %s dès aujourd'hui.
+    Mon départ s'explique par le fait que j'ai trouvé un nouvel emploi plus près de chez moi, et dans une entreprise plus attrayante.
+
+    J'ai beaucoup apprécié les années passées a travailler avec vous, vous me manquerez tous!
+
+    Cordialement
+    %s
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Démission
+  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+    Vous ne possédez aucun studio permettant de créer un jeu de taille normal ou plus grand.
+  LABEL_NO_FAN_BIG_GAME: |
+    Pour créer un jeu de taille normal ou plus grand, il est recommandé d'avoir au minimum %s de fans, sinon cela aura un impact sur les ventes
   LABEL_CONCURRENT_AMOUNT: Nombre de concurrent
   LABEL_YES: Oui
   LABEL_NO: Non
@@ -94,7 +118,7 @@ fr:
   LABEL_DIFFICULTY: Difficulté
   LABEL_EVENT_TYPE: Type d'évènement
   LABEL_UNIT_SOLD: Ventes
-  LABEL_FANBASE: Fan
+  LABEL_FANBASE: Fans
   LABEL_FULLSCREEN: Plein écran
   LABEL_GAME_GENRE: Genre
   LABEL_GAME_HISTORY: Portfolio
@@ -639,3 +663,5 @@ fr:
   TOOLTIP_ANNOUNCE_GAME: |
     Annoncer le jeu au grand public.
     Génère de l'engouement.
+  TOOLTIP_CONCURRENT: |
+    Liste les compagnies de jeux vidéo
