@@ -41,6 +41,28 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s 已取消"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    对于 %s (%s),
+
+    您已取消 %s 的开发, 我们特别失望。
+    根据正式签署的合同, 第453页, 第72d段, W段, 粉红色表, 您必须支付 %s$ 的罚款, 并尽快偿还我们。
+
+    尊敬,
+    诚实的律师事务所, %s
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "合同终止"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    对于 %s (%s)
+
+    %s 未达到预期的成功, 我们必须将签署的合同应用于该信函。
+    因此, 根据第5863页, 第99z段, 棕色表, 您必须支付 %s$ 的罚款, 并尽快偿还我们。
+
+    尊敬,
+    不良销售部门, %s
+  LABEL_SELECT_GAME_PRESENT: 选择要显示的视频游戏
+  LABEL_ROYALTIES: 特许权使用费
+  LABEL_PENALITY: 刑罚
+  LABEL_NOTE_MIN: 得分最低。
   LABEL_MARKETING_MAGAZINE_ITEM: 杂志
   LABEL_MARKETING_TV_ITEM: 电视
   LABEL_MARKETING_WEBSITE_ITEM: 网站
@@ -281,7 +303,7 @@ zh:
   LABEL_DIFFICULTY_NORMAL: 正常
   LABEL_DIFFICULTY_HARD: 硬
   LABEL_DIFFICULTY_INSANE: 疯
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s 发布了一个新平台：'%s'"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s 发布了一个新平台:'%s'"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s 退出了如此众所周知的 '%s', 球迷们正在哭泣"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "%s 将在几个月内发布一个新平台 '%s' 它将持续多年"
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s 宣布了众所周知的 '%s' 的寿命结束"
@@ -302,7 +324,7 @@ zh:
   LABEL_MODDING: 改装
   LABEL_ARTWORK: 艺术品
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: 感谢您最近的经历, 您已经解锁了一个新类型 '%s'
-  LABEL_UNLOCK_GAME_TYPE_TITLE: "主题解锁：%s"
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "主题解锁:%s"
   LABEL_MAGAZINE_0: 粉丝游戏
   LABEL_MAGAZINE_1: PC播放器
   LABEL_MAGAZINE_2: 游戏极客
@@ -315,7 +337,7 @@ zh:
   LABEL_GAME_OVER: 游戏结束
   LABEL_SCORE: 得分了
   LABEL_WAGE_INCREASES_TITLE: 工资增加
-  LABEL_WAGE_INCREASES_DESCRIPTION: 以下员工加薪：
+  LABEL_WAGE_INCREASES_DESCRIPTION: "以下员工加薪:"
   LABEL_PRESS_KEY: 按
   LABEL_WORD_OR: 要么
   LABEL_INPUT_ACTION_UI_ROTATE: 旋转项目
@@ -333,7 +355,7 @@ zh:
   LABEL_CATCHPHRASE_2_1: 有人说平庸吗？
   LABEL_CATCHPHRASE_2_2: 有人说不好吗？
   LABEL_CATCHPHRASE_2_3: 令人失望的经历
-  LABEL_CATCHPHRASE_2_4: 一个字：空
+  LABEL_CATCHPHRASE_2_4: 一个字:空
   LABEL_CATCHPHRASE_2_5: 应该已经取消了
   LABEL_CATCHPHRASE_3_0: 直奔灾难
   LABEL_CATCHPHRASE_3_1: 令人失望的是其雄心壮志
@@ -427,7 +449,7 @@ zh:
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: 您的工作室 %s 的员工是咖啡上瘾的。 但咖啡机最后一杯......你想做什么？
   LABEL_RABBIT_INVASION_DESCRIPTION: 兔子, 兔子到处都是。 他们发出一些声音......他们到处跑。 但没有人注意到他们, 人们继续工作......
   LABEL_RABBIT_INVASION_TITLE: 兔子入侵
-  LABEL_TARGETTED_AUDIENCE_FEATURE: "专家们发现游戏可以针对特定的受众。他们发表了一篇关于3个不同受众群体的论文：年轻人, 每个人都成熟了"
+  LABEL_TARGETTED_AUDIENCE_FEATURE: "专家们发现游戏可以针对特定的受众。他们发表了一篇关于3个不同受众群体的论文:年轻人, 每个人都成熟了"
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
     一种新病毒已被释放。 它只针对视频游戏公司。 这看起来很可能, 但它会减慢游标速度并随机重新启动计算机。
     这肯定会对员工的工作效率产生影响。 只有 %s 受到攻击
@@ -493,8 +515,8 @@ zh:
   LABEL_NO_STUDIO: 没有工作室
   LABEL_EMPLOYEE_CAPACITY: PROD。
   LABEL_STUDIO_CAPACITY: 工作室产品。
-  LABEL_EMPLOYEE_TOOLTIP: 生产力（产品）提高了员工的工作效率
-  LABEL_STUDIO_TOOLTIP: 生产力（Prod。）提高了工作室的效率
+  LABEL_EMPLOYEE_TOOLTIP: 生产力(产品)提高了员工的工作效率
+  LABEL_STUDIO_TOOLTIP: 生产力(Prod。)提高了工作室的效率
   LABEL_BUILD_STUDIO: 编辑工作室
   LABEL_WALL: 壁
   LABEL_PILLAR: 柱
@@ -520,7 +542,7 @@ zh:
   LABEL_STUDIO_LIST: 工作室列表
   LABEL_NO_STUDIO_FOUND: 找不到工作室
   LABEL_PRODUCTIVITY_BONUS: 生产力奖金
-  LABEL_SKILLS_AVERAGE: 技能（平均）
+  LABEL_SKILLS_AVERAGE: 技能(平均)
   LABEL_VSYNC: 垂直同步
   LABEL_BORDERLESS_WINDOW: 无边框窗口
   LABEL_GAMEEDITION_SUBMIT: 你有很多粉丝。 众所周知, 您可以编辑游戏。
@@ -539,8 +561,8 @@ zh:
   LABEL_CONVENTION_PARTICIPATE: 您的游戏目录值得一看, 参与约定可能会帮助您提高可见度。
   LABEL_STUDIO_CUSTOMIZE: 您的游戏目录值得一看, 参与约定可能会帮助您提高可见度。...
   LABEL_FURNITURES_SERVERS_BUY: 更多的桌子, 更多的椅子, 更多的电脑, 更多的白板, 更多！
-  LABEL_GAME_ONLINE: "如何让你的球员粘在屏幕上？互联网：制作网络游戏, 他们会上瘾！"
-  LABEL_DIGITAL_STORE: 非物质化：你开始听到它, 你已经知道这是未来。
+  LABEL_GAME_ONLINE: "如何让你的球员粘在屏幕上？互联网:制作网络游戏, 他们会上瘾！"
+  LABEL_DIGITAL_STORE: 非物质化:你开始听到它, 你已经知道这是未来。
   LABEL_POSTMORTEM_FEATURE: 恭喜你, 你已经完成了第一场比赛。 您现在可以进行验尸, 以帮助您评估其开发, 设计和抛光
   LABEL_NEW_GAME_FEATURE: 准备从一开始就重温电子游戏的史诗史？ 欢迎来到City Game Studio。 开始并创建您的第一个游戏。
   LABEL_LOADING: 载入中

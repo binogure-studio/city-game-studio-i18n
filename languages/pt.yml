@@ -41,6 +41,28 @@ pt:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    Para %s (%s),
+
+    Estamos particularmente decepcionados por você ter cancelado o desenvolvimento de %s.
+    De acordo com o contrato devidamente assinado, página 453, parágrafo 72d, parágrafo W, folha cor-de-rosa, você deverá pagar a multa de %s$ e nos reembolsar assim que possível.
+
+    Respeitosamente,
+    O escritório de advocacia honesto, %s
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrato rescindido"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    Para %s (%s),
+
+    %s não alcançou o sucesso esperado e devemos aplicar o contrato assinado à letra.
+    Assim, de acordo com a página 5863, parágrafo 99z, folha marrom, você deve pagar a multa de %s$ e nos reembolsar assim que possível.
+
+    Respeitosamente,
+    O departamento de vendas ruins, %s
+  LABEL_SELECT_GAME_PRESENT: Selecione os videogames para mostrar
+  LABEL_ROYALTIES: Royalties
+  LABEL_PENALITY: Penalidade
+  LABEL_NOTE_MIN: Pontuação min.
   LABEL_MARKETING_MAGAZINE_ITEM: Revista
   LABEL_MARKETING_TV_ITEM: Televisão
   LABEL_MARKETING_WEBSITE_ITEM: Local na rede Internet

@@ -41,6 +41,28 @@ et:
   DROPDOWN_LANGUAGE: Keeled
 
   # Labels, description
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s on tühistatud"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    %s jaoks (%s)
+
+    Oleme eriti pettunud, et olete tühistanud %s arengu.
+    Vastavalt nõuetekohaselt allakirjutatud lepingule, lk 453, paragrahvi 72d, lõik W, roosa leht, peate maksma trahvi %s$ ja hüvitama meile võimalikult kiiresti.
+
+    Lugupidamisega
+    Ausad advokaadibürood, %s
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Leping on lõpetatud"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    %s jaoks (%s)
+
+    %s ei ole oodatud edu saavutanud ning me peame kirjaga allkirjastama lepingu.
+    Seega, vastavalt lehe 5863 lõikele 99z, pruunilehele, peate maksma trahvi %s $ ja maksma meile võimalikult kiiresti tagasi.
+
+    Lugupidamisega
+    Halva müügi osakond, %s
+  LABEL_SELECT_GAME_PRESENT: Valige kuvatavad videomängud
+  LABEL_ROYALTIES: Autoritasu
+  LABEL_PENALITY: Karistus
+  LABEL_NOTE_MIN: Score min.
   LABEL_MARKETING_MAGAZINE_ITEM: Ajakiri
   LABEL_MARKETING_TV_ITEM: Televiisor
   LABEL_MARKETING_WEBSITE_ITEM: Veebisait

@@ -41,6 +41,28 @@ ru:
   DROPDOWN_LANGUAGE: Языки
 
   # Labels, description
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s отменено"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    Для %s (%s)
+
+    Мы особенно разочарованы тем, что вы отменили разработку %s.
+    В соответствии с подписанным контрактом, стр. 453, параграф 72d, параграф W, розовый лист, вы должны заплатить штраф в размере %s$ и возместить нам как можно скорее.
+
+    С уважением,
+    Честная юридическая фирма, %s
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Контракт прекращен"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    Для %s (%s)
+
+    %s не встретил ожидаемого успеха, и мы должны применить подписанный контракт к письму.
+    Таким образом, согласно стр. 5863, пункт 99z, коричневый лист, вы должны заплатить штраф в размере %s$ и возместить нам как можно скорее.
+
+    С уважением,
+    Отдел плохих продаж, %s
+  LABEL_SELECT_GAME_PRESENT: Выберите видеоигры, чтобы показать
+  LABEL_ROYALTIES: отчисления
+  LABEL_PENALITY: наказуемость
+  LABEL_NOTE_MIN: Оценка мин.
   LABEL_MARKETING_MAGAZINE_ITEM: журнал
   LABEL_MARKETING_TV_ITEM: телевидение
   LABEL_MARKETING_WEBSITE_ITEM: Веб-сайт

@@ -41,6 +41,28 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    À l'intention de %s (%s),
+
+    Nous sommes particulièrement déçu de que vous ayiez annulé le développement de %s.
+    Conformément au contrat dûment signé, page 453, alinéa 72d, paragraphe W, feuillet rose, vous devez payer la pénialité de %s$ et nous rembourser au plus vite.
+
+    Respectueusement,
+    Le bureau d'avocat honnête, %s
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrat rompu"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    À l'intention de %s (%s),
+
+    %s n'a pas rencontré le succès attendu, et nous nous devons d'appliquer le contrat signé à la lettre.
+    Ainsi, conformément à la page 5863, alinéa 99z, paragraphe k, feuillet marron, vous devez payer la pénialité de %s$ et nous rembourser au plus vite.
+
+    Respectueusement,
+    Le département des mauvaises ventes, %s
+  LABEL_SELECT_GAME_PRESENT: Selectionner les jeux à présenter
+  LABEL_ROYALTIES: Redevances
+  LABEL_PENALITY: Pénalité
+  LABEL_NOTE_MIN: Note min.
   LABEL_MARKETING_MAGAZINE_ITEM: Magasine
   LABEL_MARKETING_TV_ITEM: Télévision
   LABEL_MARKETING_WEBSITE_ITEM: Site web

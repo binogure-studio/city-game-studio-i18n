@@ -41,6 +41,28 @@ uk:
   DROPDOWN_LANGUAGE: Мови
 
   # Labels, description
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s скасовано"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    Для %s (%s)
+
+    Ми особливо розчаровані тим, що ви скасували розвиток %s.
+    Відповідно до належним чином підписаного контракту, стор. 453, параграф 72d, параграф W, рожевий лист, ви повинні сплатити штраф у розмірі %s$ і відшкодувати нам якнайшвидше.
+
+    З повагою,
+    Чесна юридична фірма, %s
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Контракт припинено"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    Для %s (%s)
+
+    %s не відповідає очікуваному успіху, і ми повинні застосовувати підписаний договір до листа.
+    Таким чином, відповідно до сторінки 5863, параграф 99z, коричневий лист, ви повинні сплатити штраф у розмірі %s$ і відшкодувати нам як можна швидше.
+
+    З повагою,
+    Відділ поганих продажів, %s
+  LABEL_SELECT_GAME_PRESENT: Виберіть відеоігри, які потрібно показати
+  LABEL_ROYALTIES: Роялті
+  LABEL_PENALITY: Покарання
+  LABEL_NOTE_MIN: Оцінка мін.
   LABEL_MARKETING_MAGAZINE_ITEM: Журнал
   LABEL_MARKETING_TV_ITEM: Телебачення
   LABEL_MARKETING_WEBSITE_ITEM: Веб-сайт
