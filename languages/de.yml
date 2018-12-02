@@ -1,6 +1,6 @@
 de:
   # Buttons actions verbs
-  BUTTON_ANNOUNCE: Kündigen Sie das Spiel an
+  BUTTON_ANNOUNCE: Kündige das Spiel an
   BUTTON_NEW_GAME: Neues Spiel
   BUTTON_HIRE: Einstellen
   BUTTON_APPLY: Übernehmen
@@ -42,43 +42,43 @@ de:
 
   # Labels, description
   LABEL_NO_STUDIO_TRADE_CAPABLE: |
-    Sie müssen mindestens [b]3[/b] Personen in einem Studio arbeiten, um sich für ein Publisher-Angebot bewerben zu können.
-  LABEL_TRADE_GAME_CANCELED_TITLE: "%s storniert"
+    Es müssen mindestens [b]3[/b] Personen in einem Studio arbeiten, um sich für ein Publisher-Angebot bewerben zu können.
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s abgebrochen"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    Für %s (%s),
+    An %s (%s),
 
-    Wir sind besonders enttäuscht, dass Sie die Entwicklung von %s gestrichen haben.
-    Gemäß dem ordnungsgemäß unterzeichneten Vertrag, Seite 453, Absatz 72d, Absatz W, rosa Blatt, müssen Sie die Strafe von %s$ zahlen und uns so schnell wie möglich erstatten.
+    Wir sind sehr enttäuscht, dass Sie die Entwicklung von %s eingestellt haben.
+    Gemäß dem ordnungsgemäß unterzeichneten Vertrag, Seite 453, Absatz 72d, Absatz W, rosa Blatt, müssen Sie also eine Strafe von %s$ zahlen.
 
-    Bei allem Respekt,
-    Die ehrliche Anwaltskanzlei, %s
+    Hochachtungsvoll,
+    Die Anwaltskanzlei ihres Vertrauens, %s
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Vertrag beendet
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    Für %s (%s),
+    An %s (%s),
 
-    %s nicht den erwarteten Erfolg gehabt hat, und wir müssen den unterzeichneten Vertrag genauestens anwenden.
-    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt, müssen Sie also die Strafe von %s$ zahlen und uns so schnell wie möglich erstatten.
+    %s hat nicht den erwarteten Erfolg erzielt, und wir sind verpflichtet, den unterschriebenen Vertrag zu befolgen.
+    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt, müssen Sie also eine Strafe von %s$ zahlen.
 
-    Bei allem Respekt,
+    Hochachtungsvoll,
     Die Abteilung für schlechte Verkäufe, %s
-  LABEL_SELECT_GAME_PRESENT: Wählen Sie die anzuzeigenden Videospiele aus.
+  LABEL_SELECT_GAME_PRESENT: Wählen Sie die Spiele aus, die präsentiert werden sollen.
   LABEL_ROYALTIES: Lizenzgebühren
   LABEL_PENALITY: Strafe
-  LABEL_NOTE_MIN: Punktzahl min.
+  LABEL_NOTE_MIN: Punktanzahl min.
   LABEL_MARKETING_MAGAZINE_ITEM: Zeitschrift
   LABEL_MARKETING_TV_ITEM: Fernseher
-  LABEL_MARKETING_WEBSITE_ITEM: Website
+  LABEL_MARKETING_WEBSITE_ITEM: Webseite
   LABEL_MARKETING_ONLINEAD_ITEM: Online-Werbung
   LABEL_MARKETING_BILLBOARD_ITEM: Werbetafel
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Soziale Netzwerke
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
   LABEL_SELF_PUBLISH: Selbstveröffentlichung
-  LABEL_TRADE_PUBLISH: Traditionelle Veröffentlichungen
+  LABEL_TRADE_PUBLISH: Normale Veröffentlichung
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hallo,
     
     Ich bin %s, ich liebe %s und möchte so schnell wie möglich Ihrem Team beitreten.
-    Ich werde in der Lage sein, effektiv zu sein und neues Wissen in Ihre Teams einzubringen.
+    Ich kann sehr effektiv arbeiten und werde versuchen neues Wissen in Ihr Team einzubringen!
 
     Vielen Dank für Ihre Zeit,
     %s
@@ -91,27 +91,27 @@ de:
 
     Ich habe die Jahre der Zusammenarbeit mit euch sehr genossen, ich werde euch alle vermissen!
 
-    Mit freundlichen Grüßen
+    Mit freundlichen Grüßen,
     %s
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Rücktritt
   LABEL_NO_STUDIO_FOR_BIG_GAME: |
-    Du hast kein Studio, das ein Spiel von normaler oder größerer Größe erstellen kann.
+    Du hast kein Studio, das ein Spiel von normaler oder großer Größe erstellen kann.
   LABEL_NO_FAN_BIG_GAME: |
-    Um ein Spiel von normaler oder größerer Größe zu erstellen, wird empfohlen, mindestens %s der Fans zu haben, da es sonst Auswirkungen auf den Umsatz haben wird.
-  LABEL_CONCURRENT_AMOUNT: Anzahl der Wettbewerber
+    Um ein Spiel von normaler oder großer Größe zu erstellen, wird empfohlen, mindestens %s Fans zu haben, da es sonst Auswirkungen auf den Umsatz geben wird.
+  LABEL_CONCURRENT_AMOUNT: Anzahl von Konkurrenten
   LABEL_YES: Ja
   LABEL_NO: Nein
   LABEL_PRICE_MONTHLY: Monatliche Kosten
-  LABEL_ONLINE_CAPACITY: Gesamtkapazität des Spielers
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Anzahl der gleichzeitigen Online-Spieler
+  LABEL_ONLINE_CAPACITY: Maximale Anzahl von Spieler
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Anzahl der gleichzeitig möglichen Online-Spieler
   LABEL_SERVER: Server
   LABEL_CAMPAIGN_NO_COST: Sprich mit der Presse
-  LABEL_CAMPAIGN_DEMO: Veröffentlichen Sie eine Demo
-  LABEL_CAMPAIGN_FULL: Führen Sie eine Werbekampagne aus
+  LABEL_CAMPAIGN_DEMO: Veröffentliche eine Demo
+  LABEL_CAMPAIGN_FULL: Mache eine Werbekampagne
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     %s hat gerade sein nächstes Spiel enthüllt: %s
-    Es wird auf %s verfügbar sein
-    Fans sind aufgeregt wie wir!
+    Es wird auf %s verfügbar sein!
+    Es gibt viel Hype um das Spiel!
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Entwicklung
@@ -159,7 +159,7 @@ de:
   LABEL_GAME_SIZE: Größe
   LABEL_GAME_ONLINE_SHORT: Online-Multiplayer
   LABEL_PLATFORM_NOT_ONLINE: |
-    Diese Plattform unterstützt keinen Online-Multiplayer
+    Diese Plattform unterstützt kein Online-Multiplayer
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Grafik
   LABEL_GRAPHISM: Visuelle Aspekte
@@ -493,11 +493,14 @@ de:
     Es ist wie ein ganzes Leben für ein Unternehmen wie Ihres!
     Wir sind Ihre letzte Option, überzeugen Sie sich selbst.
   LABEL_BURNING_SERVER_DESCRIPTION: |
-    Riecht es nach Feuer ?! Ja, Ihre Server haben ihre maximale Kapazität erreicht. Es ist Zeit, neue Server zu kaufen oder ein Online-Spiel zu schließen!
-  LABEL_BURNING_SERVER_TITLE: Server brennen
+    Riecht es hier etwa nach Feuer?!
+    Die Server haben ihre maximale Kapazität erreicht.
+    Es wird Zeit, neue Server zu kaufen oder ein Online-Spiel offline zu nehmen!
+  LABEL_BURNING_SERVER_TITLE: Die Server brennen
   LABEL_SMOKING_SERVER_DESCRIPTION: |
-    Sie machen ein sehr gutes Online-Spiel und verkaufen es sehr gut. Ihre Server erreichen jedoch ihre maximale Kapazität, die meisten davon werden zu
-    90% oder mehr verwendet. Sie sollten neue Server kaufen.
+    Dein Studio macht sehr gute Online-Spiele und du hast viele Spieler!
+    Die Server erreichen jedoch ihre maximale Kapazität, die meisten davon werden zu 90% oder mehr verwendet.
+    Du solltest neue Server kaufen.
   LABEL_SMOKING_SERVER_TITLE: Warnung zur Serverkapazität
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
   LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu fällig, du musst %s$ bezahlen.
@@ -609,7 +612,7 @@ de:
   LABEL_STUDIO_BUILD: Dein Erfolg ermöglicht es dir, deine eigenen Studios zu bauen.
   LABEL_CONVENTION_ORGANIZE: |
     Mit mehr als 1 Millionen Fans, die dich unterstützen, kannst du jetzt deine
-    eigenen Conventions organisieren! (Aber bitte nicht so wie Tanacon...)
+    eigenen Conventions organisieren!
   LABEL_CONVENTION_PARTICIPATE: |
     Dein Spiele-Repertoire ist es wert, gesehen zu werden!
     Die Teilnahme an Conventions könne dir helfen, deine Bekanntheit zu steigern!
@@ -694,7 +697,7 @@ de:
   TOOLTIP_ASSIGN: Weise den Angestellten einem Schreibtisch zu
   TOOLTIP_STUDIO_SELECT: Studio wechseln
   TOOLTIP_ANNOUNCE_GAME: |
-    Kündigen Sie das Videospiel an.
-    Schafft Hype
+    Kündigen das Videospiel an.
+    Erzeugt Hype!
   TOOLTIP_CONCURRENT: |
     Liste der Videospielunternehmen
