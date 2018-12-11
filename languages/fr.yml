@@ -642,22 +642,18 @@ fr:
     Prêt a revivre l'épopée des jeux vidéo depuis son commencement? Bienvenue dans City Game Studio.
     Lancez-vous et créez votre premier jeu
   LABEL_LOADING: Chargement
-
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
     Jacquie et Michel exposent leurs vies privées, et tout le monde s'y met!
     Les réseaux sociaux sont là pour rester, et vous pouvez vous en servir pour
     augmenter la visibilité de vos produits!
-
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST: |
     Une récente étude démontre qu'envoyer des courriels non-sollicités
     peut sensiblement augmenter la visibilité des vos produits!
     Vous pouvez désormais spammer tous le mondes grace aux mailing-list
-
   LABEL_GAMEPORT_FEATURE: |
     Vous en aviez rêvé et maintenant c'est fait. Une nouvelle console de jeu vient de sortir.
     Et vous pouvez dorénavant porter vos jeux sur plusieurs plateformes.
     Allez-y, essayez-pour voir!
-
   LABEL_GAME_CREATION: Ajuster la jauge pour estimer la charge de travail nécessaire sur chacune des parties du jeu
 
   # Placeholder used for forms
@@ -702,3 +698,45 @@ fr:
     Génère de l'engouement.
   TOOLTIP_CONCURRENT: |
     Liste les compagnies de jeux vidéo
+
+  # Showd when game is loading
+  LOADING_SCREEN_TIP_0: |
+    Une note secrète est attribuée a votre compagnie basée sur la qualité des jeux que vous avez produits durant les quatre dernières années
+  LOADING_SCREEN_TIP_1: |
+    Des employés exceptionnels, ayant toutes les qualités, peuvent postuler spontannément pour venir renforcer vos équipes de production
+  LOADING_SCREEN_TIP_2: |
+    L'écran de chargement n'est là que pour vous faire patienter, en vrai il s'agit d'un sleep(random(50)) qui tourne en boucle
+  LOADING_SCREEN_TIP_3: |
+    Découvrir un nouveau genre de jeu vous donne un avantage considérable sur les concurrents
+  LOADING_SCREEN_TIP_4: |
+    Le meilleur moyen de devenir connu reste encore de produire des jeux avec vos concurrents
+  LOADING_SCREEN_TIP_5: |
+    Vous pouvez organisez des conventions dans des batiments vous appartenant, attention cependant à les espacer d'un moins une année.
+  LOADING_SCREEN_TIP_6: |
+    Le département des mauvaises ventes a toujours raison
+  LOADING_SCREEN_TIP_7: |
+    Les jeux en lignes ont besoin de serveurs, doivent se vendre moins chers, mais les joueurs doivent payer tous les mois pour continuer à y jouer
+  LOADING_SCREEN_TIP_8: |
+    Einstein, notre mascotte, a aboyé 65.13 fois durant le développement de City Game Studio
+  LOADING_SCREEN_TIP_9: |
+    12654 musiques de noëls ont été joué durant le développement de City Game Studio
+  LOADING_SCREEN_TIP_10: |
+    Les parts de marchés ne font pas tout, il faut également regarder le nombre de jeu publié sur une plateforme
+  LOADING_SCREEN_TIP_11: |
+    Vous pouvez contribuer à améliorer les traductions de City Game Studio en allant sur https://github.com/binogure-studio/city-game-studio-i18n
+  LOADING_SCREEN_TIP_12: |
+    Quand les lumières de vos serveurs brillent en rouge, cela signifique qu'ils sont en surcharges
+  LOADING_SCREEN_TIP_13: |
+    N'oubliez pas de prendre des pauses cafés régulièrements... Ah, la machine à café est encore brisée
+  LOADING_SCREEN_TIP_14: |
+    Le crunchtime n'est pas une marque de céréale, mais bel est bien une pratique de management répandue
+  LOADING_SCREEN_TIP_15: |
+    Le meilleur moyen de gagner de l'argent est de sortir sans cesse de nouveaux jeux
+  LOADING_SCREEN_TIP_16: |
+    N'oubliez pas de faire des post-mortems, ils vous permettent d'en apprendre plus sur les jeux que vous avez produits
+  LOADING_SCREEN_TIP_17: |
+    Selon une étude récente, près de 1 chien sur 625,3 abboie quand il pleut, et les autres se moquent de lui
+  LOADING_SCREEN_TIP_18: |
+    Ne vous fiez pas à tout ce que vous pouvez lire sur les écrans de chargement
+  LOADING_SCREEN_TIP_19: |
+    Selon une étude sérieuse, lire rend bête et méchant
