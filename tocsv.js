@@ -18,6 +18,10 @@ const result = files.reduce((acc, filename) => {
   Object.keys(translation[language]).forEach((key) => {
     let value = translation[language][key]
 
+    if (/.*\n$/.test(value)) {
+      value = value.slice(0, value.length - 1)
+    }
+
     acc[key] = acc[key] || []
     acc[key].push(value)
   })
