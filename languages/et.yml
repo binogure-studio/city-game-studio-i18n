@@ -662,7 +662,7 @@ et:
 
   # Tooltips
   TOOLTIP_MANAGE_STUDIO: |
-    Et juhtida oma stuudioid, uuendada arvutid, määrata töötajaid ...
+    Et juhtida oma stuudioid, uuendada arvutid, määrata töötajaid...
   TOOLTIP_GAMEPORT: Pange videomäng teisele platvormile
   TOOLTIP_POSTMORTEM: |
     Loo postmortemi aruanne.Ajutine aruanne aitabsa loote paremaid mänge
@@ -684,6 +684,13 @@ et:
   TOOLTIP_STUDIO_SELECT: Lisage oma stuudiod
   TOOLTIP_ANNOUNCE_GAME: Kuulutage videomängu.Loob hype.
   TOOLTIP_CONCURRENT: Videomängu ettevõtted
+  TOOLTIP_STUDIO_COST: |
+    Kokku stuudio kulud. Sealhulgas rentimine ja
+    varustuse hooldamise kulud (nt serverite jaoks)
+  TOOLTIP_MARKETING_COST: |
+    Praegu käimasolevate turunduskampaaniate kulud
+  TOOLTIP_SALARY_COST: |
+    Iga töötaja palk
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: |
