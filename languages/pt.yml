@@ -42,6 +42,23 @@ pt:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Desbloquear novos géneros de jogos [/b].
+
+    Para desbloquear um novo gênero, [b]clique no seu ícone[/b].
+    Se você tiver pontos suficientes, então o
+    gênero do jogo será desbloqueado.
+
+    [b]Número de pontos de gênero[/b] está localizado
+    no canto superior direito [b]superior[/b] da tela.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s pontos de gênero"
+  LABEL_UNLOCKED: "Desbloqueado"
+  LABEL_COST: "Custo %s pontos"
   LABEL_FANBASE_TRENDS: Tendências de base dos ventiladores
   LABEL_YEAR: Anos
   LABEL_GAMEOVER_CONFIRM: Falência

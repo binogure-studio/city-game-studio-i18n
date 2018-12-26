@@ -42,6 +42,23 @@ et:
   DROPDOWN_LANGUAGE: Keeled
 
   # Labels, description
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Uue mängu žanri avamine[/b].
+
+    Uue žanri avamiseks klõpsa [b]selle ikoonile[/b].
+    Kui teil on piisavalt punkte, siis mängu
+    žanr avatakse.
+
+    [b]Sooliste punktide arv[/b] asub ekraani
+    [b]paremas ülanurgas[/b].
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s soolised punktid"
+  LABEL_UNLOCKED: "Lukustamata"
+  LABEL_COST: "Maksumus %s"
   LABEL_FANBASE_TRENDS: Fännipõhised suundumused
   LABEL_YEAR: Aastaid
   LABEL_GAMEOVER_CONFIRM: Pankrot

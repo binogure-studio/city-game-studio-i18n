@@ -42,6 +42,24 @@ de:
   DROPDOWN_LANGUAGE: Sprache
 
   # Labels, description
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Neue Spielgenres freischalten[/b].
+
+    Um ein neues Genre freizuschalten,
+    klicken Sie auf das Symbol[/b].
+    Wenn du genügend Punkte hast, dann wird das
+    Spielgenre freigeschaltet.
+
+    [b]Die Anzahl der Geschlechterpunkte[/b] befindet sich
+    in der rechten oberen Ecke[/b] des Bildschirms.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s Geschlechtspunkte"
+  LABEL_UNLOCKED: "Freigegeben"
+  LABEL_COST: "Kosten %s Punkte"
   LABEL_FANBASE_TRENDS: Trends der Fanbasis
   LABEL_YEAR: Jahre
   LABEL_GAMEOVER_CONFIRM: Konkurs

@@ -42,6 +42,21 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]解锁新游戏类型[/b]
+
+    要解锁新类型, [b]点击其图标[/b]
+    如果你有足够的积分, 那么游戏类型将被解锁
+
+    [b]性别点数[/b]位于屏幕的[b]右上角[/b]
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s性别点"
+  LABEL_UNLOCKED: "解锁"
+  LABEL_COST: "成本%s分"
   LABEL_FANBASE_TRENDS: 粉丝基础趋势
   LABEL_YEAR: 年份
   LABEL_GAMEOVER_CONFIRM: 破产

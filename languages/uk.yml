@@ -41,6 +41,24 @@ uk:
   DROPDOWN_LANGUAGE: Мови
 
   # Labels, description
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Розблокувати нові жанри гри[/b].
+
+    Щоб розблокувати новий жанр, натисніть
+    [b]на його значок[/b].
+    Якщо у вас достатньо очок, то ігровий
+    жанр буде розблоковано.
+
+    [b]Кількість точок статі[/b] розташована у
+    [b]верхньому правому[/b] куті екрана.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s ґендерних балів"
+  LABEL_UNLOCKED: "Розблоковано"
+  LABEL_COST: "Вартість %s балів"
   LABEL_FANBASE_TRENDS: Бази тренувань фанатів
   LABEL_YEAR: Роки
   LABEL_GAMEOVER_CONFIRM: Банкрутство

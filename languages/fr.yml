@@ -42,6 +42,23 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    Cette page vous permet de [b]débloquer de nouveaux genres de jeux[/b].
+
+    Pour débloquer un nouveau genre, [b]cliquer sur son icône[/b].
+    Si vous avez suffisament de point, alors
+    vous pourrez débloquer le nouveau genre.
+
+    Votre [b]nombre de point[/b] de genre est situé dans le [b]coin supérieur
+    droit[/b] de l'écran.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s points de genre"
+  LABEL_UNLOCKED: "Débloqué"
+  LABEL_COST: "Coûte %s points"
   LABEL_FANBASE_TRENDS: Évolution du nombre de fan
   LABEL_YEAR: Années
   LABEL_GAMEOVER_CONFIRM: Déclarer faillite
