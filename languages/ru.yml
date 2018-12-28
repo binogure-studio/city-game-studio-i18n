@@ -41,6 +41,9 @@ ru:
   DROPDOWN_LANGUAGE: Языки
 
   # Labels, description
+  LABEL_INBOX: Входящие
+  LABEL_SPAM: Спам
+  LABEL_TRASH: Мусор
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Разблокировка новых игровых жанров[/b].
 
@@ -710,11 +713,18 @@ ru:
   LABEL_GAME_CREATION: |
     Настройте рабочую нагрузку каждой части вашей игры, настроив каждый 
     параметр
+
+  # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Название компании
   PLACEHOLDER_GAME_GENRE: Игровой жанр
   PLACEHOLDER_GAME_NAME: Название игры
   PLACEHOLDER_PLAYER_NAME: Ваше имя
 
+  # Tooltips
+  TOOLTIP_EMAIL: |
+    Читай новости и свою почту.  
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Позволяет разблокировать новые типы игр.  
   TOOLTIP_MANAGE_STUDIO: |
     Для управления студиями, обновления компьютеров, назначения сотрудников....
   TOOLTIP_GAMEPORT: Портируйте видеоигру на другую платформу

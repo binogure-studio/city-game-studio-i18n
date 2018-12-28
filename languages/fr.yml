@@ -39,9 +39,12 @@ fr:
   BUTTON_RENT: Louer
   BUTTON_CONFIRM: Confirmer
   BUTTON_BANKRUPTCY: Banqueroute
-  DROPDOWN_LANGUAGE: Langues
+    DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_INBOX: Boîte de réception
+  LABEL_SPAM: Courrier indésirable
+  LABEL_TRASH: Poubelle
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     Cette page vous permet de [b]débloquer de nouveaux genres de jeux[/b].
 
@@ -702,6 +705,10 @@ fr:
   PLACEHOLDER_PLAYER_NAME: Votre nom
 
   # Tooltips
+  TOOLTIP_EMAIL: |
+    Contient les dernières actualités ainsi que votre courrier
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Permet de débloquer de nouveaux genres de jeu.
   TOOLTIP_MANAGE_STUDIO: |
     Permet de gérer vos studios, mettre à jour les ordinateurs, assigner les employés...
   TOOLTIP_GAMEPORT: Porter un de vos jeux sur une autre plateforme

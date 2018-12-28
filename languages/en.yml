@@ -42,6 +42,9 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_INBOX: Inbox
+  LABEL_SPAM: Spam
+  LABEL_TRASH: Trash
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Unlock new game genres[/b].
 
@@ -701,6 +704,10 @@ en:
   PLACEHOLDER_PLAYER_NAME: Your name
 
   # Tooltips
+  TOOLTIP_EMAIL: |
+    Read the news and your mail
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Allows you to unlock new types of games.
   TOOLTIP_MANAGE_STUDIO: |
     To manage your studios, upgrade computers, assign employees...
   TOOLTIP_GAMEPORT: Port a video game onto another platform
