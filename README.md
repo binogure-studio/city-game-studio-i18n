@@ -35,17 +35,17 @@ TOOLTIP_RECRUIT: Lista de posibles candidatos disponibles en la ciudad.
 Sometime a phrase might contain a parameter. It is always `%s`.
 
 ```yaml
-# First %s matches the manufacturer of the platform
-# Second %s matches the platform's name
-LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s has released a new platform: '%s'"
+# First [b]%s[/b] matches the manufacturer of the platform
+# Second [b]%s[/b] matches the platform's name
+LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] has released a new platform: '%s'"
 ```
 
 To print a single `%` we need to double it: `%%`.
 
 ```yaml
 LABEL_LOAN_DESCRIPTION: |
-    You need some extra money, we can help you. You can refund yourself with a loan of %s$.
-    Our interests rates are as low as only %s%%, and you have %s weeks to repay.
+    You need some extra money, we can help you. You can refund yourself with a loan of [b]%s$[/b].
+    Our interests rates are as low as only [b]%s%%[/b], and you have [b]%s[/b] weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
 ```
 All languages files should be named `[language].yaml`.

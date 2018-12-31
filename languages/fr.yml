@@ -64,9 +64,9 @@ fr:
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "%s points de genre"
+  LABEL_SKILL_POINT: %s points de genre
   LABEL_UNLOCKED: "Débloqué"
-  LABEL_COST: "Coûte %s points"
+  LABEL_COST: Coûte %s points
   LABEL_FANBASE_TRENDS: Évolution du nombre de fan
   LABEL_YEAR: Années
   LABEL_GAMEOVER_CONFIRM: Déclarer faillite
@@ -92,24 +92,24 @@ fr:
   LABEL_UPGRADE_COMPUTER: Mise à niveau des ordinateurs
   LABEL_NO_STUDIO_TRADE_CAPABLE: |
     Vous devez avoir au minimum [b]3[/b] personnes travaillant dans un studio pour pouvoir répondre a une offre d'éditeur.
-  LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
+  LABEL_TRADE_GAME_CANCELED_TITLE: %s annulé
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    À l'intention de %s (%s),
+    À l'intention de [b]%s[/b] (%s),
 
-    Nous sommes particulièrement déçu de que vous ayiez annulé le développement de %s.
-    Conformément au contrat dûment signé, page 453, alinéa 72d, paragraphe W, feuillet rose, vous devez payer la pénalité de %s$ et nous rembourser au plus vite.
+    Nous sommes particulièrement déçu de que vous ayiez annulé le développement de [b]%s[/b].
+    Conformément au contrat dûment signé, page 453, alinéa 72d, paragraphe W, feuillet rose, vous devez payer la pénalité de [b]%s$[/b] et nous rembourser au plus vite.
 
     Respectueusement,
-    Le bureau d'avocat honnête, %s
+    Le bureau d'avocat honnête, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrat rompu"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    À l'intention de %s (%s),
+    À l'intention de [b]%s[/b] (%s),
 
-    %s n'a pas rencontré le succès attendu, et nous nous devons d'appliquer le contrat signé à la lettre.
-    Ainsi, conformément à la page 5863, alinéa 99z, paragraphe k, feuillet marron, vous devez payer la pénalité de %s$ et nous rembourser au plus vite.
+    [b]%s[/b] n'a pas rencontré le succès attendu, et nous nous devons d'appliquer le contrat signé à la lettre.
+    Ainsi, conformément à la page 5863, alinéa 99z, paragraphe k, feuillet marron, vous devez payer la pénalité de [b]%s$[/b] et nous rembourser au plus vite.
 
     Respectueusement,
-    Le département des mauvaises ventes, %s
+    Le département des mauvaises ventes, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Selectionner les jeux à présenter
   LABEL_ROYALTIES: Redevances
   LABEL_PENALITY: Pénalité
@@ -126,27 +126,27 @@ fr:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
     
-    Je me présente %s, j'adore %s et je souhaiterai rejoindre votre équipe au plus vite.
+    Je me présente [b]%s[/b], j'adore [b]%s[/b] et je souhaiterai rejoindre votre équipe au plus vite.
     Je saurai me montrer efficace et apporterai de nouvelles connaissances a vos équipes.
 
     Merci pour votre temps,
-    %s
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Candidature spontannée
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
 
-    La présente a pour objet de vous faire que je démissionne de mon poste chez %s dès aujourd'hui.
+    La présente a pour objet de vous faire que je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
     Mon départ s'explique par le fait que j'ai trouvé un nouvel emploi plus près de chez moi, et dans une entreprise plus attrayante.
 
     J'ai beaucoup apprécié les années passées a travailler avec vous, vous me manquerez tous!
 
     Cordialement
-    %s
+    [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Démission
   LABEL_NO_STUDIO_FOR_BIG_GAME: |
     Vous ne possédez aucun studio permettant de créer un jeu de taille normal ou plus grand.
   LABEL_NO_FAN_BIG_GAME: |
-    Pour créer un jeu de taille normal ou plus grand, il est recommandé d'avoir au minimum %s de fans, sinon cela aura un impact sur les ventes
+    Pour créer un jeu de taille normal ou plus grand, il est recommandé d'avoir au minimum [b]%s[/b] de fans, sinon cela aura un impact sur les ventes
   LABEL_CONCURRENT_AMOUNT: Nombre de concurrents
   LABEL_YES: Oui
   LABEL_NO: Non
@@ -160,10 +160,10 @@ fr:
   LABEL_CAMPAIGN_DEMO: Publier une démo
   LABEL_CAMPAIGN_FULL: Organiser une campagne publicitaire
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s vient juste d'annoncer la sortie prochaine de %s.
-    Le jeu sortira d'abord sur la plateforme %s.
+    [b]%s[/b] vient juste d'annoncer la sortie prochaine de [b]%s[/b].
+    Le jeu sortira d'abord sur la plateforme [b]%s[/b].
     Les fans ont hâte d'y être et nous aussi!
-  LABEL_GAME_ANNOUNCED_TITLE: "%s annoncé"
+  LABEL_GAME_ANNOUNCED_TITLE: %s annoncé
   LABEL_TRENDING: Tendance
   LABEL_CREATOR: Créé par
   LABEL_PRODUCER: Productrice
@@ -378,15 +378,15 @@ fr:
   LABEL_DIFFICULTY_HARD: Difficile
   LABEL_DIFFICULTY_INSANE: Impossible
   LABEL_PLATFORM_RELEASED_DESCRIPTION: |
-    %s sort une nouvelle plateforme: '%s'
+    [b]%s[/b] sort une nouvelle plateforme: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s retire la très populaire plateforme '%s', les fans sont en émois
+    [b]%s[/b] retire la très populaire plateforme [b]%s[/b], les fans sont en émois
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    %s va sortir une nouvelle plateforme dans quelques mois '%s' elle devrait durer des années
+    [b]%s[/b] va sortir une nouvelle plateforme dans quelques mois [b]%s[/b] elle devrait durer des années
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s va bientôt retirer la '%s' du marché
+    [b]%s[/b] va bientôt retirer la [b]%s[/b] du marché
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
-    Vous avez débloqué la license pour %s, cela vous a coûté %s$
+    Vous avez débloqué la license pour [b]%s[/b], cela vous a coûté [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Nouvelle plateforme
   LABEL_PLATFORM_DISCONTINUED_TITLE: Fin de vie
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Plateforme annoncée
@@ -403,9 +403,8 @@ fr:
   LABEL_MODDING: Mods
   LABEL_ARTWORK: Illustrations
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: |
-    Votre récente expérience dans le développement de jeux vidéos vous a permis de débloquer le genre '%s'
-  LABEL_UNLOCK_GAME_TYPE_TITLE: |
-    Theme débloqué: %s
+    Votre récente expérience dans le développement de jeux vidéos vous a permis de débloquer le genre [b]%s[/b]
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Theme débloqué: %s"
   LABEL_MAGAZINE_0: Console Moins
   LABEL_MAGAZINE_1: Cochon PC
   LABEL_MAGAZINE_2: Play Game
@@ -502,10 +501,10 @@ fr:
   LABEL_MATCH_OK: Association ok
   LABEL_MATCH_POOR: Mauvaise association
   LABEL_POSTMORTEM_TITLE: Post-mortem
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "'%s' ne nous a rien appris de neuf"
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Voici ce que nous avons pu tirer de '%s':%s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport '%s/%s' est '%s'[/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- À jauger correctement le '%s' pour un jeu de type '%s'[/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] ne nous a rien appris de neuf"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Voici ce que nous avons pu tirer de [b]%s[/b]:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport [i]%s[/i]/[i]%s[/i] est [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- À jauger correctement le [b]%s[/b] pour un jeu de type [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Parts de marché
   LABEL_LICENSE_COST: License
   LABEL_OWNED: Possédée
@@ -514,7 +513,7 @@ fr:
   LABEL_PLATFORM_LIST: Liste des plateformes
   LABEL_IDLE: Inactif
   LABEL_ADOPT_CAT_DESCRIPTION: |
-    Les employés du studio %s ont trouvé un chat errant caché derrière une poubelle.
+    Les employés du studio [b]%s[/b] ont trouvé un chat errant caché derrière une poubelle.
     L'animal semble calin et vos employés lui ont déjà donné un nom. Qu'allez vous faire?
   LABEL_ADOPT_CAT_TITLE: Chat errant
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
@@ -535,7 +534,7 @@ fr:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like a été inventé
   LABEL_BROKEN_COFFEEMAKER_TITLE: La machine a café est brisée
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Vos employées du studio %s ont un dépendances fortes au café.
+    Vos employées du studio [b]%s[/b] ont un dépendances fortes au café.
     Cependant cette dernière vient de servir sa dernière tasse tout à l'heure ...
     Qu'allons nous faire?
   LABEL_RABBIT_INVASION_DESCRIPTION: |
@@ -549,7 +548,7 @@ fr:
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
     Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux-vidéos.
     Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Défois la machine redémarre.
-    Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché %s
+    Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Un vlogger célèbre pour ses critiques de jeux vidéos vient de publier une nouvelle vidéo. Et cette fois, il traite d'un de vos jeux:%s.
@@ -557,8 +556,8 @@ fr:
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Publicité gratuite
   LABEL_LOAN_TITLE: Prêt de dernier recours
   LABEL_LOAN_DESCRIPTION: |
-    Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de %s$ pour le taux maudique de %s%%.
-    De plus vous aurez %s semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
+    Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de [b]%s$[/b] pour le taux maudique de [b]%s%%[/b].
+    De plus vous aurez [b]%s[/b] semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
     Nous sommes votre dernier recours, laissez vous tenter!
   LABEL_BURNING_SERVER_DESCRIPTION: |
     Les serveurs sont utilisés à 100%. De nombreux joueurs sont mécontents et quittent le navire.
@@ -570,11 +569,11 @@ fr:
     Il faudrait envisager de monter plus de serveurs
   LABEL_SMOKING_SERVER_TITLE: Les serveurs atteignent leur limite
   LABEL_PAYLOAN_TITLE: Rembourser un prêt
-  LABEL_PAYLOAN_DESCRIPTION: L'échéancier arrive à son terme. Vous devez rembourser la totalité des sommes empruntées, soit %s$
+  LABEL_PAYLOAN_DESCRIPTION: L'échéancier arrive à son terme. Vous devez rembourser la totalité des sommes empruntées, soit [b]%s$[/b]
   LABEL_SELL_STUDIO_TITLE: Vendre un studio
-  LABEL_SELL_STUDIO_DESCRIPTION: Vous êtes sur le point de vendre le studio '%s', êtes-vous sûr de vouloir continuer?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Vous ne pouvez pas vendre le studio '%s', il est soit votre dernier studio, soit occupé sur un projet
-  LABEL_BUILDING_AREA: Surface %s m2
+  LABEL_SELL_STUDIO_DESCRIPTION: Vous êtes sur le point de vendre le studio [b]%s[/b], êtes-vous sûr de vouloir continuer?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Vous ne pouvez pas vendre le studio [b]%s[/b], il est soit votre dernier studio, soit occupé sur un projet
+  LABEL_BUILDING_AREA: Surface %sm2
   LABEL_BUILDING_BUY: Prix
   LABEL_BUILDING_RENT: Loyer
   LABEL_BUILDING_CONVENTION: Centre d'exposition

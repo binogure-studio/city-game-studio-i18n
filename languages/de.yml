@@ -65,9 +65,9 @@ de:
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "%s Geschlechtspunkte"
+  LABEL_SKILL_POINT: %s Geschlechtspunkte
   LABEL_UNLOCKED: "Freigegeben"
-  LABEL_COST: "Kosten %s Punkte"
+  LABEL_COST: Kosten %s Punkte
   LABEL_FANBASE_TRENDS: Trends der Fanbasis
   LABEL_YEAR: Jahre
   LABEL_GAMEOVER_CONFIRM: Konkurs
@@ -93,24 +93,24 @@ de:
   LABEL_STUDIO_WIDE: Dieses Studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: |
     Es müssen mindestens [b]3[/b] Personen in einem Studio arbeiten, um sich für ein Publisher-Angebot bewerben zu können.
-  LABEL_TRADE_GAME_CANCELED_TITLE: "%s abgebrochen"
+  LABEL_TRADE_GAME_CANCELED_TITLE: %s abgebrochen
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    An %s (%s),
+    An [b]%s[/b] (%s),
 
-    Wir sind sehr enttäuscht, dass Sie die Entwicklung von %s eingestellt haben.
-    Gemäß dem ordnungsgemäß unterzeichneten Vertrag, Seite 453, Absatz 72d, Absatz W, rosa Blatt, müssen Sie also eine Strafe von %s$ zahlen.
+    Wir sind sehr enttäuscht, dass Sie die Entwicklung von [b]%s[/b] eingestellt haben.
+    Gemäß dem ordnungsgemäß unterzeichneten Vertrag, Seite 453, Absatz 72d, Absatz W, rosa Blatt, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
 
     Hochachtungsvoll,
-    Die Anwaltskanzlei ihres Vertrauens, %s
+    Die Anwaltskanzlei ihres Vertrauens, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Vertrag beendet
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    An %s (%s),
+    An [b]%s[/b] (%s),
 
-    %s hat nicht den erwarteten Erfolg erzielt, und wir sind verpflichtet, den unterschriebenen Vertrag zu befolgen.
-    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt, müssen Sie also eine Strafe von %s$ zahlen.
+    [b]%s[/b] hat nicht den erwarteten Erfolg erzielt, und wir sind verpflichtet, den unterschriebenen Vertrag zu befolgen.
+    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
 
     Hochachtungsvoll,
-    Die Abteilung für schlechte Verkäufe, %s
+    Die Abteilung für schlechte Verkäufe, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Wählen Sie die Spiele aus, die präsentiert werden sollen.
   LABEL_ROYALTIES: Lizenzgebühren
   LABEL_PENALITY: Strafe
@@ -127,27 +127,27 @@ de:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hallo,
     
-    Ich bin %s, ich liebe %s und möchte so schnell wie möglich Ihrem Team beitreten.
+    Ich bin [b]%s[/b], ich liebe [b]%s[/b] und möchte so schnell wie möglich Ihrem Team beitreten.
     Ich kann sehr effektiv arbeiten und werde versuchen neues Wissen in Ihr Team einzubringen!
 
     Vielen Dank für Ihre Zeit,
-    %s
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontane Bewerbung
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hallo,
 
-    Ich schreibe, um Ihnen mitzuteilen, dass ich mit sofortiger Wirkung von meiner Position bei %s zurücktrete.
+    Ich schreibe, um Ihnen mitzuteilen, dass ich mit sofortiger Wirkung von meiner Position bei [b]%s[/b] zurücktrete.
     Ich bin gegangen, weil ich einen neuen Job in der Nähe von zu Hause und in einem attraktiveren Unternehmen gefunden habe.
 
     Ich habe die Jahre der Zusammenarbeit mit euch sehr genossen, ich werde euch alle vermissen!
 
     Mit freundlichen Grüßen,
-    %s
+    [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Rücktritt
   LABEL_NO_STUDIO_FOR_BIG_GAME: |
     Du hast kein Studio, das ein Spiel von normaler oder großer Größe erstellen kann.
   LABEL_NO_FAN_BIG_GAME: |
-    Um ein Spiel von normaler oder großer Größe zu erstellen, wird empfohlen, mindestens %s Fans zu haben, da es sonst Auswirkungen auf den Umsatz geben wird.
+    Um ein Spiel von normaler oder großer Größe zu erstellen, wird empfohlen, mindestens [b]%s[/b] Fans zu haben, da es sonst Auswirkungen auf den Umsatz geben wird.
   LABEL_CONCURRENT_AMOUNT: Anzahl von Konkurrenten
   LABEL_YES: Ja
   LABEL_NO: Nein
@@ -161,10 +161,10 @@ de:
   LABEL_CAMPAIGN_DEMO: Veröffentliche eine Demo
   LABEL_CAMPAIGN_FULL: Mache eine Werbekampagne
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s hat gerade sein nächstes Spiel enthüllt: %s
-    Es wird auf %s verfügbar sein!
+    [b]%s[/b] hat gerade sein nächstes Spiel enthüllt: [b]%s[/b]
+    Es wird auf [b]%s[/b] verfügbar sein!
     Es gibt viel Hype um das Spiel!
-  LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
+  LABEL_GAME_ANNOUNCED_TITLE: %s wurde bekannt gegeben
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Entwicklung
   LABEL_PRODUCER: Produzent
@@ -358,17 +358,17 @@ de:
   LABEL_DIFFICULTY_HARD: Schwer
   LABEL_DIFFICULTY_INSANE: Höllisch
   LABEL_PLATFORM_RELEASED_DESCRIPTION: |
-    %s hat eine neue Plattform veröffentlicht:
-    '%s'
+    [b]%s[/b] hat eine neue Plattform veröffentlicht:
+    [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s ziehen das allseits bekannte '%s' zurück.
+    [b]%s[/b] ziehen das allseits bekannte [b]%s[/b] zurück.
     Die Fans weinen!
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    %s wird innerhalb weniger Monate eine neue Plattform veröffentlichen: '%s'.
+    [b]%s[/b] wird innerhalb weniger Monate eine neue Plattform veröffentlichen: [b]%s[/b].
     Sie soll jahrelang halten!
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s kündigt das Ende der allseits bekannten Platform '%s' an.
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für %s freigeschaltet, sie kostete dich %s$"
+    [b]%s[/b] kündigt das Ende der allseits bekannten Platform [b]%s[/b] an.
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für [b]%s[/b] freigeschaltet, sie kostete dich [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
@@ -383,7 +383,7 @@ de:
   LABEL_NEW_GAME: Neues Spiel
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Illustrationen
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Dank deiner aktuellen Erfahrung hast du ein neues Genre freigeschaltet: '%s'"
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Dank deiner aktuellen Erfahrung hast du ein neues Genre freigeschaltet: [b]%s[/b]"
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Genre freigeschaltet: %s"
   LABEL_MAGAZINE_0: Fan Game
   LABEL_MAGAZINE_1: PC Player
@@ -480,10 +480,10 @@ de:
   LABEL_MATCH_OK: mittelmäßige Kombination
   LABEL_MATCH_POOR: schlechte Kombination
   LABEL_POSTMORTEM_TITLE: Spiele-Bericht
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Wir haben nichts neues von '%s' gelernt...
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von '%s' gelernt: %s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- '%s' und '%s' sind eine %s[/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- '%s' passt gut zum Genre '%s'[/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Wir haben nichts neues von [b]%s[/b] gelernt...
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von [b]%s[/b] gelernt:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] und [i]%s[/i] sind eine [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] passt gut zum Genre [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Marktanteil
   LABEL_LICENSE_COST: Lizenzkosten
   LABEL_OWNED: Im Besitz
@@ -492,7 +492,7 @@ de:
   LABEL_PLATFORM_LIST: Plattformliste
   LABEL_IDLE: Inaktiv
   LABEL_ADOPT_CAT_DESCRIPTION: |
-    Die Mitarbeiter von %s's Studio haben eine streunende Katze gefunden, die hinter einem Müllcontainer versteckt war.
+    Die Mitarbeiter von [b]%s[/b]'s Studio haben eine streunende Katze gefunden, die hinter einem Müllcontainer versteckt war.
     Die Katze ist super kuschelig und ihr wurde schon einen Namen gegeben!
     Was willst du tun?
   LABEL_ADOPT_CAT_TITLE: Streunende Katze
@@ -514,7 +514,7 @@ de:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like wurde erfunden
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kaputte Kaffeemaschine
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Die Mitarbeiter vom Studio %s sind kaffeeabhängig, aber die Kaffeemaschine hat ihren Geist aufgegeben!
+    Die Mitarbeiter vom Studio [b]%s[/b] sind kaffeeabhängig, aber die Kaffeemaschine hat ihren Geist aufgegeben!
     Was willst du tun? Manche kratzen schon die Reste vom Boden...
   LABEL_RABBIT_INVASION_DESCRIPTION: |
     Hasen! Überall Hasen!!!
@@ -530,18 +530,18 @@ de:
     Es greift nur die Videospiel-Unternehmen an!
     Klingt blöd, aber es verlangsamt den Cursor und startet zufällig den Computer neu!
     Dies wird sich sicherlich auf die Produktivität deiner Mitarbeiter auswirken!
-    Nur %s wird angegriffen.
+    Nur [b]%s[/b] wird angegriffen.
   LABEL_VIRUS_UNLEASHED_TITLE: Virus entfesselt
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Ein Vlogger, bekannt für seine Spiele-Reviews, hat gerade ein neues Video veröffentlicht.
-    Und dieses Mal hat er eines deiner Spiele getestet: '%s'.
+    Und dieses Mal hat er eines deiner Spiele getestet: [b]%s[/b].
     Dies wird sich sicherlich auf die Verkäufe auswirken!
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Gratis Werbung
   LABEL_LOAN_TITLE: Notfall-Kredit
   LABEL_LOAN_DESCRIPTION: |
     Sie brauchen etwas zusätzliches Geld, wir können Ihnen helfen.
-    Sie können sich mit einem Kredit von %s$ zurückerstatten.
-    Unsere Zinssätze sind so niedrig wie nur %s%% und Sie haben %s Wochen um zurückzuzahlen.
+    Sie können sich mit einem Kredit von [b]%s$[/b] zurückerstatten.
+    Unsere Zinssätze sind so niedrig wie nur [b]%s%%[/b] und Sie haben [b]%s[/b] Wochen um zurückzuzahlen.
     Es ist wie ein ganzes Leben für ein Unternehmen wie Ihres!
     Wir sind Ihre letzte Option, überzeugen Sie sich selbst.
   LABEL_BURNING_SERVER_DESCRIPTION: |
@@ -555,11 +555,11 @@ de:
     Du solltest neue Server kaufen.
   LABEL_SMOKING_SERVER_TITLE: Warnung zur Serverkapazität
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
-  LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu fällig, du musst %s$ bezahlen.
+  LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu fällig, du musst [b]%s$[/b] bezahlen.
   LABEL_SELL_STUDIO_TITLE: Studio verkaufen
-  LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Studio %s. Bist du dir sicher?
+  LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Studio [b]%s[/b]. Bist du dir sicher?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
-    Da %s dein letztes Studio ist oder es an einem Projekt arbeitet, kannst du es nicht verkaufen
+    Da [b]%s[/b] dein letztes Studio ist oder es an einem Projekt arbeitet, kannst du es nicht verkaufen
   LABEL_BUILDING_AREA: "Fläche: %s m²"
   LABEL_BUILDING_BUY: Preis
   LABEL_BUILDING_RENT: Mietpreis

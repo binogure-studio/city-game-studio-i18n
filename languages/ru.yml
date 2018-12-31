@@ -64,9 +64,9 @@ ru:
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "%s гендерные баллы"
+  LABEL_SKILL_POINT: %s гендерные баллы
   LABEL_UNLOCKED: "Разблокированный"
-  LABEL_COST: "Стоимость %s баллов"
+  LABEL_COST: Стоимость %s баллов
   LABEL_FANBASE_TRENDS: Базовые тренды вентиляторов
   LABEL_YEAR: Годы
   LABEL_GAMEOVER_CONFIRM: Банкротство
@@ -93,32 +93,32 @@ ru:
   LABEL_NO_STUDIO_TRADE_CAPABLE: |
     У вас должно быть как минимум [b]3[/b] человека, работающие в студии, чтобы
     подать заявку на предложение издателя.
-  LABEL_TRADE_GAME_CANCELED_TITLE: "%s отменено"
+  LABEL_TRADE_GAME_CANCELED_TITLE: %s отменено
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    Для %s (%s)
+    Для [b]%s[/b] (%s)
 
-    Мы особенно разочарованы тем, что вы отменили разработку %s.
+    Мы особенно разочарованы тем, что вы отменили разработку [b]%s[/b].
 
     В соответствии с подписанным контрактом, стр. 453, параграф 72d, параграф W,
-    розовый лист, вы должны заплатить штраф в размере %s$ и возместить нам как
+    розовый лист, вы должны заплатить штраф в размере [b]%s$[/b] и возместить нам как
     можно скорее.
 
 
     С уважением,
-    Честная юридическая фирма, %s
+    Честная юридическая фирма, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Контракт прекращен
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    Для %s (%s)
+    Для [b]%s[/b] (%s)
 
-    %s не встретил ожидаемого успеха, и мы должны применить подписанный контракт
+    [b]%s[/b] не встретил ожидаемого успеха, и мы должны применить подписанный контракт
     к письму.
 
     Таким образом, согласно стр. 5863, пункт 99z, коричневый лист, вы должны
-    заплатить штраф в размере %s$ и возместить нам как можно скорее.
+    заплатить штраф в размере [b]%s$[/b] и возместить нам как можно скорее.
 
     С уважением,
 
-    Отдел плохих продаж, %s
+    Отдел плохих продаж, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: "Выберите видеоигры, чтобы показать"
   LABEL_ROYALTIES: Поощрение
   LABEL_PENALITY: Штраф
@@ -135,18 +135,18 @@ ru:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
-    Я %s, я люблю %s, и я хотел бы как можно скорее присоединиться к вашей
+    Я [b]%s[/b], я люблю [b]%s[/b], и я хотел бы как можно скорее присоединиться к вашей
     команде.
 
     Я смогу быть эффективным и принести новые знания своим командам.
 
     Спасибо за ваше время,
-    %s
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Cпонтанное приложение
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
-    Я пишу, чтобы сообщить вам, что я немедленно ухожу из своей позиции в %s.
+    Я пишу, чтобы сообщить вам, что я немедленно ухожу из своей позиции в [b]%s[/b].
 
     Я ушел, потому что нашел новую работу ближе к дому, а в компании более
     привлекательной.
@@ -154,13 +154,13 @@ ru:
     Мне очень понравились годы, проведенные с вами, я буду скучать по всем вам!
 
     Искренне
-    %s
+    [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Отставка
   LABEL_NO_STUDIO_FOR_BIG_GAME: |
     У вас нет студии, которая может создать игру обычного или большего размера.
   LABEL_NO_FAN_BIG_GAME: |
     Чтобы создать игру нормального или большего размера, рекомендуется иметь как
-    минимум %s поклонников, иначе это повлияет на продажи
+    минимум [b]%s[/b] поклонников, иначе это повлияет на продажи
   LABEL_CONCURRENT_AMOUNT: Количество участников
   LABEL_YES: Да
   LABEL_NO: Hет
@@ -174,8 +174,8 @@ ru:
   LABEL_CAMPAIGN_DEMO: Опубликовать демонстрационную версию
   LABEL_CAMPAIGN_FULL: Запустить рекламную кампанию
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s только что показали свою следующую игру: %s
-    Она будет доступна на %s
+    [b]%s[/b] только что показали свою следующую игру: [b]%s[/b]
+    Она будет доступна на [b]%s[/b]
     Поклонники взволнованы, как и мы!
   LABEL_GAME_ANNOUNCED_TITLE: Объявлено %s
   LABEL_TRENDING: Трэнды
@@ -369,13 +369,13 @@ ru:
   LABEL_DIFFICULTY_NORMAL: Нормальный
   LABEL_DIFFICULTY_HARD: Сложный
   LABEL_DIFFICULTY_INSANE: Безумный
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s выпустила новую платформу: '%s'"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s убирают хорошо известную платформу '%s', фанаты огорчены"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] выпустила новую платформу: [b]%s[/b]"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] убирают хорошо известную платформу [b]%s[/b], фанаты огорчены"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    %s выпустит новую платформу в течение нескольких месяцев '%s', которая будет
+    [b]%s[/b] выпустит новую платформу в течение нескольких месяцев [b]%s[/b], которая будет
     работать в течение многих лет
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s объявляет о конце жизни столь известного %s"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Вы разблокировали лицензию для %s, она стоит %s$"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] объявляет о конце жизни столь известного [b]%s[/b]"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Вы разблокировали лицензию для [b]%s[/b], она стоит [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Выпущена платформа
   LABEL_PLATFORM_DISCONTINUED_TITLE: Снята с производства платформа
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Предстоящая платформа
@@ -390,7 +390,7 @@ ru:
   LABEL_NEW_GAME: Новая игра
   LABEL_MODDING: Моддинг
   LABEL_ARTWORK: Арты
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Благодаря вашему недавнему опыту вы открыли новый жанр '%s'"
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Благодаря вашему недавнему опыту вы открыли новый жанр [b]%s[/b]"
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Тема разблокирована: %s"
   LABEL_MAGAZINE_0: Фан-игра
   LABEL_MAGAZINE_1: ПК игрок
@@ -487,10 +487,10 @@ ru:
   LABEL_MATCH_OK: Нормальное
   LABEL_MATCH_POOR: Плохое
   LABEL_POSTMORTEM_TITLE: Отчёт
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из '%s'"
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из '%s': %s"
-  LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между '%s' и '%s' является '%s'[/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - изменить опцию '%s' для типа игры '%s'[/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из [b]%s[/b]"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из [b]%s[/b]: [b]%s[/b]"
+  LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - изменить опцию [b]%s[/b] для типа игры [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Рыночная доля
   LABEL_LICENSE_COST: Лицензия
   LABEL_OWNED: Принадлежит
@@ -499,7 +499,7 @@ ru:
   LABEL_PLATFORM_LIST: Список платформ
   LABEL_IDLE: Бездействие
   LABEL_ADOPT_CAT_DESCRIPTION: |
-    Сотрудники студии %s нашли бездомную кошку, скрытую за мусором. Эта кошка
+    Сотрудники студии [b]%s[/b] нашли бездомную кошку, скрытую за мусором. Эта кошка
     очень приятная, и персонал уже дал ей имя. Что ты будешь делать?
   LABEL_ADOPT_CAT_TITLE: Бродячий кот
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
@@ -520,7 +520,7 @@ ru:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Жанр Moba-like был изобретен
   LABEL_BROKEN_COFFEEMAKER_TITLE: Сломанная кофемашина
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Ваши сотрудники студии %s являются зависимыми от кофе. Но кофеварка подала
+    Ваши сотрудники студии [b]%s[/b] являются зависимыми от кофе. Но кофеварка подала
     последний кубок... Что ты хочешь сделать?
   LABEL_RABBIT_INVASION_DESCRIPTION: |
     Кролики, кролики повсюду. Они делают какие-то шумы... они бегут повсюду. Но
@@ -534,17 +534,17 @@ ru:
     Появился новый вирус. Он ориентирован только на компании видеоигр. Это
     кажется странным, но он замедляет курсоры и случайным образом перезагружает
     компьютеры. Это, безусловно, повлияет на производительность ваших
-    сотрудников. Нападает только на студию %s
+    сотрудников. Нападает только на студию [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Появился вирус
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Влоггер, известный своими обзорами игр, только что опубликовал новое видео.И
-    на этот раз он рассмотрел одну из ваших игр %s. Это, безусловно, повлияет на
+    на этот раз он рассмотрел одну из ваших игр [b]%s[/b]. Это, безусловно, повлияет на
     продажи.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Бесплатные объявления
   LABEL_LOAN_TITLE: Последний займ
   LABEL_LOAN_DESCRIPTION: |
     Вам нужны дополнительные деньги, мы можем вам помочь. Вы можете вернуть себе
-    займ в %s. Наши процентные ставки составляют всего %s%%,и у вас есть%sнедель
+    займ в [b]%s[/b]. Наши процентные ставки составляют всего [b]%s%%[/b],и у вас есть%sнедель
     для погашения. Это как вся жизнь для такой компании, как ваша.
     Мывашпоследний вариант, позвольте себе искушаться.
   LABEL_BURNING_SERVER_DESCRIPTION: |
@@ -559,13 +559,13 @@ ru:
     новые серверы.
   LABEL_SMOKING_SERVER_TITLE: Предупреждение о емкости сервера
   LABEL_PAYLOAN_TITLE: Погасить заем
-  LABEL_PAYLOAN_DESCRIPTION: "Планируемое погашение подошло к концу, вы должны заплатить %s$."
+  LABEL_PAYLOAN_DESCRIPTION: "Планируемое погашение подошло к концу, вы должны заплатить [b]%s$[/b]."
   LABEL_SELL_STUDIO_TITLE: Продажа студии
-  LABEL_SELL_STUDIO_DESCRIPTION: "Вы продаете студию %s, вы хотите продолжить?"
+  LABEL_SELL_STUDIO_DESCRIPTION: "Вы продаете студию [b]%s[/b], вы хотите продолжить?"
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
-    Поскольку %s является вашей последней студией или она занята работой над
+    Поскольку [b]%s[/b] является вашей последней студией или она занята работой над
     проектом, вы не можете ее продать
-  LABEL_BUILDING_AREA: Площадь %s m²
+  LABEL_BUILDING_AREA: Площадь %sm²
   LABEL_BUILDING_BUY: Цена
   LABEL_BUILDING_RENT: Арендная плата
   LABEL_BUILDING_CONVENTION: Выставочный центр

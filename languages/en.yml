@@ -64,9 +64,9 @@ en:
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "%s gender points"
+  LABEL_SKILL_POINT: %s gender points
   LABEL_UNLOCKED: "Unlocked"
-  LABEL_COST: "Cost %s points"
+  LABEL_COST: Cost %s points
   LABEL_FANBASE_TRENDS: Fan base trends
   LABEL_YEAR: Years
   LABEL_GAMEOVER_CONFIRM: Bankruptcy
@@ -93,24 +93,24 @@ en:
   LABEL_STUDIO_WIDE: This studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: |
     You must have at least [b]3[/b] people working in a studio to be able to apply for a publisher offer.
-  LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelled"
+  LABEL_TRADE_GAME_CANCELED_TITLE: %s cancelled
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    For %s (%s),
+    For [b]%s[/b] (%s),
 
-    We are particularly disappointed that you have cancelled the development of %s.
-    In accordance with the contract duly signed, page 453, paragraph 72d, paragraph W, pink sheet, you must pay the penalty of %s$ and reimburse us as soon as possible.
+    We are particularly disappointed that you have cancelled the development of [b]%s[/b].
+    In accordance with the contract duly signed, page 453, paragraph 72d, paragraph W, pink sheet, you must pay the penalty of [b]%s$[/b] and reimburse us as soon as possible.
 
     Respectfully,
-    The honest law firm, %s
+    The honest law firm, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contract terminated"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    For %s (%s),
+    For [b]%s[/b] (%s),
 
-    %s has not met with the expected success, and we must apply the signed contract to the letter.
-    Thus, according to page 5863, paragraph 99z, brown sheet, you must pay the penalty of %s$ and reimburse us as soon as possible.
+    [b]%s[/b] has not met with the expected success, and we must apply the signed contract to the letter.
+    Thus, according to page 5863, paragraph 99z, brown sheet, you must pay the penalty of [b]%s$[/b] and reimburse us as soon as possible.
 
     Respectfully,
-    The department of bad sales, %s
+    The department of bad sales, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Select the video games to show
   LABEL_ROYALTIES: Royalties
   LABEL_PENALITY: Penality
@@ -127,27 +127,27 @@ en:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hello,
     
-    I am %s, I love %s and I would like to join your team as soon as possible.
+    I am [b]%s[/b], I love [b]%s[/b] and I would like to join your team as soon as possible.
     I will be able to be effective and bring new knowledge to your teams.
 
     Thank you for your time,
-    %s
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaneous application
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hello,
 
-    I am writing to inform you that I am resigning from my position at %s effective immediately.
+    I am writing to inform you that I am resigning from my position at [b]%s[/b] effective immediately.
     I left because I found a new job closer to home, and in a company more attractive.
 
     I really enjoyed the years spent working with you, I will miss you all!
 
     Sincerely
-    %s
+    [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Resignation
   LABEL_NO_STUDIO_FOR_BIG_GAME: |
     You don't have a studio that can create a game of normal or larger size.
   LABEL_NO_FAN_BIG_GAME: |
-    To create a game of normal or larger size, it is recommended to have at least %s of fans, otherwise it will have an impact on sales
+    To create a game of normal or larger size, it is recommended to have at least [b]%s[/b] of fans, otherwise it will have an impact on sales
   LABEL_CONCURRENT_AMOUNT: Number of competitors
   LABEL_YES: Yes
   LABEL_NO: No
@@ -161,10 +161,10 @@ en:
   LABEL_CAMPAIGN_DEMO: Publish a demo
   LABEL_CAMPAIGN_FULL: Run an advertising campaign
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s has just revealed their next game: %s
-    It will be available on %s
+    [b]%s[/b] has just revealed their next game: [b]%s[/b]
+    It will be available on [b]%s[/b]
     Fans are excited, so say we all!
-  LABEL_GAME_ANNOUNCED_TITLE: "%s announced"
+  LABEL_GAME_ANNOUNCED_TITLE: %s announced
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Created by
   LABEL_PRODUCER: Producer
@@ -357,11 +357,11 @@ en:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Hard
   LABEL_DIFFICULTY_INSANE: Insane
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s has released a new platform: '%s'"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "%s retire the so well known '%s', fans are crying"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "%s will release a new platform within few months '%s' it should last for years"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "%s announces the end of life of the so well known '%s'"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "You have unlocked the license for the %s, it costs %s$"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] has released a new platform: [b]%s[/b]"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] retire the so well known [b]%s[/b], fans are crying"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] will release a new platform within few months [b]%s[/b] it should last for years"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] announces the end of life of the so well known [b]%s[/b]"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "You have unlocked the license for the [b]%s[/b], it costs [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Platform released
   LABEL_PLATFORM_DISCONTINUED_TITLE: Discontinued platform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Upcoming platform
@@ -376,7 +376,7 @@ en:
   LABEL_NEW_GAME: New game
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Artwork
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Thanks to your recent experience, you have unlocked a new genre '%s'
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Thanks to your recent experience, you have unlocked a new genre [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Genre unlocked: %s"
   LABEL_MAGAZINE_0: Fan Game
   LABEL_MAGAZINE_1: PC Player
@@ -473,10 +473,10 @@ en:
   LABEL_MATCH_OK: Ok match
   LABEL_MATCH_POOR: Poor match
   LABEL_POSTMORTEM_TITLE: Post-mortem
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: We've learnt nothing new from '%s'
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Here what we've learnt from '%s':%s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- Match between '%s' and '%s' is '%s'[/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- To manage '%s' for the game's type '%s'[/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: We've learnt nothing new from [b]%s[/b]
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Here what we've learnt from [b]%s[/b]:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Match between [i]%s[/i] and [i]%s[/i] is [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- To manage [b]%s[/b] for the game's type [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Market share
   LABEL_LICENSE_COST: License
   LABEL_OWNED: Owned
@@ -485,7 +485,7 @@ en:
   LABEL_PLATFORM_LIST: Platform list
   LABEL_IDLE: Idle
   LABEL_ADOPT_CAT_DESCRIPTION: |
-    The staff of %s's studio have found a stray cat hidden behind some trash.
+    The staff of [b]%s[/b]'s studio have found a stray cat hidden behind some trash.
     This cat is very cuddly, and the staff has already given it a name. What do you want do?
   LABEL_ADOPT_CAT_TITLE: Stray cat
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
@@ -506,7 +506,7 @@ en:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like has been invented
   LABEL_BROKEN_COFFEEMAKER_TITLE: Broken coffee machine
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Your employees of studio %s are coffee-addicted.
+    Your employees of studio [b]%s[/b] are coffee-addicted.
     But the coffee machine has served its last cup... What do you want to do?
   LABEL_RABBIT_INVASION_DESCRIPTION: |
     Rabbits, rabbits everywhere. They are making some noises... they are running everywhere.
@@ -519,16 +519,16 @@ en:
     A new virus has been unleashed. It only targets the video game companies.
     It seems odds, but it slows down cursors and randomly reboots computers.
     This will have certainly an impact on the productivity of your employees.
-    Only %s is being attacked
+    Only [b]%s[/b] is being attacked
   LABEL_VIRUS_UNLEASHED_TITLE: Virus unleashed
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     A vlogger famous for his game reviews just published a new video.
-    And this time, he reviewed one of your games %s. This will certainly have an impact on sells.
+    And this time, he reviewed one of your games [b]%s[/b]. This will certainly have an impact on sells.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Free ads
   LABEL_LOAN_TITLE: Last-resort loan
   LABEL_LOAN_DESCRIPTION: |
-    You need some extra money, we can help you. You can refund yourself with a loan of %s$.
-    Our interests rates are as low as only %s%%, and you have %s weeks to repay.
+    You need some extra money, we can help you. You can refund yourself with a loan of [b]%s$[/b].
+    Our interests rates are as low as only [b]%s%%[/b], and you have [b]%s[/b] weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
   LABEL_BURNING_SERVER_DESCRIPTION: |
     Does it smell like fire?!
@@ -541,10 +541,10 @@ en:
     You should buy new servers.
   LABEL_SMOKING_SERVER_TITLE: Server capacity warning
   LABEL_PAYLOAN_TITLE: Repay a loan
-  LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, you have to pay %s$.
+  LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, you have to pay [b]%s$[/b].
   LABEL_SELL_STUDIO_TITLE: Selling a studio
-  LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio %s, do you want to continue ?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Since %s is your last studio or it is busy to work on a project, you cannot sell it
+  LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio [b]%s[/b], do you want to continue ?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Since [b]%s[/b] is your last studio or it is busy to work on a project, you cannot sell it
   LABEL_BUILDING_AREA: Area %s m²
   LABEL_BUILDING_BUY: Price
   LABEL_BUILDING_RENT: Rent

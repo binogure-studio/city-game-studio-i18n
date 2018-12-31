@@ -64,9 +64,9 @@ et:
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "%s soolised punktid"
+  LABEL_SKILL_POINT: %s soolised punktid
   LABEL_UNLOCKED: "Lukustamata"
-  LABEL_COST: "Maksumus %s"
+  LABEL_COST: Maksumus %s
   LABEL_FANBASE_TRENDS: Fännipõhised suundumused
   LABEL_YEAR: Aastaid
   LABEL_GAMEOVER_CONFIRM: Pankrot
@@ -92,24 +92,24 @@ et:
   LABEL_STUDIO_WIDE: See stuudio
   LABEL_NO_STUDIO_TRADE_CAPABLE: |
     Kirjastaja pakkumise taotlemiseks peab teil olema vähemalt [b]3[/b] töötajat stuudios.
-  LABEL_TRADE_GAME_CANCELED_TITLE: "%s on tühistatud"
+  LABEL_TRADE_GAME_CANCELED_TITLE: %s on tühistatud
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    %s jaoks (%s)
+    [b]%s[/b] jaoks (%s)
 
-    Oleme eriti pettunud, et olete tühistanud %s arengu.
-    Vastavalt nõuetekohaselt allakirjutatud lepingule, lk 453, paragrahvi 72d, lõik W, roosa leht, peate maksma trahvi %s$ ja hüvitama meile võimalikult kiiresti.
+    Oleme eriti pettunud, et olete tühistanud [b]%s[/b] arengu.
+    Vastavalt nõuetekohaselt allakirjutatud lepingule, lk 453, paragrahvi 72d, lõik W, roosa leht, peate maksma trahvi [b]%s$[/b] ja hüvitama meile võimalikult kiiresti.
 
     Lugupidamisega
-    Ausad advokaadibürood, %s
+    Ausad advokaadibürood, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Leping on lõpetatud"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    %s jaoks (%s)
+    [b]%s[/b] jaoks (%s)
 
-    %s ei ole oodatud edu saavutanud ning me peame kirjaga allkirjastama lepingu.
-    Seega, vastavalt lehe 5863 lõikele 99z, pruunilehele, peate maksma trahvi %s $ ja maksma meile võimalikult kiiresti tagasi.
+    [b]%s[/b] ei ole oodatud edu saavutanud ning me peame kirjaga allkirjastama lepingu.
+    Seega, vastavalt lehe 5863 lõikele 99z, pruunilehele, peate maksma trahvi [b]%s[/b] $ ja maksma meile võimalikult kiiresti tagasi.
 
     Lugupidamisega
-    Halva müügi osakond, %s
+    Halva müügi osakond, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Valige kuvatavad videomängud
   LABEL_ROYALTIES: Autoritasu
   LABEL_PENALITY: Karistus
@@ -126,27 +126,27 @@ et:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Tere,
     
-    Ma olen %s, ma armastan %s ja tahaksin teie meeskonda võimalikult kiiresti liituda.
+    Ma olen [b]%s[/b], ma armastan [b]%s[/b] ja tahaksin teie meeskonda võimalikult kiiresti liituda.
     Ma olen tõhus ja toon uusi teadmisi oma meeskondadele.
     
     Täname teid teie aja eest,
-    %s
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaanne rakendamine
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Tere,
     
-    Kirjutan teid teavitama, et ma loobun oma positsioonist %s kohe.
+    Kirjutan teid teavitama, et ma loobun oma positsioonist [b]%s[/b] kohe.
     Ma lahkusin sellepärast, et leidsin uue töö kodumaale lähemal ja ahvatlemas ettevõttes.
     Mulle meeldisif väga kõik aastad, mis ma teiega koos
     töötasin, ma igatsen teid kõik!
     
     Lugupidamisega
-    %s
+    [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Tagasiastumine
   LABEL_NO_STUDIO_FOR_BIG_GAME: |
     Teil ei ole stuudiot, mis võiks luua tavalise või suurema suurusega mängu.
   LABEL_NO_FAN_BIG_GAME: |
-    Et luua mängu tavalise või suurema suurusega on soovitatav, et oleks vähemalt %s fänni, muidu mõjutab see müüki
+    Et luua mängu tavalise või suurema suurusega on soovitatav, et oleks vähemalt [b]%s[/b] fänni, muidu mõjutab see müüki
   LABEL_CONCURRENT_AMOUNT: Võistlejate arv
   LABEL_YES: Jah
   LABEL_NO: Ei
@@ -160,9 +160,9 @@ et:
   LABEL_CAMPAIGN_DEMO: Avaldage näidis
   LABEL_CAMPAIGN_FULL: Algatage reklaamikampaania
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s on just avaldanud oma järgmise mängu: %s
-    See on saadaval %s Fännid on põnevil, nii ütleme me kõik!
-  LABEL_GAME_ANNOUNCED_TITLE: "%s teatas"
+    [b]%s[/b] on just avaldanud oma järgmise mängu: [b]%s[/b]
+    See on saadaval [b]%s[/b] Fännid on põnevil, nii ütleme me kõik!
+  LABEL_GAME_ANNOUNCED_TITLE: %s teatas
   LABEL_TRENDING: Moodne
   LABEL_CREATOR: Looja
   LABEL_PRODUCER: Tootja
@@ -353,15 +353,15 @@ et:
   LABEL_DIFFICULTY_NORMAL: Tavaline
   LABEL_DIFFICULTY_HARD: Raske
   LABEL_DIFFICULTY_INSANE: Hull
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "%s on lasknud välja uue platvormi '%s'"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] on lasknud välja uue platvormi [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s saatke pensionile nii tuntud '%s', fännid nutavad
+    [b]%s[/b] saatke pensionile nii tuntud [b]%s[/b], fännid nutavad
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    %s laseb välja uue platvormi paari kuu jooksul %s, see peaks kestma aastaid
+    [b]%s[/b] laseb välja uue platvormi paari kuu jooksul [b]%s[/b], see peaks kestma aastaid
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    %s teatab surmast nii tuntud '%s
+    [b]%s[/b] teatab surmast nii tuntud [b]%s[/b]
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
-    Olete lahti teinud %s litsentsi, see maksab %s$
+    Olete lahti teinud [b]%s[/b] litsentsi, see maksab [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Platvorm välja lastud
   LABEL_PLATFORM_DISCONTINUED_TITLE: Seisatud platvorm
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Tulevane platvorm
@@ -376,7 +376,7 @@ et:
   LABEL_NEW_GAME: Uus mäng
   LABEL_MODDING: Modifitseerimine
   LABEL_ARTWORK: Kunstiteosed
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Tänu sinu hilisele kogemusele, olete avanud uue žanra '%s'
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Tänu sinu hilisele kogemusele, olete avanud uue žanra [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Žanr avatud: %s"
   LABEL_MAGAZINE_0: Fännimäng
   LABEL_MAGAZINE_1: Arvutimängija
@@ -473,10 +473,10 @@ et:
   LABEL_MATCH_OK: Hea küll
   LABEL_MATCH_POOR: Kehv matš
   LABEL_POSTMORTEM_TITLE: Surnu järelvaatus
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Me pole midagi õppinud '%s'"
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Siin me oleme õppinud '%s' -st: %s"
-  LABEL_POSTMORTEM_MATCH: "[ul] - Võistlus '%s ja '%s' vahel on '%s' [/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - '%s' haldamiseks mängu tüübiks '%s' [/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Me pole midagi õppinud [b]%s[/b]"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Siin me oleme õppinud [b]%s[/b] -st: [b]%s[/b]"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Võistlus [i]%s[/i] ja [i]%s[/i] vahel on [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] haldamiseks mängu tüübiks [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Turuosa
   LABEL_LICENSE_COST: Litsents
   LABEL_OWNED: Omandanud
@@ -485,7 +485,7 @@ et:
   LABEL_PLATFORM_LIST: Platvormi loend
   LABEL_IDLE: Seisev
   LABEL_ADOPT_CAT_DESCRIPTION: |
-    %s oma stuudio töötajad on leidnud prügikastit taha
+    [b]%s[/b] oma stuudio töötajad on leidnud prügikastit taha
     peitnud hullu kassi.See kass on väga kallistav ja töötajaskond on juba talle andnud nime. Mida
     sa tahad teha?
   LABEL_ADOPT_CAT_TITLE: Hulkuv kass
@@ -503,7 +503,7 @@ et:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-sarnane on leiutatud
   LABEL_BROKEN_COFFEEMAKER_TITLE: Katkine kohvimasin
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Teie stuudio %s töötajad on kohvi sõltlased.Kuid
+    Teie stuudio [b]%s[/b] töötajad on kohvi sõltlased.Kuid
     kohvimasin on teeninud oma viimast tassi... Mida sa tahad teha?
   LABEL_RABBIT_INVASION_DESCRIPTION: |
     Küülikud, küülikud kõikjal. Nad teevad müra...
@@ -516,18 +516,18 @@ et:
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
     Uus viirus on vallandunud. See on suunatud ainult
     videomänguettevõtetele.Tundub koefitsient, kuid aeglustab kursorit ja arvutid
-    juhuslikult taaskäivitatakse.See mõjutab kindlasti teie töötajate tootlikkust. Ainult %s on rünnatud
+    juhuslikult taaskäivitatakse.See mõjutab kindlasti teie töötajate tootlikkust. Ainult [b]%s[/b] on rünnatud
   LABEL_VIRUS_UNLEASHED_TITLE: Virus vallandas
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
     Vlogger, kes kuulus oma
-    mängude arvustuste üle, avaldas uue video.Ja seekord vaatles ta ühte oma mängudest %s.
+    mängude arvustuste üle, avaldas uue video.Ja seekord vaatles ta ühte oma mängudest [b]%s[/b].
     See kindlasti mõjutab müüki.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Tasuta reklaamid
   LABEL_LOAN_TITLE: Viimase abinõu laen
   LABEL_LOAN_DESCRIPTION: |
     Te vajate lisaraha, me saame teid aidata. Võite end ära
-    tasuda laenu %s $.Meie intressimäärad on nii madalad kui ainult %s %%, ja teil
-    on tagasimaksmiseks %s nädalat.See on nagu terve elu nii nagu sinu jaoks. Me oleme
+    tasuda laenu [b]%s[/b] $.Meie intressimäärad on nii madalad kui ainult [b]%s[/b] %%, ja teil
+    on tagasimaksmiseks [b]%s[/b] nädalat.See on nagu terve elu nii nagu sinu jaoks. Me oleme
     teie viimane võimalus, lase ennast kiusata.
   LABEL_BURNING_SERVER_DESCRIPTION: |
     Kas see lõhnab nagu tulekahju ?!Teie serverid
@@ -541,12 +541,12 @@ et:
   LABEL_SMOKING_SERVER_TITLE: Serveri võimsuse hoiatus
   LABEL_PAYLOAN_TITLE: Tagastama laenu
   LABEL_PAYLOAN_DESCRIPTION: |
-    Kavandatud tagasimaksmine on nüüd lõppenud, peate maksma %s $.
+    Kavandatud tagasimaksmine on nüüd lõppenud, peate maksma [b]%s[/b] $.
   LABEL_SELL_STUDIO_TITLE: Stuudio müümine
-  LABEL_SELL_STUDIO_DESCRIPTION: Müüte stuudio %s, kas soovite jätkata?
+  LABEL_SELL_STUDIO_DESCRIPTION: Müüte stuudio [b]%s[/b], kas soovite jätkata?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
-    Kuna %s on teie viimane stuudio või see on projektis töötamiseks hõivatud, ei saa te seda müüa
-  LABEL_BUILDING_AREA: Pindala %s m²
+    Kuna [b]%s[/b] on teie viimane stuudio või see on projektis töötamiseks hõivatud, ei saa te seda müüa
+  LABEL_BUILDING_AREA: Pindala %sm²
   LABEL_BUILDING_BUY: Hind
   LABEL_BUILDING_RENT: Rentima
   LABEL_BUILDING_CONVENTION: Messikeskus
