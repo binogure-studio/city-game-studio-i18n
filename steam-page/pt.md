@@ -18,7 +18,7 @@ Navegue pelas cidades e escolha a localização do seu próximo estúdio. Como m
 
 [h2]Forneça seus estúdios com cuidado[/h2]
 
-Todos não são estúdios, mas cada peça de mobília tem o seu lugar no seu estúdio e pode influenciar a história da sua empresa.
+Nem todo mundo é um designer de estúdio, mas cada peça de mobília tem o seu lugar no seu estúdio e pode influenciar a história da sua empresa.
 
 [h2]Publicar, contratar, repetir[/h2]
 
@@ -26,4 +26,4 @@ Cada jogo é único, mas com o tempo, novas gerações de consoles saem. Você n
 
 [h2]Desenvolvimento de jogos[/h2]
 
-O desenvolvimento do jogo é transmitido na contração usando o canal binogure.
+O desenvolvimento do jogo é transmitido ao vivo no Twitch no canal binogure.
