@@ -43,7 +43,7 @@ LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] has released a new platform: '%s
 To print a single `%` we need to double it: `%%`.
 
 ```yaml
-LABEL_LOAN_DESCRIPTION: |
+LABEL_LOAN_DESCRIPTION: >
     You need some extra money, we can help you. You can refund yourself with a loan of [b]%s$[/b].
     Our interests rates are as low as only [b]%s%%[/b], and you have [b]%s[/b] weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.

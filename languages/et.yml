@@ -50,7 +50,7 @@ et:
   LABEL_INBOX: Saabunud
   LABEL_SPAM: Spämm
   LABEL_TRASH: Prügikast
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
     [b]Uue mängu žanri avamine[/b].
 
     Uue žanri avamiseks klõpsa [b]selle ikoonile[/b].
@@ -59,7 +59,7 @@ et:
 
     [b]Sooliste punktide arv[/b] asub ekraani
     [b]paremas ülanurgas[/b].
-  LABEL_GAME_GENRE_DESCRIPTION: |
+  LABEL_GAME_GENRE_DESCRIPTION: >
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -70,7 +70,7 @@ et:
   LABEL_FANBASE_TRENDS: Fännipõhised suundumused
   LABEL_YEAR: Aastaid
   LABEL_GAMEOVER_CONFIRM: Pankrot
-  LABEL_GAMEOVER_DESCRIPTION: |
+  LABEL_GAMEOVER_DESCRIPTION: >
     Pankrot lõpetab mängu.
     Kas olete kindel, et soovite pankrotti deklareerida?
   LABEL_EXPENSES: Kulud
@@ -90,10 +90,10 @@ et:
   LABEL_UPGRADE_COMPUTER: Uuenda arvuteid
   LABEL_COMPANY_WIDE: Ettevõte lai
   LABEL_STUDIO_WIDE: See stuudio
-  LABEL_NO_STUDIO_TRADE_CAPABLE: |
+  LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Kirjastaja pakkumise taotlemiseks peab teil olema vähemalt [b]3[/b] töötajat stuudios.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s on tühistatud"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
     [b]%s[/b] jaoks (%s)
 
     Oleme eriti pettunud, et olete tühistanud [b]%s[/b] arengu.
@@ -102,7 +102,7 @@ et:
     Lugupidamisega
     Ausad advokaadibürood, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Leping on lõpetatud"
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
     [b]%s[/b] jaoks (%s)
 
     [b]%s[/b] ei ole oodatud edu saavutanud ning me peame kirjaga allkirjastama lepingu.
@@ -123,7 +123,7 @@ et:
   LABEL_MARKETING_MAILINGLIST_ITEM: Uudiskiri
   LABEL_SELF_PUBLISH: Isiklik avaldus
   LABEL_TRADE_PUBLISH: Traditsiooniline kirjastamine
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
     Tere,
     
     Ma olen [b]%s[/b], ma armastan [b]%s[/b] ja tahaksin teie meeskonda võimalikult kiiresti liituda.
@@ -132,7 +132,7 @@ et:
     Täname teid teie aja eest,
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaanne rakendamine
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
     Tere,
     
     Kirjutan teid teavitama, et ma loobun oma positsioonist [b]%s[/b] kohe.
@@ -143,9 +143,9 @@ et:
     Lugupidamisega
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Tagasiastumine
-  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+  LABEL_NO_STUDIO_FOR_BIG_GAME: >
     Teil ei ole stuudiot, mis võiks luua tavalise või suurema suurusega mängu.
-  LABEL_NO_FAN_BIG_GAME: |
+  LABEL_NO_FAN_BIG_GAME: >
     Et luua mängu tavalise või suurema suurusega on soovitatav, et oleks vähemalt [b]%s[/b] fänni, muidu mõjutab see müüki
   LABEL_CONCURRENT_AMOUNT: Võistlejate arv
   LABEL_YES: Jah
@@ -159,7 +159,7 @@ et:
   LABEL_CAMPAIGN_NO_COST: Räägi ajakirjandusega
   LABEL_CAMPAIGN_DEMO: Avaldage näidis
   LABEL_CAMPAIGN_FULL: Algatage reklaamikampaania
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
     [b]%s[/b] on just avaldanud oma järgmise mängu: [b]%s[/b]
     See on saadaval [b]%s[/b] Fännid on põnevil, nii ütleme me kõik!
   LABEL_GAME_ANNOUNCED_TITLE: "%s teatas"
@@ -354,13 +354,13 @@ et:
   LABEL_DIFFICULTY_HARD: Raske
   LABEL_DIFFICULTY_INSANE: Hull
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] on lasknud välja uue platvormi [b]%s[/b]"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
     [b]%s[/b] saatke pensionile nii tuntud [b]%s[/b], fännid nutavad
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] laseb välja uue platvormi paari kuu jooksul [b]%s[/b], see peaks kestma aastaid
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
     [b]%s[/b] teatab surmast nii tuntud [b]%s[/b]
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: >
     Olete lahti teinud [b]%s[/b] litsentsi, see maksab [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Platvorm välja lastud
   LABEL_PLATFORM_DISCONTINUED_TITLE: Seisatud platvorm
@@ -484,67 +484,67 @@ et:
   LABEL_CATALOG_SIZE: Kataloogi suurus
   LABEL_PLATFORM_LIST: Platvormi loend
   LABEL_IDLE: Seisev
-  LABEL_ADOPT_CAT_DESCRIPTION: |
+  LABEL_ADOPT_CAT_DESCRIPTION: >
     [b]%s[/b] oma stuudio töötajad on leidnud prügikastit taha
     peitnud hullu kassi.See kass on väga kallistav ja töötajaskond on juba talle andnud nime. Mida
     sa tahad teha?
   LABEL_ADOPT_CAT_TITLE: Hulkuv kass
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     Blue Studio's lasik kaks venda välja uue mängu.See
     on mängu muutev ja on tekkinud uus mängutüüp. Mystery-like
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like on leiutatud
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: Duststar on just välja lasknud uue mängu, mis revolutsioniseerib mängude tööstust
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-taoline on leiutatud
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
     3 garaažis olevat meest on loonud uue värske mängu.See on nii kuulus, et on loonud uue mängu žanri, Varas
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Varga-sarnane on leiutatud
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
     3 ameeriklaste disainerid lõid just modifikatsiooni kuulsale mängule. Moba žanr on sündinud
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-sarnane on leiutatud
   LABEL_BROKEN_COFFEEMAKER_TITLE: Katkine kohvimasin
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
     Teie stuudio [b]%s[/b] töötajad on kohvi sõltlased.Kuid
     kohvimasin on teeninud oma viimast tassi... Mida sa tahad teha?
-  LABEL_RABBIT_INVASION_DESCRIPTION: |
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
     Küülikud, küülikud kõikjal. Nad teevad müra...
     nad jooksevad kõikjal.Kuid keegi ei märka neid ja inimesed jätkavad tööd...
   LABEL_RABBIT_INVASION_TITLE: Küülikute sissetung
-  LABEL_TARGETTED_AUDIENCE_FEATURE: |
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
     Eksperdid leidsid, et mängud võivad sihtida konkreetset
     vaatajaskonda.Nad avaldasid paberi umbes 3 erineva publiku kohta: noored, kõik
     ja küpsed
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Uus viirus on vallandunud. See on suunatud ainult
     videomänguettevõtetele.Tundub koefitsient, kuid aeglustab kursorit ja arvutid
     juhuslikult taaskäivitatakse.See mõjutab kindlasti teie töötajate tootlikkust. Ainult [b]%s[/b] on rünnatud
   LABEL_VIRUS_UNLEASHED_TITLE: Virus vallandas
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     Vlogger, kes kuulus oma
     mängude arvustuste üle, avaldas uue video.Ja seekord vaatles ta ühte oma mängudest [b]%s[/b].
     See kindlasti mõjutab müüki.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Tasuta reklaamid
   LABEL_LOAN_TITLE: Viimase abinõu laen
-  LABEL_LOAN_DESCRIPTION: |
+  LABEL_LOAN_DESCRIPTION: >
     Te vajate lisaraha, me saame teid aidata. Võite end ära
     tasuda laenu [b]%s[/b] $.Meie intressimäärad on nii madalad kui ainult [b]%s[/b] %%, ja teil
     on tagasimaksmiseks [b]%s[/b] nädalat.See on nagu terve elu nii nagu sinu jaoks. Me oleme
     teie viimane võimalus, lase ennast kiusata.
-  LABEL_BURNING_SERVER_DESCRIPTION: |
+  LABEL_BURNING_SERVER_DESCRIPTION: >
     Kas see lõhnab nagu tulekahju ?!Teie serverid
     on jõudnud maksimaalse võimsusega.On aeg uute serverite ostmiseks või veebimängu
     sulgemiseks!
   LABEL_BURNING_SERVER_TITLE: See sobib
-  LABEL_SMOKING_SERVER_DESCRIPTION: |
+  LABEL_SMOKING_SERVER_DESCRIPTION: >
     Teete väga hea veebimängu ja müüte neid väga hästi.Kuid
     teie serverid jõuavad oma maksimaalse võimsusega, enamik neist on kasutusel vähemalt
     90% ulatuses.Sa peaksid ostma uusi servereid.
   LABEL_SMOKING_SERVER_TITLE: Serveri võimsuse hoiatus
   LABEL_PAYLOAN_TITLE: Tagastama laenu
-  LABEL_PAYLOAN_DESCRIPTION: |
+  LABEL_PAYLOAN_DESCRIPTION: >
     Kavandatud tagasimaksmine on nüüd lõppenud, peate maksma [b]%s[/b] $.
   LABEL_SELL_STUDIO_TITLE: Stuudio müümine
   LABEL_SELL_STUDIO_DESCRIPTION: Müüte stuudio [b]%s[/b], kas soovite jätkata?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
     Kuna [b]%s[/b] on teie viimane stuudio või see on projektis töötamiseks hõivatud, ei saa te seda müüa
   LABEL_BUILDING_AREA: Pindala %sm²
   LABEL_BUILDING_BUY: Hind
@@ -620,132 +620,132 @@ et:
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Borderless window
   LABEL_GAMEEDITION_SUBMIT: Teil on palju fänne.Olete piisavalt tuntud mängude muutmiseks.
-  LABEL_GAMEEDITION_RECEIVE: |
+  LABEL_GAMEEDITION_RECEIVE: >
     Pärast hiljutist edu saavutab kirjastajad teiega teiega pakkumise tegemiseks aega.
   LABEL_WORLDMAP: Sa otsid üles, kogu maailm ootab sind väljas.
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
     Esimesed videomängude ajakirjad ilmuvad, kas soovite reklaamida ühte oma mängu sellesse?
   LABEL_MARKETING_CAMPAIGN_TV: On aeg teha oma mänge teada telereklaamide kaudu.
-  LABEL_MARKETING_CAMPAIGN_INTERNET: |
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
     Algab Interneti-ajastu, saate jõuda miljonitele inimestele lihtsa bänner-reklaamiga.
-  LABEL_CONCURRENT_STUDIOS_LIST: |
+  LABEL_CONCURRENT_STUDIOS_LIST: >
     Teie stuudio kasvab, on aeg uurida turgu ja jälgida konkurentsi.
-  LABEL_CONCURRENT_STUDIOS_BUY: |
+  LABEL_CONCURRENT_STUDIOS_BUY: >
     Kas teed jooksevad, võib-olla oleks aeg osta konkureerivaid stuudioid?
   LABEL_FURNITURES_COMMON_BUY: Aeg on nüüd stiilse kontoritööde tegemiseks.
-  LABEL_EMPLOYEES_HIRE: |
+  LABEL_EMPLOYEES_HIRE: >
     Teie stuudio kasvab, toodab rohkem mänge, parandab selle kvaliteeti. Kuid kõigepealt peate värbama.
-  LABEL_STUDIO_RENT: |
+  LABEL_STUDIO_RENT: >
     Oled nüüd oma väikese stuudio küljes pakendis, mine järgmisele asukohale.
   LABEL_STUDIO_BUILD: Teie edu võimaldab teil luua enda stuudiod.
-  LABEL_CONVENTION_ORGANIZE: |
+  LABEL_CONVENTION_ORGANIZE: >
     Kui miljon inimest toetab teid, saate nüüd oma tavasid korraldada.
-  LABEL_CONVENTION_PARTICIPATE: |
+  LABEL_CONVENTION_PARTICIPATE: >
     Sa mängude kataloogi on väärt nähtus, konventsioonide osalemine võib aidata parandada oma nähtavust.
-  LABEL_STUDIO_CUSTOMIZE: |
+  LABEL_STUDIO_CUSTOMIZE: >
     Teie igavad seinad kahandavad teie tootlikkust? Aeg seda ümber kujundada.
-  LABEL_GAME_ONLINE: |
+  LABEL_GAME_ONLINE: >
     Kuidas hoida oma mängijad ekraanile liimitud?
     INTERNET, tee online mänge ja nad on sõltuvuses!
-  LABEL_FURNITURES_SERVERS_BUY: |
+  LABEL_FURNITURES_SERVERS_BUY: >
     Veel lauale, rohkem tooli, rohkem arvutit, rohkem valgeid plaate, veelgi rohkem!
-  LABEL_DIGITAL_STORE: |
+  LABEL_DIGITAL_STORE: >
     Dematerialiseeritud, hakkate seda kuulma ja te juba teate, et see on tulevik.
-  LABEL_POSTMORTEM_FEATURE: |
+  LABEL_POSTMORTEM_FEATURE: >
     Õnnitleme, olete teinud oma esimese mängu. Nüüd saate jätkata post-mortem, et aidata teil hinnata selle arengut, disaini ja poleerimine
-  LABEL_NEW_GAME_FEATURE: |
+  LABEL_NEW_GAME_FEATURE: >
     Kas olete valmis alustama videomängude eetilist ajalugu? Tere tulemast City Game Studio'i.
     Alustage ja looge oma esimene mäng.
   LABEL_LOADING: Laadimine
   LABEL_NAME: Nimi
   LABEL_SALARY: Palk
   LABEL_NO_SCORE: Ühtegi skoori pole veel üles laaditud!
-  LABEL_CAPACITY_STORY_FEATURE: |
+  LABEL_CAPACITY_STORY_FEATURE: >
     Hea mäng on alati hea, hea lugu on alati hea.Mis on hea lugu mäng?
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
     Mis on selle nupu eesmärk?Peate haldama oma mängude kasutajaliidest
-  LABEL_CAPACITY_NETWORK_FEATURE: |
+  LABEL_CAPACITY_NETWORK_FEATURE: >
     On aeg mängida videomängu suurepäraselt, kuid mängides seda sõpradega on veelgi parem!Peate oma mängude võrgu haldama
-  LABEL_CAPACITY_MODDING_FEATURE: |
+  LABEL_CAPACITY_MODDING_FEATURE: >
     Mõned teie mängud on mängijad juba muutnud. Tänu sellele müüte rohkem mängu.
     On aeg aidata häkkeritel ja töötada õige mod API-ga: teie mängude jaoks
-  LABEL_CAPACITY_CUTSCENES_FEATURE: |
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
     Videod mõjutavad videomänge, peame uue mängu loomise ajal mängima lugusid
-  LABEL_CAPACITY_TUTORIEL_FEATURE: |
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
     Uue mängu mängimine on nagu õppimine.See pole lihtne, nii et olete otsustanud oma uute mängude juhendamise luua.
-  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
     Rick ja Paris näitavad oma eraelu. Sotsiaalsed võrgustikud on siin hea pärast ja saate neid kasutada oma mängude turustamiseks!
-  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: |
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
     Hiljutised uuringud näitavad, et soovimatute meilide saatmine võib märkimisväärselt suurendada teie mängude nähtavust.
     Rämpspost on uus sõna meeleolu javõite neid oma mängude turustamiseks kasutada!
-  LABEL_GAMEPORT_FEATURE: |
+  LABEL_GAMEPORT_FEATURE: >
     Unistused täituvad. Uus konsool on äsja välja lastud! Te saate mängu välja lasta kõikidele platvormidele. Lähme, proovime seda!
   LABEL_GAME_CREATION: Et hinnata iga oma mängu osa töökoormust, kohandage igat riistapuud.
-  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: |
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
     Võite vaadata kirjastajate pakkumisi. Mängu avaldamine on lihtne viis populaarseks muutmiseks ja suuremate mängude avaldamiseks
-  LABEL_WORLDMAP_DESCRIPTION_0: |
+  LABEL_WORLDMAP_DESCRIPTION_0: >
     Külastage linna, vaadake võistlust ja vaadake, kus sa oled
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
     Võimaldab korraldada turunduskampaania paljude mängude ajakirjade kaudu. See suurendab teie mängude nähtavust
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: |
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
     Võimaldab teil rentida reklaamiplaate, et paigutada oma müüdavate mängude plakatid
-  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
     Võimaldab korraldada telereklaamikampaaniaid. See on kallis, kuid kes ei vaata televiisorit nendel päevadel ?!
-  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
     Nüüd saate veebisaitidel kuvada reklaammaterjali. See on odav ja see toob kaasa rohkem mängijaid
-  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: |
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
     Nüüd on võimalik luua ülemaailmse veebi presentatsioon, et näidata maailmale, et teie mängud on olemas
-  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: |
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     Võid näha oma konkurente linnakaardil, nüüd saate neid vaadata
-  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: |
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Teie konkurentide ostmine on lihtne viis paljude fännide võitmiseks, samuti ettevõtte laiendamine
-  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: |
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Kui vaatate mõnda oma stuudiot, saate nüüd osta uusi mööblit
-  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: |
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     Võite palgata töötajaid, disainereid, arendajaid ja testijaid. Tänu neile saate luua suuremaid mänge
-  LABEL_STUDIO_RENT_DESCRIPTION_0: |
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Võimaldab rentida uusi hooneid. See võimaldab teil samaaegselt töötada mitme projektiga
-  LABEL_STUDIO_BUILD_DESCRIPTION_0: |
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
     Võimaldab ehitada uusi stuudiod. See on kallis, see on üks ainus võimalus piiramatult kasvada
-  LABEL_STUDIO_BUILD_DESCRIPTION_1: |
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Lisaks stuudio ehitamisele on võimalik ka konverentsikeskusi ehitada, mis on vajalik konverentside korraldamiseks
-  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: |
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Kui teil on vaja konverentsikeskusi, saate korraldada konverentse
-  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: |
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
     Saate osaleda konventsioonides, see suurendab aeg-ajalt teie mängude nähtavust
-  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: |
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
     Te saate maalida seinad, muuta postitusi ja korrata oma stuudio põrandaid
-  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: |
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
     Osta servereid võimaldab teil luua online-mänge, aga ka veebiportaali
-  LABEL_GAME_ONLINE_DESCRIPTION_0: |
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
     Võid luua mänge võrgus. Tavaliselt on need odavamad, kuid mängijad peavad maksma igakuise tellimuse
-  LABEL_DIGITAL_STORE_DESCRIPTION_0: |
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
     Saate luua dematerialiseeritud mängupoe ja lõpuks esimese alfa-versiooni, mida tuleb parandada
-  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: |
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     Saate teha kirjastajatelt pakkumisi, see toob sulle palju raha, kuid hoiduge halbadest märkidest
-  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: |
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
     Post mortem on aruanne selle kohta, mis oli mängu arendamise ajal õige või vale, see annab teile vihjeid
-  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: |
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     Hea mängu loomine võimaldab teil liikuda City Game Studio'is, teenida raha, fännid ja kogemused
-  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: |
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
     Mängu loomisel saate nüüd valida sihtgrupi, mis mõjutab mängu lõppskoori ja müüki
-  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: |
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
     Mängu loomisel on teil uus kujundusmõõtur
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: |
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
     Mängu loomisel on teil uus kujundusmõõtur
-  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: |
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
     Mängu loomisel on teil uus arendusmõõtur
-  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: |
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
     Mängu loomisel on teil uus arendusmõõtur
-  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: |
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
     Mängu loomisel on teil uus poleerimismõõtur
-  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: |
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
     Mängu loomisel on teil uus poleerimismõõtur
-  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
     Saate reklaamida sotsiaalseid võrgustikke, see on väga sihitud, kallis ja väga tõhus
-  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     E-kirjade saatmine maksab sulle peaaegu midagi ja mõjutab teie mängude müüki
-  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: |
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
     Saate oma mänge uutesse platvormidesse kanda, see on lihtne ja vaja on ainult ühte inimest
 
   # Placeholder used for forms
@@ -755,14 +755,14 @@ et:
   PLACEHOLDER_PLAYER_NAME: Sinu nimi
 
   # Tooltips
-  TOOLTIP_EMAIL: |
+  TOOLTIP_EMAIL: >
     Lugege uudiseid ja postitust
-  TOOLTIP_UNLOCK_GAME_GENRE: |
+  TOOLTIP_UNLOCK_GAME_GENRE: >
     Võimaldab teil avada uut tüüpi mänge
-  TOOLTIP_MANAGE_STUDIO: |
+  TOOLTIP_MANAGE_STUDIO: >
     Et juhtida oma stuudioid, uuendada arvutid, määrata töötajaid...
   TOOLTIP_GAMEPORT: Pange videomäng teisele platvormile
-  TOOLTIP_POSTMORTEM: |
+  TOOLTIP_POSTMORTEM: >
     Loo postmortemi aruanne.Ajutine aruanne aitabsa loote paremaid mänge
   TOOLTIP_CREATE_GAME: Loo uus mäng
   TOOLTIP_STAFF: Töötajate nimekiri
@@ -782,52 +782,52 @@ et:
   TOOLTIP_STUDIO_SELECT: Lisage oma stuudiod
   TOOLTIP_ANNOUNCE_GAME: Kuulutage videomängu.Loob hype.
   TOOLTIP_CONCURRENT: Videomängu ettevõtted
-  TOOLTIP_STUDIO_COST: |
+  TOOLTIP_STUDIO_COST: >
     Kokku stuudio kulud. Sealhulgas rentimine ja
     varustuse hooldamise kulud (nt serverite jaoks)
-  TOOLTIP_MARKETING_COST: |
+  TOOLTIP_MARKETING_COST: >
     Praegu käimasolevate turunduskampaaniate kulud
-  TOOLTIP_SALARY_COST: |
+  TOOLTIP_SALARY_COST: >
     Iga töötaja palk
 
   # Showd when game is loading
-  LOADING_SCREEN_TIP_0: |
+  LOADING_SCREEN_TIP_0: >
     Teie ettevõte hinnatakse salastatult viimase nelja aasta jooksul toodetud mängude kvaliteedi põhjal
-  LOADING_SCREEN_TIP_1: |
+  LOADING_SCREEN_TIP_1: >
     Täiuslikud töötajad saavad spontaanselt taotleda oma tootmismeeskondade tugevdamist
-  LOADING_SCREEN_TIP_2: |
+  LOADING_SCREEN_TIP_2: >
     See laadimisekraan on ainult selleks, et sind oodata, tegelikult on see uni (juhuslik (0, 50)), mis on looping
-  LOADING_SCREEN_TIP_3: |
+  LOADING_SCREEN_TIP_3: >
     Uue mängužanri avastamine annab teile märkimisväärse eelise võistluse pärast
-  LOADING_SCREEN_TIP_4: |
+  LOADING_SCREEN_TIP_4: >
     Mängude tootmine konkurentidega on parim viis kuulsaks saamiseks
-  LOADING_SCREEN_TIP_5: |
+  LOADING_SCREEN_TIP_5: >
     Saate korraldada kokkuleppeid oma ehitistes, kuid paremaks asetage need üksteise järel
-  LOADING_SCREEN_TIP_6: |
+  LOADING_SCREEN_TIP_6: >
     Halva müügi osakond on alati õigus
-  LOADING_SCREEN_TIP_7: |
+  LOADING_SCREEN_TIP_7: >
     Sa pead servereid veebimänge korraldama, need on odavamad, kuid mängijad peavad iga kuu mängima, et mängida
-  LOADING_SCREEN_TIP_8: |
+  LOADING_SCREEN_TIP_8: >
     Einstein, meie maskott, mängis City Game Studio arendamisel 65.13 korda
-  LOADING_SCREEN_TIP_9: |
+  LOADING_SCREEN_TIP_9: >
     City Game Studio arendamisel mängiti 12654 jõululaulu
-  LOADING_SCREEN_TIP_10: |
+  LOADING_SCREEN_TIP_10: >
     Vaadates turuosasid on hea, kuid peate hoolitsema ka platvormil avaldatud mängude arvu eest
-  LOADING_SCREEN_TIP_11: |
+  LOADING_SCREEN_TIP_11: >
     Kas soovite City Game Studio'i tõlkimist aidata? https://github.com/binogure-studio/city-game-studio-i18n
-  LOADING_SCREEN_TIP_12: |
+  LOADING_SCREEN_TIP_12: >
     Kui teie serverite tuld põleb punaselt, tähendab see, et need on ülekoormatud.
-  LOADING_SCREEN_TIP_13: |
+  LOADING_SCREEN_TIP_13: >
     Ära unusta kohvipausi ... Ah, kohvimasin on uuesti purunenud.
-  LOADING_SCREEN_TIP_14: |
+  LOADING_SCREEN_TIP_14: >
     Crunchtime ei ole teravilja bränd, kuid see on laialt levinud juhtimise tava.
-  LOADING_SCREEN_TIP_15: |
+  LOADING_SCREEN_TIP_15: >
     Uue mängu vabastamine on parim viis raha teenimiseks
-  LOADING_SCREEN_TIP_16: |
+  LOADING_SCREEN_TIP_16: >
     Pärast tapmist lubatakse teil rohkem teada saada mängude kohta, mille olete välja lasknud
-  LOADING_SCREEN_TIP_17: |
+  LOADING_SCREEN_TIP_17: >
     Hiljutise uuringu andmetel lööb ligi ligi 625,3 koera, kui sajab vihmasadu, ja teised neist lõbusalt
-  LOADING_SCREEN_TIP_18: |
+  LOADING_SCREEN_TIP_18: >
     Ärge tugineda kõike, mida saate laadimisekraanidel lugeda
-  LOADING_SCREEN_TIP_19: |
+  LOADING_SCREEN_TIP_19: >
     Tõsise uurimuse kohaselt on raamatute lugemine teid loll ja tähenda
