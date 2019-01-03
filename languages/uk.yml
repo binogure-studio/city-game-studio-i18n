@@ -49,7 +49,7 @@ uk:
   LABEL_INBOX: Вхідні
   LABEL_SPAM: Спам
   LABEL_TRASH: Кошик
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Розблокувати нові жанри гри[/b].
 
     Щоб розблокувати новий жанр, натисніть
@@ -59,7 +59,7 @@ uk:
 
     [b]Кількість точок статі[/b] розташована у
     [b]верхньому правому[/b] куті екрана.
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -94,13 +94,13 @@ uk:
     Щоб мати можливість подати заявку на пропозицію видавця, у студії потрібно
     мати принаймні 3 людини.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s скасовано"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Для [b]%s[/b] (%s)Ми особливо розчаровані тим, що ви скасували розробку
     [b]%s[/b].Відповідно з підписаним контрактом, стор. 453, параграф 72d, параграф W,
     рожевий лист, ви повинні сплатити штраф у розмірі [b]%s$[/b] і відшкодувати нам як
     найшвидше.З повагою,Чесна юридична фірма, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Контракт припинено
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Для [b]%s[/b] (%s)[b]%s[/b] не відповідає очікуваному успіху, і ми повинні підкоритись
     договору до листа.Таким чином, відповідно до сторінки 5863, параграф 99z,
     коричневий лист, ви повинні сплатити штраф у розмірі [b]%s$[/b] і відшкодувати як
@@ -118,12 +118,12 @@ uk:
   LABEL_MARKETING_MAILINGLIST_ITEM: Інформаційна розсылка
   LABEL_SELF_PUBLISH: Самовидання
   LABEL_TRADE_PUBLISH: Традиційне видання
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Доброго дня,Я [b]%s[/b], я люблю [b]%s[/b], і я хотів би приєднатися до вашої команди
     якомога швидше.Я зможу бути ефективним та отримати нові знання.Спасибі за
     ваш час,%s
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Спонтанна програма
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Доброго дня,Я пишу, щоб повідомити вас про те, що я відмовляюсь від моєї
     посади на рівні [b]%s[/b] відразу.Я залишив, тому що знайшов нову роботу ближче до
     дому, а компанія є більш привабливою ніж ваша.Мені дуже сподобалися роки, що
@@ -145,7 +145,7 @@ uk:
   LABEL_CAMPAIGN_NO_COST: Поговорити з пресою
   LABEL_CAMPAIGN_DEMO: Опублікувати демонстраційну версію
   LABEL_CAMPAIGN_FULL: Запустити рекламну кампанію
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] щойно випустив свою наступну гру: %sВін буде доступний лише в
     %sШанувальники схвильовані так само, як і ми!
   LABEL_GAME_ANNOUNCED_TITLE: Оголошено %s
@@ -759,6 +759,8 @@ uk:
   PLACEHOLDER_PLAYER_NAME: Твоє ім'я
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s для розблокування %s
   TOOLTIP_EMAIL: >
     Читайте новини та пошту
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -835,3 +837,34 @@ uk:
     Не покладайтеся на все, що можна прочитати на екранах завантаження
   LOADING_SCREEN_TIP_19: >
     Згідно з серйозним дослідженням, читання книг робить вас дурними і означають
+
+  GAMEEDITION_SUBMIT: Випуск видавничих пропозицій
+  GAMEEDITION_RECEIVE: Отримувати публікації пропозицій
+  WORLDMAP: Карта міста
+  MARKETING_CAMPAIGN_MAGAZINE: Рекламна кампанія в пресі
+  MARKETING_CAMPAIGN_TV: Телевізійна рекламна кампанія
+  MARKETING_CAMPAIGN_INTERNET: Онлайн-рекламна кампанія
+  CONCURRENT_STUDIOS_LIST: Перерахуйте конкурентів
+  CONCURRENT_STUDIOS_BUY: Купівля конкурентів
+  FURNITURES_COMMON_BUY: Купівля меблів
+  EMPLOYEES_HIRE: Оренда персоналу
+  STUDIO_RENT: Здам однокімнатну квартиру
+  STUDIO_BUILD: Будівництво студії
+  CONVENTION_ORGANIZE: Організуйте конвенцію
+  CONVENTION_PARTICIPATE: Участь у конвенції
+  STUDIO_CUSTOMIZE: Відремонтуйте свої студії
+  FURNITURES_SERVERS_BUY: Купити сервери
+  GAME_ONLINE: Публікуйте онлайн-ігри
+  DIGITAL_STORE: Дематеріалізований магазин
+  POSTMORTEM: Звіт про гру
+  NEW_GAME: Нова гра
+  TARGETTED_AUDIENCE: Цільова аудиторія
+  STORY: Історія
+  USERINTERFACE: Користувацький інтерфейс
+  NETWORK: Мережа
+  MODDING: Моддінг
+  CUTSCENES: Вирізати сцени
+  TUTORIEL: Підручники
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Цільова рекламна кампанія
+  MARKETING_CAMPAIGN_MAILINGLIST: Рекламна кампанія електронною поштою
+  GAMEPORT: Порт гри

@@ -50,7 +50,7 @@ es:
   LABEL_INBOX: Bandeja de entrada
   LABEL_SPAM: Spam
   LABEL_TRASH: Basura
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Desbloquear nuevos géneros de juegos[/b].
 
     Para desbloquear un nuevo género,
@@ -61,7 +61,7 @@ es:
     [b]El número de puntos de género[/b] se
     encuentra en la [b]esquina superior derecha[/b]
     de la pantalla.
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -95,7 +95,7 @@ es:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Debes tener al menos [b]3[/b] personas trabajando en un estudio para poder solicitar una oferta de editor.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
 
     Estamos especialmente decepcionados de que haya cancelado el desarrollo de [b]%s[/b].
@@ -104,7 +104,7 @@ es:
     Respetuosamente,
     El bufete de abogados honesto, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Contrato rescindido
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
 
     [b]%s[/b] no ha tenido el éxito esperado, y debemos aplicar el contrato firmado al pie de la letra.
@@ -125,7 +125,7 @@ es:
   LABEL_MARKETING_MAILINGLIST_ITEM: Boletín de noticias
   LABEL_SELF_PUBLISH: Autoedición
   LABEL_TRADE_PUBLISH: Publicación tradicional
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hola,
     
     Soy [b]%s[/b], me encantan [b]%s[/b] y me gustaría unirme a tu equipo lo antes posible.
@@ -134,7 +134,7 @@ es:
     Gracias por su tiempo,
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Solicitud espontánea
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hola,
 
     Le escribo para informarle que renuncio a mi cargo en [b]%s[/b] con efecto inmediato.
@@ -161,7 +161,7 @@ es:
   LABEL_CAMPAIGN_NO_COST: Hablar con la prensa
   LABEL_CAMPAIGN_DEMO: Publica una demo
   LABEL_CAMPAIGN_FULL: Ejecutar una campaña publicitaria.
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] acaba de revelar su próximo juego: [b]%s[/b]
     Estará disponible en [b]%s[/b]
     ¡Los fans están emocionados como nosotros!
@@ -797,6 +797,8 @@ es:
   PLACEHOLDER_PLAYER_NAME: Tu nombre
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s para desbloquear %s
   TOOLTIP_EMAIL: >
     Lea las noticias y su correo
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -882,3 +884,34 @@ es:
     No confíe en todo lo que pueda leer en las pantallas de carga
   LOADING_SCREEN_TIP_19: >
     Según un estudio serio, leer libros te hace estúpido y mezquino.
+
+  GAMEEDITION_SUBMIT: Emitir ofertas de publicación
+  GAMEEDITION_RECEIVE: Recibir ofertas de publicación
+  WORLDMAP: Plano de la ciudad
+  MARKETING_CAMPAIGN_MAGAZINE: Campaña publicitaria en la prensa
+  MARKETING_CAMPAIGN_TV: Campaña de publicidad en televisión
+  MARKETING_CAMPAIGN_INTERNET: Campaña de publicidad online
+  CONCURRENT_STUDIOS_LIST: Lista de los competidores
+  CONCURRENT_STUDIOS_BUY: Comprar a la competencia
+  FURNITURES_COMMON_BUY: Compra de muebles
+  EMPLOYEES_HIRE: Contratar personal
+  STUDIO_RENT: Alquiler de un estudio
+  STUDIO_BUILD: Construir un estudio
+  CONVENTION_ORGANIZE: Organizar una convención
+  CONVENTION_PARTICIPATE: Participar en una convención
+  STUDIO_CUSTOMIZE: Renueve sus estudios
+  FURNITURES_SERVERS_BUY: Comprar servidores
+  GAME_ONLINE: Publicar juegos en línea
+  DIGITAL_STORE: Tienda desmaterializada
+  POSTMORTEM: Reporte del juego
+  NEW_GAME: Nuevo juego
+  TARGETTED_AUDIENCE: Público objetivo
+  STORY: Historia
+  USERINTERFACE: Interfaz de usuario
+  NETWORK: Red
+  MODDING: Modding
+  CUTSCENES: Cortar escenas
+  TUTORIEL: Tutoriales
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Campaña de publicidad dirigida
+  MARKETING_CAMPAIGN_MAILINGLIST: Campaña de publicidad por e-mail
+  GAMEPORT: Poner un juego

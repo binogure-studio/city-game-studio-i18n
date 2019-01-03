@@ -50,14 +50,14 @@ zh:
   LABEL_INBOX: 收件箱
   LABEL_SPAM: 垃圾邮件
   LABEL_TRASH: 垃圾
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]解锁新游戏类型[/b]
 
     要解锁新类型, [b]点击其图标[/b]
     如果你有足够的积分, 那么游戏类型将被解锁
 
     [b]性别点数[/b]位于屏幕的[b]右上角[/b]
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -91,7 +91,7 @@ zh:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     您必须至少有[b]3[/b]个人在工作室工作才能申请出版商
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s 已取消"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     对于 [b]%s[/b] (%s),
 
     您已取消 [b]%s[/b] 的开发, 我们特别失望。
@@ -100,7 +100,7 @@ zh:
     尊敬,
     诚实的律师事务所, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "合同终止"
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     对于 [b]%s[/b] (%s)
 
     [b]%s[/b] 未达到预期的成功, 我们必须将签署的合同应用于该信函。
@@ -121,7 +121,7 @@ zh:
   LABEL_MARKETING_MAILINGLIST_ITEM: 通讯
   LABEL_SELF_PUBLISH: 自我出版
   LABEL_TRADE_PUBLISH: 传统出版
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     你好, 
     
     我是 [b]%s[/b], 我喜欢 [b]%s[/b], 我想尽快加入你的团队。
@@ -130,7 +130,7 @@ zh:
     感谢您的时间, 
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: 自发申请
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     你好, 
 
     我写信通知你, 我立即从 %s的职位辞职。
@@ -157,7 +157,7 @@ zh:
   LABEL_CAMPAIGN_NO_COST: 与媒体交谈
   LABEL_CAMPAIGN_DEMO: 发布演示
   LABEL_CAMPAIGN_FULL: 举办广告活动
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] 刚刚公布了他们的下一场比赛: [b]%s[/b]
     它将在 [b]%s[/b] 上提供
     粉丝们很兴奋！
@@ -717,6 +717,8 @@ zh:
   PLACEHOLDER_PLAYER_NAME: 你的名字
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s解锁%s
   TOOLTIP_EMAIL: >
     阅读新闻和邮件
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -796,3 +798,34 @@ zh:
     不要依赖于加载屏幕上可以阅读的所有内容
   LOADING_SCREEN_TIP_19: >
     根据一项严肃的研究，阅读书籍会让你变得愚蠢和卑鄙
+
+  GAMEEDITION_SUBMIT: 发布发布优惠
+  GAMEEDITION_RECEIVE: 接收发布优惠
+  WORLDMAP: 城市地图
+  MARKETING_CAMPAIGN_MAGAZINE: 媒体广告宣传
+  MARKETING_CAMPAIGN_TV: 电视广告活动
+  MARKETING_CAMPAIGN_INTERNET: 在线广告活动
+  CONCURRENT_STUDIOS_LIST: 列出竞争对手
+  CONCURRENT_STUDIOS_BUY: 买下竞争对手
+  FURNITURES_COMMON_BUY: 买家具
+  EMPLOYEES_HIRE: 雇用员工
+  STUDIO_RENT: 租一间一室公寓
+  STUDIO_BUILD: 建一个工作室
+  CONVENTION_ORGANIZE: 组织一次会议
+  CONVENTION_PARTICIPATE: 参加会议
+  STUDIO_CUSTOMIZE: 翻新你的工作室
+  FURNITURES_SERVERS_BUY: 买服务器
+  GAME_ONLINE: 发布在线游戏
+  DIGITAL_STORE: 非物质化商店
+  POSTMORTEM: 游戏报道
+  NEW_GAME: 新游戏
+  TARGETTED_AUDIENCE: 有针对性的观众
+  STORY: 历史
+  USERINTERFACE: 用户界面
+  NETWORK: 网络
+  MODDING: 改装
+  CUTSCENES: 剪切场景
+  TUTORIEL: 教程
+  MARKETING_CAMPAIGN_SOCIALNETWORK: 有针对性的广告活动
+  MARKETING_CAMPAIGN_MAILINGLIST: 电邮广告活动
+  GAMEPORT: 移植游戏

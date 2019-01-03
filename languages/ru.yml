@@ -49,7 +49,7 @@ ru:
   LABEL_INBOX: Входящие
   LABEL_SPAM: Спам
   LABEL_TRASH: Мусор
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Разблокировка новых игровых жанров[/b].
 
     Чтобы разблокировать новый жанр, [b]щелкните
@@ -59,7 +59,7 @@ ru:
 
     [b]Число гендерных точек[/b]расположено в
     [b]правом верхнем углу экрана[/b].
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -94,7 +94,7 @@ ru:
     У вас должно быть как минимум [b]3[/b] человека, работающие в студии, чтобы
     подать заявку на предложение издателя.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s отменено"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Для [b]%s[/b] (%s)
 
     Мы особенно разочарованы тем, что вы отменили разработку [b]%s[/b].
@@ -107,7 +107,7 @@ ru:
     С уважением,
     Честная юридическая фирма, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Контракт прекращен
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Для [b]%s[/b] (%s)
 
     [b]%s[/b] не встретил ожидаемого успеха, и мы должны применить подписанный контракт
@@ -132,7 +132,7 @@ ru:
   LABEL_MARKETING_MAILINGLIST_ITEM: Новостная рассылка
   LABEL_SELF_PUBLISH: Самопубликация
   LABEL_TRADE_PUBLISH: Традиционная публикация
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
     Я [b]%s[/b], я люблю [b]%s[/b], и я хотел бы как можно скорее присоединиться к вашей
@@ -143,7 +143,7 @@ ru:
     Спасибо за ваше время,
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Cпонтанное приложение
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
     Я пишу, чтобы сообщить вам, что я немедленно ухожу из своей позиции в [b]%s[/b].
@@ -173,7 +173,7 @@ ru:
   LABEL_CAMPAIGN_NO_COST: Поговорить с прессой
   LABEL_CAMPAIGN_DEMO: Опубликовать демонстрационную версию
   LABEL_CAMPAIGN_FULL: Запустить рекламную кампанию
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] только что показали свою следующую игру: [b]%s[/b]
     Она будет доступна на [b]%s[/b]
     Поклонники взволнованы, как и мы!
@@ -791,6 +791,8 @@ ru:
   PLACEHOLDER_PLAYER_NAME: Ваше имя
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s для разблокировки %s
   TOOLTIP_EMAIL: >
     Читай новости и свою почту.  
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -867,3 +869,34 @@ ru:
     Не полагайтесь на все, что вы можете прочитать на экранах загрузки.
   LOADING_SCREEN_TIP_19: >
     Согласно серьезному исследованию, чтение книг делает тебя глупым и злым.
+
+  GAMEEDITION_SUBMIT: Предложения по публикации номера
+  GAMEEDITION_RECEIVE: Получать предложения по издательской деятельности
+  WORLDMAP: Карта города
+  MARKETING_CAMPAIGN_MAGAZINE: Рекламная кампания в прессе
+  MARKETING_CAMPAIGN_TV: Телевизионная рекламная кампания
+  MARKETING_CAMPAIGN_INTERNET: Рекламная кампания в Интернете
+  CONCURRENT_STUDIOS_LIST: Перечислите конкурентов
+  CONCURRENT_STUDIOS_BUY: Выкуп конкурентов
+  FURNITURES_COMMON_BUY: Покупка мебели
+  EMPLOYEES_HIRE: Нанять персонал
+  STUDIO_RENT: Снять однокомнатную квартиру посуточно
+  STUDIO_BUILD: Строительство студии
+  CONVENTION_ORGANIZE: Организовать конференцию
+  CONVENTION_PARTICIPATE: Участие в конвенции
+  STUDIO_CUSTOMIZE: Обновите свои студии.
+  FURNITURES_SERVERS_BUY: Покупка серверов
+  GAME_ONLINE: Опубликовать онлайн игры
+  DIGITAL_STORE: Дематериализованный магазин
+  POSTMORTEM: Отчет об игре
+  NEW_GAME: Новая игра
+  TARGETTED_AUDIENCE: Целевая аудитория
+  STORY: История
+  USERINTERFACE: Пользовательский интерфейс
+  NETWORK: Сеть
+  MODDING: Моддинг
+  CUTSCENES: Вырезать сцены
+  TUTORIEL: Учебники
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Целевая рекламная кампания
+  MARKETING_CAMPAIGN_MAILINGLIST: Рекламная кампания по электронной почте
+  GAMEPORT: Портировать игру

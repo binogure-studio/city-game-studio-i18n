@@ -50,7 +50,7 @@ fr:
   LABEL_INBOX: Boîte de réception
   LABEL_SPAM: Courrier indésirable
   LABEL_TRASH: Poubelle
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     Cette page vous permet de [b]débloquer de nouveaux genres de jeux[/b].
 
     Pour débloquer un nouveau genre, [b]cliquer sur son icône[/b].
@@ -59,7 +59,7 @@ fr:
 
     Votre [b]nombre de point[/b] de genre est situé dans le [b]coin supérieur
     droit[/b] de l'écran.
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -93,7 +93,7 @@ fr:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Vous devez avoir au minimum [b]3[/b] personnes travaillant dans un studio pour pouvoir répondre a une offre d'éditeur.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     À l'intention de [b]%s[/b] (%s),
 
     Nous sommes particulièrement déçu de que vous ayiez annulé le développement de [b]%s[/b].
@@ -102,7 +102,7 @@ fr:
     Respectueusement,
     Le bureau d'avocat honnête, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrat rompu"
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     À l'intention de [b]%s[/b] (%s),
 
     [b]%s[/b] n'a pas rencontré le succès attendu, et nous nous devons d'appliquer le contrat signé à la lettre.
@@ -123,7 +123,7 @@ fr:
   LABEL_MARKETING_MAILINGLIST_ITEM: Infolettre
   LABEL_SELF_PUBLISH: Autopublication
   LABEL_TRADE_PUBLISH: Édition traditionnelle
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
     
     Je me présente [b]%s[/b], j'adore [b]%s[/b] et je souhaiterai rejoindre votre équipe au plus vite.
@@ -132,7 +132,7 @@ fr:
     Merci pour votre temps,
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Candidature spontannée
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
 
     La présente a pour objet de vous faire que je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
@@ -159,7 +159,7 @@ fr:
   LABEL_CAMPAIGN_NO_COST: Contacter la presse
   LABEL_CAMPAIGN_DEMO: Publier une démo
   LABEL_CAMPAIGN_FULL: Organiser une campagne publicitaire
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] vient juste d'annoncer la sortie prochaine de [b]%s[/b].
     Le jeu sortira d'abord sur la plateforme [b]%s[/b].
     Les fans ont hâte d'y être et nous aussi!
@@ -775,6 +775,8 @@ fr:
   PLACEHOLDER_PLAYER_NAME: Votre nom
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    Pour débloquer %s vous devez avoir %s
   TOOLTIP_EMAIL: >
     Contient les dernières actualités ainsi que votre courrier
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -865,3 +867,63 @@ fr:
     Ne vous fiez pas à tout ce que vous pouvez lire sur les écrans de chargement
   LOADING_SCREEN_TIP_19: >
     Selon une étude sérieuse, lire rend bête et méchant
+
+  GAMEEDITION_SUBMIT: Émettre des offres d'éditions
+  GAMEEDITION_RECEIVE: Recevoir des offres d'éditions
+  WORLDMAP: Carte de la ville
+  MARKETING_CAMPAIGN_MAGAZINE: Campagne publicitaire dans la presse
+  MARKETING_CAMPAIGN_TV: Campagne publicitaire télévisuelle
+  MARKETING_CAMPAIGN_INTERNET: Campagne publicitaire en ligne
+  CONCURRENT_STUDIOS_LIST: Lister les compétiteurs
+  CONCURRENT_STUDIOS_BUY: Racheter les compétiteurs
+  FURNITURES_COMMON_BUY: Acheter des meubles
+  EMPLOYEES_HIRE: Engager du personnel
+  STUDIO_RENT: Louer un studio
+  STUDIO_BUILD: Construire un studio
+  CONVENTION_ORGANIZE: Organiser une convention
+  CONVENTION_PARTICIPATE: Participer à une convention
+  STUDIO_CUSTOMIZE: Rénover vos studios
+  FURNITURES_SERVERS_BUY: Acheter des serveurs
+  GAME_ONLINE: Publier des jeux en ligne
+  DIGITAL_STORE: Créer un magasin dématérialisé
+  POSTMORTEM: Rapport de jeu
+  NEW_GAME: Nouveau jeu
+  TARGETTED_AUDIENCE: Audience ciblée
+  STORY: Histoire
+  USERINTERFACE: Interface utilisateur
+  NETWORK: Réseau
+  MODDING: Modding
+  CUTSCENES: Scènes coupées
+  TUTORIEL: Tutoriels
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Campagne publicitaire ciblée
+  MARKETING_CAMPAIGN_MAILINGLIST: Campagne publicitaire par courriel
+  GAMEPORT: Porter un jeu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

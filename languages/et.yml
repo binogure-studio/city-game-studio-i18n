@@ -50,7 +50,7 @@ et:
   LABEL_INBOX: Saabunud
   LABEL_SPAM: Spämm
   LABEL_TRASH: Prügikast
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Uue mängu žanri avamine[/b].
 
     Uue žanri avamiseks klõpsa [b]selle ikoonile[/b].
@@ -59,7 +59,7 @@ et:
 
     [b]Sooliste punktide arv[/b] asub ekraani
     [b]paremas ülanurgas[/b].
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -93,7 +93,7 @@ et:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Kirjastaja pakkumise taotlemiseks peab teil olema vähemalt [b]3[/b] töötajat stuudios.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s on tühistatud"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     [b]%s[/b] jaoks (%s)
 
     Oleme eriti pettunud, et olete tühistanud [b]%s[/b] arengu.
@@ -102,7 +102,7 @@ et:
     Lugupidamisega
     Ausad advokaadibürood, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Leping on lõpetatud"
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     [b]%s[/b] jaoks (%s)
 
     [b]%s[/b] ei ole oodatud edu saavutanud ning me peame kirjaga allkirjastama lepingu.
@@ -123,7 +123,7 @@ et:
   LABEL_MARKETING_MAILINGLIST_ITEM: Uudiskiri
   LABEL_SELF_PUBLISH: Isiklik avaldus
   LABEL_TRADE_PUBLISH: Traditsiooniline kirjastamine
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Tere,
     
     Ma olen [b]%s[/b], ma armastan [b]%s[/b] ja tahaksin teie meeskonda võimalikult kiiresti liituda.
@@ -132,7 +132,7 @@ et:
     Täname teid teie aja eest,
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaanne rakendamine
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Tere,
     
     Kirjutan teid teavitama, et ma loobun oma positsioonist [b]%s[/b] kohe.
@@ -159,7 +159,7 @@ et:
   LABEL_CAMPAIGN_NO_COST: Räägi ajakirjandusega
   LABEL_CAMPAIGN_DEMO: Avaldage näidis
   LABEL_CAMPAIGN_FULL: Algatage reklaamikampaania
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] on just avaldanud oma järgmise mängu: [b]%s[/b]
     See on saadaval [b]%s[/b] Fännid on põnevil, nii ütleme me kõik!
   LABEL_GAME_ANNOUNCED_TITLE: "%s teatas"
@@ -755,6 +755,8 @@ et:
   PLACEHOLDER_PLAYER_NAME: Sinu nimi
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s %si avamiseks
   TOOLTIP_EMAIL: >
     Lugege uudiseid ja postitust
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -831,3 +833,34 @@ et:
     Ärge tugineda kõike, mida saate laadimisekraanidel lugeda
   LOADING_SCREEN_TIP_19: >
     Tõsise uurimuse kohaselt on raamatute lugemine teid loll ja tähenda
+
+  GAMEEDITION_SUBMIT: Andke välja avaldamispakkumisi
+  GAMEEDITION_RECEIVE: Saada avaldamispakkumisi
+  WORLDMAP: Linna kaart
+  MARKETING_CAMPAIGN_MAGAZINE: Reklaamikampaania ajakirjanduses
+  MARKETING_CAMPAIGN_TV: Televisiooni reklaamikampaania
+  MARKETING_CAMPAIGN_INTERNET: Online-reklaamikampaania
+  CONCURRENT_STUDIOS_LIST: Nimekiri konkurendid
+  CONCURRENT_STUDIOS_BUY: Võistlejate väljaostmine
+  FURNITURES_COMMON_BUY: Mööbli ostmine
+  EMPLOYEES_HIRE: Töötajad
+  STUDIO_RENT: Rentige stuudiokorter
+  STUDIO_BUILD: Stuudio ehitamine
+  CONVENTION_ORGANIZE: Korraldage konventsioon
+  CONVENTION_PARTICIPATE: Osaleda konventsioonis
+  STUDIO_CUSTOMIZE: Renoveerige oma stuudiod
+  FURNITURES_SERVERS_BUY: Osta servereid
+  GAME_ONLINE: Avalda võrgumänge
+  DIGITAL_STORE: Dematerialiseeritud kauplus
+  POSTMORTEM: Mängu aruanne
+  NEW_GAME: Uus mäng
+  TARGETTED_AUDIENCE: Sihtrühm
+  STORY: Ajalugu
+  USERINTERFACE: Kasutajaliides
+  NETWORK: Võrk
+  MODDING: Modding
+  CUTSCENES: Lõigake stseene
+  TUTORIEL: Õpetused
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Suunatud reklaamikampaania
+  MARKETING_CAMPAIGN_MAILINGLIST: E-posti reklaamikampaania
+  GAMEPORT: Pordi mäng

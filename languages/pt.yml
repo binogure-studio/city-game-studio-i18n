@@ -50,7 +50,7 @@ pt:
   LABEL_INBOX: Caixa de entrada
   LABEL_SPAM: Spam
   LABEL_TRASH: Lixo
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Desbloquear novos géneros de jogos [/b].
 
     Para desbloquear um novo gênero, [b]clique no seu ícone[/b].
@@ -59,7 +59,7 @@ pt:
 
     [b]Número de pontos de gênero[/b] está localizado
     no canto superior direito [b]superior[/b] da tela.
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -93,7 +93,7 @@ pt:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Você deve ter pelo menos [b]3[/b] pessoas trabalhando em um estúdio para poder se inscrever em uma oferta de editor.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
 
     Estamos particularmente decepcionados por você ter cancelado o desenvolvimento de [b]%s[/b].
@@ -102,7 +102,7 @@ pt:
     Respeitosamente,
     O escritório de advocacia honesto, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrato rescindido"
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
 
     [b]%s[/b] não alcançou o sucesso esperado e devemos aplicar o contrato assinado à letra.
@@ -123,7 +123,7 @@ pt:
   LABEL_MARKETING_MAILINGLIST_ITEM: Boletim de Notícias
   LABEL_SELF_PUBLISH: Auto-publicação
   LABEL_TRADE_PUBLISH: Publicação tradicional
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Olá,
     
     Eu sou [b]%s[/b], eu amo [b]%s[/b] e gostaria de participar de sua equipe o mais rápido possível.
@@ -132,7 +132,7 @@ pt:
     Obrigado pelo seu tempo
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Aplicativo espontâneo
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Olá,
 
     Estou escrevendo para informar que estou renunciando a minha posição em [b]%s[/b] imediatamente.
@@ -159,7 +159,7 @@ pt:
   LABEL_CAMPAIGN_NO_COST: Fale com a imprensa
   LABEL_CAMPAIGN_DEMO: Publicar uma demonstração
   LABEL_CAMPAIGN_FULL: Executar uma campanha publicitária
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] acaba de revelar seu próximo jogo: [b]%s[/b]
     Estará disponível em [b]%s[/b]
     Os fãs estão animados como nós!
@@ -798,6 +798,8 @@ pt:
   PLACEHOLDER_PLAYER_NAME: Seu nome
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s para desbloquear %s
   TOOLTIP_EMAIL: >
     Leia as notícias e o seu e-mail
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -885,3 +887,34 @@ pt:
     Não confie em tudo o que você pode ler nas telas de carregamento
   LOADING_SCREEN_TIP_19: >
     De acordo com um estudo sério, ler livros torna-te estúpido e mau.
+
+  GAMEEDITION_SUBMIT: Ofertas de publicação de números
+  GAMEEDITION_RECEIVE: Receber ofertas de publicação
+  WORLDMAP: Mapa da cidade
+  MARKETING_CAMPAIGN_MAGAZINE: Campanha publicitária na imprensa
+  MARKETING_CAMPAIGN_TV: Campanha publicitária televisiva
+  MARKETING_CAMPAIGN_INTERNET: Campanha de publicidade online
+  CONCURRENT_STUDIOS_LIST: Listar os concorrentes
+  CONCURRENT_STUDIOS_BUY: Compra de concorrentes
+  FURNITURES_COMMON_BUY: Compra de móveis
+  EMPLOYEES_HIRE: Contratar pessoal
+  STUDIO_RENT: Alugar um apartamento estúdio
+  STUDIO_BUILD: Construindo um estúdio
+  CONVENTION_ORGANIZE: Organizar uma convenção
+  CONVENTION_PARTICIPATE: Participar de uma convenção
+  STUDIO_CUSTOMIZE: Renovar seus estúdios
+  FURNITURES_SERVERS_BUY: Comprar servidores
+  GAME_ONLINE: Publicar jogos online
+  DIGITAL_STORE: Loja desmaterializada
+  POSTMORTEM: Relatório do jogo
+  NEW_GAME: Novo jogo
+  TARGETTED_AUDIENCE: Público-alvo
+  STORY: História da empresa
+  USERINTERFACE: Interface de usuário
+  NETWORK: Rede
+  MODDING: Modding
+  CUTSCENES: Cenas cortadas
+  TUTORIEL: Tutoriais
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Campanha de publicidade direcionada
+  MARKETING_CAMPAIGN_MAILINGLIST: Campanha de publicidade por e-mail
+  GAMEPORT: Portar um jogo

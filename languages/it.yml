@@ -50,7 +50,7 @@ it:
   LABEL_INBOX: Posta in arrivo
   LABEL_SPAM: Spam
   LABEL_TRASH: Cestino
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: >
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Sblocca nuovi generi di gioco[/b].
 
     Per sbloccare un nuovo genere, [b]clicca sulla
@@ -60,7 +60,7 @@ it:
 
     [b]Numero di punti di genere[/b] si trova nell'angolo
     [b]in alto a destra[/b] dello schermo.
-  LABEL_GAME_GENRE_DESCRIPTION: >
+  LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
@@ -94,7 +94,7 @@ it:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Devi avere almeno [b]3[/b] persone che lavorano in studio per poter fare domanda per un'offerta editoriale.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annullato"
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Per [b]%s[/b] (%s),
 
     Siamo particolarmente delusi dal fatto che lei abbia cancellato lo sviluppo di [b]%s[/b].
@@ -103,7 +103,7 @@ it:
     Con tutto il rispetto,
     Lo studio legale onesto, [b]%s[/b]  
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Contratto risolto
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Per [b]%s[/b] (%s),
 
     [b]%s[/b] non ha incontrato il successo atteso, e dobbiamo applicare il contratto firmato alla lettera.
@@ -124,7 +124,7 @@ it:
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
   LABEL_SELF_PUBLISH: Autopubblicazione
   LABEL_TRADE_PUBLISH: Editoria tradizionale
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Salve,
     
     Sono [b]%s[/b], amo [b]%s[/b] e vorrei unirmi alla vostra squadra il più presto possibile.
@@ -133,7 +133,7 @@ it:
     Grazie per il vostro tempo,
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Applicazione spontanea.
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Salve,
 
     Le scrivo per informarla che mi dimetterò dalla mia posizione a [b]%s[/b] con effetto immediato.
@@ -160,7 +160,7 @@ it:
   LABEL_CAMPAIGN_NO_COST: Parla alla stampa
   LABEL_CAMPAIGN_DEMO: Pubblica una demo
   LABEL_CAMPAIGN_FULL: Esegui una campagna pubblicitaria
-  LABEL_GAME_ANNOUNCED_DESCRIPTION: >
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] ha appena rivelato la sua prossima partita: [b]%s[/b]
     Sarà disponibile su [b]%s[/b]
     I fan sono eccitati come noi!
@@ -769,6 +769,8 @@ it:
   PLACEHOLDER_PLAYER_NAME: Il tuo nome
 
   # Tooltips
+  TOOLTIP_TUTORIEL: >
+    %s per sbloccare %s
   TOOLTIP_EMAIL: >
     Leggi le notizie e la tua mail
   TOOLTIP_UNLOCK_GAME_GENRE: >
@@ -852,3 +854,34 @@ it:
     Non affidatevi a tutto ciò che potete leggere sulle schermate di caricamento.
   LOADING_SCREEN_TIP_19: >
     Secondo uno studio serio, leggere libri ti rende stupido e cattivo.
+
+  GAMEEDITION_SUBMIT: Pubblicare offerte editoriali
+  GAMEEDITION_RECEIVE: Ricevi le offerte editoriali
+  WORLDMAP: Mappa della città
+  MARKETING_CAMPAIGN_MAGAZINE: Campagna pubblicitaria sulla stampa
+  MARKETING_CAMPAIGN_TV: Campagna pubblicitaria televisiva
+  MARKETING_CAMPAIGN_INTERNET: Campagna pubblicitaria online
+  CONCURRENT_STUDIOS_LIST: Elenca i concorrenti
+  CONCURRENT_STUDIOS_BUY: Acquisto di concorrenti
+  FURNITURES_COMMON_BUY: Acquisto di mobili
+  EMPLOYEES_HIRE: Assumere il personale
+  STUDIO_RENT: Affitto di un monolocale
+  STUDIO_BUILD: Costruire uno studio
+  CONVENTION_ORGANIZE: Organizzare una convention
+  CONVENTION_PARTICIPATE: Partecipare a un congresso
+  STUDIO_CUSTOMIZE: Ristrutturare i tuoi studi
+  FURNITURES_SERVERS_BUY: Comprare server
+  GAME_ONLINE: Pubblicare giochi online
+  DIGITAL_STORE: Negozio dematerializzato
+  POSTMORTEM: Rapporto di gioco
+  NEW_GAME: Nuovo gioco
+  TARGETTED_AUDIENCE: Pubblico mirato
+  STORY: Storia
+  USERINTERFACE: Interfaccia utente
+  NETWORK: La rete
+  MODDING: Modding
+  CUTSCENES: Scene di taglio
+  TUTORIEL: Tutorial
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Campagna pubblicitaria mirata
+  MARKETING_CAMPAIGN_MAILINGLIST: Campagna pubblicitaria via e-mail
+  GAMEPORT: Porta un gioco
