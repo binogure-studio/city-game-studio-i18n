@@ -44,9 +44,14 @@ es:
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: No es un spam
   BUTTON_HOLIDAY: Enviar al estudio de vacaciones
+  BUTTON_MODS: Mods
+  BUTTON_BUGREPORT: Informe de errores
+  BUTTON_FEEDBACK: Retroalimentación
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_WHAT_WERE_YOU_DOING: ¿Qué estabas haciendo cuando te encontraste con el problema?
+  LABEL_VERSION: "Versión: %s"
   LABEL_NO_MESSAGE: Ningún mensaje
   LABEL_INBOX: Bandeja de entrada
   LABEL_SPAM: Spam
@@ -843,6 +848,8 @@ es:
     Costos de las campañas de marketing en curso
   TOOLTIP_SALARY_COST: >
     Salario de cada empleado
+  TOOLTIP_STEAM_MODS: >
+    Steam workshop
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >

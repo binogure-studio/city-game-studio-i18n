@@ -44,9 +44,14 @@ en:
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Not a spam
   BUTTON_HOLIDAY: Send the studio on a holiday
+  BUTTON_MODS: Mods
+  BUTTON_BUGREPORT: Bug report
+  BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_WHAT_WERE_YOU_DOING: What were you doing when you encounter the bug?
+  LABEL_VERSION: "Version: %s"
   LABEL_NO_MESSAGE: No message
   LABEL_INBOX: Inbox
   LABEL_SPAM: Spam
@@ -818,6 +823,8 @@ en:
     Costs of marketing campaigns currently underway
   TOOLTIP_SALARY_COST: >
     Salary of each employee
+  TOOLTIP_STEAM_MODS: >
+    Steam workshop
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >

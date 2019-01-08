@@ -44,9 +44,14 @@ fr:
   BUTTON_SPAM: Marquer comme indésirable
   BUTTON_UNSPAM: Marquer comme normal
   BUTTON_HOLIDAY: Envoyer le studio en vacances
+  BUTTON_MODS: Mods
+  BUTTON_BUGREPORT: Rapport de bug
+  BUTTON_FEEDBACK: Suggestions
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_WHAT_WERE_YOU_DOING: Décrivez ce que vous faisiez lorsque le bogue s'est produit.
+  LABEL_VERSION: "Version: %s"
   LABEL_NO_MESSAGE: Aucun courrier
   LABEL_INBOX: Boîte de réception
   LABEL_SPAM: Courrier indésirable
@@ -824,6 +829,8 @@ fr:
     Coûts des campagnes marketing actuellement en cours
   TOOLTIP_SALARY_COST: >
     Salaire de chaque employé
+  TOOLTIP_STEAM_MODS: >
+    Mod du workshop de steam
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
