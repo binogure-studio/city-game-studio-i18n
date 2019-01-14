@@ -50,6 +50,16 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_CONVENTION_INCOMING: |
+    Dear %s,
+
+    We are pleased to announce %s scheduled for the %s.
+
+    The convention will last 3 days, and we are waiting for %s visitors.
+    You can already rent a stand to show your most beautiful creations. Hurry up, places are limited.
+
+    Sincerely,
+    The organizers of %s
   LABEL_REDCOUCH: Red sofa
   LABEL_DARKCOUCH: Dark sofa
   LABEL_WHITECOUCH: White sofa
@@ -777,6 +787,9 @@ en:
     Sending emails will cost you almost nothing and will influence the sales of your games
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
     You can port your games to new platforms, it's simple and only one person is needed.
+  LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games, you feel ready to develop new game mechanics
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    You can now unlock new game genres. To earn experience points, you just have to publish games
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Company name

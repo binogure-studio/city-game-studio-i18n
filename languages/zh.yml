@@ -50,6 +50,16 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_CONVENTION_INCOMING: |
+    亲爱的%s,
+
+    我们很高兴地宣布%s计划在%s举行.
+
+    大会将持续3天，我们正在等待%s访客.
+    您可以租一个展台来展示您最美丽的作品. 快点,地方有限.
+
+    此致
+    %s的组织者
   LABEL_REDCOUCH: 红色沙发
   LABEL_DARKCOUCH: 黑暗的沙发
   LABEL_WHITECOUCH: 白色沙发
@@ -721,6 +731,9 @@ zh:
     发送电子邮件几乎不会花费您任何费用，并会影响您的游戏销售
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
     您可以将游戏移植到新平台，这很简单，只需要一个人
+  LABEL_UNLOCK_GAMEGENRE: 您已经获得了制作游戏的经验，您已经准备好开发新的游戏机制
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    你现在可以解锁新的游戏类型。 要获得经验值，您只需发布游戏即可
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: 公司名

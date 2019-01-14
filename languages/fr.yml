@@ -50,6 +50,16 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_CONVENTION_INCOMING: |
+    Bonjour %s,
+
+    C'est avec plaisir que nous vous annonçons %s prévue pour le %s.
+
+    La convention durera 3 jours, et nous attendons %s visiteurs.
+    Vous pouvez déjà louer un stand pour venir montrer vos plus belles créations. Dépêchez-vous les places sont limitées.
+
+    Cordialement,
+    Les organisateurs de %s
   LABEL_REDCOUCH: Canapé rouge
   LABEL_DARKCOUCH: Canapé foncé
   LABEL_WHITECOUCH: Canapé blanc
@@ -777,6 +787,9 @@ fr:
     Envoyez des emails ne vous coutera presque rien et cela influencera les ventes de vos jeux
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
     Vous pouvez porter vos jeux sur de nouvelles plateformes, c'est simple et une seule personne suffit.
+  LABEL_UNLOCK_GAMEGENRE: Vous avez acquis de l'expérience en faisant des jeux, vous vous sentez prêt a développer de nouvelles méchaniques de jeu
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    Vous pouvez désormais débloquer des nouveaux genres de jeux. Pour gagner des points d'expériences, il vous suffit de publier des jeux
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Nom de la compagnie
@@ -909,32 +922,3 @@ fr:
   MARKETING_CAMPAIGN_SOCIALNETWORK: Campagne publicitaire ciblée
   MARKETING_CAMPAIGN_MAILINGLIST: Campagne publicitaire par courriel
   GAMEPORT: Porter un jeu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
