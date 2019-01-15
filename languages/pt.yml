@@ -38,7 +38,7 @@ pt:
   BUTTON_SELL: Vender
   BUTTON_RENT: Aluguel
   BUTTON_CONFIRM: Confirmar
-  BUTTON_BANKRUPTCY: Bancarrota
+  BUTTON_BANKRUPTCY: Falência
   BUTTON_RESTORE: Restaurar
   BUTTON_DELETE: Eliminar
   BUTTON_SPAM: Spam
@@ -87,7 +87,7 @@ pt:
   LABEL_SKILL_POINT: "%s pontos de gênero"
   LABEL_UNLOCKED: "Desbloqueado"
   LABEL_COST: Custo %s pontos
-  LABEL_FANBASE_TRENDS: Tendências de base dos ventiladores
+  LABEL_FANBASE_TRENDS: Tendências da fanbase
   LABEL_YEAR: Anos
   LABEL_GAMEOVER_CONFIRM: Falência
   LABEL_GAMEOVER_DESCRIPTION: >
@@ -172,9 +172,9 @@ pt:
   LABEL_NO: Não
   LABEL_PRICE_MONTHLY: Custos mensais
   LABEL_SERVER_MONITORING_REPORT: Estado dos servidores
-  LABEL_ONLINE_USAGE: Os jogadores online contam
+  LABEL_ONLINE_USAGE: Jogadores online
   LABEL_ONLINE_CAPACITY: Capacidade total do jogador
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Quantidade de jogadores simultâneos on-line
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Capacidade de jogadores simultâneos on-line
   LABEL_SERVER: Servidor
   LABEL_CAMPAIGN_NO_COST: Fale com a imprensa
   LABEL_CAMPAIGN_DEMO: Publicar uma demonstração
@@ -184,7 +184,7 @@ pt:
     Estará disponível em [b]%s[/b]
     Os fãs estão animados como nós!
   LABEL_GAME_ANNOUNCED_TITLE: "%s anunciou"
-  LABEL_TRENDING: Tendendo
+  LABEL_TRENDING: Tendência
   LABEL_CREATOR: Criado por
   LABEL_PRODUCER: Produtor
   LABEL_COMMUNITY_MANAGER: Gerente comunitário
@@ -210,7 +210,7 @@ pt:
   LABEL_HYPE: Campanha publicitária
   LABEL_AI: Inteligência artificial
   LABEL_ANIMATION: Animação
-  LABEL_ANISOTROPIC_FILTER: Filtragem anisotrópico
+  LABEL_ANISOTROPIC_FILTER: Filtragem anisotrópica
   LABEL_BUILDING_LEASE: De concessão
   LABEL_TYPE_BUILDING: Tipo
   LABEL_CHARACTERS: Personagens
@@ -321,7 +321,7 @@ pt:
   LABEL_TYPE_EROGE: Eroge
   LABEL_TYPE_OTOME: Otome
   LABEL_TYPE_VISUAL_NOVEL: Romance visual
-  LABEL_TYPE_MYSTERY_LIKE: Misterioso
+  LABEL_TYPE_MYSTERY_LIKE: Mistério
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: RPG de ação
   LABEL_TYPE_DUNGEON_CRAWLER: Dungeon crawler
@@ -423,8 +423,8 @@ pt:
     salarial:
   LABEL_PRESS_KEY: pressione
   LABEL_WORD_OR: ou
-  LABEL_INPUT_ACTION_UI_ROTATE: para girar o item
-  LABEL_INPUT_ACTION_UI_DELETE: para vender o item
+  LABEL_INPUT_ACTION_UI_ROTATE: girar o item
+  LABEL_INPUT_ACTION_UI_DELETE: vender o item
   LABEL_INPUT_ACTION_UI_PAUSE: pausar
   LABEL_INPUT_ACTION_UI_CANCEL: cancelar
   LABEL_INPUT_ACTION_UI_REPEAT: colocar vários itens
@@ -438,7 +438,7 @@ pt:
   LABEL_CATCHPHRASE_2_1: Alguém disse medíocre?
   LABEL_CATCHPHRASE_2_2: Alguém disse péssimo?
   LABEL_CATCHPHRASE_2_3: Uma experiência decepcionante
-  LABEL_CATCHPHRASE_2_4: "Uma palavra: vazio"
+  LABEL_CATCHPHRASE_2_4: Uma palavra: vazio
   LABEL_CATCHPHRASE_2_5: Deveria ter sido cancelado
   LABEL_CATCHPHRASE_3_0: Indo direto para o desastre
   LABEL_CATCHPHRASE_3_1: Uma decepção que corresponde às suas ambições
@@ -699,7 +699,7 @@ pt:
     Desmaterializado, você começa a ouvir sobre isso e já sabe que é o futuro.
   LABEL_POSTMORTEM_FEATURE: >
     Parabéns, você fez seu primeiro jogo. Você pode agora
-    proceder a um post-mortem, a fim de ajudá-lo a avaliar o seu desenvolvimento,
+    fazer um post-mortem, a fim de ajudá-lo a avaliar o seu desenvolvimento,
     design e polimento.
   LABEL_NEW_GAME_FEATURE: >
     Pronto para reviver a história épica dos videogames desde
@@ -928,7 +928,7 @@ pt:
   STUDIO_CUSTOMIZE: Renovar seus estúdios
   FURNITURES_SERVERS_BUY: Comprar servidores
   GAME_ONLINE: Publicar jogos online
-  DIGITAL_STORE: Loja desmaterializada
+  DIGITAL_STORE: Loja digital
   POSTMORTEM: Relatório do jogo
   NEW_GAME: Novo jogo
   TARGETTED_AUDIENCE: Público-alvo
