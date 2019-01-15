@@ -50,12 +50,36 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_SALES_HITS_DESCRIPTION: |
+    你好%s, 
+
+    我知道你有多喜欢我的电子邮件. 
+    所以我们在这里, 因为我们可以观察到良好的销售, 我做了一些计算, 今天我们将谈论%s的销售
+
+    %s
+
+    诚挚
+    Binogure
+  LABEL_SALES_HITS_0: >
+    %s销售情况良好, 我估计这将使销售额提高%.2f%%. 
+  LABEL_SALES_HITS_1: >
+    %s本月也不算太糟糕, 根据我的估计, 它将使销售额提高%.2f%%. 
+  LABEL_SALES_HITS_2: >
+    好的, 我们来谈谈%s.  销售非常好, 我认为我们可以预期销售额增长%.2f%%. 
+  LABEL_SALES_HITS_3: >
+    有了%s, 我们就能想到很大, 销售额应该增加%.2f%%. 
+  LABEL_SALES_HITS_4: >
+    今天是美好的一天, %s应该会增加%.2f%%. 
+  LABEL_SALES_HITS_5: >
+    预计%s将增加%.2f%%. 
+  LABEL_SALES_HITS_6: >
+    恭喜%s的销售我们应该达到%.2f%%的增长
   LABEL_CONVENTION_INCOMING: |
     亲爱的%s,
 
     我们很高兴地宣布%s计划在%s举行.
 
-    大会将持续3天，我们正在等待%s访客.
+    大会将持续3天, 我们正在等待%s访客.
     您可以租一个展台来展示您最美丽的作品. 快点,地方有限.
 
     此致
@@ -91,7 +115,7 @@ zh:
   LABEL_YEAR: 年份
   LABEL_GAMEOVER_CONFIRM: 破产
   LABEL_GAMEOVER_DESCRIPTION: >
-    破产将完成比赛。
+    破产将完成比赛. 
     你确定要申报破产吗?
   LABEL_EXPENSES: 花费
   LABEL_RENT: 出租
@@ -116,8 +140,8 @@ zh:
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     对于 [b]%s[/b] (%s),
 
-    您已取消 [b]%s[/b] 的开发, 我们特别失望。
-    根据正式签署的合同, 第453页, 第72d段, W段, 粉红色表, 您必须支付 [b]%s$[/b] 的罚款, 并尽快偿还我们。
+    您已取消 [b]%s[/b] 的开发, 我们特别失望. 
+    根据正式签署的合同, 第453页, 第72d段, W段, 粉红色表, 您必须支付 [b]%s$[/b] 的罚款, 并尽快偿还我们. 
 
     尊敬,
     诚实的律师事务所, [b]%s[/b]
@@ -125,15 +149,15 @@ zh:
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     对于 [b]%s[/b] (%s)
 
-    [b]%s[/b] 未达到预期的成功, 我们必须将签署的合同应用于该信函。
-    因此, 根据第5863页, 第99z段, 棕色表, 您必须支付 [b]%s$[/b] 的罚款, 并尽快偿还我们。
+    [b]%s[/b] 未达到预期的成功, 我们必须将签署的合同应用于该信函. 
+    因此, 根据第5863页, 第99z段, 棕色表, 您必须支付 [b]%s$[/b] 的罚款, 并尽快偿还我们. 
 
     尊敬,
     不良销售部门, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: 选择要显示的视频游戏
   LABEL_ROYALTIES: 特许权使用费
   LABEL_PENALITY: 刑罚
-  LABEL_NOTE_MIN: 得分最低。
+  LABEL_NOTE_MIN: 得分最低. 
   LABEL_MARKETING_MAGAZINE_ITEM: 杂志
   LABEL_MARKETING_TV_ITEM: 电视
   LABEL_MARKETING_WEBSITE_ITEM: 网站
@@ -146,8 +170,8 @@ zh:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     你好, 
     
-    我是 [b]%s[/b], 我喜欢 [b]%s[/b], 我想尽快加入你的团队。
-    我将能够有效地为您的团队带来新知识。
+    我是 [b]%s[/b], 我喜欢 [b]%s[/b], 我想尽快加入你的团队. 
+    我将能够有效地为您的团队带来新知识. 
 
     感谢您的时间, 
     [b]%s[/b]
@@ -155,8 +179,8 @@ zh:
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     你好, 
 
-    我写信通知你, 我立即从 %s的职位辞职。
-    我离开是因为我找到了离家更近的新工作, 而且在一家公司里更有吸引力。
+    我写信通知你, 我立即从 %s的职位辞职. 
+    我离开是因为我找到了离家更近的新工作, 而且在一家公司里更有吸引力. 
 
     我非常喜欢和你一起度过的岁月, 我会想念你们！
 
@@ -164,7 +188,7 @@ zh:
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: 辞职
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
-    你没有可以制作正常或更大尺寸游戏的工作室。
+    你没有可以制作正常或更大尺寸游戏的工作室. 
   LABEL_NO_FAN_BIG_GAME: >
     要创建正常或更大尺寸的游戏, 建议至少拥有 %s粉丝, 否则会对销售产生影响
   LABEL_CONCURRENT_AMOUNT: 竞争对手数量
@@ -505,44 +529,44 @@ zh:
   LABEL_PLATFORM_LIST: 平台清单
   LABEL_IDLE: 闲
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    [b]%s[/b] 工作室的工作人员发现一只隐藏在垃圾后面的流浪猫。 这只猫非常可爱, 工作人员已经给它起了个名字。
+    [b]%s[/b] 工作室的工作人员发现一只隐藏在垃圾后面的流浪猫.  这只猫非常可爱, 工作人员已经给它起了个名字. 
     你想干什么？
   LABEL_ADOPT_CAT_TITLE: 流浪猫
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
-    在Blue Studio, 两兄弟刚刚发布了一款新游戏。 它改变了游戏规则, 并出现了一种新的游戏类型。
+    在Blue Studio, 两兄弟刚刚发布了一款新游戏.  它改变了游戏规则, 并出现了一种新的游戏类型. 
     神秘般的
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: 已经发明了类似神秘的东西
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: "DustStar刚刚发布了一款彻底改变游戏产业的新游戏。它创造了HTA类型"
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: "DustStar刚刚发布了一款彻底改变游戏产业的新游戏. 它创造了HTA类型"
   LABEL_UNLOCK_HTA_LIKE_TITLE: 类HTA已被发明
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: 一个车库里的3个人创造了一个全新的游戏。 它是如此着名, 它创造了一个新的游戏类型, 克鲁克
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: 一个车库里的3个人创造了一个全新的游戏.  它是如此着名, 它创造了一个新的游戏类型, 克鲁克
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: 像克鲁克一样被发明了
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: 3名美国设计师刚为一款着名的比赛创造了一个模组。 Moba流派已经诞生
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: 3名美国设计师刚为一款着名的比赛创造了一个模组.  Moba流派已经诞生
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like已被发明
   LABEL_BROKEN_COFFEEMAKER_TITLE: 破碎的咖啡机
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: 您的工作室 [b]%s[/b] 的员工是咖啡上瘾的。 但咖啡机最后一杯......你想做什么？
-  LABEL_RABBIT_INVASION_DESCRIPTION: 兔子, 兔子到处都是。 他们发出一些声音......他们到处跑。 但没有人注意到他们, 人们继续工作......
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: 您的工作室 [b]%s[/b] 的员工是咖啡上瘾的.  但咖啡机最后一杯......你想做什么？
+  LABEL_RABBIT_INVASION_DESCRIPTION: 兔子, 兔子到处都是.  他们发出一些声音......他们到处跑.  但没有人注意到他们, 人们继续工作......
   LABEL_RABBIT_INVASION_TITLE: 兔子入侵
-  LABEL_TARGETTED_AUDIENCE_FEATURE: "专家们发现游戏可以针对特定的受众。他们发表了一篇关于3个不同受众群体的论文:年轻人, 每个人都成熟了"
+  LABEL_TARGETTED_AUDIENCE_FEATURE: "专家们发现游戏可以针对特定的受众. 他们发表了一篇关于3个不同受众群体的论文:年轻人, 每个人都成熟了"
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
-    一种新病毒已被释放。 它只针对视频游戏公司。 这看起来很可能, 但它会减慢游标速度并随机重新启动计算机。
-    这肯定会对员工的工作效率产生影响。 只有 [b]%s[/b] 受到攻击
+    一种新病毒已被释放.  它只针对视频游戏公司.  这看起来很可能, 但它会减慢游标速度并随机重新启动计算机. 
+    这肯定会对员工的工作效率产生影响.  只有 [b]%s[/b] 受到攻击
   LABEL_VIRUS_UNLEASHED_TITLE: 病毒释放出来
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
-    以游戏评论闻名的vlogger刚刚发布了一个新视频。
-    而这一次, 他回顾了你的一个游戏 %s。 这肯定会对销售产生影响。
+    以游戏评论闻名的vlogger刚刚发布了一个新视频. 
+    而这一次, 他回顾了你的一个游戏 %s.  这肯定会对销售产生影响. 
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 免费广告
   LABEL_LOAN_TITLE: 最后贷款
   LABEL_LOAN_DESCRIPTION: >
-    你需要一些额外的钱, 我们可以帮助你。 您可以使用 [b]%s[/b] $贷款退款。 我们的利率只有 [b]%s%%[/b], 您还有 [b]%s[/b] 周要偿还。
-    对于像你这样的公司来说, 它就像一生。 我们是你的最后选择, 让自己受到诱惑。
+    你需要一些额外的钱, 我们可以帮助你.  您可以使用 [b]%s[/b] $贷款退款.  我们的利率只有 [b]%s%%[/b], 您还有 [b]%s[/b] 周要偿还. 
+    对于像你这样的公司来说, 它就像一生.  我们是你的最后选择, 让自己受到诱惑. 
   LABEL_BURNING_SERVER_DESCRIPTION: >
-    它闻起来像火吗？！ 是的, 您的服务器已达到其最大容量。 是时候购买新服务器或关闭在线游戏了！
+    它闻起来像火吗？！ 是的, 您的服务器已达到其最大容量.  是时候购买新服务器或关闭在线游戏了！
   LABEL_BURNING_SERVER_TITLE: 服务器正在燃烧
   LABEL_SMOKING_SERVER_DESCRIPTION: >
-    你正在制作非常好的在线游戏, 而且你正在畅销它们。 但是, 您的服务器正在达到其最大容量, 其中大多数使用率为90％或更高。 你应该买新的服务器。
+    你正在制作非常好的在线游戏, 而且你正在畅销它们.  但是, 您的服务器正在达到其最大容量, 其中大多数使用率为90％或更高.  你应该买新的服务器. 
   LABEL_SMOKING_SERVER_TITLE: 服务器容量警告
   LABEL_PAYLOAN_TITLE: 偿还贷款
-  LABEL_PAYLOAN_DESCRIPTION: 预定的还款现在已经结束, 你必须支付 [b]%s$[/b]。
+  LABEL_PAYLOAN_DESCRIPTION: 预定的还款现在已经结束, 你必须支付 [b]%s$[/b]. 
   LABEL_SELL_STUDIO_TITLE: 卖工作室
   LABEL_SELL_STUDIO_DESCRIPTION: 你在卖工作室 [b]%s[/b], 你想继续吗？
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: 由于 [b]%s[/b] 是你的最后一个工作室, 或者它忙于处理一个项目, 你不能出售它
@@ -586,10 +610,10 @@ zh:
   LABEL_HOLIDAY: 假日
   LABEL_NO_COMPUTER: 没有电脑
   LABEL_NO_STUDIO: 没有工作室
-  LABEL_EMPLOYEE_CAPACITY: PROD。
-  LABEL_STUDIO_CAPACITY: 工作室产品。
+  LABEL_EMPLOYEE_CAPACITY: PROD. 
+  LABEL_STUDIO_CAPACITY: 工作室产品. 
   LABEL_EMPLOYEE_TOOLTIP: 生产力(产品)提高了员工的工作效率
-  LABEL_STUDIO_TOOLTIP: 生产力(Prod。)提高了工作室的效率
+  LABEL_STUDIO_TOOLTIP: 生产力(Prod. )提高了工作室的效率
   LABEL_BUILD_STUDIO: 编辑工作室
   LABEL_WALL: 壁
   LABEL_PILLAR: 柱
@@ -618,122 +642,122 @@ zh:
   LABEL_SKILLS_AVERAGE: 技能(平均)
   LABEL_VSYNC: 垂直同步
   LABEL_BORDERLESS_WINDOW: 无边框窗口
-  LABEL_GAMEEDITION_SUBMIT: 你有很多粉丝。 众所周知, 您可以编辑游戏。
-  LABEL_GAMEEDITION_RECEIVE: 在您最近取得成功后, 发布商会立即与您联系, 向您提供优惠。
-  LABEL_WORLDMAP: 你向上看, 外面有一整个世界等着你。
+  LABEL_GAMEEDITION_SUBMIT: 你有很多粉丝.  众所周知, 您可以编辑游戏. 
+  LABEL_GAMEEDITION_RECEIVE: 在您最近取得成功后, 发布商会立即与您联系, 向您提供优惠. 
+  LABEL_WORLDMAP: 你向上看, 外面有一整个世界等着你. 
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: 第一批视频游戏杂志出现了, 你想宣传你的一款游戏吗？
-  LABEL_MARKETING_CAMPAIGN_TV: 是时候通过电视广告宣传您的游戏了。
-  LABEL_MARKETING_CAMPAIGN_INTERNET: 互联网时代开始, 您可以通过简单的横幅广告覆盖数百万人。
-  LABEL_CONCURRENT_STUDIOS_LIST: 你的工作室正在成长, 是时候研究市场并看看竞争对手。
+  LABEL_MARKETING_CAMPAIGN_TV: 是时候通过电视广告宣传您的游戏了. 
+  LABEL_MARKETING_CAMPAIGN_INTERNET: 互联网时代开始, 您可以通过简单的横幅广告覆盖数百万人. 
+  LABEL_CONCURRENT_STUDIOS_LIST: 你的工作室正在成长, 是时候研究市场并看看竞争对手. 
   LABEL_CONCURRENT_STUDIOS_BUY: 你在面团里滚动, 也许是时候买竞争工作室了？
-  LABEL_FURNITURES_COMMON_BUY: 现在是时候办公室重新装修了。
-  LABEL_EMPLOYEES_HIRE: 您的工作室正在发展, 生产更多游戏, 提高其质量。 但首先, 你需要招募。
-  LABEL_STUDIO_RENT: 您的工作室正在发展, 生产更多游戏, 提高其质量。 但首先, 你需要招募。...
-  LABEL_STUDIO_BUILD: 您的成功可以让您建立自己的工作室。
-  LABEL_CONVENTION_ORGANIZE: 有数百万人支持你, 你现在可以组织自己的约定。
-  LABEL_CONVENTION_PARTICIPATE: 您的游戏目录值得一看, 参与约定可能会帮助您提高可见度。
-  LABEL_STUDIO_CUSTOMIZE: 您的游戏目录值得一看, 参与约定可能会帮助您提高可见度。...
+  LABEL_FURNITURES_COMMON_BUY: 现在是时候办公室重新装修了. 
+  LABEL_EMPLOYEES_HIRE: 您的工作室正在发展, 生产更多游戏, 提高其质量.  但首先, 你需要招募. 
+  LABEL_STUDIO_RENT: 您的工作室正在发展, 生产更多游戏, 提高其质量.  但首先, 你需要招募. ...
+  LABEL_STUDIO_BUILD: 您的成功可以让您建立自己的工作室. 
+  LABEL_CONVENTION_ORGANIZE: 有数百万人支持你, 你现在可以组织自己的约定. 
+  LABEL_CONVENTION_PARTICIPATE: 您的游戏目录值得一看, 参与约定可能会帮助您提高可见度. 
+  LABEL_STUDIO_CUSTOMIZE: 您的游戏目录值得一看, 参与约定可能会帮助您提高可见度. ...
   LABEL_GAME_ONLINE: >
     如何让你的球员粘在屏幕上? 互联网, 制作网络游戏, 他们会上瘾!
   LABEL_FURNITURES_SERVERS_BUY: >
     更多的桌子, 更多的椅子, 更多的电脑, 更多的白板, 更多
-  LABEL_DIGITAL_STORE: 非物质化, 你开始听到它, 你已经知道这是未来。
-  LABEL_POSTMORTEM_FEATURE: 恭喜你, 你已经完成了第一场比赛。 您现在可以进行验尸, 以帮助您评估其开发, 设计和抛光
-  LABEL_NEW_GAME_FEATURE: 准备从一开始就重温电子游戏的史诗史？ 欢迎来到City Game Studio。 开始并创建您的第一个游戏。
+  LABEL_DIGITAL_STORE: 非物质化, 你开始听到它, 你已经知道这是未来. 
+  LABEL_POSTMORTEM_FEATURE: 恭喜你, 你已经完成了第一场比赛.  您现在可以进行验尸, 以帮助您评估其开发, 设计和抛光
+  LABEL_NEW_GAME_FEATURE: 准备从一开始就重温电子游戏的史诗史？ 欢迎来到City Game Studio.  开始并创建您的第一个游戏. 
   LABEL_LOADING: 载入中
   LABEL_NAME: 名称
   LABEL_SALARY: 薪水
   LABEL_NO_SCORE: 还没有上传分数！
-  LABEL_CAPACITY_STORY_FEATURE: 好游戏总是好的, 好的故事总是好的。 一个好故事的好游戏怎么样？
+  LABEL_CAPACITY_STORY_FEATURE: 好游戏总是好的, 好的故事总是好的.  一个好故事的好游戏怎么样？
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: 那个按钮的目的是什么？ 您需要管理游戏的用户界面
   LABEL_CAPACITY_NETWORK_FEATURE: 现在是时候, 玩视频游戏真棒, 但与朋友一起玩甚至更好！ 您需要管理游戏的网络
   LABEL_CAPACITY_MODDING_FEATURE: >
-    你的一些游戏已被玩家修改过了。多亏了这一点, 你就卖出了更多的游戏。现在是时候帮助那些黑客了, 并为你的游戏开发一个合适的mod
+    你的一些游戏已被玩家修改过了. 多亏了这一点, 你就卖出了更多的游戏. 现在是时候帮助那些黑客了, 并为你的游戏开发一个合适的mod
     API
   LABEL_CAPACITY_CUTSCENES_FEATURE: 电影正在影响视频游戏, 我们需要在创建新游戏时管理过场动画
-  LABEL_CAPACITY_TUTORIEL_FEATURE: 玩新游戏就像学习一样。 这并不容易, 所以你决定为你的新游戏创建一个教程。
+  LABEL_CAPACITY_TUTORIEL_FEATURE: 玩新游戏就像学习一样.  这并不容易, 所以你决定为你的新游戏创建一个教程. 
 
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
-    瑞克和巴黎展现了他们的私生活。 社交网络在这里很好, 您可以使用它们推销您的游戏！
+    瑞克和巴黎展现了他们的私生活.  社交网络在这里很好, 您可以使用它们推销您的游戏！
 
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
-    最近的一项研究表明, 发送未经请求的电子邮件可以显着提高游戏的可见度。 垃圾邮件是心情的新词, 你可以用它们推销你的游戏！
+    最近的一项研究表明, 发送未经请求的电子邮件可以显着提高游戏的可见度.  垃圾邮件是心情的新词, 你可以用它们推销你的游戏！
 
   LABEL_GAMEPORT_FEATURE: >
-    梦想成真。 一个新的控制台刚刚发布！
-    但是你知道你想发布一个跨平台的游戏。
+    梦想成真.  一个新的控制台刚刚发布！
+    但是你知道你想发布一个跨平台的游戏. 
     我们走吧, 试一试吧！
 
   LABEL_GAME_CREATION: 通过调整每个仪表来估算游戏各个部分的工作量
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
-    您可以查看发布商的优惠。发布游戏是一种变得流行并发布更大游戏的简单方法
+    您可以查看发布商的优惠. 发布游戏是一种变得流行并发布更大游戏的简单方法
   LABEL_WORLDMAP_DESCRIPTION_0: >
-    访问城市，看看比赛，并检查你的工作室在哪里
+    访问城市, 看看比赛, 并检查你的工作室在哪里
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
-    允许通过许多游戏杂志组织营销活动。这将提高您的游戏的可见性
+    允许通过许多游戏杂志组织营销活动. 这将提高您的游戏的可见性
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
     允许您租用广告牌来放置目前正在销售的游戏海报
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
-    允许您组织电视广告活动。它很贵，但这些天谁不看电视？！
+    允许您组织电视广告活动. 它很贵, 但这些天谁不看电视？！
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
-    您现在可以在网站上显示广告插页。它便宜，而且它带来了更多玩家
+    您现在可以在网站上显示广告插页. 它便宜, 而且它带来了更多玩家
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
-    现在可以在万维网上创建一个展示，向世界展示您的游戏存在
+    现在可以在万维网上创建一个展示, 向世界展示您的游戏存在
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
-    您可以在城市地图上看到您的竞争对手，现在您可以观看它们
+    您可以在城市地图上看到您的竞争对手, 现在您可以观看它们
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     购买竞争对手是赢得众多粉丝以及扩大公司规模的简单方法
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    当您正在查看其中一个工作室时，您现在可以购买新家具
+    当您正在查看其中一个工作室时, 您现在可以购买新家具
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    您可以雇用员工，设计师，开发人员和测试人员。多亏了他们，你可以创造更大的游戏
+    您可以雇用员工, 设计师, 开发人员和测试人员. 多亏了他们, 你可以创造更大的游戏
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
-    允许您租用新建筑物。这将允许您同时处理多个项目
+    允许您租用新建筑物. 这将允许您同时处理多个项目
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    允许您建立新的工作室。这是昂贵的，它是无限增长的唯一方法之一
+    允许您建立新的工作室. 这是昂贵的, 它是无限增长的唯一方法之一
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
-    除了能够建立工作室之外，您还可以建立会议中心，这是组织会议所必需的
+    除了能够建立工作室之外, 您还可以建立会议中心, 这是组织会议所必需的
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
-    如果您需要会议中心，那么您可以组织会议
+    如果您需要会议中心, 那么您可以组织会议
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
-    您可以参加会议，这将不时提高您的游戏的知名度
+    您可以参加会议, 这将不时提高您的游戏的知名度
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
-    您可以重新绘制墙壁，更改帖子并重做工作室的地板
+    您可以重新绘制墙壁, 更改帖子并重做工作室的地板
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-    购买服务器将允许您创建在线游戏，但也可以创建在线门户
+    购买服务器将允许您创建在线游戏, 但也可以创建在线门户
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
-    您可以在线创建游戏。它们通常较便宜，但玩家必须按月订阅
+    您可以在线创建游戏. 它们通常较便宜, 但玩家必须按月订阅
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    您可以创建一个非物质化的游戏商店，最后创建一个需要改进的第一个alpha版本
+    您可以创建一个非物质化的游戏商店, 最后创建一个需要改进的第一个alpha版本
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    你可以从出版商那里获得优惠，它给你带来了很多钱，但要注意不好的商标
+    你可以从出版商那里获得优惠, 它给你带来了很多钱, 但要注意不好的商标
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-    验尸是对游戏开发过程中出错的报告，它为您提供线索
+    验尸是对游戏开发过程中出错的报告, 它为您提供线索
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
-    创造一个好的游戏可以让你在城市游戏工作室取得进步，赚钱，粉丝和体验
+    创造一个好的游戏可以让你在城市游戏工作室取得进步, 赚钱, 粉丝和体验
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您现在可以选择目标受众，这会对游戏的最终得分和销售产生影响
+    在创建游戏时, 您现在可以选择目标受众, 这会对游戏的最终得分和销售产生影响
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您有一个新的设计指标
+    在创建游戏时, 您有一个新的设计指标
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您有一个新的设计指标
+    在创建游戏时, 您有一个新的设计指标
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您有一个新的开发指标
+    在创建游戏时, 您有一个新的开发指标
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您有一个新的开发指标
+    在创建游戏时, 您有一个新的开发指标
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您有一个新的抛光规
+    在创建游戏时, 您有一个新的抛光规
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    在创建游戏时，您有一个新的抛光规
+    在创建游戏时, 您有一个新的抛光规
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
-    你可以在社交网络上做广告，它非常有针对性，昂贵且非常有效
+    你可以在社交网络上做广告, 它非常有针对性, 昂贵且非常有效
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
-    发送电子邮件几乎不会花费您任何费用，并会影响您的游戏销售
+    发送电子邮件几乎不会花费您任何费用, 并会影响您的游戏销售
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    您可以将游戏移植到新平台，这很简单，只需要一个人
-  LABEL_UNLOCK_GAMEGENRE: 您已经获得了制作游戏的经验，您已经准备好开发新的游戏机制
+    您可以将游戏移植到新平台, 这很简单, 只需要一个人
+  LABEL_UNLOCK_GAMEGENRE: 您已经获得了制作游戏的经验, 您已经准备好开发新的游戏机制
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
-    你现在可以解锁新的游戏类型。 要获得经验值，您只需发布游戏即可
+    你现在可以解锁新的游戏类型.  要获得经验值, 您只需发布游戏即可
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: 公司名
@@ -752,7 +776,7 @@ zh:
     管理您的工作室, 升级计算机, 分配员工...
   TOOLTIP_GAMEPORT: 将视频游戏移植到另一个平台上
   TOOLTIP_POSTMORTEM: >
-    创建事后报告。
+    创建事后报告. 
     事后报告可帮助您创建更好的游戏
   TOOLTIP_CREATE_GAME: 制作一款新游戏
   TOOLTIP_STAFF: 员工名单
@@ -771,12 +795,12 @@ zh:
   TOOLTIP_ASSIGN: 将员工分配到桌面
   TOOLTIP_STUDIO_SELECT: 列出你的工作室
   TOOLTIP_ANNOUNCE_GAME: >
-    宣布视频游戏。
-    创造炒作。
+    宣布视频游戏. 
+    创造炒作. 
   TOOLTIP_CONCURRENT: >
     视频游戏公司列表
   TOOLTIP_STUDIO_COST: >
-    工作室总费用。 包括租金以及维护设备的成本（例如服务器）
+    工作室总费用.  包括租金以及维护设备的成本（例如服务器）
   TOOLTIP_MARKETING_COST: >
     目前正在进行营销活动的费用
   TOOLTIP_SALARY_COST: >
@@ -786,41 +810,41 @@ zh:
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
-    根据您过去四年制作的游戏质量，对您的公司进行秘密评级
+    根据您过去四年制作的游戏质量, 对您的公司进行秘密评级
   LOADING_SCREEN_TIP_1: >
     完美的员工可以自发地申请加强您的生产团队
   LOADING_SCREEN_TIP_2: >
-    这个加载屏幕只是让你等待，实际上它是一个循环的睡眠sleep(random(0, 50))
+    这个加载屏幕只是让你等待, 实际上它是一个循环的睡眠sleep(random(0, 50))
   LOADING_SCREEN_TIP_3: >
     发现新的游戏类型为您提供了比竞争对手更大的优势
   LOADING_SCREEN_TIP_4: >
     与竞争对手一起制作游戏是成名的最佳方式
   LOADING_SCREEN_TIP_5: >
-    您可以在自己的建筑物中组织会议，但最好将它们隔开一年
+    您可以在自己的建筑物中组织会议, 但最好将它们隔开一年
   LOADING_SCREEN_TIP_6: >
     坏销售部门永远是对的
   LOADING_SCREEN_TIP_7: >
-    您需要服务器来托管在线游戏，它们更便宜，但玩家必须每月支付才能继续玩它们
+    您需要服务器来托管在线游戏, 它们更便宜, 但玩家必须每月支付才能继续玩它们
   LOADING_SCREEN_TIP_8: >
     我们的吉祥物爱因斯坦在城市游戏工作室的开发过程中咆哮了65.13次
   LOADING_SCREEN_TIP_9: >
     在City Game Studio的开发过程中播放了12654首圣诞歌曲
   LOADING_SCREEN_TIP_10: >
-    看一下市场份额是好的，但你还需要关注在平台上发布的游戏数量
+    看一下市场份额是好的, 但你还需要关注在平台上发布的游戏数量
   LOADING_SCREEN_TIP_11: >
     您想帮助翻译City Game Studio吗? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
-    当服务器的指示灯呈红色亮起时，表示它们已经过载。
+    当服务器的指示灯呈红色亮起时, 表示它们已经过载. 
   LOADING_SCREEN_TIP_13: >
-    别忘了喝咖啡休息时间......啊，咖啡机再次坏了。
+    别忘了喝咖啡休息时间......啊, 咖啡机再次坏了. 
   LOADING_SCREEN_TIP_14: >
-    Crunchtime不是谷物品牌，但它是一种广泛的管理实践。
+    Crunchtime不是谷物品牌, 但它是一种广泛的管理实践. 
   LOADING_SCREEN_TIP_15: >
     发布新游戏是赚钱的最佳方式
   LOADING_SCREEN_TIP_16: >
-    通过验尸，您可以了解有关已发布游戏的更多信息
+    通过验尸, 您可以了解有关已发布游戏的更多信息
   LOADING_SCREEN_TIP_17: >
-    根据最近的一项研究，625.3只狗中有近1只在下雨时吠叫，其他人则取笑它
+    根据最近的一项研究, 625.3只狗中有近1只在下雨时吠叫, 其他人则取笑它
   LOADING_SCREEN_TIP_18: >
     不要依赖于加载屏幕上可以阅读的所有内容
 

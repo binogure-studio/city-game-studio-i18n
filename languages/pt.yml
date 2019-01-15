@@ -50,6 +50,30 @@ pt:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Olá %s,
+
+    Sei o quanto gostas dos meus e-mails.
+    Então aqui estamos nós, já que podemos observar boas vendas, eu fiz alguns cálculos e hoje vamos falar sobre vendas de %s
+
+    %s
+
+    Atenciosamente
+    Binogure
+  LABEL_SALES_HITS_0: >
+    As vendas de %s estão indo bem, eu calculo que isso vai melhorar as vendas em %.2f%%.
+  LABEL_SALES_HITS_1: >
+    %s não é muito ruim este mês, de acordo com minhas estimativas, ele vai melhorar as vendas em %.2f%%.
+  LABEL_SALES_HITS_2: >
+    Muito bem, vamos falar de %s. As vendas são excelentes, e eu acho que podemos esperar um aumento de %.2f%% nas vendas.
+  LABEL_SALES_HITS_3: >
+    Com %s seremos capazes de pensar grande, as vendas devem aumentar em %.2f%%.
+  LABEL_SALES_HITS_4: >
+    Hoje é um grande dia, %s deve ver um aumento de %.2f%%.
+  LABEL_SALES_HITS_5: >
+    É de esperar que o %s aumente %.2f%%.
+  LABEL_SALES_HITS_6: >
+    Parabéns com as vendas de %s devemos atingir um aumento de %.2f%%.
   LABEL_CONVENTION_INCOMING: |
     Caro %s,
 
@@ -438,7 +462,7 @@ pt:
   LABEL_CATCHPHRASE_2_1: Alguém disse medíocre?
   LABEL_CATCHPHRASE_2_2: Alguém disse péssimo?
   LABEL_CATCHPHRASE_2_3: Uma experiência decepcionante
-  LABEL_CATCHPHRASE_2_4: Uma palavra: vazio
+  LABEL_CATCHPHRASE_2_4: "Uma palavra: vazio"
   LABEL_CATCHPHRASE_2_5: Deveria ter sido cancelado
   LABEL_CATCHPHRASE_3_0: Indo direto para o desastre
   LABEL_CATCHPHRASE_3_1: Uma decepção que corresponde às suas ambições

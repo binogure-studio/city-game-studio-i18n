@@ -50,6 +50,30 @@ en:
   DROPDOWN_LANGUAGE: Languages
 
   # Labels, description
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Hello %s,
+
+    I know how much you love my emails.
+    So here we are, since we can observe good sales, I did some calculations and today we are going to talk about sales of %s
+
+    %s
+
+    Sincerely
+    Binogure
+  LABEL_SALES_HITS_0: >
+    %s sales are doing well, I believe this will improve sales by %.2f%%
+  LABEL_SALES_HITS_1: >
+    %s is not too bad this month, according to my estimates it will improve sales by %.2f%%
+  LABEL_SALES_HITS_2: >
+    All right, let's talk about %s. Sales are excellent, and I think we can expect %.2f%% increase in sales
+  LABEL_SALES_HITS_3: >
+    With %s we will be able to think big, sales should increase by %.2f%%
+  LABEL_SALES_HITS_4: >
+    Today is a great day, %s should see a %.2f%% increase
+  LABEL_SALES_HITS_5: >
+    It is to be expected that %s will increase by %.2f%%
+  LABEL_SALES_HITS_6: >
+    Congratulations with the sales of %s, we should reach a %.2f%% increase
   LABEL_CONVENTION_INCOMING: |
     Dear %s,
 

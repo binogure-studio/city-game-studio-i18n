@@ -50,6 +50,30 @@ fr:
   DROPDOWN_LANGUAGE: Langues
 
   # Labels, descriptive
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Salut %s,
+
+    Je sais a quel point tu aimes mes courriels.
+    Alors voilà, puisqu'on peut observer de bonnes ventes, j'ai fait des calculs et aujourd'hui on va parler des ventes de %s
+
+    %s
+
+    Cordialement
+    Binogure
+  LABEL_SALES_HITS_0: >
+    Les ventes %s se portent bien, j'estime que cela va améliorer les ventes de %.2f%%.
+  LABEL_SALES_HITS_1: >
+    %s va pas trop mal ce mois ci, d'après mes estimations cela va améliorer les ventes de %.2f%%.
+  LABEL_SALES_HITS_2: >
+    Bon, on va parler de %s. Les ventes sont excellentes, et je pense qu'il faut s'attendre a une augmentation de %.2f%% des ventes.
+  LABEL_SALES_HITS_3: >
+    Avec %s on va pouvoir voir grand, les ventes devraient s'accroitre de %.2f%%.
+  LABEL_SALES_HITS_4: >
+    Aujourd'hui est un grand jour, %s devrait voir une augmentation de %.2f%%.
+  LABEL_SALES_HITS_5: >
+    Il faut s'attendre a une augmentation de %.2f%% pour %s
+  LABEL_SALES_HITS_6: >
+    Félicitations avec les ventes de %s on devrait atteindre une augmentation de %.2f%%
   LABEL_CONVENTION_INCOMING: |
     Bonjour %s,
 

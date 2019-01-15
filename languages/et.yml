@@ -50,6 +50,30 @@ et:
   DROPDOWN_LANGUAGE: Keeled
 
   # Labels, description
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Tere %s,
+
+    Ma tean, kui palju sa armastad oma e-kirju.
+    Nii et siin me oleme, sest saame jälgida head müüki, tegin mõned arvutused ja täna räägime %si müügist
+
+    %s
+
+    Lugupidamisega
+    Binogure
+  LABEL_SALES_HITS_0: >
+    %s müük toimib hästi, ma arvan, et see parandab müüki %.2f%% võrra.
+  LABEL_SALES_HITS_1: >
+    %s ei ole sel kuul liiga halb, minu hinnangul parandab see müüki %.2f%% võrra.
+  LABEL_SALES_HITS_2: >
+    Olgu, räägime %sst. Müük on suurepärane, ja ma arvan, et me võime oodata müügi %.2f%% kasvu.
+  LABEL_SALES_HITS_3: >
+    %s-ga saame mõelda suureks, müük peaks suurenema %.2f%%.
+  LABEL_SALES_HITS_4: >
+    Täna on suur päev, %s peaks nägema %.2f%% kasvu.
+  LABEL_SALES_HITS_5: >
+    Eeldatakse, et %s suureneb %.2f%%.
+  LABEL_SALES_HITS_6: >
+    Õnnitleme %s müüki, mille puhul peaksime saavutama %.2f%% kasvu
   LABEL_CONVENTION_INCOMING: |
     Kallis %s,
 
