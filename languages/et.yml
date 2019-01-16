@@ -50,6 +50,7 @@ et:
   DROPDOWN_LANGUAGE: Keeled
 
   # Labels, description
+  LABEL_SALES_HITS_TITLE: Müügiaruanne
   LABEL_SALES_HITS_DESCRIPTION: |
     Tere %s,
 
@@ -61,19 +62,19 @@ et:
     Lugupidamisega
     Binogure
   LABEL_SALES_HITS_0: >
-    %s müük toimib hästi, ma arvan, et see parandab müüki %.2f%% võrra.
+    [b]%s[/b] müük toimib hästi, ma arvan, et see parandab müüki [b]%d%%[/b] võrra.
   LABEL_SALES_HITS_1: >
-    %s ei ole sel kuul liiga halb, minu hinnangul parandab see müüki %.2f%% võrra.
+    [b]%s[/b] ei ole sel kuul liiga halb, minu hinnangul parandab see müüki [b]%d%%[/b] võrra.
   LABEL_SALES_HITS_2: >
-    Olgu, räägime %sst. Müük on suurepärane, ja ma arvan, et me võime oodata müügi %.2f%% kasvu.
+    Olgu, räägime [b]%s[/b]st. Müük on suurepärane, ja ma arvan, et me võime oodata müügi [b]%d%%[/b] kasvu.
   LABEL_SALES_HITS_3: >
-    %s-ga saame mõelda suureks, müük peaks suurenema %.2f%%.
+    [b]%s[/b]-ga saame mõelda suureks, müük peaks suurenema [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
-    Täna on suur päev, %s peaks nägema %.2f%% kasvu.
+    Täna on suur päev, [b]%s[/b] peaks nägema [b]%d%%[/b] kasvu.
   LABEL_SALES_HITS_5: >
-    Eeldatakse, et %s suureneb %.2f%%.
+    Eeldatakse, et [b]%s[/b] suureneb [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Õnnitleme %s müüki, mille puhul peaksime saavutama %.2f%% kasvu
+    Õnnitleme [b]%s[/b] müüki, mille puhul peaksime saavutama [b]%d%%[/b] kasvu
   LABEL_CONVENTION_INCOMING: |
     Kallis %s,
 

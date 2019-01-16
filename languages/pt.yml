@@ -50,6 +50,7 @@ pt:
   DROPDOWN_LANGUAGE: Idiomas
 
   # Labels, description
+  LABEL_SALES_HITS_TITLE: Relatório de vendas
   LABEL_SALES_HITS_DESCRIPTION: |
     Olá %s,
 
@@ -61,19 +62,19 @@ pt:
     Atenciosamente
     Binogure
   LABEL_SALES_HITS_0: >
-    As vendas de %s estão indo bem, eu calculo que isso vai melhorar as vendas em %.2f%%.
+    As vendas de [b]%s[/b] estão indo bem, eu calculo que isso vai melhorar as vendas em [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    %s não é muito ruim este mês, de acordo com minhas estimativas, ele vai melhorar as vendas em %.2f%%.
+    [b]%s[/b] não é muito ruim este mês, de acordo com minhas estimativas, ele vai melhorar as vendas em [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    Muito bem, vamos falar de %s. As vendas são excelentes, e eu acho que podemos esperar um aumento de %.2f%% nas vendas.
+    Muito bem, vamos falar de [b]%s[/b]. As vendas são excelentes, e eu acho que podemos esperar um aumento de [b]%d%%[/b] nas vendas.
   LABEL_SALES_HITS_3: >
-    Com %s seremos capazes de pensar grande, as vendas devem aumentar em %.2f%%.
+    Com [b]%s[/b] seremos capazes de pensar grande, as vendas devem aumentar em [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
-    Hoje é um grande dia, %s deve ver um aumento de %.2f%%.
+    Hoje é um grande dia, [b]%s[/b] deve ver um aumento de [b]%d%%[/b].
   LABEL_SALES_HITS_5: >
-    É de esperar que o %s aumente %.2f%%.
+    É de esperar que o [b]%s[/b] aumente [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Parabéns com as vendas de %s devemos atingir um aumento de %.2f%%.
+    Parabéns com as vendas de [b]%s[/b] devemos atingir um aumento de [b]%d%%[/b].
   LABEL_CONVENTION_INCOMING: |
     Caro %s,
 

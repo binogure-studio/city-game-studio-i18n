@@ -50,6 +50,7 @@ zh:
   DROPDOWN_LANGUAGE: 语言
 
   # Labels, description
+  LABEL_SALES_HITS_TITLE: 销售报告
   LABEL_SALES_HITS_DESCRIPTION: |
     你好%s, 
 
@@ -61,19 +62,19 @@ zh:
     诚挚
     Binogure
   LABEL_SALES_HITS_0: >
-    %s销售情况良好, 我估计这将使销售额提高%.2f%%. 
+    [b]%s[/b]销售情况良好, 我估计这将使销售额提高[b]%d%%[/b]. 
   LABEL_SALES_HITS_1: >
-    %s本月也不算太糟糕, 根据我的估计, 它将使销售额提高%.2f%%. 
+    [b]%s[/b]本月也不算太糟糕, 根据我的估计, 它将使销售额提高[b]%d%%[/b]. 
   LABEL_SALES_HITS_2: >
-    好的, 我们来谈谈%s.  销售非常好, 我认为我们可以预期销售额增长%.2f%%. 
+    好的, 我们来谈谈[b]%s[/b]. 销售非常好, 我认为我们可以预期销售额增长[b]%d%%[/b]. 
   LABEL_SALES_HITS_3: >
-    有了%s, 我们就能想到很大, 销售额应该增加%.2f%%. 
+    有了[b]%s[/b], 我们就能想到很大, 销售额应该增加[b]%d%%[/b]. 
   LABEL_SALES_HITS_4: >
-    今天是美好的一天, %s应该会增加%.2f%%. 
+    今天是美好的一天, [b]%s[/b]应该会增加[b]%d%%[/b]. 
   LABEL_SALES_HITS_5: >
-    预计%s将增加%.2f%%. 
+    预计[b]%s[/b]将增加[b]%d%%[/b]. 
   LABEL_SALES_HITS_6: >
-    恭喜%s的销售我们应该达到%.2f%%的增长
+    恭喜[b]%s[/b]的销售我们应该达到[b]%d%%[/b]的增长
   LABEL_CONVENTION_INCOMING: |
     亲爱的%s,
 
