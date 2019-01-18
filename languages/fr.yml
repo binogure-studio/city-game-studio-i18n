@@ -49,7 +49,14 @@ fr:
   BUTTON_FEEDBACK: Suggestions
   DROPDOWN_LANGUAGE: Langues
 
+  BUTTON_CRACK_GAME: Pirater un jeu
+  BUTTON_FORCE_STUDIO_SELL: Forcer la vente d'un studio
+  BUTTON_SPY: Espionner
+  BUTTON_HIRE_THEIR_EMPLOYE: Débaucher un employé
+
   # Labels, descriptive
+  LABEL_SUCCESS_RATE: Probabilité de succès
+  LABEL_RISKS: Risques encourus
   LABEL_SALES_HITS_TITLE: Rapport des ventes
   LABEL_SALES_HITS_DESCRIPTION: |
     Salut %s,
@@ -822,7 +829,29 @@ fr:
   PLACEHOLDER_GAME_NAME: Nom du jeu
   PLACEHOLDER_PLAYER_NAME: Votre nom
 
+  LABEL_BREAK_LAW: |
+    Vous êtes sur le point de violer la loi.
+    Êtes-vous sûr de vouloir continuer?
+  LABEL_SUCCESS: Succès
+  LABEL_FAILURE: Échec
+  LABEL_CANNOT_INTERACT: Vous ne pourrez plus communiquer avec %s jusqu'au %s
+  LABEL_FAN_LOST: Cela a nuit a votre popularité, vous perdez %s fans
+  LABEL_PENALTY_COST: La justice a tranchée, vous devez payer %s$
+  LABEL_EMPLOYEE_HIRED: Vous avez engagé %s
+  LABEL_GAME_CRACKED: Vous avez piraté %s
+  LABEL_GENRE_STOLEN: Vous avec appris %s
+  LABEL_STUDIO_SOLD: Ils ont vendu %s
+
   # Tooltips
+  TOOLTIP_FORCE_STUDIO: >
+    Vous devez sélectionner le studio dont vous voulez forcer la vente
+  TOOLTIP_CRACK_GAME: >
+    Vous devez sélectionner le jeu que vous voulez pirater
+  TOOLTIP_HIRE_STAFF: >
+    Vous devez sélectionner l'employé que vous souhaiter débaucher
+  TOOLTIP_CONCURRENT_LOCKED: >
+    Vous pourrez de nouveau tenter une action contre %s à partir du %s
+
   TOOLTIP_TUTORIEL: >
     Vous devez avoir %s pour débloquer %s
   TOOLTIP_EMAIL: >

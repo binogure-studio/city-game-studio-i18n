@@ -48,8 +48,14 @@ it:
   BUTTON_BUGREPORT: Segnalazione di bug
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Lingue
+  BUTTON_CRACK_GAME: Crepa un gioco
+  BUTTON_FORCE_STUDIO_SELL: Forza vendita studio
+  BUTTON_SPY: Spiare un concorrente
+  BUTTON_HIRE_THEIR_EMPLOYE: Assumere il loro dipendente
 
-  # Labels, description
+  # Labels, descriptive
+  LABEL_SUCCESS_RATE: Probabilità di successo
+  LABEL_RISKS: Rischi
   LABEL_SALES_HITS_TITLE: Rapporto sulle vendite
   LABEL_SALES_HITS_DESCRIPTION: |
     Ciao %s,
@@ -815,7 +821,29 @@ it:
   PLACEHOLDER_GAME_NAME: Nome del gioco
   PLACEHOLDER_PLAYER_NAME: Il tuo nome
 
+  LABEL_BREAK_LAW: |
+    Stai per infrangere la legge.
+    
+    Vuoi continuare?
+  LABEL_SUCCESS: Il successo
+  LABEL_FAILURE: Fallimento
+  LABEL_CANNOT_INTERACT: Non sarai più in grado di comunicare con %s fino a quando %s
+  LABEL_FAN_LOST: Questo ha influenzato la tua popolarità, perdi i fan di %s
+  LABEL_PENALTY_COST: La giustizia ha stabilito che devi pagare %s$
+  LABEL_EMPLOYEE_HIRED: Hai assunto %s
+  LABEL_GAME_CRACKED: Hai rotto %s
+  LABEL_GENRE_STOLEN: Hai imparato %s
+  LABEL_STUDIO_SOLD: Hanno venduto %s
+
   # Tooltips
+  TOOLTIP_FORCE_STUDIO: >
+    È necessario selezionare lo studio di cui si vuole forzare la vendita.
+  TOOLTIP_CRACK_GAME: >
+    È necessario selezionare il gioco che si desidera hackerare
+  TOOLTIP_HIRE_STAFF: >
+    È necessario selezionare il dipendente che si desidera reclutare
+  TOOLTIP_CONCURRENT_LOCKED: >
+    Sarete in grado di provare di nuovo un'azione contro %s da %s.
   TOOLTIP_TUTORIEL: >
     %s per sbloccare %s
   TOOLTIP_EMAIL: >

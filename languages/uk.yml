@@ -47,8 +47,14 @@ uk:
   BUTTON_BUGREPORT: Повідомлення про помилку
   BUTTON_FEEDBACK: Зворотній зв'язок
   DROPDOWN_LANGUAGE: Мови
+  BUTTON_CRACK_GAME: Зламайте гру
+  BUTTON_FORCE_STUDIO_SELL: Силова студія продажу
+  BUTTON_SPY: Шпигун на конкурента
+  BUTTON_HIRE_THEIR_EMPLOYE: Наймайте свого працівника
 
-  # Labels, description
+  # Labels, descriptive
+  LABEL_SUCCESS_RATE: Ймовірність успіху
+  LABEL_RISKS: Ризики
   LABEL_SALES_HITS_TITLE: Звіт про продаж
   LABEL_SALES_HITS_DESCRIPTION: |
     Вітаємо, %s,
@@ -805,7 +811,29 @@ uk:
   PLACEHOLDER_GAME_NAME: Назва гри
   PLACEHOLDER_PLAYER_NAME: Твоє ім'я
 
+  LABEL_BREAK_LAW: |
+    Ви збираєтеся порушити закон.
+    
+    Хочете продовжити?
+  LABEL_SUCCESS: Успіх
+  LABEL_FAILURE: Невдача
+  LABEL_CANNOT_INTERACT: Ви більше не зможете спілкуватися з %s до %s
+  LABEL_FAN_LOST: Це вплинуло на вашу популярність, ви втратили прихильників %s
+  LABEL_PENALTY_COST: Правосуддя вирішило, ви повинні платити %s$
+  LABEL_EMPLOYEE_HIRED: Ви найняли %s
+  LABEL_GAME_CRACKED: Ви зламали %s
+  LABEL_GENRE_STOLEN: Ви дізналися %s
+  LABEL_STUDIO_SOLD: Вони продали %s
+
   # Tooltips
+  TOOLTIP_FORCE_STUDIO: >
+    Ви повинні вибрати студію, продаж якої ви хочете змусити
+  TOOLTIP_CRACK_GAME: >
+    Ви повинні вибрати гру, яку ви хочете зламати
+  TOOLTIP_HIRE_STAFF: >
+    Ви повинні вибрати працівника, якого ви бажаєте набрати
+  TOOLTIP_CONCURRENT_LOCKED: >
+    Ви знову зможете спробувати дію проти %s від %s
   TOOLTIP_TUTORIEL: >
     %s для розблокування %s
   TOOLTIP_EMAIL: >

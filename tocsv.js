@@ -9,6 +9,8 @@ const encoding = {
 
 const files = fs.readdirSync(language_directory)
 const result = files.reduce((acc, filename) => {
+  console.error(`Reading ${filename}`)
+
   let filepath = path.resolve(language_directory, filename)
   let language = path.basename(filename, '.yml')
   let translation = yaml.load(fs.readFileSync(filepath, encoding))

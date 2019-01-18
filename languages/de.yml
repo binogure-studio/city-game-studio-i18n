@@ -48,8 +48,14 @@ de:
   BUTTON_BUGREPORT: Fehlerbericht
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
+  BUTTON_CRACK_GAME: Ein Spiel knacken
+  BUTTON_FORCE_STUDIO_SELL: Force Studio Verkauf
+  BUTTON_SPY: Einen Konkurrenten ausspionieren
+  BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
 
-  # Labels, description
+  # Labels, descriptive
+  LABEL_SUCCESS_RATE: Erfolgswahrscheinlichkeit
+  LABEL_RISKS: Die damit verbundenen Risiken
   LABEL_SALES_HITS_TITLE: Umsatzbericht
   LABEL_SALES_HITS_DESCRIPTION: |
     Hallo %s,
@@ -839,7 +845,29 @@ de:
   PLACEHOLDER_GAME_NAME: Spielname
   PLACEHOLDER_PLAYER_NAME: Dein Name
 
+  LABEL_BREAK_LAW: |
+    Du bist dabei, das Gesetz zu brechen.
+    
+    Willst du fortfahren?
+  LABEL_SUCCESS: Erfolg
+  LABEL_FAILURE: Ausfall
+  LABEL_CANNOT_INTERACT: Bis %s können Sie nicht mehr mit %s kommunizieren.
+  LABEL_FAN_LOST: Dies hat deine Popularität beeinflusst, du verlierst %s-Fans.
+  LABEL_PENALTY_COST: Die Gerechtigkeit hat entschieden, du musst %s$ bezahlen.
+  LABEL_EMPLOYEE_HIRED: Sie haben %s eingestellt.
+  LABEL_GAME_CRACKED: Du hast %s geknackt.
+  LABEL_GENRE_STOLEN: Du hast gelernt, dass %s
+  LABEL_STUDIO_SOLD: Sie haben %s verkauft.
+
   # Tooltips
+  TOOLTIP_FORCE_STUDIO: >
+    Du musst das Studio auswählen, dessen Verkauf du erzwingen möchtest.
+  TOOLTIP_CRACK_GAME: >
+    Du musst das Spiel auswählen, das du hacken möchtest.
+  TOOLTIP_HIRE_STAFF: >
+    Sie müssen den Mitarbeiter auswählen, den Sie einstellen möchten.
+  TOOLTIP_CONCURRENT_LOCKED: >
+    Du kannst eine Aktion gegen %s von %s erneut versuchen.
   TOOLTIP_TUTORIEL: >
     %s zum Entsperren von %s
   TOOLTIP_EMAIL: >

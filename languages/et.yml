@@ -48,8 +48,14 @@ et:
   BUTTON_BUGREPORT: Veateade
   BUTTON_FEEDBACK: Tagasiside
   DROPDOWN_LANGUAGE: Keeled
+  BUTTON_CRACK_GAME: Crack mäng
+  BUTTON_FORCE_STUDIO_SELL: Force stuudio müük
+  BUTTON_SPY: Spioon võistleja kohta
+  BUTTON_HIRE_THEIR_EMPLOYE: Palgata oma töötaja
 
-  # Labels, description
+  # Labels, descriptive
+  LABEL_SUCCESS_RATE: Edu tõenäosus
+  LABEL_RISKS: Riskid
   LABEL_SALES_HITS_TITLE: Müügiaruanne
   LABEL_SALES_HITS_DESCRIPTION: |
     Tere %s,
@@ -802,7 +808,30 @@ et:
   PLACEHOLDER_GAME_NAME: Mängu nimi
   PLACEHOLDER_PLAYER_NAME: Sinu nimi
 
+  LABEL_BREAK_LAW: |
+    Sa oled rikutud seadust.
+    
+    Kas sa tahad jätkata?
+  LABEL_SUCCESS: Edu
+  LABEL_FAILURE: Rike
+  LABEL_CANNOT_INTERACT: Sa ei saa enam %sga suhelda kuni %si
+  LABEL_FAN_LOST: See on mõjutanud teie populaarsust, kaotate %si fännid
+  LABEL_PENALTY_COST: Justiits on otsustanud, peate maksma %s$
+  LABEL_EMPLOYEE_HIRED: Olete palganud %s
+  LABEL_GAME_CRACKED: Te olete krakitud %s
+  LABEL_GENRE_STOLEN: Olete õppinud %s-d
+  LABEL_STUDIO_SOLD: Nad on müünud %s
+
+
   # Tooltips
+  TOOLTIP_FORCE_STUDIO: >
+    Peate valima stuudio, mille müüki soovite jõustada
+  TOOLTIP_CRACK_GAME: >
+    Peate valima mängu, mida soovite häkkida
+  TOOLTIP_HIRE_STAFF: >
+    Peate valima töötaja, keda soovite värbada
+  TOOLTIP_CONCURRENT_LOCKED: >
+    Sul on võimalik proovida uuesti %si %s vastu
   TOOLTIP_TUTORIEL: >
     %s %si avamiseks
   TOOLTIP_EMAIL: >
