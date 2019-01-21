@@ -20,7 +20,7 @@ es:
   BUTTON_OPTIONS: Opciones
   BUTTON_RESET: Reiniciar
   BUTTON_SKIP: Omitir
-  BUTTON_START: comienzar
+  BUTTON_START: Comenzar
   BUTTON_NEED_STUDIO: No hay estudio disponible
   BUTTON_CLEAR_EVENTS: Completado
   BUTTON_TOO_BAD: Muy mal
@@ -55,6 +55,7 @@ es:
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar a su empleado
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Durará %s meses
   LABEL_SUCCESS_RATE: Probabilidad de éxito
   LABEL_RISKS: Riesgos involucrados
   LABEL_SALES_HITS_TITLE: Informe de ventas
@@ -215,7 +216,16 @@ es:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] acaba de revelar su próximo juego: [b]%s[/b]
     Estará disponible en [b]%s[/b]
+
+    %s
+
+    Te deseo lo mejor para tu juego!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     ¡Los fans están emocionados como nosotros!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Los aficionados no están contentos y las revistas especializadas ya parecen querer desahogarse en este juego.
+
+    Hay que decir que hace poco lanzaron un juego similar.
   LABEL_GAME_ANNOUNCED_TITLE: "%s anunciado"
   LABEL_TRENDING: Tendencias
   LABEL_CREATOR: Creado por
@@ -535,7 +545,7 @@ es:
   LABEL_MATCH_GOOD: Buena partida
   LABEL_MATCH_OK: Partida pasable
   LABEL_MATCH_POOR: Mala partida
-  LABEL_POSTMORTEM_TITLE: Post-mortem
+  LABEL_POSTMORTEM_TITLE: Post-mortem (%)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: No hemos aprendido nada nuevo de [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Aquí lo que hemos aprendido de [b]%s[/b]:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- la coincidencia entre [i]%s[/i] y [i]%s[/i] es [b]%s[/b][/ul]"
@@ -734,8 +744,7 @@ es:
   LABEL_DIGITAL_STORE: >
     Digital, empiezas a escucharlo y ya sabes que es el futuro.
   LABEL_POSTMORTEM_FEATURE: >
-    Felicidades, has hecho tu primer juego. Ahora puede proceder
-    a una autopsia para ayudarlo a evaluar su desarrollo, diseño y pulido.
+    Felicidades, has hecho tu primer juego. Ahora puede proceder a analizarlo para evaluar su desarrollo, diseño y pulido.
   LABEL_NEW_GAME_FEATURE: >
     ¿Listo para revivir la historia épica de los videojuegos
     desde sus inicios? Bienvenido a City Game Studio. Comienza y crea tu primer juego.
@@ -801,7 +810,7 @@ es:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Mientras que estás mirando uno de tus estudios, puedes comprar muebles nuevos.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Puede contratar personal, diseñadores, desarrolladores y testers. Gracias a ellos puedes crear juegos más grandes.
+    Tenga en cuenta que los mejores juegos son producidos por equipos tan fuertes en diseño, desarrollo y pulido.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Te permite alquilar nuevos edificios. Esto permitirá trabajar en varios proyectos al mismo tiempo.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

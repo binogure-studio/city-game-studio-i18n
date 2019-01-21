@@ -54,6 +54,7 @@ ru:
   BUTTON_HIRE_THEIR_EMPLOYE: нанять своего работника
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: будет длиться %s месяцев.
   LABEL_SUCCESS_RATE: Вероятность успеха
   LABEL_RISKS: Связанные с этим риски
   LABEL_SALES_HITS_TITLE: Отчет о продажах
@@ -227,7 +228,16 @@ ru:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] только что показали свою следующую игру: [b]%s[/b]
     Она будет доступна на [b]%s[/b]
+
+    %s
+
+    Желаю вам всего наилучшего в вашей игре!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Поклонники взволнованы, как и мы!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Болельщики недовольны, и специализированные журналы уже, кажется, хотят выпустить пар на этой игре.
+
+    Надо сказать, что не так давно они выпустили аналогичную игру.
   LABEL_GAME_ANNOUNCED_TITLE: Объявлено %s
   LABEL_TRENDING: Трэнды
   LABEL_CREATOR: Создатель
@@ -537,7 +547,7 @@ ru:
   LABEL_MATCH_GOOD: Хорошее
   LABEL_MATCH_OK: Нормальное
   LABEL_MATCH_POOR: Плохое
-  LABEL_POSTMORTEM_TITLE: Отчёт
+  LABEL_POSTMORTEM_TITLE: Отчёт (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из [b]%s[/b]"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из [b]%s[/b]: [b]%s[/b]"
   LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
@@ -789,7 +799,7 @@ ru:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Пока вы смотрите на одну из ваших студий, вы можете купить новую мебель.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Вы можете нанять персонал, дизайнеров, разработчиков и тестировщиков. Благодаря им вы можете создавать более масштабные игры.
+    Имейте в виду, что лучшие игры производятся командами, столь же сильными в дизайне, разработке и полировке.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Позволяет арендовать новые здания. Это позволит вам работать над несколькими проектами одновременно.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

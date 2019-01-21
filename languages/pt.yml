@@ -55,6 +55,7 @@ pt:
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar o seu empregado
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Vai durar %s meses
   LABEL_SUCCESS_RATE: Probabilidade de sucesso
   LABEL_RISKS: Riscos envolvidos
   LABEL_SALES_HITS_TITLE: Relatório de vendas
@@ -214,7 +215,16 @@ pt:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] acaba de revelar seu próximo jogo: [b]%s[/b]
     Estará disponível em [b]%s[/b]
+
+    %s
+
+    Desejo-lhe o melhor para o seu jogo!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Os fãs estão animados como nós!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Los aficionados no están contentos y las revistas especializadas ya parecen querer desahogarse en este juego.
+
+    Hay que decir que hace poco lanzaron un juego similar.
   LABEL_GAME_ANNOUNCED_TITLE: "%s anunciou"
   LABEL_TRENDING: Tendência
   LABEL_CREATOR: Criado por
@@ -534,7 +544,7 @@ pt:
   LABEL_MATCH_GOOD: Combinação partida
   LABEL_MATCH_OK: Combinação mediana
   LABEL_MATCH_POOR: Combinação ruim
-  LABEL_POSTMORTEM_TITLE: Post-mortem
+  LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Não aprendemos nada de novo com [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: Aqui o que aprendemos com [b]%s[/b]:%s
   LABEL_POSTMORTEM_MATCH: "[ul] - A combinação entre [i]%s[/i] e [i]%s[/i] é [b]%s[/b][/ul]"
@@ -797,7 +807,7 @@ pt:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Enquanto você está olhando para um de seus estúdios, agora você pode comprar novos móveis.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Você pode contratar funcionários, designers, desenvolvedores e testadores. Graças a eles você pode criar jogos maiores.
+    Tenha em mente que os melhores jogos são produzidos por equipes tão fortes em design, desenvolvimento e polimento.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Permite-lhe alugar novos edifícios. Isso permitirá que você trabalhe em vários projetos ao mesmo tempo.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

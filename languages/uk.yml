@@ -54,6 +54,7 @@ uk:
   BUTTON_HIRE_THEIR_EMPLOYE: Наймайте свого працівника
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Триватиме %s місяців
   LABEL_SUCCESS_RATE: Ймовірність успіху
   LABEL_RISKS: Ризики
   LABEL_SALES_HITS_TITLE: Звіт про продаж
@@ -197,8 +198,18 @@ uk:
   LABEL_CAMPAIGN_DEMO: Опублікувати демонстраційну версію
   LABEL_CAMPAIGN_FULL: Запустити рекламну кампанію
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    [b]%s[/b] щойно випустив свою наступну гру: %sВін буде доступний лише в
-    %sШанувальники схвильовані так само, як і ми!
+    [b]%s[/b] щойно випустив свою наступну гру: %s
+    Він буде доступний лише в %s
+
+    %s
+    
+    Бажаємо Вам найкращого для своєї гри!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    Шанувальники схвильовані так само, як і ми!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Шанувальники не задоволені, і спеціалізовані журнали, схоже, хочуть випустити пар на цю гру
+
+    Треба сказати, що подібну гру випустили не так давно.
   LABEL_GAME_ANNOUNCED_TITLE: Оголошено %s
   LABEL_TRENDING: Тенденції
   LABEL_CREATOR: Творець
@@ -508,7 +519,7 @@ uk:
   LABEL_MATCH_GOOD: Гарним
   LABEL_MATCH_OK: Добрим
   LABEL_MATCH_POOR: Поганим
-  LABEL_POSTMORTEM_TITLE: Звіт
+  LABEL_POSTMORTEM_TITLE: Звіт (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Ми не дізналися нічого нового з [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Ось що ми дізналися у [b]%s[/b]:%s"
   LABEL_POSTMORTEM_MATCH: "[ul] - збіг між [i]%s[/i] та [i]%s[/i] є [b]%s[/b][/ul]"
@@ -757,7 +768,7 @@ uk:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Поки ви дивитеся на одну зі своїх студій, ви можете купити нові меблі
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Ви можете найняти співробітників, дизайнерів, розробників і тестерів. Завдяки їм можна створювати великі ігри
+    Майте на увазі, що найкращі ігри виробляються командами як сильні в дизайні, розробці та поліруванні.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Дозволяє орендувати нові будівлі. Це дозволить вам працювати на декількох проектах одночасно
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

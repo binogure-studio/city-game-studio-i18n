@@ -55,6 +55,7 @@ et:
   BUTTON_HIRE_THEIR_EMPLOYE: Palgata oma töötaja
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Kestab %s kuud
   LABEL_SUCCESS_RATE: Edu tõenäosus
   LABEL_RISKS: Riskid
   LABEL_SALES_HITS_TITLE: Müügiaruanne
@@ -213,7 +214,17 @@ et:
   LABEL_CAMPAIGN_FULL: Algatage reklaamikampaania
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] on just avaldanud oma järgmise mängu: [b]%s[/b]
-    See on saadaval [b]%s[/b] Fännid on põnevil, nii ütleme me kõik!
+    See on saadaval [b]%s[/b]
+
+    %s
+
+    Soovin teile mängu parim!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    Fännid on põnevil, nii ütleme me kõik!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Fännid ei ole õnnelikud ja spetsialiseeritud ajakirjad näivad juba tahavad selle mängu lõõgastuda
+
+    Tuleb öelda, et nad vabastasid sarnase mängu nii kaua aega tagasi.
   LABEL_GAME_ANNOUNCED_TITLE: "%s teatas"
   LABEL_TRENDING: Moodne
   LABEL_CREATOR: Looja
@@ -524,7 +535,7 @@ et:
   LABEL_MATCH_GOOD: Hea matš
   LABEL_MATCH_OK: Hea küll
   LABEL_MATCH_POOR: Kehv matš
-  LABEL_POSTMORTEM_TITLE: Surnu järelvaatus
+  LABEL_POSTMORTEM_TITLE: Surnu järelvaatus (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Me pole midagi õppinud [b]%s[/b]"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Siin me oleme õppinud [b]%s[/b] -st: [b]%s[/b]"
   LABEL_POSTMORTEM_MATCH: "[ul]- Võistlus [i]%s[/i] ja [i]%s[/i] vahel on [b]%s[/b][/ul]"
@@ -754,7 +765,7 @@ et:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Kui vaatate mõnda oma stuudiot, saate nüüd osta uusi mööblit
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Võite palgata töötajaid, disainereid, arendajaid ja testijaid. Tänu neile saate luua suuremaid mänge
+    Pidage meeles, et parimad mängud on meeskondade poolt loodud nii tugevates disainides, arendamises ja poleerimises.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Võimaldab rentida uusi hooneid. See võimaldab teil samaaegselt töötada mitme projektiga
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

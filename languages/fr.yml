@@ -56,6 +56,7 @@ fr:
   BUTTON_HIRE_THEIR_EMPLOYE: Débaucher un employé
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Durera %s mois
   LABEL_SUCCESS_RATE: Probabilité de succès
   LABEL_RISKS: Risques encourus
   LABEL_SALES_HITS_TITLE: Rapport des ventes
@@ -215,7 +216,16 @@ fr:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] vient juste d'annoncer la sortie prochaine de [b]%s[/b].
     Le jeu sortira d'abord sur la plateforme [b]%s[/b].
+
+    %s
+
+    En tout cas on leur souhaite bonne chance!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Les fans ont hâte d'y être et nous aussi!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Les fans sont mitigés, on peut déjà voir les plumes des critiques s'aiguisés
+
+    Il faut dire qu'ils ont sortis un jeu similaire il n'y pas si longtemps que ça.
   LABEL_GAME_ANNOUNCED_TITLE: "%s annoncé"
   LABEL_TRENDING: Tendance
   LABEL_CREATOR: Créé par
@@ -553,7 +563,7 @@ fr:
   LABEL_MATCH_GOOD: Bonne association
   LABEL_MATCH_OK: Association ok
   LABEL_MATCH_POOR: Mauvaise association
-  LABEL_POSTMORTEM_TITLE: Post-mortem
+  LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] ne nous a rien appris de neuf"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Voici ce que nous avons pu tirer de [b]%s[/b]:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport [i]%s[/i]/[i]%s[/i] est [b]%s[/b][/ul]"
@@ -717,7 +727,7 @@ fr:
   LABEL_FURNITURES_COMMON_BUY: >
     Il est temps d'amenager votre studio avec classe
   LABEL_EMPLOYEES_HIRE: >
-    Votre studio prend de l'ampleur, produire plus de jeux, de meilleur qualité. Mais d'abord il faut recruter
+    Votre studio prend de l'ampleur, produire plus de jeux, de meilleure qualité. Mais d'abord il faut recruter
   LABEL_STUDIO_RENT: >
     On se sent a l'étroit dans ce petit studio, allez prendre possession de votre prochain local
   LABEL_STUDIO_BUILD: >
@@ -775,7 +785,7 @@ fr:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Allez voir un de vos studios, vous pouvez maintenant personnaliser son intérieur.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Vous pouvez engager du personnel, des designers, des developpeurs et des testeurs. Grace a eux vous pouvez créer de plus gros jeux.
+    Gardez a l'exprit que les meilleurs jeux sont produits par des équipes aussi forte en design, qu'en développement et qu'en polissage.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Vous permet de louer de nouveaux batiments. Ça va vous permettre de travailler sur plusieurs projet en même temps.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
@@ -937,7 +947,7 @@ fr:
   LOADING_SCREEN_TIP_13: >
     N'oubliez pas de prendre des pauses cafés régulièrements... Ah, la machine à café est encore brisée
   LOADING_SCREEN_TIP_14: >
-    Le crunchtime n'est pas une marque de céréale, mais bel est bien une pratique de management répandue
+    Le crunchtime n'est pas une marque de céréale, mais bel et bien une pratique de management répandue
   LOADING_SCREEN_TIP_15: >
     Le meilleur moyen de gagner de l'argent est de sortir sans cesse de nouveaux jeux
   LOADING_SCREEN_TIP_16: >

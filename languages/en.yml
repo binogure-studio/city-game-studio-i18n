@@ -55,6 +55,7 @@ en:
   BUTTON_HIRE_THEIR_EMPLOYE: Hire their employee
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Will last for %s months
   LABEL_SUCCESS_RATE: Success probability
   LABEL_RISKS: Risks involved
   LABEL_SALES_HITS_TITLE: Sales report
@@ -171,7 +172,7 @@ en:
   LABEL_MARKETING_TV_ITEM: Television
   LABEL_MARKETING_WEBSITE_ITEM: Website
   LABEL_MARKETING_ONLINEAD_ITEM: Online advertising
-  LABEL_MARKETING_BILLBOARD_ITEM: Advertising panel
+  LABEL_MARKETING_BILLBOARD_ITEM: Advertising billboard
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Social networks
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
   LABEL_SELF_PUBLISH: Self publishing
@@ -215,7 +216,16 @@ en:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] has just revealed their next game: [b]%s[/b]
     It will be available on [b]%s[/b]
+
+    %s
+
+    Wish you the best for your game!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Fans are excited, so say we all!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Fans are not happy and the specialized magazines already seem to want to let off steam on this game
+
+    It must be said that they released a similar game not so long ago.
   LABEL_GAME_ANNOUNCED_TITLE: "%s announced"
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Created by
@@ -524,7 +534,7 @@ en:
   LABEL_MATCH_GOOD: Good match
   LABEL_MATCH_OK: Ok match
   LABEL_MATCH_POOR: Poor match
-  LABEL_POSTMORTEM_TITLE: Post-mortem
+  LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: We've learnt nothing new from [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Here what we've learned from [b]%s[/b]:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- Match between [i]%s[/i] and [i]%s[/i] is [b]%s[/b][/ul]"
@@ -774,7 +784,7 @@ en:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     While you are looking at one of your studios, you can now buy new furnitures.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    You can hire staff, designers, developers and testers. Thanks to them you can create bigger games.
+    Keep in mind that the best games are produced by teams as strong in design, development and polishing.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Allows you to rent new buildings. This will allow you to work on several projects at the same time.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

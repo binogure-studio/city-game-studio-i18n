@@ -55,6 +55,7 @@ de:
   BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: Hält %s Monate lang an.
   LABEL_SUCCESS_RATE: Erfolgswahrscheinlichkeit
   LABEL_RISKS: Die damit verbundenen Risiken
   LABEL_SALES_HITS_TITLE: Umsatzbericht
@@ -110,7 +111,7 @@ de:
     Um ein neues Genre freizuschalten, klicken Sie auf das Symbol[/b].
     Wenn du genügend Punkte hast, dann wird das Spielgenre freigeschaltet.
 
-    [b]Die Anzahl der Geschlechterpunkte[/b] befindet sich in der rechten oberen Ecke[/b] des Bildschirms.
+    [b]Die Anzahl der Forschungspunkte[/b] befindet sich in der rechten oberen Ecke[/b] des Bildschirms.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
@@ -214,7 +215,16 @@ de:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] hat gerade sein nächstes Spiel enthüllt: [b]%s[/b]
     Es wird auf [b]%s[/b] verfügbar sein!
+
+    %s
+
+    Ich wünsche dir das Beste für dein Spiel!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Es gibt viel Hype um das Spiel!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Die Fans sind nicht glücklich und die Fachzeitschriften scheinen sich bereits auf dieses Spiel einlassen zu wollen.
+
+    Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben.
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Entwicklung
@@ -530,7 +540,7 @@ de:
   LABEL_MATCH_GOOD: gute Kombination
   LABEL_MATCH_OK: mittelmäßige Kombination
   LABEL_MATCH_POOR: schlechte Kombination
-  LABEL_POSTMORTEM_TITLE: Spiele-Bericht
+  LABEL_POSTMORTEM_TITLE: Spiele-Bericht (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Wir haben nichts neues von [b]%s[/b] gelernt...
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von [b]%s[/b] gelernt:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] und [i]%s[/i] sind eine [b]%s[/b][/ul]"
@@ -791,7 +801,7 @@ de:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Während Sie sich eines Ihrer Studios ansehen, können Sie jetzt neue Möbel kaufen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Sie können Mitarbeiter, Designer, Entwickler und Tester einstellen. Dank ihnen kannst du größere Spiele erstellen.
+    Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Polieren so stark sind.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Ermöglicht es Ihnen, neue Gebäude zu mieten. Auf diese Weise können Sie an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

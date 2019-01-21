@@ -55,6 +55,7 @@ zh:
   BUTTON_HIRE_THEIR_EMPLOYE: 雇用他们的员工
 
   # Labels, descriptive
+  LABEL_LAST_MONTH: 将持续%s个月
   LABEL_SUCCESS_RATE: 成功概率
   LABEL_RISKS: 风险涉及
   LABEL_SALES_HITS_TITLE: 销售报告
@@ -214,7 +215,16 @@ zh:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] 刚刚公布了他们的下一场比赛: [b]%s[/b]
     它将在 [b]%s[/b] 上提供
+
+    %s
+
+    祝你玩游戏最棒！
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     粉丝们很兴奋！
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    粉丝们并不高兴，专业杂志似乎已经想要在这场比赛中放松一下
+
+    必须说他们不久前发布了类似的游戏。
   LABEL_GAME_ANNOUNCED_TITLE: "%s 宣布"
   LABEL_TRENDING: 趋势
   LABEL_CREATOR: 由...制作
@@ -524,7 +534,7 @@ zh:
   LABEL_MATCH_GOOD: 很好的比赛
   LABEL_MATCH_OK: 好的比赛
   LABEL_MATCH_POOR: 比赛不佳
-  LABEL_POSTMORTEM_TITLE: 尸体检验
+  LABEL_POSTMORTEM_TITLE: 尸体检验 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 我们从 [b]%s[/b] 中学到了什么新东西
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "这是我们从 [b]%s[/b] 学到的东西: [b]%s[/b]"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] 和 [i]%s[/i] 之间的匹配是 [b]%s[/b][/ul]"
@@ -718,7 +728,7 @@ zh:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     当您正在查看其中一个工作室时, 您现在可以购买新家具
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    您可以雇用员工, 设计师, 开发人员和测试人员. 多亏了他们, 你可以创造更大的游戏
+    请记住，最好的游戏是由团队制作的，在设计，开发和抛光方面都很强大。
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     允许您租用新建筑物. 这将允许您同时处理多个项目
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
