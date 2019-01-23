@@ -1,5 +1,6 @@
 ru:
-  BUTTON_ANNOUNCE: Анонсировать игру
+  # Buttons actions verbs
+  BUTTON_ANNOUNCE: Анонсировать игру                                   
   BUTTON_NEW_GAME: Новая игра
   BUTTON_HIRE: Нанять
   BUTTON_APPLY: Применить
@@ -37,93 +38,190 @@ ru:
   BUTTON_SELL: Продать
   BUTTON_RENT: Аренда
   BUTTON_CONFIRM: Подтвердить
+  BUTTON_BANKRUPTCY: Банкротство
+  BUTTON_RESTORE: Восстановить
+  BUTTON_DELETE: Удалить
+  BUTTON_DELETE_ALL: Cancella tutto
+  BUTTON_SPAM: Спам
+  BUTTON_UNSPAM: Не спам
+  BUTTON_HOLIDAY: Отправить студию в отпуск.
+  BUTTON_MODS: Моды
+  BUTTON_BUGREPORT: Сообщить об ошибке
+  BUTTON_FEEDBACK: Обратная связь
   DROPDOWN_LANGUAGE: Языки
+  BUTTON_CRACK_GAME: Взломать игру
+  BUTTON_FORCE_STUDIO_SELL: Продажа силовой студии
+  BUTTON_SPY: Шпионить за конкурентом.
+  BUTTON_HIRE_THEIR_EMPLOYE: нанять своего работника
+
+  # Labels, descriptive
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Специализация игрового жанра
+  LABEL_DISCORD_COMMUNITY: Cообщество Discord
+  LABEL_LAST_MONTH: Будет длиться %s месяцев.
+  LABEL_SUCCESS_RATE: Вероятность успеха
+  LABEL_RISKS: Связанные с этим риски
+  LABEL_SALES_HITS_TITLE: Отчет о продажах
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Здравствуйте, %s,
+
+    Я знаю, как сильно ты любишь мои письма.
+    Итак, поскольку мы наблюдаем хорошие продажи, я сделал некоторые расчеты и сегодня мы поговорим о продажах %s.
+
+    %s
+
+    Искренне
+    Binogure
+  LABEL_SALES_HITS_0: >
+    Продажи [b]%s[/b] идут хорошо, по моим оценкам, это позволит увеличить продажи на [b]%d%%[/b].
+  LABEL_SALES_HITS_1: >
+    [b]%s[/b] не так уж и плохо в этом месяце, по моим оценкам, это позволит увеличить продажи на [b]%d%%[/b].
+  LABEL_SALES_HITS_2: >
+    Хорошо, давайте поговорим о [b]%s[/b]. Продажи превосходны, и я думаю, что мы можем ожидать [b]%d%%[/b] роста продаж.
+  LABEL_SALES_HITS_3: >
+    С [b]%s[/b] я думаю, что продажи должны увеличиться на [b]%d%%[/b].
+  LABEL_SALES_HITS_4: >
+    Сегодня великий день, [b]%s[/b] должен увидеть [b]%d%%[/b] увеличение.
+  LABEL_SALES_HITS_5: >
+    Ожидается, что [b]%s[/b] вырастет на [b]%d%%[/b].
+  LABEL_SALES_HITS_6: >
+    Поздравляя с продажей [b]%s[/b], мы должны достичь [b]%d%%[/b]-го увеличения.
+  LABEL_CONVENTION_INCOMING: |
+    Дорогой %s,
+
+    Мы рады сообщить, что %s, запланированная к проведению %s.
+
+    Съезд продлится 3 дня, и мы ждем гостей %s.
+    Вы уже можете арендовать стенд, чтобы показать свои самые красивые творения. Поторопись, места ограничены.
+
+    Искренне,
+    Организаторы %s
+  LABEL_REDCOUCH: Красный диван
+  LABEL_DARKCOUCH: Темный диван
+  LABEL_WHITECOUCH: Белый диван
+  LABEL_REDARMCHAIR: Красное кресло
+  LABEL_DARKARMCHAIR: Темное кресло
+  LABEL_WHITEARMCHAIR: Белое кресло
+  LABEL_WHAT_WERE_YOU_DOING: Что вы делали, когда столкнулись с этой проблемой?
+  LABEL_VERSION: "Версия: %s"
+  LABEL_NO_MESSAGE: Нет сообщения
+  LABEL_INBOX: Входящие
+  LABEL_SPAM: Спам
+  LABEL_TRASH: Мусор
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Разблокировка новых игровых жанров[/b].
+
+    Чтобы разблокировать новый жанр, [b]щелкните по его иконке[/b].
+    Если у вас достаточно очков, то игровой жанр будет разблокирован.
+
+    [b]Число гендерных точек[/b]расположено в [b]правом верхнем углу экрана[/b].
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s баллы жанров"
+  LABEL_UNLOCKED: "Разблокированный"
+  LABEL_COST: Стоит %s баллов
+  LABEL_FANBASE_TRENDS: Базовые тренды фанатов
+  LABEL_YEAR: Годы
+  LABEL_GAMEOVER_CONFIRM: Банкротство
+  LABEL_GAMEOVER_DESCRIPTION: >
+    Банкротство завершит игру.
+    Вы уверены, что хотите объявить о банкротстве?
+  LABEL_EXPENSES: Расходы
+  LABEL_RENT: Аренда
+  LABEL_MARKETING: Маркетинговые сборы
+  LABEL_FINANCIAL_RESULT: Финансовый результат
+  LABEL_PROPERTY_VALUE: Стоимость недвижимости
+  LABEL_FURNITURE_VALUE: Стоимость мебели
+  LABEL_CATALOG_VALUE: Значение каталога игр
+  LABEL_TOTAL_VALUE: Общая стоимость
+  LABEL_MORTGAGES: Ипотека
+  LABEL_MORTGAGE: Ипотека
+  LABEL_DURATION: Продолжительность
+  LABEL_INTEREST: Процентная ставка
+  LABEL_MONTHLY: Ежемесячная оплата
+  LABEL_AUTO_ASSIGN_STAFF: Назначение сотрудников
+  LABEL_UPGRADE_COMPUTER: Обновить компьютеры
+  LABEL_COMPANY_WIDE: Компания в целом
+  LABEL_STUDIO_WIDE: Эта студия
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     У вас должно быть как минимум [b]3[/b] человека, работающие в студии, чтобы
     подать заявку на предложение издателя.
-  LABEL_TRADE_GAME_CANCELED_TITLE: '%s отменено'
-  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
-    Для %s (%s)
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s отменено"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    Для [b]%s[/b] (%s)
 
-
-    Мы особенно разочарованы тем, что вы отменили разработку %s.
+    Мы особенно разочарованы тем, что вы отменили разработку [b]%s[/b].
 
     В соответствии с подписанным контрактом, стр. 453, параграф 72d, параграф W,
-    розовый лист, вы должны заплатить штраф в размере %s$ и возместить нам как
+    на розовом листе, вы должны заплатить штраф в размере [b]%s$[/b] и возместить нам ущерб
     можно скорее.
 
 
     С уважением,
-
-    Честная юридическая фирма, %s
+    Честная юридическая фирма, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Контракт прекращен
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
-    Для %s (%s)
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    Для [b]%s[/b] (%s)
 
-
-    %s не встретил ожидаемого успеха, и мы должны применить подписанный контракт
+    [b]%s[/b] не встретил ожидаемого успеха, и мы должны применить подписанный контракт
     к письму.
 
-    Таким образом, согласно стр. 5863, пункт 99z, коричневый лист, вы должны
-    заплатить штраф в размере %s$ и возместить нам как можно скорее.
-
+    Таким образом, согласно стр. 5863, в пункте 99z, на коричневом листе, вы должны
+    заплатить штраф в размере [b]%s$[/b] и возместить нам ущерб как можно скорее.
 
     С уважением,
 
-    Отдел плохих продаж, %s
-  LABEL_SELECT_GAME_PRESENT: 'Выберите видеоигры, чтобы показать'
+    Отдел плохих продаж, [b]%s[/b]
+  LABEL_SELECT_GAME_PRESENT: "Выберите видеоигры, чтобы показать"
   LABEL_ROYALTIES: Поощрение
   LABEL_PENALITY: Штраф
   LABEL_NOTE_MIN: Оценка мин.
-  LABEL_MARKETING_MAGAZINE_ITEM: журнал
-  LABEL_MARKETING_TV_ITEM: телевидение
+  LABEL_MARKETING_MAGAZINE_ITEM: Журнал
+  LABEL_MARKETING_TV_ITEM: Телевидение
   LABEL_MARKETING_WEBSITE_ITEM: Веб-сайт
-  LABEL_MARKETING_ONLINEAD_ITEM: Он-лайн реклама
+  LABEL_MARKETING_ONLINEAD_ITEM: Онлайн реклама
   LABEL_MARKETING_BILLBOARD_ITEM: Рекламная панель
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Социальные сети
   LABEL_MARKETING_MAILINGLIST_ITEM: Новостная рассылка
   LABEL_SELF_PUBLISH: Самопубликация
   LABEL_TRADE_PUBLISH: Традиционная публикация
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
-
-    Я %s, я люблю %s, и я хотел бы как можно скорее присоединиться к вашей
+    Я [b]%s[/b], я люблю [b]%s[/b], и я хотел бы как можно скорее присоединиться к вашей
     команде.
 
     Я смогу быть эффективным и принести новые знания своим командам.
 
-
     Спасибо за ваше время,
-
-    %s
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Cпонтанное приложение
-  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: >
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
+    Я пишу, чтобы сообщить вам, что я немедленно ухожу со своей должности в [b]%s[/b].
 
-    Я пишу, чтобы сообщить вам, что я немедленно ухожу из своей позиции в %s.
-
-    Я ушел, потому что нашел новую работу ближе к дому, а в компании более
-    привлекательной.
-
+    Я ушел, потому что нашел новую работу ближе к дому, и та компания более
+    привлекательная.
 
     Мне очень понравились годы, проведенные с вами, я буду скучать по всем вам!
 
-
     Искренне
-
-    %s
+    [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Отставка
-  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+  LABEL_NO_STUDIO_FOR_BIG_GAME: >
     У вас нет студии, которая может создать игру обычного или большего размера.
   LABEL_NO_FAN_BIG_GAME: >
     Чтобы создать игру нормального или большего размера, рекомендуется иметь как
-    минимум %s поклонников, иначе это повлияет на продажи
+    минимум [b]%s[/b] поклонников, иначе это повлияет на продажи
   LABEL_CONCURRENT_AMOUNT: Количество участников
   LABEL_YES: Да
   LABEL_NO: Hет
   LABEL_PRICE_MONTHLY: Ежемесячные расходы
+  LABEL_SERVER_MONITORING_REPORT: Статус сервера
+  LABEL_ONLINE_USAGE: Онлайн игроки считаются
   LABEL_ONLINE_CAPACITY: Вместительность игроков
   LABEL_ONLINE_CAPACITY_TOOLTIP: Количество онлайн-игроков
   LABEL_SERVER: Cервер
@@ -131,9 +229,18 @@ ru:
   LABEL_CAMPAIGN_DEMO: Опубликовать демонстрационную версию
   LABEL_CAMPAIGN_FULL: Запустить рекламную кампанию
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    %s только что показали свою следующую игру: %s
-    Она будет доступна на %s
+    [b]%s[/b] только что показали свою следующую игру: [b]%s[/b]
+    Она будет доступна на [b]%s[/b]
+
+    %s
+
+    Желаю вам всего наилучшего в вашей игре!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Поклонники взволнованы, как и мы!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Болельщики недовольны, и специализированные журналы тоже, кажется, хотят выпустить пар на этой игре.
+
+    Надо сказать, что не так давно они выпустили аналогичную игру.
   LABEL_GAME_ANNOUNCED_TITLE: Объявлено %s
   LABEL_TRENDING: Трэнды
   LABEL_CREATOR: Создатель
@@ -141,7 +248,7 @@ ru:
   LABEL_COMMUNITY_MANAGER: Менеджер сообщества
   LABEL_SOUND_COMPOSER: Звуковой композитор
   LABEL_SPECIAL_THANKS: Особая благодарность
-  LABEL_VISITORS: '%d посетители'
+  LABEL_VISITORS: "%d посетители"
   LABEL_ATTENDANCE: Посещаемость
   LABEL_NONE: Никто
   LABEL_NO_BUILDING: Нет доступных зданий
@@ -180,7 +287,7 @@ ru:
   LABEL_GAME_NAME: Название
   LABEL_GAME_SIZE: Размер
   LABEL_GAME_ONLINE_SHORT: Cетевой мультиплеер
-  LABEL_PLATFORM_NOT_ONLINE: |
+  LABEL_PLATFORM_NOT_ONLINE: >
     Эта платформа не поддерживает многопользовательские онлайн-игры
   LABEL_GAMEPLAY: Геймплей
   LABEL_GRAPHIC_SETTINGS: Настройки графики
@@ -197,7 +304,7 @@ ru:
   LABEL_OPTIMIZATION: Оптимизация
   LABEL_OUTCOME: Результат
   LABEL_PHYSICS: Физика
-  LABEL_GAME_FINISHED: 'Поздравляем, вы прошли City Game Studio!'
+  LABEL_GAME_FINISHED: "Поздравляем, вы прошли City Game Studio!"
   LABEL_PLANNING: Планирование
   LABEL_NO_PLATFORM_AVAILABLE: Игра уже портирована на каждую доступную платформу
   LABEL_PLATFORM: Платформа
@@ -326,19 +433,19 @@ ru:
   LABEL_DIFFICULTY_NORMAL: Нормальный
   LABEL_DIFFICULTY_HARD: Сложный
   LABEL_DIFFICULTY_INSANE: Безумный
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: '%s выпустила новую платформу: ''%s'''
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: '%s убирают хорошо известную платформу ''%s'', фанаты огорчены'
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >-
-    %s выпустит новую платформу в течение нескольких месяцев '%s', которая будет
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] выпустила новую платформу: [b]%s[/b]"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] убирают хорошо известную платформу [b]%s[/b], фанаты огорчены"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
+    [b]%s[/b] выпустит новую платформу в течение нескольких месяцев [b]%s[/b], которая будет
     работать в течение многих лет
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: '%s объявляет о конце жизни столь известного %s'
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: 'Вы разблокировали лицензию для %s, она стоит %s$'
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] объявляет о конце жизни столь известного [b]%s[/b]"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Вы разблокировали лицензию для [b]%s[/b], она стоит [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Выпущена платформа
   LABEL_PLATFORM_DISCONTINUED_TITLE: Снята с производства платформа
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Предстоящая платформа
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Предстоит конец жизни платформы
   LABEL_PLATFORM_UNLOCKED_TITLE: Покупка платформы
-  LABEL_CLICK_TO_CLOSE: 'Нажмите, чтобы закрыть'
+  LABEL_CLICK_TO_CLOSE: "Нажмите, чтобы закрыть"
   LABEL_SHOP_UI: Магазин
   LABEL_DESK: Стол
   LABEL_BOOKSHELF: Книжная полка
@@ -347,8 +454,8 @@ ru:
   LABEL_NEW_GAME: Новая игра
   LABEL_MODDING: Моддинг
   LABEL_ARTWORK: Арты
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Благодаря вашему недавнему опыту вы открыли новый жанр '%s'
-  LABEL_UNLOCK_GAME_TYPE_TITLE: 'Тема разблокирована: %s'
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Благодаря вашему недавнему опыту вы открыли новый жанр [b]%s[/b]"
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Тема разблокирована: %s"
   LABEL_MAGAZINE_0: Фан-игра
   LABEL_MAGAZINE_1: ПК игрок
   LABEL_MAGAZINE_2: Game Geek
@@ -361,7 +468,7 @@ ru:
   LABEL_GAME_OVER: Игра окончена
   LABEL_SCORE: Оценка
   LABEL_WAGE_INCREASES_TITLE: Увеличение заработной платы
-  LABEL_WAGE_INCREASES_DESCRIPTION: 'У следующих сотрудников повышена заработная плата:'
+  LABEL_WAGE_INCREASES_DESCRIPTION: "У следующих сотрудников повышена заработная плата:"
   LABEL_PRESS_KEY: Нажмите
   LABEL_WORD_OR: или
   LABEL_INPUT_ACTION_UI_ROTATE: чтобы повернуть предмет
@@ -379,35 +486,35 @@ ru:
   LABEL_CATCHPHRASE_2_1: Кто-то сказал посредственно?
   LABEL_CATCHPHRASE_2_2: Кто-то сказал плохо?
   LABEL_CATCHPHRASE_2_3: Неутешительный опыт
-  LABEL_CATCHPHRASE_2_4: 'Одно слово: пустая'
+  LABEL_CATCHPHRASE_2_4: "Одно слово: пустая"
   LABEL_CATCHPHRASE_2_5: Он должен был быть отменен
   LABEL_CATCHPHRASE_3_0: Прямо для катастрофы
-  LABEL_CATCHPHRASE_3_1: 'Разочарование, соответствующее его амбициям'
-  LABEL_CATCHPHRASE_3_2: 'Они вложили все, но этого мало'
+  LABEL_CATCHPHRASE_3_1: "Разочарование, соответствующее его амбициям"
+  LABEL_CATCHPHRASE_3_2: "Они вложили все, но этого мало"
   LABEL_CATCHPHRASE_3_3: Если бы только они сделали игру*
   LABEL_CATCHPHRASE_3_4: Ужасный опыт
-  LABEL_CATCHPHRASE_3_5: 'Мы видели худшее, но мы видели лучше всех!'
+  LABEL_CATCHPHRASE_3_5: "Мы видели худшее, но мы видели лучше всех!"
   LABEL_CATCHPHRASE_4_0: Слишком неудобно для некоторых идей
   LABEL_CATCHPHRASE_4_1: Игра не столь существенная
   LABEL_CATCHPHRASE_4_2: Плохая идея
-  LABEL_CATCHPHRASE_4_3: 'Игра, которая хотела быть инновационной ...'
-  LABEL_CATCHPHRASE_4_4: 'По недоразумению, мы могли бы сыграть в это снова'
+  LABEL_CATCHPHRASE_4_3: "Игра, которая хотела быть инновационной ..."
+  LABEL_CATCHPHRASE_4_4: "По недоразумению, мы могли бы сыграть в это снова"
   LABEL_CATCHPHRASE_4_5: Лучший момент? Когда она заканчивается
   LABEL_CATCHPHRASE_5_0: Минимальная услуга
   LABEL_CATCHPHRASE_5_1: Безвкусный плавильный котел
   LABEL_CATCHPHRASE_5_2: Очень смешанный отчет
-  LABEL_CATCHPHRASE_5_3: 'Мы видели лучше, но мы видели и ещё хуже!'
-  LABEL_CATCHPHRASE_5_4: 'Конечно, это не игра года'
+  LABEL_CATCHPHRASE_5_3: "Мы видели лучше, но мы видели и ещё хуже!"
+  LABEL_CATCHPHRASE_5_4: "Конечно, это не игра года"
   LABEL_CATCHPHRASE_5_5: Полый зазор с ограниченным сроком службы
   LABEL_CATCHPHRASE_6_0: Беспомощный
-  LABEL_CATCHPHRASE_6_1: 'Простейшая, но избыточная игра'
-  LABEL_CATCHPHRASE_6_2: 'Скромный, но интересный'
-  LABEL_CATCHPHRASE_6_3: 'Веселое, но мелкое'
-  LABEL_CATCHPHRASE_6_4: 'Интересное понятие, испорченное случайностью'
+  LABEL_CATCHPHRASE_6_1: "Простейшая, но избыточная игра"
+  LABEL_CATCHPHRASE_6_2: "Скромный, но интересный"
+  LABEL_CATCHPHRASE_6_3: "Веселое, но мелкое"
+  LABEL_CATCHPHRASE_6_4: "Интересное понятие, испорченное случайностью"
   LABEL_CATCHPHRASE_6_5: Были хорошие моменты
   LABEL_CATCHPHRASE_7_0: Трезвость и эффективность
-  LABEL_CATCHPHRASE_7_1: 'Богатое содержание, на которое оказало посредственное достижение'
-  LABEL_CATCHPHRASE_7_2: 'Превосходная эстетика, недостатки механизмов'
+  LABEL_CATCHPHRASE_7_1: "Богатое содержание, на которое оказало посредственное достижение"
+  LABEL_CATCHPHRASE_7_2: "Превосходная эстетика, недостатки механизмов"
   LABEL_CATCHPHRASE_7_3: Отличная концепция с ограниченным содержанием
   LABEL_CATCHPHRASE_7_4: Удовлетворительная смесь?
   LABEL_CATCHPHRASE_7_5: Мы недалеко от драгоценности
@@ -427,81 +534,81 @@ ru:
   LABEL_CATCHPHRASE_10_1: Шедевр постановки
   LABEL_CATCHPHRASE_10_2: Обязательно нужно иметь
   LABEL_CATCHPHRASE_10_3: Одна из лучших игр в последнее время
-  LABEL_CATCHPHRASE_10_4: 'Часы игры, только хороши воспоминания'
+  LABEL_CATCHPHRASE_10_4: "Часы игры, только хороши воспоминания"
   LABEL_CATCHPHRASE_10_5: Эта игра поработит умы всех
   LABEL_CATCHPHRASE_11_0: Художественный удар
   LABEL_CATCHPHRASE_11_1: Редкий камень красоты
   LABEL_CATCHPHRASE_11_2: Дань к видеоиграм
-  LABEL_CATCHPHRASE_11_3: 'Опус, который воссоздает престиж видеоигр'
+  LABEL_CATCHPHRASE_11_3: "Опус, который воссоздает престиж видеоигр"
   LABEL_CATCHPHRASE_11_4: Если совершенство было бы игрой
   LABEL_CATCHPHRASE_11_5: Двадцатое мировое чудо
   LABEL_CREATE_SEQUEL: Создать сиквел
   LABEL_NEW_IP: Новая игра
   LABEL_POSTMORTEM: Отчёт
-  LABEL_EMPTY_STUDIO: 'Предупреждаю, что эта студия не содержит рабочего стола с компьютером!'
+  LABEL_EMPTY_STUDIO: "Предупреждаю, что эта студия не содержит рабочего стола с компьютером!"
   LABEL_MATCH_EXCELLENT: Отличное
   LABEL_MATCH_GOOD: Хорошее
   LABEL_MATCH_OK: Нормальное
   LABEL_MATCH_POOR: Плохое
-  LABEL_POSTMORTEM_TITLE: Отчёт
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Мы ничего не узнали из '%s'
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: 'Вот что мы узнали из ''%s'': %s'
-  LABEL_POSTMORTEM_MATCH: '[ul] - совпадение между ''%s'' и ''%s'' является ''%s''[/ul]'
-  LABEL_POSTMORTEM_CAPACITY: '[ul] - изменить опцию ''%s'' для типа игры ''%s''[/ul]'
+  LABEL_POSTMORTEM_TITLE: Отчёт (%s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из [b]%s[/b]"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из [b]%s[/b]: [b]%s[/b]"
+  LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - изменить опцию [b]%s[/b] для типа игры [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Рыночная доля
   LABEL_LICENSE_COST: Лицензия
   LABEL_OWNED: Принадлежит
   LABEL_WEEK_COST: Стоимость разработки
-  LABEL_CATALOG_SIZE: Размер каталога
+  LABEL_CATALOG_SIZE: Размер каталога игр
   LABEL_PLATFORM_LIST: Список платформ
   LABEL_IDLE: Бездействие
-  LABEL_ADOPT_CAT_DESCRIPTION: |
-    Сотрудники студии %s нашли бездомную кошку, скрытую за мусором. Эта кошка
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    Сотрудники студии [b]%s[/b] нашли бездомную кошку, скрытую за мусором. Эта кошка
     очень приятная, и персонал уже дал ей имя. Что ты будешь делать?
   LABEL_ADOPT_CAT_TITLE: Бродячий кот
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     В Blue Studio два брата только что выпустили новую игру. Это игровой
     чейнджер, и появился новый тип игры: таинственный
-  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Жанр "мистика" был изобретен
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Жанр 'мистика' был изобретен
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar только что выпустила новую игру, которая произвела революцию в
     игровой индустрии. Она создала жанр HTA
   LABEL_UNLOCK_HTA_LIKE_TITLE: Жанр HTA-like был изобретен
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
     3 парня в гараже создали новую новую игру.
     Он настолько знаменит, что создал новый игровой жанр, Crook
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like был изобретен
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >-
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
     3 Американские дизайнеры просто создали мод для знаменитой игры. Родился
     жанр: Moba
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Жанр Moba-like был изобретен
   LABEL_BROKEN_COFFEEMAKER_TITLE: Сломанная кофемашина
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
-    Ваши сотрудники студии %s являются зависимыми от кофе. Но кофеварка подала
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    Ваши сотрудники студии [b]%s[/b] являются зависимыми от кофе. Но кофеварка подала
     последний кубок... Что ты хочешь сделать?
-  LABEL_RABBIT_INVASION_DESCRIPTION: |
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
     Кролики, кролики повсюду. Они делают какие-то шумы... они бегут повсюду. Но
     никто их не замечает, и люди продолжают работать...
   LABEL_RABBIT_INVASION_TITLE: Кроличье вторжение
-  LABEL_TARGETTED_AUDIENCE_FEATURE: |
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
     Эксперты обнаружили, что игры могут ориентироваться на определенную
     аудиторию. Они опубликовали статью о трех разных аудиториях: дети ,все и
     взрослые
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >-
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Появился новый вирус. Он ориентирован только на компании видеоигр. Это
     кажется странным, но он замедляет курсоры и случайным образом перезагружает
     компьютеры. Это, безусловно, повлияет на производительность ваших
-    сотрудников. Нападает только на студию %s
+    сотрудников. Нападает только на студию [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Появился вирус
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >-
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     Влоггер, известный своими обзорами игр, только что опубликовал новое видео.И
-    на этот раз он рассмотрел одну из ваших игр %s. Это, безусловно, повлияет на
+    на этот раз он рассмотрел одну из ваших игр [b]%s[/b]. Это, безусловно, повлияет на
     продажи.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Бесплатные объявления
   LABEL_LOAN_TITLE: Последний займ
-  LABEL_LOAN_DESCRIPTION: >-
+  LABEL_LOAN_DESCRIPTION: >
     Вам нужны дополнительные деньги, мы можем вам помочь. Вы можете вернуть себе
-    займ в %s. Наши процентные ставки составляют всего %s%%,и у вас есть%sнедель
+    займ в [b]%s[/b]. Наши процентные ставки составляют всего [b]%s%%[/b],и у вас есть%sнедель
     для погашения. Это как вся жизнь для такой компании, как ваша.
     Мывашпоследний вариант, позвольте себе искушаться.
   LABEL_BURNING_SERVER_DESCRIPTION: >
@@ -516,13 +623,13 @@ ru:
     новые серверы.
   LABEL_SMOKING_SERVER_TITLE: Предупреждение о емкости сервера
   LABEL_PAYLOAN_TITLE: Погасить заем
-  LABEL_PAYLOAN_DESCRIPTION: 'Планируемое погашение подошло к концу, вы должны заплатить %s$.'
+  LABEL_PAYLOAN_DESCRIPTION: "Планируемое погашение подошло к концу, вы должны заплатить [b]%s$[/b]."
   LABEL_SELL_STUDIO_TITLE: Продажа студии
-  LABEL_SELL_STUDIO_DESCRIPTION: 'Вы продаете студию %s, вы хотите продолжить?'
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
-    Поскольку %s является вашей последней студией или она занята работой над
+  LABEL_SELL_STUDIO_DESCRIPTION: "Вы продаете студию [b]%s[/b], вы хотите продолжить?"
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
+    Поскольку [b]%s[/b] является вашей последней студией или она занята работой над
     проектом, вы не можете ее продать
-  LABEL_BUILDING_AREA: Площадь %s m²
+  LABEL_BUILDING_AREA: Площадь %sm²
   LABEL_BUILDING_BUY: Цена
   LABEL_BUILDING_RENT: Арендная плата
   LABEL_BUILDING_CONVENTION: Выставочный центр
@@ -595,100 +702,203 @@ ru:
   LABEL_SKILLS_AVERAGE: Навыки (в среднем)
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Окно без полей
-  LABEL_GAMEEDITION_SUBMIT: |
+  LABEL_GAMEEDITION_SUBMIT: >
     У вас много поклонников. Вы достаточно много знаете,чтобы редактировать
     игры.
-  LABEL_GAMEEDITION_RECEIVE: |
+  LABEL_GAMEEDITION_RECEIVE: >
     После вашего недавнего успеха издатели свяжутся с вами в кратчайшие сроки,
     чтобы сделать вам предложения.
-  LABEL_WORLDMAP: 'Вы смотрите вверх, дальше вас ждет вся вселенная'
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >-
+  LABEL_WORLDMAP: "Вы смотрите вверх, дальше вас ждет вся вселенная"
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
     Появляются первые журналы про видеоигр, вы хотите рекламировать одну из
     своих игр?
   LABEL_MARKETING_CAMPAIGN_TV: Настало время сделать ваши игры известными благодаря телевизионной рекламе.
-  LABEL_MARKETING_CAMPAIGN_INTERNET: >-
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
     Эпоха Интернета начинается, вы можете охватить миллионы людей простым
     рекламным баннером.
-  LABEL_CONCURRENT_STUDIOS_LIST: 'Ваша студия растет, пришло время изучить рынок и заглянуть на конкурс.'
-  LABEL_CONCURRENT_STUDIOS_BUY: 'Вы катитесь в тесте, может быть, пришло время покупать конкурирующие студии?'
+  LABEL_CONCURRENT_STUDIOS_LIST: "Ваша студия растет, пришло время изучить рынок и заглянуть на конкурс."
+  LABEL_CONCURRENT_STUDIOS_BUY: "Вы катитесь в тесте, может быть, пришло время покупать конкурирующие студии?"
   LABEL_FURNITURES_COMMON_BUY: Теперь у нас есть возможность перестройки дизайна здания.
-  LABEL_EMPLOYEES_HIRE: >-
+  LABEL_EMPLOYEES_HIRE: >
     Ваша студия растет, производит больше игр, улучшает ее качество.Но сначала
     вам нужно нанять людей.
-  LABEL_STUDIO_RENT: >-
+  LABEL_STUDIO_RENT: >
     Сейчас вы чувствуете себя замкнутым в своей маленькой студии,нужно переехать
     в свою следующую студию.
   LABEL_STUDIO_BUILD: Ваш успех позволяет вам создавать собственные студии.
-  LABEL_CONVENTION_ORGANIZE: |
+  LABEL_CONVENTION_ORGANIZE: >
     С миллионом людей, поддерживающих вас, вы можете теперь организовать свои
     собственные соглашения.
-  LABEL_CONVENTION_PARTICIPATE: |
+  LABEL_CONVENTION_PARTICIPATE: >
     Ваш игровой каталог заслуживает внимания, участие в конвенциях может помочь
     вам улучшить заметность.
   LABEL_STUDIO_CUSTOMIZE: Ваши скучные стены подрывают вашу производительность? Время поменять это.
-  LABEL_FURNITURES_SERVERS_BUY: 'Больше стола, больше стула, больше компьютера, больше белой доски, больше!'
-  LABEL_GAME_ONLINE: |
-    Как держать ваших игроков приклеенными к экрану? ИНТЕРНЕТ:
-    сделайте онлайн-игры, и они будут зависимы!
-  LABEL_DIGITAL_STORE: |
-    Дематериализованный: вы начинаете слышать об этом, и вы уже знаете, что это
-    будущее.
-  LABEL_POSTMORTEM_FEATURE: |
+  LABEL_GAME_ONLINE: >
+    Как держать ваших игроков приклеенными к экрану?
+    ИНТЕРНЕТ, сделайте онлайн-игры, и они будут зависимы!
+  LABEL_FURNITURES_SERVERS_BUY: >
+    Больше стола, больше стула, больше компьютера, больше белой доски, больше!
+  LABEL_DIGITAL_STORE: >
+    Дематериализованный, вы начинаете слышать об этом, и вы уже знаете, что это будущее.
+  LABEL_POSTMORTEM_FEATURE: >
     Поздравляем, вы сделали свою первую игру. Теперь вы можете перейти к отчёту,
     чтобы помочь себе улучшить его движок, дизайн и полировку
-  LABEL_NEW_GAME_FEATURE: |
+  LABEL_NEW_GAME_FEATURE: >
     Готовы пережить эпическую историю видеоигр с самого начала?Добро пожаловать
     в City Game Studio. Начните работу и создайте свою первую игру.
   LABEL_LOADING: Загрузка
   LABEL_NAME: Название
   LABEL_SALARY: Зарплата
   LABEL_NO_SCORE: Еще нет оценки!
-  LABEL_CAPACITY_STORY_FEATURE: |
+  LABEL_CAPACITY_STORY_FEATURE: >
     Хорошая игра всегда хороша, хорошая история всегда хороша. А как насчет
     хорошей игры с хорошей историей?
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
     Какова цель этой кнопки? Вам необходимо управлять пользовательским
     интерфейсом ваших игр
-  LABEL_CAPACITY_NETWORK_FEATURE: >-
+  LABEL_CAPACITY_NETWORK_FEATURE: >
     Играть в видеоигру, это потрясающе, однако играть с друзьями еще лучше! Вам
     нужно управлять сетью для своих игр
-  LABEL_CAPACITY_MODDING_FEATURE: |
+  LABEL_CAPACITY_MODDING_FEATURE: >
     Некоторые из ваших игр уже были изменены игроками,благодаря чему вы продаете
     больше игр. Пришло время помочь этим хакерам и работать над правильным
     API-интерфейсом для ваших игр
-  LABEL_CAPACITY_CUTSCENES_FEATURE: >-
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
     Фильмы влияют на видеоигры, нам нужно управлять роликами при создании новой
     игры
-  LABEL_CAPACITY_TUTORIEL_FEATURE: |
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
     Игра в новую игру - это как обучение. Это непросто,
     поэтому вы решили создать учебник для своих новых игр.
-  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
     Рик и Париж демонстрируют свою личную жизнь. Социальные сети здесь навсегда,
     и вы можете использовать их для продвижения своих игр!
-  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >-
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
     Недавнее исследование показывает, что отправка ненужных писем может
     значительно увеличить видимость ваших игр. Спам - это новое слово в
     настроении, и вы можете использовать их для продвижения своих игр!
-  LABEL_GAMEPORT_FEATURE: |
+  LABEL_GAMEPORT_FEATURE: >
     Мечты сбываются. Только что выпущена новая консоль!Теперь вы знаете, что
     хотите выпустить кросс-платформенную игру.Пойдем, попробуешь!
-  LABEL_GAME_CREATION: |
-    Настройте рабочую нагрузку каждой части вашей игры, настроив каждый 
-    параметр
+  LABEL_GAME_CREATION: >
+    Настройте рабочую нагрузку каждой части вашей игры, настроив каждый  параметр
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
+    Вы можете ознакомиться с предложениями издателей. Издание игры - это простой способ стать популярным и издавать большие игры.
+  LABEL_WORLDMAP_DESCRIPTION_0: >
+    Посетите город, посмотрите на конкурс и узнайте, где находится ваша студия.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
+    Позволяет организовать маркетинговую кампанию через многие игровые журналы. Это повысит наглядность ваших игр.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
+    Позволяет арендовать рекламные щиты для размещения плакатов с вашими играми, которые продаются в настоящее время.
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
+    Позволяет организовывать телевизионные рекламные кампании. Это дорого, но кто не смотрит телевизор в наши дни?!
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
+    Теперь вы можете разместить рекламную вставку на веб-сайтах. Это дешево, и это привлекает больше игроков.
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
+    Теперь можно создать витрину во всемирной паутине, чтобы показать миру, что ваши игры существуют.
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
+    Вы могли видеть своих конкурентов на карте города, теперь вы можете смотреть их.
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
+    Покупка ваших конкурентов - это простой способ завоевать большое количество болельщиков, а также расширить свою компанию.
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
+    Пока вы смотрите на одну из ваших студий, вы можете купить новую мебель.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
+    Имейте в виду, что лучшие игры производятся командами, столь же сильными в дизайне, разработке и полировке.
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
+    Позволяет арендовать новые здания. Это позволит вам работать над несколькими проектами одновременно.
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
+    Позволяет создавать новые студии. Это дорого, это один из единственных способов продолжать расти без ограничений.
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
+    Помимо строительства студий, можно строить и конференц-центры, которые необходимы для организации конференций.
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
+    Если вам нужны конференц-центры, вы можете организовать конференции.
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
+    Вы можете участвовать в конвенциях, что время от времени повысит видимость ваших игр.
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
+    Вы можете перекрасить стены, поменять столбы и переделать полы своих студий.
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
+    Покупка серверов позволит вам создавать онлайн игры, а также интернет-портал.
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
+    Вы можете создавать игры онлайн. Обычно они дешевле, но игроки должны платить ежемесячную подписку.
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
+    Вы можете создать дематериализованный игровой магазин и, наконец, первую альфа-версию, которая нуждается в доработке.
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
+    Вы можете делать предложения от издателей, это приносит вам много денег, но остерегайтесь плохих оценок.
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
+    Вскрытие - это отчет о том, что пошло хорошо или плохо во время разработки игры, он дает вам подсказки.
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
+    Создание хорошей игры позволит вам прогрессировать в City Game Studio, зарабатывать деньги, болельщиков и опыт.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
+    При создании игры теперь можно выбирать целевую аудиторию, это оказывает влияние на итоговый счет и продажи игры.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
+    У вас есть новый дизайн датчика при создании игры
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
+    У вас есть новый дизайн датчика при создании игры
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
+    У вас появился новый измеритель развития при создании игры.
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
+    У вас появился новый измеритель развития при создании игры.
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
+    У вас есть новый полировочный калибр при создании игры
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
+    У вас есть новый полировочный калибр при создании игры
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
+    Вы можете рекламировать в социальных сетях, это очень целенаправленная, дорогостоящая и очень эффективная реклама.
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
+    Отправка электронной почты будет стоить вам почти ничего и повлияет на продажи ваших игр.
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
+    Вы можете перенести свои игры на новые платформы, это просто и требуется только один человек.
+  LABEL_UNLOCK_GAMEGENRE: Вы приобрели опыт в создании игр, чувствуете себя готовыми к разработке новой игровой механики.
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    Теперь вы можете открыть для себя новые игровые жанры. Чтобы заработать очки опыта, нужно просто издавать игры.
+
+  # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Название компании
   PLACEHOLDER_GAME_GENRE: Игровой жанр
   PLACEHOLDER_GAME_NAME: Название игры
   PLACEHOLDER_PLAYER_NAME: Ваше имя
+
+  LABEL_VERSION_BETA: Бета-версия
+  LABEL_BREAK_LAW: |
+    Ты собираешься нарушить закон.
+    
+    Ты хочешь продолжить?
+  LABEL_SUCCESS: Успех
+  LABEL_FAILURE: Неудача
+  LABEL_CANNOT_INTERACT: Вы больше не сможете общаться с %s до тех пор пока %s
+  LABEL_FAN_LOST: Это повлияло на вашу популярность, вы потеряли поклонников %s.
+  LABEL_PENALTY_COST: Правосудие решило, что вы должны заплатить %s$.
+  LABEL_EMPLOYEE_HIRED: Вы наняли %s.
+  LABEL_GAME_CRACKED: Ты взломал %s.
+  LABEL_GENRE_STOLEN: Ты узнал, что %s
+  LABEL_STUDIO_SOLD: Они продали %s.
+
+  # Tooltips
+  TOOLTIP_FORCE_STUDIO: >
+    Вы должны выбрать студию, продажу которой вы хотите принудительно продать.
+  TOOLTIP_CRACK_GAME: >
+    Вы должны выбрать игру, которую хотите взломать.
+  TOOLTIP_HIRE_STAFF: >
+    Вы должны выбрать сотрудника, которого хотите нанять.
+  TOOLTIP_CONCURRENT_LOCKED: >
+    Вы сможете попробовать еще раз действие против %s от %s.
+  TOOLTIP_TUTORIEL: >
+    %s для разблокировки %s
+  TOOLTIP_EMAIL: >
+    Читай новости и свою почту.  
+  TOOLTIP_UNLOCK_GAME_GENRE: >
+    Позволяет разблокировать новые типы игр.  
+  TOOLTIP_MANAGE_STUDIO: >
+    Для управления студиями, обновления компьютеров, назначения сотрудников....
   TOOLTIP_GAMEPORT: Портируйте видеоигру на другую платформу
   TOOLTIP_POSTMORTEM: Создайте отчет .Отчет поможет вам создать лучшие игры
   TOOLTIP_CREATE_GAME: Создать новую игру
   TOOLTIP_STAFF: Список сотрудников
-  TOOLTIP_RECRUIT: 'Список потенциальных кандидатов, доступных в городе'
-  TOOLTIP_PORTFOLIO: 'Список игр, которые вы успели сделать.'
+  TOOLTIP_RECRUIT: "Список потенциальных кандидатов, доступных в городе"
+  TOOLTIP_PORTFOLIO: "Список игр, которые вы успели сделать."
   TOOLTIP_OPTION: Настройки
   TOOLTIP_EXIT: Выход
   TOOLTIP_STUDIOS: Список ваших студий
-  TOOLTIP_STUDIOLIST: 'Список офисов, доступных в городе'
+  TOOLTIP_STUDIOLIST: "Список офисов, доступных в городе"
   TOOLTIP_CONSTRUCT: Создайте новое здание для офиса или приймите конвенцию
   TOOLTIP_CONFERENCE: Управление соглашениями
   TOOLTIP_MARKETING: Управление маркетинговыми кампаниями
@@ -698,5 +908,86 @@ ru:
   TOOLTIP_ASSIGN: Назначить сотрудника за стол
   TOOLTIP_STUDIO_SELECT: Список ваших студий
   TOOLTIP_ANNOUNCE_GAME: Анонс видеоигр создает ажиотаж
-  TOOLTIP_CONCURRENT: |
+  TOOLTIP_CONCURRENT: >
     Список компаний видеоигры
+  TOOLTIP_STUDIO_COST: >
+    Суммарные студийные расходы. Включая арендную плату, а также
+    расходы на техническое обслуживание оборудования (например, серверов).
+  TOOLTIP_MARKETING_COST: >
+    Расходы на маркетинговые кампании, проводимые в настоящее время
+  TOOLTIP_SALARY_COST: >
+    Заработная плата каждого работника
+  TOOLTIP_STEAM_MODS: >
+    Мастерская Steam
+
+  # Showd when game is loading
+  LOADING_SCREEN_TIP_0: >
+    Ваша компания тайно оценивается на основе качества игр, которые вы выпустили за последние четыре года.
+  LOADING_SCREEN_TIP_1: >
+    Идеальные сотрудники могут спонтанно подать заявку на укрепление вашей производственной команды.
+  LOADING_SCREEN_TIP_2: >
+    Этот экран загрузки существует только для того, чтобы заставить вас ждать, на самом деле это сон (случайный (0, 50)), который является цикличным.
+  LOADING_SCREEN_TIP_3: >
+    Открытие для себя нового игрового жанра дает вам значительное преимущество перед конкурентами.
+  LOADING_SCREEN_TIP_4: >
+    Создание игр с конкурентами - лучший способ стать знаменитым.
+  LOADING_SCREEN_TIP_5: >
+    Вы можете организовывать конференции в своих собственных зданиях, но лучше разместите их с разницей в один год.
+  LOADING_SCREEN_TIP_6: >
+    Отдел плохих продаж всегда прав.
+  LOADING_SCREEN_TIP_7: >
+    Вам нужны серверы для хостинга онлайн игр, они дешевле, но игроки должны платить ежемесячно, чтобы продолжить играть в них.
+  LOADING_SCREEN_TIP_8: >
+    Эйнштейн, наш талисман, лаял 65,13 раз во время разработки City Game Studio.
+  LOADING_SCREEN_TIP_9: >
+    12654 Во время разработки городской игровой студии прозвучали рождественские песни.
+  LOADING_SCREEN_TIP_10: >
+    Взгляд на доли рынка - это хорошо, но при этом необходимо заботиться и о количестве игр, опубликованных на платформе.
+  LOADING_SCREEN_TIP_11: >
+    Хотите помочь с переводом City Game Studio? https://github.com/binogure-studio/city-game-studio-i18n
+  LOADING_SCREEN_TIP_12: >
+    Когда индикаторы ваших серверов горят красным цветом, это означает, что они перегружены.
+  LOADING_SCREEN_TIP_13: >
+    Не забудь взять перерыв на кофе.... Кофеварка опять сломалась.
+  LOADING_SCREEN_TIP_14: >
+    Кранчтайм - это не зерновой бренд, но это широко распространенная управленческая практика.
+  LOADING_SCREEN_TIP_15: >
+    Выпуск новой игры - лучший способ заработать деньги.
+  LOADING_SCREEN_TIP_16: >
+    Вскрытия позволят вам узнать больше об играх, которые вы выпустили.
+  LOADING_SCREEN_TIP_17: >
+    Согласно недавнему исследованию, почти каждая 625,3 собака лает во время дождя, а остальные смеются над этим.
+  LOADING_SCREEN_TIP_18: >
+    Не полагайтесь на все, что вы можете прочитать на экранах загрузки.
+
+  GAMEEDITION_SUBMIT: Предложения по публикации номера
+  GAMEEDITION_RECEIVE: Получать предложения по издательской деятельности
+  WORLDMAP: Карта города
+  MARKETING_CAMPAIGN_MAGAZINE: Рекламная кампания в прессе
+  MARKETING_CAMPAIGN_TV: Телевизионная рекламная кампания
+  MARKETING_CAMPAIGN_INTERNET: Рекламная кампания в Интернете
+  CONCURRENT_STUDIOS_LIST: Перечислите конкурентов
+  CONCURRENT_STUDIOS_BUY: Выкуп конкурентов
+  FURNITURES_COMMON_BUY: Покупка мебели
+  EMPLOYEES_HIRE: Нанять персонал
+  STUDIO_RENT: Снять однокомнатную квартиру посуточно
+  STUDIO_BUILD: Строительство студии
+  CONVENTION_ORGANIZE: Организовать конференцию
+  CONVENTION_PARTICIPATE: Участие в конвенции
+  STUDIO_CUSTOMIZE: Обновите свои студии.
+  FURNITURES_SERVERS_BUY: Покупка серверов
+  GAME_ONLINE: Опубликовать онлайн игры
+  DIGITAL_STORE: Дематериализованный магазин
+  POSTMORTEM: Отчет об игре
+  NEW_GAME: Новая игра
+  TARGETTED_AUDIENCE: Целевая аудитория
+  STORY: История
+  USERINTERFACE: Пользовательский интерфейс
+  NETWORK: Сеть
+  MODDING: Моддинг
+  CUTSCENES: Вырезать сцены
+  TUTORIEL: Учебники
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Целевая рекламная кампания
+  MARKETING_CAMPAIGN_MAILINGLIST: Рекламная кампания по электронной почте
+  GAMEPORT: Портировать игру
+  UNLOCK_GAMEGENRE: Разблокировать игровой жанр
