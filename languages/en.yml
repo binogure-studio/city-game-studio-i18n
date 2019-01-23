@@ -55,6 +55,8 @@ en:
   BUTTON_HIRE_THEIR_EMPLOYE: Hire their employee
 
   # Labels, descriptive
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Game genre specialization
+  LABEL_DISCORD_COMMUNITY: Discord community
   LABEL_LAST_MONTH: Will last for %s months
   LABEL_SUCCESS_RATE: Success probability
   LABEL_RISKS: Risks involved
@@ -86,7 +88,7 @@ en:
   LABEL_CONVENTION_INCOMING: |
     Dear %s,
 
-    We are pleased to announce %s scheduled for the %s.
+    We are pleased to announce %s scheduled for %s.
 
     The convention will last 3 days, and we are waiting for %s visitors.
     You can already rent a stand to show your most beautiful creations. Hurry up, places are limited.
@@ -287,7 +289,7 @@ en:
   LABEL_NETWORK: Network
   LABEL_GRADE: Grade
   LABEL_OPTIMIZATION: Optimization
-  LABEL_OUTCOME: Outcome
+  LABEL_OUTCOME: Expenses
   LABEL_PHYSICS: Physics
   LABEL_GAME_FINISHED: Congratulations, you've completed City Game Studio
   LABEL_PLANNING: Planning
@@ -421,7 +423,7 @@ en:
   LABEL_DIFFICULTY_INSANE: Insane
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] has released a new platform: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] retire the so well known [b]%s[/b], fans are crying"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] will release a new platform within few months [b]%s[/b] it should last for years"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] will release a new platform within a few months [b]%s[/b] it should last for years"
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] announces the end of life of the so well known [b]%s[/b]"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "You have unlocked the license for the [b]%s[/b], it costs [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Platform released
@@ -543,7 +545,7 @@ en:
   LABEL_LICENSE_COST: License
   LABEL_OWNED: Owned
   LABEL_WEEK_COST: Development cost
-  LABEL_CATALOG_SIZE: Catalog size
+  LABEL_CATALOG_SIZE: Game catalog size
   LABEL_PLATFORM_LIST: Platform list
   LABEL_IDLE: Idle
   LABEL_ADOPT_CAT_DESCRIPTION: >
@@ -700,7 +702,7 @@ en:
   LABEL_FURNITURES_COMMON_BUY: >
     Time now to have a stylish office redecoration.
   LABEL_EMPLOYEES_HIRE: >
-    Your studio is growing, produces more games, improves its quality. But first, you need to recruit.
+    Your studio is growing, producing more games, improvinga its quality. But first, you need to recruit.
   LABEL_STUDIO_RENT: >
     You are now feeling boxed in your little studio, go get your next location.
   LABEL_STUDIO_BUILD: >
@@ -782,7 +784,7 @@ en:
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Buying your competitors is an easy way to win a lot of fans, as well as to expand your company.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    While you are looking at one of your studios, you can now buy new furnitures.
+    While you are looking at one of your studios, you can now buy new furniture.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     Keep in mind that the best games are produced by teams as strong in design, development and polishing.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
