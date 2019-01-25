@@ -53,8 +53,24 @@ zh:
   BUTTON_FORCE_STUDIO_SELL: 力工作室销售
   BUTTON_SPY: 间谍竞争对手
   BUTTON_HIRE_THEIR_EMPLOYE: 雇用他们的员工
+  BUTTON_SELECT: 选择
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    在[b]%s[/b]，他们知道如何管理[b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b]是他们的弱点。 他们的制作团队不够均衡。
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b]拥有一支优秀的团队，他们四面八方。
+  LABEL_REVIEW_PLATFORM_BAD: |
+    现在是[b]%s[/b]雇用更多员工的时候了。 他们没有足够的人力在[b]%s[/b]上发布[b]%s[/b]游戏。
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b]不符合他们的声誉。 我们期待更多，特别是在他们的视频游戏[b]%s[/b]之后
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b]尝试新的组合，它适用于他们。 这是一款出色的[b]%s[/b]游戏
+  LABEL_REVIEW_COMBO_BAD: |
+    这只是另一个[b]%s[/b]游戏。 他们必须学会在[b]%s[/b]更新自己
+  LABEL_CRACKED: 破解
   LABEL_SELECT_COMPANY_SPECIALIZATION: 游戏类型专业化
   LABEL_DISCORD_COMMUNITY: Discord社区
   LABEL_LAST_MONTH: 将持续%s个月
@@ -801,24 +817,24 @@ zh:
   LABEL_STUDIO_SOLD: 他们卖掉了%s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     您必须选择要强制销售的工作室
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     你必须选择你想要攻击的游戏
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     您必须选择您想招聘的员工
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     您将能够再次尝试从%s对%s采取行动
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s解锁%s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     阅读新闻和邮件
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     允许您解锁新类型的游戏
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     管理您的工作室, 升级计算机, 分配员工...
   TOOLTIP_GAMEPORT: 将视频游戏移植到另一个平台上
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     创建事后报告. 
     事后报告可帮助您创建更好的游戏
   TOOLTIP_CREATE_GAME: 制作一款新游戏
@@ -837,18 +853,18 @@ zh:
   TOOLTIP_BUILDMOD: 打印并美化您的办公室
   TOOLTIP_ASSIGN: 将员工分配到桌面
   TOOLTIP_STUDIO_SELECT: 列出你的工作室
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     宣布视频游戏. 
     创造炒作. 
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     视频游戏公司列表
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     工作室总费用.  包括租金以及维护设备的成本（例如服务器）
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     目前正在进行营销活动的费用
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     每个员工的薪水
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam 作坊
 
   # Showd when game is loading

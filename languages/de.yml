@@ -53,8 +53,24 @@ de:
   BUTTON_FORCE_STUDIO_SELL: Force Studio Verkauf
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
+  BUTTON_SELECT: Wählen
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    Bei [b]%s[/b] wissen sie, wie man den [b]%s[/b] verwaltet.
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] ist ihre Schwäche. Ihr Produktionsteam ist nicht ausgewogen genug.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] hat ein tolles Team, sie glänzen auf allen Seiten.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    Es ist Zeit für [b]%s[/b], mehr Personal einzustellen. Sie haben nicht die Manpower, um [b]%s[/b]-Spiele auf [b]%s[/b] veröffentlichen zu können.
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] ist ihrem Ruf nicht gewachsen. Wir haben mehr von ihnen erwartet, besonders nach ihrem Videospiel [b]%s[/b].
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] probiert neue Kombinationen aus, und es funktioniert für sie. Dies ist ein ausgezeichnetes [b]%s[/b]-Spiel.
+  LABEL_REVIEW_COMBO_BAD: |
+    Es ist nur ein weiteres [b]%s[/b]-Spiel. Sie müssen lernen, sich bei [b]%s[/b] zu erneuern.
+  LABEL_CRACKED: Gerissen
   LABEL_SELECT_COMPANY_SPECIALIZATION: Spezialisierung auf Spielgenres
   LABEL_DISCORD_COMMUNITY: Discord Community
   LABEL_LAST_MONTH: Hält %s Monate lang an.
@@ -316,7 +332,7 @@ de:
   LABEL_THEME_MOVIE_ADAPTATION: Film-Adaption
   LABEL_THEME_PREHISTORY: Urzeit
   LABEL_THEME_ARCHEOLOGY: Archäologie
-  LABEL_THEME_POSTAPOCALYPTIC: Post-Apokalyptisch
+  LABEL_THEME_POSTAPOCALYPTIC: Post Apokalyptisch
   LABEL_THEME_ATLANTIS: Atlantis
   LABEL_THEME_RELIGIOUS: Religion
   LABEL_THEME_ORGANIZED_CRIME: Organisiertes Verbrechen
@@ -874,24 +890,24 @@ de:
   LABEL_STUDIO_SOLD: Sie haben %s verkauft.
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Du musst das Studio auswählen, dessen Verkauf du erzwingen möchtest.
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Du musst das Spiel auswählen, das du hacken möchtest.
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     Sie müssen den Mitarbeiter auswählen, den Sie einstellen möchten.
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Du kannst eine Aktion gegen %s von %s erneut versuchen.
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s zum Entsperren von %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Lies die News und deine Mail.
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Ermöglicht es dir, neue Arten von Spielen freizuschalten.
-  TOOLTIP_MANAGE_STUDIO: >
-    Um Ihre Studios zu verwalten, Computer aufzurüsten, Mitarbeiter zuzuweisen.....
+  TOOLTIP_MANAGE_STUDIO: |
+    Um Ihre Studios zu verwalten, Computer aufzurüsten, Mitarbeiter zuzuweisen...
   TOOLTIP_GAMEPORT: Portiere ein Videospiel auf eine andere Plattform
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Erstelle einen Spiele-Bericht. Ein Spiele-Bericht hilft dir, aus deinen
     Spielen zu lernen und bessere Spiele zu erstellen
   TOOLTIP_CREATE_GAME: Erstelle ein neues Spiel
@@ -910,19 +926,19 @@ de:
   TOOLTIP_BUILDMOD: Streiche und verschönere dein Studio
   TOOLTIP_ASSIGN: Weise den Angestellten einem Schreibtisch zu
   TOOLTIP_STUDIO_SELECT: Studio wechseln
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     Kündigen das Videospiel an.
     Erzeugt Hype!
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Liste der Videospielunternehmen
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Gesamte Studiokosten. Inklusive Miete sowie die Kosten
     für die Wartung der Geräte (z.B. Server).
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Kosten der laufenden Marketingkampagnen
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Gehalt jedes Mitarbeiters
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading

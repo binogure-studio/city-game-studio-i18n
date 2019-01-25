@@ -53,8 +53,24 @@ es:
   BUTTON_FORCE_STUDIO_SELL: Fuerza venta de estudio
   BUTTON_SPY: Espiar a un competidor
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar a su empleado
+  BUTTON_SELECT: Seleccionar
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    En [b]%s[/b] saben cómo gestionar el [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] es su debilidad. Su equipo de producción no está suficientemente equilibrado.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] tiene un gran equipo, brillan por todos lados.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    Es hora de que [b]%s[/b] contrate más personal. No tienen la mano de obra para poder publicar juegos [b]%s[/b] en [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] no está a la altura de su reputación. Esperábamos más de ellos, especialmente después de su videojuego [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] prueba nuevos combos, y funciona para ellos. Este es un excelente juego de [b]%s[/b]
+  LABEL_REVIEW_COMBO_BAD: |
+    Es sólo otro juego de [b]%s[/b]. Deben aprender a renovarse en [b]%s[/b]
+  LABEL_CRACKED: Rajado
   LABEL_SELECT_COMPANY_SPECIALIZATION: Especialización en el género de los juegos
   LABEL_DISCORD_COMMUNITY: Comunidad discord
   LABEL_LAST_MONTH: Durará %s meses
@@ -883,24 +899,24 @@ es:
   LABEL_STUDIO_SOLD: Han vendido %s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Debe seleccionar el estudio cuya venta desea forzar
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Debes seleccionar el juego que quieres piratear
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     Debe seleccionar el empleado que desea contratar
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Podrás intentar de nuevo una acción contra %s de %s
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s para desbloquear %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Lea las noticias y su correo.
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Te permite desbloquear nuevos tipos de juegos.
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     Para gestionar sus estudios, actualiza ordenadores, asignar empleados...
   TOOLTIP_GAMEPORT: Portear un videojuego a otra plataforma.
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Crear un informe del desarrollo.
     Un informe del desarrollo te ayuda
     a crear mejores juegos
@@ -912,7 +928,7 @@ es:
   TOOLTIP_EXIT: Volver a Linux
   TOOLTIP_STUDIOS: Lista tus estudios
   TOOLTIP_STUDIOLIST: Lista de oficinas disponibles en la ciudad.
-  TOOLTIP_CONSTRUCT: >
+  TOOLTIP_CONSTRUCT: |
     Construye un nuevo edificio para 
     una oficina o para
     organizar una convención.
@@ -923,19 +939,19 @@ es:
   TOOLTIP_BUILDMOD: Pinta y embellece tu oficina
   TOOLTIP_ASSIGN: Asignar empleado a escritorio
   TOOLTIP_STUDIO_SELECT: Lista tus estudios
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     Anuncie el videojuego.
     Genera un despliegue publicitario.
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Lista de empresas de videojuegos
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Costos totales del estudio. Incluyendo el alquiler así como el
     coste de mantenimiento del equipo (para servidores por ejemplo).
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Costos de las campañas de marketing en curso
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Salario de cada empleado
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading

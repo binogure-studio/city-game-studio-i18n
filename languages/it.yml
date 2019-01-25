@@ -53,8 +53,24 @@ it:
   BUTTON_FORCE_STUDIO_SELL: Forza vendita studio
   BUTTON_SPY: Spiare un concorrente
   BUTTON_HIRE_THEIR_EMPLOYE: Assumere il loro dipendente
+  BUTTON_SELECT: Selezionare
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    A [b]%s[/b] sanno come gestire il [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] è la loro debolezza. Il loro gruppo di produzione non è sufficientemente equilibrato.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] ha una grande squadra, brillano su tutti i lati.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    È tempo per [b]%s[/b] di assumere più personale. Non hanno la forza lavoro per poter pubblicare i giochi [b]%s[/b] su [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] non è all'altezza della loro reputazione. Ci aspettavamo di più da loro, soprattutto dopo il loro videogioco [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] tenta novos combos, e funciona para eles. Este é um excelente jogo de [b]%s[/b]
+  LABEL_REVIEW_COMBO_BAD: |
+    É apenas mais um jogo [b]%s[/b]. Eles devem aprender a se renovar no [b]%s[/b]
+  LABEL_CRACKED: Incrinato
   LABEL_SELECT_COMPANY_SPECIALIZATION: Specializzazione dei generi di gioco
   LABEL_DISCORD_COMMUNITY: Discord comunità
   LABEL_LAST_MONTH: Durerà per %s mesi
@@ -316,7 +332,7 @@ it:
   LABEL_THEME_MOVIE_ADAPTATION: Adattamento cinematografico
   LABEL_THEME_PREHISTORY: Preistoria
   LABEL_THEME_ARCHEOLOGY: Archeologia
-  LABEL_THEME_POSTAPOCALYPTIC: Post-apocalittico
+  LABEL_THEME_POSTAPOCALYPTIC: Post apocalittico
   LABEL_THEME_ATLANTIS: Atlantide
   LABEL_THEME_RELIGIOUS: Religioso
   LABEL_THEME_ORGANIZED_CRIME: Criminalità organizzata
@@ -850,24 +866,24 @@ it:
   LABEL_STUDIO_SOLD: Hanno venduto %s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     È necessario selezionare lo studio di cui si vuole forzare la vendita.
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     È necessario selezionare il gioco che si desidera hackerare
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     È necessario selezionare il dipendente che si desidera reclutare
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Sarete in grado di provare di nuovo un'azione contro %s da %s.
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s per sbloccare %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Leggi le notizie e la tua mail
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Permette di sbloccare nuovi tipi di giochi
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     Per gestire i vostri studi, aggiornare i computer, assegnare i dipendenti.....
   TOOLTIP_GAMEPORT: Porta un gioco su altre piattaforme
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Crea un resoconto post-mortem.
     I resoconti post-mortem ti aiutano a creare giochi migliori.
   TOOLTIP_CREATE_GAME: Crea un nuovo gioco
@@ -878,7 +894,7 @@ it:
   TOOLTIP_EXIT: Torna a Linux
   TOOLTIP_STUDIOS: Lista dei tuoi studi
   TOOLTIP_STUDIOLIST: Lista degli uffici disponibili in città
-  TOOLTIP_CONSTRUCT: >
+  TOOLTIP_CONSTRUCT: |
     Crea un nuovo edificio
     come ufficio o per
     organizzare una convention
@@ -889,19 +905,19 @@ it:
   TOOLTIP_BUILDMOD: Dipingi e abbellisci il tuo ufficio
   TOOLTIP_ASSIGN: Assegna un impiegato alla scrivania
   TOOLTIP_STUDIO_SELECT: Lista dei tuoi studi
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     Annuncia il videogioco.
     Crea hype.
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Elenco delle aziende di videogiochi
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Custos totais do estúdio. Incluindo aluguel, bem como o custo
     de manutenção do equipamento (para servidores, por exemplo)
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Custos das campanhas de marketing em curso
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Salário de cada empregado
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading

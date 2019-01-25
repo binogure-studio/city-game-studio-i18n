@@ -48,14 +48,30 @@ fr:
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Rapport de bug
   BUTTON_FEEDBACK: Suggestions
+  BUTTON_SELECT: Sélectionner
   DROPDOWN_LANGUAGE: Langues
-
   BUTTON_CRACK_GAME: Pirater un jeu
   BUTTON_FORCE_STUDIO_SELL: Forcer la vente d'un studio
   BUTTON_SPY: Espionner
   BUTTON_HIRE_THEIR_EMPLOYE: Débaucher un employé
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    Chez [b]%s[/b] ils savent gérer le [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b], c'est leur point faible. Leur équipe de production n'est pas suffisament équilibrée.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] a une super équipe, ils brillent sur tous les tableaux.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    Il serait temps pour [b]%s[/b] d'embaucher plus de personnel.
+    Ils n'ont pas la main d'oeuvre nécessaire pour pouvoir publier des jeux [b]%s[/b] sur [b]%s[/b]
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] n'est pas à la hauteur de leur réputation. On en attendait plus surtout après avoir fait un jeu comme [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    On ne voit pas souvent des jeux [b]%s[/b], on peut dire que ça réussit à [b]%s[/b]!
+  LABEL_REVIEW_COMBO_BAD: |
+    Encore un [b]%s[/b]. Il faut qu'ils apprennent a se renouveler chez [b]%s[/b]
+  LABEL_CRACKED: Cracké
   LABEL_SELECT_COMPANY_SPECIALIZATION: Spécialisation dans le genre de jeu
   LABEL_DISCORD_COMMUNITY: Communauté discord
   LABEL_LAST_MONTH: Durera %s mois
@@ -338,7 +354,7 @@ fr:
   LABEL_THEME_MOVIE_ADAPTATION: Adaptation de film
   LABEL_THEME_PREHISTORY: Pré-histoire
   LABEL_THEME_ARCHEOLOGY: Archéologie
-  LABEL_THEME_POSTAPOCALYPTIC: Post-apocalyptique
+  LABEL_THEME_POSTAPOCALYPTIC: Post apocalyptique
   LABEL_THEME_ATLANTIS: Atlantide
   LABEL_THEME_RELIGIOUS: Religieux
   LABEL_THEME_ORGANIZED_CRIME: Crime organisé
@@ -857,34 +873,33 @@ fr:
   LABEL_STUDIO_SOLD: Ils ont vendu %s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Vous devez sélectionner le studio dont vous voulez forcer la vente
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Vous devez sélectionner le jeu que vous voulez pirater
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     Vous devez sélectionner l'employé que vous souhaiter débaucher
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Vous pourrez de nouveau tenter une action contre %s à partir du %s
-
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     Vous devez avoir %s pour débloquer %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Contient les dernières actualités ainsi que votre courrier
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Permet de débloquer de nouveaux genres de jeu.
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     Permet de gérer vos studios, mettre à jour les ordinateurs, assigner les employés...
   TOOLTIP_GAMEPORT: Porter un de vos jeux sur une autre plateforme
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Faire un post-mortem
     Un post-mortem vous permet de mieux
     jauger les jeux que vous voulez créer
   TOOLTIP_CREATE_GAME: Créer un nouveau jeu
   TOOLTIP_STAFF: Consulter la liste de vos employés
-  TOOLTIP_RECRUIT: >
+  TOOLTIP_RECRUIT: |
     Lister les candidats potentiels
     disponibles sur le marché
-  TOOLTIP_PORTFOLIO: >
+  TOOLTIP_PORTFOLIO: |
     Lister la liste des jeux que
     vous avez publié depuis la
     création de votre studio
@@ -892,31 +907,31 @@ fr:
   TOOLTIP_EXIT: Retourner sur Linux
   TOOLTIP_STUDIOS: Lister vos studios
   TOOLTIP_STUDIOLIST: Lister les bureaux disponibles sur le marché
-  TOOLTIP_CONSTRUCT: >
+  TOOLTIP_CONSTRUCT: |
     Construire un batiment pour en faire un
     studio ou encore une salle de conférence
   TOOLTIP_CONFERENCE: Participer ou organiser des conférences
   TOOLTIP_MARKETING: Organiser des campagnes publicitaires
   TOOLTIP_SELL: Vendre votre studio
   TOOLTIP_SHOP: Acheter des meubles et autres fournitures
-  TOOLTIP_BUILDMOD: >
+  TOOLTIP_BUILDMOD: |
     Refaire la peinture,
     les sols et embelir votre studio
   TOOLTIP_ASSIGN: Assigner vos employés à un bureau
   TOOLTIP_STUDIO_SELECT: Lister vos studios
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     Annoncer le jeu au grand public.
     Génère de l'engouement.
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Liste les compagnies de jeux vidéo
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Coûts total des studios. Cela inclut le prix du loyer ainsi que
     le coût d'entretien du matériel (pour les serveurs par exemple)
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Coûts des campagnes marketing actuellement en cours
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Salaire de chaque employé
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Mod du workshop de steam
 
   # Showd when game is loading

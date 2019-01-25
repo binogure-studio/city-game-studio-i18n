@@ -53,8 +53,24 @@ en:
   BUTTON_FORCE_STUDIO_SELL: Force a studio sale
   BUTTON_SPY: Spy on a competitor
   BUTTON_HIRE_THEIR_EMPLOYE: Hire their employee
+  BUTTON_SELECT: Select
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    At [b]%s[/b] they know how to manage the [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] is their weakness. Their production team is not sufficiently balanced.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] has a great team, they shine on all sides.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    It is time for [b]%s[/b] to hire more staff. They do not have the manpower to be able to publish [b]%s[/b] games on [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] is not up to their reputation. We expected more from them, especially after their video game [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] tries new combos, and it works for them. This is an excellent [b]%s[/b] game
+  LABEL_REVIEW_COMBO_BAD: |
+    It is just another [b]%s[/b] game. They must learn to renew themselves at [b]%s[/b]
+  LABEL_CRACKED: Cracked
   LABEL_SELECT_COMPANY_SPECIALIZATION: Game genre specialization
   LABEL_DISCORD_COMMUNITY: Discord community
   LABEL_LAST_MONTH: Will last for %s months
@@ -317,7 +333,7 @@ en:
   LABEL_THEME_MOVIE_ADAPTATION: Movie adaptation
   LABEL_THEME_PREHISTORY: Prehistory
   LABEL_THEME_ARCHEOLOGY: Archeology
-  LABEL_THEME_POSTAPOCALYPTIC: Post-apocalyptic
+  LABEL_THEME_POSTAPOCALYPTIC: Post apocalyptic
   LABEL_THEME_ATLANTIS: Atlantis
   LABEL_THEME_RELIGIOUS: Religious
   LABEL_THEME_ORGANIZED_CRIME: Organized crime
@@ -857,24 +873,24 @@ en:
   LABEL_STUDIO_SOLD: They've sold %s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     You must select the studio whose sale you want to force
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     You must select the game you want to hack
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     You must select the employee you wish to recruit
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     You will be able to try again an action against %s from %s
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s to unlock %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Read the news and your mail
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Allows you to unlock new types of games.
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     To manage your studios, upgrade computers, assign employees...
   TOOLTIP_GAMEPORT: Port a video game onto another platform
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Create a postmortem report.
     A postmortem report help
     you create better games
@@ -886,7 +902,7 @@ en:
   TOOLTIP_EXIT: Back to Linux
   TOOLTIP_STUDIOS: List your studios
   TOOLTIP_STUDIOLIST: List offices available in town
-  TOOLTIP_CONSTRUCT: >
+  TOOLTIP_CONSTRUCT: |
     Make a new building for
     an office or to
     host a convention
@@ -897,19 +913,19 @@ en:
   TOOLTIP_BUILDMOD: Peint and beautify your office
   TOOLTIP_ASSIGN: Assign employee to desk
   TOOLTIP_STUDIO_SELECT: List your studios
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     Announce the video game.
     Creates hype.
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     List of video game companies
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Total studio costs. Including rent as well as the cost of
     maintaining the equipment (for servers for example)
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Costs of marketing campaigns currently underway
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Salary of each employee
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading

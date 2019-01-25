@@ -53,8 +53,24 @@ pt:
   BUTTON_FORCE_STUDIO_SELL: Venda de estúdios de força
   BUTTON_SPY: Espie um concorrente
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar o seu empregado
+  BUTTON_SELECT: Selecione
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    Na [b]%s[/b] eles sabem como gerenciar o [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] é a sua fraqueza. A sua equipa de produção não é suficientemente equilibrada.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    A [b]%s[/b] tem uma grande equipa, eles brilham por todos os lados.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    É tempo de a [b]%s[/b] contratar mais pessoal. Eles não têm mão de obra para poder publicar jogos [b]%s[/b] em [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: |
+    A [b]%s[/b] não está à altura da sua reputação. Esperávamos mais deles, especialmente depois de seu videogame [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] tenta novos combos, e funciona para eles. Este é um excelente jogo de [b]%s[/b]
+  LABEL_REVIEW_COMBO_BAD: |
+    É apenas mais um jogo [b]%s[/b]. Eles devem aprender a se renovar no [b]%s[/b]
+  LABEL_CRACKED: Rachado
   LABEL_SELECT_COMPANY_SPECIALIZATION: Especialização em gênero de jogos
   LABEL_DISCORD_COMMUNITY: Comunidade Discord
   LABEL_LAST_MONTH: Vai durar %s meses
@@ -880,30 +896,30 @@ pt:
   LABEL_STUDIO_SOLD: Eles venderam %s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Você deve selecionar o estúdio cuja venda você deseja forçar
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Você deve selecionar o jogo que deseja hackear
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     É necessário selecionar o empregado a ser recrutado
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Você poderá tentar novamente uma ação contra %s do %s
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s para desbloquear %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Leia as notícias e o seu e-mail
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Permite-lhe desbloquear novos tipos de jogos
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     Para gerir os seus estúdios, actualizar computadores, atribuir empregados...
   TOOLTIP_GAMEPORT: Portar um videogame para outra plataforma
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Crie um relatório postmortem.
     Um relatório pós-morte ajuda você
     a criar jogos melhores
   TOOLTIP_CREATE_GAME: Crie um novo jogo
   TOOLTIP_STAFF: Lista pessoal
-  TOOLTIP_RECRUIT: >
+  TOOLTIP_RECRUIT: |
     Listar possíveis candidatos
     disponíveis na cidade
   TOOLTIP_PORTFOLIO: Liste todo o jogo que você fez até agora
@@ -911,31 +927,31 @@ pt:
   TOOLTIP_EXIT: De volta ao Linux
   TOOLTIP_STUDIOS: Listar seus estúdios
   TOOLTIP_STUDIOLIST: Listar escritórios disponíveis na cidade
-  TOOLTIP_CONSTRUCT: >
+  TOOLTIP_CONSTRUCT: |
     Faça um novo prédio para um escritório
     ou para uma convenção
   TOOLTIP_CONFERENCE: Gerenciar convenções
   TOOLTIP_MARKETING: Gerenciar suas campanhas de marketing
   TOOLTIP_SELL: Venda seu escritório
-  TOOLTIP_SHOP: >
+  TOOLTIP_SHOP: |
     Compre móveis e outras coisas
     para o seu escritório
   TOOLTIP_BUILDMOD: Imprima e embeleze seu escritório
   TOOLTIP_ASSIGN: Atribuir funcionário à mesa
   TOOLTIP_STUDIO_SELECT: Listar seus estúdios
-  TOOLTIP_ANNOUNCE_GAME: >
+  TOOLTIP_ANNOUNCE_GAME: |
     Anuncie o video game.
     Cria hype.
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Lista de empresas de videogames
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Custos totais do estúdio. Incluindo aluguel, bem como o custo
     de manutenção do equipamento (para servidores, por exemplo)
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Custos das campanhas de marketing em curso
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Salário de cada empregado
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading

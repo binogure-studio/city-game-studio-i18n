@@ -52,8 +52,24 @@ ru:
   BUTTON_FORCE_STUDIO_SELL: Продажа силовой студии
   BUTTON_SPY: Шпионить за конкурентом.
   BUTTON_HIRE_THEIR_EMPLOYE: нанять своего работника
+  BUTTON_SELECT: Выбрать
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    В [b]%s[/b] они знают, как управлять [b]%s[/b].
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] - это их слабость. Их производственная команда недостаточно сбалансирована.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    У [b]%s[/b] отличная команда, они сияют со всех сторон.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    Настало время для [b]%s[/b] нанять больше сотрудников. У них нет достаточного количества персонала для публикации игр [b]%s[/b] на [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] не зависит от их репутации. Мы ожидали от них большего, особенно после их видеоигры [b]%s[/b].
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] пробует новые комбо, и это работает на них. Это отличная игра [b]%s[/b]
+  LABEL_REVIEW_COMBO_BAD: |
+    Это просто очередная игра в [b]%s[/b]. Они должны научиться обновляться в [b]%s[/b].
+  LABEL_CRACKED: треснувший
   LABEL_SELECT_COMPANY_SPECIALIZATION: Специализация игрового жанра
   LABEL_DISCORD_COMMUNITY: Cообщество Discord
   LABEL_LAST_MONTH: будет длиться %s месяцев.
@@ -328,7 +344,7 @@ ru:
   LABEL_THEME_MOVIE_ADAPTATION: Приближений к фильму
   LABEL_THEME_PREHISTORY: Предыстория
   LABEL_THEME_ARCHEOLOGY: Археология
-  LABEL_THEME_POSTAPOCALYPTIC: Пост-апокалиптический
+  LABEL_THEME_POSTAPOCALYPTIC: Пост апокалиптический
   LABEL_THEME_ATLANTIS: Атлантида
   LABEL_THEME_RELIGIOUS: Религиозный
   LABEL_THEME_ORGANIZED_CRIME: Преступники
@@ -872,22 +888,22 @@ ru:
   LABEL_STUDIO_SOLD: Они продали %s.
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Вы должны выбрать студию, продажу которой вы хотите принудительно продать.
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Вы должны выбрать игру, которую хотите взломать.
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     Вы должны выбрать сотрудника, которого хотите нанять.
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Вы сможете попробовать еще раз действие против %s от %s.
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s для разблокировки %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Читай новости и свою почту.  
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Позволяет разблокировать новые типы игр.  
-  TOOLTIP_MANAGE_STUDIO: >
-    Для управления студиями, обновления компьютеров, назначения сотрудников....
+  TOOLTIP_MANAGE_STUDIO: |
+    Для управления студиями, обновления компьютеров, назначения сотрудников...
   TOOLTIP_GAMEPORT: Портируйте видеоигру на другую платформу
   TOOLTIP_POSTMORTEM: Создайте отчет .Отчет поможет вам создать лучшие игры
   TOOLTIP_CREATE_GAME: Создать новую игру
@@ -907,16 +923,16 @@ ru:
   TOOLTIP_ASSIGN: Назначить сотрудника за стол
   TOOLTIP_STUDIO_SELECT: Список ваших студий
   TOOLTIP_ANNOUNCE_GAME: Анонс видеоигр создает ажиотаж
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Список компаний видеоигры
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Суммарные студийные расходы. Включая арендную плату, а также
     расходы на техническое обслуживание оборудования (например, серверов).
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Расходы на маркетинговые кампании, проводимые в настоящее время
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Заработная плата каждого работника
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Мастерская Steam
 
   # Showd when game is loading

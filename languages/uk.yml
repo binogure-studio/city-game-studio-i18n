@@ -52,8 +52,24 @@ uk:
   BUTTON_FORCE_STUDIO_SELL: Силова студія продажу
   BUTTON_SPY: Шпигун на конкурента
   BUTTON_HIRE_THEIR_EMPLOYE: Наймайте свого працівника
+  BUTTON_SELECT: Виберіть
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    У [b]%s[/b] вони знають, як керувати [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] - це їхня слабкість. Їх виробнича команда недостатньо збалансована.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] має чудову команду, вони блищать з усіх боків.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    Пора [b]%s[/b] наймати більше персоналу. Вони не мають робочої сили, щоб мати можливість публікувати ігри [b]%s[/b] на [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] не відповідає їхній репутації. Ми очікували від них більше, особливо після їх відеоігор [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] пробує нові комбо, і він працює для них. Це відмінна гра [b]%s[/b]
+  LABEL_REVIEW_COMBO_BAD: |
+    Це просто ще одна гра [b]%s[/b]. Вони повинні навчитися оновлювати себе в [b]%s[/b]
+  LABEL_CRACKED: тріснутий
   LABEL_SELECT_COMPANY_SPECIALIZATION: Спеціалізація жанру гри
   LABEL_DISCORD_COMMUNITY: Discord спільноту
   LABEL_LAST_MONTH: Триватиме %s місяців
@@ -841,21 +857,21 @@ uk:
   LABEL_STUDIO_SOLD: Вони продали %s
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Ви повинні вибрати студію, продаж якої ви хочете змусити
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Ви повинні вибрати гру, яку ви хочете зламати
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     Ви повинні вибрати працівника, якого ви бажаєте набрати
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Ви знову зможете спробувати дію проти %s від %s
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s для розблокування %s
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Читайте новини та пошту
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Дозволяє розблокувати нові типи ігор
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     Щоб керувати своїми студіями, оновлювати комп'ютери, призначати співробітників...
   TOOLTIP_GAMEPORT: Порт відеоігри на іншу платформу
   TOOLTIP_POSTMORTEM: Створіть звіт.Звіт допоможе створити кращі ігри
@@ -876,16 +892,16 @@ uk:
   TOOLTIP_ASSIGN: Призначити працівника на стіл
   TOOLTIP_STUDIO_SELECT: Список ваших студій
   TOOLTIP_ANNOUNCE_GAME: Анонс відеоігро створює ажіотаж
-  TOOLTIP_CONCURRENT: >
+  TOOLTIP_CONCURRENT: |
     Список компаній відеоігор
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Загальна вартість студії. Включаючи орендну плату, а також
     вартість обслуговування обладнання (наприклад, для серверів)
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     В даний час відбуваються витрати на маркетингові кампанії
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Зарплата кожного працівника
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading

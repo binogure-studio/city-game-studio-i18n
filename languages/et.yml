@@ -53,8 +53,24 @@ et:
   BUTTON_FORCE_STUDIO_SELL: Force stuudio müük
   BUTTON_SPY: Spioon võistleja kohta
   BUTTON_HIRE_THEIR_EMPLOYE: Palgata oma töötaja
+  BUTTON_SELECT: Valige
 
   # Labels, descriptive
+  LABEL_POINTRATIO_GOOD: |
+    Kell [b]%s[/b] nad teavad, kuidas [b]%sit[/b] hallata
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] on nende nõrkus. Nende tootmise meeskond ei ole piisavalt tasakaalus.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b]'l on suurepärane meeskond, nad paistavad kõikjal.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    [b]%s[/b] on aeg palgata rohkem töötajaid. Neil ei ole tööjõudu, mis võimaldaks [b]%s[/b] mänge [b]%sis[/b] avaldada.
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] ei vasta nende mainele. Me ootasime neilt rohkem, eriti pärast videomängu [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] proovib uusi kombinatsioone ja see töötab nende jaoks. See on suurepärane [b]%s[/b] mäng
+  LABEL_REVIEW_COMBO_BAD: |
+    See on lihtsalt teine [b]%s[/b] mäng. Nad peavad õppima ennast [b]%s[/b]'is uuendama
+  LABEL_CRACKED: Krakitud
   LABEL_SELECT_COMPANY_SPECIALIZATION: Mängu žanri spetsialiseerumine
   LABEL_DISCORD_COMMUNITY: Discordi kogukond
   LABEL_LAST_MONTH: Kestab %s kuud
@@ -314,7 +330,7 @@ et:
   LABEL_THEME_MOVIE_ADAPTATION: Filmi kohanemine
   LABEL_THEME_PREHISTORY: Eelajalooline
   LABEL_THEME_ARCHEOLOGY: Arheoloogia
-  LABEL_THEME_POSTAPOCALYPTIC: Post-apokalüptiline
+  LABEL_THEME_POSTAPOCALYPTIC: Post apokalüptiline
   LABEL_THEME_ATLANTIS: Atlantis
   LABEL_THEME_RELIGIOUS: Usklik
   LABEL_THEME_ORGANIZED_CRIME: Organiseeritud kuritegevus
@@ -839,24 +855,24 @@ et:
 
 
   # Tooltips
-  TOOLTIP_FORCE_STUDIO: >
+  TOOLTIP_FORCE_STUDIO: |
     Peate valima stuudio, mille müüki soovite jõustada
-  TOOLTIP_CRACK_GAME: >
+  TOOLTIP_CRACK_GAME: |
     Peate valima mängu, mida soovite häkkida
-  TOOLTIP_HIRE_STAFF: >
+  TOOLTIP_HIRE_STAFF: |
     Peate valima töötaja, keda soovite värbada
-  TOOLTIP_CONCURRENT_LOCKED: >
+  TOOLTIP_CONCURRENT_LOCKED: |
     Sul on võimalik proovida uuesti %si %s vastu
-  TOOLTIP_TUTORIEL: >
+  TOOLTIP_TUTORIEL: |
     %s %si avamiseks
-  TOOLTIP_EMAIL: >
+  TOOLTIP_EMAIL: |
     Lugege uudiseid ja postitust
-  TOOLTIP_UNLOCK_GAME_GENRE: >
+  TOOLTIP_UNLOCK_GAME_GENRE: |
     Võimaldab teil avada uut tüüpi mänge
-  TOOLTIP_MANAGE_STUDIO: >
+  TOOLTIP_MANAGE_STUDIO: |
     Et juhtida oma stuudioid, uuendada arvutid, määrata töötajaid...
   TOOLTIP_GAMEPORT: Pange videomäng teisele platvormile
-  TOOLTIP_POSTMORTEM: >
+  TOOLTIP_POSTMORTEM: |
     Loo postmortemi aruanne.Ajutine aruanne aitabsa loote paremaid mänge
   TOOLTIP_CREATE_GAME: Loo uus mäng
   TOOLTIP_STAFF: Töötajate nimekiri
@@ -876,14 +892,14 @@ et:
   TOOLTIP_STUDIO_SELECT: Lisage oma stuudiod
   TOOLTIP_ANNOUNCE_GAME: Kuulutage videomängu.Loob hype.
   TOOLTIP_CONCURRENT: Videomängu ettevõtted
-  TOOLTIP_STUDIO_COST: >
+  TOOLTIP_STUDIO_COST: |
     Kokku stuudio kulud. Sealhulgas rentimine ja
     varustuse hooldamise kulud (nt serverite jaoks)
-  TOOLTIP_MARKETING_COST: >
+  TOOLTIP_MARKETING_COST: |
     Praegu käimasolevate turunduskampaaniate kulud
-  TOOLTIP_SALARY_COST: >
+  TOOLTIP_SALARY_COST: |
     Iga töötaja palk
-  TOOLTIP_STEAM_MODS: >
+  TOOLTIP_STEAM_MODS: |
     Steam workshop
 
   # Showd when game is loading
