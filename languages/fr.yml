@@ -72,11 +72,11 @@ fr:
     Il serait temps pour [b]%s[/b] d'embaucher plus de personnel.
     Ils n'ont pas la main d'oeuvre nécessaire pour pouvoir publier des jeux [b]%s[/b] sur [b]%s[/b]
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b] n'est pas à la hauteur de leur réputation. On en attendait plus surtout après avoir fait un jeu comme [b]%s[/b]
+    [b]%s[/b] n'est pas à la hauteur de leur réputation. On en attendait plus, surtout après avoir fait un jeu comme [b]%s[/b]
   LABEL_REVIEW_COMBO_GOOD: |
     On ne voit pas souvent des jeux [b]%s[/b], on peut dire que ça réussit à [b]%s[/b]!
   LABEL_REVIEW_COMBO_BAD: |
-    Encore un [b]%s[/b]. Il faut qu'ils apprennent a se renouveler chez [b]%s[/b]
+    Encore un [b]%s[/b]. Il faut qu'ils apprennent à se renouveler chez [b]%s[/b]
   LABEL_CRACKED: Cracké
   LABEL_SELECT_COMPANY_SPECIALIZATION: Spécialisation dans le genre de jeu
   LABEL_DISCORD_COMMUNITY: Communauté discord
@@ -87,13 +87,13 @@ fr:
   LABEL_SALES_HITS_DESCRIPTION: |
     Salut %s,
 
-    Je sais a quel point tu aimes mes courriels.
+    Je sais à quel point tu aimes mes courriels.
     Alors voilà, puisqu'on peut observer de bonnes ventes, j'ai fait des calculs et aujourd'hui on va parler des ventes de %s
 
     %s
 
     Cordialement
-    Binogure
+    Binogure.
   LABEL_SALES_HITS_0: >
     Les ventes [b]%s[/b] se portent bien, j'estime que cela va améliorer les ventes de [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
@@ -169,7 +169,7 @@ fr:
   LABEL_AUTO_ASSIGN_STAFF: Assigner les employés
   LABEL_UPGRADE_COMPUTER: Mise à niveau des ordinateurs
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Vous devez avoir au minimum [b]3[/b] personnes travaillant dans un studio pour pouvoir répondre a une offre d'éditeur.
+    Vous devez avoir au minimum [b]3[/b] personnes travaillant dans un studio pour pouvoir répondre à une offre d'éditeur.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     À l'intention de [b]%s[/b] (%s),
@@ -204,16 +204,16 @@ fr:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
     
-    Je me présente [b]%s[/b], j'adore [b]%s[/b] et je souhaiterai rejoindre votre équipe au plus vite.
-    Je saurai me montrer efficace et apporterai de nouvelles connaissances a vos équipes.
+    Je me présente [b]%s[/b], j'adore [b]%s[/b] et je souhaiterais rejoindre votre équipe au plus vite.
+    Je saurais me montrer efficace et apporterai de nouvelles connaissances a vos équipes.
 
     Merci pour votre temps,
     [b]%s[/b]
-  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Candidature spontannée
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Candidature spontanée
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Bonjour,
 
-    La présente a pour objet de vous faire que je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
+    Par la présente lettre, je démissionne de mon poste chez [b]%s[/b] dès aujourd'hui.
     Mon départ s'explique par le fait que j'ai trouvé un nouvel emploi plus près de chez moi, et dans une entreprise plus attrayante.
 
     J'ai beaucoup apprécié les années passées a travailler avec vous, vous me manquerez tous!
@@ -222,9 +222,9 @@ fr:
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Démission
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
-    Vous ne possédez aucun studio permettant de créer un jeu de taille normal ou plus grand.
+    Vous ne possédez aucun studio permettant de créer un jeu de taille normale ou plus grande.
   LABEL_NO_FAN_BIG_GAME: >
-    Pour créer un jeu de taille normal ou plus grand, il est recommandé d'avoir au minimum [b]%s[/b] de fans, sinon cela aura un impact sur les ventes
+    Pour créer un jeu de taille normale ou plus grande, il est recommandé d'avoir au minimum [b]%s[/b] de fans, sinon cela aura un impact sur les ventes
   LABEL_CONCURRENT_AMOUNT: Nombre de concurrents
   LABEL_YES: Oui
   LABEL_NO: Non
@@ -247,9 +247,9 @@ fr:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Les fans ont hâte d'y être et nous aussi!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Les fans sont mitigés, on peut déjà voir les plumes des critiques s'aiguisés
+    Les fans sont mitigés, on peut déjà voir les plumes des critiques s'aiguiser.
 
-    Il faut dire qu'ils ont sortis un jeu similaire il n'y pas si longtemps que ça.
+    Il faut dire qu'ils ont sorti un jeu similaire il n'y pas si longtemps que ça.
   LABEL_GAME_ANNOUNCED_TITLE: "%s annoncé"
   LABEL_TRENDING: Tendance
   LABEL_CREATOR: Créé par
@@ -277,7 +277,7 @@ fr:
   LABEL_HYPE: Battage publicitaire
   LABEL_AI: Intelligence artificielle
   LABEL_ANIMATION: Animation
-  LABEL_ANISOTROPIC_FILTER: Filtre anisotropic
+  LABEL_ANISOTROPIC_FILTER: Filtre anisotropique
   LABEL_BUILDING_LEASE: Loyer
   LABEL_TYPE_BUILDING: Type
   LABEL_CHARACTERS: Personnages
@@ -285,7 +285,7 @@ fr:
   LABEL_CUTSCENES: Scènes coupées
   LABEL_CURRENCY: Argent
   LABEL_DESIGN: Design
-  LABEL_DEVELOPMENT: Developpement
+  LABEL_DEVELOPMENT: Développement
   LABEL_DIFFICULTY: Difficulté
   LABEL_EVENT_TYPE: Type d'évènement
   LABEL_UNIT_SOLD: Ventes
@@ -355,12 +355,12 @@ fr:
     Certains succès du monde des jeux vidéo viennent directement du monde du cinéma.
     Afin d'être plus immersif, le monde du jeu vidéo veut désormais des scènes coupées
   LABEL_CAPACITY_TUTORIEL_FEATURE: >
-    Jouer a un nouveau jeu, c'est aussi apprendre a jouer a un nouveau jeu.
-    Cela peut s'avérer ardu et c'est la tache qui vous ait confiée, vous devez maintenant gérer les tutoriels pour vos créations
+    Jouer a un nouveau jeu, c'est aussi apprendre à jouer a un nouveau jeu.
+    Cela peut s'avérer ardu et c'est la tâche qui vous ait confiée, vous devez maintenant gérer les tutoriels pour vos créations
   LABEL_THEME_MOVIE_ADAPTATION: Adaptation de film
   LABEL_THEME_PREHISTORY: Pré-histoire
   LABEL_THEME_ARCHEOLOGY: Archéologie
-  LABEL_THEME_POSTAPOCALYPTIC: Post apocalyptique
+  LABEL_THEME_POSTAPOCALYPTIC: Post apocalypse
   LABEL_THEME_ATLANTIS: Atlantide
   LABEL_THEME_RELIGIOUS: Religieux
   LABEL_THEME_ORGANIZED_CRIME: Crime organisé
@@ -368,13 +368,13 @@ fr:
   LABEL_THEME_DESERT: Désert
   LABEL_THEME_COMEDY: Comédie
   LABEL_THEME_DRAGON: Dragon
-  LABEL_THEME_EROTIC: Érotique
+  LABEL_THEME_EROTIC: Érotisme
   LABEL_THEME_SPY: Espionnage
   LABEL_THEME_FANTASY: Fantaisie
   LABEL_THEME_GHOST: Fantôme
   LABEL_THEME_HISTORY: Histoire
   LABEL_THEME_HORROR: Horreur
-  LABEL_THEME_MEDICAL: Médical
+  LABEL_THEME_MEDICAL: Médecine
   LABEL_THEME_OCEAN: Océan
   LABEL_THEME_ARABIAN_NIGHTS: Mille et une nuits
   LABEL_THEME_MYTHOLOGY: Mythologie
@@ -382,7 +382,7 @@ fr:
   LABEL_THEME_PARK: Parc et loisir
   LABEL_THEME_PIRATES: Pirate
   LABEL_THEME_SCIENCE_FICTION: Science fiction
-  LABEL_THEME_SUPER_HEROS: Super héro
+  LABEL_THEME_SUPER_HEROS: Super héros
   LABEL_THEME_VAMPIRE: Vampire
   LABEL_THEME_TIME_TRAVEL: Voyage dans le temps
   LABEL_THEME_WESTERN: Western
@@ -467,7 +467,7 @@ fr:
   LABEL_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] sort une nouvelle plateforme: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
-    [b]%s[/b] retire la très populaire plateforme [b]%s[/b], les fans sont en émois
+    [b]%s[/b] retire la très populaire plateforme [b]%s[/b], les fans sont en émoi
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] va sortir une nouvelle plateforme dans quelques mois [b]%s[/b] elle devrait durer des années
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
@@ -498,7 +498,7 @@ fr:
   LABEL_MAGAZINE_3: Jeux Vidéales
   LABEL_MAGAZINE_4: Geek Hub
   LABEL_MAGAZINE_5: Amal Game
-  LABEL_MAGAZINE_6: WASD
+  LABEL_MAGAZINE_6: ZQSD
   LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Game over
@@ -523,7 +523,7 @@ fr:
   LABEL_CATCHPHRASE_2_1: Quelqu'un a dit médiocre?
   LABEL_CATCHPHRASE_2_2: Quelqu'un a dit mauvais?
   LABEL_CATCHPHRASE_2_3: Une expérience décevante
-  LABEL_CATCHPHRASE_2_4: En un mot vide
+  LABEL_CATCHPHRASE_2_4: En un mot, vide
   LABEL_CATCHPHRASE_2_5: Ils auraient dû le faire annuler
   LABEL_CATCHPHRASE_3_0: Droit dans le mur
   LABEL_CATCHPHRASE_3_1: Une déception à la hauteur de ses ambitions
@@ -582,10 +582,10 @@ fr:
   LABEL_CREATE_SEQUEL: Créer une suite
   LABEL_NEW_IP: Nouvelle franchise
   LABEL_POSTMORTEM: Post-mortem
-  LABEL_EMPTY_STUDIO: Attention le studio sélectionné ne contient aucun poste de travail incluant un ordinateur!
+  LABEL_EMPTY_STUDIO: Attention le studio sélectionné ne contient aucun poste de travail équipé d'un ordinateur!
   LABEL_MATCH_EXCELLENT: Excellente association
   LABEL_MATCH_GOOD: Bonne association
-  LABEL_MATCH_OK: Association ok
+  LABEL_MATCH_OK: Association moyenne
   LABEL_MATCH_POOR: Mauvaise association
   LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] ne nous a rien appris de neuf"
@@ -621,7 +621,7 @@ fr:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like a été inventé
   LABEL_BROKEN_COFFEEMAKER_TITLE: La machine a café est brisée
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    Vos employées du studio [b]%s[/b] ont un dépendances fortes au café.
+    Vos employées du studio [b]%s[/b] ont un dépendance forte au café.
     Cependant cette dernière vient de servir sa dernière tasse tout à l'heure ...
     Qu'allons nous faire?
   LABEL_RABBIT_INVASION_DESCRIPTION: >
@@ -631,10 +631,10 @@ fr:
   LABEL_RABBIT_INVASION_TITLE: Invasion de lapins
   LABEL_TARGETTED_AUDIENCE_FEATURE: >
     Des experts ont découvert que les jeux pouvaient s'adresser a un certain public.
-    Il se dégage trois genre de publics différents:public jeune, tout public, public mature
+    Il se dégage trois genre de publics différents: public jeune, tout public, public mature
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux-vidéos.
-    Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Défois la machine redémarre.
+    Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Parfois la machine redémarre.
     Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
@@ -643,12 +643,12 @@ fr:
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Publicité gratuite
   LABEL_LOAN_TITLE: Prêt de dernier recours
   LABEL_LOAN_DESCRIPTION: >
-    Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de [b]%s$[/b] pour le taux maudique de [b]%s%%[/b].
+    Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de [b]%s$[/b] pour le taux modique de [b]%s%%[/b].
     De plus vous aurez [b]%s[/b] semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
-    Nous sommes votre dernier recours, laissez vous tenter!
+    Nous sommes votre dernier recours, laissez-vous tenter!
   LABEL_BURNING_SERVER_DESCRIPTION: >
     Les serveurs sont utilisés à 100%. De nombreux joueurs sont mécontents et quittent le navire.
-    Il est urgent d'acheter de nouveaux serveurs, le manque a gagner est important.
+    Il est urgent d'acheter de nouveaux serveurs, le manque à gagner est important.
   LABEL_BURNING_SERVER_TITLE: Les serveurs sont surchargés!
   LABEL_SMOKING_SERVER_DESCRIPTION: >
     Vos jeux ont du succès est ça se voit. La plupart de vos serveurs
@@ -711,9 +711,9 @@ fr:
   LABEL_HIRING_DATE: Date d'embauche
   LABEL_WORK: Occupation
   LABEL_NUMBER_OF_GAME_PRODUCED: Nombre de jeux produits
-  LABEL_DESIGN_POINT_PRODUCED: Nombre de points de design produit
-  LABEL_DEVELOPMENT_POINT_PRODUCED: Nombre de points de developpement produit
-  LABEL_POLISH_POINT_PRODUCED: Nombre de points de polissage produit
+  LABEL_DESIGN_POINT_PRODUCED: Nombre de points de design produits
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Nombre de points de developpement produits
+  LABEL_POLISH_POINT_PRODUCED: Nombre de points de polissage produits
   LABEL_PRODUCTIVITY: Productivité
   LABEL_MONEY_EFFICIENCY: Coût de production
   LABEL_SKILLS: Compétences
@@ -759,9 +759,9 @@ fr:
   LABEL_CONVENTION_ORGANIZE: >
     Avec un million de personnes derrière vous, vous êtes prêts pour organiser vos propres conventions
   LABEL_CONVENTION_PARTICIPATE: >
-    Votre catalogue de jeu mérite d'être vu, participer a des conventions peut vous aider a améliorer votre visibilité
+    Votre catalogue de jeu mérite d'être vu, participer a des conventions peut vous aider à améliorer votre visibilité
   LABEL_STUDIO_CUSTOMIZE: >
-    Les murs ternes de votre studio vous sappent le moral? Il est temps de les changer
+    Les murs ternes de votre studio vous sapent le moral? Il est temps de les changer
   LABEL_GAME_ONLINE: >
     Comment garder vos joueurs rivés à leurs écrans... INTERNET, faites des jeux en ligne et vous verrez ils ne décrocheront plus!
   LABEL_FURNITURES_SERVERS_BUY: >
@@ -805,7 +805,7 @@ fr:
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     Vous pouviez voir vos compétiteurs grace a la carte de la ville, désormais il vous est possible de les observer.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
-    Racheter vos concurrents est un moyen facile de gagner beaucoup de fans, ainsi que d'aggrandir sa compagnie.
+    Racheter vos concurrents est un moyen facile de gagner beaucoup de fans, ainsi que d'agrandir sa compagnie.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Allez voir un de vos studios, vous pouvez maintenant personnaliser son intérieur.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
@@ -872,7 +872,7 @@ fr:
   LABEL_FAILURE: Échec
   LABEL_CANNOT_INTERACT: Vous ne pourrez plus communiquer avec %s jusqu'au %s
   LABEL_FAN_LOST: Cela a nuit a votre popularité, vous perdez %s fans
-  LABEL_PENALTY_COST: La justice a tranchée, vous devez payer %s$
+  LABEL_PENALTY_COST: La justice a tranché, vous devez payer %s$
   LABEL_EMPLOYEE_HIRED: Vous avez engagé %s
   LABEL_GAME_CRACKED: Vous avez piraté %s
   LABEL_GENRE_STOLEN: Vous avec appris %s
@@ -906,7 +906,7 @@ fr:
     Lister les candidats potentiels
     disponibles sur le marché
   TOOLTIP_PORTFOLIO: |
-    Lister la liste des jeux que
+    Lister les jeux que
     vous avez publié depuis la
     création de votre studio
   TOOLTIP_OPTION: Paramètres et options
@@ -931,7 +931,7 @@ fr:
   TOOLTIP_CONCURRENT: |
     Liste les compagnies de jeux vidéo
   TOOLTIP_STUDIO_COST: |
-    Coûts total des studios. Cela inclut le prix du loyer ainsi que
+    Coût total des studios. Cela inclut le prix du loyer ainsi que
     le coût d'entretien du matériel (pour les serveurs par exemple)
   TOOLTIP_MARKETING_COST: |
     Coûts des campagnes marketing actuellement en cours
@@ -968,7 +968,7 @@ fr:
   LOADING_SCREEN_TIP_12: >
     Quand les lumières de vos serveurs brillent en rouge, cela signifique qu'ils sont en surcharges
   LOADING_SCREEN_TIP_13: >
-    N'oubliez pas de prendre des pauses cafés régulièrements... Ah, la machine à café est encore brisée
+    N'oubliez pas de prendre des pauses cafés régulièrement... Ah, la machine à café est encore brisée
   LOADING_SCREEN_TIP_14: >
     Le crunchtime n'est pas une marque de céréale, mais bel et bien une pratique de management répandue
   LOADING_SCREEN_TIP_15: >
