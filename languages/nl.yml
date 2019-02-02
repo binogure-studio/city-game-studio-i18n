@@ -56,6 +56,15 @@ nl:
   BUTTON_SELECT: Selecteer
 
   # Labels, descriptive
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] heeft te weinig [b]%s[/b].
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b] heeft te veel [b]%s[/b].
+  LABEL_MARKETING_CAMPAIGN: advertentie campagne
+  LABEL_CAMPAIGN_TYPE: Campaign type
+  LABEL_WORKLOAD: werkdrukte
+  LABEL_RELEASE_DATE: Publicatiedatum
+  LABEL_MANUFACTURER: Fabrikant
   LABEL_EXPIRED: Verlopen
   LABEL_POINTRATIO_GOOD: |
     Bij [b]%s[/b] weten ze hoe [b]%s[/b] moeten behandelen
@@ -503,7 +512,7 @@ nl:
   LABEL_CATCHPHRASE_4_3: De game die innoverend wou zijn...
   LABEL_CATCHPHRASE_4_4: Op een misverstand, zouwden we het nog eens kunnen spelen
   LABEL_CATCHPHRASE_4_5: Het beste moment? Wanneer het stopt
-  LABEL_CATCHPHRASE_5_0: Een minimum dienst
+  LABEL_CATCHPHRASE_5_0: Een minimum dienst ############
   LABEL_CATCHPHRASE_5_1: A tasteless melting pot
   LABEL_CATCHPHRASE_5_2: A very mixed report
   LABEL_CATCHPHRASE_5_3: We saw better, but we saw especially worse!
