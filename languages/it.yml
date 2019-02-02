@@ -56,6 +56,15 @@ it:
   BUTTON_SELECT: Selezionare
 
   # Labels, descriptive
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] manca di [b]%s[/b]. 
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b] ha troppo [b]%s[/b].
+  LABEL_MARKETING_CAMPAIGN: Campagna di marketing
+  LABEL_CAMPAIGN_TYPE: Tipo di campagna
+  LABEL_WORKLOAD: Carico di lavoro
+  LABEL_RELEASE_DATE: Data de lançamento
+  LABEL_MANUFACTURER: Produttore
   LABEL_EXPIRED: Scaduto
   LABEL_POINTRATIO_GOOD: |
     A [b]%s[/b] sanno come gestire il [b]%s[/b]
