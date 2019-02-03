@@ -24,7 +24,7 @@ it:
   BUTTON_NEED_STUDIO: Nessuno studio disponibile
   BUTTON_CLEAR_EVENTS: Elimina tutto
   BUTTON_TOO_BAD: Peccato
-  BUTTON_BUY_ANOTHER_ONE: Comprane un altro
+  BUTTON_BUY_ANOTHER_ONE: Acquista di nuovo
   BUTTON_ADOPT: Adotta
   BUTTON_ABANDON: Abbandona
   BUTTON_ASSIGN_EMPLOYEE: Assegna
@@ -38,22 +38,22 @@ it:
   BUTTON_SELL: Vendi
   BUTTON_RENT: Affitta
   BUTTON_CONFIRM: Conferma
-  BUTTON_BANKRUPTCY: Bancacrociata
+  BUTTON_BANKRUPTCY: Bancarotta
   BUTTON_RESTORE: Ripristinare
-  BUTTON_DELETE: Cancellare
+  BUTTON_DELETE: Cancella
   BUTTON_DELETE_ALL: Cancella tutto
   BUTTON_SPAM: Spam
-  BUTTON_UNSPAM: Non è uno spam
-  BUTTON_HOLIDAY: Inviare lo studio in vacanza
+  BUTTON_UNSPAM: Non è spam
+  BUTTON_HOLIDAY: Manda lo studio in vacanza
   BUTTON_MODS: Mods
-  BUTTON_BUGREPORT: Segnalazione di bug
+  BUTTON_BUGREPORT: Segnala bug
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Lingue
-  BUTTON_CRACK_GAME: Crepa un gioco
+  BUTTON_CRACK_GAME: Cracca un gioco
   BUTTON_FORCE_STUDIO_SELL: Forza vendita studio
-  BUTTON_SPY: Spiare un concorrente
-  BUTTON_HIRE_THEIR_EMPLOYE: Assumere il loro dipendente
-  BUTTON_SELECT: Selezionare
+  BUTTON_SPY: Spia un concorrente
+  BUTTON_HIRE_THEIR_EMPLOYE: Assumi un loro dipendente
+  BUTTON_SELECT: Seleziona
 
   # Labels, descriptive
   LABEL_POINTRATIO_NOT_ENOUGH: |
@@ -63,26 +63,26 @@ it:
   LABEL_MARKETING_CAMPAIGN: Campagna di marketing
   LABEL_CAMPAIGN_TYPE: Tipo di campagna
   LABEL_WORKLOAD: Carico di lavoro
-  LABEL_RELEASE_DATE: Data de lançamento
+  LABEL_RELEASE_DATE: Data di rilascio
   LABEL_MANUFACTURER: Produttore
   LABEL_EXPIRED: Scaduto
   LABEL_POINTRATIO_GOOD: |
     A [b]%s[/b] sanno come gestire il [b]%s[/b]
   LABEL_POINTRATIO_BAD: |
-    [b]%s[/b] è la loro debolezza. Il loro gruppo di produzione non è sufficientemente equilibrato.
+    [b]%s[/b] è la loro debolezza. Il gruppo non è sufficientemente equilibrato.
   LABEL_REVIEW_PLATFORM_GOOD: |
-    [b]%s[/b] ha una grande squadra, brillano su tutti i lati.
+    [b]%s[/b] ha una grande squadra, brillano in ogni campo.
   LABEL_REVIEW_PLATFORM_BAD: |
-    È tempo per [b]%s[/b] di assumere più personale. Non hanno la forza lavoro per poter pubblicare i giochi [b]%s[/b] su [b]%s[/b].
+    È tempo per [b]%s[/b] di assumere più personale. Non hanno la forza lavoro per poter pubblicare  giochi [b]%s[/b] su [b]%s[/b].
   LABEL_REVIEW_GAME_BAD: |
     [b]%s[/b] non è all'altezza della loro reputazione. Ci aspettavamo di più da loro, soprattutto dopo il loro videogioco [b]%s[/b]
   LABEL_REVIEW_COMBO_GOOD: |
-    [b]%s[/b] tenta novos combos, e funciona para eles. Este é um excelente jogo de [b]%s[/b]
+    [b]%s[/b] prova nuove combo,e per loro funziona. Questo è un eccellente gioco [b]%s[/b]
   LABEL_REVIEW_COMBO_BAD: |
-    É apenas mais um jogo [b]%s[/b]. Eles devem aprender a se renovar no [b]%s[/b]
-  LABEL_CRACKED: Incrinato
-  LABEL_SELECT_COMPANY_SPECIALIZATION: Specializzazione dei generi di gioco
-  LABEL_DISCORD_COMMUNITY: Discord comunità
+    È solo un altro [b]%s[/b]. Devono imparare a rinnovarsi nel campo [b]%s[/b]
+  LABEL_CRACKED: Craccato
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Specializzazione generi di gioco
+  LABEL_DISCORD_COMMUNITY: Comunità Discord
   LABEL_LAST_MONTH: Durerà per %s mesi
   LABEL_SUCCESS_RATE: Probabilità di successo
   LABEL_RISKS: Rischi
@@ -91,18 +91,18 @@ it:
     Ciao %s,
 
     So quanto ti piacciono le mie email.
-    Quindi eccoci qui, visto che possiamo osservare buone vendite, ho fatto alcuni calcoli e oggi parleremo di vendite di %s.
+    Visto che stiamo osservando buone vendite, ho fatto alcuni calcoli e oggi parleremo delle vendite di %s.
 
     %s
 
-    Sinceramente
-    Binogure
+    Le auguriamo una buona giornata,
+    Binogure.
   LABEL_SALES_HITS_0: >
     Le vendite di [b]%s[/b] stanno andando bene, stimo che questo migliorerà le vendite del [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] non è troppo male questo mese, secondo le mie stime migliorerà le vendite del [b]%d%%[/b].
+    [b]%s[/b] non va troppo male questo mese. Secondo le mie stime, le vendite miglioreranno del [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    Bene, parliamo di [b]%s[/b]. Le vendite sono eccellenti, e penso che possiamo aspettarci un aumento del [b]%d%%[/b] delle vendite.
+    Bene, parliamo di [b]%s[/b]. Le vendite sono eccellenti, e penso che possiamo aspettarci che queste ultime aumentino del [b]%d%%[/b].
   LABEL_SALES_HITS_3: >
     Con [b]%s[/b] saremo in grado di pensare in grande, le vendite dovrebbero aumentare del [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
@@ -110,22 +110,22 @@ it:
   LABEL_SALES_HITS_5: >
     È prevedibile che [b]%s[/b] aumenterà del [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Congratulazioni per le vendite di [b]%s[/b] dovremmo raggiungere un aumento del [b]%d%%[/b].
+    Congratulazioni per le vendite di [b]%s[/b], dovremmo raggiungere un aumento del [b]%d%%[/b].
   LABEL_CONVENTION_INCOMING: |
     Caro %s,
 
     Siamo lieti di annunciare %s previsto per la %s.
 
-    La convention avrà una durata di 3 giorni, e stiamo aspettando i visitatori di %s.
-    Puoi già affittare uno stand per mostrare le tue creazioni più belle. Sbrigati, i posti sono limitati.
+    La convention avrà una durata di 3 giorni, e stiamo aspettando visitatori per %s.
+    Può già affittare uno stand per mostrare le sue migliori creazioni. La invitiamo a sbrigarsi, i posti sono limitati.
 
-    Sinceramente,
+    Grazie per il suo tempo,
     Gli organizzatori di %s
   LABEL_REDCOUCH: Divano rosso
   LABEL_DARKCOUCH: Divano scuro
   LABEL_WHITECOUCH: Divano bianco
   LABEL_REDARMCHAIR: Poltrona rossa
-  LABEL_DARKARMCHAIR: Poltrona Dark
+  LABEL_DARKARMCHAIR: Poltrona scura
   LABEL_WHITEARMCHAIR: Poltrona bianca
   LABEL_WHAT_WERE_YOU_DOING: Cosa stava facendo quando ha incontrato il problema?
   LABEL_VERSION: "Versione: %s"
@@ -137,23 +137,23 @@ it:
     [b]Sblocca nuovi generi di gioco[/b].
 
     Per sbloccare un nuovo genere, [b]clicca sulla sua icona[/b].
-    Se hai abbastanza punti, allora il genere di gioco verrà sbloccato.
+    Se hai abbastanza punti, il genere verrà sbloccato.
 
-    [b]Numero di punti di genere[/b] si trova nell'angolo [b]in alto a destra[/b] dello schermo.
+    [b]Puoi vedere i punti genere accumulati[/b] nell'angolo [b]in alto a destra[/b] dello schermo.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "%s punti di genere"
+  LABEL_SKILL_POINT: "%s punti genere"
   LABEL_UNLOCKED: "Sbloccato"
   LABEL_COST: Costo %s punti
-  LABEL_FANBASE_TRENDS: Tendenze dei tifosi
+  LABEL_FANBASE_TRENDS: Tendenze dei fan
   LABEL_YEAR: Anni
-  LABEL_GAMEOVER_CONFIRM: Fallimento
+  LABEL_GAMEOVER_CONFIRM: Bancarotta
   LABEL_GAMEOVER_DESCRIPTION: >
-    Il fallimento finira' la partita.
-    Sei sicuro di voler dichiarare il fallimento?
+    Dichiarare bancarotta terminerà la partita.
+    Sei sicuro di voler continuare?
   LABEL_EXPENSES: Spese
   LABEL_RENT: Affitto
   LABEL_MARKETING: Tasse di marketing
@@ -167,57 +167,57 @@ it:
   LABEL_DURATION: Durata
   LABEL_INTEREST: Tasso d'interesse
   LABEL_MONTHLY: Pagamento mensile
-  LABEL_AUTO_ASSIGN_STAFF: Assegnare i dipendenti
-  LABEL_UPGRADE_COMPUTER: Aggiornare i computer
+  LABEL_AUTO_ASSIGN_STAFF: Assegna i dipendenti automaticamente
+  LABEL_UPGRADE_COMPUTER: Aggiorna i computer automaticamente
   LABEL_COMPANY_WIDE: In tutta l'azienda
   LABEL_STUDIO_WIDE: Questo studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Devi avere almeno [b]3[/b] persone che lavorano in studio per poter fare domanda per un'offerta editoriale.
+    Devi avere almeno [b]3[/b] impiegati in uno studio per poter fare domanda per un'offerta editoriale.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annullato"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Per [b]%s[/b] (%s),
 
     Siamo particolarmente delusi dal fatto che lei abbia cancellato lo sviluppo di [b]%s[/b].
-    In conformità al contratto debitamente firmato, pagina 453, paragrafo 72d, paragrafo W, foglio rosa, è necessario pagare la penale di [b]%s$[/b]s$ e rimborsarci il più presto possibile.
+    In conformità al contratto debitamente firmato, pagina 453, paragrafo 72d, paragrafo W, foglio rosa, è necessario pagare una penale di [b]%s$[/b]s$ e fornire un rimborso il più presto possibile.
 
-    Con tutto il rispetto,
-    Lo studio legale onesto, [b]%s[/b]  
-  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Contratto risolto
+    Con tutto rispetto,
+    Lo studio legale, [b]%s[/b]  
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: Contratto terminato
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Per [b]%s[/b] (%s),
 
-    [b]%s[/b] non ha incontrato il successo atteso, e dobbiamo applicare il contratto firmato alla lettera.
-    Così, secondo la pagina 5863, paragrafo 99z, paragrafo 99z, paragrafo k, foglio marrone, è necessario pagare la penale di [b]%s$[/b] e rimborsarci il più presto possibile.
+    [b]%s[/b] non ha incontrato il successo atteso, e dobbiamo attenerci al contratto stipulato.
+    Dunque, secondo la pagina 5863, paragrafo 99z, paragrafo k, foglio marrone, è necessario pagare la penale di [b]%s$[/b] e fornire un rimborso il più presto possibile.
 
     Con rispetto,
-    Il reparto di vendite scadenti, [b]%s[/b]
+    Il reparto vendite scadenti, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Seleziona i videogiochi da mostrare
   LABEL_ROYALTIES: Royalties
   LABEL_PENALITY: Penalità
   LABEL_NOTE_MIN: Punteggio min.
   LABEL_MARKETING_MAGAZINE_ITEM: Rivista
-  LABEL_MARKETING_TV_ITEM: La televisione
+  LABEL_MARKETING_TV_ITEM: Televisione
   LABEL_MARKETING_WEBSITE_ITEM: Sito web
   LABEL_MARKETING_ONLINEAD_ITEM: Pubblicità online
-  LABEL_MARKETING_BILLBOARD_ITEM: Pannello pubblicitario
-  LABEL_MARKETING_SOCIALNETWORK_ITEM: Reti sociali
+  LABEL_MARKETING_BILLBOARD_ITEM: Bacheca pubblicitaria
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: SocialNetworks
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
   LABEL_SELF_PUBLISH: Autopubblicazione
   LABEL_TRADE_PUBLISH: Editoria tradizionale
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Salve,
     
-    Sono [b]%s[/b], amo [b]%s[/b] e vorrei unirmi alla vostra squadra il più presto possibile.
-    Sarò in grado di essere efficace e portare nuove conoscenze ai vostri team.
+    Sono [b]%s[/b]. Amo [b]%s[/b] e vorrei unirmi alla vostra squadra quanto prima.
+    Prometto di essere efficace e di portare nuove conoscenze ai vostri team.
 
     Grazie per il vostro tempo,
     [b]%s[/b]
-  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Applicazione spontanea.
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Dimissioni
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Salve,
 
     Le scrivo per informarla che mi dimetterò dalla mia posizione a [b]%s[/b] con effetto immediato.
-    Sono partito perché ho trovato un nuovo lavoro più vicino a casa e in un'azienda più attraente.
+    Ho preso questa decisione perché ho trovato un nuovo lavoro più vicino a casa in un'azienda più attraente.
 
     Mi sono davvero piaciuti gli anni passati a lavorare con voi, mi mancherete tutti!
 
@@ -225,23 +225,23 @@ it:
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Dimissioni.
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
-    Non hai uno studio che può creare un gioco di dimensioni normali o maggiori.
+    Non hai uno studio capace di creare un gioco di dimensioni normali o maggiori.
   LABEL_NO_FAN_BIG_GAME: >
-    Per creare un gioco di dimensioni normali o maggiori, si raccomanda di avere almeno [b]%s[/b] di fan, altrimenti avrà un impatto sulle vendite.
+    Per creare un gioco di dimensioni normali o maggiori, è preferibile avere almeno [b]%s[/b] fan, altrimenti ciò avrà un impatto sulle vendite.
   LABEL_CONCURRENT_AMOUNT: Numero di concorrenti
   LABEL_YES: Sì
   LABEL_NO: No
   LABEL_PRICE_MONTHLY: Costi mensili
   LABEL_SERVER_MONITORING_REPORT: Stato dei server
-  LABEL_ONLINE_USAGE: I giocatori online contano
-  LABEL_ONLINE_CAPACITY: Capacità totale del giocatore
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Quantità di giocatori concorrenti online
+  LABEL_ONLINE_USAGE: Giocatori connessi
+  LABEL_ONLINE_CAPACITY: Capacità totale
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Quantità di giocatori attualmente online
   LABEL_SERVER: Server
   LABEL_CAMPAIGN_NO_COST: Parla alla stampa
   LABEL_CAMPAIGN_DEMO: Pubblica una demo
   LABEL_CAMPAIGN_FULL: Esegui una campagna pubblicitaria
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    [b]%s[/b] ha appena rivelato la sua prossima partita: [b]%s[/b]
+    [b]%s[/b] ha appena rivelato il suo prossimo gioco: [b]%s[/b]
     Sarà disponibile su [b]%s[/b]
 
     %s
@@ -250,15 +250,15 @@ it:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     I fan sono eccitati come noi!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    I fan non sono contenti e le riviste specializzate sembrano già voler sfogarsi su questo gioco.
+    I fan non sono contenti e le riviste specializzate sembrano già volersi sfogare su questo gioco.
 
     Va detto che hanno rilasciato un gioco simile non molto tempo fa.
   LABEL_GAME_ANNOUNCED_TITLE: Annunciato %s
-  LABEL_TRENDING: Tendere
+  LABEL_TRENDING: Tendenze
   LABEL_CREATOR: Creato da
   LABEL_PRODUCER: Produttore
   LABEL_COMMUNITY_MANAGER: Direttore della comunità
-  LABEL_SOUND_COMPOSER: Compositore del suono
+  LABEL_SOUND_COMPOSER: Compositore
   LABEL_SPECIAL_THANKS: Ringraziamenti speciali
   LABEL_VISITORS: "%d visitatori"
   LABEL_ATTENDANCE: Presenza
@@ -267,7 +267,7 @@ it:
   LABEL_NO_CONVENTION: Nessuna convention organizzata
   LABEL_CONVENTION_LAST_DATE: Ultima convention
   LABEL_DATE: Data di scadenza
-  LABEL_STANDSIZE: Grandezza dello stand
+  LABEL_STANDSIZE: Dimenzioni stand
   LABEL_CONVENTION_NAME: Nome della convention
   LABEL_ATTEND: Partecipa
   LABEL_ORGANIZE: Organizza
@@ -371,7 +371,7 @@ it:
   LABEL_THEME_ZOMBIE: Zombie
   LABEL_TYPE_ACTION: Azione
   LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
-  LABEL_TYPE_VERSUS_FIGHTING: Combattimento Versus
+  LABEL_TYPE_VERSUS_FIGHTING: Combattimento versus
   LABEL_TYPE_PLATFORMS: Piattaforme
   LABEL_TYPE_SHOOT: Sparatorie
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
@@ -391,7 +391,7 @@ it:
   LABEL_TYPE_EROGE: Eroge
   LABEL_TYPE_OTOME: Otome
   LABEL_TYPE_VISUAL_NOVEL: Visual novel
-  LABEL_TYPE_MYSTERY_LIKE: Mystery-like
+  LABEL_TYPE_MYSTERY_LIKE: Mistero
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: RPG-Azione
   LABEL_TYPE_DUNGEON_CRAWLER: Dungeon crawler
@@ -415,7 +415,7 @@ it:
   LABEL_TYPE_GOVERNMENT: Governo
   LABEL_TYPE_VEHICLE: Veicoli
   LABEL_TYPE_RACING: Corse
-  LABEL_TYPE_DRIVE: Driver
+  LABEL_TYPE_DRIVE: Guida
   LABEL_TYPE_FLY: Volo
   LABEL_TYPE_SPACE: Spazio
   LABEL_TYPE_SUBMARINE: Sottomarini
