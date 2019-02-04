@@ -1,0 +1,1 @@
+Video oyun şirketinizin kurucusunuz. Başlangıç ​​noktası, kendi garajınıza aittir veya ilk bölgenizi alarak başlayın, küçük yerine büyük düşünün. Günün sonunda kararlarınız stüdyonuzu başarıya ulaştıracak ve Video Oyun Tarihine iz bırakacaktır.
