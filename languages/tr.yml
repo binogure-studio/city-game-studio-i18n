@@ -1,4 +1,4 @@
-en:
+tr:
   # Buttons actions verbs
   BUTTON_ANNOUNCE: Oyunu duyurun
   BUTTON_NEW_GAME: Yeni oyun
@@ -56,6 +56,16 @@ en:
   BUTTON_SELECT: Seç
 
   # Labels, descriptive
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] [b]%s[/b]'dan yoksun
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b]'da çok fazla [b]%s[/b] var
+  LABEL_MARKETING_CAMPAIGN: Reklâm
+  LABEL_CAMPAIGN_TYPE: Reklam türü
+  LABEL_WORKLOAD: Iş yükü
+  LABEL_RELEASE_DATE: Çıkış tarihi
+  LABEL_MANUFACTURER: Maker
+  LABEL_EXPIRED: Süresi bitmiş
   LABEL_POINTRATIO_GOOD: |
     Onlar [b]%s[/b] nasıl yönetileceğini biliyorlar [b]%s[/b]
   LABEL_POINTRATIO_BAD: |
@@ -63,53 +73,54 @@ en:
   LABEL_REVIEW_PLATFORM_GOOD: |
     [b]%s[/b] Harika bir ekibe sahipler, her tarafta parlıyorlar.
   LABEL_REVIEW_PLATFORM_BAD: |
-    [B]%s [/b] 'nin daha fazla personel almasının zamanı geldi. [B]%s [/b] oyunlarını [b]%s [/b] 'de yayınlayabilecek insan gücü yok.
+    [b]%s[/b] 'nin daha fazla personel almasının zamanı geldi. [b]%s[/b] oyunlarını [b]%s[/b] 'de yayınlayabilecek insan gücü yok.
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s [/b] itibarlarına bağlı değil. Onlardan daha fazlasını bekliyorduk, özellikle video oyunlarından sonra [b]%s [/b]
+    [b]%s[/b] itibarlarına bağlı değil. Onlardan daha fazlasını bekliyorduk, özellikle video oyunlarından sonra [b]%s[/b]
   LABEL_REVIEW_COMBO_GOOD: |
     [b]%s[/b] tries new combos, and it works for them. This is an excellent [b]%s[/b] game
   LABEL_REVIEW_COMBO_BAD: |
-    [b]%s [/b] yeni kombinasyonları dener ve onlar için çalışır. Bu mükemmel bir [b]%s [/b] oyunu
+    [b]%s[/b] yeni kombinasyonları dener ve onlar için çalışır. Bu mükemmel bir [b]%s[/b] oyunu
   LABEL_CRACKED: Kırık
   LABEL_SELECT_COMPANY_SPECIALIZATION: Oyun türü uzmanlığı
   LABEL_DISCORD_COMMUNITY: Discord topluluğu
-  LABEL_LAST_MONTH: %S ay sürecek
+  LABEL_LAST_MONTH: "%s ay sürecek"
   LABEL_SUCCESS_RATE: Başarı olasılığı
   LABEL_RISKS:  İlgili riskler
   LABEL_SALES_HITS_TITLE: Satış raporu
   LABEL_SALES_HITS_DESCRIPTION: |
     Hello %s,
 
-   E-postalarımı ne kadar sevdiğini biliyorum.
-     İşte buradayız, iyi satışlar gözlemleyebildiğimiz için bazı hesaplamalar yaptım ve bugün %s satışları hakkında konuşacağız.
-   %s
+    E-postalarımı ne kadar sevdiğini biliyorum.
+    İşte buradayız, iyi satışlar gözlemleyebildiğimiz için bazı hesaplamalar yaptım ve bugün %s satışları hakkında konuşacağız.
+
+    %s
 
     Saygılarımla
     Binogure
   LABEL_SALES_HITS_0: >
-    [b]%s [/b] satışlar iyi gidiyor, bunun satışları artıracağına inanıyorum [b]% d%% [/b]
+    [b]%s[/b] satışlar iyi gidiyor, bunun satışları artıracağına inanıyorum [b]% d%%[/b]
   LABEL_SALES_HITS_1: >
-    [b]%s [/b] bu ay çok kötü değil, tahminime göre satışları artıracak [b]% d %% [/b]
+    [b]%s[/b] bu ay çok kötü değil, tahminime göre satışları artıracak [b]% d %%[/b]
   LABEL_SALES_HITS_2: >
-   [b]%s [/b] Bu ay çok kötü değil, benim tahminlerime göre [b]% d%% [/b] tarafından satış artıracak
+    [b]%s[/b] Bu ay çok kötü değil, benim tahminlerime göre [b]% d%%[/b] tarafından satış artıracak
   LABEL_SALES_HITS_3: >
-    [B]%s [/b] ile büyük düşünebiliriz, satışlar [b]% b% artmalı [/b]
+    [b]%s[/b] ile büyük düşünebiliriz, satışlar [b]% b% artmalı[/b]
   LABEL_SALES_HITS_4: >
-    Bugün harika bir gün, [b]%s [/b], [b]%d %% [/b] artış görmeli
+    Bugün harika bir gün, [b]%s[/b], [b]%d %%[/b] artış görmeli
   LABEL_SALES_HITS_5: >
-    [B]%s [/b] 'nin [b]% d artacağı tahmin ediliyor% / [/b]
+    [b]%s[/b] 'nin [b]% d artacağı tahmin ediliyor% /[/b]
   LABEL_SALES_HITS_6: >
-    [B]%s [/b] satışı ile tebrikler, [b]% d %% [/b] artışa ulaşmalıyız
+    [b]%s[/b] satışı ile tebrikler, [b]% d %%[/b] artışa ulaşmalıyız
   LABEL_CONVENTION_INCOMING: |
     Sayın %s,
 
-   %S için planlanan %s öğesini duyurmaktan mutluluk duyuyoruz.
+    %s için planlanan %s öğesini duyurmaktan mutluluk duyuyoruz.
 
     Kongre 3 gün sürecek ve %s ziyaretçi bekliyoruz.
-     En güzel kreasyonlarınızı göstermek için zaten bir stand kiralayabilirsiniz. Acele edin, yerler sınırlı.
+    En güzel kreasyonlarınızı göstermek için zaten bir stand kiralayabilirsiniz. Acele edin, yerler sınırlı.
 
     Saygılarımla,
-    %S düzenleyicileri
+    %s düzenleyicileri
   LABEL_REDCOUCH: Kırmızı kanepe
   LABEL_DARKCOUCH: Siyah kanepe
   LABEL_WHITECOUCH: Beyaz kanepe
@@ -123,12 +134,12 @@ en:
   LABEL_SPAM: Spam
   LABEL_TRASH: Çöp kutusu
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
-    [b] Yeni oyun türlerinin kilidini aç [/b].
+    [b]Yeni oyun türlerinin kilidini aç[/b].
 
-    Yeni bir türün kilidini açmak için [b] [/b] simgesine tıklayın.
+    Yeni bir türün kilidini açmak için [b][/b] simgesine tıklayın.
     Yeterince puanınız varsa, oyun türünün kilidi açılacak.
 
-    [b] Tür noktalarının sayısı [/b], ekranın [b] sağ üst köşesinde [/b] bulunur.
+    [b]Tür noktalarının sayısı[/b], ekranın [b]sağ üst köşesinde[/b] bulunur.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
@@ -142,7 +153,7 @@ en:
   LABEL_GAMEOVER_CONFIRM: İflas
   LABEL_GAMEOVER_DESCRIPTION: >
     İflas oyunu bitirecek.
-     İflas beyan etmek istediğinize emin misiniz?
+    İflas beyan etmek istediğinize emin misiniz?
   LABEL_EXPENSES: giderler
   LABEL_RENT: kira
   LABEL_MARKETING: Pazarlama ücreti
@@ -156,31 +167,30 @@ en:
   LABEL_DURATION: Süre
   LABEL_INTEREST: Faiz oranı
   LABEL_MONTHLY: Aylık ödeme
-
-  LABEL_AUTO_ASSIGN_STAFF: Çalışanları otomatik olarak atayın
-  LABEL_UPGRADE_COMPUTER: Bilgisayarları otomatik yükselt
   LABEL_COMPANY_WIDE: Şirket çapında
   LABEL_STUDIO_WIDE: Bu stüdyo
+  LABEL_AUTO_ASSIGN_STAFF: Çalışanları otomatik olarak atayın
+  LABEL_UPGRADE_COMPUTER: Bilgisayarları otomatik yükselt
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-   Bir yayıncı teklifine başvurabilmek için stüdyoda çalışan en az [b] 3 [/b] kişiye sahip olmalısınız.
+    Bir yayıncı teklifine başvurabilmek için stüdyoda çalışan en az [b]3[/b] kişiye sahip olmalısınız.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s iptal edildi"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    [B]% s [/b] (%s) için,
+    [b]%s[/b] (%s) için,
 
-    Özellikle [b]% s [/b] 'nin gelişimini iptal ettiğiniz için özellikle hayal kırıklığına uğradık.
-    Usulüne uygun olarak imzalanan sözleşmeye göre, sayfa 453, paragraf 72d, paragraf W, pembe sayfa, [b]%s $ [/b] 'nin cezasını ödemeniz ve bize en kısa sürede geri ödeme yapmanız gerekir.
+    Özellikle [b]%s[/b] 'nin gelişimini iptal ettiğiniz için özellikle hayal kırıklığına uğradık.
+    Usulüne uygun olarak imzalanan sözleşmeye göre, sayfa 453, paragraf 72d, paragraf W, pembe sayfa, [b]%s$[/b] 'nin cezasını ödemeniz ve bize en kısa sürede geri ödeme yapmanız gerekir.
 
     Saygılarımla,
-    Dürüst hukuk firması, [b]% s [/b]
+    Dürüst hukuk firması, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Sözleşme sonlandırıldı"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    [B]%s [/b] (%s) için
+    [b]%s[/b] (%s) için
 
-    [b]%s [/b] beklenen başarıya ulaşmadı ve imzalanan sözleşmeyi mektuba uygulamamız gerekiyor.
-     Bu nedenle, sayfa 5863, paragraf 99z, kahverengi kağıda göre, [b]%s $ [/b] 'nin cezasını ödemeniz ve en kısa sürede bize geri ödeme yapmanız gerekir.
+    [b]%s[/b] beklenen başarıya ulaşmadı ve imzalanan sözleşmeyi mektuba uygulamamız gerekiyor.
+    Bu nedenle, sayfa 5863, paragraf 99z, kahverengi kağıda göre, [b]%s$[/b] 'nin cezasını ödemeniz ve en kısa sürede bize geri ödeme yapmanız gerekir.
 
     Saygılarımla,
-   Kötü satış departmanı, [b]%s [/b]
+    Kötü satış departmanı, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Gösterilecek video oyunlarını seçin
   LABEL_ROYALTIES: Telif hakkı
   LABEL_PENALITY: Ceza
@@ -206,8 +216,8 @@ en:
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Merhaba,
 
-   Derhal yürürlükten [b]% s [/b] pozisyonumdan istifa ettiğimi bildirmek için yazıyorum.
-     Ayrıldım çünkü eve daha yakın ve daha çekici bir şirkette yeni bir iş buldum.
+    Derhal yürürlükten [b]%s[/b] pozisyonumdan istifa ettiğimi bildirmek için yazıyorum.
+    Ayrıldım çünkü eve daha yakın ve daha çekici bir şirkette yeni bir iş buldum.
 
     Seninle çalışarak geçirdiğim yıllar gerçekten çok hoşuma gitti, hepinizi özleyeceğim!
 
@@ -217,7 +227,7 @@ en:
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
     Normal veya daha büyük boyutta bir oyun yaratabilen bir stüdyonuz yok.
   LABEL_NO_FAN_BIG_GAME: >
-   Normal veya daha büyük boyutta bir oyun oluşturmak için en az [b]%s [/b] fanın olması tavsiye edilir, aksi takdirde satışlar üzerinde etkisi olacaktır.
+    Normal veya daha büyük boyutta bir oyun oluşturmak için en az [b]%s[/b] fanın olması tavsiye edilir, aksi takdirde satışlar üzerinde etkisi olacaktır.
   LABEL_CONCURRENT_AMOUNT: Rakiplerin sayısı
   LABEL_YES: Evet
   LABEL_NO: Hayır
@@ -231,8 +241,8 @@ en:
   LABEL_CAMPAIGN_DEMO: Bir demo yayınla
   LABEL_CAMPAIGN_FULL: Bir reklam kampanyası yürütün
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    [b]%s [/b] sıradaki oyununu daha yeni ortaya çıkardı: [b]%s [/b]
-     [B]%s [/b] altında satışa sunulacak
+    [b]%s[/b] sıradaki oyununu daha yeni ortaya çıkardı: [b]%s[/b]
+    [b]%s[/b] altında satışa sunulacak
 
     %s
 
@@ -242,7 +252,7 @@ en:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     Hayranlar mutlu değil ve özel dergiler zaten bu oyunda steam bırakmak istiyor gibi görünüyor
 
-   Çok uzun zaman önce benzer bir oyun yayınladıkları söylenmeli.
+    Çok uzun zaman önce benzer bir oyun yayınladıkları söylenmeli.
   LABEL_GAME_ANNOUNCED_TITLE: "%s duyuruldu"
   LABEL_TRENDING: Trend
   LABEL_CREATOR: Tarafından yaratıldı
@@ -397,7 +407,7 @@ en:
   LABEL_TYPE_ANIMALS: Hayvanlar
   LABEL_TYPE_GOD_GAME: Tanrı oyunu
   LABEL_TYPE_FARMING: Tarım
-  LABEL_TYPE_LIVING_ORGANISM: 	canlı organizma
+  LABEL_TYPE_LIVING_ORGANISM: canlı organizma
   LABEL_TYPE_SPORT: Spor
   LABEL_TYPE_MANAGEMENT: Yönetim
   LABEL_TYPE_ECONOMY: Ekonomik
@@ -417,7 +427,7 @@ en:
   LABEL_TYPE_TURN_BASED: Sıra tabanlı
   LABEL_TYPE_ARTILLERY: Ağır Silahlar
   LABEL_TYPE_CASUAL: gündelik
-  LABEL_TYPE_BREAKOUT: 	Büyük çıkış
+  LABEL_TYPE_BREAKOUT: Büyük çıkış
   LABEL_TYPE_RYTHM: ritim
   LABEL_TYPE_CLICKER_GAME: Tıklama Oyunu
   LABEL_TARGETTED_AUDIENCE_YOUNG: Genç
@@ -436,11 +446,11 @@ en:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Zor
   LABEL_DIFFICULTY_INSANE: Çok zor
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s [/b] yeni bir platform yayınladı: [b]%s [/b]"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s [/b] o kadar iyi emekli oldu ki [b]%s [/b], hayranları ağlıyor"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s [/b] birkaç ay içinde yeni bir platform çıkaracak [b]%s [/b] yıllarca sürmesi bekleniyor"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s [/b] çok iyi bilinen [b]%s [/b] ömrünün sona erdiğini açıkladı"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "[B]%s [/b] lisansını açtınız, [b]%s $ [/b]"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] yeni bir platform yayınladı: [b]%s[/b]"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] o kadar iyi emekli oldu ki [b]%s[/b], hayranları ağlıyor"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] birkaç ay içinde yeni bir platform çıkaracak [b]%s[/b] yıllarca sürmesi bekleniyor"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] çok iyi bilinen [b]%s[/b] ömrünün sona erdiğini açıkladı"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "[b]%s[/b] lisansını açtınız, [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Platform yayınlandı
   LABEL_PLATFORM_DISCONTINUED_TITLE: Üretilmeyen platform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Gelecek platform
@@ -455,7 +465,7 @@ en:
   LABEL_NEW_GAME: Yeni Oyun
   LABEL_MODDING: Modifiye
   LABEL_ARTWORK: Sanat Eseri
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Son deneyiminiz sayesinde, yeni bir türün kilidini açtınız [b]%s [/b]
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Son deneyiminiz sayesinde, yeni bir türün kilidini açtınız [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Tür kilidi:%s"
   LABEL_MAGAZINE_0: Fan Oyunu
   LABEL_MAGAZINE_1: PC oynatıcı
@@ -547,15 +557,15 @@ en:
   LABEL_NEW_IP: Yeni ip
   LABEL_POSTMORTEM: Analiz
   LABEL_EMPTY_STUDIO: Uyarı Bu stüdyo, bilgisayarlı herhangi bir masaüstü içermez!
-  LABEL_MATCH_EXCELLENT:Mükemmel eşleşme
+  LABEL_MATCH_EXCELLENT: Mükemmel eşleşme
   LABEL_MATCH_GOOD: İyi Eşleşme
   LABEL_MATCH_OK: Ok Eşleşme
-  LABEL_MATCH_POOR:Kötü eşleşme
+  LABEL_MATCH_POOR: Kötü eşleşme
   LABEL_POSTMORTEM_TITLE: Analiz (%s)
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: [B]%s [/b] den yeni bir şey öğrenemedik
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "İşte [b]%s [/b] öğesinden öğrendiklerimiz:%s"
-  LABEL_POSTMORTEM_MATCH: "[ul] - [i]% s [/i] ve [i]%s [/i] arasındaki eşleşme [b]%s [/b] [/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - Oyunun türü için [b]%s [/b] yönetimi [b]%s [/b] [/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] den yeni bir şey öğrenemedik"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "İşte [b]%s[/b] öğesinden öğrendiklerimiz:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] ve [i]%s[/i] arasındaki eşleşme [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- Oyunun türü için [b]%s[/b] yönetimi [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Pazar payı
   LABEL_LICENSE_COST: Lisans
   LABEL_OWNED: Sahip olunan
@@ -564,7 +574,7 @@ en:
   LABEL_PLATFORM_LIST: Platform listesi
   LABEL_IDLE: Boş
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    [B]%s [/b] 'nin stüdyosu personeli, bazı çöplerin arkasına gizlenmiş başıboş bir kedi buldu.
+    [b]%s[/b] 'nin stüdyosu personeli, bazı çöplerin arkasına gizlenmiş başıboş bir kedi buldu.
     Bu kedi çok sevimli ve personel zaten bir isim verdi. Ne yapmak istersin?
   LABEL_ADOPT_CAT_TITLE: Sokak kedisi
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
@@ -580,37 +590,37 @@ en:
     Yeni bir oyun türü ,Dolandırıcı şuan çok ünlü
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Dolandırıcı türü icat edildi
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
-   3 Amerikalı tasarımcı az önce ünlü bir oyun için mod yarattı.
-   Moba türü doğdu
+    3 Amerikalı tasarımcı az önce ünlü bir oyun için mod yarattı.
+    Moba türü doğdu
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba türü icat edilidi
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kırık kahve makinesi
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    Stüdyo çalışanları [b]%s [/b] kahve bağımlısı.
+    Stüdyo çalışanları [b]%s[/b] kahve bağımlısı.
     Ama kahve makinesi son kupa bardağına hizmet etti ... Ne yapmak istersin?
   LABEL_RABBIT_INVASION_DESCRIPTION: >
     Tavşanlar, her yerde tavşanlar. Bazı sesler çıkarıyorlar ... her yerde koşuyorlar.
     Ama kimse onları fark etmiyor ve insanlar çalışmaya devam ediyor ...
   LABEL_RABBIT_INVASION_TITLE: Tavşan istilası
   LABEL_TARGETTED_AUDIENCE_FEATURE: >
-   Uzmanlar, oyunların belirli bir kitleyi hedef alabildiğini buldu.
+    Uzmanlar, oyunların belirli bir kitleyi hedef alabildiğini buldu.
     3 farklı izleyici hakkında bir bildiri yayınladılar: genç, herkes ve yetişkin
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Yeni bir virüs salındı. Sadece video oyunu şirketlerini hedef alıyor.
     Tuhaf görünüyor, ancak imleçleri yavaşlatıyor ve bilgisayarları rasgele yeniden başlatıyor.
     Bu kesinlikle çalışanlarınızın üretkenliğini etkileyecektir.
-    Sadece [b]%s [/b] saldırıya uğradı
+    Sadece [b]%s[/b] saldırıya uğradı
   LABEL_VIRUS_UNLEASHED_TITLE: Virüs salındı
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     Oyun incelemeleriyle ünlü bir vlogger yeni bir video yayınladı.
-    Ve bu kez oyunlarından birini inceledi [b]%s [/b]. Bunun kesinlikle satışlar üzerinde etkisi olacak.
+    Ve bu kez oyunlarından birini inceledi [b]%s[/b]. Bunun kesinlikle satışlar üzerinde etkisi olacak.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Ücretsiz reklamlar
   LABEL_LOAN_TITLE: Son çare kredisi
   LABEL_LOAN_DESCRIPTION: >
-    Biraz ekstra paraya ihtiyacın var, sana yardım edebiliriz. [B]%s $ [/b] krediyle geri ödeme yapabilirsiniz.
-    Faiz oranlarımız, yalnızca [b]%s %% [/b] kadar düşük ve geri ödemeniz için [b]%s [/b] haftalarınız var.
+    Biraz ekstra paraya ihtiyacın var, sana yardım edebiliriz. [b]%s$[/b] krediyle geri ödeme yapabilirsiniz.
+    Faiz oranlarımız, yalnızca [b]%s %%[/b] kadar düşük ve geri ödemeniz için [b]%s[/b] haftalarınız var.
     Seninki gibi bir şirket için bütün bir hayat gibi. Biz son seçeneğiniziz, kendinize özendirin.
   LABEL_BURNING_SERVER_DESCRIPTION: >
-   yanık kokusumu bu ?
+    yanık kokusumu bu ?
     Sunucularınız maksimum kapasitelerine ulaştı!
   LABEL_BURNING_SERVER_TITLE: Bu iyi
   LABEL_SMOKING_SERVER_DESCRIPTION: >
@@ -619,11 +629,11 @@ en:
     Yeni sunucular satın almalısın.
   LABEL_SMOKING_SERVER_TITLE: Sunucu kapasitesi uyarısı
   LABEL_PAYLOAN_TITLE: Borç geri ödeme
-  LABEL_PAYLOAN_DESCRIPTION: Planlanan geri ödeme artık sona ermiştir, [b]% s $ [/b] ödemek zorundasınız.
+  LABEL_PAYLOAN_DESCRIPTION: Planlanan geri ödeme artık sona ermiştir, [b]%s$[/b] ödemek zorundasınız.
   LABEL_SELL_STUDIO_TITLE: Stüdyo sat
-  LABEL_SELL_STUDIO_DESCRIPTION: [B]% s [/b] adlı stüdyoyu satıyorsunuz, devam etmek istiyor musunuz?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: [B]%s [/b] son stüdyonuz veya bir proje üzerinde çalışmakla meşgul olduğu için satış yapamazsınız
-  LABEL_BUILDING_AREA: %S m² alanı
+  LABEL_SELL_STUDIO_DESCRIPTION: "[b]%s[/b] adlı stüdyoyu satıyorsunuz, devam etmek istiyor musunuz?"
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: "[b]%s[/b] son stüdyonuz veya bir proje üzerinde çalışmakla meşgul olduğu için satış yapamazsınız"
+  LABEL_BUILDING_AREA: "%s m² alanı"
   LABEL_BUILDING_BUY: Fiyat
   LABEL_BUILDING_RENT: Kira
   LABEL_BUILDING_CONVENTION: Sergi merkezi
@@ -722,7 +732,7 @@ en:
   LABEL_STUDIO_BUILD: >
     Başarınız, kendi stüdyolarınızı oluşturmanıza olanak sağlar.
   LABEL_CONVENTION_ORGANIZE: >
-   Milyonlarca insan sizi desteklediğinde artık kendi sözleşmelerinizi organize edebilirsiniz.
+    Milyonlarca insan sizi desteklediğinde artık kendi sözleşmelerinizi organize edebilirsiniz.
   LABEL_CONVENTION_PARTICIPATE: >
     Sizin oyun kataloğunuz görülmeye değer, sözleşmelere katılmak görünürlüğünüzü arttırmanıza yardımcı olabilir.
   LABEL_STUDIO_CUSTOMIZE: >
@@ -736,7 +746,7 @@ en:
   LABEL_DIGITAL_STORE: >
     Kaydileştirildi, duymaya başladınız ve bunun gelecek olduğunu zaten biliyorsunuz.
   LABEL_POSTMORTEM_FEATURE: >
-   Tebrikler, ilk oyununuzu yaptınız. Gelişimini, tasarımını ve cilalamasını değerlendirmenize yardımcı olmak için artık bir analize geçebilirsiniz.
+    Tebrikler, ilk oyununuzu yaptınız. Gelişimini, tasarımını ve cilalamasını değerlendirmenize yardımcı olmak için artık bir analize geçebilirsiniz.
   LABEL_NEW_GAME_FEATURE: >
     Baştan beri video oyunlarının epik tarihini yeniden yaşamaya hazır mısınız?
     City Game Studio'ya hoş geldiniz. Başlayın ve ilk oyununuzu oluşturun.
@@ -790,7 +800,7 @@ en:
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
     Televizyon reklam kampanyaları düzenlemenizi sağlar. Pahalı, ama bugünlerde kim televizyon izlemiyor ?!
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
-   Artık web sitelerinde bir reklam metni görüntüleyebilirsiniz. Ucuz ve daha fazla oyuncu getiriyor.
+    Artık web sitelerinde bir reklam metni görüntüleyebilirsiniz. Ucuz ve daha fazla oyuncu getiriyor.
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
     Oyunlarınızın var olduğunu göstermek için dünya çapında web üzerinde bir vitrin oluşturmak artık mümkün.
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
@@ -812,9 +822,9 @@ en:
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
     Sözleşmelere katılabilirsiniz, bu, oyunlarınızın zaman zaman görünürlüğünü artıracaktır.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
-   Duvarları yeniden boyayabilir, direkleri değiştirebilir ve stüdyolarınızın zeminini tekrar yapabilirsiniz.
+    Duvarları yeniden boyayabilir, direkleri değiştirebilir ve stüdyolarınızın zeminini tekrar yapabilirsiniz.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-   Sunucuları satın almak, çevrimiçi oyunlar oluşturmanıza ve aynı zamanda çevrimiçi bir portal oluşturmanıza olanak tanır.
+    Sunucuları satın almak, çevrimiçi oyunlar oluşturmanıza ve aynı zamanda çevrimiçi bir portal oluşturmanıza olanak tanır.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
    Çevrimiçi oyunlar oluşturabilirsiniz. Normalde daha ucuzdurlar, ancak oyuncular aylık bir abonelik ödemek zorundadır.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
@@ -822,7 +832,7 @@ en:
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     Yayıncılardan tekliflerde bulunabilirsiniz, size çok para kazandırır ama kötü notlardan sakının.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-   Bir Analiz oyunun gelişimi sırasında neyin doğru neyin yanlış gittiğini gösteren bir rapordur, size ipuçları verir.
+    Bir Analiz oyunun gelişimi sırasında neyin doğru neyin yanlış gittiğini gösteren bir rapordur, size ipuçları verir.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     İyi bir oyun yaratmak, City Game Studio'da ilerlemenizi, para kazanmanızı, hayranlarınızı ve deneyiminizi kazanmanızı sağlar.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
@@ -832,11 +842,11 @@ en:
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
     Oyun oluştururken yeni bir tasarım ölçere sahipsiniz
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-   Oyun oluştururken yeni bir geliştirme ayarcınız var
+    Oyun oluştururken yeni bir geliştirme ayarcınız var
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
     Oyun oluştururken yeni bir geliştirme ayarcınız var
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-   Oyun oluştururken yeni bir parlatma mastarınız var
+    Oyun oluştururken yeni bir parlatma mastarınız var
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
     Oyun oluştururken yeni bir parlatma mastarınız var
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
@@ -862,13 +872,13 @@ en:
     Devam etmek istiyor musun?
   LABEL_SUCCESS: Başarılı
   LABEL_FAILURE: Başarısız
-  LABEL_CANNOT_INTERACT: %S ile %s arasında iletişim kuramayacaksınız.
+  LABEL_CANNOT_INTERACT: "%s ile %s arasında iletişim kuramayacaksınız."
   LABEL_FAN_LOST: Bu popülerliğini etkiledi,%s hayranını kaybettin
-  LABEL_PENALTY_COST: Adalet karar verdi,%s $ ödemeniz gerekiyor
-  LABEL_EMPLOYEE_HIRED: %S kiraladınız
-  LABEL_GAME_CRACKED: %S kırdınız
-  LABEL_GENRE_STOLEN: %S öğrendin
-  LABEL_STUDIO_SOLD: %S sattılar
+  LABEL_PENALTY_COST: Adalet karar verdi,%s$ ödemeniz gerekiyor
+  LABEL_EMPLOYEE_HIRED: "%s kiraladınız"
+  LABEL_GAME_CRACKED: "%s kırdınız"
+  LABEL_GENRE_STOLEN: "%s öğrendin"
+  LABEL_STUDIO_SOLD: "%s sattılar"
 
   # Tooltips
   TOOLTIP_FORCE_STUDIO: |
@@ -878,7 +888,7 @@ en:
   TOOLTIP_HIRE_STAFF: |
     İşe almak istediğiniz çalışanı seçmelisiniz
   TOOLTIP_CONCURRENT_LOCKED: |
-    %S'dan%s'a karşı bir eylemi tekrar deneyebileceksiniz
+    %s'dan%s'a karşı bir eylemi tekrar deneyebileceksiniz
   TOOLTIP_TUTORIEL: |
     %s kilidini açmak için %s
   TOOLTIP_EMAIL: |
@@ -922,7 +932,7 @@ en:
   TOOLTIP_MARKETING_COST: |
     Halen devam etmekte olan pazarlama kampanyalarınızın maliyetleri
   TOOLTIP_SALARY_COST: |
-   Her çalışanın maaşı
+    Her çalışanın maaşı
   TOOLTIP_STEAM_MODS: |
     Buhar atölyesi
 
@@ -934,23 +944,23 @@ en:
   LOADING_SCREEN_TIP_2: >
     Bu yükleme ekranı sadece sizi bekletmek için orada, aslında döngü olan bir uyku (rastgele (0, 50))
   LOADING_SCREEN_TIP_3: >
-   Yeni bir oyun türü keşfetmek, size rekabet karşısında önemli bir avantaj sağlar.
+    Yeni bir oyun türü keşfetmek, size rekabet karşısında önemli bir avantaj sağlar.
   LOADING_SCREEN_TIP_4: >
-   Rakiplerinizle oyun üretmek, ünlü olmanın en iyi yoludur
+    Rakiplerinizle oyun üretmek, ünlü olmanın en iyi yoludur
   LOADING_SCREEN_TIP_5: >
-   Kendi binalarınızda Toplantılar düzenleyebilirsiniz, ancak bir yıl arayla boş yer açmanız daha iyi olur.
+    Kendi binalarınızda Toplantılar düzenleyebilirsiniz, ancak bir yıl arayla boş yer açmanız daha iyi olur.
   LOADING_SCREEN_TIP_6: >
     Kötü satış departmanı her zaman haklıdır
   LOADING_SCREEN_TIP_7: >
    Çevrimiçi oyunları barındırmak için sunuculara ihtiyacınız var, daha ucuzlar ancak oyuncuların oynamaya devam etmek için aylık ödemeleri gerekiyor
   LOADING_SCREEN_TIP_8: >
-   Maskotumuz Einstein, City Game Studio'nun gelişimi sırasında 65.13 kez havladı.
+    Maskotumuz Einstein, City Game Studio'nun gelişimi sırasında 65.13 kez havladı.
   LOADING_SCREEN_TIP_9: >
-   City Game Studio'nun gelişimi sırasında 12654 Noel şarkısı çalındı
+    City Game Studio'nun gelişimi sırasında 12654 Noel şarkısı çalındı
   LOADING_SCREEN_TIP_10: >
     Pazar paylarına bakmak iyi, ancak bir platformda yayınlanan oyunların miktarına da dikkat etmeniz gerekiyor.
   LOADING_SCREEN_TIP_11: >
-   City Game Studio'yu çevirmek için yardım etmek ister misin? https://github.com/binogure-studio/city-game-studio-i18n
+    City Game Studio'yu çevirmek için yardım etmek ister misin? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
     Sunucularınızın ışıkları kırmızı yandığında, aşırı yüklendikleri anlamına gelir.
   LOADING_SCREEN_TIP_13: >
@@ -958,7 +968,7 @@ en:
   LOADING_SCREEN_TIP_14: >
     Crunchtime bir tahıl markası değil, ancak yaygın bir yönetim uygulamasıdır.
   LOADING_SCREEN_TIP_15: >
-   Yeni oyun yayınlamak para kazanmak için en iyi yoldur
+    Yeni oyun yayınlamak para kazanmak için en iyi yoldur
   LOADING_SCREEN_TIP_16: >
     Analizler, yayınladığınız oyunlar hakkında daha fazla bilgi edinmenizi sağlar
   LOADING_SCREEN_TIP_17: >
@@ -979,7 +989,7 @@ en:
   STUDIO_RENT: Stüdyo dairesi kiralamak
   STUDIO_BUILD: Bir stüdyo inşa et
   CONVENTION_ORGANIZE: Bir kongre düzenleyin
-  CONVENTION_PARTICIPATE:Bir kongreye katıl
+  CONVENTION_PARTICIPATE: Bir kongreye katıl
   STUDIO_CUSTOMIZE: Stüdyolarınızı yenileyin
   FURNITURES_SERVERS_BUY: Sunucu Satın al
   GAME_ONLINE: Çevrimiçi oyunlar yayınla
