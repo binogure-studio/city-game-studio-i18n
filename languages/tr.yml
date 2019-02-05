@@ -1,0 +1,1009 @@
+tr:
+  # Buttons actions verbs
+  BUTTON_ANNOUNCE: Oyunu duyurun
+  BUTTON_NEW_GAME: Yeni oyun
+  BUTTON_HIRE: kirala
+  BUTTON_APPLY: uygula
+  BUTTON_BACK: Geri
+  BUTTON_BUILD_MODE: Yapı modu
+  BUTTON_BUILDING_RENT: Kiralık
+  BUTTON_CANCEL: İptal
+  BUTTON_CLOSE: Kapat
+  BUTTON_CREDITS: Krediler
+  BUTTON_EXIT: Çıkış
+  BUTTON_FIRE: ateş
+  BUTTON_LOAD: yükle
+  BUTTON_LOAD_GAME: Oyunu Yükle
+  BUTTON_MAIN_MENU: Ana Menü
+  BUTTON_NEXT: İleri
+  BUTTON_OK: Tamam
+  BUTTON_OPTIONS: Ayarlar
+  BUTTON_RESET: Sıfırla
+  BUTTON_SKIP: Geç
+  BUTTON_START: Başla
+  BUTTON_NEED_STUDIO: Uygun Stüdyo yok
+  BUTTON_CLEAR_EVENTS: Temizle
+  BUTTON_TOO_BAD: Çok kötü
+  BUTTON_BUY_ANOTHER_ONE: Başka bir tane satın al
+  BUTTON_ADOPT: benimse
+  BUTTON_ABANDON: terket
+  BUTTON_ASSIGN_EMPLOYEE: çalışan ata
+  BUTTON_KEEP_PLAYING: Oynamaya Devam et
+  BUTTON_LEADERBOARD: Liderler Sıralaması
+  BUTTON_GIVEUP: vazgeç
+  BUTTON_LOAN: kredi
+  BUTTON_REPAY: ödemek
+  BUTTON_ZOOM: Yakınlaştır
+  BUTTON_BUY: Satın al
+  BUTTON_SELL: Sat
+  BUTTON_RENT: Kira
+  BUTTON_CONFIRM: confirm
+  BUTTON_BANKRUPTCY: İflas
+  BUTTON_RESTORE: Restore et
+  BUTTON_DELETE: Sil
+  BUTTON_DELETE_ALL: Hepsini sil
+  BUTTON_SPAM: Spam
+  BUTTON_UNSPAM: Spam değil
+  BUTTON_HOLIDAY: Stüdyoyu tatile gönder
+  BUTTON_MODS: Modlar
+  BUTTON_BUGREPORT: Hata bildir
+  BUTTON_FEEDBACK: Geribildirim
+  DROPDOWN_LANGUAGE: Diller
+  BUTTON_CRACK_GAME: Kırık oyun
+  BUTTON_FORCE_STUDIO_SELL: Bir stüdyo satışını zorla
+  BUTTON_SPY: Bir rakip casus
+  BUTTON_HIRE_THEIR_EMPLOYE: İşçi Kirala
+  BUTTON_SELECT: Seç
+
+  # Labels, descriptive
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] [b]%s[/b]'dan yoksun
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b]'da çok fazla [b]%s[/b] var
+  LABEL_MARKETING_CAMPAIGN: Reklâm
+  LABEL_CAMPAIGN_TYPE: Reklam türü
+  LABEL_WORKLOAD: Iş yükü
+  LABEL_RELEASE_DATE: Çıkış tarihi
+  LABEL_MANUFACTURER: Maker
+  LABEL_EXPIRED: Süresi bitmiş
+  LABEL_POINTRATIO_GOOD: |
+    Onlar [b]%s[/b] nasıl yönetileceğini biliyorlar [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] onların zayıflığı. Üretim ekibi yeterince dengeli değil.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] Harika bir ekibe sahipler, her tarafta parlıyorlar.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    [b]%s[/b] 'nin daha fazla personel almasının zamanı geldi. [b]%s[/b] oyunlarını [b]%s[/b] 'de yayınlayabilecek insan gücü yok.
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] itibarlarına bağlı değil. Onlardan daha fazlasını bekliyorduk, özellikle video oyunlarından sonra [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] tries new combos, and it works for them. This is an excellent [b]%s[/b] game
+  LABEL_REVIEW_COMBO_BAD: |
+    [b]%s[/b] yeni kombinasyonları dener ve onlar için çalışır. Bu mükemmel bir [b]%s[/b] oyunu
+  LABEL_CRACKED: Kırık
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Oyun türü uzmanlığı
+  LABEL_DISCORD_COMMUNITY: Discord topluluğu
+  LABEL_LAST_MONTH: "%s ay sürecek"
+  LABEL_SUCCESS_RATE: Başarı olasılığı
+  LABEL_RISKS:  İlgili riskler
+  LABEL_SALES_HITS_TITLE: Satış raporu
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Hello %s,
+
+    E-postalarımı ne kadar sevdiğini biliyorum.
+    İşte buradayız, iyi satışlar gözlemleyebildiğimiz için bazı hesaplamalar yaptım ve bugün %s satışları hakkında konuşacağız.
+
+    %s
+
+    Saygılarımla
+    Binogure
+  LABEL_SALES_HITS_0: >
+    [b]%s[/b] satışlar iyi gidiyor, bunun satışları artıracağına inanıyorum [b]% d%%[/b]
+  LABEL_SALES_HITS_1: >
+    [b]%s[/b] bu ay çok kötü değil, tahminime göre satışları artıracak [b]% d %%[/b]
+  LABEL_SALES_HITS_2: >
+    [b]%s[/b] Bu ay çok kötü değil, benim tahminlerime göre [b]% d%%[/b] tarafından satış artıracak
+  LABEL_SALES_HITS_3: >
+    [b]%s[/b] ile büyük düşünebiliriz, satışlar [b]% b% artmalı[/b]
+  LABEL_SALES_HITS_4: >
+    Bugün harika bir gün, [b]%s[/b], [b]%d %%[/b] artış görmeli
+  LABEL_SALES_HITS_5: >
+    [b]%s[/b] 'nin [b]% d artacağı tahmin ediliyor% /[/b]
+  LABEL_SALES_HITS_6: >
+    [b]%s[/b] satışı ile tebrikler, [b]% d %%[/b] artışa ulaşmalıyız
+  LABEL_CONVENTION_INCOMING: |
+    Sayın %s,
+
+    %s için planlanan %s öğesini duyurmaktan mutluluk duyuyoruz.
+
+    Kongre 3 gün sürecek ve %s ziyaretçi bekliyoruz.
+    En güzel kreasyonlarınızı göstermek için zaten bir stand kiralayabilirsiniz. Acele edin, yerler sınırlı.
+
+    Saygılarımla,
+    %s düzenleyicileri
+  LABEL_REDCOUCH: Kırmızı kanepe
+  LABEL_DARKCOUCH: Siyah kanepe
+  LABEL_WHITECOUCH: Beyaz kanepe
+  LABEL_REDARMCHAIR: Kırmızı koltuk
+  LABEL_DARKARMCHAIR: Siyah koltuk
+  LABEL_WHITEARMCHAIR: Beyaz koltuk
+  LABEL_WHAT_WERE_YOU_DOING: Bug ile karşılaştığında ne yapıyordun?
+  LABEL_VERSION: "Versiyon: %s"
+  LABEL_NO_MESSAGE: Mesaj yok
+  LABEL_INBOX: Gelen Kutusu
+  LABEL_SPAM: Spam
+  LABEL_TRASH: Çöp kutusu
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Yeni oyun türlerinin kilidini aç[/b].
+
+    Yeni bir türün kilidini açmak için [b][/b] simgesine tıklayın.
+    Yeterince puanınız varsa, oyun türünün kilidi açılacak.
+
+    [b]Tür noktalarının sayısı[/b], ekranın [b]sağ üst köşesinde[/b] bulunur.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: "%s tür puanları"
+  LABEL_UNLOCKED: "Kilidi açıldı"
+  LABEL_COST: Maliyet%s puanı
+  LABEL_FANBASE_TRENDS: Fan trendleri
+  LABEL_YEAR: Yıl
+  LABEL_GAMEOVER_CONFIRM: İflas
+  LABEL_GAMEOVER_DESCRIPTION: >
+    İflas oyunu bitirecek.
+    İflas beyan etmek istediğinize emin misiniz?
+  LABEL_EXPENSES: giderler
+  LABEL_RENT: kira
+  LABEL_MARKETING: Pazarlama ücreti
+  LABEL_FINANCIAL_RESULT: Finansal sonuç
+  LABEL_PROPERTY_VALUE: Özellikler değeri
+  LABEL_FURNITURE_VALUE: Mobilya değeri
+  LABEL_CATALOG_VALUE: Oyun kataloğu değeri
+  LABEL_TOTAL_VALUE: Toplam değer
+  LABEL_MORTGAGES: İpotekler
+  LABEL_MORTGAGE: İpotek
+  LABEL_DURATION: Süre
+  LABEL_INTEREST: Faiz oranı
+  LABEL_MONTHLY: Aylık ödeme
+  LABEL_COMPANY_WIDE: Şirket çapında
+  LABEL_STUDIO_WIDE: Bu stüdyo
+  LABEL_AUTO_ASSIGN_STAFF: Çalışanları otomatik olarak atayın
+  LABEL_UPGRADE_COMPUTER: Bilgisayarları otomatik yükselt
+  LABEL_NO_STUDIO_TRADE_CAPABLE: >
+    Bir yayıncı teklifine başvurabilmek için stüdyoda çalışan en az [b]3[/b] kişiye sahip olmalısınız.
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s iptal edildi"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    [b]%s[/b] (%s) için,
+
+    Özellikle [b]%s[/b] 'nin gelişimini iptal ettiğiniz için özellikle hayal kırıklığına uğradık.
+    Usulüne uygun olarak imzalanan sözleşmeye göre, sayfa 453, paragraf 72d, paragraf W, pembe sayfa, [b]%s$[/b] 'nin cezasını ödemeniz ve bize en kısa sürede geri ödeme yapmanız gerekir.
+
+    Saygılarımla,
+    Dürüst hukuk firması, [b]%s[/b]
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Sözleşme sonlandırıldı"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    [b]%s[/b] (%s) için
+
+    [b]%s[/b] beklenen başarıya ulaşmadı ve imzalanan sözleşmeyi mektuba uygulamamız gerekiyor.
+    Bu nedenle, sayfa 5863, paragraf 99z, kahverengi kağıda göre, [b]%s$[/b] 'nin cezasını ödemeniz ve en kısa sürede bize geri ödeme yapmanız gerekir.
+
+    Saygılarımla,
+    Kötü satış departmanı, [b]%s[/b]
+  LABEL_SELECT_GAME_PRESENT: Gösterilecek video oyunlarını seçin
+  LABEL_ROYALTIES: Telif hakkı
+  LABEL_PENALITY: Ceza
+  LABEL_NOTE_MIN: En az puan.
+  LABEL_MARKETING_MAGAZINE_ITEM: Dergi
+  LABEL_MARKETING_TV_ITEM: Televizyon
+  LABEL_MARKETING_WEBSITE_ITEM: Web sitesi
+  LABEL_MARKETING_ONLINEAD_ITEM: Çevrimiçi reklamcılık
+  LABEL_MARKETING_BILLBOARD_ITEM: Reklam panosu
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: Sosyal ağlar
+  LABEL_MARKETING_MAILINGLIST_ITEM: Bülten
+  LABEL_SELF_PUBLISH: Öz yayıncılık
+  LABEL_TRADE_PUBLISH: Geleneksel yayıncılık
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Merhaba,
+    
+    Ben [b]%s[/b], [b]%s[/b] seviyorum ve mümkün olan en kısa zamanda ekibinize katılmak istiyorum.
+    Etkili olabileceğim ve takımlarınıza yeni bilgiler getirebileceğim.
+
+    Zaman ayırdığınız için teşekkür ederim,
+    [b]%s[/b]
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Doğal Uygulama
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Merhaba,
+
+    Derhal yürürlükten [b]%s[/b] pozisyonumdan istifa ettiğimi bildirmek için yazıyorum.
+    Ayrıldım çünkü eve daha yakın ve daha çekici bir şirkette yeni bir iş buldum.
+
+    Seninle çalışarak geçirdiğim yıllar gerçekten çok hoşuma gitti, hepinizi özleyeceğim!
+
+    Saygılarımla
+    [b]%s[/b]
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: istifa
+  LABEL_NO_STUDIO_FOR_BIG_GAME: >
+    Normal veya daha büyük boyutta bir oyun yaratabilen bir stüdyonuz yok.
+  LABEL_NO_FAN_BIG_GAME: >
+    Normal veya daha büyük boyutta bir oyun oluşturmak için en az [b]%s[/b] fanın olması tavsiye edilir, aksi takdirde satışlar üzerinde etkisi olacaktır.
+  LABEL_CONCURRENT_AMOUNT: Rakiplerin sayısı
+  LABEL_YES: Evet
+  LABEL_NO: Hayır
+  LABEL_PRICE_MONTHLY: Aylık masraflar
+  LABEL_SERVER_MONITORING_REPORT: Sunucu durumu
+  LABEL_ONLINE_USAGE: Çevrimiçi oyuncular
+  LABEL_ONLINE_CAPACITY: Toplam oyuncu kapasitesi
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Çevrimiçi eşzamanlı oyuncu miktarı
+  LABEL_SERVER: Sunucu
+  LABEL_CAMPAIGN_NO_COST: Basın konuşması yap
+  LABEL_CAMPAIGN_DEMO: Bir demo yayınla
+  LABEL_CAMPAIGN_FULL: Bir reklam kampanyası yürütün
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    [b]%s[/b] sıradaki oyununu daha yeni ortaya çıkardı: [b]%s[/b]
+    [b]%s[/b] altında satışa sunulacak
+
+    %s
+
+    Oyununuz için en iyisini diliyorum!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    Hayranlar heyecanlı, öyleyse hepimiz söyle!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Hayranlar mutlu değil ve özel dergiler zaten bu oyunda steam bırakmak istiyor gibi görünüyor
+
+    Çok uzun zaman önce benzer bir oyun yayınladıkları söylenmeli.
+  LABEL_GAME_ANNOUNCED_TITLE: "%s duyuruldu"
+  LABEL_TRENDING: Trend
+  LABEL_CREATOR: Tarafından yaratıldı
+  LABEL_PRODUCER: yapımcı
+  LABEL_COMMUNITY_MANAGER: Topluluk yöneticisi
+  LABEL_SOUND_COMPOSER: Ses besteci
+  LABEL_SPECIAL_THANKS: Özel teşekkür
+  LABEL_VISITORS: "%d ziyaretçi"
+  LABEL_ATTENDANCE: katılım
+  LABEL_NONE: Yok
+  LABEL_NO_BUILDING: Bina mevcut değil
+  LABEL_NO_CONVENTION: Kongre planlanmadı
+  LABEL_CONVENTION_LAST_DATE: Son Kongre
+  LABEL_DATE: Tarih nedeniyle 
+  LABEL_STANDSIZE: Standların boyutu
+  LABEL_CONVENTION_NAME: Sözleşmelerin adı
+  LABEL_ATTEND: Katıl
+  LABEL_ORGANIZE: Düzenlemek
+  LABEL_INFORMATIONS: ayrıntılar
+  LABEL_GAME: Oyun
+  LABEL_GAMEPORT: oyun portu
+  LABEL_CONVENTION: Sergi merkezi
+  LABEL_LAND_VALUE: Arsa değeri
+  LABEL_SURFACE: Yüzey
+  LABEL_HYPE: aldatıcı
+  LABEL_AI: Yapay zeka
+  LABEL_ANIMATION: Animasyon
+  LABEL_ANISOTROPIC_FILTER: Anizotropik filtre
+  LABEL_BUILDING_LEASE: Kiralama
+  LABEL_TYPE_BUILDING: tip
+  LABEL_CHARACTERS: Karakterler
+  LABEL_COMPANY_NAME: Şirket Adı
+  LABEL_CUTSCENES: Sahneleri kes
+  LABEL_CURRENCY: Para birimi
+  LABEL_DESIGN: Tasarım
+  LABEL_DEVELOPMENT: Geliştirme
+  LABEL_DIFFICULTY: Zorluk
+  LABEL_EVENT_TYPE: Etkinlik tipi
+  LABEL_UNIT_SOLD: Satılan birim
+  LABEL_FANBASE: Fan Topluluğu
+  LABEL_FULLSCREEN: Tam ekran
+  LABEL_GAME_GENRE: tür
+  LABEL_GAME_HISTORY: Oyun Geçmişi
+  LABEL_GAME_NAME: İsim
+  LABEL_GAME_SIZE: Boyut
+  LABEL_GAME_ONLINE_SHORT: Çevrimiçi çok oyunculu
+  LABEL_PLATFORM_NOT_ONLINE: >
+    Bu platform çevrimiçi multiplayer'ı desteklemiyor
+  LABEL_GAMEPLAY: Oynanış
+  LABEL_GRAPHIC_SETTINGS: Grafik Ayarları
+  LABEL_GRAPHISM: Grafikler
+  LABEL_INCOME: Gelir
+  LABEL_INVALID_SAVE: Bozulmuş Kayıt
+  LABEL_KICKOFF: Başla
+  LABEL_LOAD_GAME: Oyunu Yükle
+  LABEL_MAP_SIZE: Harita Boyutu
+  LABEL_MARKETING_MATERIAL: Pazarlama malzemesi
+  LABEL_MUSIC: Müzik
+  LABEL_NETWORK: Ağ
+  LABEL_GRADE: Sınıf
+  LABEL_OPTIMIZATION: Optimizasyon
+  LABEL_OUTCOME: Giderler
+  LABEL_PHYSICS: Fizik
+  LABEL_GAME_FINISHED: Tebrikler, City Game Studio'yu tamamladınız.
+  LABEL_PLANNING: Planlama
+  LABEL_NO_PLATFORM_AVAILABLE: >
+    Oyun zaten mevcut olan her bir platforma taşındı
+  LABEL_PLATFORM: Platform
+  LABEL_PLAYER_NAME: Oyuncu İsmi
+  LABEL_PROFITS: Kazançlar
+  LABEL_POLISH: Cila
+  LABEL_PRICE: Fiyat
+  LABEL_RELEASE: Piyasaya sür
+  LABEL_RESOLUTION: Çözüm
+  LABEL_SCRIPTING: senaryo yaz
+  LABEL_SOUND: Ses
+  LABEL_SOUND_SETTINGS: Ses ayarları
+  LABEL_SOUNDFX: SoundFX
+  LABEL_SQUARE_FOOTAGE: bölge
+  LABEL_STAFF: Personel
+  LABEL_STORY: Hikaye
+  LABEL_STUDIO: Stüdyo
+  LABEL_TARGETTED_AUDIENCE: Hedef kitle
+  LABEL_THEME: Tema
+  LABEL_TUTORIEL: Eğitim
+  LABEL_USERINTERFACE: Kullanıcı Arayüzü
+  LABEL_THEME_MOVIE_ADAPTATION: Film uyarlaması
+  LABEL_THEME_PREHISTORY: tarih öncesi
+  LABEL_THEME_ARCHEOLOGY: Arkeoloji
+  LABEL_THEME_POSTAPOCALYPTIC: Kıyamet Sonrası
+  LABEL_THEME_ATLANTIS: Atlantis
+  LABEL_THEME_RELIGIOUS: Dini
+  LABEL_THEME_ORGANIZED_CRIME: Organize Suç
+  LABEL_THEME_CROSSOVER: Karşıdan karşıya geç
+  LABEL_THEME_DESERT: Çöl
+  LABEL_THEME_COMEDY: Komedi
+  LABEL_THEME_DRAGON: Ejderha
+  LABEL_THEME_EROTIC: Erotik
+  LABEL_THEME_SPY: Casus
+  LABEL_THEME_FANTASY: Fantezi
+  LABEL_THEME_GHOST: Hayalet
+  LABEL_THEME_HISTORY: Tarih
+  LABEL_THEME_HORROR: Korku
+  LABEL_THEME_MEDICAL: Tıbbi
+  LABEL_THEME_OCEAN: Okyanus
+  LABEL_THEME_ARABIAN_NIGHTS: Binbir Gece masalları
+  LABEL_THEME_MYTHOLOGY: Mitoloji
+  LABEL_THEME_NINJA: Ninja
+  LABEL_THEME_PARK: Park
+  LABEL_THEME_PIRATES: Korsan
+  LABEL_THEME_SCIENCE_FICTION: Bilim Kurgu
+  LABEL_THEME_SUPER_HEROS: Süper Kahramanlar
+  LABEL_THEME_VAMPIRE: Vampir
+  LABEL_THEME_TIME_TRAVEL: Zaman Yolculuğu
+  LABEL_THEME_WESTERN: Batı
+  LABEL_THEME_ZOMBIE: Zombi
+  LABEL_TYPE_ACTION: Aksiyon
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_VERSUS_FIGHTING: Karşı mücadele
+  LABEL_TYPE_PLATFORMS: Platformlar
+  LABEL_TYPE_SHOOT: Ateş
+  LABEL_TYPE_SHOOT_EM_UP: Hepsini Vur
+  LABEL_TYPE_FPS: FPS
+  LABEL_TYPE_TPS: TPS
+  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_OPEN_WORLD: Açık Dünya
+  LABEL_TYPE_HTA_LIKE: HTA-Benzeri
+  LABEL_TYPE_INFILTRATION: Sızma
+  LABEL_TYPE_SURVIVAL: Hayatta Kalma
+  LABEL_TYPE_HORROR: Korku
+  LABEL_TYPE_ADVENTURE: Macera
+  LABEL_TYPE_INTERACTIVE_FICTION: Etkileşimli kurgu
+  LABEL_TYPE_INTERACTIVE_MOVIE: Etkileşimli film
+  LABEL_TYPE_CHAT: Sohbet
+  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_EROGE: Eroge
+  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_VISUAL_NOVEL: Görsel Roman
+  LABEL_TYPE_MYSTERY_LIKE: Gizem Benzeri
+  LABEL_TYPE_RPG: RPG
+  LABEL_TYPE_ACTION_RPG: Aksiyon RPG
+  LABEL_TYPE_DUNGEON_CRAWLER: Zindan Paletli
+  LABEL_TYPE_MMORPG: MMO-RPG
+  LABEL_TYPE_DUNGEON: Zindan
+  LABEL_TYPE_CROOK_LIKE: Dolandırıcı Benzeri
+  LABEL_TYPE_TACTICAL_RPG: Taktiksel RPG
+  LABEL_TYPE_REFLEXION: Klasik bulmaca
+  LABEL_TYPE_MAZE: Labirent
+  LABEL_TYPE_HIDDEN_OBJECT: Saklı nesneler
+  LABEL_TYPE_PUZZLE: Bulmaca
+  LABEL_TYPE_SIMULATION: Simulasyon
+  LABEL_TYPE_ANIMALS: Hayvanlar
+  LABEL_TYPE_GOD_GAME: Tanrı oyunu
+  LABEL_TYPE_FARMING: Tarım
+  LABEL_TYPE_LIVING_ORGANISM: canlı organizma
+  LABEL_TYPE_SPORT: Spor
+  LABEL_TYPE_MANAGEMENT: Yönetim
+  LABEL_TYPE_ECONOMY: Ekonomik
+  LABEL_TYPE_CITY_BUILDER: Şehir oluşturucu
+  LABEL_TYPE_GOVERNMENT: hükümet
+  LABEL_TYPE_VEHICLE: Araç
+  LABEL_TYPE_RACING: Yarış
+  LABEL_TYPE_DRIVE: Şöför
+  LABEL_TYPE_FLY: uçuş
+  LABEL_TYPE_SPACE: Uzay
+  LABEL_TYPE_SUBMARINE: Denizaltı
+  LABEL_TYPE_TRAIN: Tren
+  LABEL_TYPE_STRATEGY: Strateji
+  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_MOBA_LIKE: Moba Benzeri
+  LABEL_TYPE_TOWER_DEFENSE: Kule savunması
+  LABEL_TYPE_TURN_BASED: Sıra tabanlı
+  LABEL_TYPE_ARTILLERY: Ağır Silahlar
+  LABEL_TYPE_CASUAL: gündelik
+  LABEL_TYPE_BREAKOUT: Büyük çıkış
+  LABEL_TYPE_RYTHM: ritim
+  LABEL_TYPE_CLICKER_GAME: Tıklama Oyunu
+  LABEL_TARGETTED_AUDIENCE_YOUNG: Genç
+  LABEL_TARGETTED_AUDIENCE_ALL: Herkes
+  LABEL_TARGETTED_AUDIENCE_MATURE: Yetişkin
+  LABEL_GAME_SIZE_INDIE: bağımsız yapım
+  LABEL_GAME_SIZE_NORMAL: Normal
+  LABEL_GAME_SIZE_BIG: Büyük
+  LABEL_GAME_SIZE_AAA: AAA
+  LABEL_MAP_SIZE_TINY: Mini 
+  LABEL_MAP_SIZE_SMALL: Küçük
+  LABEL_MAP_SIZE_MEDIUM: Orta
+  LABEL_MAP_SIZE_LARGE: Büyük
+  LABEL_MAP_SIZE_HUGE: Devasa
+  LABEL_DIFFICULTY_EASY: Kolay
+  LABEL_DIFFICULTY_NORMAL: Normal
+  LABEL_DIFFICULTY_HARD: Zor
+  LABEL_DIFFICULTY_INSANE: Çok zor
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] yeni bir platform yayınladı: [b]%s[/b]"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] o kadar iyi emekli oldu ki [b]%s[/b], hayranları ağlıyor"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] birkaç ay içinde yeni bir platform çıkaracak [b]%s[/b] yıllarca sürmesi bekleniyor"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] çok iyi bilinen [b]%s[/b] ömrünün sona erdiğini açıkladı"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "[b]%s[/b] lisansını açtınız, [b]%s$[/b]"
+  LABEL_PLATFORM_RELEASED_TITLE: Platform yayınlandı
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Üretilmeyen platform
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Gelecek platform
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Yaşam platformunun yaklaşmakta olan sonu
+  LABEL_PLATFORM_UNLOCKED_TITLE: Platform satın alındı
+  LABEL_CLICK_TO_CLOSE: Kapatmak için tıklayın
+  LABEL_SHOP_UI: Market
+  LABEL_DESK: Çalışma Masası
+  LABEL_BOOKSHELF: Kitaplık
+  LABEL_WASTEBASKET: Çöp sepeti
+  LABEL_ASSIGN_EMPLOYEE: Personel
+  LABEL_NEW_GAME: Yeni Oyun
+  LABEL_MODDING: Modifiye
+  LABEL_ARTWORK: Sanat Eseri
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Son deneyiminiz sayesinde, yeni bir türün kilidini açtınız [b]%s[/b]
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Tür kilidi:%s"
+  LABEL_MAGAZINE_0: Fan Oyunu
+  LABEL_MAGAZINE_1: PC oynatıcı
+  LABEL_MAGAZINE_2: Oyun Geek
+  LABEL_MAGAZINE_3: Oyun  bitti Mag
+  LABEL_MAGAZINE_4: Geek Merkezi
+  LABEL_MAGAZINE_5: Oyun 2
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: Wiki Oynatıcı
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: Oyun Bitti
+  LABEL_SCORE: Skor
+  LABEL_WAGE_INCREASES_TITLE: Zam talebi
+  LABEL_WAGE_INCREASES_DESCRIPTION: "Aşağıdaki çalışanlar maaş zammı yaptı:"
+  LABEL_PRESS_KEY: Basın
+  LABEL_WORD_OR: Veya
+  LABEL_INPUT_ACTION_UI_ROTATE: öğeyi döndür
+  LABEL_INPUT_ACTION_UI_DELETE: öğeyi sat
+  LABEL_INPUT_ACTION_UI_PAUSE: oyunu duraklat / devam et
+  LABEL_INPUT_ACTION_UI_CANCEL: iptal et
+  LABEL_INPUT_ACTION_UI_REPEAT: birkaç öğe yerleştir
+  LABEL_CATCHPHRASE_1_0: Zaman kaybı
+  LABEL_CATCHPHRASE_1_1: Her şeyi karavana koydular
+  LABEL_CATCHPHRASE_1_2: Bunu alma
+  LABEL_CATCHPHRASE_1_3: Keskin bir yaratıcılık eksikliği
+  LABEL_CATCHPHRASE_1_4: Paroksizminde Sıradışılık
+  LABEL_CATCHPHRASE_1_5: Mümkün olan en kötü skor
+  LABEL_CATCHPHRASE_2_0: Tahmin edilmeyen bir hayal kırıklığı
+  LABEL_CATCHPHRASE_2_1: Biri vasat mı dedi?
+  LABEL_CATCHPHRASE_2_2: Biri kötü mü dedi?
+  LABEL_CATCHPHRASE_2_3: Hayal kırıklığı yaratan bir deneyim
+  LABEL_CATCHPHRASE_2_4: "Bir kelime: boş"
+  LABEL_CATCHPHRASE_2_5: İptal edilmiş olmalı
+  LABEL_CATCHPHRASE_3_0: Felaket için doğru başlık
+  LABEL_CATCHPHRASE_3_1: Hedeflerine uyan bir hayal kırıklığı
+  LABEL_CATCHPHRASE_3_2: Her şeyi koydular, ama fazla bir şeyleri yoktu.
+  LABEL_CATCHPHRASE_3_3: Eğer sadece bir oyun yapmış olsaydı
+  LABEL_CATCHPHRASE_3_4: Üzücü bir deneyim
+  LABEL_CATCHPHRASE_3_5: Daha kötüsünü gördük, ama her şeyden önce daha iyi gördük!
+  LABEL_CATCHPHRASE_4_0: Bazı iyi fikirler için çok garip
+  LABEL_CATCHPHRASE_4_1: Çok önemli olmayan bir oyun
+  LABEL_CATCHPHRASE_4_2: Kötü bir fikir
+  LABEL_CATCHPHRASE_4_3: Yenilikçi olmak isteyen oyun ...
+  LABEL_CATCHPHRASE_4_4: Yanlış anlaşılmada, tekrar oynayabiliriz.
+  LABEL_CATCHPHRASE_4_5: En iyi an? Durduğunda
+  LABEL_CATCHPHRASE_5_0: Minimum hizmet
+  LABEL_CATCHPHRASE_5_1: Tatsız bir eritme potası
+  LABEL_CATCHPHRASE_5_2: Çok karışık bir rapor
+  LABEL_CATCHPHRASE_5_3: WDaha iyi gördük ama daha kötüsünü de gördük!
+  LABEL_CATCHPHRASE_5_4: Tabii, bu yılın oyunu değil
+  LABEL_CATCHPHRASE_5_5: Sınırlı bir ömrü olan bir boşluk
+  LABEL_CATCHPHRASE_6_0: Spiceless
+  LABEL_CATCHPHRASE_6_1: Basit ama gereksiz bir oyun
+  LABEL_CATCHPHRASE_6_2: Mütevazı ama ilginç
+  LABEL_CATCHPHRASE_6_3: Eğlenceli ama yeterli değil
+  LABEL_CATCHPHRASE_6_4: Rastgele tarafından şımarık ilginç bir kavram
+  LABEL_CATCHPHRASE_6_5: Güzel zamanlar geçirdim
+  LABEL_CATCHPHRASE_7_0: Ağırbaşlı ve verimli
+  LABEL_CATCHPHRASE_7_1: Vasat bir başarının yol açtığı zengin içerik
+  LABEL_CATCHPHRASE_7_2: Mükemmel estetik, hatalı mekanizmalar
+  LABEL_CATCHPHRASE_7_3: Sınırlı içeriğe sahip mükemmel bir konsept
+  LABEL_CATCHPHRASE_7_4: Doyurucu bir karışım mı?
+  LABEL_CATCHPHRASE_7_5: Bir mücevherden uzak değiliz
+  LABEL_CATCHPHRASE_8_0: En saf haliyle eğlenceli
+  LABEL_CATCHPHRASE_8_1: Taze bir esinti
+  LABEL_CATCHPHRASE_8_2: Arkadaşlarla partiler için olmazsa olmazlar
+  LABEL_CATCHPHRASE_8_3: Gerçekten ayrı bir Opus
+  LABEL_CATCHPHRASE_8_4: Örtülü bir güzellik
+  LABEL_CATCHPHRASE_8_5: Hoş ve yoğun
+  LABEL_CATCHPHRASE_9_0: Yılın en iyi oyunlarından biri
+  LABEL_CATCHPHRASE_9_1: Nihai oyun?
+  LABEL_CATCHPHRASE_9_2: Mükemmel yağlanmış bir makine
+  LABEL_CATCHPHRASE_9_3: Bu çok büyük
+  LABEL_CATCHPHRASE_9_4: Müthiş bir deneyim
+  LABEL_CATCHPHRASE_9_5: Harika bir iş
+  LABEL_CATCHPHRASE_10_0: Oyun bir mücevher
+  LABEL_CATCHPHRASE_10_1: Sahneleme bir şaheser
+  LABEL_CATCHPHRASE_10_2: Olması gereken
+  LABEL_CATCHPHRASE_10_3: Son zamanlarda en iyi oyunlarından biri
+  LABEL_CATCHPHRASE_10_4: Oyun saatlerinde, sadece iyi zaman geçiriyorsun
+  LABEL_CATCHPHRASE_10_5: Bu oyun herkesin aklını işaretleyecek
+  LABEL_CATCHPHRASE_11_0: Sanatsal bir yumruk
+  LABEL_CATCHPHRASE_11_1: Nadir güzel bir cevher
+  LABEL_CATCHPHRASE_11_2: Video oyunları için bir övgü
+  LABEL_CATCHPHRASE_11_3: Video oyunlarının prestijini yeniden belirleyen bir opus
+  LABEL_CATCHPHRASE_11_4: Mükemmellik bir oyun olsaydı böyle bir oyun olurdu
+  LABEL_CATCHPHRASE_11_5: Yirminci Dünya harikası
+  LABEL_CREATE_SEQUEL: Devamını Oluştur
+  LABEL_NEW_IP: Yeni ip
+  LABEL_POSTMORTEM: Analiz
+  LABEL_EMPTY_STUDIO: Uyarı Bu stüdyo, bilgisayarlı herhangi bir masaüstü içermez!
+  LABEL_MATCH_EXCELLENT: Mükemmel eşleşme
+  LABEL_MATCH_GOOD: İyi Eşleşme
+  LABEL_MATCH_OK: Ok Eşleşme
+  LABEL_MATCH_POOR: Kötü eşleşme
+  LABEL_POSTMORTEM_TITLE: Analiz (%s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] den yeni bir şey öğrenemedik"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "İşte [b]%s[/b] öğesinden öğrendiklerimiz:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] ve [i]%s[/i] arasındaki eşleşme [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- Oyunun türü için [b]%s[/b] yönetimi [b]%s[/b][/ul]"
+  LABEL_MARKET_SHARE: Pazar payı
+  LABEL_LICENSE_COST: Lisans
+  LABEL_OWNED: Sahip olunan
+  LABEL_WEEK_COST: Geliştirme ücreti
+  LABEL_CATALOG_SIZE: Oyun kataloğu boyutu
+  LABEL_PLATFORM_LIST: Platform listesi
+  LABEL_IDLE: Boş
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    [b]%s[/b] 'nin stüdyosu personeli, bazı çöplerin arkasına gizlenmiş başıboş bir kedi buldu.
+    Bu kedi çok sevimli ve personel zaten bir isim verdi. Ne yapmak istersin?
+  LABEL_ADOPT_CAT_TITLE: Sokak kedisi
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
+    Blue Studio'da iki kardeş yeni bir oyun çıkardı.
+    Bu bir oyun değiştirici ve yeni bir oyun türü ortaya çıktı. Gizem türü
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Gizem türü icat edildi
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
+    DustStar, oyun endüstrisinde devrim yaratan yeni bir oyun yayınladı.
+    HTA türünü yarattı
+  LABEL_UNLOCK_HTA_LIKE_TITLE: HTA türü icat edildi
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
+    Bir garajda 3 adam yeni bir oyun yarattı.
+    Yeni bir oyun türü ,Dolandırıcı şuan çok ünlü
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Dolandırıcı türü icat edildi
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
+    3 Amerikalı tasarımcı az önce ünlü bir oyun için mod yarattı.
+    Moba türü doğdu
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba türü icat edilidi
+  LABEL_BROKEN_COFFEEMAKER_TITLE: Kırık kahve makinesi
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    Stüdyo çalışanları [b]%s[/b] kahve bağımlısı.
+    Ama kahve makinesi son kupa bardağına hizmet etti ... Ne yapmak istersin?
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
+    Tavşanlar, her yerde tavşanlar. Bazı sesler çıkarıyorlar ... her yerde koşuyorlar.
+    Ama kimse onları fark etmiyor ve insanlar çalışmaya devam ediyor ...
+  LABEL_RABBIT_INVASION_TITLE: Tavşan istilası
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
+    Uzmanlar, oyunların belirli bir kitleyi hedef alabildiğini buldu.
+    3 farklı izleyici hakkında bir bildiri yayınladılar: genç, herkes ve yetişkin
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
+    Yeni bir virüs salındı. Sadece video oyunu şirketlerini hedef alıyor.
+    Tuhaf görünüyor, ancak imleçleri yavaşlatıyor ve bilgisayarları rasgele yeniden başlatıyor.
+    Bu kesinlikle çalışanlarınızın üretkenliğini etkileyecektir.
+    Sadece [b]%s[/b] saldırıya uğradı
+  LABEL_VIRUS_UNLEASHED_TITLE: Virüs salındı
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
+    Oyun incelemeleriyle ünlü bir vlogger yeni bir video yayınladı.
+    Ve bu kez oyunlarından birini inceledi [b]%s[/b]. Bunun kesinlikle satışlar üzerinde etkisi olacak.
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Ücretsiz reklamlar
+  LABEL_LOAN_TITLE: Son çare kredisi
+  LABEL_LOAN_DESCRIPTION: >
+    Biraz ekstra paraya ihtiyacın var, sana yardım edebiliriz. [b]%s$[/b] krediyle geri ödeme yapabilirsiniz.
+    Faiz oranlarımız, yalnızca [b]%s %%[/b] kadar düşük ve geri ödemeniz için [b]%s[/b] haftalarınız var.
+    Seninki gibi bir şirket için bütün bir hayat gibi. Biz son seçeneğiniziz, kendinize özendirin.
+  LABEL_BURNING_SERVER_DESCRIPTION: >
+    yanık kokusumu bu ?
+    Sunucularınız maksimum kapasitelerine ulaştı!
+  LABEL_BURNING_SERVER_TITLE: Bu iyi
+  LABEL_SMOKING_SERVER_DESCRIPTION: >
+    Çok iyi bir online oyun yapıyorsunuz ve çok iyi satıyorsunuz.
+    Ancak sunucularınız maksimum kapasitelerine ulaşıyor, çoğu% 90 veya daha fazla kullanılıyor.
+    Yeni sunucular satın almalısın.
+  LABEL_SMOKING_SERVER_TITLE: Sunucu kapasitesi uyarısı
+  LABEL_PAYLOAN_TITLE: Borç geri ödeme
+  LABEL_PAYLOAN_DESCRIPTION: Planlanan geri ödeme artık sona ermiştir, [b]%s$[/b] ödemek zorundasınız.
+  LABEL_SELL_STUDIO_TITLE: Stüdyo sat
+  LABEL_SELL_STUDIO_DESCRIPTION: "[b]%s[/b] adlı stüdyoyu satıyorsunuz, devam etmek istiyor musunuz?"
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: "[b]%s[/b] son stüdyonuz veya bir proje üzerinde çalışmakla meşgul olduğu için satış yapamazsınız"
+  LABEL_BUILDING_AREA: "%s m² alanı"
+  LABEL_BUILDING_BUY: Fiyat
+  LABEL_BUILDING_RENT: Kira
+  LABEL_BUILDING_CONVENTION: Sergi merkezi
+  LABEL_BUILDING_TYPE: inşaat
+  LABEL_BUILDING_ROAD: Yol
+  LABEL_BUILDING_STREET: sokak
+  LABEL_BUILDING_APARTMENT: Apartman
+  LABEL_BUILDING_HOTEL: Otel
+  LABEL_BUILDING_THEATER: Tiyatro
+  LABEL_BUILDING_TOWER: Kule
+  LABEL_BUILDING_STUDIO: Stüdyo
+  LABEL_BUILDING_BUILDING: Konut
+  LABEL_BUILDING_GRASS: çimen
+  LABEL_BUILDING_SQUARE: Kare
+  LABEL_BUILDING_CAFE: Cafe
+  LABEL_BUILDING_RESTAURANT: Restorant
+  LABEL_BUILDING_PIZZERIA: Pizzacı
+  LABEL_BUILDING_GYM: Spor Salonu
+  LABEL_BUILDING_OFFICE: Ofis
+  LABEL_NO_GAME_AVAILABLE: Oyun mevcut değil
+  LABEL_NO_MONEY: Çok pahalı
+  LABEL_COMPUTER: Bilgisayar
+  LABEL_PLANT: Bitki
+  LABEL_TABLEPLANT: tablo
+  LABEL_PRINTER: Yazıcı
+  LABEL_COFFEEMACHINE: Kahve makinesi
+  LABEL_DARKMETALTABLEDESK: Koyu metal masa
+  LABEL_METALDESK: Metal masa
+  LABEL_METALLARGEDESK: Büyük metal masa
+  LABEL_METALTABLEDESK: Metal masa
+  LABEL_WOODDESK: Ahşap masa
+  LABEL_WOODLARGEDESK: Büyük ahşap masa
+  LABEL_WOODTABLEDESK: Ahşap masa
+  LABEL_WATERTANK: Su çeşmesi
+  LABEL_WHITEBOARD: Beyaz tahta
+  LABEL_WOODBOOKSHELF: Ahşap kitaplık
+  LABEL_METALBOOKSHELF: Metal kitaplık
+  LABEL_HOLIDAY: Tatil
+  LABEL_NO_COMPUTER: Bilgisayar yok
+  LABEL_NO_STUDIO: Stüdyo yok
+  LABEL_EMPLOYEE_CAPACITY: dürt.
+  LABEL_STUDIO_CAPACITY: Stüdyo dürt.
+  LABEL_EMPLOYEE_TOOLTIP: Verimlilik (dürtmek.) Çalışan verimliliğini arttırır
+  LABEL_STUDIO_TOOLTIP: Verimlilik (dürtmek.) Stüdyo verimliliğini artırır
+  LABEL_BUILD_STUDIO: Stüdyoyu düzenle
+  LABEL_WALL: Duvar
+  LABEL_PILLAR: Sütun
+  LABEL_FLOOR: Zemin
+  LABEL_HIRING_DATE: Kiralama tarihi
+  LABEL_WORK: Durum
+  LABEL_NUMBER_OF_GAME_PRODUCED: Üretilen oyunlar
+  LABEL_DESIGN_POINT_PRODUCED: Üretilen tasarım noktalarının sayısı
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Üretilen gelişim noktalarının sayısı
+  LABEL_POLISH_POINT_PRODUCED: Üretilen cila noktalarının sayısı
+  LABEL_PRODUCTIVITY: Verimlilik
+  LABEL_MONEY_EFFICIENCY: Maliyet verimliliği
+  LABEL_SKILLS: Beceri
+  LABEL_HOME: Home
+  LABEL_MONTH: Ay
+  LABEL_ORDER_BY: Tarafından
+  LABEL_BUY_PRICE: Satın alma fiyatı
+  LABEL_RENT_PRICE: Kira fiyatı
+  LABEL_NO_STUDIO_AVAILABLE: Stüdyo mevcut değil
+  LABEL_REAL_ESTATE: Emlak
+  LABEL_STAFF_SIZE: Personel boyutu
+  LABEL_CREATION_DATE: Oluşturulma tarihi
+  LABEL_STUDIO_LIST: Stüdyo listesi
+  LABEL_NO_STUDIO_FOUND: Stüdyo bulunamadı
+  LABEL_PRODUCTIVITY_BONUS: Verimlilik bonusu
+  LABEL_SKILLS_AVERAGE: Beceriler (ortalama)
+  LABEL_VSYNC: VSync
+  LABEL_BORDERLESS_WINDOW: Kenarlıksız pencere
+  LABEL_GAMEEDITION_SUBMIT: >
+    Çok fazla hayranın var.
+    Oyunları düzenlemek için yeterince iyi biliniyorsunuz..
+  LABEL_GAMEEDITION_RECEIVE: >
+    Son başarınızdan sonra, yayıncılar size teklifte bulunmak için kısa sürede sizinle iletişim kuracaklar.
+  LABEL_WORLDMAP: >
+    Bak, seni dışarıda bekleyen bir dünya insan var.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
+    İlk video oyun dergileri yayınlandı, oyununuzdan birinin reklamını yapmak ister misiniz?
+  LABEL_MARKETING_CAMPAIGN_TV: >  
+    Oyunlarınızı televizyon reklamlarıyla duyurmanın zamanı geldi.
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
+    İnternet dönemi başlıyor, milyonlarca insana basit bir banner reklamla ulaşabilirsiniz.
+  LABEL_CONCURRENT_STUDIOS_LIST: >
+    Stüdyonuz büyüyor, pazarı incelemek ve yarışmaya bir göz atmanın zamanı geldi.
+  LABEL_CONCURRENT_STUDIOS_BUY: >
+    Hamurda yuvarlanıyorsunuz, artık rekabetçi stüdyolar satın almanın zamanı geldimi?
+  LABEL_FURNITURES_COMMON_BUY: >
+    şık bir ofis tadilatının zamanı geldi.
+  LABEL_EMPLOYEES_HIRE: >
+    Stüdyonuz büyüyor, daha fazla oyun üretiyor, kalitesini arttırıyor. Ama önce işe alım yapmanız gerekiyor.
+  LABEL_STUDIO_RENT: >
+    Artık, stüdyonuzda kendinizi küçük bir kutunun içinde hissediyorsunuz, bir sonraki yerinizi alın
+  LABEL_STUDIO_BUILD: >
+    Başarınız, kendi stüdyolarınızı oluşturmanıza olanak sağlar.
+  LABEL_CONVENTION_ORGANIZE: >
+    Milyonlarca insan sizi desteklediğinde artık kendi sözleşmelerinizi organize edebilirsiniz.
+  LABEL_CONVENTION_PARTICIPATE: >
+    Sizin oyun kataloğunuz görülmeye değer, sözleşmelere katılmak görünürlüğünüzü arttırmanıza yardımcı olabilir.
+  LABEL_STUDIO_CUSTOMIZE: >
+    Donuk duvarlarınız verimliliğinizi düşürüyor mu?
+    Yeniden tasarlamanın zamanı geldi.
+  LABEL_GAME_ONLINE: >
+    Oyuncuların dikkatini nasıl daha fazla çekersiniz ?
+    işte internet , çevrimiçi oyunlar yap ve oyunun bağımlısı olsunlar!
+  LABEL_FURNITURES_SERVERS_BUY: >
+    Daha fazla masa, daha fazla sandalye, daha fazla bilgisayar, daha fazla beyaz tahta, daha fazla!
+  LABEL_DIGITAL_STORE: >
+    Kaydileştirildi, duymaya başladınız ve bunun gelecek olduğunu zaten biliyorsunuz.
+  LABEL_POSTMORTEM_FEATURE: >
+    Tebrikler, ilk oyununuzu yaptınız. Gelişimini, tasarımını ve cilalamasını değerlendirmenize yardımcı olmak için artık bir analize geçebilirsiniz.
+  LABEL_NEW_GAME_FEATURE: >
+    Baştan beri video oyunlarının epik tarihini yeniden yaşamaya hazır mısınız?
+    City Game Studio'ya hoş geldiniz. Başlayın ve ilk oyununuzu oluşturun.
+  LABEL_LOADING: Yükleniyor
+  LABEL_NAME: İsim
+  LABEL_SALARY: Maaş
+  LABEL_NO_SCORE: Henüz bir skor yüklenmedi!
+  LABEL_CAPACITY_STORY_FEATURE: >
+    İyi bir oyun her zaman iyidir, iyi bir hikaye her zaman iyidir.
+    Peki ya iyi bir hikaye ile iyi bir oyun?
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
+    Bu düğmenin amacı nedir?
+    Oyunlarınızın kullanıcı arayüzünü yönetmeniz gerekiyor
+  LABEL_CAPACITY_NETWORK_FEATURE: >
+    Şimdilik video oyunu oynamak harika, ancak arkadaşlarınızla oynamak daha da güzel!
+    Oyunlarınız için ağı yönetmeniz gerekiyor
+  LABEL_CAPACITY_MODDING_FEATURE: >
+    Oyunlarından bazıları zaten oyuncular tarafından modifiye edildi.
+    Bu sayede daha çok oyun satarsın.
+    Bu, bilgisayar korsanlarına yardım etme ve uygun bir mod API üzerinde çalışma zamanı: oyunlarınız için
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
+    Filmler video oyunlarını etkiliyor, yeni bir oyun oluştururken cutscenleri yönetmemiz gerekiyor
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
+    Yeni bir oyun oynamak öğrenme gibidir.
+    Kolay değil, bu yüzden yeni oyunlarınız için bir eğitim oluşturmaya karar verdiniz.
+
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
+    Rick ve Paris özel hayatlarını sergiliyorlar.
+    Sosyal ağlar iyilik için buradalar ve bunları kullanabilirsiniz.
+    Oyunlarınızı pazarlamak için!
+
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
+    Son zamanlarda yapılan bir çalışma, istenmeyen e-posta göndermenin önemli ölçüde artabileceğini göstermektedir.
+    Oyunlarınızın görünürlüğü. Spam, ruh halindeki yeni kelimedir ve
+    Oyunlarınızı pazarlamak için bunları kullanabilirsiniz!
+
+  LABEL_GAMEPORT_FEATURE: >
+    Hayaller gerçek oldu. Yeni bir konsol piyasaya sürüldü!
+    Platformlar arası bir oyun çıkarabilirsiniz.
+    Hadi gidelim, deneyelim!
+
+  LABEL_GAME_CREATION: Her göstergeyi ayarlayarak oyununuzun her bölümünün iş yükünü tahmin edin
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
+    Yayıncıların tekliflerine bakabilirsiniz. Bir oyun yayınlamak popüler olmak ve daha büyük oyunlar yayınlamak için kolay bir yoldur.
+  LABEL_WORLDMAP_DESCRIPTION_0: >
+   Şehri ziyaret edin, yarışmaya bir göz atın ve stüdyonuzun yerini kontrol edin.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
+    Birçok oyun dergisinde pazarlama kampanyası düzenlemenizi sağlar. Bu, oyunlarınızın görünürlüğünü artıracaktır.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
+    Şu anda satışta olan oyunlarınızın afişlerini yerleştirmek için reklam panoları kiralamanıza izin verir.
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
+    Televizyon reklam kampanyaları düzenlemenizi sağlar. Pahalı, ama bugünlerde kim televizyon izlemiyor ?!
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
+    Artık web sitelerinde bir reklam metni görüntüleyebilirsiniz. Ucuz ve daha fazla oyuncu getiriyor.
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
+    Oyunlarınızın var olduğunu göstermek için dünya çapında web üzerinde bir vitrin oluşturmak artık mümkün.
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
+    Rakiplerinizi şehir haritasında görebilirsiniz, şimdi onları izleyebilirsiniz.
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
+    Rakiplerinizi satın almak, çok sayıda taraftar kazanmanın ve şirketinizi büyütmenin kolay bir yoludur.
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
+    Stüdyolarınızdan birine bakarken şimdi yeni mobilya satın alabilirsiniz.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
+    En iyi oyunların tasarım, geliştirme ve cilalama kadar güçlü ekipler tarafından üretildiğini unutmayın.
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
+    Yeni binalar kiralamanıza izin verir. Bu, aynı anda birkaç proje üzerinde çalışmanıza izin verecektir.
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
+    Yeni stüdyolar inşa etmeni sağlar. Pahalıdır, sınırsız büyümeye devam etmenin tek yollarından biridir.
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
+    Stüdyolar üretmenin yanı sıra, konferans düzenlemek için gerekli olan konferans merkezlerini de oluşturabilirsiniz.
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
+    Konferans merkezleriniz olması durumunda konferanslar düzenleyebilirsiniz.
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
+    Sözleşmelere katılabilirsiniz, bu, oyunlarınızın zaman zaman görünürlüğünü artıracaktır.
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
+    Duvarları yeniden boyayabilir, direkleri değiştirebilir ve stüdyolarınızın zeminini tekrar yapabilirsiniz.
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
+    Sunucuları satın almak, çevrimiçi oyunlar oluşturmanıza ve aynı zamanda çevrimiçi bir portal oluşturmanıza olanak tanır.
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
+   Çevrimiçi oyunlar oluşturabilirsiniz. Normalde daha ucuzdurlar, ancak oyuncular aylık bir abonelik ödemek zorundadır.
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
+    Kaydileştirilmiş bir oyun mağazası ve nihayet geliştirilmesi gereken  bir alfa sürümü oluşturabilirsiniz.
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
+    Yayıncılardan tekliflerde bulunabilirsiniz, size çok para kazandırır ama kötü notlardan sakının.
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
+    Bir Analiz oyunun gelişimi sırasında neyin doğru neyin yanlış gittiğini gösteren bir rapordur, size ipuçları verir.
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
+    İyi bir oyun yaratmak, City Game Studio'da ilerlemenizi, para kazanmanızı, hayranlarınızı ve deneyiminizi kazanmanızı sağlar.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
+    Bir oyun oluştururken şimdi hedef kitleyi seçebilirsiniz, bunun oyunun son skoru ve satışları üzerinde etkisi vardır.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
+    Oyun oluştururken yeni bir tasarım ölçere sahipsiniz
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
+    Oyun oluştururken yeni bir tasarım ölçere sahipsiniz
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
+    Oyun oluştururken yeni bir geliştirme ayarcınız var
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
+    Oyun oluştururken yeni bir geliştirme ayarcınız var
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
+    Oyun oluştururken yeni bir parlatma mastarınız var
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
+    Oyun oluştururken yeni bir parlatma mastarınız var
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
+    Sosyal ağlarda reklam verebilirsiniz, çok hedefli, pahalı ve çok etkili
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
+    E-posta göndermek size hemen hemen hiçbir şeye mal olmaz ve oyunlarınızın satışlarını etkiler
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
+    Oyunlarınızı yeni platformlara taşıyabilirsiniz, basit ve tek bir kişiye ihtiyaç var.
+  LABEL_UNLOCK_GAMEGENRE: Oyun yapımında tecrübe kazandınız, yeni oyun mekaniği geliştirmeye hazırsınız
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    Artık yeni oyun türlerinin kilidini açabilirsiniz. Tecrübe puanı kazanmak için sadece oyun yayınlamanız gerekiyor.
+
+  # Placeholder used for forms
+  PLACEHOLDER_COMPANY_NAME: Şirket adı
+  PLACEHOLDER_GAME_GENRE: Oyun türü
+  PLACEHOLDER_GAME_NAME: Oyun ismi
+  PLACEHOLDER_PLAYER_NAME: İsminiz
+
+  LABEL_VERSION_BETA: Beta versiyon
+  LABEL_BREAK_LAW: |
+    Yasayı çiğnemek üzeresin.
+    
+    Devam etmek istiyor musun?
+  LABEL_SUCCESS: Başarılı
+  LABEL_FAILURE: Başarısız
+  LABEL_CANNOT_INTERACT: "%s ile %s arasında iletişim kuramayacaksınız."
+  LABEL_FAN_LOST: Bu popülerliğini etkiledi,%s hayranını kaybettin
+  LABEL_PENALTY_COST: Adalet karar verdi,%s$ ödemeniz gerekiyor
+  LABEL_EMPLOYEE_HIRED: "%s kiraladınız"
+  LABEL_GAME_CRACKED: "%s kırdınız"
+  LABEL_GENRE_STOLEN: "%s öğrendin"
+  LABEL_STUDIO_SOLD: "%s sattılar"
+
+  # Tooltips
+  TOOLTIP_FORCE_STUDIO: |
+    Satışa zorlamak istediğiniz stüdyoyu seçmelisiniz
+  TOOLTIP_CRACK_GAME: |
+    hacklemek istediğiniz oyunu seçmelisiniz
+  TOOLTIP_HIRE_STAFF: |
+    İşe almak istediğiniz çalışanı seçmelisiniz
+  TOOLTIP_CONCURRENT_LOCKED: |
+    %s'dan%s'a karşı bir eylemi tekrar deneyebileceksiniz
+  TOOLTIP_TUTORIEL: |
+    %s kilidini açmak için %s
+  TOOLTIP_EMAIL: |
+    Haberleri ve postanı oku
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Yeni oyun türlerinin kilidini açmana izin verir.
+  TOOLTIP_MANAGE_STUDIO: |
+    Stüdyolarınızı yönetmek, bilgisayarları yükseltmek, çalışanlarını görevlendirmek ...
+  TOOLTIP_GAMEPORT: Bir video oyununu başka bir platforma taşıyın
+  TOOLTIP_POSTMORTEM: |
+    Analiz raporu oluşturun.
+    Analiz rapor yardımı
+    daha iyi oyunlar yarat
+  TOOLTIP_CREATE_GAME: Yeni bir oyun oluştur
+  TOOLTIP_STAFF: Personel listesi
+  TOOLTIP_RECRUIT: Şehirdeki mevcut adayları listele
+  TOOLTIP_PORTFOLIO: Şimdiye kadar yaptığın tüm oyunları listele
+  TOOLTIP_OPTION: Parametre ve seçenekler
+  TOOLTIP_EXIT: Linux'a dön
+  TOOLTIP_STUDIOS: Stüdyolarını listele
+  TOOLTIP_STUDIOLIST: Şehirdeki mevcut ofisleri listele
+  TOOLTIP_CONSTRUCT: |
+    İçin yeni bir bina yap
+    bir ofis veya
+    kongre yap
+  TOOLTIP_CONFERENCE: Kuralları yönet
+  TOOLTIP_MARKETING: Pazarlama kampanyalarınızı yönetin
+  TOOLTIP_SELL: Ofisini sat
+  TOOLTIP_SHOP: Ofisiniz için mobilya ve eşya satın alın
+  TOOLTIP_BUILDMOD: Ofisinizi Boyayın ve güzelleştirin
+  TOOLTIP_ASSIGN: Çalışanı masaya atama
+  TOOLTIP_STUDIO_SELECT: Çalışanı masaya atayın
+  TOOLTIP_ANNOUNCE_GAME: |
+    Video oyununu duyurun.
+    Aldatıcı reklam oluşturur.
+  TOOLTIP_CONCURRENT: |
+    video oyun şirketleri listesi
+  TOOLTIP_STUDIO_COST: |
+    Toplam stüdyo maliyeti. Kira bedeli ve maliyeti dahil
+    ekipmanın bakımı (örneğin sunucular için)
+  TOOLTIP_MARKETING_COST: |
+    Halen devam etmekte olan pazarlama kampanyalarınızın maliyetleri
+  TOOLTIP_SALARY_COST: |
+    Her çalışanın maaşı
+  TOOLTIP_STEAM_MODS: |
+    Buhar atölyesi
+
+  # Showd when game is loading
+  LOADING_SCREEN_TIP_0: >
+    Şirketiniz, son dört yılda ürettiğiniz oyunların kalitesine göre gizlice derecelendirildi
+  LOADING_SCREEN_TIP_1: >
+    Üretim ekibinizi güçlendirmek için mükemmel çalışanlar kendiliğinden başvurabilirler
+  LOADING_SCREEN_TIP_2: >
+    Bu yükleme ekranı sadece sizi bekletmek için orada, aslında döngü olan bir uyku (rastgele (0, 50))
+  LOADING_SCREEN_TIP_3: >
+    Yeni bir oyun türü keşfetmek, size rekabet karşısında önemli bir avantaj sağlar.
+  LOADING_SCREEN_TIP_4: >
+    Rakiplerinizle oyun üretmek, ünlü olmanın en iyi yoludur
+  LOADING_SCREEN_TIP_5: >
+    Kendi binalarınızda Toplantılar düzenleyebilirsiniz, ancak bir yıl arayla boş yer açmanız daha iyi olur.
+  LOADING_SCREEN_TIP_6: >
+    Kötü satış departmanı her zaman haklıdır
+  LOADING_SCREEN_TIP_7: >
+   Çevrimiçi oyunları barındırmak için sunuculara ihtiyacınız var, daha ucuzlar ancak oyuncuların oynamaya devam etmek için aylık ödemeleri gerekiyor
+  LOADING_SCREEN_TIP_8: >
+    Maskotumuz Einstein, City Game Studio'nun gelişimi sırasında 65.13 kez havladı.
+  LOADING_SCREEN_TIP_9: >
+    City Game Studio'nun gelişimi sırasında 12654 Noel şarkısı çalındı
+  LOADING_SCREEN_TIP_10: >
+    Pazar paylarına bakmak iyi, ancak bir platformda yayınlanan oyunların miktarına da dikkat etmeniz gerekiyor.
+  LOADING_SCREEN_TIP_11: >
+    City Game Studio'yu çevirmek için yardım etmek ister misin? https://github.com/binogure-studio/city-game-studio-i18n
+  LOADING_SCREEN_TIP_12: >
+    Sunucularınızın ışıkları kırmızı yandığında, aşırı yüklendikleri anlamına gelir.
+  LOADING_SCREEN_TIP_13: >
+    Kahve molası vermeyi unutma ... Ah, kahve makinesi tekrar bozuldu.
+  LOADING_SCREEN_TIP_14: >
+    Crunchtime bir tahıl markası değil, ancak yaygın bir yönetim uygulamasıdır.
+  LOADING_SCREEN_TIP_15: >
+    Yeni oyun yayınlamak para kazanmak için en iyi yoldur
+  LOADING_SCREEN_TIP_16: >
+    Analizler, yayınladığınız oyunlar hakkında daha fazla bilgi edinmenizi sağlar
+  LOADING_SCREEN_TIP_17: >
+    Son zamanlarda yapılan bir araştırmaya göre, 625.3 köpeğin yaklaşık 1'i yağmur yağdığında havlamaya başlıyor ve diğerleri bununla dalga geçiyor.
+  LOADING_SCREEN_TIP_18: >
+    Yükleme ekranlarında okuyabileceğiniz her şeye güvenmeyin
+
+  GAMEEDITION_SUBMIT: Yayıncılık teklifleri yayınla
+  GAMEEDITION_RECEIVE: Yayın teklifi al
+  WORLDMAP: Şehir haritası
+  MARKETING_CAMPAIGN_MAGAZINE: Basında reklam kampanyası
+  MARKETING_CAMPAIGN_TV: Televizyonda reklam kampanyası
+  MARKETING_CAMPAIGN_INTERNET: Çevrimiçi reklam kampanyası
+  CONCURRENT_STUDIOS_LIST: Rakipleri listele
+  CONCURRENT_STUDIOS_BUY: Rakipleri satın al
+  FURNITURES_COMMON_BUY: Mobilya satın al
+  EMPLOYEES_HIRE: Personel al
+  STUDIO_RENT: Stüdyo dairesi kiralamak
+  STUDIO_BUILD: Bir stüdyo inşa et
+  CONVENTION_ORGANIZE: Bir kongre düzenleyin
+  CONVENTION_PARTICIPATE: Bir kongreye katıl
+  STUDIO_CUSTOMIZE: Stüdyolarınızı yenileyin
+  FURNITURES_SERVERS_BUY: Sunucu Satın al
+  GAME_ONLINE: Çevrimiçi oyunlar yayınla
+  DIGITAL_STORE: Kaydileştirilmiş mağaza
+  POSTMORTEM: Oyun raporu
+  NEW_GAME: Yeni oyun
+  TARGETTED_AUDIENCE: Hedeflenmiş kitle
+  STORY: hikâye
+  USERINTERFACE: Kullanıcı arayüzü
+  NETWORK: Ağ
+  MODDING: Modifiye
+  CUTSCENES: Sahneleri kes
+  TUTORIEL: Öğreticiler
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Hedeflenen reklam kampanyası
+  MARKETING_CAMPAIGN_MAILINGLIST: E-posta reklam kampanyası
+  GAMEPORT: Oyuna giriş
+  UNLOCK_GAMEGENRE: Oyun türünün kilidini aç
