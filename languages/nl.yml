@@ -1,4 +1,4 @@
-nl:
+gaugenl:
   # Buttons actions verbs
   BUTTON_ANNOUNCE: Kondig het spel aan
   BUTTON_NEW_GAME: nieuw spel
@@ -56,6 +56,7 @@ nl:
   BUTTON_SELECT: Selecteer
 
   # Labels, descriptive
+  LABEL_LAST_COMBO: "Laatste keer heb je dezelfde combo thema/genre gemaakt"
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] heeft te weinig [b]%s[/b].
   LABEL_POINTRATIO_TOO_MUCH: |
@@ -734,7 +735,7 @@ nl:
   LABEL_STUDIO_BUILD: >
     Jouw succes laat je toe om je eigen studio te bouwen.
   LABEL_CONVENTION_ORGANIZE: >
-    Met een miljoen mensen die je steunen wordt het tijd om je eigen expositie te organiseren.
+    Met honderduizend mensen die je steunen wordt het tijd om je eigen expositie te organiseren.
   LABEL_CONVENTION_PARTICIPATE: >
     Jouw game catalogus is het waard om bezien te worden. Deelnemen in exposities kan je meer zichtbaar maken.
   LABEL_STUDIO_CUSTOMIZE: >
@@ -790,222 +791,222 @@ nl:
     Je kan nu een cross-platform game uitbrengen.
     Laten we het uitproberen!
 
-  LABEL_GAME_CREATION: Schat de werkhoeveelheid in van elk onderdeel van je game door de sliders aan te passen.
+  LABEL_GAME_CREATION: Schat de werkhoeveelheid in van elk onderdeel van je game door de gauges aan te passen.
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
-    You can look at publishers' offers. Publishing a game is an easy way to become popular and to publish bigger games.
+    Je kan publishing offers bekijken. Een game publiceren is een makkelijke manier om populair te worden en grotere games te publiceren.
   LABEL_WORLDMAP_DESCRIPTION_0: >
-    Visit the city, have a look at the competition, and check where your studio is.
+    Bezoek de stad, werp een blik op de concurrenten en kijk waar hun studio is.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
-    Allows to organize a marketing campaign through many gaming magazines. This will increase the visibility of your games.
+    Laat je toe om een advertentie campagne to organiseren door game magazines. Dit zal de zichtbaarheid van je games vergroten.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
-    Allows you to rent advertising boards to place posters of your games currently on sale.
+    Laat je toe om advertentie borden te huren om posters van je games die momenteel verkocht worden te plaatsen.
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
-    Allows you to organize television advertising campaigns. It's expensive, but who doesn't watch television these days?!
+    Je kan vanaf nu televisie advertentie campanges starten. Het is duur, maar wie kijkt er geen tv deze dagen?
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
-    You can now display an advertising insert on websites. It's cheap, and it brings in more players.
+    Je kan nu advertenties plaatsen op websites. Het is goedkoop en het brengt meer spelers binnen.
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
-    It is now possible to create a showcase on the world wide web to show the world that your games exist.
+    Je kan nu een showcase maken op het wereldwijde web om je gemaakte games te tonen.
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
-    You could see your competitors on the city map, now you can watch them.
+    Je kon je concurrenten zien op de map. Nu kan je ze ook bekijken.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
-    Buying your competitors is an easy way to win a lot of fans, as well as to expand your company.
+    Je concurrenten kopen is een makkelijke manier om veel fans te winnen, alsook om je bedrijf uit te breiden.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    While you are looking at one of your studios, you can now buy new furniture.
+    Bij het kijken naar een van je studios, kan je nieuwe meubelen kopen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Keep in mind that the best games are produced by teams as strong in design, development and polishing.
+    Onthou da de beste games geproduceerd worden door teams die even sterk in design, development en polish zijn.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
-    Allows you to rent new buildings. This will allow you to work on several projects at the same time.
+    Je kan nieuwe gebouwen huren. Dit zal het je toelaten om aan meerdere projecten te werken op hetzelfde moment.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    Allows you to build new studios. It's expensive, it's one of the only ways to keep growing without limit.
+    Laat je toe om nieuwe studios de bouwen. Het is duurn maar de enige manier om ongelimiteerd te blijven groeien.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
-    In addition to being able to build studios, you can also build conference centres, which is necessary to organize conferences.
+    Naast studios bouwen kan je ook expositie centers bouwen. Welke nodig zijn om exposities te organiseren.
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
-    If you need to have conference centres then you can organize conferences.
+    Als je expositie centers nedig hebt kan je exposities organiseren.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
-    You can participate in conventions, this will increase the visibility of your games from time to time.
+    Je kan deelnemen in exposities. Dit zal de zichtbaarheid van je games verhogen van tijd tot tijd.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
-    You can repaint the walls, change the posts and redo the floors of your studios.
+    Je kan de muren herschilderen, de steunpalen veranderen en de vloeren herdoen van je studios.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-    Buy servers will allow you to create online games but also an online portal.
+    Servers kopen zal je toestaan om online games te maken en oko een online portaal.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
-    You can create games online. They are normally less expensive, but players must pay a monthly subscription.
+    Je kan online games maken. Ze zijn normaal minder duur maar spelers moeten een maandelijkse subscriptie betalen.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    You can create a dematerialized game store, and finally a first alpha version that will need to be improved.
+    Je kan een gedematerialiseerde game winkel maken en uiteindelijk een eerste alpha versie that verbeterd zal moeten worden.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    You can make offers from publishers, it brings you a lot of money but beware of bad marks.
+    Je kan offers maken voor publishers, het brengt je veel geld op maar let op de slechte opmerkingen.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-    A post-mortem is a report of what went right or wrong during the development of the game, it gives you clues.
+    Een post-mortem is een rapport van wat slecht of goed ging tijdens het maken van het spel. Het geeft je hints.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
-    Creating a good game allows you to progress in City Game Studio, earn money, fans and experience.
+    Een goed spel maken laat je toe om verder te komen in City Game Studio, geld verdienen, fans en ervaring.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    When creating a game you can now choose the target audience, this has an influence on the final score and sales of the game.
+    Wanneer je een game maat kan je nu het doelpubliek kiezen, dit heeft een invloed op de uiteindelijk score en verkoop van de game.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    You have a new design gauge when creating a game
+    Je hebt een nieuwe design gauge bij het maken van een nieuwe game.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    You have a new design gauge when creating a game
+    Je hebt een nieuwe design gauge bij het maken van een nieuwe game.
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    You have a new development gauge when creating a game
+    Je hebt een nieuwe development gauge bij het maken van een nieuwe game.
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    You have a new development gauge when creating a game
+    Je hebt een nieuwe development gauge bij het maken van een nieuwe game.
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    You have a new polishing gauge when creating a game
+    Je hebt een nieuwe polishing gauge bij het maken van een nieuwe game.
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    You have a new polishing gauge when creating a game
+    Je hebt een nieuwe polishing gauge bij het maken van een nieuwe game.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
-    You can advertise on social networks, it's very targeted, expensive and very effective
+    Je kan nu adverteren via sociale netwerken, het is heel gericht, duur en effectief.
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
-    Sending emails will cost you almost nothing and will influence the sales of your games
+    Emails versturen zal je bijna niks kosten en zal je verkoop van je games beïnvloeden
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    You can port your games to new platforms, it's simple and only one person is needed.
-  LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games, you feel ready to develop new game mechanics
+    Je kan je games naar nieuwe platformen porten, het is simpel en enkel één persoon is nodig.
+  LABEL_UNLOCK_GAMEGENRE: Je hebt ervaring opgedaan in games te maken, je voelt je klaar om nieuwe game mechanismes te maken
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
-    You can now unlock new game genres. To earn experience points, you just have to publish games
+    Je kan nu nieuwe game genres unlocken. Om vaardigheidspunten te verdienen moet je games uitbrengen.
 
   # Placeholder used for forms
-  PLACEHOLDER_COMPANY_NAME: Company name
+  PLACEHOLDER_COMPANY_NAME: Bedrijfsnaam
   PLACEHOLDER_GAME_GENRE: Game genre
-  PLACEHOLDER_GAME_NAME: Game name
-  PLACEHOLDER_PLAYER_NAME: Your name
+  PLACEHOLDER_GAME_NAME: Game naam
+  PLACEHOLDER_PLAYER_NAME: jouw naam
 
-  LABEL_VERSION_BETA: Beta version
+  LABEL_VERSION_BETA: Beta versie
   LABEL_BREAK_LAW: |
-    You're about to break the law.
+    Je staat op het punt de wet te breken
 
-    Do you want to continue?
-  LABEL_SUCCESS: Succeeded
-  LABEL_FAILURE: Failure
-  LABEL_CANNOT_INTERACT: You will no longer be able to communicate with %s until %s
-  LABEL_FAN_LOST: This has affected your popularity, you lose %s fans
-  LABEL_PENALTY_COST: Justice has ruled, you must pay %s$
-  LABEL_EMPLOYEE_HIRED: You've hired %s
-  LABEL_GAME_CRACKED: You've cracked %s
-  LABEL_GENRE_STOLEN: You've learnt %s
-  LABEL_STUDIO_SOLD: They've sold %s
+    Wil je verder gaan?
+  LABEL_SUCCESS: Succesvol
+  LABEL_FAILURE: Gefaald
+  LABEL_CANNOT_INTERACT: Je bent niet meer in staat te communiceren met %s tot %s
+  LABEL_FAN_LOST: Dit heeft je, you lose %s fans
+  LABEL_PENALTY_COST: Justitie heeft geoordeeld, je moet %s$ betalen
+  LABEL_EMPLOYEE_HIRED: Je hebt  %s aangenomen
+  LABEL_GAME_CRACKED: Je hebt %s gekraakt
+  LABEL_GENRE_STOLEN: Je hebt %s geleerd
+  LABEL_STUDIO_SOLD: Ze hebben %s verkocht
 
   # Tooltips
   TOOLTIP_FORCE_STUDIO: |
-    You must select the studio whose sale you want to force
+    Je moet de studio selecteren dat je wil dwingen om te verkopen.
   TOOLTIP_CRACK_GAME: |
-    You must select the game you want to hack
+    Je moet het spel selecteren dat je wil hacken
   TOOLTIP_HIRE_STAFF: |
-    You must select the employee you wish to recruit
+    Je moet de werknemer selecteren die je wilt rekruteren.
   TOOLTIP_CONCURRENT_LOCKED: |
-    You will be able to try again an action against %s from %s
+    Je zal opnieuw een actie kunnen proberen tegen %s vanaf %s
   TOOLTIP_TUTORIEL: |
-    %s to unlock %s
+    %s om %s te unlocken
   TOOLTIP_EMAIL: |
-    Read the news and your mail
+    Lees het nieuws en je email
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    Allows you to unlock new types of games.
+    Laat je toe om nieuwe type van games te unlocken.
   TOOLTIP_MANAGE_STUDIO: |
-    To manage your studios, upgrade computers, assign employees...
-  TOOLTIP_GAMEPORT: Port a video game onto another platform
+    Om studio's te managen, computers up te graden, werknemers toe te wijzen...
+  TOOLTIP_GAMEPORT: Port een video game naar een ander platform
   TOOLTIP_POSTMORTEM: |
-    Create a postmortem report.
-    A postmortem report help
-    you create better games
-  TOOLTIP_CREATE_GAME: Create a new game
-  TOOLTIP_STAFF: Staff's list
-  TOOLTIP_RECRUIT: List potential candidates available in town
-  TOOLTIP_PORTFOLIO: List all the game you've made so far
-  TOOLTIP_OPTION: Parameter and options
-  TOOLTIP_EXIT: Back to Linux
-  TOOLTIP_STUDIOS: List your studios
-  TOOLTIP_STUDIOLIST: List offices available in town
+    Maak een postmortem rapport
+    Een postmortem rapport helpt
+    om betere games te maken
+  TOOLTIP_CREATE_GAME: Maak een nieuwe game
+  TOOLTIP_STAFF: Staf lijst
+  TOOLTIP_RECRUIT: Lijst potentiele kandidaten op die beschikbaar zijn in stad
+  TOOLTIP_PORTFOLIO: Lijst alle games die je gemaakt hebt op
+  TOOLTIP_OPTION: Parameter en opties
+  TOOLTIP_EXIT: terug naar Linux
+  TOOLTIP_STUDIOS: Lijst je studios
+  TOOLTIP_STUDIOLIST: Lijst beschikbare kantoren in dorp op
   TOOLTIP_CONSTRUCT: |
-    Make a new building for
-    an office or to
-    host a convention
-  TOOLTIP_CONFERENCE: Manage conventions
-  TOOLTIP_MARKETING: Manage your marketing campaigns
-  TOOLTIP_SELL: Sell your office
-  TOOLTIP_SHOP: Buy furniture and stuff for your office
-  TOOLTIP_BUILDMOD: Peint and beautify your office
-  TOOLTIP_ASSIGN: Assign employee to desk
-  TOOLTIP_STUDIO_SELECT: List your studios
+    Maak een nieuw gebouwen
+    voor een kantoor of
+    expositie te hosten
+  TOOLTIP_CONFERENCE: beheer exposities
+  TOOLTIP_MARKETING: beheer je advertentie campagnes
+  TOOLTIP_SELL: Verkoop je kantoor
+  TOOLTIP_SHOP: Koop meubels en dingen voor je kantoor
+  TOOLTIP_BUILDMOD: verf en verfraai je kantoor
+  TOOLTIP_ASSIGN: Wijs werknemers aan bureau toe
+  TOOLTIP_STUDIO_SELECT: Lijst je studios
   TOOLTIP_ANNOUNCE_GAME: |
-    Announce the video game.
-    Creates hype.
+    Kondig het video game aan.
+    Creëer hype.
   TOOLTIP_CONCURRENT: |
-    List of video game companies
+    Lijst van video game bedrijven
   TOOLTIP_STUDIO_COST: |
-    Total studio costs. Including rent as well as the cost of
-    maintaining the equipment (for servers for example)
+    Totale studio Kost. huur en de kost van het onderhouden
+    van materiaal inbegrepen (bv. voor servers)
   TOOLTIP_MARKETING_COST: |
-    Costs of marketing campaigns currently underway
+    Kost van advertentie campagne die momenteel bezig zijn
   TOOLTIP_SALARY_COST: |
-    Salary of each employee
+    Loon van elke werknemer
   TOOLTIP_STEAM_MODS: |
     Steam workshop
 
-  # Showd when game is loading
+  # Showed when game is loading
   LOADING_SCREEN_TIP_0: >
-    Your company is secretly rated based on the quality of the games you have produced over the past four years
+    Je bedrijf is in het geheim gerate gebaseerd op de qualiteit van de games die je de laatste 4 jaar hebt gemaakt
   LOADING_SCREEN_TIP_1: >
-    Perfect employees can spontaneously apply to strengthen your production teams
+    Perfecte werknemers kunnen spontaan solliciteren om je productie teams te versterken.
   LOADING_SCREEN_TIP_2: >
-    This loading screen is only there to make you wait, in fact it is a sleep(random(0, 50)) that is looping
+    Dit laad scherm is enkel hier om je te laten wachten. Eigenlijk is het een sleep(random(0, 50)) dat loopt
   LOADING_SCREEN_TIP_3: >
-    Discovering a new game genre gives you a considerable advantage over the competition
+    Een nieuw game genre ontdekken geeft je een redelijk voordeel op je concurrenten
   LOADING_SCREEN_TIP_4: >
-    Producing games with your competitors is the best way to become famous
+    Games produceren met je concurrenten is de beste manier om beroemd te worden.
   LOADING_SCREEN_TIP_5: >
-    You can organize conventions in your own buildings, but you'd better space them one year apart
+    Je kan exposities organiseren in je eigen gebouw maar je laat het best er een jaar tussen.
   LOADING_SCREEN_TIP_6: >
-    The department of bad sales is always right
+    De afdeling van slechte verkoop is altijd juist.
   LOADING_SCREEN_TIP_7: >
-    You need servers to host online games, they are cheaper, but players have to pay monthly to continue playing them
+    Je hebt servers nodig om online games te hosten. Ze zijn goedkoper maar spelers moeten een maandelijks abbonement betalen om te blijven spelen
   LOADING_SCREEN_TIP_8: >
-    Einstein, our mascot, barked 65.13 times during the development of City Game Studio
+    Einstein, onze mascotte, heeft 65.13 keren geblaft tijdens het maken van City Game Studio
   LOADING_SCREEN_TIP_9: >
-    12654 Christmas songs were played during the development of City Game Studio
+    12654 kerstliedjes werden gespeeld tijdens het developpen van City Game Studio
   LOADING_SCREEN_TIP_10: >
-    Taking a look at market shares is good, but you also have to take care of the amount of games published on a platform
+    Een blik werpen op het Marktaandeel is geod, maar je moet ook rekening houden met het aantal games dat gepubliceerd zijn op een platform
   LOADING_SCREEN_TIP_11: >
-    You want to help translating City Game Studio? https://github.com/binogure-studio/city-game-studio-i18n
+    Wil je helpen om Citry Game Studio te vertalen? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
-    When your servers' lights glow red, it means they are overloaded.
+    Wanneer server lichten rood branden betekend het dat ze overbelast zijn.
   LOADING_SCREEN_TIP_13: >
-    Don't forget to take a coffee break... Ah, the coffee machine is broken again.
+    Vergeet niet om een koffiepauze te nemen... Ah , de koffiezet is weer kapot.
   LOADING_SCREEN_TIP_14: >
-    Crunchtime is not a cereal brand, but it is a widespread management practice.
+    Crunchtime is geen ontbijtgranen merk, maar het is een wereldspreid management gebruik.
   LOADING_SCREEN_TIP_15: >
-    Releasing new game is the best way to make money
+    Een nieuwe game uitbrengen is de beste manier om geld te maken
   LOADING_SCREEN_TIP_16: >
-    Post-mortems allow you to learn more about the games you have released
+    Post-mortems laten je toe om meer te leren over games die je uitbracht
   LOADING_SCREEN_TIP_17: >
-    According to a recent study, nearly 1 in 625.3 dogs barks when it rains, and the others make fun of it
+    Volgens een recente studie blaft 1 op de 625.3 honden wanneer het regent, de andere maker er plezier van.
   LOADING_SCREEN_TIP_18: >
-    Don't rely on everything you can read on loading screens
+    Vertrouw niet op alles dat je leest in laadschermen.
 
-  GAMEEDITION_SUBMIT: Issue publishing offers
-  GAMEEDITION_RECEIVE: Receive publishing offers
-  WORLDMAP: City map
-  MARKETING_CAMPAIGN_MAGAZINE: Advertising campaign in the press
-  MARKETING_CAMPAIGN_TV: Television advertising campaign
-  MARKETING_CAMPAIGN_INTERNET: Online advertising campaign
-  CONCURRENT_STUDIOS_LIST: List the competitors
-  CONCURRENT_STUDIOS_BUY: Buying out competitors
-  FURNITURES_COMMON_BUY: Buying furniture
-  EMPLOYEES_HIRE: Hire staff
-  STUDIO_RENT: Rent a studio apartment
-  STUDIO_BUILD: Building a studio
-  CONVENTION_ORGANIZE: Organize a convention
-  CONVENTION_PARTICIPATE: Participate in a convention
-  STUDIO_CUSTOMIZE: Renovate your studios
-  FURNITURES_SERVERS_BUY: Buy servers
-  GAME_ONLINE: Publish online games
-  DIGITAL_STORE: Dematerialized store
-  POSTMORTEM: Game report
-  NEW_GAME: New game
-  TARGETTED_AUDIENCE: Targeted audience
-  STORY: History
+  GAMEEDITION_SUBMIT: Verstuur publishing offers
+  GAMEEDITION_RECEIVE: Ontvang publishing offers
+  WORLDMAP: Stadskaart
+  MARKETING_CAMPAIGN_MAGAZINE: advertentie campagne in de pers
+  MARKETING_CAMPAIGN_TV: Telivies advertentie campagne
+  MARKETING_CAMPAIGN_INTERNET: Online advertentie campagne
+  CONCURRENT_STUDIOS_LIST: Lijst de concurrenten op
+  CONCURRENT_STUDIOS_BUY: Koop concurrenten uit
+  FURNITURES_COMMON_BUY: Koop meubels
+  EMPLOYEES_HIRE: werf staf aan
+  STUDIO_RENT: huur een studio apartement
+  STUDIO_BUILD: bouw een studio
+  CONVENTION_ORGANIZE: organiseer een expositie
+  CONVENTION_PARTICIPATE: neem deel in een expositie
+  STUDIO_CUSTOMIZE: renoveer jouw studios
+  FURNITURES_SERVERS_BUY: koop servers
+  GAME_ONLINE: Publiceer online games
+  DIGITAL_STORE: gedematerialiseerd winkel
+  POSTMORTEM: Game rapport
+  NEW_GAME: nieuw game
+  TARGETTED_AUDIENCE: Gericht publiek
+  STORY: geschiedenis
   USERINTERFACE: User interface
-  NETWORK: Network
+  NETWORK: Netwerk
   MODDING: Modding
-  CUTSCENES: Cut scenes
+  CUTSCENES: Cutscenes
   TUTORIEL: Tutorials
-  MARKETING_CAMPAIGN_SOCIALNETWORK: Targeted advertising campaign
-  MARKETING_CAMPAIGN_MAILINGLIST: Email advertising campaign
-  GAMEPORT: Port a game
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Gerichte advertentie campagne
+  MARKETING_CAMPAIGN_MAILINGLIST: Email advertentie campagne
+  GAMEPORT: Port een game
   UNLOCK_GAMEGENRE: Unlock game genre
