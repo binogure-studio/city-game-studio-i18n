@@ -18,7 +18,7 @@ Haritalar ve stüdyolar usule göre oluşturulur. Rasgele etkinlikler ve özelle
 
 [h2]Stüdyolarınızı dikkatlice döşeyin[/h2]
 
-herkes bir stüdyo tasarımcısı olmasına rağmen, her mobilyanın stüdyosunda bir yeri vardır ve şirketinizin tarihini etkileyebilir.
+Herkes bir stüdyo tasarımcısı olmasına rağmen, her mobilyanın stüdyoda bir yeri vardır ve şirketinizin tarihini etkileyebilir.
 
 [h2]Yayınla, işe al, tekrarla[/h2]
 
@@ -26,4 +26,4 @@ Her oyun eşsizdir ancak zamanla yeni konsollar ortaya çıkmaktadır. Tek baş�
 
 [h2]Oyun Geliştirme[/h2]
 
-Oyunun geliştirme, kanal minogue kullanılarak Twitch de yayınlanır.
+Oyunun geliştirme, kanal binogure kullanılarak Twitch de yayınlanır.
