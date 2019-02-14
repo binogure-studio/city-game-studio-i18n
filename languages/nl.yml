@@ -16,7 +16,7 @@ gaugenl:
   BUTTON_LOAD_GAME: Laad Spel
   BUTTON_MAIN_MENU: Main menu
   BUTTON_NEXT: Volgende
-  BUTTON_OK: Ok
+  BUTTON_OK: Oké
   BUTTON_OPTIONS: Opties
   BUTTON_RESET: Reset
   BUTTON_SKIP: Overslaan
@@ -62,7 +62,7 @@ gaugenl:
   LABEL_POINTRATIO_TOO_MUCH: |
     [b]%s[/b] heeft te veel [b]%s[/b].
   LABEL_MARKETING_CAMPAIGN: advertentie campagne
-  LABEL_CAMPAIGN_TYPE: Campaign type
+  LABEL_CAMPAIGN_TYPE: Campagne type
   LABEL_WORKLOAD: werkdrukte
   LABEL_RELEASE_DATE: Publicatiedatum
   LABEL_MANUFACTURER: Fabrikant
@@ -89,7 +89,7 @@ gaugenl:
   LABEL_RISKS: Risico's
   LABEL_SALES_HITS_TITLE: Verkoop rapport
   LABEL_SALES_HITS_DESCRIPTION: |
-    Hallo %s,
+    Hallo %s
 
     Ik weet dat je van mijn emails houd.
     Dus hier zijn we dan, aangezien we goede verkoopcijfers waarnemen. Ik heb het even uitgerekend en het zou gaan over een verkoop van %s
@@ -113,17 +113,17 @@ gaugenl:
   LABEL_SALES_HITS_6: >
     Gefeliciteerd met de verkoop van [b]%s[/b], we zouden een stijging van [b]%d%%[/b] moeten kunnen bereiken.
   LABEL_CONVENTION_INCOMING: |
-    Beste %s,
+    Beste %s
 
     We zijn blij te kunnen aankondigen dat %s is gepland voor %s.
 
     De beurs zal 3 dagen duren en we verwachten %s bezoekers.
     Je kan al een stand huren voor je mooiste creaties te tonen. Haast je, de plaatsen zijn bepert.
 
-    Met vriendelijke groeten,
+    Met vriendelijke groeten
     Het organiserend team van %s
   LABEL_REDCOUCH: Rode zetel
-  LABEL_DARKCOUCH: zwarte zetel
+  LABEL_DARKCOUCH: Zwarte zetel
   LABEL_WHITECOUCH: Witte zetel
   LABEL_REDARMCHAIR: Rode leunstoel
   LABEL_DARKARMCHAIR: Donkere leunstoel
@@ -161,7 +161,7 @@ gaugenl:
   LABEL_FINANCIAL_RESULT: Financiele resultaten
   LABEL_PROPERTY_VALUE: Waarde van eigendommen
   LABEL_FURNITURE_VALUE: Waarde van meubelen
-  LABEL_CATALOG_VALUE: Waarde van Game catalogus
+  LABEL_CATALOG_VALUE: Waarde van spelcatalogus
   LABEL_TOTAL_VALUE: Totale waarden
   LABEL_MORTGAGES: Hypotheken
   LABEL_MORTGAGE: Hypotheek
@@ -170,28 +170,28 @@ gaugenl:
   LABEL_MONTHLY: Maandelijkse betaling
 
   LABEL_AUTO_ASSIGN_STAFF: Automatisch toewijzen personeel
-  LABEL_UPGRADE_COMPUTER: Automatisch upgrade computers
+  LABEL_UPGRADE_COMPUTER: Automatisch upgraden computers
   LABEL_COMPANY_WIDE: Gehele bedrijf
   LABEL_STUDIO_WIDE: Deze studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Er moeten minstens [b]3[/b] mensen in je studio werken voor je een aanbieding van een uitgever kan verkrijgen.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s geannuleerd"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    Ter attentie van [b]%s[/b] (%s),
+    Ter attentie van [b]%s[/b] (%s)
 
     We zijn uitermate teleurgesteld dat u de ontwikkeling van [b]%s[/b] heeft geannuleerd.
     Zoals vermeld in het ondertekend contract, pagina 453, paragraaf 72d, inspringende regel W, roze blad, zal u een boete moeten betalen van [b]%s$[/b] en ons zo snel mogelijk terugbetalen.
 
-    Hoogachtend,
+    Hoogachtend
     Het honorerend advocatenbureau, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contract beëindigd"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    Ter attentie van [b]%s[/b] (%s),
+    Ter attentie van [b]%s[/b] (%s)
 
-    [b]%s[/b] heeft niet het verwachte succes bereikt, en we moeten het gesigneerde contract tot de letter volgen.
+    [b]%s[/b] heeft niet het verwachte succes bereikt, en we moeten het getekende contract tot de letter volgen.
     Dus, volgens pagina 5863, paragraaf 99z, bruin blad, zal u de boete van [b]%s$[/b] moeten betalen en ons zo snel mogelijk terugbetalen.
 
-    Hoogachtend,
+    Hoogachtend
     De afdeling van slechte verkopen, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Selecteer de video games om te tonen
   LABEL_ROYALTIES: Auteursrechten
@@ -202,34 +202,34 @@ gaugenl:
   LABEL_MARKETING_WEBSITE_ITEM: Website
   LABEL_MARKETING_ONLINEAD_ITEM: Online advertenties
   LABEL_MARKETING_BILLBOARD_ITEM:  Reclamebord advertenties
-  LABEL_MARKETING_SOCIALNETWORK_ITEM: Sociaal netwerken
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: Sociale netwerken
   LABEL_MARKETING_MAILINGLIST_ITEM: Nieuwsletter
   LABEL_SELF_PUBLISH: Zelf publicatie
   LABEL_TRADE_PUBLISH: Traditionele publicatie
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
-    Hallo,
+    Hallo
 
     Ik ben [b]%s[/b], Ik hou van [b]%s[/b] en ik zou graag zo snel mogelijk uw team willen versterken.
     Ik zal efficient kunnen zijn en je team kennis bijbrengen.
 
-    Alvast bedankt voor uw tijd,
+    Alvast bedankt voor uw tijd
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontane sollicitatie
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
-    Hallo,
+    Hallo
 
     Ik wil u graag via deze weg informeren dat ik onstlag zal nemen met onmiddelijke ingang bij [b]%s[/b].
     Ik heb afscheid genomen omdat ik een job dichter bij huis vond en in een aantrekkelijker bedrijf.
 
     Ik heb ontzettend genoten van de jaren samen te werken met u. Ik zal jullie allen missen.
 
-    Met vriendelijke groeten,
+    Met vriendelijke groeten
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Ontslag
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
     Je hebt geen studio die een game kan maken van normale of grote grootte.
   LABEL_NO_FAN_BIG_GAME: >
-    Om een game van normale of grote grootte te maken is het aangewezen om minstens [b]%s[/b] aantal fans te hebben, Anders zal dit een impact hebben op de verkoop.
+    Om een game van normale of grote grootte te maken is het aangewezen om minstens [b]%s[/b] aantal fans te hebben, anders zal dit een impact hebben op de verkoop.
   LABEL_CONCURRENT_AMOUNT: Aantal concurrenten
   LABEL_YES: Ja
   LABEL_NO: Nee
@@ -248,9 +248,9 @@ gaugenl:
 
     %s
 
-    We wensen u het beste voor uw game!
+    We wensen u het beste voor met uw game!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
-    Fans zijn opgewonden, zo zeggen we allemaal!
+    Fans zijn opgewonden, zo zeggen ze allemaal!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     Fans zijn niet gelukkig en de gespecialiseerde tijdschriften willen al het spel de bodem inboren.
 
@@ -270,14 +270,14 @@ gaugenl:
   LABEL_CONVENTION_LAST_DATE: Laatste beurs
   LABEL_DATE: Vervaldag  #niet zeker
   LABEL_STANDSIZE: Grootte stand
-  LABEL_CONVENTION_NAME: Beurs naam
+  LABEL_CONVENTION_NAME: Beursnaam
   LABEL_ATTEND: Bijwonen
   LABEL_ORGANIZE: Organiseer
   LABEL_INFORMATIONS: Details
   LABEL_GAME: Game
   LABEL_GAMEPORT: Een game porteren
-  LABEL_CONVENTION: Expositie  center
-  LABEL_LAND_VALUE: Land waarde
+  LABEL_CONVENTION: Expositiecenter
+  LABEL_LAND_VALUE: Landwaarde
   LABEL_SURFACE: oppervlakte
   LABEL_HYPE: Hype
   LABEL_AI: Artificiële intelligentie
@@ -323,15 +323,15 @@ gaugenl:
   LABEL_NO_PLATFORM_AVAILABLE: >
     Dit spel is al naar elk platform geport.
   LABEL_PLATFORM: Platform
-  LABEL_PLAYER_NAME: Speler naam
+  LABEL_PLAYER_NAME: Spelernaam
   LABEL_PROFITS: Winst
   LABEL_POLISH: Polish
   LABEL_PRICE: Prijs
-  LABEL_RELEASE: Uitbrengen
+  LABEL_RELEASE: Breng uit
   LABEL_RESOLUTION: Resolutie
   LABEL_SCRIPTING: Scripten
   LABEL_SOUND: Geluid
-  LABEL_SOUND_SETTINGS: Geluids instellingen
+  LABEL_SOUND_SETTINGS: Geluidsinstellingen
   LABEL_SOUNDFX: SoundFX
   LABEL_SQUARE_FOOTAGE: Oppervlakte
   LABEL_STAFF: Staf
@@ -350,7 +350,7 @@ gaugenl:
   LABEL_THEME_ORGANIZED_CRIME: Georganiseerde misdaad
   LABEL_THEME_CROSSOVER: Crossover
   LABEL_THEME_DESERT: Woestijn
-  LABEL_THEME_COMEDY: Comedie
+  LABEL_THEME_COMEDY: Komedie
   LABEL_THEME_DRAGON: Draak
   LABEL_THEME_EROTIC: Erotisch
   LABEL_THEME_SPY: Spion
@@ -363,7 +363,7 @@ gaugenl:
   LABEL_THEME_ARABIAN_NIGHTS: Arabische nachten
   LABEL_THEME_MYTHOLOGY: Mythologie
   LABEL_THEME_NINJA: Ninja
-  LABEL_THEME_PARK: Park
+  LABEL_THEME_PARK: Pretpark
   LABEL_THEME_PIRATES: Piraat
   LABEL_THEME_SCIENCE_FICTION: Science fiction
   LABEL_THEME_SUPER_HEROS: Superheld
@@ -408,15 +408,15 @@ gaugenl:
   LABEL_TYPE_SIMULATION: Simulatie
   LABEL_TYPE_ANIMALS: Dieren
   LABEL_TYPE_GOD_GAME: God-game
-  LABEL_TYPE_FARMING: Farming
-  LABEL_TYPE_LIVING_ORGANISM: Living organism
+  LABEL_TYPE_FARMING: Farmen
+  LABEL_TYPE_LIVING_ORGANISM: Levende organisme
   LABEL_TYPE_SPORT: Sport
   LABEL_TYPE_MANAGEMENT: Management
   LABEL_TYPE_ECONOMY: Economy
   LABEL_TYPE_CITY_BUILDER: City-builder
   LABEL_TYPE_GOVERNMENT: Government
   LABEL_TYPE_VEHICLE: Vehicle
-  LABEL_TYPE_RACING: Racing
+  LABEL_TYPE_RACING: Racen
   LABEL_TYPE_DRIVE: Driver
   LABEL_TYPE_FLY: Fly
   LABEL_TYPE_SPACE: Space
@@ -449,22 +449,22 @@ gaugenl:
   LABEL_DIFFICULTY_HARD: Moeilijk
   LABEL_DIFFICULTY_INSANE: Insane
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] Heeft een nieuw platform uitgebracht: [b]%s[/b]"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] zal stoppen met ondersteuning van [b]%s[/b], fans betreuren het nieuws"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] zal stoppen met de ondersteuning van [b]%s[/b], fans betreuren het nieuws"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] zal een nieuw platform binnen enkele maanden uitbrengen [b]%s[/b] het zou jaren moeten meegaan"
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] kondigt het einde aan van het bekende [b]%s[/b]"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Je hebt de licentie van [b]%s[/b] ontgrendeld, het koste [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Platform uitgebracht
   LABEL_PLATFORM_DISCONTINUED_TITLE: gestopte platform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: opkomend platform
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: opkomende beëindigend platform
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: opkomend beëindiging platform
   LABEL_PLATFORM_UNLOCKED_TITLE: Platform gekocht
   LABEL_CLICK_TO_CLOSE: Klik om te sluiten
   LABEL_SHOP_UI: Winkel
   LABEL_DESK: Bureau
   LABEL_BOOKSHELF: Boekenkast
   LABEL_WASTEBASKET: Vuilbak
-  LABEL_ASSIGN_EMPLOYEE: Staff
-  LABEL_NEW_GAME: Nieuw game
+  LABEL_ASSIGN_EMPLOYEE: Staf
+  LABEL_NEW_GAME: Nieuwe game
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Artwork
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Door jouw recente ervaring heb je een nieuw genre ontgrendeld [b]%s[/b]
@@ -480,8 +480,8 @@ gaugenl:
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Game over
   LABEL_SCORE: Score
-  LABEL_WAGE_INCREASES_TITLE: Loons verhoging
-  LABEL_WAGE_INCREASES_DESCRIPTION: "De volgende werknemers hebben een loons verhoging gehad:"
+  LABEL_WAGE_INCREASES_TITLE: Loonsverhoging
+  LABEL_WAGE_INCREASES_DESCRIPTION: "De volgende werknemers hebben een loonsverhoging gehad:"
   LABEL_PRESS_KEY: Pers
   LABEL_WORD_OR: of
   LABEL_INPUT_ACTION_UI_ROTATE: Om het voorwerp te draaien
@@ -503,12 +503,12 @@ gaugenl:
   LABEL_CATCHPHRASE_2_5: Het zou geannuleerd moeten geweest zijn
   LABEL_CATCHPHRASE_3_0: Het gaat recht naar een ramp
   LABEL_CATCHPHRASE_3_1: Een teleurstelling die zijn ambities evenaart
-  LABEL_CATCHPHRASE_3_2: Ze hadden alles gestoken in, MAar ze hadden niet veel
+  LABEL_CATCHPHRASE_3_2: Ze hadden alles gestoken in, maar ze hadden niet veel
   LABEL_CATCHPHRASE_3_3: Hadden ze maar een game gemaakt
-  LABEL_CATCHPHRASE_3_4: en stresserende ervaring
-  LABEL_CATCHPHRASE_3_5: We hebben slechter gezien, Maar we hebben ook betere gezien!
+  LABEL_CATCHPHRASE_3_4: Een stresserende ervaring
+  LABEL_CATCHPHRASE_3_5: We hebben slechter gezien, maar we hebben ook betere gezien!
   LABEL_CATCHPHRASE_4_0: Te raar voor sommige goede ideëen
-  LABEL_CATCHPHRASE_4_1: Een niet zo essentiele game
+  LABEL_CATCHPHRASE_4_1: Een niet zo essentiële game
   LABEL_CATCHPHRASE_4_2: Een slecht idee
   LABEL_CATCHPHRASE_4_3: De game die innoverend wou zijn...
   LABEL_CATCHPHRASE_4_4: Op een misverstand, zouwden we het nog eens kunnen spelen
@@ -516,14 +516,14 @@ gaugenl:
   LABEL_CATCHPHRASE_5_0: Een minimum dienst
   LABEL_CATCHPHRASE_5_1: Een smakeloze gemengde pot
   LABEL_CATCHPHRASE_5_2: Een heel gemengd rapoort
-  LABEL_CATCHPHRASE_5_3: We zagen beter, Maar we zagen vooral ook slechter
+  LABEL_CATCHPHRASE_5_3: We zagen beter, maar we zagen vooral ook slechter
   LABEL_CATCHPHRASE_5_4: Tuurlijk, het is niet het spel van het jaar.
   LABEL_CATCHPHRASE_5_5: Een holle game met een beperkte levensduur
   LABEL_CATCHPHRASE_6_0: Karakterloos
   LABEL_CATCHPHRASE_6_1: Een simplistisch maar onnodige game.
   LABEL_CATCHPHRASE_6_2: Bescheiden maar interessant
   LABEL_CATCHPHRASE_6_3: Tof maar oppervlakkig
-  LABEL_CATCHPHRASE_6_4: Een interessant concept maar teniet gedaan door randomheid
+  LABEL_CATCHPHRASE_6_4: Een interessant concept, maar teniet gedaan door randomheid
   LABEL_CATCHPHRASE_6_5: Had goede momenten
   LABEL_CATCHPHRASE_7_0: Soberheid and efficiëntie
   LABEL_CATCHPHRASE_7_1: Een rijke inhoud geleid door een matige prestatie
@@ -548,12 +548,12 @@ gaugenl:
   LABEL_CATCHPHRASE_10_2: Een must-have
   LABEL_CATCHPHRASE_10_3: Een van de betere games van de laatste tijd
   LABEL_CATCHPHRASE_10_4: Vele speeluren, enkel goede momenten
-  LABEL_CATCHPHRASE_10_5: Dit spel zal iedereen zijn verbaasd achter laten.
+  LABEL_CATCHPHRASE_10_5: Dit spel zal iedereen verbaasd achter laten.
   LABEL_CATCHPHRASE_11_0: Een artistieke knal
   LABEL_CATCHPHRASE_11_1: Een zeldzame edelsteen van schoonheid
   LABEL_CATCHPHRASE_11_2: Een eerbetoon aan video games
   LABEL_CATCHPHRASE_11_3: Een opus dat het status van video games heropricht
-  LABEL_CATCHPHRASE_11_4: Als perfectie een game was
+  LABEL_CATCHPHRASE_11_4: Indien perfectie een game was
   LABEL_CATCHPHRASE_11_5: Het twintigste wereldwonder
   LABEL_CREATE_SEQUEL: Creëer een sequel
   LABEL_NEW_IP: Nieuwe IP
@@ -572,7 +572,7 @@ gaugenl:
   LABEL_LICENSE_COST: Licentie
   LABEL_OWNED: In bezit
   LABEL_WEEK_COST: Development kosten
-  LABEL_CATALOG_SIZE: Game catalogus grootte
+  LABEL_CATALOG_SIZE: Spelcatalogus grootte
   LABEL_PLATFORM_LIST: Platform lijst
   LABEL_IDLE: Inactief
   LABEL_ADOPT_CAT_DESCRIPTION: >
@@ -581,14 +581,14 @@ gaugenl:
   LABEL_ADOPT_CAT_TITLE: Zwerfkat
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     Bij Blue Studio hebben twee broers een nieuwe game uitgebracht
-    Het is een game change en een nieuw game type is opgedoken. De Mysterie-like
+    Het is een game changer en een nieuw game type is opgedoken. De Mysterie-like
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mysterie-like is uitgevonden
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar heeft een nieuw spel uitgebracht dat de game indrustry revolutioneerd.
     Het heeft het HTA genre gecreëerd.
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like is uitgevonden
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
-    3 gasten hebben een brandnieuw game gemaakt.
+    3 Gasten hebben een brandnieuw game gemaakt.
     Het is zo beroemd dat het een nieuw game genre heeft gecreëerd, Crook
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like is uitgevvonden
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
@@ -619,22 +619,22 @@ gaugenl:
   LABEL_LOAN_TITLE: Laatste redding lening
   LABEL_LOAN_DESCRIPTION: >
     Je hebt wat extra geld nodig, wij kunnen u helpen. Je kan jezelf uitkopen met een loon van [b]%s$[/b].
-    Onze interest ratio zijn zo laag als [b]%s%%[/b] en je hebt [b]%s[/b] weken om ons terug te betalen.
+    Onze interestvoet is zo laag als [b]%s%%[/b] en je hebt [b]%s[/b] weken om ons terug te betalen.
     Het is zoals een geheel leven voor een bedrijf zoals het jouwe. We zijn uw laatste optie, laat u zelf verleid zijn deze te nemen.
   LABEL_BURNING_SERVER_DESCRIPTION: >
-    Ruikt het zpals vuur?!
+    Ruikt het zoals vuur?!
     Jouw servers hebben de maximale capaciteit bereikt.
     Het is tijd om nieuwe servers te kopen of een online game te sluiten!
   LABEL_BURNING_SERVER_TITLE: Dit is prima
   LABEL_SMOKING_SERVER_DESCRIPTION: >
-    Je maakt een goed online game en je verkoopt ze heel goed.
-    Hoewel je server de maximale capaciteit gaan bereiken. De meeste worden al voor 90% of meer gebruikt.
-    Je zou nieuwe servers moeten kopen.
+    Je maakt een goede online game en je verkoopt ze heel goed.
+    Hoewel je servers de maximale capaciteit gaan bereiken. De meeste worden al voor 90% of meer gebruikt.
+    Je zal nieuwe servers moeten kopen.
   LABEL_SMOKING_SERVER_TITLE: Server capaciteit waarschuwing
   LABEL_PAYLOAN_TITLE: Betaal een lening terug
   LABEL_PAYLOAN_DESCRIPTION: De terugbetaling termijn is nu ten einde, Je moet [b]%s$[/b] betalen.
   LABEL_SELL_STUDIO_TITLE: Een studio verkopen
-  LABEL_SELL_STUDIO_DESCRIPTION: Je bent de studio [b]%s[/b] aan het verkopen, Wil je verder gaan?
+  LABEL_SELL_STUDIO_DESCRIPTION: Je bent de studio [b]%s[/b] aan het verkopen, wil je verder gaan?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: Omdat [b]%s[/b] je laatste studio is of het is bezig met een project kan je deze niet verkopen
   LABEL_BUILDING_AREA: Oppervlakte %s m²
   LABEL_BUILDING_BUY: Prijs
@@ -660,7 +660,7 @@ gaugenl:
   LABEL_NO_MONEY: Te duur
   LABEL_COMPUTER: Computer
   LABEL_PLANT: Plant
-  LABEL_TABLEPLANT: tafel
+  LABEL_TABLEPLANT: Tafel
   LABEL_PRINTER: Printer
   LABEL_COFFEEMACHINE: Koffie machine
   LABEL_DARKMETALTABLEDESK: Zwarte metalen bureau
@@ -675,13 +675,13 @@ gaugenl:
   LABEL_WOODBOOKSHELF: Houten boekenrek
   LABEL_METALBOOKSHELF: Metalen boekenrek
   LABEL_HOLIDAY: Vakantie
-  LABEL_NO_COMPUTER: geen computer
-  LABEL_NO_STUDIO: geen studio
+  LABEL_NO_COMPUTER: Geen computer
+  LABEL_NO_STUDIO: Geen studio
   LABEL_EMPLOYEE_CAPACITY: Prod.
   LABEL_STUDIO_CAPACITY: Studio prod.
   LABEL_EMPLOYEE_TOOLTIP: De productiviteit (Prod.) verhoogt de werknemer efficiëntie
-  LABEL_STUDIO_TOOLTIP: DE productiviteit (Prod.) verhoogt de studio efficiëntie
-  LABEL_BUILD_STUDIO: Verander studio
+  LABEL_STUDIO_TOOLTIP: De productiviteit (Prod.) verhoogt de studio efficiëntie
+  LABEL_BUILD_STUDIO: Verander de studio
   LABEL_WALL: Muur
   LABEL_PILLAR: Steunpaal
   LABEL_FLOOR: Vloer
@@ -696,7 +696,7 @@ gaugenl:
   LABEL_SKILLS: Vaardigheden
   LABEL_HOME: Thuis
   LABEL_MONTH: Maand
-  LABEL_ORDER_BY: Soorteer volgens
+  LABEL_ORDER_BY: Sorteer volgens
   LABEL_BUY_PRICE: Koopprijs
   LABEL_RENT_PRICE: Huurprijs
   LABEL_NO_STUDIO_AVAILABLE: Geen studio beschikbaar
@@ -715,9 +715,9 @@ gaugenl:
   LABEL_GAMEEDITION_RECEIVE: >
     Door uw recente successen zullen publishers u in enkele ogenblikken contacteren met offers.
   LABEL_WORLDMAP: >
-    Je kijkt op, er is een hele wereld die op je wacht buiten.
+    Je kijkt op, er is een hele wereld die buiten op je wacht.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
-    De eerste video game magazines komen op, wil jij een game van je erin adverteren?
+    De eerste video game magazines komen op. Wil jij een game van je erin adverteren?
   LABEL_MARKETING_CAMPAIGN_TV: >
     Het is tijd om je games bekend te maken door televisie advertenties.
   LABEL_MARKETING_CAMPAIGN_INTERNET: >
@@ -729,7 +729,7 @@ gaugenl:
   LABEL_FURNITURES_COMMON_BUY: >
     Tijd om je kantoor een stijvolle decoratie te geven.
   LABEL_EMPLOYEES_HIRE: >
-    Je studio is aan het groeien, produceert meer games, kwaliteit wordt beter. Maar eerst moet je rekruteren.
+    Je studio is aan het groeien, produceert meer games, kwaliteit verbeterd. Maar eerst moet je rekruteren.
   LABEL_STUDIO_RENT: >
     Je voelt je opgesloten in je kleine studio. Het wordt tijd om naar de volgende locatie te gaan.
   LABEL_STUDIO_BUILD: >
@@ -749,7 +749,7 @@ gaugenl:
   LABEL_DIGITAL_STORE: >
     Gedematerialiseerd, je begint er over te horen en je weet al dat het de toekomst is.
   LABEL_POSTMORTEM_FEATURE: >
-    Gefeliciteerd, je hebt je eerste game gemaakt. Nu kan je verder gaan tot een post-mortem zodat je het design , development en polis kan evalueren.
+    Gefeliciteerd, je hebt je eerste game gemaakt. Nu kan je verder gaan tot een post-mortem zodat je het design , development en polish kan evalueren.
   LABEL_NEW_GAME_FEATURE: >
     Klaar om de epische historie van video games te herbeleven van het begin?
     Welkom tot City Game Studio. Begin en maak je eerste game.
@@ -813,33 +813,33 @@ gaugenl:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Bij het kijken naar een van je studios, kan je nieuwe meubelen kopen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Onthou da de beste games geproduceerd worden door teams die even sterk in design, development en polish zijn.
+    Onthou dat de beste games geproduceerd worden door teams die even sterk in design, development en polish zijn.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
-    Je kan nieuwe gebouwen huren. Dit zal het je toelaten om aan meerdere projecten te werken op hetzelfde moment.
+    Je kan nieuwe gebouwen huren. Dit zal je toelaten om aan meerdere projecten te werken op hetzelfde moment.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
     Laat je toe om nieuwe studios de bouwen. Het is duurn maar de enige manier om ongelimiteerd te blijven groeien.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Naast studios bouwen kan je ook expositie centers bouwen. Welke nodig zijn om exposities te organiseren.
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
-    Als je expositie centers nedig hebt kan je exposities organiseren.
+    Als je expositie centers nodig hebt kan je exposities organiseren.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
     Je kan deelnemen in exposities. Dit zal de zichtbaarheid van je games verhogen van tijd tot tijd.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
     Je kan de muren herschilderen, de steunpalen veranderen en de vloeren herdoen van je studios.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-    Servers kopen zal je toestaan om online games te maken en oko een online portaal.
+    Servers kopen zal je toestaan om online games te maken en ook een online portaal.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
-    Je kan online games maken. Ze zijn normaal minder duur maar spelers moeten een maandelijkse subscriptie betalen.
+    Je kan online games maken. Ze zijn normaal minder duur maar spelers moeten een maandelijkse abbonement betalen.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    Je kan een gedematerialiseerde game winkel maken en uiteindelijk een eerste alpha versie that verbeterd zal moeten worden.
+    Je kan een gedematerialiseerde game winkel maken en uiteindelijk een eerste alpha versie dat verbeterd zal moeten worden.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    Je kan offers maken voor publishers, het brengt je veel geld op maar let op de slechte opmerkingen.
+    Je kan offers maken voor publishers. Het brengt je veel geld op maar let op de slechte opmerkingen.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
     Een post-mortem is een rapport van wat slecht of goed ging tijdens het maken van het spel. Het geeft je hints.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     Een goed spel maken laat je toe om verder te komen in City Game Studio, geld verdienen, fans en ervaring.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    Wanneer je een game maat kan je nu het doelpubliek kiezen, dit heeft een invloed op de uiteindelijk score en verkoop van de game.
+    Wanneer je een game maakt kan je nu het doelpubliek kiezen, dit heeft een invloed op de uiteindelijk score en verkoop van de game.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
     Je hebt een nieuwe design gauge bij het maken van een nieuwe game.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
@@ -857,7 +857,7 @@ gaugenl:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Emails versturen zal je bijna niks kosten en zal je verkoop van je games beïnvloeden
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    Je kan je games naar nieuwe platformen porten, het is simpel en enkel één persoon is nodig.
+    Je kan je games naar nieuwe platformen porten, het is simpel en je hebt maar één persoon is nodig.
   LABEL_UNLOCK_GAMEGENRE: Je hebt ervaring opgedaan in games te maken, je voelt je klaar om nieuwe game mechanismes te maken
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Je kan nu nieuwe game genres unlocken. Om vaardigheidspunten te verdienen moet je games uitbrengen.
@@ -865,7 +865,7 @@ gaugenl:
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Bedrijfsnaam
   PLACEHOLDER_GAME_GENRE: Game genre
-  PLACEHOLDER_GAME_NAME: Game naam
+  PLACEHOLDER_GAME_NAME: Gamenaam
   PLACEHOLDER_PLAYER_NAME: jouw naam
 
   LABEL_VERSION_BETA: Beta versie
@@ -876,7 +876,7 @@ gaugenl:
   LABEL_SUCCESS: Succesvol
   LABEL_FAILURE: Gefaald
   LABEL_CANNOT_INTERACT: Je bent niet meer in staat te communiceren met %s tot %s
-  LABEL_FAN_LOST: Dit heeft je, you lose %s fans
+  LABEL_FAN_LOST: Dit heeft je, je verliest %s fans
   LABEL_PENALTY_COST: Justitie heeft geoordeeld, je moet %s$ betalen
   LABEL_EMPLOYEE_HIRED: Je hebt  %s aangenomen
   LABEL_GAME_CRACKED: Je hebt %s gekraakt
@@ -887,7 +887,7 @@ gaugenl:
   TOOLTIP_FORCE_STUDIO: |
     Je moet de studio selecteren dat je wil dwingen om te verkopen.
   TOOLTIP_CRACK_GAME: |
-    Je moet het spel selecteren dat je wil hacken
+    Je moet het spel selecteren dat je wil hacken.
   TOOLTIP_HIRE_STAFF: |
     Je moet de werknemer selecteren die je wilt rekruteren.
   TOOLTIP_CONCURRENT_LOCKED: |
@@ -899,7 +899,7 @@ gaugenl:
   TOOLTIP_UNLOCK_GAME_GENRE: |
     Laat je toe om nieuwe type van games te unlocken.
   TOOLTIP_MANAGE_STUDIO: |
-    Om studio's te managen, computers up te graden, werknemers toe te wijzen...
+    Om studio's te beheren, computers te verbeteren, werknemers toe te wijzen...
   TOOLTIP_GAMEPORT: Port een video game naar een ander platform
   TOOLTIP_POSTMORTEM: |
     Maak een postmortem rapport
@@ -930,7 +930,7 @@ gaugenl:
   TOOLTIP_CONCURRENT: |
     Lijst van video game bedrijven
   TOOLTIP_STUDIO_COST: |
-    Totale studio Kost. huur en de kost van het onderhouden
+    Totale studio kost. huur en de kost van het onderhouden
     van materiaal inbegrepen (bv. voor servers)
   TOOLTIP_MARKETING_COST: |
     Kost van advertentie campagne die momenteel bezig zijn
@@ -941,7 +941,7 @@ gaugenl:
 
   # Showed when game is loading
   LOADING_SCREEN_TIP_0: >
-    Je bedrijf is in het geheim gerate gebaseerd op de qualiteit van de games die je de laatste 4 jaar hebt gemaakt
+    Je bedrijf is in het geheim beoordeeld gebaseerd op de kwaliteit van de games die je de laatste 4 jaar hebt gemaakt
   LOADING_SCREEN_TIP_1: >
     Perfecte werknemers kunnen spontaan solliciteren om je productie teams te versterken.
   LOADING_SCREEN_TIP_2: >
@@ -951,7 +951,7 @@ gaugenl:
   LOADING_SCREEN_TIP_4: >
     Games produceren met je concurrenten is de beste manier om beroemd te worden.
   LOADING_SCREEN_TIP_5: >
-    Je kan exposities organiseren in je eigen gebouw maar je laat het best er een jaar tussen.
+    Je kan exposities organiseren in je eigen gebouw, maar je laat het best er een jaar tussen.
   LOADING_SCREEN_TIP_6: >
     De afdeling van slechte verkoop is altijd juist.
   LOADING_SCREEN_TIP_7: >
@@ -961,13 +961,13 @@ gaugenl:
   LOADING_SCREEN_TIP_9: >
     12654 kerstliedjes werden gespeeld tijdens het developpen van City Game Studio
   LOADING_SCREEN_TIP_10: >
-    Een blik werpen op het Marktaandeel is geod, maar je moet ook rekening houden met het aantal games dat gepubliceerd zijn op een platform
+    Een blik werpen op het Marktaandeel is goed, maar je moet ook rekening houden met het aantal games dat gepubliceerd zijn op een platform
   LOADING_SCREEN_TIP_11: >
     Wil je helpen om Citry Game Studio te vertalen? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
     Wanneer server lichten rood branden betekend het dat ze overbelast zijn.
   LOADING_SCREEN_TIP_13: >
-    Vergeet niet om een koffiepauze te nemen... Ah , de koffiezet is weer kapot.
+    Vergeet niet om een koffiepauze te nemen... Ah, de koffiezet is weer kapot.
   LOADING_SCREEN_TIP_14: >
     Crunchtime is geen ontbijtgranen merk, maar het is een wereldspreid management gebruik.
   LOADING_SCREEN_TIP_15: >
@@ -983,24 +983,24 @@ gaugenl:
   GAMEEDITION_RECEIVE: Ontvang publishing offers
   WORLDMAP: Stadskaart
   MARKETING_CAMPAIGN_MAGAZINE: advertentie campagne in de pers
-  MARKETING_CAMPAIGN_TV: Telivies advertentie campagne
+  MARKETING_CAMPAIGN_TV: Televisie advertentie campagne
   MARKETING_CAMPAIGN_INTERNET: Online advertentie campagne
   CONCURRENT_STUDIOS_LIST: Lijst de concurrenten op
   CONCURRENT_STUDIOS_BUY: Koop concurrenten uit
   FURNITURES_COMMON_BUY: Koop meubels
-  EMPLOYEES_HIRE: werf staf aan
-  STUDIO_RENT: huur een studio apartement
-  STUDIO_BUILD: bouw een studio
-  CONVENTION_ORGANIZE: organiseer een expositie
-  CONVENTION_PARTICIPATE: neem deel in een expositie
-  STUDIO_CUSTOMIZE: renoveer jouw studios
-  FURNITURES_SERVERS_BUY: koop servers
+  EMPLOYEES_HIRE: Werf staf aan
+  STUDIO_RENT: Huur een studio apartement
+  STUDIO_BUILD: Bouw een studio
+  CONVENTION_ORGANIZE: Organiseer een expositie
+  CONVENTION_PARTICIPATE: Neem deel in een expositie
+  STUDIO_CUSTOMIZE: Renoveer jouw studios
+  FURNITURES_SERVERS_BUY: Koop servers
   GAME_ONLINE: Publiceer online games
-  DIGITAL_STORE: gedematerialiseerd winkel
+  DIGITAL_STORE: Gedematerialiseerd winkel
   POSTMORTEM: Game rapport
-  NEW_GAME: nieuw game
+  NEW_GAME: Nieuwe game
   TARGETTED_AUDIENCE: Gericht publiek
-  STORY: geschiedenis
+  STORY: Geschiedenis
   USERINTERFACE: User interface
   NETWORK: Netwerk
   MODDING: Modding
