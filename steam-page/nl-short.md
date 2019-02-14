@@ -1,0 +1,1 @@
+Je bent de oprichter van jouw video game bedrijf. De start hoort jou toe in je garage of denk groot ipv klein en schaf je eerste locatie aan. Op het einde van de dag maakt jouw beslissing je studio een success en zal het de video game historie markeren.
