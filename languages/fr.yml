@@ -79,7 +79,7 @@ fr:
   LABEL_REVIEW_GAME_BAD: |
     [b]%s[/b] n'est pas à la hauteur de leur réputation. On en attendait plus, surtout après avoir fait un jeu comme [b]%s[/b]
   LABEL_REVIEW_COMBO_GOOD: |
-    On ne voit pas souvent des jeux [b]%s[/b], on peut dire que ça réussit à [b]%s[/b]!
+    Il serait temps que [b]%s[/b] se renouvelle, ils ont encore plublié un [b]%s[/b]!
   LABEL_REVIEW_COMBO_BAD: |
     Encore un [b]%s[/b]. Il faut qu'ils apprennent à se renouveler chez [b]%s[/b]
   LABEL_CRACKED: Cracké
@@ -885,6 +885,8 @@ fr:
   LABEL_STUDIO_SOLD: Ils ont vendu %s
 
   # Tooltips
+  TOOLTIP_CONVENTION_LIST: |
+    Participe a ces conventions
   TOOLTIP_FORCE_STUDIO: |
     Vous devez sélectionner le studio dont vous voulez forcer la vente
   TOOLTIP_CRACK_GAME: |

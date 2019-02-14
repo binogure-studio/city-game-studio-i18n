@@ -180,7 +180,7 @@ en:
     For [b]%s[/b] (%s),
 
     We are particularly disappointed that you have cancelled the development of [b]%s[/b].
-    In accordance with the contract duly signed, page 453, paragraph 72d, paragraph W, pink sheet, you must pay the penalty of [b]%s$[/b] and reimburse us as soon as possible.
+    In accordance with the contract duly signed, page 453, paragraph 72d, paragraph W, pink sheet, you must pay the penality of [b]%s$[/b] and reimburse us as soon as possible.
 
     Respectfully,
     The honest law firm, [b]%s[/b]
@@ -189,7 +189,7 @@ en:
     For [b]%s[/b] (%s),
 
     [b]%s[/b] has not met with the expected success, and we must apply the signed contract to the letter.
-    Thus, according to page 5863, paragraph 99z, brown sheet, you must pay the penalty of [b]%s$[/b] and reimburse us as soon as possible.
+    Thus, according to page 5863, paragraph 99z, brown sheet, you must pay the penality of [b]%s$[/b] and reimburse us as soon as possible.
 
     Respectfully,
     The department of bad sales, [b]%s[/b]
@@ -885,6 +885,8 @@ en:
   LABEL_STUDIO_SOLD: They've sold %s
 
   # Tooltips
+  TOOLTIP_CONVENTION_LIST: |
+    Attended conventions
   TOOLTIP_FORCE_STUDIO: |
     You must select the studio whose sale you want to force
   TOOLTIP_CRACK_GAME: |
@@ -993,7 +995,7 @@ en:
   STUDIO_RENT: Rent a studio apartment
   STUDIO_BUILD: Building a studio
   CONVENTION_ORGANIZE: Organize a convention
-  CONVENTION_PARTICIPATE: Participate in a convention
+  CONVENTION_PARTICIPATE: Participate to a convention
   STUDIO_CUSTOMIZE: Renovate your studios
   FURNITURES_SERVERS_BUY: Buy servers
   GAME_ONLINE: Publish online games
