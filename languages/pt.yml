@@ -451,17 +451,16 @@ pt:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Difícil
   LABEL_DIFFICULTY_INSANE: Insano
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] lançou uma nova plataforma: [b]%s[/b]"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: >
+    [b]%s[/b] lançou uma nova plataforma: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
-    [b]%s[/b] descontinuou o tão conhecido [b]%s[/b], os
-    fãs estão chorando
+    [b]%s[/b] descontinuou o tão conhecido [b]%s[/b], os fãs estão chorando
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
-    [b]%s[/b] lançará uma nova plataforma em
-    alguns meses, o que deve durar por anos
+    [b]%s[/b] lançará uma nova plataforma em alguns meses [b]%s[/b], o que deve durar por anos
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
-    [b]%s[/b] anuncia o fim da vida do
-    tão conhecido [b]%s[/b]
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: Você desbloqueou a licença para o [b]%s[/b], custa [b]%s$[/b]
+    [b]%s[/b] anuncia o fim da vida do tão conhecido [b]%s[/b]
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: >
+    Você desbloqueou a licença para o [b]%s[/b], custa [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Plataforma lançada
   LABEL_PLATFORM_DISCONTINUED_TITLE: Plataforma descontinuada
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Próxima plataforma
