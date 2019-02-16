@@ -35,6 +35,25 @@ const result = files.reduce((acc, filename) => {
 
 console.log(Object.keys(result).reduce((acc, key) => {
   let value = result[key]
+  let amount_of_percent = null
+
+  value.forEach((item) => {
+    if (amount_of_percent == null) {
+      amount_of_percent = item.split('%d').length
+    } else if (amount_of_percent != item.split('%d').length) {
+      console.error(`Error with ${key}`)
+    }
+  })
+
+  amount_of_percent = null
+
+  value.forEach((item) => {
+    if (amount_of_percent == null) {
+      amount_of_percent = item.split('%s').length
+    } else if (amount_of_percent != item.split('%s').length) {
+      console.error(`Error with ${key}`)
+    }
+  })
 
   return `${acc}${key},"${value.join('","')}"
 `
