@@ -33,9 +33,15 @@ const result = files.reduce((acc, filename) => {
   id: []
 })
 
+let amount_of_translations = result.id.length
+
 console.log(Object.keys(result).reduce((acc, key) => {
   let value = result[key]
   let amount_of_percent = null
+
+  if (amount_of_translations != value.length) {
+    console.error(`Error on ${key}`)
+  }
 
   value.forEach((item) => {
     if (amount_of_percent == null) {

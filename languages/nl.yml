@@ -1,4 +1,4 @@
-gaugenl:
+nl:
   # Buttons actions verbs
   BUTTON_ANNOUNCE: Kondig het spel aan
   BUTTON_NEW_GAME: nieuw spel
@@ -27,7 +27,7 @@ gaugenl:
   BUTTON_BUY_ANOTHER_ONE: Koop een andere
   BUTTON_ADOPT: Adopteer
   BUTTON_ABANDON: Stoppen
-  BUTTON_ASSIGN_EMPLOYEE: Toewijzen   #Werknemer toewijzen
+  BUTTON_ASSIGN_EMPLOYEE: Toewijzen
   BUTTON_KEEP_PLAYING: Verder spelen
   BUTTON_LEADERBOARD: Klassement
   BUTTON_GIVEUP: Opgeven
@@ -56,6 +56,11 @@ gaugenl:
   BUTTON_SELECT: Selecteer
 
   # Labels, descriptive
+  LABEL_REQUIRE_EMPLOYEE: >
+    Vereist %d medewerkers in één studio
+  LABEL_STUDIO_NOT_BALANCED: >
+    Deze studio is onevenwichtig, het produceert niet dezelfde hoeveelheid Design/Development/Polijsten.
+    Dit zal worden weerspiegeld in de kwaliteit van de spellen.
   LABEL_LAST_COMBO: "Laatste keer heb je dezelfde combo thema/genre gemaakt"
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] heeft te weinig [b]%s[/b].
