@@ -56,6 +56,24 @@ fr:
   BUTTON_HIRE_THEIR_EMPLOYE: Débaucher un employé
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Dédommagements
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    À l'intention de [b]%s[/b],
+
+    Étant donné que [b]%s[/b] n'a pas rencontré le succès attendu, nous nous engageons a payer la pénalité de [b]%s$[/b] au plus vite.
+    Nous espérons que cet accroc ne nuiera pas a nos futures coopérations.
+
+    Dans l'attente d'un nouveau contrat.
+
+    Respectueusement,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Vous ne pouvez pas encore publier une nouvelle offre d'édition
+  LABEL_EDIT_GAME: Publier une offre d'édition
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s a été choisi pour développer leur prochain jeu %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Des rumeurs courrent, et il parait que %s n'est pas satisfait du deal qu'ils ont passés avec %s
   LABEL_REQUIRE_EMPLOYEE: >
     Nécessite %d employés dans un seul studio
   LABEL_STUDIO_NOT_BALANCED: >
@@ -649,7 +667,7 @@ fr:
     Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
-    Un vlogger célèbre pour ses critiques de jeux vidéos vient de publier une nouvelle vidéo. Et cette fois, il traite d'un de vos jeux:%s.
+    Les smitties, célèbrent pour ses critiques de jeux vidéos vient de publier une nouvelle vidéo. Et cette fois, il traite d'un de vos jeux: %s.
     Cela aura un impact sur vos ventes c'est sûr!
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Publicité gratuite
   LABEL_LOAN_TITLE: Prêt de dernier recours

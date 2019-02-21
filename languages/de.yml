@@ -56,6 +56,22 @@ de:
   BUTTON_SELECT: Wählen
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Entschädigungszahlungen
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Sehr geehrte [b]%s[/b],
+
+    Da [b]%s[/b] nicht den erwarteten Erfolg erzielt hat, sind wir verpflichtet, die [b]%s$[/b] Strafe so schnell wie möglich zu zahlen.
+    Wir hoffen, dass diese Schwierigkeiten unserer zukünftigen Zusammenarbeit nicht schaden werden.
+
+    Bei allem Respekt,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Ein neues Spiel kann noch nicht veröffentlicht werden.
+  LABEL_EDIT_GAME: Spielangebot veröffentlichen
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s wird am nächsten Spiel %s arbeiten.
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Gerüchte kursieren, und es scheint, dass %s mit dem Geschäft, das sie mit %s abgeschlossen haben, nicht zufrieden ist.
   LABEL_REQUIRE_EMPLOYEE: >
     Benötigt %d Mitarbeiter in einem einzigen Studio
   LABEL_STUDIO_NOT_BALANCED: >

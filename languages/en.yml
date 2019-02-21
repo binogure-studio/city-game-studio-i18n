@@ -56,6 +56,22 @@ en:
   BUTTON_SELECT: Select
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Compensation payments
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Dear [b]%s[/b],
+
+    Since [b]%s[/b] has not met with the expected success, we are committed to paying the [b]%s$[/b] penalty as soon as possible.
+    We hope that this snag will not harm our future cooperation.
+
+    Respectfully,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Cannot publish a new game yet
+  LABEL_EDIT_GAME: Publish game offer
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s is going to work on the very next game %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Rumours are circulating, and it seems that %s is not satisfied with the deal they made with %s
   LABEL_REQUIRE_EMPLOYEE: >
     Requires %d employees in a single studio
   LABEL_STUDIO_NOT_BALANCED: >
@@ -619,7 +635,7 @@ en:
     Only [b]%s[/b] is being attacked
   LABEL_VIRUS_UNLEASHED_TITLE: Virus unleashed
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
-    A vlogger famous for his game reviews just published a new video.
+    The smitties, famous for their game reviews, have just published a new video.
     And this time, he reviewed one of your games [b]%s[/b]. This will certainly have an impact on sells.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Free ads
   LABEL_LOAN_TITLE: Last-resort loan

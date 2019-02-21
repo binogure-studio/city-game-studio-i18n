@@ -56,6 +56,22 @@ et:
   BUTTON_SELECT: Valige
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Hüvitised
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Kallis [b]%s[/b],
+
+    Kuna [b]%s[/b] ei ole oodatud edu saavutanud, oleme pühendunud [b]%s$[/b] karistuse maksmisele võimalikult kiiresti.
+    Loodame, et see haaramine ei kahjusta meie tulevast koostööd.
+
+    Lugupidamisega
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Uut mängu ei saa veel avaldada
+  LABEL_EDIT_GAME: Avalda mängu pakkumine
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s töötab järgmisel mängul %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Kuuluvad kuulujutud, ja tundub, et %s ei ole rahul %siga tehtud tehinguga    
   LABEL_REQUIRE_EMPLOYEE: >
     Nõuab %d töötajat ühes stuudios
   LABEL_STUDIO_NOT_BALANCED: >

@@ -55,6 +55,22 @@ uk:
   BUTTON_SELECT: Виберіть
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Компенсаційні виплати
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Шановний [b]%s[/b],
+
+    Оскільки [b]%s[/b] не зустрічав очікуваного успіху, ми прагнемо заплатити штраф у розмірі [b]%s[/b] доларів як можна швидше.
+    Ми сподіваємося, що цей заклик не зашкодить нашій майбутній співпраці.
+
+    З повагою,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Не вдалося опублікувати нову гру
+  LABEL_EDIT_GAME: Опублікувати пропозицію гри
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s буде працювати на наступній грі %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Поширюються чутки, і, здається, %s не задоволений угодою, яку вони уклали з %s    
   LABEL_REQUIRE_EMPLOYEE: >
     Потрібно %d співробітників в одній студії
   LABEL_STUDIO_NOT_BALANCED: >

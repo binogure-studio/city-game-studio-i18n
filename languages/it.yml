@@ -56,6 +56,22 @@ it:
   BUTTON_SELECT: Seleziona
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Pagamenti di compensazione
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Caro [b]%s[/b],
+
+    Poiché [b]%s[/b] non ha ottenuto il successo atteso, ci impegniamo a pagare la penalità di [b]%s$[/b] il più presto possibile.
+    Speriamo che questo intoppo non nuoccia alla nostra futura cooperazione.
+
+    Con rispetto,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Non è ancora possibile pubblicare un nuovo gioco
+  LABEL_EDIT_GAME: Pubblicare l'offerta di gioco
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s lavorerà sul prossimo gioco %s.
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Le voci stanno circolando e sembra che %s non sia soddisfatto dell'accordo che hanno fatto con %s.    
   LABEL_REQUIRE_EMPLOYEE: >
     Richiede %d dipendenti in un unico studio
   LABEL_STUDIO_NOT_BALANCED: >

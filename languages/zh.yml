@@ -56,6 +56,22 @@ zh:
   BUTTON_SELECT: 选择
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: 赔偿金
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    亲爱的[b]%s[/b]，
+
+    由于[b]%s[/b]未能取得预期的成功，我们承诺尽快支付[b]%s[/b]美元的罚款。
+    我们希望这个障碍不会损害我们未来的合作。
+
+    尊敬，
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    无法发布新游戏
+  LABEL_EDIT_GAME: 发布游戏优惠
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s将参加下一场比赛%s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    谣言在流传，似乎%s对他们与%s达成的交易不满意    
   LABEL_REQUIRE_EMPLOYEE: >
     一个工作室需要%d名员工
   LABEL_STUDIO_NOT_BALANCED: >

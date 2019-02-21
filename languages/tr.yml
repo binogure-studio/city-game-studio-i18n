@@ -56,6 +56,22 @@ tr:
   BUTTON_SELECT: Seç
 
   # Labels, descriptive
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Tazminat ödemeleri
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Sevgili [b]%s[/b],
+
+    [b]%s[/b] beklenen başarıya ulaşmadığından, [b]%s$[/b] 'lık cezayı en kısa sürede ödemeyi taahhüt ediyoruz.
+    Bu engelin gelecekteki işbirliğimize zarar vermeyeceğini umuyoruz.
+
+    Saygılarımla,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Henüz yeni bir oyun yayınlanamıyor
+  LABEL_EDIT_GAME: Oyun teklifi yayınla
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s bir sonraki maçta çalışacak %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Söylentiler dolaşıyor ve %s'nin %s ile yaptıkları anlaşmadan memnun olmadığı görülüyor
   LABEL_REQUIRE_EMPLOYEE: >
     Tek bir stüdyoda %d çalışan gerektirir
   LABEL_STUDIO_NOT_BALANCED: >
