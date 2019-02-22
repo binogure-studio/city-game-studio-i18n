@@ -19,7 +19,7 @@ Verken de stad en kies je locatie voor de volgende studio. Zoals mijn nonkel alt
 
 [h2]Bemeubel je studio zorgvuldig[/h2]
 
-Niet iedereen is een studio designer, toch heeft elk meubelonderdeel een plaats in je studio en kan het een invloed op de geschiedenis van je bedrijf hebben.
+Niet iedereen is een studio designer, toch heeft elk meubel een plaats in je studio en kan het een invloed op de geschiedenis van je bedrijf hebben.
 
 [h2]Publiceer, werf aan, herhaal[/h2]
 
