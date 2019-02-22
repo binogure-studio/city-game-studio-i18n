@@ -1,7 +1,7 @@
 nl:
   # Buttons actions verbs
   BUTTON_ANNOUNCE: Kondig het spel aan
-  BUTTON_NEW_GAME: nieuw spel
+  BUTTON_NEW_GAME: Nieuw spel
   BUTTON_HIRE: Huur
   BUTTON_APPLY: Toepassen
   BUTTON_BACK: Terug
@@ -26,7 +26,7 @@ nl:
   BUTTON_TOO_BAD: Dat is jammer
   BUTTON_BUY_ANOTHER_ONE: Koop een andere
   BUTTON_ADOPT: Adopteer
-  BUTTON_ABANDON: Stoppen
+  BUTTON_ABANDON: Verlaten
   BUTTON_ASSIGN_EMPLOYEE: Toewijzen
   BUTTON_KEEP_PLAYING: Verder spelen
   BUTTON_LEADERBOARD: Klassement
@@ -79,7 +79,7 @@ nl:
   LABEL_REQUIRE_EMPLOYEE: >
     Vereist %d medewerkers in één studio
   LABEL_STUDIO_NOT_BALANCED: >
-    Deze studio is onevenwichtig, het produceert niet dezelfde hoeveelheid Design/Development/Polijsten.
+    Deze studio is onevenwichtig, het produceert niet dezelfde hoeveelheid Design/Development/Polish.
     Dit zal worden weerspiegeld in de kwaliteit van de spellen.
   LABEL_LAST_COMBO: "Laatste keer heb je dezelfde combo thema/genre gemaakt"
   LABEL_POINTRATIO_NOT_ENOUGH: |
@@ -126,7 +126,7 @@ nl:
   LABEL_SALES_HITS_0: >
     [b]%s[/b] verkoop doet het goed, Ik vermoed dat dit de verkoop zal verbeteren met [b]%d%%[/b]
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] Is niet slecht deze maand, Volgens mijn schattingen zal dit de verkoop verbeteren met [b]%d%%[/b]
+    [b]%s[/b] is niet slecht deze maand, volgens mijn schattingen zal dit de verkoop verbeteren met [b]%d%%[/b]
   LABEL_SALES_HITS_2: >
     All right, Laten we het hebben over [b]%s[/b]. De verkoop is uitstekend en ik denk dat we een verbetering van [b]%d%%[/b] kunnen verwachten.
   LABEL_SALES_HITS_3: >
@@ -155,7 +155,7 @@ nl:
   LABEL_WHITEARMCHAIR: Witte leunstoel
   LABEL_WHAT_WERE_YOU_DOING: Wat was je aan het doen toen je de fout tegenkwam?
   LABEL_VERSION: "Versie: %s"
-  LABEL_NO_MESSAGE: Geen boodschap
+  LABEL_NO_MESSAGE: Geen email
   LABEL_INBOX: Postvak IN
   LABEL_SPAM: Spam
   LABEL_TRASH: Prullenbak
@@ -185,7 +185,7 @@ nl:
   LABEL_MARKETING: Advertentie kosten
   LABEL_FINANCIAL_RESULT: Financiele resultaten
   LABEL_PROPERTY_VALUE: Waarde van eigendommen
-  LABEL_FURNITURE_VALUE: Waarde van meubelen
+  LABEL_FURNITURE_VALUE: Waarde van meubels
   LABEL_CATALOG_VALUE: Waarde van spelcatalogus
   LABEL_TOTAL_VALUE: Totale waarden
   LABEL_MORTGAGES: Hypotheken
@@ -270,13 +270,13 @@ nl:
   LABEL_CAMPAIGN_FULL: Start een publiciteitscampagne
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] heeft net zijn volgende game onthuld: [b]%s[/b]
-    Het zal verkijgbaar zijn op [b]%s[/b]
+    Het zal verkrijgbaar zijn op [b]%s[/b]
 
     %s
 
-    We wensen u het beste voor met uw game!
+    We wensen u het beste met uw game!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
-    Fans zijn opgewonden, zo zeggen ze allemaal!
+    Fans zijn enthousiast, zo laten ze allemaal weten!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     Fans zijn niet gelukkig en de gespecialiseerde tijdschriften willen al het spel de bodem inboren.
 
@@ -294,7 +294,7 @@ nl:
   LABEL_NO_BUILDING: Geen gebouw beschikbaar
   LABEL_NO_CONVENTION: Geen beurs gepland
   LABEL_CONVENTION_LAST_DATE: Laatste beurs
-  LABEL_DATE: Vervaldag  #niet zeker
+  LABEL_DATE: Vervaldag
   LABEL_STANDSIZE: Grootte stand
   LABEL_CONVENTION_NAME: Beursnaam
   LABEL_ATTEND: Bijwonen
@@ -332,7 +332,7 @@ nl:
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Grafische instellingen
   LABEL_GRAPHISM: Grafisch
-  LABEL_INCOME: Inkomen
+  LABEL_INCOME: Inkomsten
   LABEL_INVALID_SAVE: Beschadigde save
   LABEL_KICKOFF: Kick off
   LABEL_LOAD_GAME: Laad spel
@@ -480,7 +480,7 @@ nl:
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] kondigt het einde aan van het bekende [b]%s[/b]"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Je hebt de licentie van [b]%s[/b] ontgrendeld, het koste [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Platform uitgebracht
-  LABEL_PLATFORM_DISCONTINUED_TITLE: gestopte platform
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Platform beëindigd
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: opkomend platform
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: opkomend beëindiging platform
   LABEL_PLATFORM_UNLOCKED_TITLE: Platform gekocht
@@ -598,7 +598,7 @@ nl:
   LABEL_LICENSE_COST: Licentie
   LABEL_OWNED: In bezit
   LABEL_WEEK_COST: Development kosten
-  LABEL_CATALOG_SIZE: Spelcatalogus grootte
+  LABEL_CATALOG_SIZE: Grootte spelcatalogus
   LABEL_PLATFORM_LIST: Platform lijst
   LABEL_IDLE: Inactief
   LABEL_ADOPT_CAT_DESCRIPTION: >
@@ -692,7 +692,7 @@ nl:
   LABEL_DARKMETALTABLEDESK: Zwarte metalen bureau
   LABEL_METALDESK: Metalen bureau
   LABEL_METALLARGEDESK: Grote metalen bureau
-  LABEL_METALTABLEDESK: Metalen bureua
+  LABEL_METALTABLEDESK: Metalen bureau
   LABEL_WOODDESK: Houten bureau
   LABEL_WOODLARGEDESK: Grote houten bureau
   LABEL_WOODTABLEDESK: Houten bureau
@@ -837,7 +837,7 @@ nl:
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Je concurrenten kopen is een makkelijke manier om veel fans te winnen, alsook om je bedrijf uit te breiden.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    Bij het kijken naar een van je studios, kan je nieuwe meubelen kopen.
+    Bij het kijken naar een van je studios, kan je nieuwe meubels kopen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     Onthou dat de beste games geproduceerd worden door teams die even sterk in design, development en polish zijn.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
@@ -886,7 +886,7 @@ nl:
     Je kan je games naar nieuwe platformen porten, het is simpel en je hebt maar één persoon is nodig.
   LABEL_UNLOCK_GAMEGENRE: Je hebt ervaring opgedaan in games te maken, je voelt je klaar om nieuwe game mechanismes te maken
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
-    Je kan nu nieuwe game genres unlocken. Om vaardigheidspunten te verdienen moet je games uitbrengen.
+    Je kan nu nieuwe game genres ontgrendelen. Om vaardigheidspunten te verdienen moet je games uitbrengen.
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Bedrijfsnaam
@@ -921,11 +921,11 @@ nl:
   TOOLTIP_CONCURRENT_LOCKED: |
     Je zal opnieuw een actie kunnen proberen tegen %s vanaf %s
   TOOLTIP_TUTORIEL: |
-    %s om %s te unlocken
+    %s om %s te ontgrendelen
   TOOLTIP_EMAIL: |
     Lees het nieuws en je email
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    Laat je toe om nieuwe type van games te unlocken.
+    Laat je toe om nieuwe type van games te ontgrendelen.
   TOOLTIP_MANAGE_STUDIO: |
     Om studio's te beheren, computers te verbeteren, werknemers toe te wijzen...
   TOOLTIP_GAMEPORT: Port een video game naar een ander platform
@@ -1037,4 +1037,4 @@ nl:
   MARKETING_CAMPAIGN_SOCIALNETWORK: Gerichte advertentie campagne
   MARKETING_CAMPAIGN_MAILINGLIST: Email advertentie campagne
   GAMEPORT: Port een game
-  UNLOCK_GAMEGENRE: Unlock game genre
+  UNLOCK_GAMEGENRE: ontgrendel game genre
