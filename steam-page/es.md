@@ -4,7 +4,7 @@ Estamos en 1975 y te has decidido a crear tu propio estudio de videojuegos. Has 
 
 [img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
 
-Pero el problema permanece: aunque los juegos son de calidad, su fama no basta para garantizar ventas ni para hacer tu estudio rentable. Deberás dirigirte a las distribuidoras de videojuegos que querrán la mejor parte, y la única forma de desacerse de ellos será encadenar suficientes éxitos. Con el tiempo podrás redactar tus própios contratos de publicación, y finalmente cuando domines el mercado podrás comprar a tus competidores.
+Pero el problema permanece: aunque los juegos son de calidad, su fama no basta para garantizar ventas ni para hacer tu estudio rentable. Deberás dirigirte a las distribuidoras de videojuegos que querrán la mejor parte, y la única forma de deshacerse de ellos será encadenar suficientes éxitos. Con el tiempo podrás redactar tus propios contratos de publicación, y finalmente cuando domines el mercado podrás comprar a tus competidores.
 
 [img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
 
