@@ -1,10 +1,10 @@
 [img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
 
-Estamos en 1975 y usted acaba de crear su estudio de videojuegos.Usted alquila un local pequeño que ya le permite desarrollar juegos. Rapidamente sus creaciones tienen exito y debera trasladarse a un estudio mas grande. Le incumbe a usted recorrer la ciudad para escoger su proximo estudio. En poco tiempo usted devera contratar personas cualificadas para desarrollar el aspecto visual de sus creaciones. 
+Estamos en 1975 y te has decidido a crear tu propio estudio de videojuegos. Has alquilado un local pequeño que te permite empezar a desarrollar tus obras. Rápidamente tus creaciones ganan fama y ya debes trasladarte a un estudio mas grande, pero es cosa tuya decidir cuál será tu próximo local. En poco tiempo ya estás contratando personal cualificado para desarrollar el aspecto visual de tus creaciones, seguidos de programadores y controladores.
 
 [img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
 
-Luego vendran los controladores y desarrolladores. Si existe un problema aunque los juegos son de calidad, su notoriedad no basta para garantizar las ventas y rentabilizar su estudio. Usted debera dirigirse a los editores del videojuego que buscaran la mejor parte. Encadenados los Exitos usted sera capaz de seguir sin editores. Y a términos usted sera capaz de publicar sus propios contratos de sus ediciones. Usted entonces estara dispuesto a dominar el mercado y a comprar a sus competidores.
+Pero el problema permanece: aunque los juegos son de calidad, su fama no basta para garantizar ventas ni para hacer tu estudio rentable. Deberás dirigirte a las distribuidoras de videojuegos que querrán la mejor parte, y la única forma de desacerse de ellos será encadenar suficientes éxitos. Con el tiempo podrás redactar tus própios contratos de publicación, y finalmente cuando domines el mercado podrás comprar a tus competidores.
 
 [img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
 
