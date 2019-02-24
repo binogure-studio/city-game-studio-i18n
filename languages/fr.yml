@@ -1,5 +1,6 @@
 fr:
   # Buttons actions verbs
+  BUTTON_READ: Lire
   BUTTON_ANNOUNCE: Annoncer le jeu
   BUTTON_NEW_GAME: Nouvelle partie
   BUTTON_HIRE: Engager
@@ -330,8 +331,7 @@ fr:
   LABEL_GAME_SIZE: Taille
   LABEL_GAME_ONLINE_SHORT: Multijoueur en ligne
   LABEL_PLATFORM_NOT_ONLINE: >
-    Vous ne pouvez pas créer de jeux en ligne sur cette plateforme
-    car elle n'est pas compatible avec les jeux en ligne
+    La plateforme sélectionnée ne supporte pas le mode en ligne
   LABEL_GAMEPLAY: Gameplay
   LABEL_GRAPHIC_SETTINGS: Paramètres graphiques
   LABEL_GRAPHISM: Graphismes
@@ -622,8 +622,8 @@ fr:
   LABEL_MATCH_POOR: Mauvaise association
   LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] ne nous a rien appris de neuf"
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Voici ce que nous avons pu tirer de [b]%s[/b]:%s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport [i]%s[/i]/[i]%s[/i] est [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Voici ce que nous avons pu apprendre de [b]%s[/b]:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport [i]%s[/i]/[i]%s[/i] est une [b]%s[/b][/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul]- À jauger correctement le [b]%s[/b] pour un jeu de type [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: Parts de marché
   LABEL_LICENSE_COST: License
@@ -858,7 +858,7 @@ fr:
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
     Achetez des serveurs va vous permettre de créer des jeux en ligne mais aussi un portail en ligne.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
-    Vous pouvez créer de sjeux en ligne. ILs sont normalement moins coûteux, mais les joueurs doivent payer un abonnement mensuel.
+    Vous pouvez créer des jeux en ligne. Ils sont normalement moins coûteux, mais les joueurs doivent payer un abonnement mensuel.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
     Vous pouvez créer un magasin de vente de jeux dématérialisé, enfin une première version alpha qu'il va falloir améliorer.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
