@@ -1,1 +1,1 @@
-Usted es el presidente fundador de su estudio de videojuegos.El punto de inicio te pertenece,puedes comenzar poco a poco en tu estudio y en un futuro adquirir uno mas grande para desarrollar sus creaciones
+Eres el presidente fundador de un estudio de videojuegos. El punto de inicio es tuyo, pues puedes empezar en tu garaje o pensar a lo grande y comprar tu primer local. En última instancia, tus decisiones aran que tu estudio triunfe y dejarás tu huella en la historia de los videojuegos.
