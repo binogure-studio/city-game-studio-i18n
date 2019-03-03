@@ -78,7 +78,7 @@ zh:
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     无法发布新游戏
-  LABEL_EDIT_GAME: 发布委托开发
+  LABEL_EDIT_GAME: 发布开发委托
   LABEL_EDIT_GAME_ANNOUNCE: |
     %s将发布下一款游戏%s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
@@ -114,7 +114,7 @@ zh:
   LABEL_REVIEW_COMBO_BAD: |
     这只是另一个[b]%s[/b]游戏。 他们必须学会在[b]%s[/b]更新自己
   LABEL_CRACKED: 破解
-  LABEL_SELECT_COMPANY_SPECIALIZATION: 游戏类型专业化
+  LABEL_SELECT_COMPANY_SPECIALIZATION: 初始擅长类型
   LABEL_DISCORD_COMMUNITY: Discord社区
   LABEL_LAST_MONTH: 将持续%s个月
   LABEL_SUCCESS_RATE: 成功概率
@@ -123,9 +123,9 @@ zh:
   LABEL_SALES_HITS_DESCRIPTION: |
     你好%s, 
     我知道你会很喜欢我的电子邮件. 
-    我们做了这款游戏的市场研究, 我们可以专业的分析这款游戏的销售, 我做了一些预估, 今天我们将谈论%s的销售
+    我们做了这款游戏的市场研究, 严谨的分析了这款游戏的销售, 我做了一些预估, 今天我们将讨论%s未来的销售情况。
     %s
-    诚挚
+    此致
     Binogure
   LABEL_SALES_HITS_0: >
     [b]%s[/b]销售情况良好, 我估计这将使销售额提高[b]%d%%[/b]. 
@@ -258,15 +258,15 @@ zh:
   LABEL_CAMPAIGN_DEMO: 发布游戏演示
   LABEL_CAMPAIGN_FULL: 举办广告活动
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    [b]%s[/b] 刚刚公布了他们的下一场比赛: [b]%s[/b]
-    它将在 [b]%s[/b] 上提供
+    [b]%s[/b] 刚刚公布了他们的下一款游戏: [b]%s[/b]
+    它将上线 [b]%s[/b] 平台
     %s
-    祝你玩游戏最棒！
+    祝您游戏愉快！
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     粉丝们很兴奋！
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    粉丝们并不高兴，专业杂志似乎已经想要在这场比赛中放松一下
-    必须说他们不久前发布了类似的游戏。
+    粉丝们并不高兴，一些专业杂志似乎并不看好这款游戏。
+    因为他们不久前才发布了类似的游戏。
   LABEL_GAME_ANNOUNCED_TITLE: "%s 宣布"
   LABEL_TRENDING: 趋势
   LABEL_CREATOR: 由...制作
@@ -285,7 +285,7 @@ zh:
   LABEL_CONVENTION_NAME: 展会名称
   LABEL_ATTEND: 出席
   LABEL_ORGANIZE: 组织
-  LABEL_INFORMATIONS: 细节
+  LABEL_INFORMATIONS: 详情
   LABEL_GAME: 可玩性
   LABEL_GAMEPORT: 移植游戏
   LABEL_CONVENTION: 展览中心
@@ -442,7 +442,7 @@ zh:
   LABEL_TYPE_ARTILLERY: 炮兵
   LABEL_TYPE_CASUAL: 休闲
   LABEL_TYPE_BREAKOUT: 弹珠
-  LABEL_TYPE_RYTHM: 节奏
+  LABEL_TYPE_RYTHM: 音乐
   LABEL_TYPE_CLICKER_GAME: 点击游戏
   LABEL_TARGETTED_AUDIENCE_YOUNG: 小学生
   LABEL_TARGETTED_AUDIENCE_ALL: 每个人
@@ -463,7 +463,7 @@ zh:
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 发布了一个新平台:[b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] 停产了如此出色的 [b]%s[/b], 玩家们正在哭泣"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 将在几个月内发布一个新平台 [b]%s[/b] ，它将非常出色"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] 宣布了众所周知的 [b]%s[/b] 的寿命结束"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] 宣布他们的旧款主机 [b]%s[/b] 彻底停产"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: 您已解锁 [b]%s[/b] 的许可证, 其成本为 [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: 平台发布
   LABEL_PLATFORM_DISCONTINUED_TITLE: 停产平台
@@ -516,8 +516,8 @@ zh:
   LABEL_CATCHPHRASE_2_5: 应该已经取消了
   LABEL_CATCHPHRASE_3_0: 简直就是灾难
   LABEL_CATCHPHRASE_3_1: 令人尴尬的是他们居然如此膨胀
-  LABEL_CATCHPHRASE_3_2: 他们把所有的东西放进去, 但他们并没有足够的能力去完善
-  LABEL_CATCHPHRASE_3_3: 如果他们只做了一款游戏
+  LABEL_CATCHPHRASE_3_2: 他们把所有的东西都放进去了, 但他们却没有足够的能力去完善它们
+  LABEL_CATCHPHRASE_3_3: 游戏制作人肯定是个智障
   LABEL_CATCHPHRASE_3_4: 令人痛苦的体验
   LABEL_CATCHPHRASE_3_5: 我们觉得这很糟糕, 但我们希望更好！
   LABEL_CATCHPHRASE_4_0: 一些好主意太尴尬了
@@ -542,7 +542,7 @@ zh:
   LABEL_CATCHPHRASE_7_1: 丰富的内容，但画面过于平庸
   LABEL_CATCHPHRASE_7_2: 精致的游戏画面, 但机制缺陷太明显
   LABEL_CATCHPHRASE_7_3: 内容有限的优秀概念
-  LABEL_CATCHPHRASE_7_4: 一个令人满意的混合体？
+  LABEL_CATCHPHRASE_7_4: 真是令人尴尬的组合
   LABEL_CATCHPHRASE_7_5: 我们离好游戏不远了
   LABEL_CATCHPHRASE_8_0: 在最纯净的状态下享受乐趣
   LABEL_CATCHPHRASE_8_1: 就像早晨清新的微风
@@ -579,8 +579,8 @@ zh:
   LABEL_POSTMORTEM_TITLE: 旧作研究 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 我们从 [b]%s[/b] 中学到了什么新东西
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "这是我们从 [b]%s[/b] 学到的东西: [b]%s[/b]"
-  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] 和 [i]%s[/i] 之间的匹配是 [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- 为游戏类型 [b]%s[/b] 管理 [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] 和 [i]%s[/i] 之间的搭配是 [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]-  [b]%s[/b] 在 [b]%s[/b][/ul]" 中是需要尽力完善的地方
   LABEL_MARKET_SHARE: 市场份额
   LABEL_LICENSE_COST: 授权
   LABEL_OWNED: 拥有
@@ -589,9 +589,9 @@ zh:
   LABEL_PLATFORM_LIST: 平台清单
   LABEL_IDLE: 空闲
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    [b]%s[/b] 工作室的工作人员发现了一只流浪猫.  这只猫非常可爱, 工作人员已经给它起了个名字. 
-    你想怎么做？
-  LABEL_ADOPT_CAT_TITLE: 流浪猫
+    [b]%s[/b] 工作室的工作人员发现了一只热爱游戏的猴.  这只猴非常可爱, 工作人员们都称呼他老大. 
+    你愿意收留这只猴吗？
+  LABEL_ADOPT_CAT_TITLE: 一只会玩游戏的猴
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     在Blue Studio, 两兄弟刚刚发布了一款新游戏.  它改变了游戏规则, 并出现了一种新的游戏类型. 
     神秘游戏
@@ -631,8 +631,8 @@ zh:
   LABEL_SELL_STUDIO_DESCRIPTION: 你在卖工作室 [b]%s[/b], 你想继续吗？
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: 由于 [b]%s[/b] 是你的最后一个工作室, 或者它忙于处理一个项目, 你现在并不能出售它
   LABEL_BUILDING_AREA: 面积 %sm²
-  LABEL_BUILDING_BUY: 价钱
-  LABEL_BUILDING_RENT: 出租
+  LABEL_BUILDING_BUY: 价格
+  LABEL_BUILDING_RENT: 租赁
   LABEL_BUILDING_CONVENTION: 展览中心
   LABEL_BUILDING_TYPE: 建造
   LABEL_BUILDING_ROAD: 路
@@ -722,8 +722,8 @@ zh:
   LABEL_FURNITURES_SERVERS_BUY: >
     更多的桌子, 更多的椅子, 更多的电脑, 更多的白板, 更多
   LABEL_DIGITAL_STORE: 非物质化, 你开始听到它, 你已经知道这是未来. 
-  LABEL_POSTMORTEM_FEATURE: 恭喜您, 您已经完成了第一个游戏制作.  您现在可以进行深度研究, 以帮助您评估其程序, 设计和测试结果
-  LABEL_NEW_GAME_FEATURE: 准备好从一开始就重温电子游戏的历史进程吗？ 欢迎来到《游戏公司》.  开始并创建您公司的第一个游戏. 
+  LABEL_POSTMORTEM_FEATURE: 恭喜您, 您已经完成了第一款游戏制作.  您现在可以进行深度研究, 以帮助您评估其程序, 设计和测试结果
+  LABEL_NEW_GAME_FEATURE: 准备好从一开始就重温电子游戏的历史进程吗？ 欢迎来到《游戏公司》.  开始并创建您公司的第一款游戏. 
   LABEL_LOADING: 载入中
   LABEL_NAME: 名称
   LABEL_SALARY: 薪水
@@ -865,8 +865,8 @@ zh:
   TOOLTIP_PORTFOLIO: 列出你到目前为止所做的所有游戏
   TOOLTIP_OPTION: 参数和选项
   TOOLTIP_EXIT: 退出游戏
-  TOOLTIP_STUDIOS: 列出你的工作室
-  TOOLTIP_STUDIOLIST: 列出镇上的办公室
+  TOOLTIP_STUDIOS: 你的工作室
+  TOOLTIP_STUDIOLIST: 镇上的办公室
   TOOLTIP_CONSTRUCT: 为办公室建造一座新建筑或举办游戏展会
   TOOLTIP_CONFERENCE: 管理惯例
   TOOLTIP_MARKETING: 管理您的营销活动
@@ -943,13 +943,13 @@ zh:
   EMPLOYEES_HIRE: 雇用员工
   STUDIO_RENT: 租一间一室公寓
   STUDIO_BUILD: 建一个工作室
-  CONVENTION_ORGANIZE: 参加一次游戏展会
+  CONVENTION_ORGANIZE: 举办游戏展会
   CONVENTION_PARTICIPATE: 参加游戏展会
   STUDIO_CUSTOMIZE: 翻新你的工作室
   FURNITURES_SERVERS_BUY: 买服务器
   GAME_ONLINE: 发布在线游戏
   DIGITAL_STORE: 非物质化商店
-  POSTMORTEM: 游戏报道
+  POSTMORTEM: 能力解锁
   NEW_GAME: 新游戏
   TARGETTED_AUDIENCE: 受众人群
   STORY: 历史
