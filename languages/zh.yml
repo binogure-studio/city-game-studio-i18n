@@ -1,10 +1,10 @@
 zh:
   # Buttons actions verbs
   BUTTON_READ: 读取
-  BUTTON_ANNOUNCE: 宣布游戏
+  BUTTON_ANNOUNCE: 游戏预告
   BUTTON_NEW_GAME: 新游戏
   BUTTON_HIRE: 雇用
-  BUTTON_APPLY: 申请
+  BUTTON_APPLY: 应用
   BUTTON_BACK: 返回
   BUTTON_BUILD_MODE: 构建模式
   BUTTON_BUILDING_RENT: 租
@@ -206,7 +206,7 @@ zh:
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     对于 [b]%s[/b] (%s)，
     
-    我们非常失望地知道你取消了[b]%s[/b]的发展。
+    我们非常失望地知道你取消了[b]%s[/b]的开发。
     根据正式签署的合同条款中的第453页，第72d段，W段，粉红页，你必须支付违约金[b]%s$[/b] ，请尽快将款项交付与我们。  此致，  诚实的律师事务所。
 
     [b]%s[/b]
@@ -312,27 +312,27 @@ zh:
   LABEL_ANISOTROPIC_FILTER: 各向异性过滤器
   LABEL_BUILDING_LEASE: 租赁
   LABEL_TYPE_BUILDING: 输入
-  LABEL_CHARACTERS: 字符
+  LABEL_CHARACTERS: 文字
   LABEL_COMPANY_NAME: 公司名称
   LABEL_CUTSCENES: 过场动画
   LABEL_CURRENCY: 货币
   LABEL_DESIGN: 设计
-  LABEL_DEVELOPMENT: 发展
+  LABEL_DEVELOPMENT: 开发
   LABEL_DIFFICULTY: 难度
   LABEL_EVENT_TYPE: 活动类型
   LABEL_UNIT_SOLD: 已售出单位
   LABEL_FANBASE: 粉丝群
   LABEL_FULLSCREEN: 全屏
   LABEL_GAME_GENRE: 输入
-  LABEL_GAME_HISTORY: 游戏历史
+  LABEL_GAME_HISTORY: 游戏制作历史
   LABEL_GAME_NAME: 姓名
   LABEL_GAME_SIZE: 大小
   LABEL_GAME_ONLINE_SHORT: 在线多人游戏
   LABEL_PLATFORM_NOT_ONLINE: >
     该平台不支持在线多人游戏
-  LABEL_GAMEPLAY: 游戏玩法
+  LABEL_GAMEPLAY: 玩法
   LABEL_GRAPHIC_SETTINGS: 图形设置
-  LABEL_GRAPHISM: 图形
+  LABEL_GRAPHISM: 图像
   LABEL_INCOME: 收入
   LABEL_INVALID_SAVE: 保存已损坏的
   LABEL_KICKOFF: 开始吧
@@ -479,7 +479,7 @@ zh:
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]从有名的[b]%s[/b]退休了，粉丝们都在哭泣。"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 会在几个月内发布一个新平台 [b]%s[/b] 应该会持续多年"
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]宣布众所周知的 [b]%s[/b]寿命结束"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "你已解锁[b]%s[/b]的许可证，费用为[b]%s$[/b]"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "你已获得[b]%s[/b]的授权，花费美金[b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: 平台发布
   LABEL_PLATFORM_DISCONTINUED_TITLE: 已停产的平台
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: 即将推出的平台
@@ -492,8 +492,8 @@ zh:
   LABEL_WASTEBASKET: 废纸篓
   LABEL_ASSIGN_EMPLOYEE: 工作人员
   LABEL_NEW_GAME: 新游戏
-  LABEL_MODDING: 改装
-  LABEL_ARTWORK: 艺术品
+  LABEL_MODDING: 模组
+  LABEL_ARTWORK: 插图
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "感谢你最近的体验，你已经解锁了一个新类型[b]%s[/b]"
   LABEL_UNLOCK_GAME_TYPE_TITLE: 已解锁类別：%s
   LABEL_MAGAZINE_0: 粉丝游戏
@@ -582,15 +582,15 @@ zh:
   LABEL_CATCHPHRASE_11_3: 一个重新建立视频游戏声望的作品
   LABEL_CATCHPHRASE_11_4: 如果完美是一场游戏
   LABEL_CATCHPHRASE_11_5: 第二十世界奇迹
-  LABEL_CREATE_SEQUEL: 制作续作
+  LABEL_CREATE_SEQUEL: 制作
   LABEL_NEW_IP: 新IP
-  LABEL_POSTMORTEM: 事后分析
+  LABEL_POSTMORTEM: 事后开发分析
   LABEL_EMPTY_STUDIO: 警告此工作室不包含任何带计算机的工作桌！
   LABEL_MATCH_EXCELLENT: 非常棒的游戏
   LABEL_MATCH_GOOD: 很好的游戏
   LABEL_MATCH_OK: 不错的比游戏
   LABEL_MATCH_POOR: 糟糕的游戏
-  LABEL_POSTMORTEM_TITLE: 事后分析 (%s)
+  LABEL_POSTMORTEM_TITLE: 事后开发分析 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "从[b]%s[/b]中，我们没有学到什么新东西"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "从[b]%s[/b]中，我们学到新的东西是：%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i]和[i]%s[/i]之间的匹配是[b]%s[/b][/ul]"
@@ -689,7 +689,7 @@ zh:
   LABEL_WHITEBOARD: 白板
   LABEL_WOODBOOKSHELF: 木书架
   LABEL_METALBOOKSHELF: 金属书架
-  LABEL_HOLIDAY: 假日
+  LABEL_HOLIDAY: 放假
   LABEL_NO_COMPUTER: 没有电脑
   LABEL_NO_STUDIO: 没有工作室
   LABEL_EMPLOYEE_CAPACITY: 生产率
@@ -709,7 +709,7 @@ zh:
   LABEL_PRODUCTIVITY: 生产力
   LABEL_MONEY_EFFICIENCY: 成本效率
   LABEL_SKILLS: 技能
-  LABEL_HOME: 主页
+  LABEL_HOME: 家
   LABEL_MONTH: 月
   LABEL_ORDER_BY: 排序依据
   LABEL_BUY_PRICE: 买入价
@@ -762,7 +762,7 @@ zh:
   LABEL_DIGITAL_STORE: >
     非物质化，你开始听到，而且你已经知道它是未来。
   LABEL_POSTMORTEM_FEATURE: >
-    恭喜你，你已经完成了第一场比赛。你现在可以进行事后剖析以帮助你评估其开发、设计和抛光。
+    恭喜你，你已经完成了第一款游戏。你现在可以进行【事后开发报告】以帮助你评估游戏的开发、设计和优化。
   LABEL_NEW_GAME_FEATURE: >
     准备重温电子游戏的史诗式历史？欢迎来到City Game Studio。 开始并创建您的第一个游戏。
   LABEL_LOADING: 正在加载
@@ -791,7 +791,7 @@ zh:
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
     你可以查看发布商的优惠。发布游戏是一种变得流行并发布更大游戏的方法。
   LABEL_WORLDMAP_DESCRIPTION_0: >
-    访问城市，看看比赛，并查看你的工作室在哪里。
+    打开城市地图，看看竞争者，和你的游戏公司分别在什么地方。
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
     允许通过许多游戏杂志组织营销活动。这将提高你的游戏的可见性。
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
@@ -807,9 +807,9 @@ zh:
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     购买竞争对手是赢得众多粉丝以及扩大公司规模的简单方法。
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    如你在寻找一个工作室时，你可以购买新家具。
+    当你在一个工作室里的时候，你可以购买新家具对工作室进行装扮。
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    请记住，最好的游戏是由在设计，开发和抛光方面都很强大的团队制作的。
+    请记住，最好的游戏是由设计，开发和优化三个方面都很强大的团队制作的。
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     允许你租用新建筑物。这将允许你同时处理多个项目。
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
@@ -831,9 +831,9 @@ zh:
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     你可以从出版商那里获得优惠，它给你带来了很多钱，但要注意不好的言论。
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-    事后剖析是一个关于游戏开发过程中出错的报告，为您提供线索。
+    事后开发报告是一个关于游戏开发过程中出错的总结性报告，这些信息可以为您提供线索。
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
-    创造一个好的游戏可以让你在城市游戏工作室取得进步，赚钱，粉丝和经验。
+    创造一个好的游戏可以让你在城市游戏工作室取得进步，并为你赚取美金，获得粉丝的青睐和制作经验。
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
     在创建游戏时，你可以选择目标受众，这会对游戏的最终得分和销售产生影响。
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
@@ -903,24 +903,24 @@ zh:
     事后报告可帮助你创建更好的游戏。
   TOOLTIP_CREATE_GAME: 制作一款新游戏
   TOOLTIP_STAFF: 员工名单
-  TOOLTIP_RECRUIT: 列出城里可供选择的候选人
-  TOOLTIP_PORTFOLIO: 列出你到目前为止所做的所有游戏
+  TOOLTIP_RECRUIT: 查看员工名单
+  TOOLTIP_PORTFOLIO: 过往游戏名单
   TOOLTIP_OPTION: 参数和选项
   TOOLTIP_EXIT: 返回Linux
-  TOOLTIP_STUDIOS: 列出你的工作室
-  TOOLTIP_STUDIOLIST: 列出镇上的办公室
+  TOOLTIP_STUDIOS: 查看你的工作室
+  TOOLTIP_STUDIOLIST: 查看镇上的办公室
   TOOLTIP_CONSTRUCT: |
-    为办公室建造一座新建筑或举办一次会议。
-  TOOLTIP_CONFERENCE: 管理会议
+    为办公室建造一座新建筑或举办一次展会。
+  TOOLTIP_CONFERENCE: 管理展会
   TOOLTIP_MARKETING: 管理您的营销活动
   TOOLTIP_SELL: 出售你的办公室
   TOOLTIP_SHOP: 为你的办公室购买家具和物品
-  TOOLTIP_BUILDMOD: 油漆并美化你的办公室
+  TOOLTIP_BUILDMOD: 美化你的办公室
   TOOLTIP_ASSIGN: 将员工分配到桌子
   TOOLTIP_STUDIO_SELECT: 列出你的工作室
   TOOLTIP_ANNOUNCE_GAME: |
-    宣布视频游戏。
-    创造大肆宣传。
+    发布游戏预告。
+    大肆宣传新游戏。
   TOOLTIP_CONCURRENT: |
     视频游戏公司列表
   TOOLTIP_STUDIO_COST: |
@@ -931,7 +931,7 @@ zh:
   TOOLTIP_SALARY_COST: |
     每个员工的薪水
   TOOLTIP_STEAM_MODS: |
-    蒸汽车间
+    Steam工作室
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
@@ -967,7 +967,7 @@ zh:
   LOADING_SCREEN_TIP_15: >
     发布新游戏是赚钱的最佳方式。
   LOADING_SCREEN_TIP_16: >
-    事后剖析可让你了解有关已发布游戏的更多信息。
+    事后开发报告可让你了解有关已发布游戏的更多信息。
   LOADING_SCREEN_TIP_17: >
     根据最近的一项研究，625.3只狗中有近1只在下雨时吠叫，其他人则取笑它。
   LOADING_SCREEN_TIP_18: >
@@ -985,7 +985,7 @@ zh:
   MARKETING_CAMPAIGN_INTERNET: 在线广告活动
   CONCURRENT_STUDIOS_LIST: 列出竞争对手
   CONCURRENT_STUDIOS_BUY: 收购竞争对手
-  FURNITURES_COMMON_BUY: 购买家具
+  FURNITURES_COMMON_BUY: 家具商店
   EMPLOYEES_HIRE: 雇用员工
   STUDIO_RENT: 租一间一室公寓
   STUDIO_BUILD: 建立一间工作室
@@ -997,7 +997,7 @@ zh:
   DIGITAL_STORE: 非物质化商店
   POSTMORTEM: 游戏报告
   NEW_GAME: 新游戏
-  TARGETTED_AUDIENCE: 目标受众
+  TARGETTED_AUDIENCE: 受众人群
   STORY: 历史
   USERINTERFACE: 用户界面
   NETWORK: 网络
