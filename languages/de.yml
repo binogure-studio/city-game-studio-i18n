@@ -39,7 +39,7 @@ de:
   BUTTON_SELL: Verkaufen
   BUTTON_RENT: Mieten
   BUTTON_CONFIRM: Bestätigen
-  BUTTON_BANKRUPTCY: Bankcrupcy
+  BUTTON_BANKRUPTCY: Bankrott
   BUTTON_RESTORE: Wiederherstellen
   BUTTON_DELETE: Löschen
   BUTTON_DELETE_ALL: Alle löschen
@@ -51,7 +51,7 @@ de:
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
   BUTTON_CRACK_GAME: Ein Spiel knacken
-  BUTTON_FORCE_STUDIO_SELL: Force Studio Verkauf
+  BUTTON_FORCE_STUDIO_SELL: Erzwinge Studio Verkauf
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
   BUTTON_SELECT: Wählen
@@ -62,7 +62,7 @@ de:
   LABEL_DOOR: Tür
   LABEL_COGS: Herstellungskosten der verkauften Produkte
   LABEL_TAXES: Steuern
-  LABEL_FIXED_COSTS: Fixe Kosten
+  LABEL_FIXED_COSTS: Fixkosten
   LABEL_OVERVIEW: Übersicht
   LABEL_LOW_CONFIGURATION: Niedrige Konfiguration
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
@@ -108,7 +108,7 @@ de:
   LABEL_POINTRATIO_BAD: |
     [b]%s[/b] ist ihre Schwäche. Ihr Produktionsteam ist nicht ausgewogen genug.
   LABEL_REVIEW_PLATFORM_GOOD: |
-    [b]%s[/b] hat ein tolles Team, sie glänzen auf allen Seiten.
+    [b]%s[/b] hat ein tolles Team, sie glänzen in allen Bereichen.
   LABEL_REVIEW_PLATFORM_BAD: |
     Es ist Zeit für [b]%s[/b], mehr Personal einzustellen. Sie haben nicht die Manpower, um [b]%s[/b]-Spiele auf [b]%s[/b] veröffentlichen zu können.
   LABEL_REVIEW_GAME_BAD: |
@@ -292,7 +292,7 @@ de:
 
     Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben.
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
-  LABEL_TRENDING: Trending
+  LABEL_TRENDING: Im Trend
   LABEL_CREATOR: Entwicklung
   LABEL_PRODUCER: Produzent
   LABEL_COMMUNITY_MANAGER: Community-Manager
@@ -302,17 +302,17 @@ de:
   LABEL_ATTENDANCE: Teilnahme
   LABEL_NONE: Keine
   LABEL_NO_BUILDING: Kein Gebäude verfügbar
-  LABEL_NO_CONVENTION: Keine Convention geplant
-  LABEL_CONVENTION_LAST_DATE: Letzte Convention
+  LABEL_NO_CONVENTION: Keine Messe geplant
+  LABEL_CONVENTION_LAST_DATE: Letzte Messe
   LABEL_DATE: Datum
   LABEL_STANDSIZE: Standgröße
-  LABEL_CONVENTION_NAME: Name der Convention
+  LABEL_CONVENTION_NAME: Name der Messe
   LABEL_ATTEND: Besuchen
   LABEL_ORGANIZE: Organisieren
   LABEL_INFORMATIONS: Details
   LABEL_GAME: Spiel
   LABEL_GAMEPORT: Ein Spiel portieren
-  LABEL_CONVENTION: Ausstellungs Center
+  LABEL_CONVENTION: Messe Center
   LABEL_LAND_VALUE: Land Wert
   LABEL_SURFACE: Oberfläche
   LABEL_HYPE: Hype
@@ -549,7 +549,7 @@ de:
   LABEL_INPUT_ACTION_UI_CANCEL: um abzubrechen
   LABEL_INPUT_ACTION_UI_REPEAT: um mehrere Gegenstände zu platzieren
   LABEL_CATCHPHRASE_1_0: Zeitverschwendung
-  LABEL_CATCHPHRASE_1_1: Sie legten alles in den Anhänger
+  LABEL_CATCHPHRASE_1_1: Sie legten alles in die Waagschale
   LABEL_CATCHPHRASE_1_2: Kauft es lieber nicht
   LABEL_CATCHPHRASE_1_3: Ein offensichtlicher Mangel an Kreativität
   LABEL_CATCHPHRASE_1_4: Mittelmäßigkeit auf dem höchsten Stand
@@ -706,7 +706,7 @@ de:
   LABEL_BUILDING_AREA: "Fläche: %s m²"
   LABEL_BUILDING_BUY: Preis
   LABEL_BUILDING_RENT: Mietpreis
-  LABEL_BUILDING_CONVENTION: Ausstellungs Center
+  LABEL_BUILDING_CONVENTION: Messe Center
   LABEL_BUILDING_TYPE: Gebäude
   LABEL_BUILDING_ROAD: Straße
   LABEL_BUILDING_STREET: Straße
@@ -944,10 +944,10 @@ de:
     
     Willst du fortfahren?
   LABEL_SUCCESS: Erfolg
-  LABEL_FAILURE: Ausfall
-  LABEL_CANNOT_INTERACT: Bis %s können Sie nicht mehr mit %s kommunizieren.
+  LABEL_FAILURE: Misserfolg
+  LABEL_CANNOT_INTERACT: Bis %s können Sie nichts gegen %s unternehmen.
   LABEL_FAN_LOST: Dies hat deine Popularität beeinflusst, du verlierst %s-Fans.
-  LABEL_PENALTY_COST: Die Gerechtigkeit hat entschieden, du musst %s$ bezahlen.
+  LABEL_PENALTY_COST: Das Gericht hat entschieden, dass du %s$ bezahlen musst.
   LABEL_EMPLOYEE_HIRED: Sie haben %s eingestellt.
   LABEL_GAME_CRACKED: Du hast %s geknackt.
   LABEL_GENRE_STOLEN: Du hast gelernt, dass %s
@@ -955,7 +955,7 @@ de:
 
   # Tooltips
   TOOLTIP_CONVENTION_LIST: |
-    Teilnahme an Kongressen
+    Teilnahme an Messe
   TOOLTIP_FORCE_STUDIO: |
     Du musst das Studio auswählen, dessen Verkauf du erzwingen möchtest.
   TOOLTIP_CRACK_GAME: |
@@ -985,7 +985,7 @@ de:
   TOOLTIP_STUDIOS: Liste deiner Studios
   TOOLTIP_STUDIOLIST: Liste alle verfügbaren Studios in der Stadt auf
   TOOLTIP_CONSTRUCT: Baue ein neues Gebäude für ein Büro oder veranstalte eine Tagung
-  TOOLTIP_CONFERENCE: Verwalte deine Conventions
+  TOOLTIP_CONFERENCE: Verwalte deine Messen
   TOOLTIP_MARKETING: Verwalte deine Marketingkampagnen
   TOOLTIP_SELL: Verkaufe dieses Studio
   TOOLTIP_SHOP: Kaufe Möbel und Deko für dein Studio
@@ -993,7 +993,7 @@ de:
   TOOLTIP_ASSIGN: Weise den Angestellten einem Schreibtisch zu
   TOOLTIP_STUDIO_SELECT: Studio wechseln
   TOOLTIP_ANNOUNCE_GAME: |
-    Kündigen das Videospiel an.
+    Kündige das Videospiel an.
     Erzeugt Hype!
   TOOLTIP_CONCURRENT: |
     Liste der Videospielunternehmen
@@ -1064,20 +1064,20 @@ de:
   STUDIO_RENT: Mieten Sie eine Studio-Wohnung
   STUDIO_BUILD: Aufbau eines Studios
   CONVENTION_ORGANIZE: Organisieren Sie einen Kongress
-  CONVENTION_PARTICIPATE: An einer Konferenz teilnehmen
+  CONVENTION_PARTICIPATE: An einer Messe teilnehmen
   STUDIO_CUSTOMIZE: Renovieren Sie Ihre Studios
   FURNITURES_SERVERS_BUY: Server kaufen
   GAME_ONLINE: Online-Spiele veröffentlichen
-  DIGITAL_STORE: Dematerialisiertes Lager
+  DIGITAL_STORE: Digitales Lager
   POSTMORTEM: Spielbericht
   NEW_GAME: Neues Spiel
-  TARGETTED_AUDIENCE: Zielgerichtete Zielgruppe
+  TARGETTED_AUDIENCE: Zielgruppe
   STORY: Historie
   USERINTERFACE: Benutzeroberfläche
   NETWORK: Netzwerk
   MODDING: Modding
-  CUTSCENES: Schnitt-Szenen
-  TUTORIEL: Tutorials
+  CUTSCENES: Cutscene
+  TUTORIEL: Tutorial
   MARKETING_CAMPAIGN_SOCIALNETWORK: Gezielte Werbekampagne
   MARKETING_CAMPAIGN_MAILINGLIST: E-Mail-Werbekampagne
   GAMEPORT: Ein Spiel portieren
