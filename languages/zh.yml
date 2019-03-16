@@ -110,7 +110,7 @@ zh:
   LABEL_REVIEW_PLATFORM_BAD: |
     现在是 [b]%s[/b]雇用更多员工的时候了。他们没有足够的人力在[b]%s[/b]上发布[b]%s[/b]游戏。
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b]不符合他们的声誉。 我们对他们有更高的期待，尤其是在他们游戏评测之后[b]%s[/b]
+    [b]%s[/b]不符合他们的声誉。 我们对他们有更高的期待，尤其是在他们的游戏评测之后[b]%s[/b]
   LABEL_REVIEW_COMBO_GOOD: |
     [b]%s[/b] 尝试了新的组合，結果十分适合他们。 这是一款出色的[b]%s[/b]游戏
   LABEL_REVIEW_COMBO_BAD: |
@@ -125,18 +125,18 @@ zh:
   LABEL_SALES_HITS_DESCRIPTION: |
     你好%s， 
     很高兴我能给您发邮件。 
-    由于我们可以观察到良好的销售情况，因此我做了一些计算。今天我们将讨论%s的销售情况 
+    由于我们可以观察到良好的发售情况，因此我做了一些计算。今天我们将讨论%s的发售情况 
     
     %s 
     
     此致 
     Binogure
   LABEL_SALES_HITS_0: > 
-    [b]%s[/b]的销售情况很好，我相信这会通过[b]%d%%[/b]提高销售额
+    [b]%s[/b]的发售情况很好，我相信这会通过[b]%d%%[/b]提高销售额
   LABEL_SALES_HITS_1: > 
     [b]%s[/b] 在本月的表现也不算太差，根据我的估计，它会提高销售额至[b]%d%%[/b]
   LABEL_SALES_HITS_2: > 
-    好吧，我们来谈谈 [b]%s[/b]。 销售情况非常好，我认为我们可以预期销售额会增加[b]%d%%[/b]
+    好吧，我们来谈谈 [b]%s[/b]。 发售情况非常好，我认为我们可以预期销售额会增加[b]%d%%[/b]
   LABEL_SALES_HITS_3: > 
     有了 [b]%s[/b] ，我们就能发展更大，销售额应该可以增加至[b]%d%%[/b]
   LABEL_SALES_HITS_4: > 
@@ -144,7 +144,7 @@ zh:
   LABEL_SALES_HITS_5: > 
     可以预期[b]%s[/b] 将增加[b]%d%%[/b]
   LABEL_SALES_HITS_6: > 
-    恭喜获得[b]%s[/b]的销售，我们的销售增加应该达到[b]%d%%[/b]
+    恭喜获得[b]%s[/b]的销售额，我们的销售应该可以再增加[b]%d%%[/b]
   LABEL_CONVENTION_INCOMING: |
     亲爱的%s， 
 
@@ -249,7 +249,7 @@ zh:
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     你好， 
 
-    我想通知你我已辞掉了[b]%s[/b] 的职务。 
+    我很遗憾地想通知你我已辞掉了[b]%s[/b] 的职务。 
     我离开是因为我找到了离家更近，而且更有吸引力的新公司。
     
     我非常喜欢和你一起度过的时光，我会想念你们的！ 
@@ -260,7 +260,7 @@ zh:
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
     你没有可以制作正常或更大规模游戏的工作室。
   LABEL_NO_FAN_BIG_GAME: >
-    要创建正常或更大规模的游戏，建议至少拥有[b]%s[/b]的粉丝，否则会对销售产生影响。
+    要创建正常或更大规模的游戏，建议至少拥有[b]%s[/b]的粉丝，否则会对发售产生影响。
   LABEL_CONCURRENT_AMOUNT: 竞争对手的数量
   LABEL_YES: 是
   LABEL_NO: 否
@@ -281,7 +281,7 @@ zh:
     
     祝一切顺利
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
-    粉丝们非常兴奋，我们同样也是！
+    粉丝们非常兴奋，我们同样也HIGH起来了！
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     粉丝们并不高兴，专业杂志似乎要开始对这游戏发泄心中的怒火。
     
@@ -375,10 +375,10 @@ zh:
   LABEL_THEME_MOVIE_ADAPTATION: 电影改编
   LABEL_THEME_PREHISTORY: 侏罗纪
   LABEL_THEME_ARCHEOLOGY: 考古学
-  LABEL_THEME_POSTAPOCALYPTIC: 浩劫后
+  LABEL_THEME_POSTAPOCALYPTIC: 核战后
   LABEL_THEME_ATLANTIS: 亚特兰蒂斯
   LABEL_THEME_RELIGIOUS: 宗教
-  LABEL_THEME_ORGANIZED_CRIME: 黑社会
+  LABEL_THEME_ORGANIZED_CRIME: 黑帮
   LABEL_THEME_CROSSOVER: 多风格结合
   LABEL_THEME_DESERT: 沙漠
   LABEL_THEME_COMEDY: 喜剧
@@ -435,7 +435,7 @@ zh:
   LABEL_TYPE_ADVENTURE: 冒险
   LABEL_TYPE_INTERACTIVE_FICTION: 纯文字类
   LABEL_TYPE_INTERACTIVE_MOVIE: 交互式电影
-  LABEL_TYPE_CHAT: 聊天
+  LABEL_TYPE_CHAT: 聊天室
   LABEL_TYPE_BISHOJO: 美少女类
   LABEL_TYPE_EROGE: 工口
   LABEL_TYPE_OTOME: 乙女
@@ -496,9 +496,9 @@ zh:
   LABEL_DIFFICULTY_HARD: 难
   LABEL_DIFFICULTY_INSANE: 疯狂
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 发布了一个新平台： [b]%s[/b]"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]从有名的[b]%s[/b]退休了，粉丝们都在哭泣。"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 会在几个月内发布一个新平台 [b]%s[/b] 应该会持续多年"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]宣布众所周知的 [b]%s[/b]寿命结束"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]从有名的[b]%s[/b]退休了，粉丝们都非常地不开心。"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 会在几个月内发布一个新平台 [b]%s[/b] 热度应该会持续多年"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]宣布众所周知的 [b]%s[/b]被淘汰"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "你已获得[b]%s[/b]的授权，花费美金[b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: 平台发布
   LABEL_PLATFORM_DISCONTINUED_TITLE: 已停产的平台
@@ -541,7 +541,7 @@ zh:
   LABEL_CATCHPHRASE_1_2: 不要买它
   LABEL_CATCHPHRASE_1_3: 明显缺乏创造力
   LABEL_CATCHPHRASE_1_4: 平庸中的平庸
-  LABEL_CATCHPHRASE_1_5: 最差的评分
+  LABEL_CATCHPHRASE_1_5: 最差的
   LABEL_CATCHPHRASE_2_0: 意料之外的失望
   LABEL_CATCHPHRASE_2_1: 有人说过平庸吗？
   LABEL_CATCHPHRASE_2_2: 有人说过不好吗？
@@ -550,8 +550,8 @@ zh:
   LABEL_CATCHPHRASE_2_5: 它应该被取消！
   LABEL_CATCHPHRASE_3_0: 彻头彻尾的灾难
   LABEL_CATCHPHRASE_3_1: 与其野心相符的失望
-  LABEL_CATCHPHRASE_3_2: 他们把所有东西放进去了，但他们其实没有多少东西
-  LABEL_CATCHPHRASE_3_3: 如果只有他们做了一个游戏
+  LABEL_CATCHPHRASE_3_2: 他们把所有能力和精力放进去了，但他们其实没有多少能力
+  LABEL_CATCHPHRASE_3_3: 这一款不是游戏，如果他们真的做了一个游戏的话
   LABEL_CATCHPHRASE_3_4: 令人痛苦的经历
   LABEL_CATCHPHRASE_3_5: 我们看到过糟糕的游戏，但这已经是最好的了！
   LABEL_CATCHPHRASE_4_0: 对于一些好主意来说太奇怪了
@@ -559,8 +559,8 @@ zh:
   LABEL_CATCHPHRASE_4_2: 一个很差的主意
   LABEL_CATCHPHRASE_4_3: 想要创新的游戏......
   LABEL_CATCHPHRASE_4_4: 我们没有必要再玩一次这个游戏
-  LABEL_CATCHPHRASE_4_5: 什么是最好玩的？当我们不玩的时候
-  LABEL_CATCHPHRASE_5_0: 最低服务
+  LABEL_CATCHPHRASE_4_5: 什么时候最好玩的？当我们不玩的时候
+  LABEL_CATCHPHRASE_5_0: 最低限度的游玩性
   LABEL_CATCHPHRASE_5_1: 食之无味
   LABEL_CATCHPHRASE_5_2: 一份错杂百出的报道
   LABEL_CATCHPHRASE_5_3: 我们看到过很好的游戏，但这是最糟糕的！
@@ -570,29 +570,29 @@ zh:
   LABEL_CATCHPHRASE_6_1: 一个简单但冗长的游戏
   LABEL_CATCHPHRASE_6_2: 简陋而有趣的
   LABEL_CATCHPHRASE_6_3: 有趣但肤浅的
-  LABEL_CATCHPHRASE_6_4: 一个被随机性破坏的有趣概念
+  LABEL_CATCHPHRASE_6_4: 一个被随机游戏性破坏的有趣创意
   LABEL_CATCHPHRASE_6_5: 我玩得很愉快
-  LABEL_CATCHPHRASE_7_0: 我玩的时候很严肃，而且很快的就玩完了
+  LABEL_CATCHPHRASE_7_0: 我玩的时候很认真，而且很快的就玩完了
   LABEL_CATCHPHRASE_7_1: 由平庸的成绩促使的丰富内容
   LABEL_CATCHPHRASE_7_2: 拥有极好的美学，但亦有缺陷的机制
   LABEL_CATCHPHRASE_7_3: 内容不多，但有优秀的概念
   LABEL_CATCHPHRASE_7_4: 令人满意的合作
-  LABEL_CATCHPHRASE_7_5: 我们离游戏界的宝石不远
+  LABEL_CATCHPHRASE_7_5: 我们离游戏界的瑰宝不远了
   LABEL_CATCHPHRASE_8_0: 最纯净的状态下找寻乐趣
-  LABEL_CATCHPHRASE_8_1: 新鲜的微风
+  LABEL_CATCHPHRASE_8_1: 小清新，很不错
   LABEL_CATCHPHRASE_8_2: 与朋友聚会的必备品
   LABEL_CATCHPHRASE_8_3: 一个真正与众不同的作品
   LABEL_CATCHPHRASE_8_4: 一个蒙着面纱的美女般的游戏
   LABEL_CATCHPHRASE_8_5: 愉快而激烈
   LABEL_CATCHPHRASE_9_0: 年度最好的游戏之一
   LABEL_CATCHPHRASE_9_1: 一个所有素质都到极限的游戏
-  LABEL_CATCHPHRASE_9_2: 一台完美的机器
-  LABEL_CATCHPHRASE_9_3: 这十分巨大
+  LABEL_CATCHPHRASE_9_2: 就像一个完美运行的机器一般
+  LABEL_CATCHPHRASE_9_3: 非常大制作的游戏
   LABEL_CATCHPHRASE_9_4: 非常棒的体验
   LABEL_CATCHPHRASE_9_5: 一项非常棒的工作
-  LABEL_CATCHPHRASE_10_0: 游戏界中的宝石
+  LABEL_CATCHPHRASE_10_0: 游戏界中的瑰宝
   LABEL_CATCHPHRASE_10_1: 史诗级的舞台
-  LABEL_CATCHPHRASE_10_2: 游戏必备
+  LABEL_CATCHPHRASE_10_2: 游戏宅必备
   LABEL_CATCHPHRASE_10_3: 近期最好的游戏之一
   LABEL_CATCHPHRASE_10_4: 游戏时间，只有好时光
   LABEL_CATCHPHRASE_10_5: 这场游戏标志着每个人的思想
@@ -756,7 +756,7 @@ zh:
   LABEL_MARKETING_CAMPAIGN_TV: >
     是时候通过电视广告宣传你的游戏了。
   LABEL_MARKETING_CAMPAIGN_INTERNET: >
-    互联网时代开始了，你可以通过简单的横幅广告接触数百万人。
+    互联网时代开始了，你可以通过简单的横幅广告影响数百万人。
   LABEL_CONCURRENT_STUDIOS_LIST: >
     你的工作室正在发展，是时候研究市场并看看竞争对手了。
   LABEL_CONCURRENT_STUDIOS_BUY: >
@@ -764,9 +764,9 @@ zh:
   LABEL_FURNITURES_COMMON_BUY: >
     现在是时候重新装修办公室了。
   LABEL_EMPLOYEES_HIRE: >
-    你的工作室正在发展，制作更多游戏，提高其质量。但首先，你需要招募更多工作人员。
+    你的工作室正在发展，制作更多游戏，并提高其质量。但首先，你需要招募更多工作人员。
   LABEL_STUDIO_RENT: >
-    你的工作室很小，去找一个可以容纳更大的工作室的地方吧。
+    你的工作室太小了，去找一个可以容纳更大的工作室的地方吧。
   LABEL_STUDIO_BUILD: >
     你的成功可以让你建立自己的工作室。
   LABEL_CONVENTION_ORGANIZE: >
@@ -774,7 +774,7 @@ zh:
   LABEL_CONVENTION_PARTICIPATE: >
     你的游戏值得让各人查看，参与展会可以帮助你提高可见度。
   LABEL_STUDIO_CUSTOMIZE: >
-    沉闷的墙壁削弱你的生产力？是时候重新设计了。
+    沉闷的墙壁削弱你的生产力？是时候重新设计装修了。
   LABEL_GAME_ONLINE: >
     如何保持吸引游戏玩家？互联网！制作网络游戏，令他们上瘾！
   LABEL_FURNITURES_SERVERS_BUY: >
@@ -955,19 +955,19 @@ zh:
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
-    根据过去四年制作的游戏质量对你的公司进行评级
+    游戏界会根据过去四年制作的游戏质量对你的公司进行评级
   LOADING_SCREEN_TIP_1: >
-    一个完美员工可以加强你的开发团队。
+    一个完美的员工可以加强你的开发团队。
   LOADING_SCREEN_TIP_2: >
-    这个加载屏幕只是让你在这等一会，实际上它是一个循环的睡眠模式（随机（0,50））。
+    这个加载屏幕只是让你在这看一会，实际上它是一个循环的睡眠模式（随机（0,50））。
   LOADING_SCREEN_TIP_3: >
-    发现新的游戏类别让你获得比竞争对手更大的优势。
+    发明新的游戏类别让你获得比竞争对手更大的优势。
   LOADING_SCREEN_TIP_4: >
     与竞争对手一起制作游戏是成名的最佳方式。
   LOADING_SCREEN_TIP_5: >
     你可以在自己的建筑中组织展会，但最好一年开一次。
   LOADING_SCREEN_TIP_6: >
-    销售业绩不良的部门总是正确的。
+    首先处理销售业绩不良的部门总是正确的。
   LOADING_SCREEN_TIP_7: >
     你需要服务器来运营在线游戏。它们很便宜，但玩家必须每月支付才能继续玩游戏。
   LOADING_SCREEN_TIP_8: >
@@ -983,7 +983,7 @@ zh:
   LOADING_SCREEN_TIP_13: >
     不要忘记休息时间......啊，咖啡机又坏了。
   LOADING_SCREEN_TIP_14: >
-    危机时刻不是一种谷物食品，而是一种管理实践。
+    危机时机管理不是一种食品，而是一种管理实践。
   LOADING_SCREEN_TIP_15: >
     发布新游戏是赚钱的最佳方式。
   LOADING_SCREEN_TIP_16: >
