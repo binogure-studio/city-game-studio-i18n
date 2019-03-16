@@ -64,12 +64,12 @@ de:
   LABEL_TAXES: Steuern
   LABEL_FIXED_COSTS: Fixkosten
   LABEL_OVERVIEW: Übersicht
-  LABEL_LOW_CONFIGURATION: Niedrige Konfiguration
+  LABEL_LOW_CONFIGURATION: Minimale Einstellung
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
     Bewegen Sie den Bildschirm mit der Maus.
   LABEL_WEEK: wochen
   LABEL_TOOLS: Hergestellt aus
-  LABEL_SANDBOX: Modus Sandkasten
+  LABEL_SANDBOX: Sandbox
   LABEL_SAVING: Speichern des laufenden Spiels
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Entschädigungszahlungen
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
@@ -92,7 +92,7 @@ de:
   LABEL_STUDIO_NOT_BALANCED: >
     Dieses Studio produziert nicht die gleiche Menge an Design/Entwicklung oder Politur.
     Dies wirkt sich auf die Spielqualität aus.
-  LABEL_LAST_COMBO: "Das letzte Mal, wenn du das gleiche Combo-Thema/Genre erstellt hast."
+  LABEL_LAST_COMBO: "Das letzte Mal hast du bereits dieselbe Kombo (Thema/Genre) erstellt."
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] fehlt [b]%s[/b]. 
   LABEL_POINTRATIO_TOO_MUCH: |
@@ -151,10 +151,10 @@ de:
   LABEL_CONVENTION_INCOMING: |
     Sehr geehrtes %s,
 
-    Wir freuen uns, Ihnen mitteilen zu können, dass  %s für das  %s geplant ist.
+    Wir freuen uns, Ihnen mitteilen zu können, dass  %s für den %s geplant ist.
 
-    Die Tagung wird 3 Tage dauern, und wir warten auf die Besucher des  %s.
-    Sie können bereits einen Stand mieten, um Ihre schönsten Kreationen zu präsentieren. Beeilung, die Plätze sind begrenzt.
+    Die Messe wird 3 Tage dauern, und wir rechnen mit %s Besuchern.
+    Sie können bereits einen Stand mieten, um Ihre schönsten Spiele zu präsentieren. Beeilung, die Plätze sind begrenzt.
 
     Mit freundlichen Grüßen,
     Die Organisatoren von  %s
@@ -185,7 +185,7 @@ de:
   LABEL_SKILL_POINT: "%s Forschungspunkte"
   LABEL_UNLOCKED: "Freigegeben"
   LABEL_COST: Kosten %s Punkte
-  LABEL_FANBASE_TRENDS: Trends der Fanbasis
+  LABEL_FANBASE_TRENDS: Trend der Fanbasis
   LABEL_YEAR: Jahre
   LABEL_GAMEOVER_CONFIRM: Konkurs
   LABEL_GAMEOVER_DESCRIPTION: >
@@ -215,7 +215,7 @@ de:
     An [b]%s[/b] (%s),
 
     Wir sind sehr enttäuscht, dass Sie die Entwicklung von [b]%s[/b] eingestellt haben.
-    Gemäß dem ordnungsgemäß unterzeichneten Vertrag, Seite 453, Absatz 72d, Absatz W, rosa Blatt, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
+    Gemäß dem ordnungsgemäß unterzeichneten Vertrag, Seite 453, Absatz 72d, Absatz W, rosa Blatt auf der abgerissenen Ecke, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
 
     Hochachtungsvoll,
     Die Anwaltskanzlei ihres Vertrauens, [b]%s[/b]
@@ -223,8 +223,8 @@ de:
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     An [b]%s[/b] (%s),
 
-    [b]%s[/b] hat nicht den erwarteten Erfolg erzielt, und wir sind verpflichtet, den unterschriebenen Vertrag zu befolgen.
-    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
+    [b]%s[/b] hat nicht den erwarteten Erfolg erzielt, und wir sind verpflichtet, den unterschriebenen Vertrag zu kündigen.
+    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt auf der Rückseite unterm Kaffefleck, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
 
     Hochachtungsvoll,
     Die Abteilung für schlechte Verkäufe, [b]%s[/b]
@@ -240,8 +240,8 @@ de:
   LABEL_MARKETING_BILLBOARD_ITEM: Werbetafel
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Soziale Netzwerke
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
-  LABEL_SELF_PUBLISH: Selbstveröffentlichung
-  LABEL_TRADE_PUBLISH: Normale Veröffentlichung
+  LABEL_SELF_PUBLISH: Eigene Veröffentlichung
+  LABEL_TRADE_PUBLISH: Publisher
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hallo,
     
@@ -288,9 +288,9 @@ de:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Es gibt viel Hype um das Spiel!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Die Fans sind nicht glücklich und die Fachzeitschriften scheinen sich bereits auf dieses Spiel einlassen zu wollen.
+    Die Fans sind nicht glücklich und die Fachzeitschriften scheinen sich bereits auf dieses Spiel einzuschießen.
 
-    Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben.
+    Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben. Probieren Sie was Neues!
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
   LABEL_TRENDING: Im Trend
   LABEL_CREATOR: Entwicklung
@@ -420,7 +420,7 @@ de:
   LABEL_THEME_CARTOON: Cartoon
   LABEL_THEME_COOK: Kochen
   LABEL_THEME_URBAN: Städtisch
-  LABEL_THEME_KAIJU: Kaiju
+  LABEL_THEME_KAIJU: Riesenmonster
   LABEL_THEME_EVOLUTION: Entwicklung
   LABEL_TYPE_ACTION_ADVENTURE: Action abenteuer
   LABEL_TYPE_ACTION: Action
@@ -441,17 +441,17 @@ de:
   LABEL_TYPE_INTERACTIVE_FICTION: Interaktive Fiktion
   LABEL_TYPE_INTERACTIVE_MOVIE: Interaktiver Film
   LABEL_TYPE_CHAT: Plaudern
-  LABEL_TYPE_BISHOJO: Bishōjo
-  LABEL_TYPE_EROGE: Erogē
+  LABEL_TYPE_BISHOJO: Schöne Mädchen
+  LABEL_TYPE_EROGE: Hentai
   LABEL_TYPE_OTOME: Mädchenspiel
   LABEL_TYPE_VISUAL_NOVEL: Visual Novel
   LABEL_TYPE_MYSTERY_LIKE: Mystery
-  LABEL_TYPE_RPG: Rollenspiel
+  LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: Action-RPG
   LABEL_TYPE_DUNGEON_CRAWLER: Dungeon Crawler
-  LABEL_TYPE_MMORPG: MMO-RPG
+  LABEL_TYPE_MMORPG: MMORPG
   LABEL_TYPE_DUNGEON: Dungeon
-  LABEL_TYPE_CROOK_LIKE: Crook-like
+  LABEL_TYPE_CROOK_LIKE: Gauner
   LABEL_TYPE_TACTICAL_RPG: Taktisches RPG
   LABEL_TYPE_REFLEXION: Klassisches Puzzle
   LABEL_TYPE_MAZE: Labyrinth
@@ -513,7 +513,7 @@ de:
     [b]%s[/b] kündigt das Ende der allseits bekannten Platform [b]%s[/b] an.
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für [b]%s[/b] freigeschaltet, sie kostete dich [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
-  LABEL_PLATFORM_DISCONTINUED_TITLE: Nicht fortgeführte Plattform
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Eingestellte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Plattform wird eingestellt
   LABEL_PLATFORM_UNLOCKED_TITLE: Plattform freigeschaltet
@@ -649,7 +649,7 @@ de:
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like wurde erfunden
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
     3 Jungs in einer Garage haben ein neues Spiel entwickelt.
-    Es ist so berühmt, dass es ein neues Spielgenre geschaffen hat! Es heißt 'Crook'!
+    Es ist so berühmt, dass es ein neues Spielgenre geschaffen hat! Es heißt 'Gauner'!
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like wurde erfunden
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
     3 amerikanische Designer haben gerade einen Mod für ein berühmtes Spiel entwickelt.
@@ -669,7 +669,7 @@ de:
     Sie haben eine Studie über die verschiedenen Zielgruppen veröffentlicht: 
     jung, alle und alt
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
-    Ein neuer Computer-Virus wurde entfesselt!
+    Ein neuer Computer-Virus wurde entdeckt!
     Es greift nur die Videospiel-Unternehmen an!
     Klingt blöd, aber es verlangsamt den Cursor und startet zufällig den Computer neu!
     Dies wird sich sicherlich auf die Produktivität deiner Mitarbeiter auswirken!
@@ -680,12 +680,11 @@ de:
     Und dieses Mal hat er eines deiner Spiele getestet: [b]%s[/b].
     Dies wird sich sicherlich auf die Verkäufe auswirken!
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Gratis Werbung
-  LABEL_LOAN_TITLE: Notfall-Kredit
+  LABEL_LOAN_TITLE: Rettungs-Kredit
   LABEL_LOAN_DESCRIPTION: >
     Sie brauchen etwas zusätzliches Geld, wir können Ihnen helfen.
-    Sie können sich mit einem Kredit von [b]%s$[/b] zurückerstatten.
-    Unsere Zinssätze sind so niedrig wie nur [b]%s%%[/b] und Sie haben [b]%s[/b] Wochen um zurückzuzahlen.
-    Es ist wie ein ganzes Leben für ein Unternehmen wie Ihres!
+    WIr bieten Ihnen einen Kredit in Höhe von [b]%s$[/b] .
+    Unsere Zinssätze sind so niedrig! Nur [b]%s%%[/b] und Sie haben [b]%s[/b] Wochen um den Kredit zurückzuzahlen.
     Wir sind Ihre letzte Option, überzeugen Sie sich selbst.
   LABEL_BURNING_SERVER_DESCRIPTION: >
     Riecht es hier etwa nach Feuer?!
@@ -698,7 +697,7 @@ de:
     Du solltest neue Server kaufen.
   LABEL_SMOKING_SERVER_TITLE: Warnung zur Serverkapazität
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
-  LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun zu fällig, du musst [b]%s$[/b] bezahlen.
+  LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun fällig, du musst [b]%s$[/b] bezahlen.
   LABEL_SELL_STUDIO_TITLE: Studio verkaufen
   LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Studio [b]%s[/b]. Bist du dir sicher?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
@@ -807,10 +806,10 @@ de:
   LABEL_STUDIO_BUILD: Dein Erfolg ermöglicht es dir, deine eigenen Studios zu bauen.
   LABEL_CONVENTION_ORGANIZE: >
     Mit mehr als hunderttausend Fans, die dich unterstützen, kannst du jetzt deine
-    eigenen Conventions organisieren!
+    eigenen Messen organisieren!
   LABEL_CONVENTION_PARTICIPATE: >
     Dein Spiele-Repertoire ist es wert, gesehen zu werden!
-    Die Teilnahme an Conventions könne dir helfen, deine Bekanntheit zu steigern!
+    Die Teilnahme an Messen könne dir helfen, deine Bekanntheit zu steigern!
   LABEL_STUDIO_CUSTOMIZE: >
     Die langweiligen Wände beeinträchtigen deine Produktivität?
     Wird wohl Zeit, sie neu zu gestalten.
@@ -820,7 +819,7 @@ de:
   LABEL_FURNITURES_SERVERS_BUY: >
     Mehr Schreibtische, mehr Stühle, mehr Computer, mehr Whiteboards, mehr mehr!
   LABEL_DIGITAL_STORE: >
-    Dematerialisierung, Du hast schon einiges darüber gehört und weißt bereits, dass es die Zukunft sein wird.
+    Digitalisierung, Du hast schon einiges darüber gehört und weißt bereits, dass es die Zukunft sein wird.
   LABEL_POSTMORTEM_FEATURE: >
     Herzlichen Glückwunsch, du hast dein erstes Spiel entwickelt!
     Nun kannst du einen Bericht erstellen, um bei der Einschätzung der Technologie-, Design- und Perfektionspunkte zu helfen.
@@ -847,7 +846,7 @@ de:
     Es ist Zeit, diesen Leuten zu helfen und an einer richtigen Modding API für deine Spiele zu arbeiten.
   LABEL_CAPACITY_CUTSCENES_FEATURE: >
     Filme beeinflussen die Videospiele.
-    Wir müssen uns also um Zwischensequenzen kümmern, während wir ein neues Spiel entwickeln
+    Wir müssen uns also um Zwischensequenzen kümmern, wenn wir ein neues Spiel entwickeln
   LABEL_CAPACITY_TUTORIEL_FEATURE: >
     Um neues Spiel spielen zu können, muss man erst die Steuerung und Mechaniken kennen lernen. 
     Das ist nicht einfach, also hast du dich entschieden, ein Tutorial für deine neuen Spiele zu erstellen.
@@ -883,45 +882,45 @@ de:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Während Sie sich eines Ihrer Studios ansehen, können Sie jetzt neue Möbel kaufen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Polieren so stark sind.
+    Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Pefektion so stark sind.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Ermöglicht es Ihnen, neue Gebäude zu mieten. Auf diese Weise können Sie an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    Ermöglicht es dir, neue Studios zu bauen. Es ist teuer, es ist eine der wenigen Möglichkeiten, unbegrenzt zu wachsen.
+    Ermöglicht es dir, neue Studios zu bauen. Es ist teuer, aber es ist eine der wenigen Möglichkeiten, unbegrenzt zu wachsen.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
-    Neben der Möglichkeit, Studios zu bauen, können Sie auch Konferenzzentren bauen, die für die Organisation von Konferenzen notwendig sind.
+    Neben der Möglichkeit, Studios zu bauen, können Sie auch Messezentren bauen, die für die Organisation von Messen notwendig sind.
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Wenn Sie Konferenzzentren benötigen, dann können Sie Konferenzen organisieren.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
-    Du kannst an Kongressen teilnehmen, dies wird die Sichtbarkeit deiner Spiele von Zeit zu Zeit erhöhen.
+    Du kannst an Messen teilnehmen, dies wird die Sichtbarkeit deiner Spiele für eine gewisse Zeit erhöhen.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
     Sie können die Wände neu streichen, die Pfosten wechseln und die Böden Ihrer Studios neu gestalten.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
     Kaufen Sie Server, mit denen Sie Online-Spiele, aber auch ein Online-Portal erstellen können.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
-    Du kannst Spiele online erstellen. Sie sind normalerweise billiger, aber die Spieler müssen ein monatliches Abonnement bezahlen.
+    Du kannst Online-Spiele erstellen. Sie sind normalerweise günstiger, aber die Spieler müssen ein monatliches Abonnement bezahlen.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    Du kannst einen entmaterialisierten Spielespeicher und schließlich eine erste Alpha-Version erstellen, die verbessert werden muss.
+    Du kannst einen digitalen Spielespeicher und schließlich eine erste Alpha-Version erstellen, welche du noch verbessern kannst.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    Du kannst Angebote von Verlagen machen, es bringt dir viel Geld, aber pass auf schlechte Noten auf.
+    Du kannst Angebote von Publisher annehmen. Es bringt dir viel Geld, wenn du die nötige Bewertung schaffst.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-    Eine Obduktion ist ein Bericht darüber, was während der Entwicklung des Spiels richtig oder falsch gelaufen ist, es gibt Ihnen Hinweise.
+    Ein Spielbericht ist ein Bericht darüber, was während der Entwicklung des Spiels richtig oder falsch gelaufen ist und gibt Ihnen Hinweise.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     Wenn Sie ein gutes Spiel erstellen, können Sie im City Game Studio Fortschritte machen, Geld verdienen, Fans und Erfahrung sammeln.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    Bei der Erstellung eines Spiels können Sie nun die Zielgruppe wählen, was einen Einfluss auf die Endnote und den Verkauf des Spiels hat.
+    Bei der Erstellung eines Spiels können Sie nun die Zielgruppe wählen, was einen Einfluss auf die Bewertung und den Verkauf des Spiels hat.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
     Du hast ein neues Design, wenn du ein Spiel erstellst.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
     Du hast ein neues Design, wenn du ein Spiel erstellst.
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    Du hast einen neuen Entwicklungsmaßstab beim Erstellen eines Spiels.
+    Du hast einen neue Funktion beim Erstellen eines Spiels.
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    Du hast einen neuen Entwicklungsmaßstab beim Erstellen eines Spiels.
+    Du hast eine neue Funktion beim Erstellen eines Spiels.
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    Du hast eine neue Polierlehre, wenn du ein Spiel erstellst.
+    Du hast ein neue Funktion, wenn du ein Spiel erstellst.
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    Du hast eine neue Polierlehre, wenn du ein Spiel erstellst.
+    Du hast ein neues Funktion, wenn du ein Spiel erstellst.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
     Sie können in sozialen Netzwerken werben, es ist sehr zielgerichtet, teuer und sehr effektiv.
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
@@ -1053,17 +1052,17 @@ de:
 
   GAMEEDITION_SUBMIT: Veröffentlichung von Angeboten
   GAMEEDITION_RECEIVE: Verlagsangebote erhalten
-  WORLDMAP: Stadtplan
+  WORLDMAP: Weltkarte
   MARKETING_CAMPAIGN_MAGAZINE: Werbekampagne in der Presse
   MARKETING_CAMPAIGN_TV: Fernsehwerbekampagne
   MARKETING_CAMPAIGN_INTERNET: Online-Werbekampagne
   CONCURRENT_STUDIOS_LIST: Liste der Wettbewerber
-  CONCURRENT_STUDIOS_BUY: Auskauf von Wettbewerbern
+  CONCURRENT_STUDIOS_BUY: Aufkauf von Wettbewerbern
   FURNITURES_COMMON_BUY: Möbel kaufen
   EMPLOYEES_HIRE: Personal einstellen
   STUDIO_RENT: Mieten Sie eine Studio-Wohnung
-  STUDIO_BUILD: Aufbau eines Studios
-  CONVENTION_ORGANIZE: Organisieren Sie einen Kongress
+  STUDIO_BUILD: Neubau eines Studios
+  CONVENTION_ORGANIZE: Organisieren Sie eine Messe
   CONVENTION_PARTICIPATE: An einer Messe teilnehmen
   STUDIO_CUSTOMIZE: Renovieren Sie Ihre Studios
   FURNITURES_SERVERS_BUY: Server kaufen
@@ -1081,4 +1080,4 @@ de:
   MARKETING_CAMPAIGN_SOCIALNETWORK: Gezielte Werbekampagne
   MARKETING_CAMPAIGN_MAILINGLIST: E-Mail-Werbekampagne
   GAMEPORT: Ein Spiel portieren
-  UNLOCK_GAMEGENRE: Spielgenre freischalten
+  UNLOCK_GAMEGENRE: Spielgenre erforschen
