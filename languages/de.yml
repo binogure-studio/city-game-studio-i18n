@@ -19,7 +19,7 @@ de:
   BUTTON_NEXT: Weiter
   BUTTON_OK: Okay
   BUTTON_OPTIONS: Optionen
-  BUTTON_RESET: Zurücksetzen
+  BUTTON_RESET: Auf Standard
   BUTTON_SKIP: Überspringen
   BUTTON_START: Start
   BUTTON_NEED_STUDIO: Keine verfügbaren Studios
@@ -90,7 +90,7 @@ de:
   LABEL_REQUIRE_EMPLOYEE: >
     Benötigt %d Mitarbeiter in einem einzigen Studio
   LABEL_STUDIO_NOT_BALANCED: >
-    Dieses Studio produziert nicht die gleiche Menge an Design/Entwicklung oder Politur.
+    Dieses Studio produziert nicht die gleiche Menge an Design/Entwicklung oder Perfektion.
     Dies wirkt sich auf die Spielqualität aus.
   LABEL_LAST_COMBO: "Das letzte Mal hast du bereits dieselbe Kombo (Thema/Genre) erstellt."
   LABEL_POINTRATIO_NOT_ENOUGH: |
@@ -657,7 +657,7 @@ de:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like wurde erfunden
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kaputte Kaffeemaschine
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    Die Mitarbeiter vom Studio [b]%s[/b] sind kaffeeabhängig, aber die Kaffeemaschine hat ihren Geist aufgegeben!
+    Die Mitarbeiter vom Büro [b]%s[/b] sind kaffeeabhängig, aber die Kaffeemaschine hat ihren Geist aufgegeben!
     Was willst du tun? Manche kratzen schon die Reste vom Boden...
   LABEL_RABBIT_INVASION_DESCRIPTION: >
     Hasen! Überall Hasen!!!
@@ -713,8 +713,8 @@ de:
   LABEL_BUILDING_HOTEL: Hotel
   LABEL_BUILDING_THEATER: Theater
   LABEL_BUILDING_TOWER: Hochhaus
-  LABEL_BUILDING_STUDIO: Studio
-  LABEL_BUILDING_BUILDING: Residenz
+  LABEL_BUILDING_STUDIO: Büro
+  LABEL_BUILDING_BUILDING: Wohnhaus
   LABEL_BUILDING_GRASS: Wiese
   LABEL_BUILDING_SQUARE: Rechteckig
   LABEL_BUILDING_CAFE: Kaffeehaus
@@ -790,7 +790,7 @@ de:
     Nun kannst du Millionen von Menschen mit einer einfachen nervigen Banner-Werbung erreichen!
     Wow!
   LABEL_CONCURRENT_STUDIOS_LIST: >
-    Dein Studio wächst. 
+    Deine Firma wächst. 
     Es ist Zeit, den Markt zu studieren und einen Blick auf deine Konkurrenz zu werfen!
   LABEL_CONCURRENT_STUDIOS_BUY: >
     Du badest bereits im Geld.
@@ -798,10 +798,10 @@ de:
     *Böses Lachen*
   LABEL_FURNITURES_COMMON_BUY: Es wird Zeit, eine stilvolle Büro-Umgestaltung zu machen.
   LABEL_EMPLOYEES_HIRE: >
-    Dein Studio wächst, produziert mehr und mehr Spiele und verbessert die Qualität jedes mal.
+    Deine Firma wächst, produziert mehr und mehr Spiele und verbessert die Qualität jedes mal.
     Aber zuerst musst du Mitarbeiter suchen!
   LABEL_STUDIO_RENT: >
-    Du fühlst dich mittlerweile in deinem kleinen Studio eingeengt.
+    Du fühlst dich mittlerweile in deinem kleinen Büro eingeengt.
     Zieh los zu deinem nächsten Ort!
   LABEL_STUDIO_BUILD: Dein Erfolg ermöglicht es dir, deine eigenen Studios zu bauen.
   LABEL_CONVENTION_ORGANIZE: >
@@ -880,17 +880,17 @@ de:
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Der Kauf Ihrer Konkurrenten ist ein einfacher Weg, um viele Fans zu gewinnen und Ihr Unternehmen zu erweitern.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    Während Sie sich eines Ihrer Studios ansehen, können Sie jetzt neue Möbel kaufen.
+    Während Sie sich eines Ihrer Büros ansehen, können Sie jetzt neue Möbel kaufen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Pefektion so stark sind.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Ermöglicht es Ihnen, neue Gebäude zu mieten. Auf diese Weise können Sie an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    Ermöglicht es dir, neue Studios zu bauen. Es ist teuer, aber es ist eine der wenigen Möglichkeiten, unbegrenzt zu wachsen.
+    Ermöglicht es dir, neue Büros zu bauen. Es ist teuer, aber es ist eine der wenigen Möglichkeiten, unbegrenzt zu wachsen.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
-    Neben der Möglichkeit, Studios zu bauen, können Sie auch Messezentren bauen, die für die Organisation von Messen notwendig sind.
+    Neben der Möglichkeit, Büros zu bauen, können Sie auch Messezentren bauen, die für die Organisation von Messen notwendig sind.
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
-    Wenn Sie Konferenzzentren benötigen, dann können Sie Konferenzen organisieren.
+    Wenn Sie Messezentrum haben, dann können Sie eigene Messen veranstalten.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
     Du kannst an Messen teilnehmen, dies wird die Sichtbarkeit deiner Spiele für eine gewisse Zeit erhöhen.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
@@ -910,11 +910,11 @@ de:
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
     Bei der Erstellung eines Spiels können Sie nun die Zielgruppe wählen, was einen Einfluss auf die Bewertung und den Verkauf des Spiels hat.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    Du hast ein neues Design, wenn du ein Spiel erstellst.
+    Du hast ein neues Design verwenden, wenn du ein Spiel erstellst.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    Du hast ein neues Design, wenn du ein Spiel erstellst.
+    Du hast ein neues Design verwenden, wenn du ein Spiel erstellst.
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    Du hast einen neue Funktion beim Erstellen eines Spiels.
+    Du hast eine neue Funktion beim Erstellen eines Spiels.
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
     Du hast eine neue Funktion beim Erstellen eines Spiels.
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
@@ -956,7 +956,7 @@ de:
   TOOLTIP_CONVENTION_LIST: |
     Teilnahme an Messe
   TOOLTIP_FORCE_STUDIO: |
-    Du musst das Studio auswählen, dessen Verkauf du erzwingen möchtest.
+    Du musst das Büro auswählen, dessen Verkauf du erzwingen möchtest.
   TOOLTIP_CRACK_GAME: |
     Du musst das Spiel auswählen, das du hacken möchtest.
   TOOLTIP_HIRE_STAFF: |
@@ -970,7 +970,7 @@ de:
   TOOLTIP_UNLOCK_GAME_GENRE: |
     Ermöglicht es dir, neue Arten von Spielen freizuschalten.
   TOOLTIP_MANAGE_STUDIO: |
-    Um Ihre Studios zu verwalten, Computer aufzurüsten, Mitarbeiter zuzuweisen...
+    Um Ihre Büros zu verwalten, Computer aufzurüsten, Mitarbeiter zuzuweisen...
   TOOLTIP_GAMEPORT: Portiere ein Videospiel auf eine andere Plattform
   TOOLTIP_POSTMORTEM: |
     Erstelle einen Spiele-Bericht. Ein Spiele-Bericht hilft dir, aus deinen
@@ -981,9 +981,9 @@ de:
   TOOLTIP_PORTFOLIO: Liste all deine Spiele auf, die du bisher erstellt hast
   TOOLTIP_OPTION: Optionen
   TOOLTIP_EXIT: Spiel verlassen
-  TOOLTIP_STUDIOS: Liste deiner Studios
-  TOOLTIP_STUDIOLIST: Liste alle verfügbaren Studios in der Stadt auf
-  TOOLTIP_CONSTRUCT: Baue ein neues Gebäude für ein Büro oder veranstalte eine Tagung
+  TOOLTIP_STUDIOS: Liste deiner Büros
+  TOOLTIP_STUDIOLIST: Liste alle verfügbaren Büros in der Stadt auf
+  TOOLTIP_CONSTRUCT: Baue ein neues Büro- oder Messegebäude
   TOOLTIP_CONFERENCE: Verwalte deine Messen
   TOOLTIP_MARKETING: Verwalte deine Marketingkampagnen
   TOOLTIP_SELL: Verkaufe dieses Studio
@@ -1002,7 +1002,7 @@ de:
   TOOLTIP_MARKETING_COST: |
     Kosten der laufenden Marketingkampagnen
   TOOLTIP_SALARY_COST: |
-    Gehalt jedes Mitarbeiters
+    Gehaltskosten
   TOOLTIP_STEAM_MODS: |
     Steam workshop
 
@@ -1016,13 +1016,13 @@ de:
   LOADING_SCREEN_TIP_3: >
     Die Entdeckung eines neuen Spielgenres verschafft dir einen erheblichen Vorteil gegenüber der Konkurrenz.
   LOADING_SCREEN_TIP_4: >
-    Spiele mit deinen Konkurrenten zu produzieren ist der beste Weg, um berühmt zu werden.
+    Spiele mit einem PUblisher zu produzieren ist der beste Weg, um berühmt zu werden.
   LOADING_SCREEN_TIP_5: >
-    Sie können Kongresse in Ihren eigenen Gebäuden organisieren, aber Sie sollten sie besser ein Jahr auseinander platzieren.
+    Sie können Messen in Ihren eigenen Gebäuden organisieren, aber Sie sollten sie besser ein Jahr auseinander platzieren.
   LOADING_SCREEN_TIP_6: >
     Die Abteilung für schlechte Verkäufe hat immer Recht.
   LOADING_SCREEN_TIP_7: >
-    Sie benötigen Server, um Online-Spiele zu hosten, sie sind billiger, aber die Spieler müssen monatlich bezahlen, um sie weiterhin zu spielen.
+    Sie benötigen Server, um Online-Spiele zu hosten, sie sind günstiger, aber die Spieler müssen monatlich bezahlen, um sie weiterhin zu spielen.
   LOADING_SCREEN_TIP_8: >
     Einstein, unser Maskottchen, bellte 65,13 Mal bei der Entwicklung des City Game Studio.
   LOADING_SCREEN_TIP_9: >
