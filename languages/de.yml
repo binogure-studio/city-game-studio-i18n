@@ -22,7 +22,7 @@ de:
   BUTTON_RESET: Auf Standard
   BUTTON_SKIP: Überspringen
   BUTTON_START: Start
-  BUTTON_NEED_STUDIO: Keine verfügbaren Studios
+  BUTTON_NEED_STUDIO: Keine verfügbaren Büros
   BUTTON_CLEAR_EVENTS: Leeren
   BUTTON_TOO_BAD: Mist!
   BUTTON_BUY_ANOTHER_ONE: Erneut kaufen
@@ -45,12 +45,12 @@ de:
   BUTTON_DELETE_ALL: Alle löschen
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Kein Spam
-  BUTTON_HOLIDAY: Senden Sie das Studio in den Urlaub.
+  BUTTON_HOLIDAY: Senden Sie das Büro in den Urlaub.
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Fehlerbericht
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
-  BUTTON_CRACK_GAME: Ein Spiel knacken
+  BUTTON_CRACK_GAME: Ein Spiel hacken
   BUTTON_FORCE_STUDIO_SELL: Erzwinge Studio Verkauf
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
@@ -117,7 +117,7 @@ de:
     [b]%s[/b] probiert neue Kombinationen aus, und es funktioniert für sie. Dies ist ein ausgezeichnetes [b]%s[/b]-Spiel.
   LABEL_REVIEW_COMBO_BAD: |
     Es ist nur ein weiteres [b]%s[/b]-Spiel. Sie müssen lernen, sich bei [b]%s[/b] zu erneuern.
-  LABEL_CRACKED: Gerissen
+  LABEL_CRACKED: Gehackt
   LABEL_SELECT_COMPANY_SPECIALIZATION: Spezialisierung auf Spielgenres
   LABEL_DISCORD_COMMUNITY: Discord Community
   LABEL_LAST_MONTH: Hält %s Monate lang an.
@@ -137,7 +137,7 @@ de:
   LABEL_SALES_HITS_0: >
     Der Umsatz von [b]%s[/b] entwickelt sich gut, ich schätze, dass dies zu einer Umsatzsteigerung von [b]%d%%[/b] führen wird.
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] ist diesen Monat nicht allzu schlecht, nach meinen Schätzungen wird es den Umsatz um [b]%d%%[/b] verbessern.
+    [b]%s[/b] ist diesen Monat nicht allzu schlecht, nach meinen Schätzungen wird es den Umsatz um [b]%d%%[/b] steigern.
   LABEL_SALES_HITS_2: >
     In Ordnung, lassen Sie uns über [b]%s[/b] sprechen. Der Umsatz ist ausgezeichnet, und ich denke, wir können mit einer Umsatzsteigerung von [b]%d%%[/b] rechnen.
   LABEL_SALES_HITS_3: >
@@ -183,7 +183,7 @@ de:
 
     [color=%s]%s[/color]
   LABEL_SKILL_POINT: "%s Forschungspunkte"
-  LABEL_UNLOCKED: "Freigegeben"
+  LABEL_UNLOCKED: "Freigeschaltet"
   LABEL_COST: Kosten %s Punkte
   LABEL_FANBASE_TRENDS: Trend der Fanbasis
   LABEL_YEAR: Jahre
@@ -191,11 +191,11 @@ de:
   LABEL_GAMEOVER_DESCRIPTION: >
     Der Konkurs beendet das Spiel.
     Bist du sicher, dass du Konkurs anmelden willst?
-  LABEL_EXPENSES: Aufwendungen
+  LABEL_EXPENSES: Ausgaben
   LABEL_RENT: Miete
   LABEL_MARKETING: Marketinggebühren
   LABEL_FINANCIAL_RESULT: Finanzergebnis
-  LABEL_PROPERTY_VALUE: Eigenschaften Wert
+  LABEL_PROPERTY_VALUE: Immobilien Wert
   LABEL_FURNITURE_VALUE: Wert der Möbel
   LABEL_CATALOG_VALUE: Spielkatalogwert
   LABEL_TOTAL_VALUE: Gesamtwert
@@ -207,7 +207,7 @@ de:
   LABEL_AUTO_ASSIGN_STAFF: Mitarbeiter zuordnen
   LABEL_UPGRADE_COMPUTER: Computer aktualisieren
   LABEL_COMPANY_WIDE: Unternehmensweit
-  LABEL_STUDIO_WIDE: Dieses Studio
+  LABEL_STUDIO_WIDE: Dieses Büro
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Es müssen mindestens [b]3[/b] Personen in einem Studio arbeiten, um sich für ein Publisher-Angebot bewerben zu können.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s abgebrochen"
@@ -231,13 +231,13 @@ de:
   LABEL_SELECT_GAME_PRESENT: Wählen Sie die Spiele aus, die präsentiert werden sollen.
   LABEL_ROYALTIES: Lizenzgebühren
   LABEL_PENALITY: Strafe
-  LABEL_NOTE_MIN: Punktanzahl min.
+  LABEL_NOTE_MIN: Punktzahl min.
   LABEL_MARKETING_GLOBAL_ITEM: Gesamtmarketing
-  LABEL_MARKETING_MAGAZINE_ITEM: Zeitschrift
-  LABEL_MARKETING_TV_ITEM: Fernseher
+  LABEL_MARKETING_MAGAZINE_ITEM: Zeitschriften
+  LABEL_MARKETING_TV_ITEM: Fernsehen
   LABEL_MARKETING_WEBSITE_ITEM: Webseite
   LABEL_MARKETING_ONLINEAD_ITEM: Online-Werbung
-  LABEL_MARKETING_BILLBOARD_ITEM: Werbetafel
+  LABEL_MARKETING_BILLBOARD_ITEM: Werbetafeln
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Soziale Netzwerke
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
   LABEL_SELF_PUBLISH: Eigene Veröffentlichung
@@ -271,9 +271,9 @@ de:
   LABEL_NO: Nein
   LABEL_PRICE_MONTHLY: Monatliche Kosten
   LABEL_SERVER_MONITORING_REPORT: Server-Status
-  LABEL_ONLINE_USAGE: Online-Spieler zählen
-  LABEL_ONLINE_CAPACITY: Maximale Anzahl von Spieler
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Anzahl der gleichzeitig möglichen Online-Spieler
+  LABEL_ONLINE_USAGE: Online-Spieler
+  LABEL_ONLINE_CAPACITY: Maximale Spieleranzahl
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Anzahl der möglichen Online-Spieler
   LABEL_SERVER: Server
   LABEL_CAMPAIGN_NO_COST: Sprich mit der Presse
   LABEL_CAMPAIGN_DEMO: Veröffentliche eine Demo
@@ -333,7 +333,7 @@ de:
   LABEL_FANBASE: Fanbase
   LABEL_FULLSCREEN: Vollbildschirm
   LABEL_GAME_GENRE: Genre
-  LABEL_GAME_HISTORY: Spielverlauf
+  LABEL_GAME_HISTORY: Spielhistorie
   LABEL_GAME_NAME: Name
   LABEL_GAME_SIZE: Größe
   LABEL_GAME_ONLINE_SHORT: Online-Multiplayer
@@ -357,7 +357,7 @@ de:
   LABEL_GAME_FINISHED: Herzlichen Glückwunsch, du hast City Game Studio abgeschlossen
   LABEL_PLANNING: Planung
   LABEL_NO_PLATFORM_AVAILABLE: >
-    Das Spiel wurde bereits für jede einzelne Platform verfügbar gemacht!
+    Das Spiel ist bereits für jede Plattform verfügbar!
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
   LABEL_PROFITS: Umsatz
@@ -402,20 +402,20 @@ de:
   LABEL_THEME_PARK: Park
   LABEL_THEME_PIRATES: Piraten
   LABEL_THEME_SCIENCE_FICTION: Science-Fiction
-  LABEL_THEME_SUPER_HEROS: Superheld
+  LABEL_THEME_SUPER_HEROS: Superhelden
   LABEL_THEME_VAMPIRE: Vampir
   LABEL_THEME_TIME_TRAVEL: Zeitreise
   LABEL_THEME_WESTERN: Western
   LABEL_THEME_ZOMBIE: Zombie
-  LABEL_THEME_MEDIEVAL: Mittelalterlich
+  LABEL_THEME_MEDIEVAL: Mittelalter
   LABEL_THEME_GAMEDEV: Spieleentwicklung
-  LABEL_THEME_HACK: Hack
+  LABEL_THEME_HACK: Programmieren
   LABEL_THEME_HUNT: Jagd
   LABEL_THEME_ANIME: Anime
   LABEL_THEME_MILITARY: Militär
   LABEL_THEME_INDUSTRIALIZATION: Industrialisierung
   LABEL_THEME_PET: Haustier
-  LABEL_THEME_FOOTBALL: Fußball
+  LABEL_THEME_FOOTBALL: Basketball
   LABEL_THEME_SOCCER: Fußball
   LABEL_THEME_CARTOON: Cartoon
   LABEL_THEME_COOK: Kochen
@@ -424,16 +424,16 @@ de:
   LABEL_THEME_EVOLUTION: Entwicklung
   LABEL_TYPE_ACTION_ADVENTURE: Action abenteuer
   LABEL_TYPE_ACTION: Action
-  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_BEAT_THEM_ALL: Beat ’em up
   LABEL_TYPE_VERSUS_FIGHTING: Versus-Kampf
   LABEL_TYPE_PLATFORMS: Plattformen
   LABEL_TYPE_SHOOT: Shooter
-  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_SHOOT_EM_UP: Shoot ’Em Up
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
   LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
   LABEL_TYPE_OPEN_WORLD: Offene Welt
-  LABEL_TYPE_HTA_LIKE: HTA-like
+  LABEL_TYPE_HTA_LIKE: HTA
   LABEL_TYPE_INFILTRATION: Infiltration
   LABEL_TYPE_SURVIVAL: Überleben
   LABEL_TYPE_HORROR: Horror
@@ -476,14 +476,14 @@ de:
   LABEL_TYPE_TRAIN: Zug
   LABEL_TYPE_STRATEGY: Strategie
   LABEL_TYPE_RTS: RTS
-  LABEL_TYPE_MOBA_LIKE: Moba-like
-  LABEL_TYPE_TOWER_DEFENSE: Turmverteidigung
+  LABEL_TYPE_MOBA_LIKE: MOBA
+  LABEL_TYPE_TOWER_DEFENSE: Tower Defense
   LABEL_TYPE_TURN_BASED: Rundenbasiert
   LABEL_TYPE_ARTILLERY: Artillerie
   LABEL_TYPE_CASUAL: Gelegenheitsspiel
   LABEL_TYPE_BREAKOUT: Ausbrechen
   LABEL_TYPE_RYTHM: Rhythmus
-  LABEL_TYPE_CLICKER_GAME: Clicker-Spiel
+  LABEL_TYPE_CLICKER_GAME: Clicker
   LABEL_TARGETTED_AUDIENCE_YOUNG: Jung
   LABEL_TARGETTED_AUDIENCE_ALL: Alle
   LABEL_TARGETTED_AUDIENCE_MATURE: Alt
@@ -515,7 +515,7 @@ de:
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Eingestellte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Plattform wird eingestellt
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Plattform wird nicht weiter produziert
   LABEL_PLATFORM_UNLOCKED_TITLE: Plattform freigeschaltet
   LABEL_CLICK_TO_CLOSE: Klicken um zu Schließen
   LABEL_SHOP_UI: Shop
@@ -525,7 +525,7 @@ de:
   LABEL_ASSIGN_EMPLOYEE: Mitarbeiter
   LABEL_NEW_GAME: Neues Spiel
   LABEL_MODDING: Modding
-  LABEL_ARTWORK: Illustrationen
+  LABEL_ARTWORK: Grafik
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "Dank deiner aktuellen Erfahrung hast du ein neues Genre freigeschaltet: [b]%s[/b]"
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Genre freigeschaltet: %s"
   LABEL_MAGAZINE_0: Fan Game
@@ -561,9 +561,9 @@ de:
   LABEL_CATCHPHRASE_2_4: "Ein Wort: inhaltslos"
   LABEL_CATCHPHRASE_2_5: Es hätte abgebrochen werden sollen
   LABEL_CATCHPHRASE_3_0: Auf direktem Weg in die Katastrophe
-  LABEL_CATCHPHRASE_3_1: Eine Enttäuschung, die ihren Ambitionen gerecht wird
+  LABEL_CATCHPHRASE_3_1: Eine Enttäuschung, die ihren Ambitionen nicht gerecht wird
   LABEL_CATCHPHRASE_3_2: Sie gaben alles, was sie hatten, aber sie hatten nicht viel
-  LABEL_CATCHPHRASE_3_3: Wenn sie bloß ein Spiel gemacht hätten
+  LABEL_CATCHPHRASE_3_3: Wenn sie bloß ein richtiges Spiel gemacht hätten
   LABEL_CATCHPHRASE_3_4: Eine erschütternde Erfahrung
   LABEL_CATCHPHRASE_3_5: Wir haben schon schlimmeres gesehen, aber wir sahen vor allem besseres!
   LABEL_CATCHPHRASE_4_0: Total peinlich, trotz der guten Ideen
@@ -573,23 +573,23 @@ de:
   LABEL_CATCHPHRASE_4_4: Auf ein Missverständnis hin könnten wir es noch einmal spielen.
   LABEL_CATCHPHRASE_4_5: Der beste Moment? Wenn es aufhört
   LABEL_CATCHPHRASE_5_0: Der Mindestservice
-  LABEL_CATCHPHRASE_5_1: Ein geschmacksloser Schmelztiegel
+  LABEL_CATCHPHRASE_5_1: Geschmackloser als Papier
   LABEL_CATCHPHRASE_5_2: Ein sehr uneinheitliches Bild
   LABEL_CATCHPHRASE_5_3: Wir haben schon besseres gesehen, aber wir sahen vor allem schlechteres!
   LABEL_CATCHPHRASE_5_4: Klar, es ist nicht das Spiel des Jahres, aber...
-  LABEL_CATCHPHRASE_5_5: Ein Hohlraumspiel mit begrenzter Lebensdauer
-  LABEL_CATCHPHRASE_6_0: Gewürzlos
+  LABEL_CATCHPHRASE_5_5: Ein Spiel für zwischendurch mit begrenzter Lebensdauer
+  LABEL_CATCHPHRASE_6_0: Einfallslos
   LABEL_CATCHPHRASE_6_1: Ein einfaches, aber überflüssiges Spiel
   LABEL_CATCHPHRASE_6_2: Bescheiden, aber interessant
   LABEL_CATCHPHRASE_6_3: Lustig, aber oberflächlich
-  LABEL_CATCHPHRASE_6_4: Ein interessantes Konzept, verdorben durch einen allgegenwärtigen Zufall.
+  LABEL_CATCHPHRASE_6_4: Ein interessantes Konzept, nur die Umsetzung war nichts
   LABEL_CATCHPHRASE_6_5: Hatte ihre Momente
   LABEL_CATCHPHRASE_7_0: Schlichtheit und Effektivität
   LABEL_CATCHPHRASE_7_1: Ein reichhaltiger Inhalt, geführt von einer mittelmäßigen Leistung
   LABEL_CATCHPHRASE_7_2: Hervorragende Optik, perfekte Spielmechanik
   LABEL_CATCHPHRASE_7_3: Ein ausgezeichnetes Konzept mit begrenztem Inhalt
-  LABEL_CATCHPHRASE_7_4: Eine gute Zusammenstellung?
-  LABEL_CATCHPHRASE_7_5: Wir sind nicht weit von einem Goldstück entfernt.
+  LABEL_CATCHPHRASE_7_4: Eine gute Zusammenstellung
+  LABEL_CATCHPHRASE_7_5: Wir sind nicht weit von einem Meisterstück entfernt.
   LABEL_CATCHPHRASE_8_0: Spaß pur
   LABEL_CATCHPHRASE_8_1: Ein Hauch von Eleganz
   LABEL_CATCHPHRASE_8_2: Ein Muss für Partys mit Freunden
@@ -606,7 +606,7 @@ de:
   LABEL_CATCHPHRASE_10_1: Ein Meisterwerk der Inszenierung, ganz einfach
   LABEL_CATCHPHRASE_10_2: Ein Must-have
   LABEL_CATCHPHRASE_10_3: Eines der besten Spiele der letzten Jahre
-  LABEL_CATCHPHRASE_10_4: Stundenlang spielbar, gefüllt von schönen Momenten
+  LABEL_CATCHPHRASE_10_4: Stundenlang spielbar, gefüllt mit schönen Momenten
   LABEL_CATCHPHRASE_10_5: Dieses Spiel wird jeden in seinen Bann ziehen
   LABEL_CATCHPHRASE_11_0: Ein künstlerischer Schlag ins Gesicht
   LABEL_CATCHPHRASE_11_1: Ein seltener Edelstein der Schönheit
@@ -616,7 +616,7 @@ de:
   LABEL_CATCHPHRASE_11_5: Ein Weltwunder
   LABEL_CREATE_SEQUEL: Fortsetzung erstellen
   LABEL_NEW_IP: Neues Spiel
-  LABEL_POSTMORTEM: Spiele-Bericht
+  LABEL_POSTMORTEM: Spiel-Bericht
   LABEL_EMPTY_STUDIO: "Warnung: Dieses Studio enthält keinen einzigen Schreibtisch mit einem Computer!"
   LABEL_MATCH_EXCELLENT: ausgezeichnete Kombination
   LABEL_MATCH_GOOD: gute Kombination
@@ -641,11 +641,11 @@ de:
   LABEL_ADOPT_CAT_TITLE: Streunende Katze
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     Bei Blue Studio haben zwei Brüder gerade ein neues Spiel veröffentlicht.
-    Es ist ein Game Changer und ein neues Genre ist entstanden: Es heißt 'Mystery'
+    Es wird den Markt verändern und ein neues Genre ist entstanden: Es heißt 'Mystery'
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Mystery-like wurde erfunden
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar hat gerade ein neues Spiel veröffentlicht, dass die Spieleindustrie revolutioniert! 
-    Das HTA-like Genre ist entstanden!
+    Das HTA Genre ist entstanden!
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like wurde erfunden
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
     3 Jungs in einer Garage haben ein neues Spiel entwickelt.
@@ -654,7 +654,7 @@ de:
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
     3 amerikanische Designer haben gerade einen Mod für ein berühmtes Spiel entwickelt.
     Das Moba-Genre wurde geboren!
-  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba-like wurde erfunden
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba wurde erfunden
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kaputte Kaffeemaschine
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
     Die Mitarbeiter vom Büro [b]%s[/b] sind kaffeeabhängig, aber die Kaffeemaschine hat ihren Geist aufgegeben!
@@ -667,14 +667,14 @@ de:
   LABEL_TARGETTED_AUDIENCE_FEATURE: >
     Experten haben herausgefunden, dass Spiele ein bestimmtes Publikum ansprechen können.
     Sie haben eine Studie über die verschiedenen Zielgruppen veröffentlicht: 
-    jung, alle und alt
+    Jung, Alle und Alt
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Ein neuer Computer-Virus wurde entdeckt!
     Es greift nur die Videospiel-Unternehmen an!
     Klingt blöd, aber es verlangsamt den Cursor und startet zufällig den Computer neu!
     Dies wird sich sicherlich auf die Produktivität deiner Mitarbeiter auswirken!
     Nur [b]%s[/b] wird angegriffen.
-  LABEL_VIRUS_UNLEASHED_TITLE: Virus entfesselt
+  LABEL_VIRUS_UNLEASHED_TITLE: Virus entdeckt!
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     Ein Vlogger, bekannt für seine Spiele-Reviews, hat gerade ein neues Video veröffentlicht.
     Und dieses Mal hat er eines deiner Spiele getestet: [b]%s[/b].
@@ -716,7 +716,7 @@ de:
   LABEL_BUILDING_STUDIO: Büro
   LABEL_BUILDING_BUILDING: Wohnhaus
   LABEL_BUILDING_GRASS: Wiese
-  LABEL_BUILDING_SQUARE: Rechteckig
+  LABEL_BUILDING_SQUARE: Platz
   LABEL_BUILDING_CAFE: Kaffeehaus
   LABEL_BUILDING_RESTAURANT: Restaurant
   LABEL_BUILDING_PIZZERIA: Pizzeria
@@ -736,7 +736,7 @@ de:
   LABEL_WOODDESK: Schreibtisch - Holz
   LABEL_WOODLARGEDESK: Großer Schreibtisch - Holz
   LABEL_WOODTABLEDESK: Schreibtisch - Holz
-  LABEL_WATERTANK: Wasserfontäne
+  LABEL_WATERTANK: Wasserspender
   LABEL_WHITEBOARD: Whiteboard
   LABEL_WOODBOOKSHELF: Bücherregal - Holz
   LABEL_METALBOOKSHELF: Bücherregal - Metall
@@ -777,7 +777,7 @@ de:
   LABEL_BORDERLESS_WINDOW: Randloses Fenster
   LABEL_GAMEEDITION_SUBMIT: 'Du hast viele Fans! Du bist nun bekannt genug, um Spiele zu bearbeiten.'
   LABEL_GAMEEDITION_RECEIVE: >
-    Aufgrund deines kürzlichen Erfolgs, werden dich bald Spiele-Publisher kontaktieren, um dir wundervolle Angebote zu unterjubeln.
+    Aufgrund deines kürzlichen Erfolgs, werden dich bald Spiele-Publisher kontaktieren, um dir wundervolle Angebote unterzujubeln.
   LABEL_WORLDMAP: >
     Sieh hoch! Dort draußen wartet eine ganze Welt auf dich!
     Du kannst nun die Karte benutzen.
@@ -815,7 +815,7 @@ de:
     Wird wohl Zeit, sie neu zu gestalten.
   LABEL_GAME_ONLINE: >
     Wie behält man Spieler vor ihrem Bildschirm?
-    Das INTERNET (Auch Neuland genannt), entwickle Online-Spiele und die Leute werden süchtig!
+    Das INTERNET (auch Neuland genannt), entwickle Online-Spiele und die Leute werden süchtig!
   LABEL_FURNITURES_SERVERS_BUY: >
     Mehr Schreibtische, mehr Stühle, mehr Computer, mehr Whiteboards, mehr mehr!
   LABEL_DIGITAL_STORE: >
@@ -862,19 +862,19 @@ de:
     Los geht's, probier es aus!
   LABEL_GAME_CREATION: Legen sie die Zeit, die in die jeweiligen Bereiche der Entwicklung gesteckt wird, mithilfe der Regler fest.
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
-    Sie können sich die Angebote der Verlage ansehen. Die Veröffentlichung eines Spiels ist ein einfacher Weg, um populär zu werden und größere Spiele zu veröffentlichen.
+    Sie können sich die Angebote der Publisher ansehen. Die Veröffentlichung eines Spiels ist ein einfacher Weg, um populär zu werden und größere Spiele zu veröffentlichen.
   LABEL_WORLDMAP_DESCRIPTION_0: >
-    Besuchen Sie die Stadt, werfen Sie einen Blick auf den Wettbewerb und überprüfen Sie, wo sich Ihr Studio befindet.
+    Besuchen Sie die Stadt, werfen Sie einen Blick auf die Wettbewerber und überprüfen Sie, wo sich Ihr Büro befindet.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
-    Ermöglicht die Organisation einer Marketingkampagne über viele Spielemagazine. Dies erhöht die Sichtbarkeit Ihrer Spiele.
+    Ermöglicht die Organisation einer Marketingkampagne über viele Spielemagazine. Dies erhöht die Bekanntheit Ihrer Spiele.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
     Ermöglicht es Ihnen, Werbetafeln zu mieten, um Poster Ihrer derzeit im Handel befindlichen Spiele zu platzieren.
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
     Ermöglicht es Ihnen, Fernsehwerbekampagnen zu organisieren. Es ist teuer, aber wer schaut heutzutage nicht fern?!
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
-    Sie können nun eine Werbebeilage auf Websites anzeigen. Es ist billig und bringt mehr Spieler mit sich.
+    Sie können nun ein blinkendes Banner auf Websites anzeigen. Es ist billig und bringt mehr Spieler mit sich.
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
-    Es ist jetzt möglich, einen Showcase im World Wide Web zu erstellen, um der Welt zu zeigen, dass Ihre Spiele existieren.
+    Es ist jetzt möglich, einen Webseite zu erstellen, um der Welt zu zeigen, dass Ihre Spiele existieren.
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     Du konntest deine Konkurrenten auf dem Stadtplan sehen, jetzt kannst du sie beobachten.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
@@ -882,7 +882,7 @@ de:
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Während Sie sich eines Ihrer Büros ansehen, können Sie jetzt neue Möbel kaufen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Pefektion so stark sind.
+    Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Pefektion stark sind.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Ermöglicht es Ihnen, neue Gebäude zu mieten. Auf diese Weise können Sie an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
@@ -892,7 +892,7 @@ de:
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Wenn Sie Messezentrum haben, dann können Sie eigene Messen veranstalten.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
-    Du kannst an Messen teilnehmen, dies wird die Sichtbarkeit deiner Spiele für eine gewisse Zeit erhöhen.
+    Du kannst an Messen teilnehmen, dies wird die Bekanntheit deiner Spiele für eine gewisse Zeit erhöhen.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
     Sie können die Wände neu streichen, die Pfosten wechseln und die Böden Ihrer Studios neu gestalten.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
@@ -922,7 +922,7 @@ de:
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
     Du hast ein neues Funktion, wenn du ein Spiel erstellst.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
-    Sie können in sozialen Netzwerken werben, es ist sehr zielgerichtet, teuer und sehr effektiv.
+    Sie können in sozialen Netzwerken werben. Es ist sehr zielgerichtet, teuer und sehr effektiv.
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Der Versand von E-Mails kostet Sie fast nichts und beeinflusst den Verkauf Ihrer Spiele.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
@@ -948,7 +948,7 @@ de:
   LABEL_FAN_LOST: Dies hat deine Popularität beeinflusst, du verlierst %s-Fans.
   LABEL_PENALTY_COST: Das Gericht hat entschieden, dass du %s$ bezahlen musst.
   LABEL_EMPLOYEE_HIRED: Sie haben %s eingestellt.
-  LABEL_GAME_CRACKED: Du hast %s geknackt.
+  LABEL_GAME_CRACKED: Du hast %s gehackt.
   LABEL_GENRE_STOLEN: Du hast gelernt, dass %s
   LABEL_STUDIO_SOLD: Sie haben %s verkauft.
 
@@ -973,7 +973,7 @@ de:
     Um Ihre Büros zu verwalten, Computer aufzurüsten, Mitarbeiter zuzuweisen...
   TOOLTIP_GAMEPORT: Portiere ein Videospiel auf eine andere Plattform
   TOOLTIP_POSTMORTEM: |
-    Erstelle einen Spiele-Bericht. Ein Spiele-Bericht hilft dir, aus deinen
+    Erstelle einen Spiele-Bericht. Ein Spielbericht hilft dir, aus deinen
     Spielen zu lernen und bessere Spiele zu erstellen
   TOOLTIP_CREATE_GAME: Erstelle ein neues Spiel
   TOOLTIP_STAFF: Mitarbeiterliste
@@ -1008,7 +1008,7 @@ de:
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
-    Ihr Unternehmen wird heimlich auf der Grundlage der Qualität der Spiele bewertet, die Sie in den letzten vier Jahren produziert haben.
+    Ihr Unternehmen wird auf der Grundlage der Qualität der Spiele bewertet, die Sie in den letzten vier Jahren produziert haben.
   LOADING_SCREEN_TIP_1: >
     Perfekte Mitarbeiter können sich spontan bewerben, um Ihre Produktionsteams zu stärken.
   LOADING_SCREEN_TIP_2: >
@@ -1018,7 +1018,7 @@ de:
   LOADING_SCREEN_TIP_4: >
     Spiele mit einem PUblisher zu produzieren ist der beste Weg, um berühmt zu werden.
   LOADING_SCREEN_TIP_5: >
-    Sie können Messen in Ihren eigenen Gebäuden organisieren, aber Sie sollten sie besser ein Jahr auseinander platzieren.
+    Sie können Messen in Ihren eigenen Gebäuden organisieren, aber Sie sollten sie besser nur einmal pro Jahr veranstalten.
   LOADING_SCREEN_TIP_6: >
     Die Abteilung für schlechte Verkäufe hat immer Recht.
   LOADING_SCREEN_TIP_7: >
@@ -1026,9 +1026,9 @@ de:
   LOADING_SCREEN_TIP_8: >
     Einstein, unser Maskottchen, bellte 65,13 Mal bei der Entwicklung des City Game Studio.
   LOADING_SCREEN_TIP_9: >
-    12654 Weihnachtslieder wurden während der Entwicklung von City Game Studio gespielt.
+    12654 Weihnachtslieder wurden während der Entwicklung von City Game Studio gehört.
   LOADING_SCREEN_TIP_10: >
-    Ein Blick auf Marktanteile ist gut, aber man muss sich auch um die Anzahl der Spiele kümmern, die auf einer Plattform veröffentlicht werden.
+    Ein Blick auf Marktanteile ist gut, aber man muss auch auf die ANzahl der Spiele achten, die auf einer Plattform veröffentlicht wurden.
   LOADING_SCREEN_TIP_11: >
     Du möchtest bei der Übersetzung von City Game Studio helfen? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
@@ -1036,11 +1036,11 @@ de:
   LOADING_SCREEN_TIP_13: >
     Vergiss nicht, eine Kaffeepause einzulegen... Ah, die Kaffeemaschine ist wieder kaputt.
   LOADING_SCREEN_TIP_14: >
-    Crunchtime ist keine Getreidemarke, aber es ist eine weit verbreitete Managementpraxis.
+    Crunchtime ist keine Cornflakes-Marke, aber es ist eine weit verbreitete Managementpraxis.
   LOADING_SCREEN_TIP_15: >
     Die Veröffentlichung eines neuen Spiels ist der beste Weg, um Geld zu verdienen.
   LOADING_SCREEN_TIP_16: >
-    Post-Mortems ermöglichen es dir, mehr über die Spiele zu erfahren, die du veröffentlicht hast.
+    Spielberichte ermöglichen es dir, mehr über die Spiele zu erfahren, die du veröffentlicht hast.
   LOADING_SCREEN_TIP_17: >
     Laut einer aktuellen Studie bellt fast 1 von 625,3 Hunden bei Regen, und die anderen machen sich darüber lustig.
   LOADING_SCREEN_TIP_18: >
@@ -1050,8 +1050,8 @@ de:
   LOADING_SCREEN_TIP_20: >
     Wenn Ihr Studio ein ungleiches Qualifikationsniveau hat, kann dies die Gesamtqualität eines Spiels beeinflussen.
 
-  GAMEEDITION_SUBMIT: Veröffentlichung von Angeboten
-  GAMEEDITION_RECEIVE: Verlagsangebote erhalten
+  GAMEEDITION_SUBMIT: Spiel erstellen lassen
+  GAMEEDITION_RECEIVE: Publisherangebote erhalten
   WORLDMAP: Weltkarte
   MARKETING_CAMPAIGN_MAGAZINE: Werbekampagne in der Presse
   MARKETING_CAMPAIGN_TV: Fernsehwerbekampagne
@@ -1060,14 +1060,14 @@ de:
   CONCURRENT_STUDIOS_BUY: Aufkauf von Wettbewerbern
   FURNITURES_COMMON_BUY: Möbel kaufen
   EMPLOYEES_HIRE: Personal einstellen
-  STUDIO_RENT: Mieten Sie eine Studio-Wohnung
-  STUDIO_BUILD: Neubau eines Studios
+  STUDIO_RENT: Mieten Sie ein Büro
+  STUDIO_BUILD: Neubau eines Büros
   CONVENTION_ORGANIZE: Organisieren Sie eine Messe
   CONVENTION_PARTICIPATE: An einer Messe teilnehmen
   STUDIO_CUSTOMIZE: Renovieren Sie Ihre Studios
   FURNITURES_SERVERS_BUY: Server kaufen
   GAME_ONLINE: Online-Spiele veröffentlichen
-  DIGITAL_STORE: Digitales Lager
+  DIGITAL_STORE: Digitaler Vertrieb
   POSTMORTEM: Spielbericht
   NEW_GAME: Neues Spiel
   TARGETTED_AUDIENCE: Zielgruppe
