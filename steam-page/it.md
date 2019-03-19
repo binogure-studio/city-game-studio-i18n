@@ -1,10 +1,10 @@
 [img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
 
-Gennaio 1975, hai appena fondato la tua ditta di videogiochi. Affitti un piccolo posto che ti permetterà di sviluppare la tua prima opera. Presto, i tuoi giochi diventano un successo ed è già tempo di trasferirsi, ma sta a te scegliere dove collocare il nuovo ufficio. In un batter d'occhio stai già assumendo artisti per migliorare l'aspetto grafico dei tuoi giochi, poi è il turno di programmatori e tester.
+Gennaio 1975, hai appena fondato la tua ditta di videogiochi. Affitti un piccolo spazio che ti permetterà di sviluppare la tua prima opera. Presto, i tuoi giochi diventano un successo ed è già tempo di trasferirsi, ma sta a te scegliere dove collocare il nuovo ufficio. In un batter d'occhio stai già assumendo artisti per migliorare l'aspetto grafico dei tuoi giochi, poi è il turno di programmatori e tester.
 
 [img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
 
-Ma rimane un problema: nonostante il tuo successo, non hai abbastanza fans per pubblicare giochi più elaborati da solo, e avere migliori profitti. Dovrai ricorrere a degli editori per raggiungere un'udienza più grande e l'unico modo per sbarazzarsene sarà concatenare successi. Una volta fatto ciò sarai pronto a dominare il mercato.
+Ma rimane un problema: nonostante il tuo successo, non hai abbastanza fans per pubblicare autonomamente giochi più elaborati, e avere migliori profitti. Dovrai ricorrere a degli editori per raggiungere un'udienza più grande e l'unico modo per sbarazzarsene sarà concatenare successi. Solo allora sarai pronto a dominare il mercato.
 
 [img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
 
@@ -14,11 +14,11 @@ Mappe and studi sono generati proceduralmente. Uniti a eventi casuali e personal
 
 [h2]Scegli lo studio che fa per te[/h2]
 
-Scegli tra numerose città e locatione trova il posto che fa per te.
+Scegli il posto che fa per te tra numerose città. Come diceva mio zio: "Si prendono più mosche con una goccia di miele che con una botte d'aceto".
 
 [h2]Arreda il tuo studio[/h2]
 
-Non tutti siamo studio designer, ma ogni singolo mobile e decorazione ha il suo posto, e può influenzare la storia della tua ditta.
+Non tutti siamo arredatori di interni, ma ogni singolo mobile e decorazione ha il suo posto, e può influenzare la storia della tua azienda.
 
 [h2]Pubblica, assumi, ripeti[/h2]
 
