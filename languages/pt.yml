@@ -17,7 +17,7 @@ pt:
   BUTTON_LOAD_GAME: Carregar jogo
   BUTTON_MAIN_MENU: Menu principal
   BUTTON_NEXT: Próximo
-  BUTTON_OK: Está bem
+  BUTTON_OK: OK
   BUTTON_OPTIONS: Opções
   BUTTON_RESET: Resetar
   BUTTON_SKIP: Pular
@@ -50,8 +50,8 @@ pt:
   BUTTON_BUGREPORT: Relatório de erros
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Idiomas
-  BUTTON_CRACK_GAME: Crack um jogo
-  BUTTON_FORCE_STUDIO_SELL: Venda de estúdios de força
+  BUTTON_CRACK_GAME: Crackear um jogo
+  BUTTON_FORCE_STUDIO_SELL: Forçar venda de estúdio
   BUTTON_SPY: Espie um concorrente
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar o seu empregado
   BUTTON_SELECT: Selecione
@@ -60,15 +60,15 @@ pt:
   # Labels, descriptive
   LABEL_FILTER_BY: Filtrar por
   LABEL_DOOR: Porta
-  LABEL_COGS: Costo de los bienes vendidos
-  LABEL_TAXES: Impuestos
-  LABEL_FIXED_COSTS: Costes fijos
+  LABEL_COGS: Custo dos bens vendidos
+  LABEL_TAXES: Impostos
+  LABEL_FIXED_COSTS: Custos fixos
   LABEL_OVERVIEW: Panorama general
   LABEL_LOW_CONFIGURATION: Baixa configuração
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
     Use o mouse para mover a tela
   LABEL_WEEK: semanas
-  LABEL_TOOLS: Hecho con
+  LABEL_TOOLS: Feito com
   LABEL_SANDBOX: Modo sandbox
   LABEL_SAVING: Salvando o jogo em andamento
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Pagamentos compensatórios
@@ -288,9 +288,9 @@ pt:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Os fãs estão animados como nós!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Los aficionados no están contentos y las revistas especializadas ya parecen querer desahogarse en este juego.
+    Fãs estão descontentes e revistas especializadas já querem baixar a poeira desse jogo.
 
-    Hay que decir que hace poco lanzaron un juego similar.
+    É necessário falar que lançaram um jogo similar a pouco tempo.
   LABEL_GAME_ANNOUNCED_TITLE: "%s anunciou"
   LABEL_TRENDING: Tendência
   LABEL_CREATOR: Criado por
@@ -313,13 +313,13 @@ pt:
   LABEL_GAME: Jogo
   LABEL_GAMEPORT: Portar um jogo
   LABEL_CONVENTION: Centro de exibição
-  LABEL_LAND_VALUE: Valor da terra
+  LABEL_LAND_VALUE: Valor de terra
   LABEL_SURFACE: Superfície
   LABEL_HYPE: Campanha publicitária
   LABEL_AI: Inteligência artificial
   LABEL_ANIMATION: Animação
   LABEL_ANISOTROPIC_FILTER: Filtragem anisotrópica
-  LABEL_BUILDING_LEASE: De concessão
+  LABEL_BUILDING_LEASE: Arrendamento
   LABEL_TYPE_BUILDING: Tipo
   LABEL_CHARACTERS: Personagens
   LABEL_COMPANY_NAME: Nome da empresa
@@ -409,7 +409,7 @@ pt:
   LABEL_THEME_ZOMBIE: Zumbi
   LABEL_THEME_MEDIEVAL: Medieval
   LABEL_THEME_GAMEDEV: Game dev
-  LABEL_THEME_HACK: Hack
+  LABEL_THEME_HACK: Hacking
   LABEL_THEME_HUNT: Caça
   LABEL_THEME_ANIME: Anime
   LABEL_THEME_MILITARY: Militares
@@ -428,9 +428,9 @@ pt:
   LABEL_THEME_MUSIC: Música
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
-  LABEL_TYPE_ACTION_ADVENTURE: Açao aventura
+  LABEL_TYPE_ACTION_ADVENTURE: Açao-aventura
   LABEL_TYPE_ACTION: Açao
-  LABEL_TYPE_BEAT_THEM_ALL: Beat 'em Up
+  LABEL_TYPE_BEAT_THEM_ALL: Beat'em Up
   LABEL_TYPE_VERSUS_FIGHTING: Luta
   LABEL_TYPE_PLATFORMS: Plataformas
   LABEL_TYPE_SHOOT: Tiro
@@ -462,11 +462,11 @@ pt:
   LABEL_TYPE_REFLEXION: Quebra-cabeça clássico
   LABEL_TYPE_MAZE: Labirinto
   LABEL_TYPE_HIDDEN_OBJECT: Objetos escondidos
-  LABEL_TYPE_PUZZLE: Enigma
+  LABEL_TYPE_PUZZLE: Puzzle
   LABEL_TYPE_SIMULATION: Simulação
   LABEL_TYPE_ANIMALS: Animais
   LABEL_TYPE_GOD_GAME: God game
-  LABEL_TYPE_FARMING: Agricultura
+  LABEL_TYPE_FARMING: Fazenda
   LABEL_TYPE_LIVING_ORGANISM: Organismo vivo
   LABEL_TYPE_SPORT: Esporte
   LABEL_TYPE_MANAGEMENT: Administração
@@ -481,7 +481,7 @@ pt:
   LABEL_TYPE_SUBMARINE: Submarino
   LABEL_TYPE_TRAIN: Trem
   LABEL_TYPE_STRATEGY: Estratégia
-  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_RTS: Estratégia em Tempo Real
   LABEL_TYPE_MOBA_LIKE: Moba-like
   LABEL_TYPE_TOWER_DEFENSE: Defesa de torre
   LABEL_TYPE_TURN_BASED: Baseado em turnos
@@ -540,7 +540,7 @@ pt:
   LABEL_MAGAZINE_2: Game Geek
   LABEL_MAGAZINE_3: Revista Game Over
   LABEL_MAGAZINE_4: Geek Hub
-  LABEL_MAGAZINE_5: Jogo 2
+  LABEL_MAGAZINE_5: Game 2
   LABEL_MAGAZINE_6: ZQSD
   LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
@@ -568,7 +568,7 @@ pt:
   LABEL_CATCHPHRASE_2_3: Uma experiência decepcionante
   LABEL_CATCHPHRASE_2_4: "Uma palavra: vazio"
   LABEL_CATCHPHRASE_2_5: Deveria ter sido cancelado
-  LABEL_CATCHPHRASE_3_0: Indo direto para o desastre
+  LABEL_CATCHPHRASE_3_0: Formula do desastre
   LABEL_CATCHPHRASE_3_1: Uma decepção que corresponde às suas ambições
   LABEL_CATCHPHRASE_3_2: Eles colocaram tudo, mas não tinham muito
   LABEL_CATCHPHRASE_3_3: Se ao menos tivessem feito um jogo
@@ -597,7 +597,7 @@ pt:
   LABEL_CATCHPHRASE_7_2: Estética estonteante, mecânicas falhas
   LABEL_CATCHPHRASE_7_3: Um excelente conceito com conteúdo limitado
   LABEL_CATCHPHRASE_7_4: Um medley satisfatório?
-  LABEL_CATCHPHRASE_7_5: Não está longe de ser uma jóia
+  LABEL_CATCHPHRASE_7_5: Não está longe de ser uma obra-prima
   LABEL_CATCHPHRASE_8_0: Diversão no estado mais puro
   LABEL_CATCHPHRASE_8_1: Uma brisa fresca
   LABEL_CATCHPHRASE_8_2: Essencial para festa com amigos
@@ -610,15 +610,15 @@ pt:
   LABEL_CATCHPHRASE_9_3: É enorme
   LABEL_CATCHPHRASE_9_4: Uma experiência incrível
   LABEL_CATCHPHRASE_9_5: Um trabalho incrível
-  LABEL_CATCHPHRASE_10_0: Uma joia de jogabilidade
-  LABEL_CATCHPHRASE_10_1: Uma obra-prima de encenação
+  LABEL_CATCHPHRASE_10_0: Uma obra-prima da jogabilidade
+  LABEL_CATCHPHRASE_10_1: Uma obra-prima da atuação
   LABEL_CATCHPHRASE_10_2: Essencial
   LABEL_CATCHPHRASE_10_3: Um dos melhores jogos ultimamente
   LABEL_CATCHPHRASE_10_4: Horas de jogo, apenas bons momentos
   LABEL_CATCHPHRASE_10_5: Este jogo vai marcar as mentes de todos
   LABEL_CATCHPHRASE_11_0: Um soco artístico
   LABEL_CATCHPHRASE_11_1: Uma rara jóia de beleza
-  LABEL_CATCHPHRASE_11_2: Uma tributo aos videogames
+  LABEL_CATCHPHRASE_11_2: Um tributo aos videogames
   LABEL_CATCHPHRASE_11_3: Uma obra que restabelece o prestígio dos videogames
   LABEL_CATCHPHRASE_11_4: Se a perfeição fosse um jogo
   LABEL_CATCHPHRASE_11_5: A Vigésima Maravilha do Mundo
@@ -627,7 +627,7 @@ pt:
   LABEL_POSTMORTEM: Post-mortem
   LABEL_EMPTY_STUDIO: Atenção este estúdio não contém nenhuma mesa com um computador!
   LABEL_MATCH_EXCELLENT: Combinação excelente
-  LABEL_MATCH_GOOD: Combinação partida
+  LABEL_MATCH_GOOD: Combinação boa
   LABEL_MATCH_OK: Combinação mediana
   LABEL_MATCH_POOR: Combinação ruim
   LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
@@ -759,7 +759,7 @@ pt:
   LABEL_NUMBER_OF_GAME_PRODUCED: Jogos produzidos
   LABEL_DESIGN_POINT_PRODUCED: Número de pontos de design produzidos
   LABEL_DEVELOPMENT_POINT_PRODUCED: Número de pontos de desenvolvimento produzidos
-  LABEL_POLISH_POINT_PRODUCED: Número de pontos poloneses produzidos
+  LABEL_POLISH_POINT_PRODUCED: Número de pontos de polimento produzidos
   LABEL_PRODUCTIVITY: Produtividade
   LABEL_MONEY_EFFICIENCY: Eficiência de custos
   LABEL_SKILLS: Habilidades
