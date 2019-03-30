@@ -66,7 +66,7 @@ de:
   LABEL_SPEED_SLOWEST: Langsamste
   LABEL_FIRE_UNASSIGNED_EMPLOYEE: Nicht zugeordnete Mitarbeiter entlassen 
   LABEL_FURNISH_MOD: Automatisch einrichten
-  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Nur leere Studios können automatisch eingerichtet werden.
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Nur leere Büros können automatisch eingerichtet werden.
   LABEL_HAPPINESS: Zufriedenheit
   LABEL_FILTER_BY: Filtern nach
   LABEL_DOOR: Tür
@@ -418,12 +418,12 @@ de:
   LABEL_THEME_WESTERN: Western
   LABEL_THEME_ZOMBIE: Zombie
   LABEL_THEME_MEDIEVAL: Mittelalter
-  LABEL_THEME_GAMEDEV: Spieleentwicklung
+  LABEL_THEME_GAMEDEV: Spiele Entwicklung
   LABEL_THEME_HACK: Programmieren
   LABEL_THEME_HUNT: Jagd
   LABEL_THEME_ANIME: Anime
   LABEL_THEME_MILITARY: Militär
-  LABEL_THEME_INDUSTRIALIZATION: Industrialisierung
+  LABEL_THEME_INDUSTRIALIZATION: Industrie
   LABEL_THEME_PET: Haustier
   LABEL_THEME_FOOTBALL: Basketball
   LABEL_THEME_SOCCER: Fußball
@@ -564,7 +564,7 @@ de:
   LABEL_INPUT_ACTION_UI_PAUSE: um das Spiel zu pausieren
   LABEL_INPUT_ACTION_UI_CANCEL: um abzubrechen
   LABEL_INPUT_ACTION_UI_REPEAT: um mehrere Gegenstände zu platzieren
-  LABEL_CATCHPHRASE_1_0: Zeitverschwendung
+  LABEL_CATCHPHRASE_1_0: Verschenkte Zeit
   LABEL_CATCHPHRASE_1_1: Sie legten alles in die Waagschale
   LABEL_CATCHPHRASE_1_2: Kauft es lieber nicht
   LABEL_CATCHPHRASE_1_3: Ein offensichtlicher Mangel an Kreativität
@@ -652,7 +652,7 @@ de:
   LABEL_IDLE: Inaktiv
   LABEL_ADOPT_CAT_DESCRIPTION: >
     Die Mitarbeiter von [b]%s[/b]'s Studio haben eine streunende Katze gefunden, die hinter einem Müllcontainer versteckt war.
-    Die Katze ist super kuschelig und ihr wurde schon einen Namen gegeben!
+    Die Katze ist super kuschelig und ihr wurde schon ein Namen gegeben!
     Was willst du tun?
   LABEL_ADOPT_CAT_TITLE: Streunende Katze
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
@@ -781,12 +781,12 @@ de:
   LABEL_ORDER_BY: Sortieren nach
   LABEL_BUY_PRICE: Kaufpreis
   LABEL_RENT_PRICE: Mietpreis
-  LABEL_NO_STUDIO_AVAILABLE: Kein Studio verfügbar
+  LABEL_NO_STUDIO_AVAILABLE: Kein Büro verfügbar
   LABEL_REAL_ESTATE: Grundeigentum
   LABEL_STAFF_SIZE: Mitarbeiteranzahl
   LABEL_CREATION_DATE: Erstellungsdatum
-  LABEL_STUDIO_LIST: Deine Studios
-  LABEL_NO_STUDIO_FOUND: Kein Studio gefunden
+  LABEL_STUDIO_LIST: Deine Büros
+  LABEL_NO_STUDIO_FOUND: Kein Büro gefunden
   LABEL_PRODUCTIVITY_BONUS: Produktivitätsbonus
   LABEL_SKILLS_AVERAGE: Fähigkeiten (Durchschnitt)
   LABEL_VSYNC: VSync
@@ -1002,11 +1002,11 @@ de:
   TOOLTIP_CONSTRUCT: Baue ein neues Büro- oder Messegebäude
   TOOLTIP_CONFERENCE: Verwalte deine Messen
   TOOLTIP_MARKETING: Verwalte deine Marketingkampagnen
-  TOOLTIP_SELL: Verkaufe dieses Studio
-  TOOLTIP_SHOP: Kaufe Möbel und Deko für dein Studio
-  TOOLTIP_BUILDMOD: Streiche und verschönere dein Studio
+  TOOLTIP_SELL: Verkaufe dieses Büro
+  TOOLTIP_SHOP: Kaufe Möbel und Deko für dein Büro
+  TOOLTIP_BUILDMOD: Renovier dein Studio
   TOOLTIP_ASSIGN: Weise den Angestellten einem Schreibtisch zu
-  TOOLTIP_STUDIO_SELECT: Studio wechseln
+  TOOLTIP_STUDIO_SELECT: Büro wechseln
   TOOLTIP_ANNOUNCE_GAME: |
     Kündige das Videospiel an.
     Erzeugt Hype!
