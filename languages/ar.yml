@@ -1,0 +1,1102 @@
+How dar:
+  BUTTON_READ: إقرا
+  BUTTON_ANNOUNCE: أعلن اللعبة
+  BUTTON_NEW_GAME: لعبة جديدة
+  BUTTON_HIRE: توظف
+  BUTTON_APPLY: تطبيق
+  BUTTON_BACK: للخلف
+  BUTTON_BUILD_MODE: وضع البناء
+  BUTTON_BUILDING_RENT: إيجار
+  BUTTON_CANCEL: إلغاء
+  BUTTON_CLOSE: أغلق
+  BUTTON_CREDITS: قروض
+  BUTTON_EXIT: خروج
+  BUTTON_FIRE: أطلق
+  BUTTON_LOAD: تحميل
+  BUTTON_LOAD_GAME: تحميل اللعبة
+  BUTTON_MAIN_MENU: القائمة الرئيسية
+  BUTTON_NEXT: التالي
+  BUTTON_OK: حسنا
+  BUTTON_OPTIONS: الخيارات
+  BUTTON_RESET: اعادة الضبط
+  BUTTON_SKIP: تخطي
+  BUTTON_START: إبدأ
+  BUTTON_NEED_STUDIO: لا يتوفر أي أستوديو
+  BUTTON_CLEAR_EVENTS: إاحذف
+  BUTTON_TOO_BAD: للاسف
+  BUTTON_BUY_ANOTHER_ONE: إشتري واحدة أخرى
+  BUTTON_ADOPT: إعتمد
+  BUTTON_ABANDON: تخلي
+  BUTTON_ASSIGN_EMPLOYEE: تعيين
+  BUTTON_KEEP_PLAYING: إستمر في اللعب
+  BUTTON_LEADERBOARD: لوح المتصدرين
+  BUTTON_GIVEUP: تخلي عن
+  BUTTON_LOAN: قرض
+  BUTTON_REPAY: دفع
+  BUTTON_ZOOM: تكبير
+  BUTTON_BUY: شراء
+  BUTTON_SELL: بيع
+  BUTTON_RENT: الإيجار
+  BUTTON_CONFIRM: تأكيد
+  BUTTON_BANKRUPTCY: Bankruptcy
+  BUTTON_RESTORE: إستعادة
+  BUTTON_DELETE: حذف
+  BUTTON_DELETE_ALL: حذف الكل
+  BUTTON_SPAM: غير مرغوب به
+  BUTTON_UNSPAM: مرغوب به
+  BUTTON_HOLIDAY: إرسال الأستوديو في عطلة
+  BUTTON_MODS: تعديل
+  BUTTON_BUGREPORT: تقرير الأخطاء
+  BUTTON_FEEDBACK: الملاحظات
+  DROPDOWN_LANGUAGE: اللغات
+  BUTTON_CRACK_GAME: قرصنة اللعبة
+  BUTTON_FORCE_STUDIO_SELL: إجبار على بيع الأستوديو
+  BUTTON_SPY: تجسس على المنافس
+  BUTTON_HIRE_THEIR_EMPLOYE: إستئجار موظف
+  BUTTON_SELECT: تحديد
+  BUTTON_SAVEGAME: حفظ اللعبة
+  BUTTON_SELL_ITEMS: بيع الأثاث
+  LABEL_CREATE_POSTMORTEM: هل تقرير اللعبة
+  LABEL_VENDING_MACHINE: آلة البيع
+  LABEL_GAME_SPEED: سرعة اللعبة
+  LABEL_SPEED_NORMAL: عادي
+  LABEL_SPEED_SLOW: بطيئة
+  LABEL_SPEED_SLOWEST: أبطأ
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Fire unassigned employees
+  LABEL_FURNISH_MOD: وضع تأثيث تلقائي
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: فقط الأستوديوهات الفارغة يمكن تأثيثها تلقائيا
+  LABEL_HAPPINESS: السعادة
+  LABEL_FILTER_BY: مصنف بواسطة
+  LABEL_DOOR: الباب
+  LABEL_COGS: تكلفة السلع المباعة
+  LABEL_TAXES: الضرائب
+  LABEL_FIXED_COSTS: التكاليف الثابتة
+  LABEL_OVERVIEW: نظرة عامة
+  LABEL_LOW_CONFIGURATION: إعدادات محمصة
+  LABEL_USE_MOUSE_TO_MOVE_SCREEN: |
+    استخدم الفأرة لتحريك الشاشة
+  LABEL_WEEK: الأسابيع
+  LABEL_TOOLS: صنع بواسطة
+  LABEL_SANDBOX: وضع الحماية
+  LABEL_SAVING: جاري حفظ اللعبة
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: مدفوعات التعويض
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: >
+    عزيزي [b]%s[/b],
+
+
+    بما أن [b]%s[/b] لم تحقق النجاح المتوقع ، فنحن ملتزمون بدفع غرامة [b]%s$[/b]
+    بأسرع ما يمكن
+
+    نأمل أن هذه العقبة لن تضر تعاوننا في المستقبل.
+
+      بكل احترام,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    لا يمكن نشر لعبة جديدة بعد
+  LABEL_EDIT_GAME: نشر عرض اللعبة
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    %s  سيعمل على اللعبة القادمة %s
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    الإشاعات تنتشر, ويبدو أن %s غير راض عن الصفقة التي أبرموها مع %s
+  LABEL_REQUIRE_EMPLOYEE: |
+    يتطلب %d الموظفون في استوديو واحد
+  LABEL_STUDIO_NOT_BALANCED: |
+    هذا الاستوديو لا ينتج نفس كمية التصميم / التطوير. هذا يؤثر على جودة الألعاب.
+  LABEL_LAST_COMBO: آخر مرة صنعت نفس الموضوع / النوع
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] يفتقر إلى [b]%s[/b].
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b] لديه الكثير [b]%s[/b].
+  LABEL_MARKETING_CAMPAIGN: حملة تسويقية
+  LABEL_CAMPAIGN_TYPE: نوع الحملة
+  LABEL_WORKLOAD: عبء العمل
+  LABEL_RELEASE_DATE: تاريخ الإصدار
+  LABEL_MANUFACTURER: الشركة المصنعة
+  LABEL_EXPIRED: منتهية الصلاحية
+  LABEL_POINTRATIO_GOOD: |
+    في [b]%s[/b] يعرفون كيفية إدارة  [b]%s[/b]
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] هو ضعفهم. فريق إنتاجهم غير متوازن بما فيه الكفاية.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b]  لديه فريق رائع ، يتألقون من جميع الجهات.
+  LABEL_REVIEW_PLATFORM_BAD: >
+    لقد حان الوقت لـ [b]%s[/b]   ليس لديهم القوة البشرية لنشر [b]%s[/b] الألعاب
+    على [b]%s[/b].
+  LABEL_REVIEW_GAME_BAD: >
+    [b]%s[/b] لا ترقى إلى سمعتها. توقعنا المزيد منهم ، خاصة بعد لعبة الفيديو
+    الخاصة بهم  [b]%s[/b]
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] يجرب كومبو جديد ، وهو يعمل لهم. هذا ممتاز [b]%s[/b] لعبة
+  LABEL_REVIEW_COMBO_BAD: |
+    إنها مجرد لعبة أخرى [b]%s[/b] . يجب أن يتعلموا تجديد أنفسهم [b]%s[/b]
+  LABEL_CRACKED: متصدع
+  LABEL_SELECT_COMPANY_SPECIALIZATION: تخصص نوع اللعبة
+  LABEL_DISCORD_COMMUNITY: مجتمع ديسكورد
+  LABEL_LAST_MONTH: سيستمر لمدة %s أشهر
+  LABEL_SUCCESS_RATE: احتمال النجاح
+  LABEL_RISKS: المخاطر المعنية
+  LABEL_SALES_HITS_TITLE: تقرير المبيعات
+  LABEL_SALES_HITS_DESCRIPTION: >
+    مرحبًا %s,
+
+
+    أعرف كم تحب رسائلي الإلكترونية.
+
+    ها نحن ذا, بما أننا نستطيع مراقبة المبيعات الجيدة ، قمت ببعض الحسابات واليوم
+    سنتحدث عن مبيعات %s
+
+
+    %s
+
+
+    بإخلاص
+
+    Binogure
+  LABEL_SALES_HITS_0: |
+    [b]%s[/b]  المبيعات جيدة ، وأعتقد أن هذا سوف يحسن المبيعات بنسبة [b]%d%%[/b]
+  LABEL_SALES_HITS_1: >
+    [b]%s[/b]  ليست سيئة جدا هذا الشهر ، وفقا لتقديراتي سوف تحسن المبيعات بنسبة
+    [b]%d%%[/b]
+  LABEL_SALES_HITS_2: >
+    حسنا ، دعنا نتحدث عن [b]%s[/b]. المبيعات ممتازة ، وأعتقد أننا يمكن أن نتوقع
+    [b]%d%%[/b] زيادة في المبيعات
+  LABEL_SALES_HITS_3: >
+    مع [b]%s[/b] سنكون قادرين على التفكير بشكل كبير ، المبيعات يجب أن تزيد بنسبة
+    [b]%d%%[/b]
+  LABEL_SALES_HITS_4: |
+    اليوم يوم عظيم, [b]%s[/b] يجب أن ترى [b]%d%%[/b] زيادة
+  LABEL_SALES_HITS_5: |
+    ومن المتوقع أن يزيد  [b]%s[/b]بنسبة [b]%d%%[/b]
+  LABEL_SALES_HITS_6: "\_\_تهانينا بمبيعات [b]%s[/b], يجب أن نصل إلى زيادة [b]%d%%[/b] \n"
+  LABEL_CONVENTION_INCOMING: "عزيزي %s,\n\nيسرنا أن نعلن %s من المقرر ل %s.\n\nسيستمر المؤتمر لمدة 3 أيام ، ونحن في انتظار %s زوار.\n\_\_\_يمكنك بالفعل استئجار جناح لعرض أجمل إبداعاتك. أسرع, الأماكن محدودة.\n\n\_بإخلاص,\nمنظمي %s\n"
+  LABEL_REDCOUCH: أريكة حمراء
+  LABEL_DARKCOUCH: أريكة داكنة
+  LABEL_WHITECOUCH: أريكة بيضاء
+  LABEL_REDARMCHAIR: كرسي أحمر
+  LABEL_DARKARMCHAIR: كرسي داكن
+  LABEL_WHITEARMCHAIR: كرسي أبيض
+  LABEL_WHAT_WERE_YOU_DOING: ماذا كنت تفعل عندما واجهك الخطأ؟
+  LABEL_VERSION: 'الإصدار: %s'
+  LABEL_NO_MESSAGE: ا توجد رسالة
+  LABEL_INBOX: البريد الوارد
+  LABEL_SPAM: البريد المزعج
+  LABEL_TRASH: سلة المهملات
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: "[b]فتح أنواع جديدة من الألعاب[/b].\n\nلفتح نوع جديد, [b]انقر على أيقونة[/b].\n\_إذا كانت لديك نقاط كافية ، فسيتم إلغاء قفل اللعبة.\n\n[b] يوجد عدد نقاط النوع [/b] هو موجود في [b]الزاوية اليمنى العليا [/b] من الشاشة.\n"
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINT: '%s  نوع النقاط'
+  LABEL_UNLOCKED: مفتوح
+  LABEL_COST: نقاط التكلفة %s
+  LABEL_FANBASE_TRENDS: اتجاهات قاعدة المعجبين
+  LABEL_YEAR: السنوات
+  LABEL_GAMEOVER_CONFIRM: الإفلاس
+  LABEL_GAMEOVER_DESCRIPTION: |
+    الإفلاس سينهي اللعبة. هل أنت متأكد أنك تريد إعلان إفلاسك ؟ 
+  LABEL_EXPENSES: المصروفات
+  LABEL_RENT: الإيجار
+  LABEL_MARKETING: رسوم التسويق
+  LABEL_FINANCIAL_RESULT: النتيجة مالية
+  LABEL_PROPERTY_VALUE: قيمة العقارات
+  LABEL_FURNITURE_VALUE: قيمة الأثاث
+  LABEL_CATALOG_VALUE: قيمة كتالوج اللعبة
+  LABEL_TOTAL_VALUE: القيمة الإجمالية
+  LABEL_MORTGAGES: الرهون العقارية
+  LABEL_MORTGAGE: الرهن العقاري
+  LABEL_DURATION: لمدة
+  LABEL_INTEREST: سعر الفائدة
+  LABEL_MONTHLY: الدفع الشهري
+  LABEL_AUTO_ASSIGN_STAFF: تعيين الموظفين تلقائيًا
+  LABEL_UPGRADE_COMPUTER: التحديث التلقائي لأجهزة الكمبيوتر
+  LABEL_COMPANY_WIDE: شركة واسعة
+  LABEL_STUDIO_WIDE: هذا الاستوديو
+  LABEL_NO_STUDIO_TRADE_CAPABLE: >
+    يجب أن يكون لديك على الأقل  [b]3[/b]  أشخاص يعملون في الاستوديو حتى تتمكن من
+    التقدم للحصول على عرض ناشر.
+  LABEL_TRADE_GAME_CANCELED_TITLE: '%s ملغاة'
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
+    ل [b]%s[/b] (%s), 
+
+
+    نشعر بخيبة أمل خاصة لأنك ألغيت تطوير [b]%s[/b].
+
+    وفقا للعقد الموقع حسب , الصفحة 453, الفقرة د 72, الفقرة ث, الصفحة الوردية,
+    يجب أن تدفع عقوبة [b]%s$[/b] وتسدد لنا في أقرب وقت ممكن.
+
+
+    بكل احترام,
+
+    شركة المحاماة الصادقة, [b]%s[/b]
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: تم إنهاء العقد
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: >
+    لـ [b]%s[/b] (%s),
+
+
+    [b]%s[/b] لم تحقق النجاح المتوقع ، ويجب علينا تطبيق العقد الموقع على
+    الرسالة.
+
+    وبالتالي ، وفقًا للصفحة 9963 ، الفقرة 99 ، الورقة البنية ، يجب أن تدفع غرامة
+    [b]%s$[/b] وتسدد لنا في أقرب وقت ممكن
+
+
+    بكل احترام,
+
+    إدارة المبيعات السيئة , [b]%s[/b]
+  LABEL_SELECT_GAME_PRESENT: حدد ألعاب الفيديو المراد عرضها
+  LABEL_ROYALTIES: العائدات
+  LABEL_PENALITY: عقوبة
+  LABEL_NOTE_MIN: التقييم .
+  LABEL_MARKETING_GLOBAL_ITEM: التسويق بشكل عام
+  LABEL_MARKETING_MAGAZINE_ITEM: مجلة
+  LABEL_MARKETING_TV_ITEM: التلفزيون
+  LABEL_MARKETING_WEBSITE_ITEM: موقع الويب
+  LABEL_MARKETING_ONLINEAD_ITEM: الإعلان على الإنترنت
+  LABEL_MARKETING_BILLBOARD_ITEM: لوحة إعلانية
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: الشبكات الاجتماعية
+  LABEL_MARKETING_MAILINGLIST_ITEM: الرسالة الإخبارية
+  LABEL_SELF_PUBLISH: النشر الذاتي
+  LABEL_TRADE_PUBLISH: النشر التقليدي
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: "مرحبا,\n\nأنا  [b]%s[/b], أحب  [b]%s[/b] وأود الانضمام إلى فريقك في أسرع وقت ممكن.\nسأكون قادرا على أن أكون فعالا وأحضر معلومات جديدة لفريقك.\n\n\_شكرا لك على وقتك,\n[b]%s[/b]\n"
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: التطبيق التلقائي
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    مرحبا,
+
+     أكتب إليكم لأبلغكم أنني سأستقيل من منصبي في [b]%s[/b] اعتبارا من الآن.
+    غادرت لأنني وجدت وظيفة جديدة أقرب إلى المنزل ، وفي شركة أكثر جاذبية.
+
+    لقد استمتعت حقًا بالسنوات التي قضيتها في العمل معك ، وسأفتقدك جميعًا!
+
+    بإخلاص
+    [b]%s[/b]
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: استقالة
+  LABEL_NO_STUDIO_FOR_BIG_GAME: |
+    ليس لديك استوديو يمكنه إنشاء لعبة بحجمها الطبيعي أو الأكبر.
+  LABEL_NO_FAN_BIG_GAME: >
+    لإنشاء لعبة ذات حجم عادي أو أكبر ، يوصى أن يكون على الأقل [b]%s[/b]من
+    المعجبين, وإلا سيكون لها تأثير على المبيعات
+  LABEL_CONCURRENT_AMOUNT: عدد المنافسين
+  LABEL_YES: نعم
+  LABEL_NO: لا
+  LABEL_PRICE_MONTHLY: التكاليف الشهرية
+  LABEL_SERVER_MONITORING_REPORT: حالة الخوادم
+  LABEL_ONLINE_USAGE: عدد اللاعبين المتصلين عبر الإنترنت
+  LABEL_ONLINE_CAPACITY: إجمالي قدرة اللاعب
+  LABEL_ONLINE_CAPACITY_TOOLTIP: كمية اللاعبين المتزامنين على الإنترنت
+  LABEL_SERVER: الخادم
+  LABEL_CAMPAIGN_NO_COST: تحدث إلى الصحافة
+  LABEL_CAMPAIGN_DEMO: نشر نسخة تجريبية
+  LABEL_CAMPAIGN_FULL: قم بتشغيل حملة إعلانية
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    [b]%s[/b] كشفت للتو عن لعبتهم التالية: [b]%s[/b]
+     وسوف تكون متاحة على [b]%s[/b]
+
+    %s
+
+    أتمنى لك التوفيق في لعبتك!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    المشجعون متحمسون, لذلك قل لنا جميعا!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: "\_\_المشجعون ليسوا سعداء ويبدو أن المجلات المتخصصة تريد بالفعل التخلي عن هذه اللعبة\n\nيجب أن يقال أنهم أصدروا لعبة مماثلة منذ وقت ليس ببعيد.\n"
+  LABEL_GAME_ANNOUNCED_TITLE: '%s أعلن'
+  LABEL_TRENDING: الشائع
+  LABEL_CREATOR: تم الإنشاء بواسطة
+  LABEL_PRODUCER: منتج
+  LABEL_COMMUNITY_MANAGER: مدير مجتمع
+  LABEL_SOUND_COMPOSER: مؤلف الصوت
+  LABEL_SPECIAL_THANKS: شكر خاص
+  LABEL_VISITORS: '%d الزوار'
+  LABEL_ATTENDANCE: الحضور
+  LABEL_NONE: لا شيء
+  LABEL_NO_BUILDING: ا يوجد مبنى متاح
+  LABEL_NO_CONVENTION: لا توجد اتفاقية مخطط له
+  LABEL_CONVENTION_LAST_DATE: الاتفاقية الأخيرة
+  LABEL_DATE: تاريخ الاستحقاق
+  LABEL_STANDSIZE: حجم المنصة
+  LABEL_CONVENTION_NAME: اسم الاتفاقية
+  LABEL_ATTEND: الحضور
+  LABEL_ORGANIZE: تنظيم
+  LABEL_INFORMATIONS: التفاصيل
+  LABEL_GAME: لعبة
+  LABEL_GAMEPORT: منفذ  لعبة
+  LABEL_CONVENTION: مركز المعارض
+  LABEL_LAND_VALUE: قيمة الأرض
+  LABEL_SURFACE: السطح
+  LABEL_HYPE: الضجيج
+  LABEL_AI: الذكاء الاصطناعي
+  LABEL_ANIMATION: الرسوم المتحركة
+  LABEL_ANISOTROPIC_FILTER: مرشح متباين الخواص
+  LABEL_BUILDING_LEASE: تأجير
+  LABEL_TYPE_BUILDING: النوع
+  LABEL_CHARACTERS: الشخصيات
+  LABEL_COMPANY_NAME: اسم الشركة
+  LABEL_CUTSCENES: قطع المشاهد
+  LABEL_CURRENCY: العملة
+  LABEL_DESIGN: التصميم
+  LABEL_DEVELOPMENT: تطوير
+  LABEL_DIFFICULTY: صعوبة
+  LABEL_EVENT_TYPE: نوع الحدث
+  LABEL_UNIT_SOLD: تم بيع الوحدة
+  LABEL_FANBASE: قاعدة المعجبين
+  LABEL_FULLSCREEN: ملء الشاشة
+  LABEL_GAME_GENRE: النوع
+  LABEL_GAME_HISTORY: تاريخ اللعبة
+  LABEL_GAME_NAME: الاسم
+  LABEL_GAME_SIZE: الحجم
+  LABEL_GAME_ONLINE_SHORT: اللعب المتعدد على الإنترنت
+  LABEL_PLATFORM_NOT_ONLINE: |
+    لا يدعم هذا النظام  الللعب المتعدد على الإنترنت
+  LABEL_GAMEPLAY: اللعب
+  LABEL_GRAPHIC_SETTINGS: إعدادات الرسومات
+  LABEL_GRAPHISM: الرسومات
+  LABEL_INCOME: الدخل
+  LABEL_INVALID_SAVE: حفظ تالف
+  LABEL_KICKOFF: انطلق
+  LABEL_LOAD_GAME: تحميل لعبة
+  LABEL_MAP_SIZE: حجم الخريطة
+  LABEL_MARKETING_MATERIAL: مواد التسويق
+  LABEL_MUSIC: موسيقى
+  LABEL_NETWORK: الشبكة
+  LABEL_GRADE: التقدير
+  LABEL_OPTIMIZATION: التحسين
+  LABEL_OUTCOME: المصروفات
+  LABEL_PHYSICS: الفيزياء
+  LABEL_GAME_FINISHED: 'تهانينا, لقد أكملت City Game Studio'
+  LABEL_PLANNING: التخطيط
+  LABEL_NO_PLATFORM_AVAILABLE: |
+    تم نقل اللعبة بالفعل إلى كل منصة متاحة
+  LABEL_PLATFORM: منصة
+  LABEL_PLAYER_NAME: اسم اللاعب
+  LABEL_PROFITS: الأرباح
+  LABEL_POLISH: تلميع
+  LABEL_PRICE: السعر
+  LABEL_RELEASE: الإصدار
+  LABEL_RESOLUTION: القرار
+  LABEL_SCRIPTING: البرمجة النصية
+  LABEL_SOUND: الصوت
+  LABEL_SOUND_SETTINGS: إعدادات الصوت
+  LABEL_SOUNDFX: مؤثرات خاصة
+  LABEL_SQUARE_FOOTAGE: المساحة
+  LABEL_STAFF: الموظفون
+  LABEL_STORY: قصة
+  LABEL_STUDIO: استوديو
+  LABEL_TARGETTED_AUDIENCE: الجمهور المستهدف
+  LABEL_THEME: المظهر
+  LABEL_TUTORIEL: البرنامج التعليمي
+  LABEL_USERINTERFACE: واجهة المستخدم
+  LABEL_THEME_MOVIE_ADAPTATION: تعديل الفيلم
+  LABEL_THEME_PREHISTORY: ما قبل التاريخ
+  LABEL_THEME_ARCHEOLOGY: علم الآثار
+  LABEL_THEME_POSTAPOCALYPTIC: آخر المروع
+  LABEL_THEME_ATLANTIS: اتلانتيس
+  LABEL_THEME_RELIGIOUS: الدينية
+  LABEL_THEME_ORGANIZED_CRIME: الجريمة المنظمة
+  LABEL_THEME_CROSSOVER: عبر
+  LABEL_THEME_DESERT: الصحراء
+  LABEL_THEME_COMEDY: كوميديا
+  LABEL_THEME_DRAGON: التنين
+  LABEL_THEME_EROTIC: مثير
+  LABEL_THEME_SPY: الجاسوس
+  LABEL_THEME_FANTASY: الخيال
+  LABEL_THEME_GHOST: شبح
+  LABEL_THEME_HISTORY: التاريخ
+  LABEL_THEME_HORROR: الرعب
+  LABEL_THEME_MEDICAL: طبي
+  LABEL_THEME_OCEAN: المحيط
+  LABEL_THEME_ARABIAN_NIGHTS: الليالي العربية
+  LABEL_THEME_MYTHOLOGY: الأساطير
+  LABEL_THEME_NINJA: النينجا
+  LABEL_THEME_PARK: منتزه
+  LABEL_THEME_PIRATES: القراصنة
+  LABEL_THEME_SCIENCE_FICTION: الخيال العلمي
+  LABEL_THEME_SUPER_HEROS: البطل الخارق
+  LABEL_THEME_VAMPIRE: مصاص الدماء
+  LABEL_THEME_TIME_TRAVEL: السفر عبر الزمن
+  LABEL_THEME_WESTERN: غربي
+  LABEL_THEME_ZOMBIE: الاموات الاحياء
+  LABEL_THEME_MEDIEVAL: العصور الوسطى
+  LABEL_THEME_GAMEDEV: مطور اللعبة
+  LABEL_THEME_HACK: الإختراق
+  LABEL_THEME_HUNT: مطاردة
+  LABEL_THEME_ANIME: أنيم
+  LABEL_THEME_MILITARY: العسكرية
+  LABEL_THEME_INDUSTRIALIZATION: التصنيع
+  LABEL_THEME_PET: حيوان أليف
+  LABEL_THEME_FOOTBALL: كرة القدم
+  LABEL_THEME_SOCCER: كرة القدم
+  LABEL_THEME_CARTOON: رسوم متحركة
+  LABEL_THEME_COOK: طبخ
+  LABEL_THEME_URBAN: حضري
+  LABEL_THEME_KAIJU: كايجو
+  LABEL_THEME_EVOLUTION: التطور
+  LABEL_THEME_CYBERPUNK: السايبربانك
+  LABEL_THEME_STEAMPUNK: Steampunk
+  LABEL_THEME_TRANSPORTATION: النقل
+  LABEL_THEME_MUSIC: موسيقى
+  LABEL_TYPE_RTT: RTT
+  LABEL_TYPE_4X: 4X
+  LABEL_TYPE_ACTION_ADVENTURE: مغامرة الحركة
+  LABEL_TYPE_ACTION: االإتارة
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_VERSUS_FIGHTING: ضد القتال
+  LABEL_TYPE_PLATFORMS: المنصات
+  LABEL_TYPE_SHOOT: أطلاق النار
+  LABEL_TYPE_SHOOT_EM_UP: "\_تبادل لاطلاق النار"
+  LABEL_TYPE_FPS: FPS
+  LABEL_TYPE_TPS: TPS
+  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_OPEN_WORLD: عالم مفتوح
+  LABEL_TYPE_HTA_LIKE: HTA-like
+  LABEL_TYPE_INFILTRATION: التسلل
+  LABEL_TYPE_SURVIVAL: البقاء على قيد الحياة
+  LABEL_TYPE_HORROR: الرعب
+  LABEL_TYPE_ADVENTURE: المغامرة
+  LABEL_TYPE_INTERACTIVE_FICTION: الخيال التفاعلي
+  LABEL_TYPE_INTERACTIVE_MOVIE: فيلم تفاعلي
+  LABEL_TYPE_CHAT: الدردشة
+  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_EROGE: Eroge
+  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_VISUAL_NOVEL: الرواية البصرية
+  LABEL_TYPE_MYSTERY_LIKE: غموض
+  LABEL_TYPE_RPG: آر بي جي
+  LABEL_TYPE_ACTION_RPG: االإتارة آر بي جي
+  LABEL_TYPE_DUNGEON_CRAWLER: Dungeon crawler
+  LABEL_TYPE_MMORPG: MMO-RPG
+  LABEL_TYPE_DUNGEON: Dungeon
+  LABEL_TYPE_CROOK_LIKE: Crook-like
+  LABEL_TYPE_TACTICAL_RPG: آر بي جي التكتيكية
+  LABEL_TYPE_REFLEXION: اللغز الكلاسيكي
+  LABEL_TYPE_MAZE: متاهة
+  LABEL_TYPE_HIDDEN_OBJECT: الكائنات المخفية
+  LABEL_TYPE_PUZZLE: الألغاز
+  LABEL_TYPE_SIMULATION: المحاكاة
+  LABEL_TYPE_ANIMALS: الحيوانات
+  LABEL_TYPE_GOD_GAME: God-game
+  LABEL_TYPE_FARMING: الزراعة
+  LABEL_TYPE_LIVING_ORGANISM: كائن حي
+  LABEL_TYPE_SPORT: رياضة
+  LABEL_TYPE_MANAGEMENT: الإدارة
+  LABEL_TYPE_ECONOMY: الاقتصاد
+  LABEL_TYPE_CITY_BUILDER: البناء مدينة
+  LABEL_TYPE_GOVERNMENT: الحكومة
+  LABEL_TYPE_VEHICLE: مركبة
+  LABEL_TYPE_RACING: سباق
+  LABEL_TYPE_DRIVE: سياقة
+  LABEL_TYPE_FLY: الطيران
+  LABEL_TYPE_SPACE: الفضاء
+  LABEL_TYPE_SUBMARINE: الغواصة
+  LABEL_TYPE_TRAIN: القطار
+  LABEL_TYPE_STRATEGY: الاستراتيجية
+  LABEL_TYPE_RTS: RTS
+  LABEL_TYPE_MOBA_LIKE: Moba-like
+  LABEL_TYPE_TOWER_DEFENSE: برج الدفاع
+  LABEL_TYPE_TURN_BASED: Turn based
+  LABEL_TYPE_ARTILLERY: المدفعية
+  LABEL_TYPE_CASUAL: عارض
+  LABEL_TYPE_BREAKOUT: الخروج
+  LABEL_TYPE_RYTHM: إيقاع
+  LABEL_TYPE_CLICKER_GAME: لعبة الفرس
+  LABEL_TARGETTED_AUDIENCE_YOUNG: شاب
+  LABEL_TARGETTED_AUDIENCE_ALL: الجميع
+  LABEL_TARGETTED_AUDIENCE_MATURE: ناضج
+  LABEL_GAME_SIZE_INDIE: Indie
+  LABEL_GAME_SIZE_NORMAL: عادي
+  LABEL_GAME_SIZE_BIG: كبير
+  LABEL_GAME_SIZE_AAA: AAA
+  LABEL_MAP_SIZE_TINY: صغير جدا
+  LABEL_MAP_SIZE_SMALL: صغير
+  LABEL_MAP_SIZE_MEDIUM: متوسط
+  LABEL_MAP_SIZE_LARGE: كبير
+  LABEL_MAP_SIZE_HUGE: ضخم
+  LABEL_DIFFICULTY_EASY: سهل
+  LABEL_DIFFICULTY_NORMAL: عادي
+  LABEL_DIFFICULTY_HARD: صعب
+  LABEL_DIFFICULTY_INSANE: مجنون
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: '[b]%s[/b] أصدر منصة جديدة: [b]%s[/b]'
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: '[b]%s[/b] تقاعد المعروف [b]%s[/b], تبكي الجماهير'
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: '[b]%s[/b] ستصدر منصة جديدة في غضون بضعة أشهر [b]%s[/b] يجب أن تستمر لسنوات'
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: '[b]%s[/b] تعلن عن نهاية حياة  المعروفة جيدًا [b]%s[/b]'
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: 'لقد فتحت الرخصة ل [b]%s[/b], إنها تكلف [b]%s$[/b]'
+  LABEL_PLATFORM_RELEASED_TITLE: تم إصدار المنصة
+  LABEL_PLATFORM_DISCONTINUED_TITLE: توقف المنصة
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: المنصة القادمة
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: نهاية  منصة
+  LABEL_PLATFORM_UNLOCKED_TITLE: منصة تم شراؤها
+  LABEL_CLICK_TO_CLOSE: انقر للإغلاق
+  LABEL_SHOP_UI: متجر
+  LABEL_DESK: مكتب
+  LABEL_BOOKSHELF: رف الكتب
+  LABEL_WASTEBASKET: سلة المهملات
+  LABEL_ASSIGN_EMPLOYEE: الموظفون
+  LABEL_NEW_GAME: لعبة جديدة
+  LABEL_MODDING: التعديل
+  LABEL_ARTWORK: عمل فني
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: 'بفضل تجربتك الحديثة ، لقد فتحت نوعًا جديدًا [b]%s[/b]'
+  LABEL_UNLOCK_GAME_TYPE_TITLE: 'نوع غير مقفل: %s'
+  LABEL_MAGAZINE_0: لعبة المعجبين
+  LABEL_MAGAZINE_1: لاعب الكمبيوتر
+  LABEL_MAGAZINE_2: لعبة المهوس
+  LABEL_MAGAZINE_3: انتهت اللعبة
+  LABEL_MAGAZINE_4: مركز المهووسين
+  LABEL_MAGAZINE_5: اللعبة 2
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: موسوعة اللاعب
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: انتهت اللعبة
+  LABEL_SCORE: النتيجة
+  LABEL_WAGE_INCREASES_TITLE: زيادة الأجور
+  LABEL_WAGE_INCREASES_DESCRIPTION: 'لموظفون التاليون لديهم زيادة في الأجور :'
+  LABEL_PRESS_KEY: اضغط
+  LABEL_WORD_OR: أو
+  LABEL_INPUT_ACTION_UI_ROTATE: لتدوير العنصر
+  LABEL_INPUT_ACTION_UI_DELETE: لبيع العنصر
+  LABEL_INPUT_ACTION_UI_PAUSE: لإيقاف / وتشغيل اللعبة مؤقتًا
+  LABEL_INPUT_ACTION_UI_CANCEL: للإلغاء
+  LABEL_INPUT_ACTION_UI_REPEAT: لوضع عدة عناصر
+  LABEL_CATCHPHRASE_1_0: مضيعة للوقت
+  LABEL_CATCHPHRASE_1_1: وضعوا كل شيء في التريلر
+  LABEL_CATCHPHRASE_1_2: لا تشتريه
+  LABEL_CATCHPHRASE_1_3: نقص في الإبداع
+  LABEL_CATCHPHRASE_1_4: الرداءة  في نهايتها
+  LABEL_CATCHPHRASE_1_5: أسوأ نتيجة ممكنة
+  LABEL_CATCHPHRASE_2_0: خيبة أمل غير دقيقة
+  LABEL_CATCHPHRASE_2_1: هل قال شخص ما دون المتوسط؟
+  LABEL_CATCHPHRASE_2_2: هل قال أحدهم شيئا سيئا؟
+  LABEL_CATCHPHRASE_2_3: تجربة مخيبة للآمال
+  LABEL_CATCHPHRASE_2_4: 'كلمة واحدة: فارغة'
+  LABEL_CATCHPHRASE_2_5: كان يجب إلغاؤها
+  LABEL_CATCHPHRASE_3_0: يتجه مباشرة للكارثة
+  LABEL_CATCHPHRASE_3_1: خيبة أمل تطابق طموحاته
+  LABEL_CATCHPHRASE_3_2: وضعوا كل شيء فيه ، لكنهم لم يفعلوا الكثير
+  LABEL_CATCHPHRASE_3_3: لو أنهم فقط صنعوا لعبة
+  LABEL_CATCHPHRASE_3_4: تجربة مؤلمة
+  LABEL_CATCHPHRASE_3_5: لقد رأينا ما هو أسوأ ، لكننا رأينا قبل كل شيء أفضل!
+  LABEL_CATCHPHRASE_4_0: صعب جدا لبعض الأفكار الجيدة
+  LABEL_CATCHPHRASE_4_1: لعبة ليست ضرورية للغاية
+  LABEL_CATCHPHRASE_4_2: فكرة سيئة
+  LABEL_CATCHPHRASE_4_3: اللعبة التي أرادت أن تكون مبتكرة ...
+  LABEL_CATCHPHRASE_4_4: في سوء فهم ، يمكننا تشغيله مرة أخرى
+  LABEL_CATCHPHRASE_4_5: أفضل لحظة؟ عندما يتوقف
+  LABEL_CATCHPHRASE_5_0: الحد الأدنى للخدمة
+  LABEL_CATCHPHRASE_5_1: وعاء ذوبان لا طعم له
+  LABEL_CATCHPHRASE_5_2: تقرير مختلط جدا
+  LABEL_CATCHPHRASE_5_3: رأينا ما هو أفضل ، لكننا رأينا ما هو أسوأ!
+  LABEL_CATCHPHRASE_5_4: 'بالتأكيد, إنها ليست لعبة العام'
+  LABEL_CATCHPHRASE_5_5: لعبة جوفاء ذات عمر محدود
+  LABEL_CATCHPHRASE_6_0: بدون عمود
+  LABEL_CATCHPHRASE_6_1: لعبة مبسطة ولكنها زائدة عن الحاجة
+  LABEL_CATCHPHRASE_6_2: متواضع ولكنه مثير للاهتمام
+  LABEL_CATCHPHRASE_6_3: متعة لكن ضحلة
+  LABEL_CATCHPHRASE_6_4: مفهوم مثير للاهتمام دمرته فرصة موجودة في كل مكان
+  LABEL_CATCHPHRASE_6_5: قضيت أوقاتًا جيدة
+  LABEL_CATCHPHRASE_7_0: الرصانة والكفاءة
+  LABEL_CATCHPHRASE_7_1: محتوى غني مدفوع بالأداء الضعيف
+  LABEL_CATCHPHRASE_7_2: جماليات رائعة ، آليات مثالية
+  LABEL_CATCHPHRASE_7_3: مفهوم ممتاز مع محتوى محدود
+  LABEL_CATCHPHRASE_7_4: مدخلة مرضية؟
+  LABEL_CATCHPHRASE_7_5: لسنا بعيدين عن الجوهرة
+  LABEL_CATCHPHRASE_8_0: متعة في أنقى الحالة
+  LABEL_CATCHPHRASE_8_1: نسيم منعش
+  LABEL_CATCHPHRASE_8_2: يجب أن يكون للأحزاب مع الأصدقاء
+  LABEL_CATCHPHRASE_8_3: التأليف متباعد حقًا
+  LABEL_CATCHPHRASE_8_4: جمال محجوب
+  LABEL_CATCHPHRASE_8_5: ممتعة ومكثفة
+  LABEL_CATCHPHRASE_9_0: واحدة من أفضل ألعاب العام
+  LABEL_CATCHPHRASE_9_1: اللعبة النهائية؟
+  LABEL_CATCHPHRASE_9_2: آلة مزيتة تمامًا
+  LABEL_CATCHPHRASE_9_3: إنه ضخم
+  LABEL_CATCHPHRASE_9_4: تجربة رائعة
+  LABEL_CATCHPHRASE_9_5: عمل رائع
+  LABEL_CATCHPHRASE_10_0: جوهرة اللعب
+  LABEL_CATCHPHRASE_10_1: تحفة من التدريج
+  LABEL_CATCHPHRASE_10_2: يجب أن يكون لديك
+  LABEL_CATCHPHRASE_10_3: واحدة من أفضل الألعاب مؤخرًا
+  LABEL_CATCHPHRASE_10_4: ساعات اللعب ، أوقات جيدة فقط
+  LABEL_CATCHPHRASE_10_5: هذه اللعبة ستضع عقول الجميع
+  LABEL_CATCHPHRASE_11_0: لكمة فنية
+  LABEL_CATCHPHRASE_11_1: جوهرة نادرة من الجمال
+  LABEL_CATCHPHRASE_11_2: تحية لألعاب الفيديو
+  LABEL_CATCHPHRASE_11_3: التأليف الذي يعيد تحديد مكانة ألعاب الفيديو
+  LABEL_CATCHPHRASE_11_4: إذا كان الكمال لعبة
+  LABEL_CATCHPHRASE_11_5: The Twentieth World Wonder
+  LABEL_CREATE_SEQUEL: إنشاء تسلسل
+  LABEL_NEW_IP: عنوان IP جديد
+  LABEL_POSTMORTEM: بعد الوفاة
+  LABEL_EMPTY_STUDIO: تحذير لا يحتوي هذا الاستوديو على أي سطح مكتب به جهاز كمبيوتر!
+  LABEL_MATCH_EXCELLENT: تطابق ممتاز
+  LABEL_MATCH_GOOD: تطابق جيد
+  LABEL_MATCH_OK: تطابق جيد
+  LABEL_MATCH_POOR: تطابق ضعيف
+  LABEL_POSTMORTEM_TITLE: بعد الوفاة (٪ s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 'لم نتعلم شيئًا جديدًا من [b]٪ s [/ b]'
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: ' هنا ما تعلمناه من [b]٪ s [/ b]:٪ s '
+  LABEL_POSTMORTEM_MATCH: ' [ul] - المطابقة بين [i]٪ s [/ i] و [i]٪ s [/ i] هي [b]٪ s [/ b] [/ ul] '
+  LABEL_POSTMORTEM_CAPACITY: ' [ul] - لإدارة [b]٪ s [/ b] لنوع اللعبة [b]٪ s [/ b] [/ ul] '
+  LABEL_MARKET_SHARE: حصة السوق
+  LABEL_LICENSE_COST: الترخيص
+  LABEL_OWNED: مملوكة
+  LABEL_WEEK_COST: تكلفة التطوير
+  LABEL_CATALOG_SIZE: حجم كتالوج اللعبة
+  LABEL_PLATFORM_LIST: قائمة المنصة
+  LABEL_IDLE: الخمول
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    عثر موظفو استوديو [b]٪ s [/ b] على قطة طائشة مخبأة خلف بعض النفايات. هذه
+    القطة محببة جدًا ، وقد أعطاها الموظفون بالفعل اسمًا. ماذا تريد ان تفعل؟
+  LABEL_ADOPT_CAT_TITLE: القط الشارد
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
+    في Blue Studio ، أصدر أخوان للتو لعبة جديدة. إنها لعبة تغيير ، وظهر نوع لعبة
+    جديد. مثل الغموض
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: تم اختراع الغموض
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
+    أصدرت DustStar للتو لعبة جديدة أحدثت ثورة في صناعة الألعاب. وقد خلق هذا
+    النوع HTA
+  LABEL_UNLOCK_HTA_LIKE_TITLE: تم اختراع HTA-like
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
+    صنع 3 رفاق في مرآب لعبة جديدة . إنها مشهورة لدرجة أنها أنشأت نوع لعبة جديد ،
+    Crook
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: تم اختراع لعبة Crook-like
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
+    ثلاثة مصممين أمريكيين صنعوا وزارة الدفاع للعبة مشهورة.
+      نوع موبا قد أنشأ
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: تم اختراع Moba -like
+  LABEL_BROKEN_COFFEEMAKER_TITLE: آلة صنع القهوة المكسورة
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    موظفيك في الاستوديو [b]٪ s [/ b] مدمنون على القهوة. لكن ماكينة القهوة قد
+    خدمت آخر كوب لها ... ماذا تريد أن تفعل؟
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
+    الأرانب ، الأرانب في كل مكان. إنهم يقومون ببعض الضوضاء ... إنهم يركضون في كل
+    مكان. لكن لا أحد يلاحظهم ، ويستمر الناس في العمل ...
+  LABEL_RABBIT_INVASION_TITLE: غزو ​​الأرنب
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
+    وجد الخبراء أن الألعاب يمكن أن تستهدف جمهورًا محددًا. لقد نشروا ورقة حول 3
+    جمهور مختلف: الشباب ، الجميع وناضجون
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
+    تم إطلاق فيروس جديد. ويستهدف فقط شركات ألعاب الفيديو. يبدو الأمر صعبًا ،
+    ولكنه يبطئ المؤشرات ويعيد تشغيل أجهزة الكمبيوتر بشكل عشوائي. سيكون لهذا
+    بالتأكيد تأثير على إنتاجية موظفيك. فقط [b]٪ s [/ b] تتعرض للهجوم
+  LABEL_VIRUS_UNLEASHED_TITLE: تم إطلاق الفيروس
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
+    قام فريق Smitties ، المشهور بمراجعات الألعاب ، بنشر مقطع فيديو جديد للتو.
+    وهذه المرة ، استعرض أحد ألعابك [b]٪ s [/ b]. سيكون لهذا بالتأكيد تأثير على
+    عمليات البيع.
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: إعلانات مجانية
+  LABEL_LOAN_TITLE: قرض الملاذ الأخير
+  LABEL_LOAN_DESCRIPTION: >
+    تحتاج إلى بعض المال الإضافي ، يمكننا مساعدتك. يمكنك استرداد نفسك بقرض [b]٪ s
+    $ [/ b]. معدلات الفائدة لدينا منخفضة مثل فقط [b]٪ s ٪٪ [/ b] ، ولديك [b]٪ s
+    [/ b] أسابيع لتسديدها. انها مثل الحياة كلها لشركة مثل لك. نحن الخيار الأخير
+    ، دع نفسك يغري.
+  LABEL_BURNING_SERVER_DESCRIPTION: >
+    هل رائحة مثل النار؟! وصلت خوادمك إلى الحد الأقصى لسعتها. حان الوقت لشراء
+    خوادم جديدة أو لإغلاق لعبة على الإنترنت!
+  LABEL_BURNING_SERVER_TITLE: هذا جيد
+  LABEL_SMOKING_SERVER_DESCRIPTION: >
+    أنت تصنع لعبة جيدة جدًا عبر الإنترنت ، وتبيعها جيدًا. ومع ذلك تصل خوادمك إلى
+    الحد الأقصى لسعتها ، حيث يتم استخدام معظمها بنسبة 90 ٪٪ أو أكثر. يجب عليك
+    شراء خوادم جديدة.
+  LABEL_SMOKING_SERVER_TITLE: تحذير من سعة الخادم
+  LABEL_PAYLOAN_TITLE: سدد قرضًا
+  LABEL_PAYLOAN_DESCRIPTION: 'لقد انتهى الآن السداد المجدول ، عليك أن تدفع [b]٪ s $ [/ b].'
+  LABEL_SELL_STUDIO_TITLE: بيع استوديو
+  LABEL_SELL_STUDIO_DESCRIPTION: 'أنت تبيع الاستوديو [b]٪ s [/ b] ، هل تريد المتابعة ؟'
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >-
+    نظرًا لأن [b]٪ s [/ b] هو الاستوديو الأخير أو أنه مشغول بالعمل في مشروع ، لا
+    يمكنك بيعه
+  LABEL_BUILDING_AREA: المساحة٪ s m²
+  LABEL_BUILDING_BUY: السعر
+  LABEL_BUILDING_RENT: الإيجار
+  LABEL_BUILDING_CONVENTION: مركز المعارض
+  LABEL_BUILDING_TYPE: مبنى
+  LABEL_BUILDING_ROAD: الطريق
+  LABEL_BUILDING_STREET: الشارع
+  LABEL_BUILDING_APARTMENT: شقة
+  LABEL_BUILDING_HOTEL: فندق
+  LABEL_BUILDING_THEATER: مسرح
+  LABEL_BUILDING_TOWER: البرج
+  LABEL_BUILDING_STUDIO: استوديو
+  LABEL_BUILDING_BUILDING: الإقامة
+  LABEL_BUILDING_GRASS: العشب
+  LABEL_BUILDING_SQUARE: مربع
+  LABEL_BUILDING_CAFE: قهوة
+  LABEL_BUILDING_RESTAURANT: مطعم
+  LABEL_BUILDING_PIZZERIA: بيتزا
+  LABEL_BUILDING_GYM: صالة الألعاب الرياضية
+  LABEL_BUILDING_OFFICE: Office
+  LABEL_NO_GAME_AVAILABLE: لا توجد لعبة متاحة
+  LABEL_NO_MONEY: غالي جدًا
+  LABEL_COMPUTER: الكمبيوتر
+  LABEL_PLANT: النبات
+  LABEL_TABLEPLANT: جدول
+  LABEL_PRINTER: طابعة
+  LABEL_COFFEEMACHINE: آلة القهوة
+  LABEL_DARKMETALTABLEDESK: مكتب معدني غامق
+  LABEL_METALDESK: مكتب معدني
+  LABEL_METALLARGEDESK: مكتب معدني كبير
+  LABEL_METALTABLEDESK: مكتب معدني
+  LABEL_WOODDESK: مكتب خشب
+  LABEL_WOODLARGEDESK: مكتب خشب كبير
+  LABEL_WOODTABLEDESK: مكتب خشب
+  LABEL_WATERTANK: نافورة المياه
+  LABEL_WHITEBOARD: السبورة
+  LABEL_WOODBOOKSHELF: رف الكتب
+  LABEL_METALBOOKSHELF: رف معدني
+  LABEL_HOLIDAY: عطلة
+  LABEL_NO_COMPUTER: لا يوجد كمبيوتر
+  LABEL_NO_STUDIO: لا يوجد استوديو
+  LABEL_EMPLOYEE_CAPACITY: Prod.
+  LABEL_STUDIO_CAPACITY: Studio prod.
+  LABEL_EMPLOYEE_TOOLTIP: الإنتاجية (Prod.) تعزز كفاءة الموظف
+  LABEL_STUDIO_TOOLTIP: تزيد الإنتاجية (Prod.) من كفاءة الاستوديو
+  LABEL_BUILD_STUDIO: تحرير الاستوديو
+  LABEL_WALL: الجدار
+  LABEL_PILLAR: عمود
+  LABEL_FLOOR: الكلمة
+  LABEL_HIRING_DATE: تاريخ الاستئجار
+  LABEL_WORK: الحالة
+  LABEL_NUMBER_OF_GAME_PRODUCED: الألعاب المنتجة
+  LABEL_DESIGN_POINT_PRODUCED: عدد نقاط التصميم المنتجة
+  LABEL_DEVELOPMENT_POINT_PRODUCED: عدد نقاط التطوير المنتجة
+  LABEL_POLISH_POINT_PRODUCED: عدد نقاط التلميع المنتجة
+  LABEL_PRODUCTIVITY: الإنتاجية
+  LABEL_MONEY_EFFICIENCY: فعالية التكلفة
+  LABEL_SKILLS: المهارات
+  LABEL_HOME: الصفحة الرئيسية
+  LABEL_MONTH: شهر
+  LABEL_ORDER_BY: ترتيب حسب
+  LABEL_BUY_PRICE: سعر الشراء
+  LABEL_RENT_PRICE: سعر الإيجار
+  LABEL_NO_STUDIO_AVAILABLE: لا يتوفر استوديو
+  LABEL_REAL_ESTATE: العقارات
+  LABEL_STAFF_SIZE: حجم الموظفين
+  LABEL_CREATION_DATE: تاريخ الإنشاء
+  LABEL_STUDIO_LIST: قائمة الاستوديو
+  LABEL_NO_STUDIO_FOUND: لم يتم العثور على استوديو
+  LABEL_PRODUCTIVITY_BONUS: مكافأة الإنتاجية
+  LABEL_SKILLS_AVERAGE: المهارات (متوسط)
+  LABEL_VSYNC: VSYNC
+  LABEL_BORDERLESS_WINDOW: نافذة بلا حدود
+  LABEL_GAMEEDITION_SUBMIT: |
+    لديك الكثير من المعجبين. أنت معروف جيدًا بما يكفي لتحرير الألعاب.
+  LABEL_GAMEEDITION_RECEIVE: |
+    بعد النجاح الذي حققته مؤخرًا ، سيتصل بك الناشرون في أي وقت لتقديم العروض.
+  LABEL_WORLDMAP: |
+    نظرتم للأعلى ، هناك عالم كامل ينتظرك في الخارج.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
+    تظهر أول مجلات ألعاب الفيديو ، هل تريد الإعلان عن إحدى لعبتك فيها؟
+  LABEL_MARKETING_CAMPAIGN_TV: |
+    حان الوقت لجعل ألعابك معروفة من خلال الإعلانات التلفزيونية.
+  LABEL_MARKETING_CAMPAIGN_INTERNET: |
+    يبدأ عصر الإنترنت ، يمكنك الوصول إلى ملايين الأشخاص من خلال إعلان بانر بسيط.
+  LABEL_CONCURRENT_STUDIOS_LIST: >
+    الاستوديو الخاص بك ينمو ، لقد حان الوقت لدراسة السوق وإلقاء نظرة خاطفة على
+    المنافسة.
+  LABEL_CONCURRENT_STUDIOS_BUY: |
+    لديك المتداول في العجين ، وربما حان الوقت لشراء استوديوهات المتنافسة؟
+  LABEL_FURNITURES_COMMON_BUY: |
+    حان الوقت الآن للحصول على تجديد أنيق للمكاتب.
+  LABEL_EMPLOYEES_HIRE: >
+    ينمو الاستوديو الخاص بك وينتج المزيد من الألعاب ويحسن من جودته. ولكن أولا ،
+    تحتاج إلى تجنيد.
+  LABEL_STUDIO_RENT: >
+    أنت الآن تشعر أنك محاصر في الاستوديو الصغير الخاص بك ، اذهب واحصل على موقعك
+    التالي.
+  LABEL_STUDIO_BUILD: |
+    نجاحك يسمح لك ببناء استوديوهاتك الخاصة.
+  LABEL_CONVENTION_ORGANIZE: |
+    مع مائة ألف شخص يدعمونك ، يمكنك الآن تنظيم مؤتمراتك الخاصة.
+  LABEL_CONVENTION_PARTICIPATE: >
+    جدير بالذكر أن كتالوج اللعبة يستحق المشاهدة ، فالمشاركة في الاتفاقيات قد
+    تساعدك على تحسين ظهورك.
+  LABEL_STUDIO_CUSTOMIZE: |
+    جدرانك المملة تقوض إنتاجيتك؟ الوقت لإعادة تصميمه.
+  LABEL_GAME_ONLINE: >
+    كيف تبقي لاعبين لديك لاصق على الشاشة؟ الإنترنت ، وصنع الألعاب عبر الإنترنت
+    وسيتم إدمانها!
+  LABEL_FURNITURES_SERVERS_BUY: >
+    المزيد من المكاتب ، والكراسي ، والمزيد من أجهزة الكمبيوتر ، والمزيد من
+    اللوحات البيضاء ، والمزيد!
+  LABEL_DIGITAL_STORE: |
+    غير مادية ، تبدأ في سماع ذلك وأنت تعرف بالفعل أنه المستقبل.
+  LABEL_POSTMORTEM_FEATURE: >
+    مبروك ، لقد قدمت لعبتك الأولى. يمكنك الآن المتابعة إلى الوفاة من أجل مساعدتك
+    في تقييم تطورها وتصميمها وتلميعها
+  LABEL_NEW_GAME_FEATURE: >
+    هل أنت مستعد لاستعادة التاريخ الملحمي لألعاب الفيديو منذ بدايتها؟ مرحبًا بك
+    في City Game Studio. البدء وإنشاء أول لعبة.
+  LABEL_LOADING: تحميل
+  LABEL_NAME: الاسم
+  LABEL_SALARY: الراتب
+  LABEL_NO_SCORE: لم يتم تحميل أي نقاط حتى الآن!
+  LABEL_CAPACITY_STORY_FEATURE: >
+    اللعبة الجيدة جيدة دائمًا ، والقصة الجيدة جيدة دائمًا. ماذا عن لعبة جيدة مع
+    قصة جيدة؟
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
+    ما هو الغرض من هذا الزر؟ تحتاج إلى إدارة واجهة المستخدم للألعاب الخاصة بك
+  LABEL_CAPACITY_NETWORK_FEATURE: >
+    لقد حان الوقت ، تلعب لعبة فيديو بشكل رائع ، ولكن لعبها مع الأصدقاء أفضل!
+    تحتاج إلى إدارة الشبكة للألعاب الخاصة بك
+  LABEL_CAPACITY_MODDING_FEATURE: >
+    تم بالفعل تعديل بعض الألعاب من قبل اللاعبين. بفضل ذلك ، يمكنك بيع المزيد من
+    اللعبة. لقد حان الوقت لمساعدة هؤلاء المتسللين ، والعمل على واجهة برمجة
+    تطبيقات مناسبة: للألعاب الخاصة بك
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
+    تؤثر الأفلام على ألعاب الفيديو ، نحتاج إلى إدارة cutscenes أثناء إنشاء لعبة
+    جديدة
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
+    تلعب لعبة جديدة مثل التعلم. الأمر ليس سهلاً ، لذلك قررت إنشاء برنامج تعليمي
+    للألعاب الجديدة.
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
+    ريك وباريس يحملان حياتهم الخاصة. الشبكات الاجتماعية موجودة هنا للأبد ،
+    ويمكنك استخدامها لتسويق ألعابك!
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
+    أظهرت دراسة حديثة أن إرسال رسائل البريد الإلكتروني غير المرغوب فيها يمكن أن
+    يزيد بشكل كبير وضوح الألعاب الخاصة بك. البريد المزعج هو الكلمة الجديدة في
+    المزاج و يمكنك استخدامها لتسويق الألعاب الخاصة بك!
+  LABEL_GAMEPORT_FEATURE: >
+    الاحلام تتحقق. وحدة تحكم جديدة تم إصدارها للتو! يمكنك الافراج عن لعبة عبر
+    منصة. دعنا نذهب ، جربه!
+  LABEL_GAME_CREATION: قم بتقدير عبء العمل على كل جزء من اللعبة عن طريق ضبط كل مقياس
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
+    يمكنك الاطلاع على عروض الناشرين. يعد نشر لعبة طريقة سهلة لتصبح شعبية ونشر
+    ألعاب أكبر.
+  LABEL_WORLDMAP_DESCRIPTION_0: >
+    قم بزيارة المدينة ، وإلقاء نظرة على المنافسة ، وتحقق من مكان الاستوديو الخاص
+    بك.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
+    يسمح بتنظيم حملة تسويقية من خلال العديد من مجلات الألعاب. هذا سيزيد من وضوح
+    ألعابك.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: |
+    يتيح لك استئجار لوحات إعلانية لوضع ملصقات لألعابك معروضة حاليًا.
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
+    يسمح لك بتنظيم حملات إعلانية تلفزيونية. إنه مكلف ، لكن من لا يشاهد التلفاز
+    هذه الأيام؟!
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: |
+    يمكنك الآن عرض إعلان في مواقع الويب. إنها رخيصة ، وتضم المزيد من اللاعبين.
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
+    من الممكن الآن إنشاء عرض على شبكة الإنترنت العالمية لإظهار العالم بوجود
+    ألعابك.
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: |
+    تستطيع أن ترى منافسيك على خريطة المدينة ، والآن يمكنك مشاهدتها.
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
+    يعتبر شراء منافسيك وسيلة سهلة لكسب الكثير من المعجبين ، بالإضافة إلى توسيع
+    نطاق شركتك.
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: |
+    أثناء النظر إلى إحدى استوديوهاتك ، يمكنك الآن شراء أثاث جديد.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
+    ضع في اعتبارك أن أفضل الألعاب يتم إنتاجها بواسطة فرق قوية في التصميم
+    والتطوير والتلميع.
+  LABEL_STUDIO_RENT_DESCRIPTION_0: |
+    يسمح لك باستئجار مباني جديدة. سيتيح لك ذلك العمل في عدة مشاريع في نفس الوقت.
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
+    يتيح لك بناء استوديوهات جديدة. إنها مكلفة ، وهي واحدة من الطرق الوحيدة
+    للحفاظ على النمو بلا حدود.
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
+    بالإضافة إلى القدرة على إنشاء استوديوهات ، يمكنك أيضًا إنشاء مراكز مؤتمرات ،
+    وهو أمر ضروري لتنظيم المؤتمرات.
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: |
+    إذا كنت بحاجة إلى مراكز مؤتمرات ، فيمكنك تنظيم مؤتمرات.
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: |
+    يمكنك المشاركة في الاتفاقيات ، مما يزيد من وضوح ألعابك من وقت لآخر.
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
+    يمكنك إعادة طلاء الجدران وتغيير المنشورات وإعادة أرضيات الاستوديوهات الخاصة
+    بك.
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: |
+    سيتيح لك شراء الخوادم إنشاء ألعاب عبر الإنترنت وكذلك بوابة إلكترونية.
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
+    يمكنك إنشاء ألعاب عبر الإنترنت. أنها عادة ما تكون أقل تكلفة ، ولكن يجب على
+    اللاعبين دفع اشتراك شهري.
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
+    يمكنك إنشاء متجر ألعاب غير ملموس ، وأخيراً إصدار ألفا الأول الذي سيتعين
+    تحسينه.
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
+    يمكنك تقديم عروض من الناشرين ، فهي تجلب لك الكثير من المال ولكن حذار من
+    التصريحات السيئة.
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
+    الوفاة هي تقرير عما حدث بشكل صحيح أو خاطئ أثناء تطوير اللعبة ، فهو يوفر لك
+    أدلة.
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
+    يتيح لك إنشاء لعبة جيدة التقدم في City Game Studio وكسب المال والمعجبين
+    والخبرة.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
+    عند إنشاء لعبة ، يمكنك الآن اختيار الجمهور المستهدف ، وهذا له تأثير على
+    النتيجة النهائية ومبيعات اللعبة.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: |
+    لديك مقياس تصميم جديد عند إنشاء لعبة
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: |
+    لديك مقياس تصميم جديد عند إنشاء لعبة
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: |
+    لديك مقياس تطوير جديد عند إنشاء لعبة
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: |
+    لديك مقياس تطوير جديد عند إنشاء لعبة
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: |
+    لديك مقياس تلميع جديد عند إنشاء لعبة
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: |
+    لديك مقياس تلميع جديد عند إنشاء لعبة
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
+    يمكنك الإعلان على الشبكات الاجتماعية ، فهي مستهدفة للغاية ومكلفة وفعالة
+    للغاية
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
+    إرسال رسائل البريد الإلكتروني لن يكلفك شيئًا تقريبًا وسيؤثر على مبيعات
+    ألعابك
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: |
+    يمكنك نقل ألعابك إلى منصات جديدة ، إنها بسيطة وهناك حاجة لشخص واحد فقط.
+  LABEL_UNLOCK_GAMEGENRE: لقد اكتسبت خبرة في صنع الألعاب ، فأنت على استعداد لتطوير آليات ألعاب جديدة
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: |
+    يمكنك الآن فتح أنواع ألعاب جديدة. لكسب نقاط الخبرة ، عليك فقط نشر الألعاب
+  PLACEHOLDER_COMPANY_NAME: اسم الشركة
+  PLACEHOLDER_GAME_GENRE: نوع اللعبة
+  PLACEHOLDER_GAME_NAME: اسم اللعبة
+  PLACEHOLDER_PLAYER_NAME: اسمك
+  LABEL_VERSION_BETA: نسخة تجريبية
+  LABEL_BREAK_LAW: |
+    أنت على وشك خرق القانون.
+
+    هل تريد الاستمرار؟
+  LABEL_SUCCESS: نجحت
+  LABEL_FAILURE: الفشل
+  LABEL_CANNOT_INTERACT: لن تتمكن بعد الآن من التواصل مع٪ s حتى٪ s
+  LABEL_FAN_LOST: لقد أثر هذا على شعبيتك ، فستفقد مشجعي٪ s
+  LABEL_PENALTY_COST: استبعدت العدالة ، يجب أن تدفع٪ s $
+  LABEL_EMPLOYEE_HIRED: لقد عينت٪ s
+  LABEL_GAME_CRACKED: لقد تكسرت٪ s
+  LABEL_GENRE_STOLEN: لقد تعلمت٪ s
+  LABEL_STUDIO_SOLD: لقد باعوا٪ s
+  TOOLTIP_CONVENTION_LIST: |
+    حضر الاتفاقيات
+  TOOLTIP_FORCE_STUDIO: |
+    يجب عليك اختيار الاستوديو الذي ترغب في بيعه
+  TOOLTIP_CRACK_GAME: |
+    يجب عليك تحديد اللعبة التي تريد اختراقها
+  TOOLTIP_HIRE_STAFF: |
+    يجب عليك اختيار الموظف الذي ترغب في تعيينه
+  TOOLTIP_CONCURRENT_LOCKED: |
+    ستكون قادرًا على إعادة المحاولة مرة أخرى ضد٪ s من٪ s
+  TOOLTIP_TUTORIEL: |
+    ٪ s لإلغاء تأمين٪ s
+  TOOLTIP_EMAIL: |
+    قراءة الأخبار والبريد الخاص بك
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    يتيح لك فتح أنواع جديدة من الألعاب.
+  TOOLTIP_MANAGE_STUDIO: |
+    لإدارة الاستوديوهات الخاصة بك ، ترقية أجهزة الكمبيوتر ، تعيين الموظفين ...
+  TOOLTIP_GAMEPORT: ضع لعبة فيديو على منصة أخرى
+  TOOLTIP_POSTMORTEM: |
+    إنشاء تقرير بعد الوفاة.
+    مساعدة تقرير تشريح الجثة
+    قمت بإنشاء ألعاب أفضل
+  TOOLTIP_CREATE_GAME: أنشئ لعبة جديدة
+  TOOLTIP_STAFF: قائمة الموظفين
+  TOOLTIP_RECRUIT: قائمة المرشحين المحتملين المتاحة في المدينة
+  TOOLTIP_PORTFOLIO: أدرج كل اللعبة التي أجريتها حتى الآن
+  TOOLTIP_OPTION: المعلمة والخيارات
+  TOOLTIP_EXIT: رجوع إلى Linux
+  TOOLTIP_STUDIOS: قائمة الاستوديوهات الخاصة بك
+  TOOLTIP_STUDIOLIST: قائمة المكاتب المتاحة في المدينة
+  TOOLTIP_CONSTRUCT: |
+    جعل مبنى جديد ل
+    مكتب أو ل
+    استضافة اتفاقية
+  TOOLTIP_CONFERENCE: إدارة الاتفاقيات
+  TOOLTIP_MARKETING: إدارة حملاتك التسويقية
+  TOOLTIP_SELL: بيع مكتبك
+  TOOLTIP_SHOP: اشترِ أثاثًا وأشياء لمكتبك
+  TOOLTIP_BUILDMOD: الطلاء وتجميل مكتبك
+  TOOLTIP_ASSIGN: عيّن الموظف إلى المكتب
+  TOOLTIP_STUDIO_SELECT: قائمة الاستوديوهات الخاصة بك
+  TOOLTIP_ANNOUNCE_GAME: |
+    أعلن لعبة الفيديو.
+    يخلق الضجيج.
+  TOOLTIP_CONCURRENT: |
+    قائمة لعبة فيديو الشركات
+  TOOLTIP_STUDIO_COST: |
+    مجموع تكاليف الاستوديو. بما في ذلك الإيجار وكذلك تكلفة
+    صيانة المعدات (للخوادم على سبيل المثال)
+  TOOLTIP_MARKETING_COST: |
+    تكاليف الحملات التسويقية الجارية حاليا
+  TOOLTIP_SALARY_COST: |
+    راتب كل موظف
+  TOOLTIP_STEAM_MODS: |
+    ورشة البخار
+  LOADING_SCREEN_TIP_0: >
+    يتم تصنيف شركتك سرا بناءً على جودة الألعاب التي أنتجتها على مدار السنوات
+    الأربع الماضية
+  LOADING_SCREEN_TIP_1: |
+    يمكن للموظفين المثاليين تقديم طلباتهم تلقائيًا لتعزيز فرق الإنتاج الخاصة بك
+  LOADING_SCREEN_TIP_2: >
+    شاشة التحميل هذه موجودة فقط لتجعلك تنتظر ، بل إنها عبارة عن نوم (عشوائي (0 ،
+    50)) ينفجر
+  LOADING_SCREEN_TIP_3: |
+    يمنحك اكتشاف نوع لعبة جديد ميزة كبيرة على المنافسة
+  LOADING_SCREEN_TIP_4: |
+    إن إنتاج ألعاب مع منافسيك هو أفضل طريقة لتصبح مشهورًا
+  LOADING_SCREEN_TIP_5: >
+    يمكنك تنظيم المؤتمرات في المباني الخاصة بك ، ولكن من الأفضل أن تفصل بينها
+    عامًا واحدًا
+  LOADING_SCREEN_TIP_6: |
+    قسم المبيعات السيئة هو دائما على حق
+  LOADING_SCREEN_TIP_7: >
+    تحتاج إلى خوادم لاستضافة ألعاب عبر الإنترنت ، فهي أرخص ، ولكن يتعين على
+    اللاعبين الدفع شهريًا لمواصلة لعبها
+  LOADING_SCREEN_TIP_8: |
+    نبح أينشتاين ، التميمة لدينا ، 65.13 مرة خلال تطوير City Game Studio
+  LOADING_SCREEN_TIP_9: |
+    تم لعب 12654 أغنية عيد الميلاد أثناء تطوير City Game Studio
+  LOADING_SCREEN_TIP_10: >
+    إن إلقاء نظرة على حصص السوق أمر جيد ، ولكن عليك أيضًا الاهتمام بحجم الألعاب
+    المنشورة على منصة
+  LOADING_SCREEN_TIP_11: >
+    هل تريد المساعدة في ترجمة City Game Studio؟
+    https://github.com/binogure-studio/city-game-studio-i18n
+  LOADING_SCREEN_TIP_12: |
+    عندما تضيء مصابيح الخوادم باللون الأحمر ، فهذا يعني أنها محملة بشكل زائد.
+  LOADING_SCREEN_TIP_13: >
+    لا تنس أن تأخذ استراحة لتناول القهوة ... آه ، لقد تم كسر ماكينة القهوة مرة
+    أخرى.
+  LOADING_SCREEN_TIP_14: |
+    Crunchtime ليست ماركة حبوب ، لكنها ممارسة إدارية واسعة النطاق.
+  LOADING_SCREEN_TIP_15: |
+    إطلاق لعبة جديدة هو أفضل وسيلة لكسب المال
+  LOADING_SCREEN_TIP_16: |
+    تتيح لك عمليات ما بعد الوفاة معرفة المزيد عن الألعاب التي قمت بإصدارها
+  LOADING_SCREEN_TIP_17: >
+    وفقا لدراسة حديثة ، ما يقرب من 1 من 625.3 كلاب تنبح عندما تمطر ، والبعض
+    الآخر يسخر منه
+  LOADING_SCREEN_TIP_18: |
+    لا تعتمد على كل ما يمكنك قراءته على شاشات التحميل
+  LOADING_SCREEN_TIP_19: |
+    اعتماد قط يضيف مكافأة صغيرة لاستوديوهاتك.
+  LOADING_SCREEN_TIP_20: >
+    إذا كان لدى الاستوديو الخاص بك مستوى مهارة غير متساو ، فيمكن أن يؤثر على
+    الجودة الإجمالية للعبة.
+  GAMEEDITION_SUBMIT: إصدار عروض النشر
+  GAMEEDITION_RECEIVE: تلقي عروض النشر
+  WORLDMAP: خريطة المدينة
+  MARKETING_CAMPAIGN_MAGAZINE: حملة إعلانية في الصحافة
+  MARKETING_CAMPAIGN_TV: حملة إعلانية تلفزيونية
+  MARKETING_CAMPAIGN_INTERNET: حملة إعلانية عبر الإنترنت
+  CONCURRENT_STUDIOS_LIST: قائمة المنافسين
+  CONCURRENT_STUDIOS_BUY: شراء المنافسين
+  FURNITURES_COMMON_BUY: شراء الأثاث
+  EMPLOYEES_HIRE: توظيف الموظفين
+  STUDIO_RENT: استئجار شقة استوديو
+  STUDIO_BUILD: بناء الاستوديو
+  CONVENTION_ORGANIZE: تنظيم اتفاقية
+  CONVENTION_PARTICIPATE: المشاركة في اتفاقية
+  STUDIO_CUSTOMIZE: تجديد الاستوديوهات الخاصة بك
+  FURNITURES_SERVERS_BUY: اشتر الخوادم
+  GAME_ONLINE: نشر الألعاب عبر الإنترنت
+  DIGITAL_STORE: متجر المواد
+  POSTMORTEM: تقرير اللعبة
+  NEW_GAME: لعبة جديدة
+  TARGETTED_AUDIENCE: الجمهور المستهدف
+  STORY: التاريخ
+  USERINTERFACE: واجهة المستخدم
+  NETWORK: الشبكة
+  MODDING: تعديل
+  CUTSCENES: قطع المشاهد
+  TUTORIEL: دروس
+  MARKETING_CAMPAIGN_SOCIALNETWORK: حملة إعلانية مستهدفة
+  MARKETING_CAMPAIGN_MAILINGLIST: حملة إعلانية بالبريد الإلكتروني
+  GAMEPORT: منفذ  لعبة
+  UNLOCK_GAMEGENRE: فتح نوع لعبة
