@@ -178,8 +178,18 @@ ar:
     اليوم يوم عظيم, [b]%s[/b] يجب أن ترى [b]%d%%[/b] زيادة
   LABEL_SALES_HITS_5: |
     ومن المتوقع أن يزيد  [b]%s[/b]بنسبة [b]%d%%[/b]
-  LABEL_SALES_HITS_6: "\_\_تهانينا بمبيعات [b]%s[/b], يجب أن نصل إلى زيادة [b]%d%%[/b] \n"
-  LABEL_CONVENTION_INCOMING: "عزيزي %s,\n\nيسرنا أن نعلن %s من المقرر ل %s.\n\nسيستمر المؤتمر لمدة 3 أيام ، ونحن في انتظار %s زوار.\n\_\_\_يمكنك بالفعل استئجار جناح لعرض أجمل إبداعاتك. أسرع, الأماكن محدودة.\n\n\_بإخلاص,\nمنظمي %s\n"
+  LABEL_SALES_HITS_6: |
+    تهانينا بمبيعات [b]%s[/b], يجب أن نصل إلى زيادة [b]%d%%[/b]
+  LABEL_CONVENTION_INCOMING: |
+    عزيزي %s,
+
+    يسرنا أن نعلن %s من المقرر ل %s.
+
+    سيستمر المؤتمر لمدة 3 أيام ، ونحن في انتظار %s زوار.
+    يمكنك بالفعل استئجار جناح لعرض أجمل إبداعاتك. أسرع, الأماكن محدودة.
+
+    بإخلاص,
+    منظمي %s
   LABEL_REDCOUCH: أريكة حمراء
   LABEL_DARKCOUCH: أريكة داكنة
   LABEL_WHITECOUCH: أريكة بيضاء
@@ -187,18 +197,24 @@ ar:
   LABEL_DARKARMCHAIR: كرسي داكن
   LABEL_WHITEARMCHAIR: كرسي أبيض
   LABEL_WHAT_WERE_YOU_DOING: ماذا كنت تفعل عندما واجهك الخطأ؟
-  LABEL_VERSION: 'الإصدار: %s'
+  LABEL_VERSION: "الإصدار: %s"
   LABEL_NO_MESSAGE: ا توجد رسالة
   LABEL_INBOX: البريد الوارد
   LABEL_SPAM: البريد المزعج
   LABEL_TRASH: سلة المهملات
-  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: "[b]فتح أنواع جديدة من الألعاب[/b].\n\nلفتح نوع جديد, [b]انقر على أيقونة[/b].\n\_إذا كانت لديك نقاط كافية ، فسيتم إلغاء قفل اللعبة.\n\n[b] يوجد عدد نقاط النوع [/b] هو موجود في [b]الزاوية اليمنى العليا [/b] من الشاشة.\n"
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]فتح أنواع جديدة من الألعاب[/b].
+
+    لفتح نوع جديد, [b]انقر على أيقونة[/b].
+    إذا كانت لديك نقاط كافية ، فسيتم إلغاء قفل اللعبة.[b]
+
+    يوجد عدد نقاط النوع [/b] هو موجود في [b]الزاوية اليمنى العليا [/b] من الشاشة.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: '%s  نوع النقاط'
+  LABEL_SKILL_POINT: "%s  نوع النقاط"
   LABEL_UNLOCKED: مفتوح
   LABEL_COST: نقاط التكلفة %s
   LABEL_FANBASE_TRENDS: اتجاهات قاعدة المعجبين
@@ -226,7 +242,7 @@ ar:
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     يجب أن يكون لديك على الأقل  [b]3[/b]  أشخاص يعملون في الاستوديو حتى تتمكن من
     التقدم للحصول على عرض ناشر.
-  LABEL_TRADE_GAME_CANCELED_TITLE: '%s ملغاة'
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s ملغاة"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
     ل [b]%s[/b] (%s), 
 
@@ -269,7 +285,14 @@ ar:
   LABEL_MARKETING_MAILINGLIST_ITEM: الرسالة الإخبارية
   LABEL_SELF_PUBLISH: النشر الذاتي
   LABEL_TRADE_PUBLISH: النشر التقليدي
-  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: "مرحبا,\n\nأنا  [b]%s[/b], أحب  [b]%s[/b] وأود الانضمام إلى فريقك في أسرع وقت ممكن.\nسأكون قادرا على أن أكون فعالا وأحضر معلومات جديدة لفريقك.\n\n\_شكرا لك على وقتك,\n[b]%s[/b]\n"
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    مرحبا,
+
+    أنا  [b]%s[/b], أحب  [b]%s[/b] وأود الانضمام إلى فريقك في أسرع وقت ممكن.
+    سأكون قادرا على أن أكون فعالا وأحضر معلومات جديدة لفريقك.
+
+    \_شكرا لك على وقتك,
+    [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: التطبيق التلقائي
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     مرحبا,
@@ -308,15 +331,18 @@ ar:
     أتمنى لك التوفيق في لعبتك!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     المشجعون متحمسون, لذلك قل لنا جميعا!
-  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: "\_\_المشجعون ليسوا سعداء ويبدو أن المجلات المتخصصة تريد بالفعل التخلي عن هذه اللعبة\n\nيجب أن يقال أنهم أصدروا لعبة مماثلة منذ وقت ليس ببعيد.\n"
-  LABEL_GAME_ANNOUNCED_TITLE: '%s أعلن'
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: 
+    المشجعون ليسوا سعداء ويبدو أن المجلات المتخصصة تريد بالفعل التخلي عن هذه اللعبة
+
+    يجب أن يقال أنهم أصدروا لعبة مماثلة منذ وقت ليس ببعيد.
+  LABEL_GAME_ANNOUNCED_TITLE: "%s أعلن"
   LABEL_TRENDING: الشائع
   LABEL_CREATOR: تم الإنشاء بواسطة
   LABEL_PRODUCER: منتج
   LABEL_COMMUNITY_MANAGER: مدير مجتمع
   LABEL_SOUND_COMPOSER: مؤلف الصوت
   LABEL_SPECIAL_THANKS: شكر خاص
-  LABEL_VISITORS: '%d الزوار'
+  LABEL_VISITORS: "%d الزوار"
   LABEL_ATTENDANCE: الحضور
   LABEL_NONE: لا شيء
   LABEL_NO_BUILDING: ا يوجد مبنى متاح
@@ -372,7 +398,7 @@ ar:
   LABEL_OPTIMIZATION: التحسين
   LABEL_OUTCOME: المصروفات
   LABEL_PHYSICS: الفيزياء
-  LABEL_GAME_FINISHED: 'تهانينا, لقد أكملت City Game Studio'
+  LABEL_GAME_FINISHED: "تهانينا, لقد أكملت City Game Studio"
   LABEL_PLANNING: التخطيط
   LABEL_NO_PLATFORM_AVAILABLE: |
     تم نقل اللعبة بالفعل إلى كل منصة متاحة
@@ -452,7 +478,7 @@ ar:
   LABEL_TYPE_VERSUS_FIGHTING: ضد القتال
   LABEL_TYPE_PLATFORMS: المنصات
   LABEL_TYPE_SHOOT: أطلاق النار
-  LABEL_TYPE_SHOOT_EM_UP: "\_تبادل لاطلاق النار"
+  LABEL_TYPE_SHOOT_EM_UP: "تبادل لاطلاق النار"
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
   LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
@@ -524,11 +550,11 @@ ar:
   LABEL_DIFFICULTY_NORMAL: عادي
   LABEL_DIFFICULTY_HARD: صعب
   LABEL_DIFFICULTY_INSANE: مجنون
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: '[b]%s[/b] أصدر منصة جديدة: [b]%s[/b]'
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: '[b]%s[/b] تقاعد المعروف [b]%s[/b], تبكي الجماهير'
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: '[b]%s[/b] ستصدر منصة جديدة في غضون بضعة أشهر [b]%s[/b] يجب أن تستمر لسنوات'
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: '[b]%s[/b] تعلن عن نهاية حياة  المعروفة جيدًا [b]%s[/b]'
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: 'لقد فتحت الرخصة ل [b]%s[/b], إنها تكلف [b]%s$[/b]'
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] أصدر منصة جديدة: [b]%s[/b]"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] تقاعد المعروف [b]%s[/b], تبكي الجماهير"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] ستصدر منصة جديدة في غضون بضعة أشهر [b]%s[/b] يجب أن تستمر لسنوات"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] تعلن عن نهاية حياة  المعروفة جيدًا [b]%s[/b]"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "لقد فتحت الرخصة ل [b]%s[/b], إنها تكلف [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: تم إصدار المنصة
   LABEL_PLATFORM_DISCONTINUED_TITLE: توقف المنصة
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: المنصة القادمة
@@ -543,8 +569,8 @@ ar:
   LABEL_NEW_GAME: لعبة جديدة
   LABEL_MODDING: التعديل
   LABEL_ARTWORK: عمل فني
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: 'بفضل تجربتك الحديثة ، لقد فتحت نوعًا جديدًا [b]%s[/b]'
-  LABEL_UNLOCK_GAME_TYPE_TITLE: 'نوع غير مقفل: %s'
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "بفضل تجربتك الحديثة ، لقد فتحت نوعًا جديدًا [b]%s[/b]"
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "نوع غير مقفل: %s"
   LABEL_MAGAZINE_0: لعبة المعجبين
   LABEL_MAGAZINE_1: لاعب الكمبيوتر
   LABEL_MAGAZINE_2: لعبة المهوس
@@ -557,7 +583,7 @@ ar:
   LABEL_GAME_OVER: انتهت اللعبة
   LABEL_SCORE: النتيجة
   LABEL_WAGE_INCREASES_TITLE: زيادة الأجور
-  LABEL_WAGE_INCREASES_DESCRIPTION: 'لموظفون التاليون لديهم زيادة في الأجور :'
+  LABEL_WAGE_INCREASES_DESCRIPTION: "لموظفون التاليون لديهم زيادة في الأجور :"
   LABEL_PRESS_KEY: اضغط
   LABEL_WORD_OR: أو
   LABEL_INPUT_ACTION_UI_ROTATE: لتدوير العنصر
@@ -575,7 +601,7 @@ ar:
   LABEL_CATCHPHRASE_2_1: هل قال شخص ما دون المتوسط؟
   LABEL_CATCHPHRASE_2_2: هل قال أحدهم شيئا سيئا؟
   LABEL_CATCHPHRASE_2_3: تجربة مخيبة للآمال
-  LABEL_CATCHPHRASE_2_4: 'كلمة واحدة: فارغة'
+  LABEL_CATCHPHRASE_2_4: "كلمة واحدة: فارغة"
   LABEL_CATCHPHRASE_2_5: كان يجب إلغاؤها
   LABEL_CATCHPHRASE_3_0: يتجه مباشرة للكارثة
   LABEL_CATCHPHRASE_3_1: خيبة أمل تطابق طموحاته
@@ -593,7 +619,7 @@ ar:
   LABEL_CATCHPHRASE_5_1: وعاء ذوبان لا طعم له
   LABEL_CATCHPHRASE_5_2: تقرير مختلط جدا
   LABEL_CATCHPHRASE_5_3: رأينا ما هو أفضل ، لكننا رأينا ما هو أسوأ!
-  LABEL_CATCHPHRASE_5_4: 'بالتأكيد, إنها ليست لعبة العام'
+  LABEL_CATCHPHRASE_5_4: "بالتأكيد, إنها ليست لعبة العام"
   LABEL_CATCHPHRASE_5_5: لعبة جوفاء ذات عمر محدود
   LABEL_CATCHPHRASE_6_0: بدون عمود
   LABEL_CATCHPHRASE_6_1: لعبة مبسطة ولكنها زائدة عن الحاجة
@@ -640,10 +666,10 @@ ar:
   LABEL_MATCH_OK: تطابق جيد
   LABEL_MATCH_POOR: تطابق ضعيف
   LABEL_POSTMORTEM_TITLE: بعد الوفاة (%s)
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 'لم نتعلم شيئًا جديدًا من [b]%s[/b]'
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: ' هنا ما تعلمناه من [b]%s[/b]:%s '
-  LABEL_POSTMORTEM_MATCH: ' [ul] - المطابقة بين [i]%s[/i] و [i]%s[/i] هي [b]%s[/b][/ul] '
-  LABEL_POSTMORTEM_CAPACITY: ' [ul] - لإدارة [b]%s[/b] لنوع اللعبة [b]%s[/b][/ul] '
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "لم نتعلم شيئًا جديدًا من [b]%s[/b]"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "هنا ما تعلمناه من [b]%s[/b]: %s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- المطابقة بين [i]%s[/i] و [i]%s[/i] هي [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- لإدارة [b]%s[/b] لنوع اللعبة [b]%s[/b][/ul]"
   LABEL_MARKET_SHARE: حصة السوق
   LABEL_LICENSE_COST: الترخيص
   LABEL_OWNED: مملوكة
@@ -707,9 +733,9 @@ ar:
     شراء خوادم جديدة.
   LABEL_SMOKING_SERVER_TITLE: تحذير من سعة الخادم
   LABEL_PAYLOAN_TITLE: سدد قرضًا
-  LABEL_PAYLOAN_DESCRIPTION: 'لقد انتهى الآن السداد المجدول ، عليك أن تدفع [b]%s$[/b].'
+  LABEL_PAYLOAN_DESCRIPTION: "لقد انتهى الآن السداد المجدول ، عليك أن تدفع [b]%s$[/b]."
   LABEL_SELL_STUDIO_TITLE: بيع استوديو
-  LABEL_SELL_STUDIO_DESCRIPTION: 'أنت تبيع الاستوديو [b]%s[/b] ، هل تريد المتابعة ؟'
+  LABEL_SELL_STUDIO_DESCRIPTION: "أنت تبيع الاستوديو [b]%s[/b] ، هل تريد المتابعة ؟"
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
     نظرًا لأن [b]%s[/b] هو الاستوديو الأخير أو أنه مشغول بالعمل في مشروع ، لا
     يمكنك بيعه
