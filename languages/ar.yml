@@ -1,4 +1,4 @@
-How dar:
+ar:
   BUTTON_READ: إقرا
   BUTTON_ANNOUNCE: أعلن اللعبة
   BUTTON_NEW_GAME: لعبة جديدة
@@ -628,11 +628,11 @@ How dar:
   LABEL_MATCH_GOOD: تطابق جيد
   LABEL_MATCH_OK: تطابق جيد
   LABEL_MATCH_POOR: تطابق ضعيف
-  LABEL_POSTMORTEM_TITLE: بعد الوفاة (٪ s)
-  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 'لم نتعلم شيئًا جديدًا من [b]٪ s [/ b]'
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: ' هنا ما تعلمناه من [b]٪ s [/ b]:٪ s '
-  LABEL_POSTMORTEM_MATCH: ' [ul] - المطابقة بين [i]٪ s [/ i] و [i]٪ s [/ i] هي [b]٪ s [/ b] [/ ul] '
-  LABEL_POSTMORTEM_CAPACITY: ' [ul] - لإدارة [b]٪ s [/ b] لنوع اللعبة [b]٪ s [/ b] [/ ul] '
+  LABEL_POSTMORTEM_TITLE: بعد الوفاة (%s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 'لم نتعلم شيئًا جديدًا من [b]%s[/b]'
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: ' هنا ما تعلمناه من [b]%s[/b]:%s '
+  LABEL_POSTMORTEM_MATCH: ' [ul] - المطابقة بين [i]%s[/i] و [i]%s[/i] هي [b]%s[/b][/ul] '
+  LABEL_POSTMORTEM_CAPACITY: ' [ul] - لإدارة [b]%s[/b] لنوع اللعبة [b]%s[/b][/ul] '
   LABEL_MARKET_SHARE: حصة السوق
   LABEL_LICENSE_COST: الترخيص
   LABEL_OWNED: مملوكة
@@ -641,7 +641,7 @@ How dar:
   LABEL_PLATFORM_LIST: قائمة المنصة
   LABEL_IDLE: الخمول
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    عثر موظفو استوديو [b]٪ s [/ b] على قطة طائشة مخبأة خلف بعض النفايات. هذه
+    عثر موظفو استوديو [b]%s[/b] على قطة طائشة مخبأة خلف بعض النفايات. هذه
     القطة محببة جدًا ، وقد أعطاها الموظفون بالفعل اسمًا. ماذا تريد ان تفعل؟
   LABEL_ADOPT_CAT_TITLE: القط الشارد
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
@@ -662,7 +662,7 @@ How dar:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: تم اختراع Moba -like
   LABEL_BROKEN_COFFEEMAKER_TITLE: آلة صنع القهوة المكسورة
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    موظفيك في الاستوديو [b]٪ s [/ b] مدمنون على القهوة. لكن ماكينة القهوة قد
+    موظفيك في الاستوديو [b]%s[/b] مدمنون على القهوة. لكن ماكينة القهوة قد
     خدمت آخر كوب لها ... ماذا تريد أن تفعل؟
   LABEL_RABBIT_INVASION_DESCRIPTION: >
     الأرانب ، الأرانب في كل مكان. إنهم يقومون ببعض الضوضاء ... إنهم يركضون في كل
@@ -674,36 +674,35 @@ How dar:
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     تم إطلاق فيروس جديد. ويستهدف فقط شركات ألعاب الفيديو. يبدو الأمر صعبًا ،
     ولكنه يبطئ المؤشرات ويعيد تشغيل أجهزة الكمبيوتر بشكل عشوائي. سيكون لهذا
-    بالتأكيد تأثير على إنتاجية موظفيك. فقط [b]٪ s [/ b] تتعرض للهجوم
+    بالتأكيد تأثير على إنتاجية موظفيك. فقط [b]%s[/b] تتعرض للهجوم
   LABEL_VIRUS_UNLEASHED_TITLE: تم إطلاق الفيروس
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     قام فريق Smitties ، المشهور بمراجعات الألعاب ، بنشر مقطع فيديو جديد للتو.
-    وهذه المرة ، استعرض أحد ألعابك [b]٪ s [/ b]. سيكون لهذا بالتأكيد تأثير على
+    وهذه المرة ، استعرض أحد ألعابك [b]%s[/b]. سيكون لهذا بالتأكيد تأثير على
     عمليات البيع.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: إعلانات مجانية
   LABEL_LOAN_TITLE: قرض الملاذ الأخير
   LABEL_LOAN_DESCRIPTION: >
-    تحتاج إلى بعض المال الإضافي ، يمكننا مساعدتك. يمكنك استرداد نفسك بقرض [b]٪ s
-    $ [/ b]. معدلات الفائدة لدينا منخفضة مثل فقط [b]٪ s ٪٪ [/ b] ، ولديك [b]٪ s
-    [/ b] أسابيع لتسديدها. انها مثل الحياة كلها لشركة مثل لك. نحن الخيار الأخير
-    ، دع نفسك يغري.
+    تحتاج إلى بعض المال الإضافي ، يمكننا مساعدتك. يمكنك استرداد نفسك بقرض [b]%s$[/b].
+    معدلات الفائدة لدينا منخفضة مثل فقط [b]%s٪٪[/b] ، ولديك [b]%s[/b]
+    أسابيع لتسديدها. انها مثل الحياة كلها لشركة مثل لك. نحن الخيار الأخير، دع نفسك يغري.
   LABEL_BURNING_SERVER_DESCRIPTION: >
     هل رائحة مثل النار؟! وصلت خوادمك إلى الحد الأقصى لسعتها. حان الوقت لشراء
     خوادم جديدة أو لإغلاق لعبة على الإنترنت!
   LABEL_BURNING_SERVER_TITLE: هذا جيد
   LABEL_SMOKING_SERVER_DESCRIPTION: >
     أنت تصنع لعبة جيدة جدًا عبر الإنترنت ، وتبيعها جيدًا. ومع ذلك تصل خوادمك إلى
-    الحد الأقصى لسعتها ، حيث يتم استخدام معظمها بنسبة 90 ٪٪ أو أكثر. يجب عليك
+    الحد الأقصى لسعتها ، حيث يتم استخدام معظمها بنسبة 90٪٪ أو أكثر. يجب عليك
     شراء خوادم جديدة.
   LABEL_SMOKING_SERVER_TITLE: تحذير من سعة الخادم
   LABEL_PAYLOAN_TITLE: سدد قرضًا
-  LABEL_PAYLOAN_DESCRIPTION: 'لقد انتهى الآن السداد المجدول ، عليك أن تدفع [b]٪ s $ [/ b].'
+  LABEL_PAYLOAN_DESCRIPTION: 'لقد انتهى الآن السداد المجدول ، عليك أن تدفع [b]%s$[/b].'
   LABEL_SELL_STUDIO_TITLE: بيع استوديو
-  LABEL_SELL_STUDIO_DESCRIPTION: 'أنت تبيع الاستوديو [b]٪ s [/ b] ، هل تريد المتابعة ؟'
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >-
-    نظرًا لأن [b]٪ s [/ b] هو الاستوديو الأخير أو أنه مشغول بالعمل في مشروع ، لا
+  LABEL_SELL_STUDIO_DESCRIPTION: 'أنت تبيع الاستوديو [b]%s[/b] ، هل تريد المتابعة ؟'
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
+    نظرًا لأن [b]%s[/b] هو الاستوديو الأخير أو أنه مشغول بالعمل في مشروع ، لا
     يمكنك بيعه
-  LABEL_BUILDING_AREA: المساحة٪ s m²
+  LABEL_BUILDING_AREA: المساحة%s m²
   LABEL_BUILDING_BUY: السعر
   LABEL_BUILDING_RENT: الإيجار
   LABEL_BUILDING_CONVENTION: مركز المعارض
@@ -955,13 +954,13 @@ How dar:
     هل تريد الاستمرار؟
   LABEL_SUCCESS: نجحت
   LABEL_FAILURE: الفشل
-  LABEL_CANNOT_INTERACT: لن تتمكن بعد الآن من التواصل مع٪ s حتى٪ s
-  LABEL_FAN_LOST: لقد أثر هذا على شعبيتك ، فستفقد مشجعي٪ s
-  LABEL_PENALTY_COST: استبعدت العدالة ، يجب أن تدفع٪ s $
-  LABEL_EMPLOYEE_HIRED: لقد عينت٪ s
-  LABEL_GAME_CRACKED: لقد تكسرت٪ s
-  LABEL_GENRE_STOLEN: لقد تعلمت٪ s
-  LABEL_STUDIO_SOLD: لقد باعوا٪ s
+  LABEL_CANNOT_INTERACT: لن تتمكن بعد الآن من التواصل مع%s حتى%s
+  LABEL_FAN_LOST: لقد أثر هذا على شعبيتك ، فستفقد مشجعي%s
+  LABEL_PENALTY_COST: استبعدت العدالة ، يجب أن تدفع%s$
+  LABEL_EMPLOYEE_HIRED: لقد عينت%s
+  LABEL_GAME_CRACKED: لقد تكسرت%s
+  LABEL_GENRE_STOLEN: لقد تعلمت%s
+  LABEL_STUDIO_SOLD: لقد باعوا%s
   TOOLTIP_CONVENTION_LIST: |
     حضر الاتفاقيات
   TOOLTIP_FORCE_STUDIO: |
@@ -971,9 +970,9 @@ How dar:
   TOOLTIP_HIRE_STAFF: |
     يجب عليك اختيار الموظف الذي ترغب في تعيينه
   TOOLTIP_CONCURRENT_LOCKED: |
-    ستكون قادرًا على إعادة المحاولة مرة أخرى ضد٪ s من٪ s
+    ستكون قادرًا على إعادة المحاولة مرة أخرى ضد%s من%s
   TOOLTIP_TUTORIEL: |
-    ٪ s لإلغاء تأمين٪ s
+    %s لإلغاء تأمين%s
   TOOLTIP_EMAIL: |
     قراءة الأخبار والبريد الخاص بك
   TOOLTIP_UNLOCK_GAME_GENRE: |
