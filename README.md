@@ -50,6 +50,10 @@ LABEL_LOAN_DESCRIPTION: >
 ```
 All languages files should be named `[language].yaml`.
 
+## Tool
+
+http://pollly.orson.io/ is a great static website that will help you to translate yaml files.
+
 ## Contact
 
 If you have questions about contributing [contact us](https://www.binogure-studio.com)
