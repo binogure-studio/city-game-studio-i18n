@@ -56,5 +56,5 @@ http://pollly.orson.io/ is a great static website that will help you to translat
 
 ## Contact
 
-If you have questions about contributing [contact us](https://www.binogure-studio.com)
+If you have questions about contributing [contact us](https://www.city-game-studio.com)
 or send an email to contact@binogure-studio.com.
