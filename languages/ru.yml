@@ -59,6 +59,7 @@ ru:
   BUTTON_SELL_ITEMS: Продаю мебель.
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: У вас недостаточно имущества, чтобы взять кредит.
   LABEL_THANKYOU_PURCHASING: |
     Приветствую,
 
@@ -695,7 +696,12 @@ ru:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из [b]%s[/b]"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из [b]%s[/b]: [b]%s[/b]"
   LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - изменить опцию [b]%s[/b] для типа игры [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - [b]%s[/b]- это [b]%s[/b] для типа игры [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: предельный
+  LABEL_POSTMORTEM_INSIGNIFICANT: незначительный
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: относительно важный
+  LABEL_POSTMORTEM_VERY_IMPORTANT: очень важный
+  LABEL_POSTMORTEM_ESSENTIAL: существенный
   LABEL_MARKET_SHARE: Доля рынка
   LABEL_LICENSE_COST: Лицензия
   LABEL_OWNED: Принадлежит

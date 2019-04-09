@@ -59,6 +59,7 @@ zh:
   BUTTON_SELL_ITEMS: 卖家具
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: 您没有足够的财产来获得贷款
   LABEL_THANKYOU_PURCHASING: |
     问候，
 
@@ -641,7 +642,12 @@ zh:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "从[b]%s[/b]中，我们没有学到什么新东西"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "从[b]%s[/b]中，我们学到新的东西是：%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i]和[i]%s[/i]之间的匹配是[b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- 这个功能：[b]%s[/b][/ul]对这个游戏类型比较重要：[b]%s[/b]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- 这个功能：[b]%s[/b]对这个游戏类型[b]%s[/b]：[b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: 边缘
+  LABEL_POSTMORTEM_INSIGNIFICANT: 微不足道
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: 相对重要
+  LABEL_POSTMORTEM_VERY_IMPORTANT: 很重要
+  LABEL_POSTMORTEM_ESSENTIAL: 必要
   LABEL_MARKET_SHARE: 市场份额
   LABEL_LICENSE_COST: 许可证
   LABEL_OWNED: 拥有

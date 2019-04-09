@@ -59,6 +59,7 @@ de:
   BUTTON_SELL_ITEMS: Verkaufen Sie die Möbel 
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: Sie haben nicht genug Eigentum, um einen Kredit aufnehmen zu können.
   LABEL_THANKYOU_PURCHASING: |
     Seid gegrüßt,
 
@@ -652,7 +653,12 @@ de:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Wir haben nichts neues von [b]%s[/b] gelernt...
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von [b]%s[/b] gelernt:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] und [i]%s[/i] sind eine [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] passt gut zum Genre [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] ist [b]%s[/b] passt gut zum Genre [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: marginal
+  LABEL_POSTMORTEM_INSIGNIFICANT: unbedeutend
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativ wichtig
+  LABEL_POSTMORTEM_VERY_IMPORTANT: sehr wichtig
+  LABEL_POSTMORTEM_ESSENTIAL: essentiell
   LABEL_MARKET_SHARE: Marktanteil
   LABEL_LICENSE_COST: Lizenzkosten
   LABEL_OWNED: Im Besitz

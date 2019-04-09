@@ -58,6 +58,7 @@ ar:
   BUTTON_SELL_ITEMS: بيع الأثاث
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: ليس لديك ما يكفي من الممتلكات لتكون قادرة على الحصول على قرض
   LABEL_THANKYOU_PURCHASING: |
     تحية طيبة،
 
@@ -669,7 +670,12 @@ ar:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "لم نتعلم شيئًا جديدًا من [b]%s[/b]"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "هنا ما تعلمناه من [b]%s[/b]: %s"
   LABEL_POSTMORTEM_MATCH: "[ul]- المطابقة بين [i]%s[/i] و [i]%s[/i] هي [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- لإدارة [b]%s[/b] لنوع اللعبة [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] هو [b]%s[/b] للعبة [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: هامش
+  LABEL_POSTMORTEM_INSIGNIFICANT: تافه
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: مهم نسبيا
+  LABEL_POSTMORTEM_VERY_IMPORTANT: مهم جدا
+  LABEL_POSTMORTEM_ESSENTIAL: أساسى
   LABEL_MARKET_SHARE: حصة السوق
   LABEL_LICENSE_COST: الترخيص
   LABEL_OWNED: مملوكة

@@ -59,6 +59,7 @@ nl:
   BUTTON_SELL_ITEMS: Verkoop de meubels
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: U heeft niet genoeg onroerend goed om een lening te kunnen afsluiten....
   LABEL_THANKYOU_PURCHASING: |
     Groeten,
 
@@ -646,7 +647,12 @@ nl:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: We hebben niks nieuws van [b]%s[/b] geleerd
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Hier is wat we geleerd hebben van[b]%s[/b]:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- Match tussen [i]%s[/i] en [i]%s[/i] is een [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- Om [b]%s[/b] te laten lukken voor het game type [b]%s[/b][/ul]"  ## Not sure
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] is [b]%s[/b] te laten lukken voor het game type [b]%s[/b][/ul]"  ## Not sure
+  LABEL_POSTMORTEM_MARGINAL: marginaal
+  LABEL_POSTMORTEM_INSIGNIFICANT: onbeduidend
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: betrekkelijk belangrijk
+  LABEL_POSTMORTEM_VERY_IMPORTANT: zeer belangrijk
+  LABEL_POSTMORTEM_ESSENTIAL: essentieel
   LABEL_MARKET_SHARE: Marktaandeel
   LABEL_LICENSE_COST: Licentie
   LABEL_OWNED: In bezit

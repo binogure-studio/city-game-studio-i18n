@@ -59,6 +59,7 @@ es:
   BUTTON_SELL_ITEMS: Vender los muebles
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: Usted no tiene suficiente propiedad para poder obtener un préstamo
   LABEL_THANKYOU_PURCHASING: |
     Saludos,
 
@@ -656,7 +657,12 @@ es:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: No hemos aprendido nada nuevo de [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Aquí lo que hemos aprendido de [b]%s[/b]:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- la coincidencia entre [i]%s[/i] y [i]%s[/i] es [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- para administrar [b]%s[/b] para el tipo de juego [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] es [b]%s[/b] para el tipo de juego [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: marginado
+  LABEL_POSTMORTEM_INSIGNIFICANT: nimia
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativamente importante
+  LABEL_POSTMORTEM_VERY_IMPORTANT: muy importante
+  LABEL_POSTMORTEM_ESSENTIAL: imprescindible
   LABEL_MARKET_SHARE: Cuota de mercado
   LABEL_LICENSE_COST: Licencia
   LABEL_OWNED: Adquirido

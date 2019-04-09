@@ -59,6 +59,7 @@ et:
   BUTTON_SELL_ITEMS: Müü mööbel
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: Teil ei ole laenu võtmiseks piisavalt vara
   LABEL_THANKYOU_PURCHASING: |
     Tervitused,
 
@@ -647,7 +648,12 @@ et:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Me pole midagi õppinud [b]%s[/b]"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Siin me oleme õppinud [b]%s[/b] -st: [b]%s[/b]"
   LABEL_POSTMORTEM_MATCH: "[ul]- Võistlus [i]%s[/i] ja [i]%s[/i] vahel on [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] haldamiseks mängu tüübiks [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] on [b]%s[/b] haldamiseks mängu tüübiks [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: marginaalne
+  LABEL_POSTMORTEM_INSIGNIFICANT: tähtsusetu
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: suhteliselt oluline
+  LABEL_POSTMORTEM_VERY_IMPORTANT: väga tähtis
+  LABEL_POSTMORTEM_ESSENTIAL: oluline
   LABEL_MARKET_SHARE: Turuosa
   LABEL_LICENSE_COST: Litsents
   LABEL_OWNED: Omandanud

@@ -59,6 +59,7 @@ tr:
   BUTTON_SELL_ITEMS: Mobilyaları sat
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: Borç alabilmek için yeterli mülkün yok
   LABEL_THANKYOU_PURCHASING: |
     Selamlar,
 
@@ -645,7 +646,12 @@ tr:
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] den yeni bir şey öğrenemedik"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "İşte [b]%s[/b] öğesinden öğrendiklerimiz:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] ve [i]%s[/i] arasındaki eşleşme [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- Başarmak için [b]%s[/b] Oyunun türü için [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b], [b]%s[/b]dir Oyunun türü için [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: marjinal
+  LABEL_POSTMORTEM_INSIGNIFICANT: önemsiz
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: nispeten önemli
+  LABEL_POSTMORTEM_VERY_IMPORTANT: çok önemli
+  LABEL_POSTMORTEM_ESSENTIAL: gerekli
   LABEL_MARKET_SHARE: Pazar payı
   LABEL_LICENSE_COST: Lisans
   LABEL_OWNED: Sahip olunan

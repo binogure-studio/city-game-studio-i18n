@@ -58,6 +58,7 @@ uk:
   BUTTON_SELL_ITEMS: Продам меблі
 
   # Labels, descriptive
+  LABEL_MORTGAGE_NOT_INTERESTED: Ви не маєте достатньо майна для того, щоб взяти кредит
   LABEL_THANKYOU_PURCHASING: |
     Вітання,
 
@@ -630,8 +631,13 @@ uk:
   LABEL_POSTMORTEM_TITLE: Звіт (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Ми не дізналися нічого нового з [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Ось що ми дізналися у [b]%s[/b]:%s"
-  LABEL_POSTMORTEM_MATCH: "[ul] - збіг між [i]%s[/i] та [i]%s[/i] є [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - змініть опцію [b]%s[/b] для типу гри [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MATCH: "[ul]- збіг між [i]%s[/i] та [i]%s[/i] є [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] є [b]%s[/b] для гри [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: маргінальний
+  LABEL_POSTMORTEM_INSIGNIFICANT: незначний
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: відносно важливі
+  LABEL_POSTMORTEM_VERY_IMPORTANT: дуже важливо
+  LABEL_POSTMORTEM_ESSENTIAL: важливо
   LABEL_MARKET_SHARE: Частка ринку
   LABEL_LICENSE_COST: Ліцензія
   LABEL_OWNED: Належить
