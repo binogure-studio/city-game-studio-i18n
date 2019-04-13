@@ -51,7 +51,7 @@ de:
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
   BUTTON_CRACK_GAME: Ein Spiel hacken
-  BUTTON_FORCE_STUDIO_SELL: Erzwinge Büro Verkauf
+  BUTTON_FORCE_STUDIO_SELL: Erzwinge Verkauf des Büros
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Werben Sie ihren Mitarbeiter ab
   BUTTON_SELECT: Wählen
@@ -86,7 +86,7 @@ de:
   LABEL_SPEED_NORMAL: Normal
   LABEL_SPEED_SLOW: Langsam
   LABEL_SPEED_SLOWEST: Sehr Langsam
-  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Nicht zugeordnete Mitarbeiter entlassen 
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Freie Mitarbeiter entlassen 
   LABEL_FURNISH_MOD: Automatisch einrichten
   LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Nur leere Büros können automatisch eingerichtet werden.
   LABEL_HAPPINESS: Zufriedenheit
@@ -655,7 +655,7 @@ de:
   LABEL_CREATE_SEQUEL: Fortsetzung erstellen
   LABEL_NEW_IP: Neues Spiel
   LABEL_POSTMORTEM: Spiel-Bericht
-  LABEL_EMPTY_STUDIO: "Warnung: Dieses Studio enthält keinen einzigen Schreibtisch mit einem Computer!"
+  LABEL_EMPTY_STUDIO: "Warnung: Dieses Büro enthält keinen einzigen Schreibtisch mit einem Computer!"
   LABEL_MATCH_EXCELLENT: ausgezeichnete Kombination
   LABEL_MATCH_GOOD: gute Kombination
   LABEL_MATCH_OK: mittelmäßige Kombination
@@ -665,8 +665,8 @@ de:
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Das haben wir von [b]%s[/b] gelernt:%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] und [i]%s[/i] sind eine [b]%s[/b][/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] ist [b]%s[/b] passt gut zum Genre [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_MARGINAL: marginal
-  LABEL_POSTMORTEM_INSIGNIFICANT: unbedeutend
+  LABEL_POSTMORTEM_MARGINAL: unwichtig
+  LABEL_POSTMORTEM_INSIGNIFICANT: zu vernachlässigen
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativ wichtig
   LABEL_POSTMORTEM_VERY_IMPORTANT: sehr wichtig
   LABEL_POSTMORTEM_ESSENTIAL: essentiell
@@ -792,7 +792,7 @@ de:
   LABEL_STUDIO_TOOLTIP: Die Produktivität steigert die Effizienz des Studios
   LABEL_BUILD_STUDIO: Studio bearbeiten
   LABEL_WALL: Wand
-  LABEL_PILLAR: Säule
+  LABEL_PILLAR: Säulen
   LABEL_FLOOR: Fußboden
   LABEL_HIRING_DATE: Eingestellt am
   LABEL_WORK: Arbeitet an
@@ -803,7 +803,7 @@ de:
   LABEL_PRODUCTIVITY: Produktivität
   LABEL_MONEY_EFFICIENCY: Kosteneffizienz
   LABEL_SKILLS: Fähigkeiten
-  LABEL_HOME: Home
+  LABEL_HOME: Zuhause
   LABEL_MONTH: Monat(e)
   LABEL_ORDER_BY: Sortieren nach
   LABEL_BUY_PRICE: Kaufpreis
@@ -1034,7 +1034,7 @@ de:
   TOOLTIP_SELL: Verkaufe dieses Büro
   TOOLTIP_SHOP: Kaufe Möbel und Deko für dein Büro
   TOOLTIP_BUILDMOD: Renovier dein Studio
-  TOOLTIP_ASSIGN: Weise den Angestellten einem Schreibtisch zu
+  TOOLTIP_ASSIGN: Weise dem Angestellten einem Schreibtisch zu
   TOOLTIP_STUDIO_SELECT: Büro wechseln
   TOOLTIP_ANNOUNCE_GAME: |
     Kündige das Videospiel an.
@@ -1042,7 +1042,7 @@ de:
   TOOLTIP_CONCURRENT: |
     Liste der Videospielunternehmen
   TOOLTIP_STUDIO_COST: |
-    Gesamte Studiokosten. Inklusive Miete sowie die Kosten
+    Gesamte Bürokosten. Inklusive Miete sowie die Kosten
     für die Wartung der Geräte (z.B. Server).
   TOOLTIP_MARKETING_COST: |
     Kosten der laufenden Marketingkampagnen
@@ -1061,7 +1061,7 @@ de:
   LOADING_SCREEN_TIP_3: >
     Die Entdeckung eines neuen Spielgenres verschafft dir einen erheblichen Vorteil gegenüber der Konkurrenz.
   LOADING_SCREEN_TIP_4: >
-    Spiele mit einem PUblisher zu produzieren ist der beste Weg, um berühmt zu werden.
+    Spiele mit einem Publisher zu produzieren ist der beste Weg, um berühmt zu werden.
   LOADING_SCREEN_TIP_5: >
     Sie können Messen in Ihren eigenen Gebäuden organisieren, aber Sie sollten sie besser nur einmal pro Jahr veranstalten.
   LOADING_SCREEN_TIP_6: >
@@ -1071,9 +1071,9 @@ de:
   LOADING_SCREEN_TIP_8: >
     Einstein, unser Maskottchen, bellte 65,13 Mal bei der Entwicklung des City Game Studio.
   LOADING_SCREEN_TIP_9: >
-    12654 Weihnachtslieder wurden während der Entwicklung von City Game Studio gehört.
+    12.654 Weihnachtslieder wurden während der Entwicklung von City Game Studio gehört.
   LOADING_SCREEN_TIP_10: >
-    Ein Blick auf Marktanteile ist gut, aber man muss auch auf die ANzahl der Spiele achten, die auf einer Plattform veröffentlicht wurden.
+    Ein Blick auf Marktanteile ist gut, aber man muss auch auf die Anzahl der Spiele achten, die auf einer Plattform veröffentlicht wurden.
   LOADING_SCREEN_TIP_11: >
     Du möchtest bei der Übersetzung von City Game Studio helfen? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
@@ -1102,14 +1102,14 @@ de:
   MARKETING_CAMPAIGN_TV: Fernsehwerbekampagne
   MARKETING_CAMPAIGN_INTERNET: Online-Werbekampagne
   CONCURRENT_STUDIOS_LIST: Liste der Wettbewerber
-  CONCURRENT_STUDIOS_BUY: Aufkauf von Wettbewerbern
+  CONCURRENT_STUDIOS_BUY: Kaufen von Wettbewerbern
   FURNITURES_COMMON_BUY: Möbel kaufen
   EMPLOYEES_HIRE: Personal einstellen
   STUDIO_RENT: Mieten Sie ein Büro
   STUDIO_BUILD: Neubau eines Büros
   CONVENTION_ORGANIZE: Organisieren Sie eine Messe
   CONVENTION_PARTICIPATE: An einer Messe teilnehmen
-  STUDIO_CUSTOMIZE: Renovieren Sie Ihre Studios
+  STUDIO_CUSTOMIZE: Renovieren Sie Ihre Büros
   FURNITURES_SERVERS_BUY: Server kaufen
   GAME_ONLINE: Online-Spiele veröffentlichen
   DIGITAL_STORE: Digitaler Vertrieb
