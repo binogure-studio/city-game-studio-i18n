@@ -13,16 +13,16 @@ Nur eine Aneinanderkettung von Erfolgen ermöglicht dir von all den Publishern l
 [h2]Jedes Spiel ist einzigartig![/h2]
 Karten und Studios werden zufällig generiert. Kombiniert mit zufälligen Ereignissen und anpassbaren Studios, wirst du das Spiel jedes mal neu entdecken.
 
-[h2]Hole dir das beste Studio![/h2]
-Durchsuche die Stadt und finde den besten Ort für dein nächstes Studio.
+[h2]Hole dir das beste Büro![/h2]
+Durchsuche die Stadt und finde den besten Ort für dein nächstes Büro.
 Wie mein Onkel immer sagte: „Man kann mehr Talente mit Honig als mit Essig fangen!“
 
 [h2]Richte deine Studios ein[/h2]
-Nicht jeder ist ein Studio Designer, trotzdem hat jedes Möbelstück seinen Platz im Studio und kann Einfluss auf die Geschichte deiner Firma haben!
+Nicht jeder ist ein Studio Designer, trotzdem hat jedes Möbelstück seinen Platz im Studio und kann Einfluss auf die Geschichte deiner Firma haben! Notfalls lässt du dir von einem Architekten helfen.
 
 [h2]Publish, Hire, Repeat[/h2]
 Jedes Spiel ist einzigartig, doch von Zeit zu Zeit kommen neue Generationen von Spielekonsolen!
 Du kannst alleine keine Bestseller machen und musst neue Talente einstellen die dir dabei helfen, das perfekte Spiel zu entwickeln!
 
 [h2]Entwicklung[/h2]
-Die Entwicklung dieses Spieles wird auf dem Twitch-Kanal von binogure auf franzöisch gestreamt.
+Die Entwicklung dieses Spieles wird auf dem Twitch-Kanal von binogure auf französisch gestreamt.
