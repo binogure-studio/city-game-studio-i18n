@@ -150,7 +150,7 @@ pt:
     [b]%s[/b] tenta novos combos, e funciona para eles. Este é um excelente jogo de [b]%s[/b]
   LABEL_REVIEW_COMBO_BAD: |
     É apenas mais um jogo [b]%s[/b]. Eles devem aprender a se renovar no [b]%s[/b]
-  LABEL_CRACKED: Rachado
+  LABEL_CRACKED: Crackeado
   LABEL_SELECT_COMPANY_SPECIALIZATION: Especialização em gênero de jogos
   LABEL_DISCORD_COMMUNITY: Comunidade Discord
   LABEL_LAST_MONTH: Vai durar %s meses
@@ -284,7 +284,7 @@ pt:
 
     Obrigado pelo seu tempo
     [b]%s[/b]
-  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Aplicativo espontâneo
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Aplicação espontâneo
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Olá,
 
@@ -367,7 +367,7 @@ pt:
   LABEL_FANBASE: Fanbase
   LABEL_FULLSCREEN: Tela cheia
   LABEL_GAME_GENRE: Gênero
-  LABEL_GAME_HISTORY: História do jogo
+  LABEL_GAME_HISTORY: Ludografia
   LABEL_GAME_NAME: Nome
   LABEL_GAME_SIZE: Tamanho
   LABEL_GAME_ONLINE_SHORT: Multijogador online
@@ -669,7 +669,7 @@ pt:
   LABEL_POSTMORTEM_DESCRIPTION_LIST: Aqui o que aprendemos com [b]%s[/b]:%s
   LABEL_POSTMORTEM_MATCH: "[ul] - A combinação entre [i]%s[/i] e [i]%s[/i] é [b]%s[/b][/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul] - [b]%s[/b] é [b]%s[/b] para o tipo de jogo [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_MARGINAL: marginais
+  LABEL_POSTMORTEM_MARGINAL: negligível
   LABEL_POSTMORTEM_INSIGNIFICANT: insignificante
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativamente importante
   LABEL_POSTMORTEM_VERY_IMPORTANT: muito importante
@@ -952,7 +952,9 @@ pt:
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
     Você pode criar uma loja de jogos desmaterializados e, finalmente, uma primeira versão alfa que precisará ser melhorada.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    Você pode fazer ofertas de editores, ele traz-lhe um monte de dinheiro, mas cuidado com as más notas.
+    Você pode fazer ofertas de publicação,
+    traz-lhe muito dinheiro,
+    mas cuidado com as notas ruins.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
     Um post-mortem é um relatório do que correu bem ou mal durante o desenvolvimento do jogo, ele lhe dá pistas.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
@@ -981,8 +983,9 @@ pt:
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Agora você pode desbloquear novos gêneros de jogos. Para ganhar pontos de experiência, basta publicar jogos
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    Os contratos estão agora disponíveis. Completar um contrato dá-lhe dinheiro, experiência e dicas para um género de jogo específico.
-
+    Os contratos estão agora disponíveis.
+    Completar um dá-lhe dinheiro, experiência
+    e dicas para um género de jogo específico.
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Nome da empresa
   PLACEHOLDER_GAME_GENRE: Gênero jogo
@@ -1000,7 +1003,7 @@ pt:
   LABEL_FAN_LOST: Isso afetou sua popularidade, você perdeu fãs do %s
   LABEL_PENALTY_COST: A justiça decidiu, você deve pagar %s$
   LABEL_EMPLOYEE_HIRED: Você contratou o %s
-  LABEL_GAME_CRACKED: Estragaste o %s
+  LABEL_GAME_CRACKED: Crackeou o %s
   LABEL_GENRE_STOLEN: Você aprendeu %s
   LABEL_STUDIO_SOLD: Eles venderam %s
 
@@ -1026,16 +1029,15 @@ pt:
   TOOLTIP_GAMEPORT: Portar um videogame para outra plataforma
   TOOLTIP_POSTMORTEM: |
     Crie um relatório postmortem.
-    Um relatório pós-morte ajuda você
-    a criar jogos melhores
+    Ajuda você a criar jogos melhores
   TOOLTIP_CREATE_GAME: Crie um novo jogo
   TOOLTIP_STAFF: Lista pessoal
   TOOLTIP_RECRUIT: |
     Listar possíveis candidatos
     disponíveis na cidade
-  TOOLTIP_PORTFOLIO: Liste todo o jogo que você fez até agora
+  TOOLTIP_PORTFOLIO: Liste todos os jogos que você fez até agora
   TOOLTIP_OPTION: Parâmetro e opções
-  TOOLTIP_EXIT: De volta ao Linux
+  TOOLTIP_EXIT: Sair do jogo
   TOOLTIP_STUDIOS: Listar seus estúdios
   TOOLTIP_STUDIOLIST: Listar escritórios disponíveis na cidade
   TOOLTIP_CONSTRUCT: |
@@ -1109,7 +1111,7 @@ pt:
   LOADING_SCREEN_TIP_20: >
     Se o seu estúdio tem um nível de habilidade desigual, ele pode afetar a qualidade geral de um jogo.
 
-  GAMEEDITION_SUBMIT: Ofertas de publicação de números
+  GAMEEDITION_SUBMIT: Publicar ofertas de jogo
   GAMEEDITION_RECEIVE: Receber ofertas de publicação
   WORLDMAP: Mapa da cidade
   MARKETING_CAMPAIGN_MAGAZINE: Campanha publicitária na imprensa
