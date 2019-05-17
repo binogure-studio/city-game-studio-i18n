@@ -59,6 +59,8 @@ uk:
   BUTTON_CONTINUE: Продовжити
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Розробник
+  LABEL_GAME_CAPACITY: Можливість гри
   LABEL_BONUS_PRODUCTIVITY: Бонусна продуктивність
   LABEL_MARKETING_MANAGER: Менеджер з маркетингу
   LABEL_BONUS_HYPE: Гай-бонус
@@ -128,8 +130,9 @@ uk:
     %s буде працювати на наступній грі %s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Поширюються чутки, і, здається, %s не задоволений угодою, яку вони уклали з %s    
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     Потрібно %d співробітників в одній студії
+    Потрібно %d виробник
   LABEL_STUDIO_NOT_BALANCED: >
     Ця студія не виробляє такої ж кількості Дизайн/Розробка або полірування
     Це впливає на якість ігор
@@ -322,7 +325,7 @@ uk:
   LABEL_GAME_ANNOUNCED_TITLE: Оголошено %s
   LABEL_TRENDING: Тенденції
   LABEL_CREATOR: Творець
-  LABEL_PRODUCER: Режисер
+  LABEL_PRODUCER: Виробник
   LABEL_COMMUNITY_MANAGER: Менеджер спільноти
   LABEL_SOUND_COMPOSER: Звуковий композитор
   LABEL_SPECIAL_THANKS: Особлива подяка

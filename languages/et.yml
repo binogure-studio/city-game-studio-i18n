@@ -60,6 +60,8 @@ et:
   BUTTON_CONTINUE: Jätka
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Arendaja
+  LABEL_GAME_CAPACITY: Mängu maht
   LABEL_BONUS_PRODUCTIVITY: Boonuse tootlikkus
   LABEL_MARKETING_MANAGER: Turundusjuht
   LABEL_BONUS_HYPE: Hype boonus
@@ -129,8 +131,9 @@ et:
     %s töötab järgmisel mängul %s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Kuuluvad kuulujutud, ja tundub, et %s ei ole rahul %siga tehtud tehinguga    
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     Nõuab %d töötajat ühes stuudios
+    Nõuab %d tootja
   LABEL_STUDIO_NOT_BALANCED: >
     See stuudio ei tooda sama palju disaini/arendust või poleerimist
     See mõjutab mängude kvaliteeti

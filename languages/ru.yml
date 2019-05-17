@@ -60,6 +60,8 @@ ru:
   BUTTON_CONTINUE: Продолжить
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Разработчик
+  LABEL_GAME_CAPACITY: Емкость игры
   LABEL_BONUS_PRODUCTIVITY: Бонус производительности
   LABEL_MARKETING_MANAGER: Менеджер по маркетингу
   LABEL_BONUS_HYPE: Обман бонуса
@@ -129,8 +131,9 @@ ru:
     %s будет работать над следующей игрой %s.
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Ходят слухи, и похоже, что %s недоволен заключенной сделкой с %s.    
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     Требуется %d сотрудников в одной студии.
+    Требуется %d продюсер
   LABEL_STUDIO_NOT_BALANCED: >
     Эта студия не производит такое же количество дизайна/разработки или полировки.
     Это влияет на качество игры.

@@ -60,6 +60,8 @@ nl:
   BUTTON_CONTINUE: Ga verder
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Ontwikkelaar
+  LABEL_GAME_CAPACITY: Capaciteit van het spel
   LABEL_BONUS_PRODUCTIVITY: Bonusproductiviteit
   LABEL_MARKETING_MANAGER: Marketing manager
   LABEL_BONUS_HYPE: Hype-bonus
@@ -129,8 +131,9 @@ nl:
     %s gaat werken aan het volgende spel %s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Er doen geruchten de ronde en het lijkt erop dat %s niet tevreden is met de deal die ze met %s hebben gesloten.
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     Vereist %d medewerkers in één studio
+    Vereist %d producent
   LABEL_STUDIO_NOT_BALANCED: >
     Deze studio is onevenwichtig, het produceert niet dezelfde hoeveelheid Design/Development/Polish.
     Dit zal worden weerspiegeld in de kwaliteit van de spellen.

@@ -60,6 +60,8 @@ fr:
   BUTTON_CONTINUE: Continuer
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Développeur
+  LABEL_GAME_CAPACITY: Nombre de jeux
   LABEL_BONUS_PRODUCTIVITY: Productivité bonus
   LABEL_MARKETING_MANAGER: Responsable marketing
   LABEL_BONUS_HYPE: Engouement bonus
@@ -131,8 +133,9 @@ fr:
     %s a été choisi pour développer leur prochain jeu %s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Des rumeurs courent, et il parait que %s n'est pas satisfait du deal qu'ils ont passés avec %s
-  LABEL_REQUIRE_EMPLOYEE: >
-    Nécessite %d employés dans un seul studio
+  LABEL_REQUIRE_EMPLOYEE: |
+    Nécessite %d employés dans un seul studio.
+    Nécessite %d producteur.
   LABEL_STUDIO_NOT_BALANCED: >
     Ce studio est déséquilibré, il ne produit pas le même montant de Design/Developpement/Polish.
     Cela va se refléter sur la qualité des jeux.

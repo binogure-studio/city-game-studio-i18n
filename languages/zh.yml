@@ -60,6 +60,8 @@ zh:
   BUTTON_CONTINUE: 继续
 
   # Labels, descriptive
+  LABEL_DEVELOPER: 开发人员
+  LABEL_GAME_CAPACITY: 制作游戏
   LABEL_BONUS_PRODUCTIVITY: 奖金生产力
   LABEL_MARKETING_MANAGER: 市场经理
   LABEL_BONUS_HYPE: 炒作奖金
@@ -128,8 +130,9 @@ zh:
     %s将在下一个游戏%s上运行
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     有谣言流传说似乎%s对他们与%s做的交易不满意
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     在一个工作室中需要%d名员工
+    在一个工作室中需要%d制片人
   LABEL_STUDIO_NOT_BALANCED: >
     这个工作室不制作同样多的设计/开发元素或润色。
     这会影响到游戏的总体质量。
@@ -333,7 +336,7 @@ zh:
   LABEL_GAME_ANNOUNCED_TITLE: "%s 宣布"
   LABEL_TRENDING: 趋势
   LABEL_CREATOR: 创建人
-  LABEL_PRODUCER: 制作人
+  LABEL_PRODUCER: 制片人
   LABEL_COMMUNITY_MANAGER: 社区经理
   LABEL_SOUND_COMPOSER: 音乐作曲者
   LABEL_SPECIAL_THANKS: 特别鸣谢

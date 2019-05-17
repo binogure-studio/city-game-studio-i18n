@@ -60,6 +60,8 @@ tr:
   BUTTON_CONTINUE: Devam et
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Geliştirici
+  LABEL_GAME_CAPACITY: Oyun kapasitesi
   LABEL_BONUS_PRODUCTIVITY: Bonus verimlilik
   LABEL_MARKETING_MANAGER: Pazarlama Müdürü
   LABEL_BONUS_HYPE: Hype bonusu
@@ -129,8 +131,9 @@ tr:
     %s bir sonraki maçta çalışacak %s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Söylentiler dolaşıyor ve %s'nin %s ile yaptıkları anlaşmadan memnun olmadığı görülüyor
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     Tek bir stüdyoda %d çalışan gerektirir
+    %d yapımcı çalışan gerektirir
   LABEL_STUDIO_NOT_BALANCED: >
     Bu stüdyo aynı miktarda Tasarım/Geliştirme veya cila üretmiyor
     Bu oyun kalitesini etkiliyor

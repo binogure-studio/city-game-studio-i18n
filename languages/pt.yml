@@ -60,6 +60,8 @@ pt:
   BUTTON_CONTINUE: Continuar
 
   # Labels, descriptive
+  LABEL_DEVELOPER: Desenvolvedor
+  LABEL_GAME_CAPACITY: Capacidade do jogo
   LABEL_BONUS_PRODUCTIVITY: Produtividade bônus
   LABEL_MARKETING_MANAGER: Gerente de marketing
   LABEL_BONUS_HYPE: Bônus de campanha publicitária
@@ -129,8 +131,9 @@ pt:
     %s vai trabalhar no próximo jogo %s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Circulam rumores, e parece que %s não está satisfeito com o acordo que fizeram com %s    
-  LABEL_REQUIRE_EMPLOYEE: >
+  LABEL_REQUIRE_EMPLOYEE: |
     Requer %d funcionários em um único estúdio
+    Requer %d produtor
   LABEL_STUDIO_NOT_BALANCED: >
     Este estúdio não produz a mesma quantidade de Design/Desenvolvimento ou polimento.
     Isto está impactando na qualidade dos jogos.
