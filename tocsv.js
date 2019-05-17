@@ -47,7 +47,7 @@ console.log(Object.keys(result).reduce((acc, key) => {
     if (amount_of_percent == null) {
       amount_of_percent = item.split('%d').length
     } else if (amount_of_percent != item.split('%d').length) {
-      console.error(`Error with ${key}`)
+      console.error(`Error with ${key} ${item}`)
     }
   })
 
