@@ -60,6 +60,8 @@ zh:
   BUTTON_CONTINUE: 继续
 
   # Labels, descriptive
+  LABEL_WORKING: 工作
+  LABEL_DEFAULT: 预设的
   LABEL_DEVELOPER: 开发人员
   LABEL_GAME_CAPACITY: 制作游戏
   LABEL_BONUS_PRODUCTIVITY: 奖金生产力
@@ -177,19 +179,19 @@ zh:
     
     此致 
     Binogure
-  LABEL_SALES_HITS_0: > 
+  LABEL_SALES_HITS_0: >
     [b]%s[/b]的发售情况很好，我相信这会通过[b]%d%%[/b]提高销售额
-  LABEL_SALES_HITS_1: > 
+  LABEL_SALES_HITS_1: >
     [b]%s[/b] 在本月的表现也不算太差，根据我的估计，它会提高销售额至[b]%d%%[/b]
-  LABEL_SALES_HITS_2: > 
+  LABEL_SALES_HITS_2: >
     好吧，我们来谈谈 [b]%s[/b]。 发售情况非常好，我认为我们可以预期销售额会增加[b]%d%%[/b]
-  LABEL_SALES_HITS_3: > 
+  LABEL_SALES_HITS_3: >
     有了 [b]%s[/b] ，我们就能发展更大，销售额应该可以增加至[b]%d%%[/b]
-  LABEL_SALES_HITS_4: > 
+  LABEL_SALES_HITS_4: >
     今天是美好的一天，[b]%s[/b]应该看到 [b]%d%%[/b] 增加
-  LABEL_SALES_HITS_5: > 
+  LABEL_SALES_HITS_5: >
     可以预期[b]%s[/b] 将增加[b]%d%%[/b]
-  LABEL_SALES_HITS_6: > 
+  LABEL_SALES_HITS_6: >
     恭喜获得[b]%s[/b]的销售额，我们的销售应该可以再增加[b]%d%%[/b]
   LABEL_CONVENTION_INCOMING: |
     亲爱的%s， 
@@ -874,12 +876,16 @@ zh:
     可以通过许多游戏杂志组织营销活动。这将提高你的游戏的曝光率。
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
     你可以租用广告牌来放置目前正在销售的游戏的海报。
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
+    你现在能招聘市场经理了，他们会帮助你在市场上变得更有竞争力。
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
     你可以做电视广告。虽然电视广告很贵，但谁不看电视？
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
     你现在可以在网站上显示广告。这种广告很便宜，而且可吸引更多玩家。
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
     现在可以在网站上创建一个展示区向全世界展示你的游戏。
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_2: >
+    网络管理员能提高网络的容量，使得服务器能容纳更多玩家同时在线。
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     你可以在城市地图上看到竞争对手，现在你可以看到它们。
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
@@ -888,6 +894,12 @@ zh:
     当你在一个工作室里的时候，你可以购买新家具对工作室进行装扮。
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     请记住，最好的游戏是由设计，开发和优化三个方面都很强大的团队制作的。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
+    游戏监制能提高员工的效率，并允许你开发3A级游戏。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
+    人力资源专员能提高员工的幸福感，并允许你可以编排员工的工作表。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
+    雇佣一个会计能帮助你缴更少的税。
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     你可以租用新建筑物。这将你就可以同时处理多个游戏项目。
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

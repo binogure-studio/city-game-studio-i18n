@@ -59,6 +59,8 @@ ar:
   BUTTON_CONTINUE: استمر
 
   # Labels, descriptive
+  LABEL_WORKING: عمل
+  LABEL_DEFAULT: افتراضيا
   LABEL_DEVELOPER: مطور
   LABEL_GAME_CAPACITY: قدرة اللعبة
   LABEL_BONUS_PRODUCTIVITY: إنتاجية المكافأة
@@ -933,27 +935,37 @@ ar:
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
     يسمح بتنظيم حملة تسويقية من خلال العديد من مجلات الألعاب. هذا سيزيد من وضوح
     ألعابك.
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: |
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
     يتيح لك استئجار لوحات إعلانية لوضع ملصقات لألعابك معروضة حاليًا.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
+    يمكنك الآن توظيف مديري التسويق. أنها تعزز حملات التسويق الخاصة بك!
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
     يسمح لك بتنظيم حملات إعلانية تلفزيونية. إنه مكلف ، لكن من لا يشاهد التلفاز
     هذه الأيام؟!
-  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
     يمكنك الآن عرض إعلان في مواقع الويب. إنها رخيصة ، وتضم المزيد من اللاعبين.
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
     من الممكن الآن إنشاء عرض على شبكة الإنترنت العالمية لإظهار العالم بوجود
     ألعابك.
-  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: |
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_2: >
+    يعمل مسؤولو الشبكات على تحسين قدرات الخوادم ، مما يتيح لك دعم المزيد من اللاعبين بنفس كمية الخوادم
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     تستطيع أن ترى منافسيك على خريطة المدينة ، والآن يمكنك مشاهدتها.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     يعتبر شراء منافسيك وسيلة سهلة لكسب الكثير من المعجبين ، بالإضافة إلى توسيع
     نطاق شركتك.
-  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: |
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     أثناء النظر إلى إحدى استوديوهاتك ، يمكنك الآن شراء أثاث جديد.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     ضع في اعتبارك أن أفضل الألعاب يتم إنتاجها بواسطة فرق قوية في التصميم
     والتطوير والتلميع.
-  LABEL_STUDIO_RENT_DESCRIPTION_0: |
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
+    يعزز منتجو ألعاب الفيديو إنتاجية الموظف ويسمح لك بإنشاء ألعاب AAA.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
+    الموارد البشرية تعزز سعادة الموظف ويمكنك تخصيص جداول الموظف
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
+    التعاقد مع محاسب سوف تساعدك على توفير الضرائب.
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
     يسمح لك باستئجار مباني جديدة. سيتيح لك ذلك العمل في عدة مشاريع في نفس الوقت.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
     يتيح لك بناء استوديوهات جديدة. إنها مكلفة ، وهي واحدة من الطرق الوحيدة
@@ -961,14 +973,14 @@ ar:
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     بالإضافة إلى القدرة على إنشاء استوديوهات ، يمكنك أيضًا إنشاء مراكز مؤتمرات ،
     وهو أمر ضروري لتنظيم المؤتمرات.
-  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: |
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     إذا كنت بحاجة إلى مراكز مؤتمرات ، فيمكنك تنظيم مؤتمرات.
-  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: |
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
     يمكنك المشاركة في الاتفاقيات ، مما يزيد من وضوح ألعابك من وقت لآخر.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
     يمكنك إعادة طلاء الجدران وتغيير المنشورات وإعادة أرضيات الاستوديوهات الخاصة
     بك.
-  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: |
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
     سيتيح لك شراء الخوادم إنشاء ألعاب عبر الإنترنت وكذلك بوابة إلكترونية.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
     يمكنك إنشاء ألعاب عبر الإنترنت. أنها عادة ما تكون أقل تكلفة ، ولكن يجب على
