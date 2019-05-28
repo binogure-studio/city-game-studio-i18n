@@ -54,7 +54,7 @@ pt:
   BUTTON_SPY: Espie um concorrente
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar funcionário deles
   BUTTON_SELECT: Selecione
-  BUTTON_SAVEGAME: Guardar jogo
+  BUTTON_SAVEGAME: Salvar jogo
   BUTTON_SELL_ITEMS: Vender os móveis
   BUTTON_CONTINUE: Continuar
   LABEL_WORKING: Trabalhar
@@ -79,7 +79,7 @@ pt:
   LABEL_AMOUNT_EDITED_GAME: Quantidade de jogos publicados
   LABEL_AMOUNT_STUDIO: Quantidade de estúdios
   LABEL_AMOUNT_POSTMORTEM: Quantidade de relatórios de jogos
-  LABEL_AMOUNT_ATTENDED_CONVENTION: Quantidade de convenções assistidas
+  LABEL_AMOUNT_ATTENDED_CONVENTION: Quantidade de convenções que você participou
   LABEL_AMOUNT_DESK: Quantidade de escrivaninhas
   LABEL_MORTGAGE_NOT_INTERESTED: Você não tem propriedade suficiente para poder pegar um empréstimo
   LABEL_THANKYOU_PURCHASING: >-
@@ -308,10 +308,10 @@ pt:
   LABEL_PRICE_MONTHLY: Custos mensais
   LABEL_SERVER_MONITORING_REPORT: Estado dos servidores
   LABEL_ONLINE_USAGE: Jogadores online
-  LABEL_ONLINE_CAPACITY: Capacidade total do jogador
+  LABEL_ONLINE_CAPACITY: Capacidade total do jogo
   LABEL_ONLINE_CAPACITY_TOOLTIP: Capacidade de jogadores simultâneos on-line
   LABEL_SERVER: Servidor
-  LABEL_CAMPAIGN_NO_COST: Fale com a imprensa
+  LABEL_CAMPAIGN_NO_COST: Falar com a imprensa
   LABEL_CAMPAIGN_DEMO: Publicar uma demonstração
   LABEL_CAMPAIGN_FULL: Executar uma campanha publicitária
   LABEL_GAME_ANNOUNCED_DESCRIPTION: >-
@@ -347,7 +347,7 @@ pt:
   LABEL_GAME: Jogo
   LABEL_GAMEPORT: Portar um jogo
   LABEL_CONVENTION: Centro de exibição
-  LABEL_LAND_VALUE: Valor de terra
+  LABEL_LAND_VALUE: Valor do terreno
   LABEL_SURFACE: Superfície
   LABEL_HYPE: Campanha publicitária
   LABEL_AI: Inteligência artificial
@@ -367,7 +367,7 @@ pt:
   LABEL_FANBASE: Fanbase
   LABEL_FULLSCREEN: Tela cheia
   LABEL_GAME_GENRE: Gênero
-  LABEL_GAME_HISTORY: Ludografia
+  LABEL_GAME_HISTORY: Histórico dos seus jogos
   LABEL_GAME_NAME: Nome
   LABEL_GAME_SIZE: Tamanho
   LABEL_GAME_ONLINE_SHORT: Multijogador online
@@ -592,7 +592,7 @@ pt:
   LABEL_INPUT_ACTION_UI_REPEAT: colocar vários itens
   LABEL_CATCHPHRASE_1_0: Uma perda de tempo
   LABEL_CATCHPHRASE_1_1: Eles colocaram tudo no trailer
-  LABEL_CATCHPHRASE_1_2: Não compre
+  LABEL_CATCHPHRASE_1_2: Não cumpre o que prometeu
   LABEL_CATCHPHRASE_1_3: Uma falta gravíssima de criatividade
   LABEL_CATCHPHRASE_1_4: Mediocridade no seu auge
   LABEL_CATCHPHRASE_1_5: A pior pontuação possível
@@ -623,7 +623,7 @@ pt:
   LABEL_CATCHPHRASE_6_0: Sem graça
   LABEL_CATCHPHRASE_6_1: Um jogo simplista mas redundante
   LABEL_CATCHPHRASE_6_2: Humilde mas interessante
-  LABEL_CATCHPHRASE_6_3: Divertido mas superficial
+  LABEL_CATCHPHRASE_6_3: Divertido, mas superficial
   LABEL_CATCHPHRASE_6_4: Um conceito interessante estragado pela aleatoriedade
   LABEL_CATCHPHRASE_6_5: Teve bons momentos
   LABEL_CATCHPHRASE_7_0: Equilíbrio e eficiência
@@ -645,7 +645,7 @@ pt:
   LABEL_CATCHPHRASE_9_4: Uma experiência incrível
   LABEL_CATCHPHRASE_9_5: Um trabalho incrível
   LABEL_CATCHPHRASE_10_0: Uma obra-prima da jogabilidade
-  LABEL_CATCHPHRASE_10_1: Uma obra-prima da atuação
+  LABEL_CATCHPHRASE_10_1: Uma obra-prima da atualidade
   LABEL_CATCHPHRASE_10_2: Essencial
   LABEL_CATCHPHRASE_10_3: Um dos melhores jogos ultimamente
   LABEL_CATCHPHRASE_10_4: 'Horas de jogo, apenas bons momentos'
@@ -661,7 +661,7 @@ pt:
   LABEL_POSTMORTEM: Post-mortem
   LABEL_EMPTY_STUDIO: Atenção este estúdio não contém nenhuma mesa com um computador!
   LABEL_MATCH_EXCELLENT: Combinação excelente
-  LABEL_MATCH_GOOD: Combinação boa
+  LABEL_MATCH_GOOD: Uma boa combinação
   LABEL_MATCH_OK: Combinação mediana
   LABEL_MATCH_POOR: Combinação ruim
   LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
@@ -669,7 +669,7 @@ pt:
   LABEL_POSTMORTEM_DESCRIPTION_LIST: 'Aqui está o que aprendemos com [b]%s[/b]:%s'
   LABEL_POSTMORTEM_MATCH: '[ul] - A combinação entre [i]%s[/i] e [i]%s[/i] é [b]%s[/b][/ul]'
   LABEL_POSTMORTEM_CAPACITY: '[ul] - [b]%s[/b] é [b]%s[/b] para o tipo de jogo [b]%s[/b][/ul]'
-  LABEL_POSTMORTEM_MARGINAL: insignificante
+  LABEL_POSTMORTEM_MARGINAL: marginal
   LABEL_POSTMORTEM_INSIGNIFICANT: insignificante
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativamente importante
   LABEL_POSTMORTEM_VERY_IMPORTANT: muito importante
@@ -688,7 +688,7 @@ pt:
   LABEL_ADOPT_CAT_TITLE: Gato abandonado
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     No Blue Studio, dois irmãos acabaram de lançar um novo jogo. É uma mudança
-    de jogo e surgiu um novo tipo de jogo. O Misterioso
+    de jogo e surgiu um novo tipo de jogo. Mistério
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Misterioso foi inventado
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar acaba de lançar um novo jogo que revolucionou a indústria do jogo.
@@ -789,7 +789,7 @@ pt:
   LABEL_NO_COMPUTER: Sem computador
   LABEL_NO_STUDIO: Sem estúdio
   LABEL_EMPLOYEE_CAPACITY: Prod.
-  LABEL_STUDIO_CAPACITY: Studio prod.
+  LABEL_STUDIO_CAPACITY: Prod. do estúdio.
   LABEL_EMPLOYEE_TOOLTIP: A produtividade (Prod.) Aumenta a eficiência do empregado
   LABEL_STUDIO_TOOLTIP: A produtividade (Prod.) Aumenta a eficiência do estúdio
   LABEL_BUILD_STUDIO: Editar estúdio
@@ -812,7 +812,7 @@ pt:
   LABEL_RENT_PRICE: Preço do aluguel
   LABEL_NO_STUDIO_AVAILABLE: Nenhum estúdio disponível
   LABEL_REAL_ESTATE: Imobiliária
-  LABEL_STAFF_SIZE: Tamanho do pessoal
+  LABEL_STAFF_SIZE: Tamanho da equipe
   LABEL_CREATION_DATE: Data de criação
   LABEL_STUDIO_LIST: Lista de estúdios
   LABEL_NO_STUDIO_FOUND: Nenhum estúdio encontrado
@@ -821,7 +821,7 @@ pt:
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Janela sem bordas
   LABEL_GAMEEDITION_SUBMIT: |
-    Você tem muitos fãs.  Você é conhecido o suficiente para publicar jogos.
+    Você tem muitos fãs.  Você é conhecido suficientemente para publicar jogos.
   LABEL_GAMEEDITION_RECEIVE: >-
     Após seu sucesso recente, em breve, os editores entrarão em contato com você
     para fazer ofertas.
@@ -877,7 +877,7 @@ pt:
   LABEL_NO_SCORE: Nenhuma pontuação enviada ainda!
   LABEL_CAPACITY_STORY_FEATURE: >-
     Um bom jogo é sempre bom, uma boa história é sempre boa. Que tal um bom jogo
-    com uma história boa?
+    com uma boa história?
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
     Qual é o propósito desse botão? Você precisa
      gerenciar a interface do usuário de seus jogos.
@@ -1016,7 +1016,7 @@ pt:
     Agora os contratos estão disponíveis. Ao completar algum você ganha:
     dinheiro,experiência e dicas para um gênero de jogo específico.
   PLACEHOLDER_COMPANY_NAME: Nome da empresa
-  PLACEHOLDER_GAME_GENRE: Gênero jogo
+  PLACEHOLDER_GAME_GENRE: Gênero do jogo
   PLACEHOLDER_GAME_NAME: Nome do jogo
   PLACEHOLDER_PLAYER_NAME: Seu nome
   LABEL_VERSION_BETA: Versão beta
@@ -1031,7 +1031,7 @@ pt:
   LABEL_GENRE_STOLEN: Você aprendeu %s
   LABEL_STUDIO_SOLD: Eles venderam %s
   TOOLTIP_CONVENTION_LIST: |
-    Convenções assistidas
+    Convenções que participou
   TOOLTIP_FORCE_STUDIO: |
     Você deve selecionar o estúdio cuja venda você deseja forçar
   TOOLTIP_CRACK_GAME: |
@@ -1140,9 +1140,9 @@ pt:
   CONCURRENT_STUDIOS_LIST: Listar os concorrentes
   CONCURRENT_STUDIOS_BUY: Compra de concorrentes
   FURNITURES_COMMON_BUY: Compra de móveis
-  EMPLOYEES_HIRE: Contratar pessoal
-  STUDIO_RENT: Alugar um apartamento estúdio
-  STUDIO_BUILD: Construindo um estúdio
+  EMPLOYEES_HIRE: Contratar equipe
+  STUDIO_RENT: Alugar um estúdio
+  STUDIO_BUILD: Construir um estúdio
   CONVENTION_ORGANIZE: Organizar uma convenção
   CONVENTION_PARTICIPATE: Participar de uma convenção
   STUDIO_CUSTOMIZE: Renovar seus estúdios
@@ -1156,7 +1156,7 @@ pt:
   USERINTERFACE: Interface de usuário
   NETWORK: Rede
   MODDING: Modding
-  CUTSCENES: Cenas cortadas
+  CUTSCENES: CuTscenes
   TUTORIEL: Tutoriais
   MARKETING_CAMPAIGN_SOCIALNETWORK: Campanha de publicidade direcionada
   MARKETING_CAMPAIGN_MAILINGLIST: Campanha de publicidade por e-mail
