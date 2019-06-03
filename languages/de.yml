@@ -58,7 +58,7 @@ de:
   BUTTON_SAVEGAME: Spiel speichern
   BUTTON_SELL_ITEMS: Verkaufen Sie die Möbel 
   BUTTON_CONTINUE: Fortsetzen
-  BUTTON_DETAILS: Einzelheiten
+  BUTTON_DETAILS: Details
   BUTTON_CHARTS: Diagramme
 
   # Labels, descriptive
@@ -80,20 +80,20 @@ de:
   LABEL_STEP: Schritt
   LABEL_CONTRACT: Vertrag
   LABEL_BEST_GAME: Bestes Spiel
-  LABEL_AMOUNT_GAMEPORT: Anzahl der Gameports
+  LABEL_AMOUNT_GAMEPORT: Anzahl der Spielportierungen
   LABEL_AMOUNT_EDITED_GAME: Anzahl der veröffentlichten Spiele
   LABEL_AMOUNT_STUDIO: Anzahl der Büros
   LABEL_AMOUNT_POSTMORTEM: Anzahl der Spielberichte
   LABEL_AMOUNT_ATTENDED_CONVENTION: Anzahl der besuchten Messen
-  LABEL_AMOUNT_DESK: Anzahl der Tische
-  LABEL_MORTGAGE_NOT_INTERESTED: Sie haben nicht genug Sicherheiten, um einen Kredit aufnehmen zu können.
+  LABEL_AMOUNT_DESK: Anzahl der Arbeitsplätze
+  LABEL_MORTGAGE_NOT_INTERESTED: Sie haben nicht genug Sicherheiten, um diesen Kredit aufnehmen zu können.
   LABEL_THANKYOU_PURCHASING: |
     Seid gegrüßt,
 
-    Zeigen Sie Ihre Unterstützung, indem Sie City Game Studio kaufen.
-    Ohne Ihre Unterstützung kann ich nicht weiterarbeiten und City Game Studio verbessern.
+    danke für deine Unterstützung durch den Kauf.
+    Ohne deine Unterstützung kann ich nicht weiterarbeiten und City Game Studio verbessern.
     
-    Wenn Sie also Spaß am Spielen von City Game Studio haben und Indie-Spiele mögen, zeigen Sie bitte Ihre Unterstützung.
+    Wenn du also Spaß am Spielen von City Game Studio haben und Indie-Spiele magst, unterstütz mich gern weiterhin.
 
     Binogure
   LABEL_CREATE_POSTMORTEM: Machen Sie einen Spiel-Bericht
@@ -139,7 +139,7 @@ de:
     Benötigt %d Mitarbeiter in einem einzigen Studio
     Benötigt %d Produzenten
   LABEL_STUDIO_NOT_BALANCED: >
-    Dieses Studio produziert nicht die gleiche Menge an Design/Entwicklung oder Perfektion.
+    Dieses Studio produziert nicht die gleiche Menge an Design, Entwicklung oder Perfektion.
     Dies wirkt sich auf die Spielqualität aus.
   LABEL_LAST_COMBO: "Das letzte Mal hast du bereits dieselbe Kombo (Thema/Genre) erstellt."
   LABEL_POINTRATIO_NOT_ENOUGH: |
@@ -274,7 +274,7 @@ de:
     An [b]%s[/b] (%s),
 
     [b]%s[/b] hat nicht den erwarteten Erfolg erzielt, und wir sind verpflichtet, den unterschriebenen Vertrag zu kündigen.
-    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt auf der Rückseite unterm Kaffefleck, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
+    Gemäß Seite 5863, Absatz 99z, Absatz 99z, Absatz k, braunes Blatt auf der Rückseite unter dem Kaffefleck, müssen Sie also eine Strafe von [b]%s$[/b] zahlen.
 
     Hochachtungsvoll,
     Die Abteilung für schlechte Verkäufe, [b]%s[/b]
@@ -307,7 +307,7 @@ de:
     Ich schreibe, um Ihnen mitzuteilen, dass ich mit sofortiger Wirkung von meiner Position bei [b]%s[/b] zurücktrete.
     Ich bin gegangen, weil ich einen neuen Job in der Nähe von zu Hause und in einem attraktiveren Unternehmen gefunden habe.
 
-    Ich habe die Jahre der Zusammenarbeit mit euch sehr genossen, ich werde euch alle vermissen!
+    Ich habe die Zeit der Zusammenarbeit mit euch sehr genossen, ich werde euch alle vermissen!
 
     Mit freundlichen Grüßen,
     [b]%s[/b]
@@ -352,7 +352,7 @@ de:
   LABEL_ATTENDANCE: Teilnahme
   LABEL_NONE: Keine
   LABEL_NO_BUILDING: Kein Gebäude verfügbar
-  LABEL_NO_CONVENTION: Keine Messe geplant
+  LABEL_NO_CONVENTION: Keine Messe verfügbar
   LABEL_CONVENTION_LAST_DATE: Letzte Messe
   LABEL_DATE: Datum
   LABEL_STANDSIZE: Standgröße
@@ -380,7 +380,7 @@ de:
   LABEL_DIFFICULTY: Schwierigkeit
   LABEL_EVENT_TYPE: Ereignistyp
   LABEL_UNIT_SOLD: Einheiten verkauft
-  LABEL_FANBASE: Fanbase
+  LABEL_FANBASE: Fans
   LABEL_FULLSCREEN: Vollbildschirm
   LABEL_GAME_GENRE: Genre
   LABEL_GAME_HISTORY: Spielhistorie
@@ -595,7 +595,7 @@ de:
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Game over
   LABEL_SCORE: Ergebnis
-  LABEL_WAGE_INCREASES_TITLE: Die Löhhe sind gestiegen!
+  LABEL_WAGE_INCREASES_TITLE: Die Löhne sind gestiegen!
   LABEL_WAGE_INCREASES_DESCRIPTION: "Die folgenden Mitarbeiter bekommen eine Lohnerhöhung:"
   LABEL_PRESS_KEY: Drücke
   LABEL_WORD_OR: oder
@@ -711,7 +711,7 @@ de:
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
     3 Jungs in einer Garage haben ein neues Spiel entwickelt.
     Es ist so berühmt, dass es ein neues Spielgenre geschaffen hat! Es heißt 'Gauner'!
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook-like wurde erfunden
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Genre Gauner wurde erfunden
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
     3 amerikanische Designer haben gerade einen Mod für ein berühmtes Spiel entwickelt.
     Das Moba-Genre wurde geboren!
@@ -754,7 +754,7 @@ de:
   LABEL_BURNING_SERVER_TITLE: Die Server brennen
   LABEL_SMOKING_SERVER_DESCRIPTION: >
     Dein Studio macht sehr gute Online-Spiele und du hast viele Spieler!
-    Die Server erreichen jedoch ihre maximale Kapazität, die meisten davon werden zu 90%% oder mehr verwendet.
+    Die Server erreichen jedoch ihre maximale Kapazität, die meisten davon werden zu 90%% oder mehr ausgelastet.
     Du solltest neue Server kaufen.
   LABEL_SMOKING_SERVER_TITLE: Warnung zur Serverkapazität
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
@@ -880,12 +880,12 @@ de:
   LABEL_FURNITURES_SERVERS_BUY: >
     Mehr Schreibtische, mehr Stühle, mehr Computer, mehr Whiteboards, mehr mehr!
   LABEL_DIGITAL_STORE: >
-    Digitalisierung, Du hast schon einiges darüber gehört und weißt bereits, dass es die Zukunft sein wird.
+    Digitalisierung! Du hast schon einiges darüber gehört und weißt bereits, dass es die Zukunft sein wird.
   LABEL_POSTMORTEM_FEATURE: >
     Herzlichen Glückwunsch, du hast dein erstes Spiel entwickelt!
     Nun kannst du einen Bericht erstellen, um bei der Einschätzung der Technologie-, Design- und Perfektionspunkte zu helfen.
   LABEL_NEW_GAME_FEATURE: >
-    Bereit, die epische Geschichte der Videospiel-Industrie von Anfang zu erleben?
+    Bist du bereit, die epische Geschichte der Videospiel-Industrie zu erleben?
     Willkommen in City Game Studio!
     Fang an und erstelle dein erstes Spiel!
   LABEL_LOADING: Wird geladen...
@@ -893,7 +893,7 @@ de:
   LABEL_SALARY: Gehalt
   LABEL_NO_SCORE: Noch keine Punktzahl hochgeladen!
   LABEL_CAPACITY_STORY_FEATURE: >
-    Ein gutes Spiel ist immer gut, eine gute Story ist immer gut.
+    Ein gutes Spiel ist immer gut, eine gute Story macht es noch besser.
     Was ist mit einer Mischung aus gutem Spiel und guter Story?
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
     'Was passiert, wenn ich den großen roten Knopf drücke???' - Du musst dich um die Benutzeroberfläche deiner Spiele kümmern!
@@ -919,7 +919,7 @@ de:
     Spam ist das neue Wort in der Welt des Internets, und du kannst die Methode nutzen, um deine Spiele zu vermarkten!
   LABEL_GAMEPORT_FEATURE: >
     Träume werden wahr - Eine neue Konsole wurde gerade veröffentlicht!
-    Du kannst bereits veröffentlichte Spiele nun auf andere Platformen umportieren.
+    Du kannst bereits veröffentlichte Spiele nun auf andere Platformen portieren.
     Los geht's, probier es aus!
   LABEL_GAME_CREATION: Legen sie die Zeit, die in die jeweiligen Bereiche der Entwicklung gesteckt wird, mithilfe der Regler fest.
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
@@ -951,7 +951,7 @@ de:
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
     Videospielhersteller steigern die Produktivität der Mitarbeiter und ermöglichen es Ihnen, AAA-Spiele zu erstellen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
-    Die Personalabteilung steigert die Zufriedenheit der Mitarbeiter und Sie können die Zeitpläne der Mitarbeiter anpassen.
+    Die Personalabteilung steigert die Zufriedenheit der Mitarbeiter und Sie können die Schichten der Mitarbeiter anpassen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     Die Einstellung eines Buchhalters hilft Ihnen, Steuern zu sparen.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
