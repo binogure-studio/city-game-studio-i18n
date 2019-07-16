@@ -65,13 +65,13 @@ de:
   # Labels, descriptive
   LABEL_KEEP_HINTS: Behalten Sie die Tipps
   LABEL_SELECT_GAME_OF_THE_YEAR: Wählen Sie das Spiele aus, das präsentiert werden soll.
-  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Veröffentlichung der Ausgabe des Spiels des Jahres
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Veröffentlichung der "Game of the Year"-Edition
   LABEL_GAME_OF_THE_YEAR: >
-    Seit Jahren veröffentlichen Zeitschriften ihre eigene Liste.
-    In letzter Zeit scheint sich einer von denen zu entwickeln, es ist das Spiel des Jahres.
+    Seit Jahren veröffentlichen Zeitschriften ihre eigenen TopListen.
+    Allmälich werden Sie auch auf dich aufmerksam. Du hast das Spiel des Jahres!
   LABEL_RIGHT_CLICK_TO_CLOSE: Rechtsklick zum Schließen
   LABEL_STARTING_YEAR: Anfangsjahr
-  LABEL_CURRENCY_UNLIMITED: Unbegrenzte Währung
+  LABEL_CURRENCY_UNLIMITED: Unbegrenztes Geld
   LABEL_ADVANCED_START: Erweiterter Start
   LABEL_WORKING: Zur Arbeit
   LABEL_DEFAULT: Standard
@@ -771,9 +771,9 @@ de:
   LABEL_PAYLOAN_TITLE: Kredit zurückzahlen
   LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun fällig, du musst [b]%s$[/b] bezahlen.
   LABEL_SELL_STUDIO_TITLE: Studio verkaufen
-  LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Studio [b]%s[/b]. Bist du dir sicher?
+  LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Büro [b]%s[/b]. Bist du dir sicher?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
-    Da [b]%s[/b] dein letztes Studio ist oder es an einem Projekt arbeitet, kannst du es nicht verkaufen
+    Da [b]%s[/b] dein letztes Büro ist oder es an einem Projekt arbeitet, kannst du es nicht verkaufen
   LABEL_BUILDING_AREA: "Fläche: %s m²"
   LABEL_BUILDING_BUY: Preis
   LABEL_BUILDING_RENT: Mietpreis
@@ -954,7 +954,7 @@ de:
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     Du konntest deine Konkurrenten auf dem Stadtplan sehen, jetzt kannst du sie beobachten.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
-    Der Kauf Ihrer Konkurrenten ist ein einfacher Weg, um viele Fans zu gewinnen und Ihr Unternehmen zu erweitern.
+    Der Kauf deiner Konkurrenten ist ein einfacher Weg, um viele Fans zu gewinnen und dein Unternehmen zu erweitern.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
     Während Sie sich eines Ihrer Büros ansehen, können Sie jetzt neue Möbel kaufen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
@@ -964,7 +964,7 @@ de:
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
     Die Personalabteilung steigert die Zufriedenheit der Mitarbeiter und Sie können die Schichten der Mitarbeiter anpassen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
-    Die Einstellung eines Buchhalters hilft Ihnen, Steuern zu sparen.
+    Die Einstellung eines Buchhalters hilft Ihnen Steuern zu sparen.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Ermöglicht es Ihnen, neue Gebäude zu mieten. Auf diese Weise können Sie an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
@@ -1088,12 +1088,12 @@ de:
   TOOLTIP_SALARY_COST: |
     Gehaltskosten
   TOOLTIP_STEAM_MODS: |
-    Steam workshop
+    Steam Workshop
   TOOLTIP_HUMANRESOURCE: |
     Weisen Sie einen Personalleiter zu, der die Schichtpläne Ihrer
     Mitarbeiter verwaltet.
   TOOLTIP_GAME_OF_THE_YEAR: |
-    Jedes Jahr wird ein neues Spiel zum Spiel des Jahres befördert
+    Jedes Jahr wird ein neues Spiel zum Spiel des Jahres ernannt
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
