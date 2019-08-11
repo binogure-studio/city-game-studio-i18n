@@ -6,7 +6,7 @@ en:
   BUTTON_HIRE: Hire
   BUTTON_APPLY: Apply
   BUTTON_BACK: Back
-  BUTTON_BUILD_MODE: Build mode
+  BUTTON_BUILD_MODE: Build's mode
   BUTTON_BUILDING_RENT: Rent
   BUTTON_CANCEL: Cancel
   BUTTON_CANCEL_ALL: Cancel all
@@ -23,7 +23,7 @@ en:
   BUTTON_RESET: Reset
   BUTTON_SKIP: Skip
   BUTTON_START: Start
-  BUTTON_NEED_STUDIO: No available studio
+  BUTTON_NEED_STUDIO: No studio available
   BUTTON_CLEAR_EVENTS: Clear
   BUTTON_TOO_BAD: Too bad
   BUTTON_BUY_ANOTHER_ONE: Buy another one
@@ -45,7 +45,7 @@ en:
   BUTTON_DELETE: Delete
   BUTTON_DELETE_ALL: Delete all
   BUTTON_SPAM: Spam
-  BUTTON_UNSPAM: Not a spam
+  BUTTON_UNSPAM: Not spam
   BUTTON_HOLIDAY: Send the studio on a holiday
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Bug report
@@ -65,7 +65,7 @@ en:
   # Labels, descriptive
   LABEL_KEEP_HINTS: Keep hints
   LABEL_SELECT_GAME_OF_THE_YEAR: Select the video game to show
-  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publish game of the year edition
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publish a game of the year edition
   LABEL_GAME_OF_THE_YEAR: >
     For years, magazines have published their own list. Lately one of those
     seems to take off, it is the Game Of The Year
@@ -81,27 +81,27 @@ en:
   LABEL_MARKETING_MANAGER: Marketing manager
   LABEL_BONUS_HYPE: Hype bonus
   LABEL_ACCOUNTANT: Accountant
-  LABEL_BONUS_TAXES: Taxes reduction
+  LABEL_BONUS_TAXES: Taxes' reduction
   LABEL_NETWORK_ADMINISTRATOR: Network administrator
   LABEL_BONUS_SERVER: Server load bonus
   LABEL_HUMAN_RESOURCE: Human resources
   LABEL_BONUS_HAPPINESS: Bonus happiness
-  LABEL_AMOUNT_OF_TIPS: Amount of tips
+  LABEL_AMOUNT_OF_TIPS: Number of tips
   LABEL_REQUIRED_POINTS: Required points
   LABEL_STEP: Step
   LABEL_CONTRACT: Contract
   LABEL_BEST_GAME: Best game
-  LABEL_AMOUNT_GAMEPORT: Amount of gameports
-  LABEL_AMOUNT_EDITED_GAME: Amount of published games
-  LABEL_AMOUNT_STUDIO: Amount of studios
-  LABEL_AMOUNT_POSTMORTEM: Amount of postmortems
-  LABEL_AMOUNT_ATTENDED_CONVENTION: Amount of attended conventions
-  LABEL_AMOUNT_DESK: Amount of desks
-  LABEL_MORTGAGE_NOT_INTERESTED: You do not have enough property to be able to take out a loan
+  LABEL_AMOUNT_GAMEPORT: Number of game ports
+  LABEL_AMOUNT_EDITED_GAME: Number of published games
+  LABEL_AMOUNT_STUDIO: Number of studios
+  LABEL_AMOUNT_POSTMORTEM: Number of postmortems
+  LABEL_AMOUNT_ATTENDED_CONVENTION: Number of attended conventions
+  LABEL_AMOUNT_DESK: Number of desks
+  LABEL_MORTGAGE_NOT_INTERESTED: You do not have enough property to be able to borrow money
   LABEL_THANKYOU_PURCHASING: |
     Greetings,
 
-    Show your support byu buying City Game Studio.
+    Show your support by buying City Game Studio.
     Without your support I cannot keep working and improving City Game Studio.
     
     So if you enjoy playing City Game Studio and if you like indie games, please show your support.
@@ -135,7 +135,7 @@ en:
     Dear [b]%s[/b],
 
     Since [b]%s[/b] has not met with the expected success, we are committed to paying the [b]%s$[/b] penalty as soon as possible.
-    We hope that this snag will not harm our future cooperation.
+    We hope this snag won't harm future cooperation.
 
     Respectfully,
     [b]%s[/b]
@@ -143,16 +143,16 @@ en:
     Cannot publish a new game yet
   LABEL_EDIT_GAME: Publish game offer
   LABEL_EDIT_GAME_ANNOUNCE: |
-    %s is going to work on the very next game %s
+    [b]%s[/b] has started working on [b]%s[/b].
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
-    Rumours are circulating, and it seems that %s is not satisfied with the deal they made with %s
+    It is rumoured that [b]%s[/b] is not satisfied with the deal they made with [b]%s[/b].
   LABEL_REQUIRE_EMPLOYEE: |
-    Requires %d employees in a single studio
-    Requires %d producer
+    Requires %d employees in a single studio.
+    Requires %d producer.
   LABEL_STUDIO_NOT_BALANCED: >
-    Check your studio's team. It seems it does not produce the same amount of Design/Development or Polish.
+    Check your studio's team. It does not produce the same number of Design/Development or Polish.
     It will impact the games you will create.
-  LABEL_LAST_COMBO: "Last time you've made the same combo theme/genre"
+  LABEL_LAST_COMBO: "Last time you've made the same combo theme/genre."
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] lacks [b]%s[/b].
   LABEL_POINTRATIO_TOO_MUCH: |
@@ -164,23 +164,23 @@ en:
   LABEL_MANUFACTURER: Manufacturer
   LABEL_EXPIRED: Expired
   LABEL_POINTRATIO_GOOD: |
-    At [b]%s[/b] they know how to manage the [b]%s[/b]
+    At [b]%s[/b] they know how to manage the [b]%s[/b].
   LABEL_POINTRATIO_BAD: |
-    [b]%s[/b] is their weakness. Their production team is not sufficiently balanced.
+    [b]%s[/b] is their weakness. Their staff is not sufficiently balanced.
   LABEL_REVIEW_PLATFORM_GOOD: |
     [b]%s[/b] has a great team, they shine on all sides.
   LABEL_REVIEW_PLATFORM_BAD: |
-    It is time for [b]%s[/b] to hire more staff. They do not have the manpower to be able to publish [b]%s[/b] games on [b]%s[/b].
+    [b]%s[/b] cannot publish great [b]%s[/b] games on [b]%s[/b] due to lack of manpower.
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b] is not up to their reputation. We expected more from them, especially after their video game [b]%s[/b]
+    [b]%s[/b] is not up to their reputation. We expected more from them, especially after [b]%s[/b].
   LABEL_REVIEW_COMBO_GOOD: |
-    [b]%s[/b] tries new combos, and it works for them. This is an excellent [b]%s[/b] game
+    [b]%s[/b] tries new combos, and it works for them. It's an excellent [b]%s[/b] game.
   LABEL_REVIEW_COMBO_BAD: |
-    It is just another [b]%s[/b] game. They must learn to renew themselves at [b]%s[/b]
+    Yet another [b]%s[/b] game. They must learn to renew themselves at [b]%s[/b].
   LABEL_CRACKED: Cracked
   LABEL_SELECT_COMPANY_SPECIALIZATION: Game genre specialization
   LABEL_DISCORD_COMMUNITY: Discord community
-  LABEL_LAST_MONTH: Will last for %s months
+  LABEL_LAST_MONTH: Will last for %s months.
   LABEL_SUCCESS_RATE: Success probability
   LABEL_RISKS: Risks involved
   LABEL_SALES_HITS_TITLE: Sales report
@@ -188,33 +188,35 @@ en:
     Hello %s,
 
     I know how much you love my emails.
-    So here we are, since we can observe good sales, I did some calculations and today we are going to talk about sales of %s
+    So here we are, since we can see good sales, I did some calculations and today we are going to talk about sales of %s.
 
     %s
 
-    Sincerely
+    Sincerely,
     Binogure
   LABEL_SALES_HITS_0: >
-    [b]%s[/b] sales are doing well, I believe this will improve sales by [b]%d%%[/b]
+    [b]%s[/b] sales are doing well, I think it will improve sales by [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] is not too bad this month, according to my estimates it will improve sales by [b]%d%%[/b]
+    [b]%s[/b] is not too bad this month, according to my estimates it will improve sales by [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    All right, let's talk about [b]%s[/b]. Sales are excellent, and I think we can expect [b]%d%%[/b] increase in sales
+    All right, let's talk about [b]%s[/b]. Sales are excellent, and I think we can expect [b]%d%%[/b] increase in sales.
   LABEL_SALES_HITS_3: >
-    With [b]%s[/b] we will be able to think big, sales should increase by [b]%d%%[/b]
+    With [b]%s[/b] we will be able to think big, sales should increase by [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
-    Today is a great day, [b]%s[/b] should see a [b]%d%%[/b] increase
+    Today is a great day, [b]%s[/b] should see a [b]%d%%[/b] increase.
   LABEL_SALES_HITS_5: >
-    It is to be expected that [b]%s[/b] will increase by [b]%d%%[/b]
+    It is to be expected that [b]%s[/b] will increase by [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Congratulations with the sales of [b]%s[/b], we should reach a [b]%d%%[/b] increase
+    Congratulations with the sales of [b]%s[/b], we should reach a [b]%d%%[/b] increase.
   LABEL_CONVENTION_INCOMING: |
     Dear %s,
 
     We are pleased to announce [b]%s[/b] scheduled for [b]%s[/b].
 
     The convention will last 3 days, and we are waiting for [b]%s[/b] visitors.
-    You can already rent a stand to show your most beautiful creations. Hurry up, places are limited.
+    You can already rent a stand to show your best games.
+
+    Please note spaces are limited.
 
     Sincerely,
     The organizers of %s
@@ -270,13 +272,13 @@ en:
   LABEL_COMPANY_WIDE: Company wide
   LABEL_STUDIO_WIDE: This studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    You must have at least [b]3[/b] people working in a studio to be able to apply for a publisher offer.
+    You must have at least [b]3[/b] employees in a single studio to deal with a publisher.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelled"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     For [b]%s[/b] (%s),
 
     We are particularly disappointed that you have cancelled the development of [b]%s[/b].
-    In accordance with the contract duly signed, page 453, paragraph 72d, paragraph W, pink sheet, you must pay the penality of [b]%s$[/b] and reimburse us as soon as possible.
+    In accordance with the contract duly signed, page 453, paragraph 72d, paragraph W, pink sheet, you must pay the penality of [b]%s$[/b] immediately.
 
     Respectfully,
     The honest law firm, [b]%s[/b]
@@ -284,8 +286,8 @@ en:
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     For [b]%s[/b] (%s),
 
-    [b]%s[/b] has not met with the expected success, and we must apply the signed contract to the letter.
-    Thus, according to page 5863, paragraph 99z, brown sheet, you must pay the penality of [b]%s$[/b] and reimburse us as soon as possible.
+    [b]%s[/b] has not met with the expected success, and we have to apply the signed contract literally.
+    Thus, according to page 5863, paragraph 99z, brown sheet, you must pay the penality of [b]%s$[/b] immediately.
 
     Respectfully,
     The department of bad sales, [b]%s[/b]
@@ -306,21 +308,29 @@ en:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hello,
     
-    I am [b]%s[/b], I love [b]%s[/b] and I would like to join your team as soon as possible.
-    I will be able to be effective and bring new knowledge to your teams.
+    [b]%s[/b], I came across a very exciting position on your job portal that I believe fits me perfectly.
+    After reading the job description and requirements and matching it with my own experiences, I know that I would be a valuable asset to your organization.
 
-    Thank you for your time,
+    I recently graduated with a Bachelor of Science degree in Computer Engineering from the University of Mars.
+    I now want to apply my skills in a company like [b]%s[/b].
+    As an engineer, I can implement engineering concepts to design innovative and ingenious products for consumers.
+    
+    I would love to talk to you in more detail regarding this amazing opportunity at your company. It would give me great pleasure to hear back from you regarding my application. 
+
+    Sincerely,
     [b]%s[/b]
-  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaneous application
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontaneous job application
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hello,
 
-    I am writing to inform you that I am resigning from my position at [b]%s[/b] effective immediately.
-    I left because I found a new job closer to home, and in a company more attractive.
+    I write to inform you that I am resigning from my position here at [b]%s[/b]. It is effective immediately.
+    Thank you so much for all of the opportunities this company has provided me. I have learned so much, and will never forget the kindness of all of my colleagues.
 
-    I really enjoyed the years spent working with you, I will miss you all!
+    Let me know if there is anything I can do to make this transition easier.
 
-    Sincerely
+    Thank you again for your support and encouragement.
+
+    Respectfully yours,
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Resignation
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
@@ -334,7 +344,7 @@ en:
   LABEL_SERVER_MONITORING_REPORT: Servers status
   LABEL_ONLINE_USAGE: Online players count
   LABEL_ONLINE_CAPACITY: Total player capacity
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Amount of online concurrent players
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Number of online concurrent players
   LABEL_SERVER: Server
   LABEL_CAMPAIGN_NO_COST: Talk to the press
   LABEL_CAMPAIGN_DEMO: Publish a demo
@@ -349,9 +359,9 @@ en:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Fans are excited, so say we all!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Fans are not happy and the specialized magazines already seem to want to let off steam on this game
+    Fans are angry, the specialized magazines want to let off steam on this game.
 
-    It must be said that they released a similar game not so long ago.
+    It must be said it looks like an asset flip of a game they released recently.
   LABEL_GAME_ANNOUNCED_TITLE: "%s announced"
   LABEL_TRENDING: Trending
   LABEL_CREATOR: Created by
@@ -415,10 +425,10 @@ en:
   LABEL_OPTIMIZATION: Optimization
   LABEL_OUTCOME: Expenses
   LABEL_PHYSICS: Physics
-  LABEL_GAME_FINISHED: Congratulations, you've completed City Game Studio
+  LABEL_GAME_FINISHED: Congratulations, you've completed City Game Studio.
   LABEL_PLANNING: Planning
   LABEL_NO_PLATFORM_AVAILABLE: >
-    Game already ported to every single platform available
+    Game already ported to every platform.
   LABEL_PLATFORM: Platform
   LABEL_PLAYER_NAME: Player name
   LABEL_PROFITS: Profits
@@ -567,11 +577,17 @@ en:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Hard
   LABEL_DIFFICULTY_INSANE: Insane
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] has released a new platform: [b]%s[/b]"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] retire the so well known [b]%s[/b], fans are crying"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] will release a new platform within a few months [b]%s[/b] it should last for years"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] announces the end of life of the so well known [b]%s[/b]"
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "You have unlocked the license for the [b]%s[/b], it costs [b]%s$[/b]"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: |
+    [b]%s[/b] has released a new platform: [b]%s[/b]
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    [b]%s[/b] retire the so well known [b]%s[/b], fans are crying.
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+    [b]%s[/b] will release a new platform within a few months [b]%s[/b] it should last for years.
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    [b]%s[/b] announces the end of life of the so well known [b]%s[/b]
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
+    You have unlocked the license for the [b]%s[/b].
+    It costs [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Platform released
   LABEL_PLATFORM_DISCONTINUED_TITLE: Discontinued platform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Upcoming platform
@@ -599,8 +615,8 @@ en:
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Game over
   LABEL_SCORE: Score
-  LABEL_WAGE_INCREASES_TITLE: Wage increases
-  LABEL_WAGE_INCREASES_DESCRIPTION: "The following employees have had a wage raises:"
+  LABEL_WAGE_INCREASES_TITLE: Salary increase
+  LABEL_WAGE_INCREASES_DESCRIPTION: "Following employees have had an increase in pay:"
   LABEL_PRESS_KEY: Press
   LABEL_WORD_OR: or
   LABEL_INPUT_ACTION_UI_ROTATE: to rotate the item
@@ -677,16 +693,16 @@ en:
   LABEL_CREATE_SEQUEL: Create a sequel
   LABEL_NEW_IP: New IP
   LABEL_POSTMORTEM: Post-mortem
-  LABEL_EMPTY_STUDIO: Warning this studio does not contain any desktop with a computer!
+  LABEL_EMPTY_STUDIO: This studio does not contain any desktop with a computer!
   LABEL_MATCH_EXCELLENT: Excellent match
   LABEL_MATCH_GOOD: Good match
   LABEL_MATCH_OK: Ok match
   LABEL_MATCH_POOR: Poor match
   LABEL_POSTMORTEM_TITLE: Post-mortem (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: We've learnt nothing new from [b]%s[/b]
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Here what we've learned from [b]%s[/b]:%s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- Match between [i]%s[/i] and [i]%s[/i] is [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] is [b]%s[/b] for [b]%s[/b] games[/ul]"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "This is what we've learned from [b]%s[/b]:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Match between [i]%s[/i] and [i]%s[/i] is [b]%s[/b][/ul]."
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] is [b]%s[/b] for [b]%s[/b] games[/ul]."
   LABEL_POSTMORTEM_MARGINAL: marginal
   LABEL_POSTMORTEM_INSIGNIFICANT: insignificant
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relatively important
@@ -731,19 +747,19 @@ en:
     Experts had found that games can target a specific audience.
     They published a paper about 3 differents audiences: young, everybody and mature
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
-    A new virus has been unleashed. It only targets the video game companies.
+    An unknown virus targetting video game companies, has been unleashed.
     It seems odds, but it slows down cursors and randomly reboots computers.
     This will have certainly an impact on the productivity of your employees.
     Only [b]%s[/b] is being attacked
   LABEL_VIRUS_UNLEASHED_TITLE: Virus unleashed
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     The smitties, famous for their game reviews, have just published a new video.
-    And this time, he reviewed one of your games [b]%s[/b]. This will certainly have an impact on sells.
+    They reviewed [b]%s[/b], it is YOUR game! It will impact sales.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Free ads
   LABEL_LOAN_TITLE: Last-resort loan
   LABEL_LOAN_DESCRIPTION: >
-    You need some extra money, we can help you. You can refund yourself with a loan of [b]%s$[/b].
-    Our interests rates are as low as only [b]%s%%[/b], and you have [b]%s[/b] weeks to repay.
+    You need some extra money, and we can help you. You can refund yourself with a loan of [b]%s$[/b].
+    Our interest rates are as low as only [b]%s%%[/b], and you have [b]%s[/b] weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
   LABEL_BURNING_SERVER_DESCRIPTION: >
     Does it smell like fire?!
@@ -756,10 +772,10 @@ en:
     You should buy new servers.
   LABEL_SMOKING_SERVER_TITLE: Server capacity warning
   LABEL_PAYLOAN_TITLE: Repay a loan
-  LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, you have to pay [b]%s$[/b].
+  LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, and you have to pay [b]%s$[/b].
   LABEL_SELL_STUDIO_TITLE: Selling a studio
-  LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio [b]%s[/b], do you want to continue ?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Since [b]%s[/b] is your last studio or it is busy to work on a project, you cannot sell it
+  LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio [b]%s[/b], do you want to continue?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Since [b]%s[/b] is your last studio or it is busy to work on a project, you cannot sell it.
   LABEL_BUILDING_AREA: Area %s m²
   LABEL_BUILDING_BUY: Price
   LABEL_BUILDING_RENT: Rent
@@ -803,8 +819,8 @@ en:
   LABEL_NO_STUDIO: No studio
   LABEL_EMPLOYEE_CAPACITY: Prod.
   LABEL_STUDIO_CAPACITY: Studio prod.
-  LABEL_EMPLOYEE_TOOLTIP: The productivity (Prod.) boosts the employee efficiency
-  LABEL_STUDIO_TOOLTIP: The productivity (Prod.) boosts the studio efficiency
+  LABEL_EMPLOYEE_TOOLTIP: The productivity (Prod.) boosts the employee efficiency.
+  LABEL_STUDIO_TOOLTIP: The productivity (Prod.) boosts the studio efficiency.
   LABEL_BUILD_STUDIO: Edit studio
   LABEL_WALL: Wall
   LABEL_PILLAR: Pillar
@@ -867,13 +883,13 @@ en:
     Time to redesign it.
   LABEL_GAME_ONLINE: >
     How to keep your players glued to the screen?
-    The INTERNET, make online games and they will be addicted!
+    The INTERNET. Make online games and they will be addicted!
   LABEL_FURNITURES_SERVERS_BUY: >
     More desks, more chairs, more computers, more white boards, more more!
   LABEL_DIGITAL_STORE: >
     Dematerialised, you start hearing about it and you already know it is the future.
   LABEL_POSTMORTEM_FEATURE: >
-    Congratulations, you have made your first game. You can now proceed to a post-mortem in order to help you evaluate its development, design and polish
+    Congratulations, you have made your first game. You can now proceed to a post-mortem in order to help you evaluate its development, design and polish.
   LABEL_NEW_GAME_FEATURE: >
     Ready to relive the epic history of video games from its very beginning?
     Welcome to City Game Studio. Get started and create your first game.
@@ -886,16 +902,16 @@ en:
     What about a good game with a good story?
   LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
     What is the purpose of that button?
-    You need to manage the user interface of your games
+    You need to manage the user interface of your games.
   LABEL_CAPACITY_NETWORK_FEATURE: >
     It is time, playing a video game is awesome, however playing it with friends is even better!
-    You need to manage the network for your games
+    You need to manage the network for your games.
   LABEL_CAPACITY_MODDING_FEATURE: >
     Some of your games have already been modified by players.
     Thanks to that, you sell more game.
-    It is time to help those hackers, and work on a proper mod API: for your games
+    It is time to help those hackers and work on a proper mod API: for your games
   LABEL_CAPACITY_CUTSCENES_FEATURE: >
-    Movies are influencing video games, we need to manage cutscenes while creating a new game
+    Movies are influencing video games, and we need to manage cutscenes while creating a new game.
   LABEL_CAPACITY_TUTORIEL_FEATURE: >
     Playing a new game is like learning.
     It is not easy, so you've decided to create a tutorial for your new games.
@@ -907,7 +923,7 @@ en:
 
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
     A recent study shows that sending unsolicited emails can significantly increase
-    the visibility of your games. Spam is the new word in the mood and
+    the visibility of your games. Spam is the new word in the mood, and
     you can use them to market your games!
 
   LABEL_GAMEPORT_FEATURE: >
@@ -915,25 +931,25 @@ en:
     You can release a cross-platform game.
     Let's go, try it out!
 
-  LABEL_GAME_CREATION: Estimate the workload of every part of your game by adjusting each gauge
+  LABEL_GAME_CREATION: Estimate the workload of every part of your game by adjusting each gauge.
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
     You can look at publishers' offers. Publishing a game is an easy way to become popular and to publish bigger games.
   LABEL_WORLDMAP_DESCRIPTION_0: >
     Visit the city, have a look at the competition, and check where your studio is.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
-    Allows to organize a marketing campaign through many gaming magazines. This will increase the visibility of your games.
+    Allows organizing a marketing campaign through many gaming magazines. This will increase the visibility of your games.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
-    Allows you to rent advertising boards to place posters of your games currently on sale.
+    Allows renting advertising boards to place posters of your games currently on sale.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
     You can now hire marketing managers. They boost your marketing campaigns!
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
-    Allows you to organize television advertising campaigns. It's expensive, but who doesn't watch television these days?!
+    Allows organizing television advertising campaigns. It's expensive, but who doesn't watch television these days?!
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
     You can now display an advertising insert on websites. It's cheap, and it brings in more players.
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
     It is now possible to create a showcase on the world wide web to show the world that your games exist.
   LABEL_GAME_ONLINE_DESCRIPTION_1: >
-    Network administrators improve servers capacities, allowing you support more players with the same amount of servers
+    Network administrators improve servers capacities, allowing you support more players with the same number of servers.
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     You could see your competitors on the city map, now you can watch them.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
@@ -949,15 +965,15 @@ en:
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     Hiring an accountant will help you saving on taxes.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
-    Allows you to rent new buildings. This will allow you to work on several projects at the same time.
+    Allows renting new buildings. This will allow you to work on several projects at the same time.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    Allows you to build new studios. It's expensive, it's one of the only ways to keep growing without limit.
+    Allows building new studios. It's expensive, it's one of the only ways to keep growing without limit.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     In addition to being able to build studios, you can also build conference centres, which is necessary to organize conferences.
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     If you need to have conference centres then you can organize conferences.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
-    You can participate in conventions, this will increase the visibility of your games from time to time.
+    You can participate in conventions, and this will increase the visibility of your games from time to time.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
     You can repaint the walls, change the posts and redo the floors of your studios.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
@@ -967,36 +983,36 @@ en:
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
     You can create a dematerialized game store, and finally a first alpha version that will need to be improved.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    You can make offers from publishers, it brings you a lot of money but beware of bad remarks.
+    You can make offers from publishers, and it brings you a lot of money but beware of bad remarks.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
     A post-mortem is a report of what went right or wrong during the development of the game, it gives you hints.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     Creating a good game allows you to progress in City Game Studio, earn money, fans and experience.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    When creating a game you can now choose the target audience, this has an influence on the final score and sales of the game.
+    When creating a game, you can now choose the target audience, and this has an influence on the final score and sales of the game.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    You have a new design gauge when creating a game
+    You have a new design gauge when creating a game.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    You have a new design gauge when creating a game
+    You have a new design gauge when creating a game.
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    You have a new development gauge when creating a game
+    You have a new development gauge when creating a game.
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    You have a new development gauge when creating a game
+    You have a new development gauge when creating a game.
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    You have a new polishing gauge when creating a game
+    You have a new polishing gauge when creating a game.
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    You have a new polishing gauge when creating a game
+    You have a new polishing gauge when creating a game.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
-    You can advertise on social networks, it's very targeted, expensive and very effective
+    You can advertise on social networks, it's very targeted, expensive and very effective.
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
-    Sending emails will cost you almost nothing and will influence the sales of your games
+    Sending emails will cost you almost nothing and will influence the sales of your games.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    You can port your games to new platforms, it's simple and only one person is needed.
-  LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games, you feel ready to develop new game mechanics
+    You can port your games to new platforms. It's simple and only one person is needed.
+  LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games. You feel ready to develop new game mechanics.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
-    You can now unlock new game genres. To earn experience points, you just have to publish games
+    You can now unlock new game genres. To earn experience points, you just have to publish games.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    Contracts are now available. Completing a contract gives you money, experience and tips for specific game genre.
+    Contracts are now available. Completing a contract gives you money, experience and tips for a specific game genre.
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Company name
@@ -1012,8 +1028,8 @@ en:
   LABEL_SUCCESS: Succeeded
   LABEL_FAILURE: Failure
   LABEL_CANNOT_INTERACT: You will no longer be able to communicate with %s until %s
-  LABEL_FAN_LOST: This has affected your popularity, you lose %s fans
-  LABEL_PENALTY_COST: Justice has ruled, you must pay %s$
+  LABEL_FAN_LOST: This has affected your popularity, and you lose %s fans
+  LABEL_PENALTY_COST: Justice has ruled, and you must pay %s$
   LABEL_EMPLOYEE_HIRED: You've hired %s
   LABEL_GAME_CRACKED: You've cracked %s
   LABEL_GENRE_STOLEN: You've learnt %s
@@ -1023,38 +1039,38 @@ en:
   TOOLTIP_CONVENTION_LIST: |
     Attended conventions
   TOOLTIP_FORCE_STUDIO: |
-    You must select the studio whose sale you want to force
+    You must select the studio whose sale you want to force.
   TOOLTIP_CRACK_GAME: |
-    You must select the game you want to hack
+    You must select the game you want to hack.
   TOOLTIP_HIRE_STAFF: |
-    You must select the employee you wish to recruit
+    You must select the employee you wish to recruit.
   TOOLTIP_CONCURRENT_LOCKED: |
-    You will be able to try again an action against %s from %s
+    You will be able to try again an action against %s from %s .
   TOOLTIP_TUTORIEL: |
     %s to unlock %s
   TOOLTIP_EMAIL: |
-    Read the news and your mail
+    Read the news and your mail.
   TOOLTIP_UNLOCK_GAME_GENRE: |
     Allows you to unlock new types of games.
   TOOLTIP_MANAGE_STUDIO: |
     To manage your studios, upgrade computers, assign employees...
-  TOOLTIP_GAMEPORT: Port a video game onto another platform
+  TOOLTIP_GAMEPORT: Port a video game onto another platform.
   TOOLTIP_POSTMORTEM: |
     Create a postmortem report.
     A postmortem report help
-    you create better games
+    you create better games.
   TOOLTIP_CREATE_GAME: Create a new game
   TOOLTIP_STAFF: Staff's list
-  TOOLTIP_RECRUIT: List potential candidates available in town
-  TOOLTIP_PORTFOLIO: List all the game you've made so far
+  TOOLTIP_RECRUIT: List potential candidates available in town.
+  TOOLTIP_PORTFOLIO: List all the game you've made so far.
   TOOLTIP_OPTION: Parameter and options
-  TOOLTIP_EXIT: Back to Linux
+  TOOLTIP_EXIT: Back to Desktop
   TOOLTIP_STUDIOS: List your studios
   TOOLTIP_STUDIOLIST: List offices available in town
   TOOLTIP_CONSTRUCT: |
     Make a new building for
     an office or to
-    host a convention
+    host a convention.
   TOOLTIP_CONFERENCE: Manage conventions
   TOOLTIP_MARKETING: Manage your marketing campaigns
   TOOLTIP_SELL: Sell your office
@@ -1064,7 +1080,7 @@ en:
   TOOLTIP_STUDIO_SELECT: List your studios
   TOOLTIP_ANNOUNCE_GAME: |
     Announce the video game.
-    Creates hype.
+    Generates hype.
   TOOLTIP_CONCURRENT: |
     List of video game companies
   TOOLTIP_STUDIO_COST: |
@@ -1084,29 +1100,29 @@ en:
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
-    Your company is secretly rated based on the quality of the games you have produced over the past four years
+    Your company is secretly rated based on the quality of the games you have produced over the past four years.
   LOADING_SCREEN_TIP_1: >
-    Perfect employees can spontaneously apply to strengthen your production teams
+    Perfect employees can spontaneously apply to strengthen your production teams.
   LOADING_SCREEN_TIP_2: >
-    This loading screen is only there to make you wait, in fact it is a sleep(random(0, 50)) that is looping
+    This loading screen is only there to make you wait, in fact it is a sleep(random(0, 50)) that is looping.
   LOADING_SCREEN_TIP_3: >
-    Discovering a new game genre gives you a considerable advantage over the competition
+    Discovering a new game genre gives you a considerable advantage over the competition.
   LOADING_SCREEN_TIP_4: >
-    Producing games with your competitors is the best way to become famous
+    Producing games with your competitors is the best way to become famous.
   LOADING_SCREEN_TIP_5: >
-    You can organize conventions in your own buildings, but you'd better space them one year apart
+    You can organize conventions in your own buildings, but you'd better spaced them one year apart.
   LOADING_SCREEN_TIP_6: >
-    The department of bad sales is always right
+    The department of bad sales is always right.
   LOADING_SCREEN_TIP_7: >
-    You need servers to host online games, they are cheaper, but players have to pay monthly to continue playing them
+    You need servers to host online games, and they are cheaper, but players have to pay monthly to continue playing them.
   LOADING_SCREEN_TIP_8: >
-    Einstein, our mascot, barked 65.13 times during the development of City Game Studio
+    Einstein, our mascot, barked 65.13 times during the development of City Game Studio.
   LOADING_SCREEN_TIP_9: >
-    12654 Christmas songs were played during the development of City Game Studio
+    12,654 Christmas songs were played during the development of City Game Studio.
   LOADING_SCREEN_TIP_10: >
-    Taking a look at market shares is good, but you also have to take care of the amount of games published on a platform
+    Taking a look at market shares is good, but you also have to take care of the number of games published on a platform.
   LOADING_SCREEN_TIP_11: >
-    You want to help translating City Game Studio? https://github.com/binogure-studio/city-game-studio-i18n
+    You want to help translating City Game Studio? Join our discord: https://discord.gg/citygamestudio
   LOADING_SCREEN_TIP_12: >
     When your servers' lights glow red, it means they are overloaded.
   LOADING_SCREEN_TIP_13: >
@@ -1114,13 +1130,13 @@ en:
   LOADING_SCREEN_TIP_14: >
     Crunchtime is not a cereal brand, but it is a widespread management practice.
   LOADING_SCREEN_TIP_15: >
-    Releasing new game is the best way to make money
+    Releasing new game is the best way to make money.
   LOADING_SCREEN_TIP_16: >
-    Post-mortems allow you to learn more about the games you have released
+    Post-mortems allow you to learn more about the games you have released.
   LOADING_SCREEN_TIP_17: >
-    According to a recent study, nearly 1 in 625.3 dogs barks when it rains, and the others make fun of it
+    According to a recent study, nearly 1 in 625.3 dogs barks when it rains, and the others make fun of it.
   LOADING_SCREEN_TIP_18: >
-    Don't rely on everything you can read on loading screens
+    Don't rely on everything you can read on loading screens.
   LOADING_SCREEN_TIP_19: >
     Adopting a cat adds a tiny bonus to your studios.
   LOADING_SCREEN_TIP_20: >
@@ -1154,8 +1170,8 @@ en:
   CUTSCENES: Cut scenes
   TUTORIEL: Tutorials
   MARKETING_CAMPAIGN_SOCIALNETWORK: Targeted advertising campaign
-  MARKETING_CAMPAIGN_MAILINGLIST: Email advertising campaign
+  MARKETING_CAMPAIGN_MAILINGLIST: Email's advertising campaign
   GAMEPORT: Port a game
-  UNLOCK_GAMEGENRE: Unlock game genre
+  UNLOCK_GAMEGENRE: Unlock a game genre
   UNLOCK_HUMANRESOURCE: Human resources
   UNLOCK_GAME_OF_THE_YEAR: Game of the year
