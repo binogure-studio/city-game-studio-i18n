@@ -1,9 +1,9 @@
 es:
   # Buttons actions verbs
   BUTTON_READ: Leer
-  BUTTON_ANNOUNCE: Anuncia el juego
-  BUTTON_NEW_GAME: Nuevo juego
-  BUTTON_HIRE: Alquiler
+  BUTTON_ANNOUNCE: Anunciar el juego
+  BUTTON_NEW_GAME: Nueva partida
+  BUTTON_HIRE: Contratar
   BUTTON_APPLY: Aplicar
   BUTTON_BACK: Retroceder
   BUTTON_BUILD_MODE: Modo construcción
@@ -15,7 +15,7 @@ es:
   BUTTON_EXIT: Salir
   BUTTON_FIRE: Despedir
   BUTTON_LOAD: Cargar
-  BUTTON_LOAD_GAME: Cargar juego
+  BUTTON_LOAD_GAME: Cargar partida
   BUTTON_MAIN_MENU: Menú principal
   BUTTON_NEXT: Siguiente
   BUTTON_OK: De acuerdo
@@ -23,14 +23,14 @@ es:
   BUTTON_RESET: Reiniciar
   BUTTON_SKIP: Omitir
   BUTTON_START: Comenzar
-  BUTTON_NEED_STUDIO: No hay estudio disponible
-  BUTTON_CLEAR_EVENTS: Completado
+  BUTTON_NEED_STUDIO: Estudios no disponibles
+  BUTTON_CLEAR_EVENTS: Limpiar
   BUTTON_TOO_BAD: Muy mal
-  BUTTON_BUY_ANOTHER_ONE: Compra otro
+  BUTTON_BUY_ANOTHER_ONE: Comprar otro
   BUTTON_ADOPT: Adoptar
   BUTTON_ABANDON: Abandonar
   BUTTON_ASSIGN_EMPLOYEE: Asignar
-  BUTTON_KEEP_PLAYING: Sigue jugando
+  BUTTON_KEEP_PLAYING: Seguir jugando
   BUTTON_LEADERBOARD: Tabla de líderes
   BUTTON_GIVEUP: Rendirse
   BUTTON_LOAN: Préstamo
@@ -45,53 +45,53 @@ es:
   BUTTON_DELETE: Borrar
   BUTTON_DELETE_ALL: Borrar todo
   BUTTON_SPAM: Spam
-  BUTTON_UNSPAM: No es un spam
+  BUTTON_UNSPAM: No es spam
   BUTTON_HOLIDAY: Enviar al estudio de vacaciones
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Informe de errores
-  BUTTON_FEEDBACK: Retroalimentación
+  BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Idiomas
   BUTTON_CRACK_GAME: Enfrentar un juego
-  BUTTON_FORCE_STUDIO_SELL: Fuerza venta de estudio
-  BUTTON_SPY: Espiar a un competidor
+  BUTTON_FORCE_STUDIO_SELL: Forzar venta del estudio
+  BUTTON_SPY: Espiar competidor
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar a su empleado
   BUTTON_SELECT: Seleccionar
   BUTTON_SAVEGAME: Guardar juego
-  BUTTON_SELL_ITEMS: Vender los muebles
+  BUTTON_SELL_ITEMS: Vender muebles
   BUTTON_CONTINUE: Continuar
   BUTTON_DETAILS: Detalles
-  BUTTON_CHARTS: Gràfico
+  BUTTON_CHARTS: Gráficas
   BUTTON_CREATE: Crear
   BUTTON_GRID: Mostrar cuadrícula
   BUTTON_EDIT_LOGO: Editar logotipo
   BUTTON_BUILD: Construir
 
   # Labels, descriptive
-  LABEL_OPEN_FILE: Abrir un archivo
-  LABEL_KEEP_HINTS: Mantener los consejos
-  LABEL_SELECT_GAME_OF_THE_YEAR: Seleccione el videojuego a mostrar
-  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publicar la versión del Juego del Año
+  LABEL_OPEN_FILE: Abrir archivo
+  LABEL_KEEP_HINTS: Mantener consejos
+  LABEL_SELECT_GAME_OF_THE_YEAR: Selecciona el videojuego a mostrar
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publicar la versión GOTY
   LABEL_GAME_OF_THE_YEAR: >
     Durante años, las revistas han publicado su propia lista.
     Últimamente uno de ellos parece despegar, es el Juego del Año.
   LABEL_RIGHT_CLICK_TO_CLOSE: clic derecho para cerrar
   LABEL_STARTING_YEAR: Año de inicio
-  LABEL_CURRENCY_UNLIMITED: Moneda ilimitada
+  LABEL_CURRENCY_UNLIMITED: Fondos ilimitados
   LABEL_ADVANCED_START: Inicio avanzado
-  LABEL_WORKING: Trabajar
+  LABEL_WORKING: Trabajando
   LABEL_DEFAULT: Predeterminado
   LABEL_DEVELOPER: Desarrollador
   LABEL_GAME_CAPACITY: Capacidad de juego
   LABEL_BONUS_PRODUCTIVITY: Productividad de bonificación
-  LABEL_MARKETING_MANAGER: Gerente de marketing
-  LABEL_BONUS_HYPE: Bono de Hype
-  LABEL_ACCOUNTANT: Contador
+  LABEL_MARKETING_MANAGER: Director de marketing
+  LABEL_BONUS_HYPE: Bonus de hype
+  LABEL_ACCOUNTANT: Contable
   LABEL_BONUS_TAXES: Reducción de impuestos
   LABEL_NETWORK_ADMINISTRATOR: Administrador de red
-  LABEL_BONUS_SERVER: Bono de carga del servidor
+  LABEL_BONUS_SERVER: Bonus de carga del servidor
   LABEL_HUMAN_RESOURCE: Recursos humanos
   LABEL_BONUS_HAPPINESS: Felicidad extra
-  LABEL_AMOUNT_OF_TIPS: Cantidad de pistas
+  LABEL_AMOUNT_OF_TIPS: Cantidad de consejos
   LABEL_REQUIRED_POINTS: Puntos requeridos
   LABEL_STEP: Paso
   LABEL_CONTRACT: Contrato
@@ -107,19 +107,19 @@ es:
     Saludos,
 
     Muestra tu apoyo comprando City Game Studio.
-    Sin su apoyo no puedo seguir trabajando y mejorando City Game Studio.
+    Sin tu apoyo no puedo seguir trabajando y mejorando City Game Studio.
     
     Así que si te gusta jugar a City Game Studio y te gustan los juegos independientes, por favor, muestra tu apoyo.
 
     Binogure
-  LABEL_CREATE_POSTMORTEM: Haga el reporte del juego
-  LABEL_VENDING_MACHINE: Máquina de venta
-  LABEL_GAME_SPEED: Velocidad de juego
+  LABEL_CREATE_POSTMORTEM: Hacer reporte del juego
+  LABEL_VENDING_MACHINE: Máquina expendedora
+  LABEL_GAME_SPEED: Velocidad del juego
   LABEL_SPEED_NORMAL: Normal
   LABEL_SPEED_SLOW: Lenta
   LABEL_SPEED_SLOWEST: Muy lenta
-  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Despedir a los empleados no asignados
-  LABEL_FURNISH_MOD: Modo de auto-amueblado
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Despedir empleados no asignados
+  LABEL_FURNISH_MOD: Amueblar automáticamente
   LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Sólo se pueden amueblar automáticamente los estudios vacíos
   LABEL_HAPPINESS: Felicidad
   LABEL_FILTER_BY: Filtrar por
@@ -134,7 +134,7 @@ es:
   LABEL_WEEK: semanas
   LABEL_TOOLS: Hecho con
   LABEL_SANDBOX: Modo sandbox
-  LABEL_SAVING: Guardar la partida en curso
+  LABEL_SAVING: Guardar partida en curso
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Pagos de compensación
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
     Querido [b]%s[/b],
@@ -157,7 +157,7 @@ es:
   LABEL_STUDIO_NOT_BALANCED: >
     Consulta el equipo de tu estudio. Parece que no produce la misma cantidad de diseño/desarrollo o pulido.
     Impactará los juegos que crearás.
-  LABEL_LAST_COMBO: "La última vez que hiciste el mismo combo tema/género"
+  LABEL_LAST_COMBO: "La última vez que hiciste la misma combinación tema/género"
   LABEL_POINTRATIO_NOT_ENOUGH: |
     El [b]%s[/b] carece de [b]%s[/b]. 
   LABEL_POINTRATIO_TOO_MUCH: |
@@ -236,7 +236,7 @@ es:
   LABEL_SPAM: Spam
   LABEL_TRASH: Basura
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
-    [b]Desbloquear nuevos géneros de juegos[/b].
+    [b]Desbloquear nuevos géneros[/b].
 
     Para desbloquear un nuevo género, [b]haga clic en su icono[/b].
     Si tienes suficientes puntos, entonces el género del juego va a ser desbloqueado.
