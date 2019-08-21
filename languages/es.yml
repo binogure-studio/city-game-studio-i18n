@@ -251,18 +251,18 @@ es:
   LABEL_SKILL_POINT: "%s puntos de género"
   LABEL_UNLOCKED: "Desbloqueado"
   LABEL_COST: Coste %s puntos
-  LABEL_FANBASE_TRENDS: Tendencias de los fanáticos
+  LABEL_FANBASE_TRENDS: Tendencias de los aficionados
   LABEL_YEAR: Años
   LABEL_GAMEOVER_CONFIRM: Bancarrota
   LABEL_GAMEOVER_DESCRIPTION: >
-    La bancarrota terminará el juego.
+    Quedarse en bancarrota terminará la partida.
     ¿Estás seguro de que quieres declararte en bancarrota?
   LABEL_EXPENSES: Gastos
   LABEL_RENT: Alquiler
   LABEL_MARKETING: Gastos de marketing
   LABEL_FINANCIAL_RESULT: Resultado financiero
   LABEL_PROPERTY_VALUE: Valor de las propiedades
-  LABEL_FURNITURE_VALUE: Valor de los muebles
+  LABEL_FURNITURE_VALUE: Valor del mobiliario
   LABEL_CATALOG_VALUE: Valor del catálogo de juegos
   LABEL_TOTAL_VALUE: Valor total
   LABEL_MORTGAGES: Hipotecas
@@ -282,22 +282,22 @@ es:
     Para [b]%s[/b] (%s),
 
     Estamos especialmente decepcionados de que haya cancelado el desarrollo de [b]%s[/b].
-    De acuerdo con el contrato debidamente firmado, página 453, párrafo 72d, párrafo W, hoja rosa, usted debe pagar la multa de [b]%s$[/b] y reembolsarnos lo antes posible.
+    De acuerdo con el contrato debidamente firmado, página 453, párrafo 72D, epígrafe W, hoja rosa, usted debe pagar la multa de [b]%s$[/b] y reenbolsarnos el importe lo antes posible.
 
     Respetuosamente,
-    El bufete de abogados honesto, [b]%s[/b]
+    El honesto bufete de abogados [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrato finalizado"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
 
-    [b]%s[/b] no ha tenido el éxito esperado, y debemos aplicar el contrato firmado al pie de la letra.
-    Así, según la página 5863, párrafo 99z, párrafo k, hoja marrón, usted debe pagar la penalidad de [b]%s$[/b] y reembolsarnos lo antes posible.
+    [b]%s[/b] no ha tenido el éxito esperado y debemos aplicar el contrato firmado al pie de la letra.
+    Según la página 5863, párrafo 99Z, epígrafe K, hoja marrón, usted debe pagar una penalización de [b]%s$[/b] y reembolsarnos el importe lo antes posible.
 
     Respetuosamente,
-    El departamento de malas ventas, [b]%s[/b]
+    El departamento de malas ventas [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Seleccione los videojuegos a mostrar
   LABEL_ROYALTIES: Regalías
-  LABEL_PENALITY: Penalidad
+  LABEL_PENALITY: Penalización
   LABEL_NOTE_MIN: Puntuación min.
   LABEL_MARKETING_GLOBAL_ITEM: Marketing en general
   LABEL_MARKETING_MAGAZINE_ITEM: Revista
@@ -307,13 +307,13 @@ es:
   LABEL_MARKETING_BILLBOARD_ITEM: Panel publicitario
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Redes sociales
   LABEL_MARKETING_MAILINGLIST_ITEM: Boletín de noticias
-  LABEL_SELF_PUBLISH: Auto publicación
+  LABEL_SELF_PUBLISH: Autopublicar
   LABEL_TRADE_PUBLISH: Publicación tradicional
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hola,
     
     Soy [b]%s[/b], me encantan [b]%s[/b] y me gustaría unirme a tu equipo lo antes posible.
-    Podré ser eficaz y aportar nuevos conocimientos a tus equipos.
+    Puedo ser eficaz y aportar nuevos conocimientos a vuestros desarrolladores.
 
     Gracias por su tiempo,
     [b]%s[/b]
@@ -324,50 +324,50 @@ es:
     Le escribo para informarle que renuncio a mi cargo en [b]%s[/b] con efecto inmediato.
     Me fui porque encontré un nuevo trabajo más cerca de casa y en una empresa más atractiva.
 
-    Realmente disfruté los años que pasé trabajando con ustedes, los extrañaré a todos!
+    Realmente disfruté durante mi estancia con vosotros. ¡Os echaré de menos!
 
     Sinceramente
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Renuncia
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
-    No tienes un estudio que pueda crear un juego de tamaño normal o más grande.
+    No tienes un estudio que pueda crear un juego de tamaño normal o mayor.
   LABEL_NO_FAN_BIG_GAME: >
-    Para crear un juego de tamaño normal o más grande, se recomienda tener al menos un [b]%s[/b] de fans, de lo contrario tendrá un impacto en las ventas.
+    Para crear un juego de tamaño normal o mayor, se recomienda tener al menos [b]%s[/b] fans, de lo contrario tendrá un impacto en las ventas.
   LABEL_CONCURRENT_AMOUNT: Número de competidores
   LABEL_YES: Sí
   LABEL_NO: No
-  LABEL_PRICE_MONTHLY: Costos mensuales
+  LABEL_PRICE_MONTHLY: Coste mensual
   LABEL_SERVER_MONITORING_REPORT: Estado de los servidores
-  LABEL_ONLINE_USAGE: Cantidad de jugadores en línea
-  LABEL_ONLINE_CAPACITY: Capacidad total del jugadores
+  LABEL_ONLINE_USAGE: Jugadores en línea
+  LABEL_ONLINE_CAPACITY: Capacidad total
   LABEL_ONLINE_CAPACITY_TOOLTIP: Cantidad de jugadores concurrentes en línea
   LABEL_SERVER: Servidor
   LABEL_CAMPAIGN_NO_COST: Hablar con la prensa
   LABEL_CAMPAIGN_DEMO: Publicar una demo
   LABEL_CAMPAIGN_FULL: Lanzar una campaña publicitaria.
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    [b]%s[/b] acaba de revelar su próximo juego: [b]%s[/b]
-    Estará disponible en [b]%s[/b]
+    [b]%s[/b] acaba de revelar su próximo juego [b]%s[/b]
+    Estará disponible para [b]%s[/b]
 
     %s
 
-    Te deseo lo mejor para tu juego!
+    ¡Les deseamos lo mejor para su juego!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
-    ¡Los fans están emocionados como nosotros!
+    ¡Los fans están tan emocionados como nosotros!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Los aficionados no están contentos y las revistas especializadas ya parecen querer desahogarse en este juego.
+    Los aficionados no están contentos y las revistas especializadas ya parecen querer desahogarse con este juego.
 
     Hay que decir que hace poco lanzaron un juego similar.
   LABEL_GAME_ANNOUNCED_TITLE: "%s anunciado"
-  LABEL_TRENDING: Tendencias
+  LABEL_TRENDING: Tendencia
   LABEL_CREATOR: Creado por
   LABEL_PRODUCER: Productor
-  LABEL_COMMUNITY_MANAGER: Gerente de comunidad
+  LABEL_COMMUNITY_MANAGER: Community Manager
   LABEL_SOUND_COMPOSER: Compositor de sonido
-  LABEL_SPECIAL_THANKS: Gracias especiales
+  LABEL_SPECIAL_THANKS: Agradecimientos especiales
   LABEL_VISITORS: "%d visitantes"
   LABEL_ATTENDANCE: Asistencia
-  LABEL_NONE: Ninguna
+  LABEL_NONE: Ninguno
   LABEL_NO_BUILDING: No hay edificios disponibles
   LABEL_NO_CONVENTION: Ninguna convención planeada
   LABEL_CONVENTION_LAST_DATE: Última convención
@@ -388,8 +388,8 @@ es:
   LABEL_ANISOTROPIC_FILTER: Filtro anisotrópico
   LABEL_BUILDING_LEASE: Arrendamiento
   LABEL_TYPE_BUILDING: Tipo
-  LABEL_CHARACTERS: Caracteres
-  LABEL_COMPANY_NAME: Nombre de empresa
+  LABEL_CHARACTERS: Personajes
+  LABEL_COMPANY_NAME: Nombre de la empresa
   LABEL_CUTSCENES: Cinemáticas
   LABEL_CURRENCY: Moneda
   LABEL_DESIGN: Diseño
@@ -399,7 +399,7 @@ es:
   LABEL_UNIT_SOLD: Unidad vendida
   LABEL_FANBASE: Aficionados
   LABEL_FULLSCREEN: Pantalla completa
-  LABEL_GAME_GENRE: Tipo
+  LABEL_GAME_GENRE: Género
   LABEL_GAME_HISTORY: Historia del juego
   LABEL_GAME_NAME: Nombre
   LABEL_GAME_SIZE: Tamaño
@@ -440,14 +440,14 @@ es:
   LABEL_STAFF: Personal
   LABEL_STORY: Historia
   LABEL_STUDIO: Estudio
-  LABEL_TARGETTED_AUDIENCE: Publico determinado
+  LABEL_TARGETTED_AUDIENCE: Publico objetivo
   LABEL_THEME: Tema
   LABEL_TUTORIEL: Tutorial
   LABEL_USERINTERFACE: Interfaz de usuario
   LABEL_THEME_MOVIE_ADAPTATION: Adaptación de película
   LABEL_THEME_PREHISTORY: Prehistoria
   LABEL_THEME_ARCHEOLOGY: Arqueología
-  LABEL_THEME_POSTAPOCALYPTIC: Post apocalíptico
+  LABEL_THEME_POSTAPOCALYPTIC: Post-apocalíptico
   LABEL_THEME_ATLANTIS: Atlántida
   LABEL_THEME_RELIGIOUS: Religioso
   LABEL_THEME_ORGANIZED_CRIME: Crimen organizado
@@ -460,9 +460,9 @@ es:
   LABEL_THEME_FANTASY: Fantasía
   LABEL_THEME_GHOST: Fantasma
   LABEL_THEME_HISTORY: Historia
-  LABEL_THEME_HORROR: Horror
+  LABEL_THEME_HORROR: Terror
   LABEL_THEME_MEDICAL: Médico
-  LABEL_THEME_OCEAN: Oceano
+  LABEL_THEME_OCEAN: Océano
   LABEL_THEME_ARABIAN_NIGHTS: Noches árabes
   LABEL_THEME_MYTHOLOGY: Mitología
   LABEL_THEME_NINJA: Ninja
@@ -475,14 +475,14 @@ es:
   LABEL_THEME_WESTERN: Occidental
   LABEL_THEME_ZOMBIE: Zombi
   LABEL_THEME_MEDIEVAL: Medieval
-  LABEL_THEME_GAMEDEV: Desarrollo del juego
+  LABEL_THEME_GAMEDEV: Desarrollo de videojuegos
   LABEL_THEME_HACK: Hack
   LABEL_THEME_HUNT: Caza
   LABEL_THEME_ANIME: Anime
   LABEL_THEME_MILITARY: Militar
   LABEL_THEME_INDUSTRIALIZATION: Industrialización
   LABEL_THEME_PET: Mascota
-  LABEL_THEME_FOOTBALL: Fútbol
+  LABEL_THEME_FOOTBALL: Fútbol americano
   LABEL_THEME_SOCCER: Fútbol
   LABEL_THEME_CARTOON: Dibujo animado
   LABEL_THEME_COOK: Cocinero
@@ -495,10 +495,10 @@ es:
   LABEL_THEME_MUSIC: Música
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
-  LABEL_TYPE_ACTION_ADVENTURE: Acción aventuras
+  LABEL_TYPE_ACTION_ADVENTURE: Acción-aventura
   LABEL_TYPE_ACTION: Acción
-  LABEL_TYPE_BEAT_THEM_ALL: Beat them all
-  LABEL_TYPE_VERSUS_FIGHTING: Luchas
+  LABEL_TYPE_BEAT_THEM_ALL: Beat'em up
+  LABEL_TYPE_VERSUS_FIGHTING: Lucha
   LABEL_TYPE_PLATFORMS: Plataformas
   LABEL_TYPE_SHOOT: Disparos
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
@@ -509,10 +509,10 @@ es:
   LABEL_TYPE_HTA_LIKE: HTA-like
   LABEL_TYPE_INFILTRATION: Infiltración
   LABEL_TYPE_SURVIVAL: Supervivencia
-  LABEL_TYPE_HORROR: Horror
-  LABEL_TYPE_ADVENTURE: Aventuras
+  LABEL_TYPE_HORROR: Terror
+  LABEL_TYPE_ADVENTURE: Aventura
   LABEL_TYPE_INTERACTIVE_FICTION: Ficción interactiva
-  LABEL_TYPE_INTERACTIVE_MOVIE: Pelicula interactiva
+  LABEL_TYPE_INTERACTIVE_MOVIE: Película interactiva
   LABEL_TYPE_CHAT: Charla
   LABEL_TYPE_BISHOJO: Bishojo
   LABEL_TYPE_EROGE: Eroge
@@ -521,7 +521,7 @@ es:
   LABEL_TYPE_MYSTERY_LIKE: Mistery-like
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: RPG de acción
-  LABEL_TYPE_DUNGEON_CRAWLER: Dungeon Crawler
+  LABEL_TYPE_DUNGEON_CRAWLER: Mazmorras
   LABEL_TYPE_MMORPG: MMORPG
   LABEL_TYPE_DUNGEON: Mazmorras
   LABEL_TYPE_CROOK_LIKE: Crook-like
@@ -532,13 +532,13 @@ es:
   LABEL_TYPE_PUZZLE: Rompecabezas
   LABEL_TYPE_SIMULATION: Simulación
   LABEL_TYPE_ANIMALS: Animales
-  LABEL_TYPE_GOD_GAME: Juego de dios
+  LABEL_TYPE_GOD_GAME: Ser un Dios
   LABEL_TYPE_FARMING: Agricultura
   LABEL_TYPE_LIVING_ORGANISM: Organismo vivo
   LABEL_TYPE_SPORT: Deporte
-  LABEL_TYPE_MANAGEMENT: administración
+  LABEL_TYPE_MANAGEMENT: Administración
   LABEL_TYPE_ECONOMY: Economía
-  LABEL_TYPE_CITY_BUILDER: Constructor de la ciudad
+  LABEL_TYPE_CITY_BUILDER: Construir ciudades
   LABEL_TYPE_GOVERNMENT: Gobierno
   LABEL_TYPE_VEHICLE: Vehículo
   LABEL_TYPE_RACING: Carreras
@@ -546,7 +546,7 @@ es:
   LABEL_TYPE_FLY: Volar
   LABEL_TYPE_SPACE: Espacio
   LABEL_TYPE_SUBMARINE: Submarino
-  LABEL_TYPE_TRAIN: Entrenar
+  LABEL_TYPE_TRAIN: Tren
   LABEL_TYPE_STRATEGY: Estrategia
   LABEL_TYPE_RTS: RTS
   LABEL_TYPE_MOBA_LIKE: MOBA-like
@@ -565,7 +565,7 @@ es:
   LABEL_GAME_SIZE_BIG: Grande
   LABEL_GAME_SIZE_AAA: AAA
   LABEL_MAP_SIZE_TINY: Minúsculo
-  LABEL_MAP_SIZE_SMALL: Pequeña
+  LABEL_MAP_SIZE_SMALL: Pequeño
   LABEL_MAP_SIZE_MEDIUM: Medio
   LABEL_MAP_SIZE_LARGE: Grande
   LABEL_MAP_SIZE_HUGE: Enorme
@@ -573,34 +573,34 @@ es:
   LABEL_DIFFICULTY_NORMAL: Normal
   LABEL_DIFFICULTY_HARD: Difícil
   LABEL_DIFFICULTY_INSANE: Insano
-  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] ha lanzado una nueva plataforma: [b]%s[/b]"
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] ha lanzado su nueva plataforma [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
-    [b]%s[/b] retiran el tan conocido [b]%s[/b], los
-    fanáticos están llorando
+    [b]%s[/b] retiran el tan conocido [b]%s[/b]. Los
+    aficionados están llorando
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] lanzará una nueva plataforma
-    en unos pocos meses [b]%s[/b] que debería durar por años
+    [b]%s[/b] en unos pocos meses. Se espera que debería durar años
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
     [b]%s[/b] anuncia la descontinuación
     de la tan conocida [b]%s[/b]
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: Has desbloqueado la licencia para el [b]%s[/b], cuesta [b]%s$[/b]
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: Has desbloqueado la licencia para [b]%s[/b] con un coste de [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Plataforma lanzada
   LABEL_PLATFORM_DISCONTINUED_TITLE: Plataforma descontinuada
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Próxima plataforma
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Próxima plataforma en ser descontinuada.
   LABEL_PLATFORM_UNLOCKED_TITLE: Plataforma comprada
-  LABEL_CLICK_TO_CLOSE: Haga clic para cerrar
-  LABEL_SHOP_UI: tienda
+  LABEL_CLICK_TO_CLOSE: Haz clic para cerrar
+  LABEL_SHOP_UI: Tienda
   LABEL_DESK: Escritorio
   LABEL_PLANT: Planta
-  LABEL_BOOKSHELF: Estante para libros
+  LABEL_BOOKSHELF: Estantería para libros
   LABEL_WASTEBASKET: Papelera
   LABEL_ASSIGN_EMPLOYEE: Personal
-  LABEL_NEW_GAME: Nuevo juego
+  LABEL_NEW_GAME: Nueva partida
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Ilustraciones
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: >
-    Gracias a tu experiencia reciente, has desbloqueado
+    Gracias a tu reciente experiencia, has desbloqueado
     un nuevo género [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Tema desbloqueado: %s"
   LABEL_MAGAZINE_0: Fan game
@@ -612,9 +612,9 @@ es:
   LABEL_MAGAZINE_6: ZQSD
   LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
-  LABEL_GAME_OVER: Juego terminado
+  LABEL_GAME_OVER: Fin de la partida
   LABEL_SCORE: Puntuación
-  LABEL_WAGE_INCREASES_TITLE: Aumentos salariales
+  LABEL_WAGE_INCREASES_TITLE: Incrementos salariales
   LABEL_WAGE_INCREASES_DESCRIPTION: >
     Los siguientes empleados han tenido un aumento de sueldo:
   LABEL_PRESS_KEY: Prensa
@@ -625,7 +625,7 @@ es:
   LABEL_INPUT_ACTION_UI_CANCEL: Para cancelar
   LABEL_INPUT_ACTION_UI_REPEAT: Para colocar varios artículos
   LABEL_CATCHPHRASE_1_0: Una pérdida de tiempo
-  LABEL_CATCHPHRASE_1_1: Pusieron todo en el trailer
+  LABEL_CATCHPHRASE_1_1: Pusieron todo en el tráiler
   LABEL_CATCHPHRASE_1_2: No lo compres
   LABEL_CATCHPHRASE_1_3: Una falta descarada de creatividad
   LABEL_CATCHPHRASE_1_4: La mediocridad en su paroxismo
@@ -638,7 +638,7 @@ es:
   LABEL_CATCHPHRASE_2_5: Debería haber sido cancelado
   LABEL_CATCHPHRASE_3_0: Rumbo directo al desastre
   LABEL_CATCHPHRASE_3_1: Una decepción que encaja con sus ambiciones
-  LABEL_CATCHPHRASE_3_2: Pusieron todo, pero no tuvieron mucho
+  LABEL_CATCHPHRASE_3_2: Pusieron todo, pero no obtuvieron mucho
   LABEL_CATCHPHRASE_3_3: Si tan solo hubieran hecho un juego
   LABEL_CATCHPHRASE_3_4: Una experiencia angustiosa
   LABEL_CATCHPHRASE_3_5: ¡Vimos peores, pero sobre todo vimos mejores!
