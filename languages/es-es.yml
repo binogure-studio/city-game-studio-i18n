@@ -1,5 +1,5 @@
 es-es:
-  # Buttons actions verbs
+  # Botones, acciones y verbos
   BUTTON_READ: Leer
   BUTTON_ANNOUNCE: Anunciar juego
   BUTTON_NEW_GAME: Nueva partida
@@ -66,7 +66,10 @@ es-es:
   BUTTON_EDIT_LOGO: Editar logotipo
   BUTTON_BUILD: Construir
 
-  # Labels, descriptive
+  # Etiquetas, descripciones
+  LABEL_LOSE: Has perdido
+  LABEL_MINIGAME_CRACK_DESCRIPTION: |
+    Para crackear el juego, debes descompilar el código binario usando los botones de la parte inferior de la pantalla.
   LABEL_CANNOT_OPEN_FILE: No se puede abrir el archivo
   LABEL_OPEN_FILE: Abrir archivo
   LABEL_KEEP_HINTS: Mantener consejos
@@ -106,10 +109,12 @@ es-es:
   LABEL_MORTGAGE_NOT_INTERESTED: No tienes suficientes propiedades para poder obtener una hipoteca
   LABEL_THANKYOU_PURCHASING: |
     Saludos,
+    
     Muestra tu apoyo comprando City Game Studio.
     Sin tu apoyo no puedo seguir trabajando y mejorando City Game Studio.
     
     Así que si te gusta jugar a City Game Studio y te gustan los juegos independientes, por favor, muestra tu apoyo.
+    
     Binogure
   LABEL_CREATE_POSTMORTEM: Hacer reporte del juego
   LABEL_VENDING_MACHINE: Máquina expendedora
