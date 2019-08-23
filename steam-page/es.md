@@ -26,4 +26,4 @@ Cada videojuego es único, pero a lo largo del tiempo, nuevas generaciones de co
 
 [h2]Desarrollo del videojuego[/h2]
 
-El desarrollo de un videojuego es retransmitido en Twitch usando el canal de Binogure.
+El desarrollo del videojuego es retransmitido en Twitch usando el canal Binogure.
