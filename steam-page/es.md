@@ -1,29 +1,29 @@
 [img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
 
-Estamos en 1975 y te has decidido a crear tu propio estudio de videojuegos. Has alquilado un local pequeño que te permite empezar a desarrollar tus obras. Rápidamente tus creaciones ganan fama y ya debes trasladarte a un estudio mas grande, pero es cosa tuya decidir cuál será tu próximo local. En poco tiempo ya estás contratando personal cualificado para desarrollar el aspecto visual de tus creaciones, seguidos de programadores y controladores.
+Enero de 1975 y has creado tu propio estudio de videojuegos. Has alquilado un pequeño local que te permite empezar a desarrollar tu primer videojuego. Rápidamente, tus juegos son un éxito y debes trasladarte a otro local. Pero, es decisión tuya donde elegir ese nuevo lugar. En un abrir y cerrar de ojos, estás contratando artistas para mejorar el aspecto visual de tus juegos. Luego vendrán los desarrolladores y finalmente los testers.
 
 [img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
 
-Pero el problema permanece: aunque los juegos son de calidad, su fama no basta para garantizar ventas ni para hacer tu estudio rentable. Deberás dirigirte a las distribuidoras de videojuegos que querrán la mejor parte, y la única forma de deshacerse de ellos será encadenar suficientes éxitos. Con el tiempo podrás redactar tus propios contratos de publicación, y finalmente cuando domines el mercado podrás comprar a tus competidores.
+Pero un problema permanece, aunque tus juegos son brillantes, no tienes suficientes seguidores para autopublicar un gran juego y hacer tu estudio rentable. Deberás recurrir a editores que pedirán una mayor parte de comisión. Encadenando éxitos es el único modo de liberarte de ellos. Con el tiempo, podrás publicar tus propios contratos como editor. Entonces, estarás preparado para dominar el mercado y comprar a tus competidores.
 
 [img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
 
-[h2]Cada parte del juego es única[/h2]
+[h2]Cada partida es única[/h2]
 
-El mapa así como los estudios son generados de manera procedural. Esto combinado a acontecimientos aleatorios y a locales personalizables, redescubrirás el juego a cada nueva partida.
+El mapa y los estudios son generadores proceduralmente. Combinado con eventos aleatorios y estudios personalizables, deberás descubrir el juego con cada nueva partida.
 
-[h2]Compra los mejores edificios[/h2]
+[h2]Asigna el mejor estudio[/h2]
 
-Recorre las ciudades y escoge cuidadosamente el emplazamiento de su próximo estudio. Como decía mi tío: ¡Se atrapan más moscas con miel que con vinagre!
+Explora la ciudad y selecciona la mejor localización para tu próximo estudio. Como mi tío solía decir, "¡Se cazan más moscas con miel que con vinagre!".
 
 [h2]Amuebla tus estudios con cuidado[/h2]
 
-Todo el mundo no es decorador de interiores, pero sin embargo cada mueble tiene un sitio en tu estudio y puede terminar influenciando la historia de tu compañía.
+No todo el mundo es decorador. Sin embargo, cada parte del mobiliario tiene su lugar en tu estudio y puede influir en la historia de tu estudio.
 
 [h2]Publicar, contratar, repetir[/h2]
 
-Cada una de tus creaciones es única, pero con el tiempo nuevas consolas salen al mercado. Tu solo no llegarás a publicar un best-seller, así que deberás rodearte de nuevos talentos que te ayuden a crear el juego definitivo.
+Cada videojuego es único, pero a lo largo del tiempo, nuevas generaciones de consolas saldrán al mercado. No puedes crear un bestseller tú solo, así que deberás contratar nuevos talentos que te permitan crear el juego perfecto.
 
-[h2]Asiste al desarrollo del juego[/h2]
+[h2]Desarrollo del videojuego[/h2]
 
-El desarroyo del juego es emitido por Twitch: binogure.
+El desarrollo del videojuego es retransmitido por Twitch en el canal Binogure.
