@@ -169,6 +169,7 @@ ru:
   LABEL_MARKETING_CAMPAIGN: Маркетинговая кампания
   LABEL_CAMPAIGN_TYPE: Тип кампании
   LABEL_WORKLOAD: Объем работы
+  LABEL_WORKLOAD_DISTRIBUTION: Распределение рабочей нагрузки
   LABEL_RELEASE_DATE: Дата выхода
   LABEL_MANUFACTURER: Производитель
   LABEL_EXPIRED: Истекший
@@ -264,7 +265,8 @@ ru:
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINT: "очки жанров %s"
+  LABEL_SKILL_POINTS: Oчки жанров
+  LABEL_SKILL_POINT: "Oчки жанров %s"
   LABEL_UNLOCKED: Разблокировано
   LABEL_COST: Стоит %s очков
   LABEL_FANBASE_TRENDS: Тенденции фанатов
