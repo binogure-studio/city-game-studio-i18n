@@ -67,6 +67,11 @@ es:
   BUTTON_BUILD: Construir
   
   # Etiquetas, descripciones
+  LABEL_NO_GAME_INDEV: |
+    No hay juegos en desarrollo
+  LABEL_ALREADY_REGISTERED: Registrado
+  LABEL_NET_PROFITS: Beneficio
+  LABEL_ENERGY: Energía
   LABEL_LOSE: Has perdido
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
     Para crackear el juego, debes descompilar el código binario usando los botones de la parte inferior de la pantalla.
@@ -591,9 +596,9 @@ es:
   LABEL_PLATFORM_RELEASED_DESCRIPTION: |
     [b]%s[/b] ha lanzado su nueva plataforma [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    [b]%s[/b] retiran el tan conocido [b]%s[/b]. Los aficionados están llorando.
+    [b]%s[/b] retira su conocida plataforma [b]%s[/b]. Sus jugadores están llorando.
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    [b]%s[/b] lanzará una nueva plataforma [b]%s[/b] en unos pocos meses. Esperamos que dure años.
+    [b]%s[/b] lanzará su nueva plataforma [b]%s[/b] en unos meses. Esperamos que dure años.
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] anuncia la descontinuación de la conocida [b]%s[/b]
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
@@ -705,10 +710,10 @@ es:
   LABEL_NEW_IP: Nueva IP
   LABEL_POSTMORTEM: Informe
   LABEL_EMPTY_STUDIO: ¡Advertencia, este estudio no contiene ningún escritorio con un ordenador!
-  LABEL_MATCH_EXCELLENT: Excelente combinación
-  LABEL_MATCH_GOOD: Buena combinación
-  LABEL_MATCH_OK: Combinación pasable
-  LABEL_MATCH_POOR: Mala combinación
+  LABEL_MATCH_EXCELLENT: excelente
+  LABEL_MATCH_GOOD: buena
+  LABEL_MATCH_OK: pasable
+  LABEL_MATCH_POOR: mala
   LABEL_POSTMORTEM_TITLE: Informe de (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: No hemos aprendido nada nuevo de [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Aquí lo que hemos aprendido de [b]%s[/b]:%s"
@@ -1109,6 +1114,12 @@ es:
     horarios de sus empleados.
   TOOLTIP_GAME_OF_THE_YEAR: |
     Cada año, un nuevo juego es promovido Juego del Año
+  TOOLTIP_DESK_REPLACE: |
+    Reemplazar escritorios y actualizar ordenadores
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    Los informes te ayudan a refinar la zona azul.
+    Al abandonar la zona azul,
+    corres el riesgo de hacer un juego desequilibrado y obtener malas críticas.
     
   # Mostrado durante la carga de partida
   LOADING_SCREEN_TIP_0: >
