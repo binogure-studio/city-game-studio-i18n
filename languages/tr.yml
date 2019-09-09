@@ -67,6 +67,9 @@ tr:
   BUTTON_BUILD: İnşa etmek
 
   # Labels, descriptive
+  LABEL_NO_GAME_INDEV: |
+    Geliştirme aşamasında oyun yok
+  LABEL_ALREADY_REGISTERED: Kayıtlı
   LABEL_NET_PROFITS: Net kâr
   LABEL_ENERGY: Enerji
   LABEL_LOSE: Hata yaptın
@@ -1096,6 +1099,10 @@ tr:
     Her yıl yeni bir oyun tanıtılıyor Yılın Oyunu
   TOOLTIP_DESK_REPLACE: |
     Ofis masalarını değiştirin ve bilgisayarları yükseltin
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    Oyun raporları mavi bölgeyi arıtmanıza yardımcı oldu.
+    Mavi bölgeyi terk ederek,
+    dengesiz bir oyun yapma ve kötü eleştiriler alma riskini alıyorsunuz
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >

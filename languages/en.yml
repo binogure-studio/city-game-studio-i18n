@@ -67,6 +67,9 @@ en:
   BUTTON_BUILD: Build
 
   # Labels, descriptive
+  LABEL_NO_GAME_INDEV: |
+    There are no games in development
+  LABEL_ALREADY_REGISTERED: Attending
   LABEL_NET_PROFITS: Net profits
   LABEL_ENERGY: Energy
   LABEL_LOSE: You lose
@@ -1113,6 +1116,10 @@ en:
     Every year, a new game is promoted Game Of The year.
   TOOLTIP_DESK_REPLACE: |
     Replace desks and update computers
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    Games reports helped you refining the blue zone.
+    By leaving the blue zone, you are taking a risk of making an unbalanced game,
+    and to get bad reviews.
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >

@@ -67,6 +67,9 @@ fr:
   BUTTON_BUILD: Construire
 
   # Labels, descriptive
+  LABEL_NO_GAME_INDEV: |
+    Il n'y a aucun jeu en cours de développement.
+  LABEL_ALREADY_REGISTERED: Inscrit
   LABEL_NET_PROFITS: Bénéfices nets
   LABEL_ENERGY: Énergie
   LABEL_LOSE: Vous avez échoué
@@ -1105,6 +1108,10 @@ fr:
     gérer les emplois du temps de vos employés.
   TOOLTIP_DESK_REPLACE: |
     Remplacer les bureaux et mettre à jour les ordinateurs
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    La zone bleue correspond à ce que vous avez appris en faisant des post-mortems.
+    En sortant de la zone bleue vous prenez le risque d'avoir un jeu qui n'est pas équilibré,
+    et d'avoir de mauvaises revues.
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
