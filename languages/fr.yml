@@ -53,7 +53,7 @@ fr:
   BUTTON_FEEDBACK: Suggestions
   BUTTON_SELECT: Sélectionner
   DROPDOWN_LANGUAGE: Langues
-  BUTTON_CRACK_GAME: Pirater un jeu
+  BUTTON_CRACK_GAME: Pirater ce jeu
   BUTTON_FORCE_STUDIO_SELL: Forcer la vente d'un studio
   BUTTON_SPY: Espionner
   BUTTON_HIRE_THEIR_EMPLOYE: Débaucher un employé
@@ -68,6 +68,29 @@ fr:
   BUTTON_BUILD: Construire
 
   # Labels, descriptive
+  LABEL_COMPLETE: Terminé
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    Cliquez sur l'icone
+    puis deplacez la vers la zone de droite
+    pour lancer le téléchargement
+  LABEL_CLOSE_POPUP: Fermez la popup pour continuer
+  LABEL_CLOSE_CAT_POPUP: |
+    Fermez les popup de chats
+    pour continuer le téléchargement
+  LABEL_SETTING_UP_FIREWALL: Mise en place du pare-feu
+  LABEL_PRESS_ANY_KEY: Appuyez sur n'importe quelle touche pour pirater
+  LABEL_HACKED: |
+    Piratage terminé.
+    Félicitations!
+  LABEL_HACKING_INTRODUCTION: |
+    Bienvenue dans ce simulateur de hack.
+    Pour commencer cliquez sur 'Commencer'.
+  LABEL_OPEN_CONSOLE: Cliquez sur 'Commencer' pour pirater
+  LABEL_DOWNLOADING: Téléchargement
+  LABEL_TARGET_LOCALIZING: Intrusion détectée
+  LABEL_CONNECTION_LOST: Connexion perdue
+  LABEL_ACCESS_GRANTED: Accès autorisé
+  LABEL_CLICK_FOR_ACTION: Cliquez pour ouvrir le menu
   LABEL_NO_GAME_INDEV: |
     Il n'y a aucun jeu en cours de développement.
   LABEL_ALREADY_REGISTERED: Inscrit
@@ -1039,6 +1062,10 @@ fr:
   LABEL_STUDIO_SOLD: Ils ont vendu %s
 
   # Tooltips
+  TOOTIP_STUDIO_HAPPINESS: |
+    Quels genres de jeux le studio sélectionné aime
+  TOOLTIP_TOPSALES: |
+    Les meilleures ventes en Jeux vidéo
   TOOLTIP_GAME_OF_THE_YEAR: |
     Tous les ans, un nouveau jeu est sélectionné
     pour devenir LE jeu de l'année.

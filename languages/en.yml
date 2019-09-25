@@ -52,7 +52,7 @@ en:
   BUTTON_BUGREPORT: Bug report
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Languages
-  BUTTON_CRACK_GAME: Crack a game
+  BUTTON_CRACK_GAME: Crack this game
   BUTTON_FORCE_STUDIO_SELL: Force a studio sale
   BUTTON_SPY: Spy on a competitor
   BUTTON_HIRE_THEIR_EMPLOYE: Hire their employee
@@ -68,6 +68,28 @@ en:
   BUTTON_BUILD: Build
 
   # Labels, descriptive
+  LABEL_COMPLETE: Complete
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    Select and drag the icon
+    to start downloading
+  LABEL_CLOSE_POPUP: Close the popup to continue
+  LABEL_CLOSE_CAT_POPUP: |
+    Close the cat's popups
+    to keep downloading
+  LABEL_SETTING_UP_FIREWALL: Setting up firewall
+  LABEL_PRESS_ANY_KEY: Press any key to hack
+  LABEL_HACKED: |
+    Hacking complete.
+    Congratulations!
+  LABEL_HACKING_INTRODUCTION: |
+    Welcome to the Hacker simulator.
+    To hack, click on 'Start'
+  LABEL_OPEN_CONSOLE: Click on 'Start' to hack
+  LABEL_DOWNLOADING: Downloading
+  LABEL_TARGET_LOCALIZING: Intrusion detected
+  LABEL_CONNECTION_LOST: Connection lost
+  LABEL_ACCESS_GRANTED: Access granted
+  LABEL_CLICK_FOR_ACTION: Click to open the menu
   LABEL_NO_GAME_INDEV: |
     There are no games in development
   LABEL_ALREADY_REGISTERED: Attending
@@ -1054,6 +1076,10 @@ en:
   LABEL_STUDIO_SOLD: They've sold %s
 
   # Tooltips
+  TOOTIP_STUDIO_HAPPINESS: |
+    What game genres the selected studio likes
+  TOOLTIP_TOPSALES: |
+    Top-Selling games
   TOOLTIP_CONVENTION_LIST: |
     Attended conventions
   TOOLTIP_FORCE_STUDIO: |

@@ -68,6 +68,26 @@ zh:
   BUTTON_BUILD: 建立
 
   # Labels, descriptive
+  LABEL_COMPLETE: 完成
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    选择并拖动图标以开始下载。
+  LABEL_CLOSE_POPUP: 关闭弹出窗口以继续
+  LABEL_CLOSE_CAT_POPUP: |
+    关闭猫的弹出窗口以继续下载
+  LABEL_SETTING_UP_FIREWALL: 设置防火墙
+  LABEL_PRESS_ANY_KEY: 按任意键即可破解
+  LABEL_HACKED: |
+    骇客完成。
+    恭喜！
+  LABEL_HACKING_INTRODUCTION: |
+    欢迎使用黑客模拟器。 
+    要破解，请点击“开始”
+  LABEL_OPEN_CONSOLE: 点击“开始”进行黑客入侵
+  LABEL_DOWNLOADING: 下载
+  LABEL_TARGET_LOCALIZING: 检测到入侵
+  LABEL_CONNECTION_LOST: 连接丢失
+  LABEL_ACCESS_GRANTED: 授予访问权限
+  LABEL_CLICK_FOR_ACTION: 点击
   LABEL_NO_GAME_INDEV: |
     没有正在开发的游戏
   LABEL_ALREADY_REGISTERED: 注册
@@ -1002,6 +1022,10 @@ zh:
   LABEL_STUDIO_SOLD: 他们卖掉了%s
 
   # Tooltips
+  TOOTIP_STUDIO_HAPPINESS: |
+    畅销游戏
+  TOOLTIP_TOPSALES: |
+    所选工作室喜欢的游戏类型
   TOOLTIP_CONVENTION_LIST: |
     出席展会
   TOOLTIP_FORCE_STUDIO: |

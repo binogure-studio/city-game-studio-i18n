@@ -52,7 +52,7 @@ tr:
   BUTTON_BUGREPORT: Hata bildir
   BUTTON_FEEDBACK: Geri Bildirim
   DROPDOWN_LANGUAGE: Diller
-  BUTTON_CRACK_GAME: Kırık oyun
+  BUTTON_CRACK_GAME: Bu oyunu kır.
   BUTTON_FORCE_STUDIO_SELL: Bir stüdyo satışını zorla
   BUTTON_SPY: Bir rakip casus
   BUTTON_HIRE_THEIR_EMPLOYE: İşçi Kirala
@@ -68,6 +68,28 @@ tr:
   BUTTON_BUILD: İnşa etmek
 
   # Labels, descriptive
+  LABEL_COMPLETE: Tamamlamak, tam, eksiksiz
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    İndirmeye başlamak için
+    simgeyi seçin ve sürükleyin.
+  LABEL_CLOSE_POPUP: Devam etmek için açılır pencereyi kapatın
+  LABEL_CLOSE_CAT_POPUP: |
+    İndirmeye devam etmek için
+    kedinin pop-up'larını kapatın
+  LABEL_SETTING_UP_FIREWALL: Güvenlik duvarı kurma
+  LABEL_PRESS_ANY_KEY: Kesmek için herhangi bir tuşa basın
+  LABEL_HACKED: |
+    Hacking tamamlandı.
+    Tebrikler!
+  LABEL_HACKING_INTRODUCTION: |
+    Hacker simülatörüne hoş geldiniz.
+    Kesmek için 'Başla'ı tıklayın
+  LABEL_OPEN_CONSOLE: Kesmek için 'Başla'ı tıklayın
+  LABEL_DOWNLOADING: İndirilmesi
+  LABEL_TARGET_LOCALIZING: Saldırı tespit edildi
+  LABEL_CONNECTION_LOST: Bağlantı koptu
+  LABEL_ACCESS_GRANTED: Erişim izni
+  LABEL_CLICK_FOR_ACTION: Menüyü açmak için tıklayın
   LABEL_NO_GAME_INDEV: |
     Geliştirme aşamasında oyun yok
   LABEL_ALREADY_REGISTERED: Kayıtlı
@@ -1037,6 +1059,10 @@ tr:
   LABEL_STUDIO_SOLD: "%s sattılar"
 
   # Tooltips
+  TOOTIP_STUDIO_HAPPINESS: |
+    En Çok Satan Oyunlar
+  TOOLTIP_TOPSALES: |
+    Seçilen stüdyonun sevdiği oyun türleri
   TOOLTIP_CONVENTION_LIST: |
     Katıldığı sözleşmeler
   TOOLTIP_FORCE_STUDIO: |

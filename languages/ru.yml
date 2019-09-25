@@ -52,7 +52,7 @@ ru:
   BUTTON_BUGREPORT: Сообщить об ошибке
   BUTTON_FEEDBACK: Обратная связь
   DROPDOWN_LANGUAGE: Языки
-  BUTTON_CRACK_GAME: Взломать игру
+  BUTTON_CRACK_GAME: Взломать эту игру
   BUTTON_FORCE_STUDIO_SELL: Принудительная продажа студии
   BUTTON_SPY: Шпионить за конкурентом.
   BUTTON_HIRE_THEIR_EMPLOYE: Нанять их сотрудника
@@ -68,6 +68,28 @@ ru:
   BUTTON_BUILD: Cтроить
 
   # Labels, descriptive
+  LABEL_COMPLETE: Полный
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    Выберите и перетащите значок,
+    чтобы начать загрузку.
+  LABEL_CLOSE_POPUP: Закройте всплывающее окно, чтобы продолжить работу.
+  LABEL_CLOSE_CAT_POPUP: |
+    Закройте кошачьи всплывающие окна,
+    чтобы продолжать скачивание
+  LABEL_SETTING_UP_FIREWALL: Настройка брандмауэра
+  LABEL_PRESS_ANY_KEY: Нажмите любую клавишу, чтобы взломать
+  LABEL_HACKED: |
+    Взлом завершен.
+    Поздравляю!
+  LABEL_HACKING_INTRODUCTION: |
+    Добро пожаловать на симулятор хакера.
+    Чтобы взломать, нажмите на кнопку 'Старт'.
+  LABEL_OPEN_CONSOLE: Нажмите на кнопку 'Старт', чтобы взломать программу.
+  LABEL_DOWNLOADING: Загрузка
+  LABEL_TARGET_LOCALIZING: Обнаружено вторжение
+  LABEL_CONNECTION_LOST: Связь пропала
+  LABEL_ACCESS_GRANTED: Доступ предоставлен
+  LABEL_CLICK_FOR_ACTION: Щелкните, чтобы открыть меню
   LABEL_NO_GAME_INDEV: |
     В разработке нет игр.
   LABEL_ALREADY_REGISTERED: зарегистрированный
@@ -1086,6 +1108,10 @@ ru:
   LABEL_STUDIO_SOLD: Они продали %s.
 
   # Tooltips
+  TOOTIP_STUDIO_HAPPINESS: |
+    Самые продаваемые игры
+  TOOLTIP_TOPSALES: |
+    Какие игровые жанры нравятся выбранной студии
   TOOLTIP_CONVENTION_LIST: |
     Посещаемые конференции
   TOOLTIP_FORCE_STUDIO: |

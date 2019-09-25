@@ -52,7 +52,7 @@ nl:
   BUTTON_BUGREPORT: Fout rapport
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Talen
-  BUTTON_CRACK_GAME: Kraak een spel
+  BUTTON_CRACK_GAME: Kraak deze spel
   BUTTON_FORCE_STUDIO_SELL: Forceer een studio verkoop
   BUTTON_SPY: Spioneer op een concurrent
   BUTTON_HIRE_THEIR_EMPLOYE: Huur hun medewerker
@@ -68,6 +68,28 @@ nl:
   BUTTON_BUILD: Bouwen
 
   # Labels, descriptive
+  LABEL_COMPLETE: Voltooi
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    Selecteer en versleep het pictogram
+    om het downloaden te starten.
+  LABEL_CLOSE_POPUP: Sluit de popup om verder te gaan
+  LABEL_CLOSE_CAT_POPUP: |
+    Sluit de popups van de kat
+    om te blijven downloaden
+  LABEL_SETTING_UP_FIREWALL: Firewall instellen
+  LABEL_PRESS_ANY_KEY: Druk op een willekeurige toets om te hacken.
+  LABEL_HACKED: |
+    Hacken compleet.
+    Gefeliciteerd!
+  LABEL_HACKING_INTRODUCTION: |
+    Welkom bij de Hacker simulator.
+    Om te hacken, klik op 'Start'.
+  LABEL_OPEN_CONSOLE: Klik op 'Start' om te hacken
+  LABEL_DOWNLOADING: Downloaden
+  LABEL_TARGET_LOCALIZING: Inbraak gedetecteerd
+  LABEL_CONNECTION_LOST: Verbinding verloren
+  LABEL_ACCESS_GRANTED: Toegang verleend
+  LABEL_CLICK_FOR_ACTION: Klik om het menu te openen
   LABEL_NO_GAME_INDEV: |
     Er zijn geen spellen in ontwikkeling.
   LABEL_ALREADY_REGISTERED: Geregistreerd
@@ -1039,6 +1061,10 @@ nl:
   LABEL_STUDIO_SOLD: Ze hebben %s verkocht
 
   # Tooltips
+  TOOTIP_STUDIO_HAPPINESS: |
+    Top-Selling Spelletjes
+  TOOLTIP_TOPSALES: |
+    Welke spelgenres de geselecteerde studio leuk vindt
   TOOLTIP_CONVENTION_LIST: |
     Bijgewoonde exposities
   TOOLTIP_FORCE_STUDIO: |

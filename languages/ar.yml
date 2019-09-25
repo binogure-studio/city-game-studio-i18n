@@ -51,7 +51,7 @@ ar:
   BUTTON_BUGREPORT: تقرير الأخطاء
   BUTTON_FEEDBACK: الملاحظات
   DROPDOWN_LANGUAGE: اللغات
-  BUTTON_CRACK_GAME: قرصنة اللعبة
+  BUTTON_CRACK_GAME: الكراك هذه اللعبة.
   BUTTON_FORCE_STUDIO_SELL: إجبار على بيع الأستوديو
   BUTTON_SPY: تجسس على المنافس
   BUTTON_HIRE_THEIR_EMPLOYE: إستئجار موظف
@@ -67,6 +67,28 @@ ar:
   BUTTON_BUILD: بناء
 
   # Labels, descriptive
+  LABEL_COMPLETE: اكتمال
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    حدد واسحب الرمز 
+    لبدء التنزيل.
+  LABEL_CLOSE_POPUP: أغلق النافذة المنبثقة للمتابعة
+  LABEL_CLOSE_CAT_POPUP: |
+    أغلق النوافذ المنبثقة 
+    للقط للحفاظ على التنزيل
+  LABEL_SETTING_UP_FIREWALL: إعداد جدار الحماية
+  LABEL_PRESS_ANY_KEY: اضغط على أي مفتاح للاختراق
+  LABEL_HACKED: |
+    القرصنة كاملة. 
+    تهانينا!
+  LABEL_HACKING_INTRODUCTION: |
+    مرحبًا بك في محاكي هاكر. للاختراق ،
+    انقر فوق 'إبدأ'
+  LABEL_OPEN_CONSOLE: انقر فوق 'إبدأ' للاختراق
+  LABEL_DOWNLOADING: جارى التحميل
+  LABEL_TARGET_LOCALIZING: كشف التسلل
+  LABEL_CONNECTION_LOST: فقدت الاتصال
+  LABEL_ACCESS_GRANTED: لقد تم منح الوصول
+  LABEL_CLICK_FOR_ACTION: انقر لفتح القائمة
   LABEL_NO_GAME_INDEV: |
     لا توجد ألعاب في التنمية
   LABEL_ALREADY_REGISTERED: مسجل
@@ -1076,6 +1098,11 @@ ar:
   LABEL_GAME_CRACKED: لقد تكسرت%s
   LABEL_GENRE_STOLEN: لقد تعلمت%s
   LABEL_STUDIO_SOLD: لقد باعوا%s
+
+  TOOTIP_STUDIO_HAPPINESS: |
+    الألعاب الأكثر مبيعًا
+  TOOLTIP_TOPSALES: |
+    ما هي الأنواع التي يحبها الاستوديو المحدد
   TOOLTIP_CONVENTION_LIST: |
     حضر الاتفاقيات
   TOOLTIP_FORCE_STUDIO: |
