@@ -55,15 +55,15 @@ de:
   BUTTON_CRACK_GAME: Dieses Spiel hacken
   BUTTON_FORCE_STUDIO_SELL: Erzwinge Verkauf des Büros
   BUTTON_SPY: Einen Konkurrenten ausspionieren
-  BUTTON_HIRE_THEIR_EMPLOYE: Werben Sie ihren Mitarbeiter ab
+  BUTTON_HIRE_THEIR_EMPLOYE: Werben Sie Mitarbeiter ab
   BUTTON_SELECT: Wählen
   BUTTON_SAVEGAME: Spiel speichern
   BUTTON_SELL_ITEMS: Verkaufen Sie die Möbel 
   BUTTON_CONTINUE: Fortsetzen
-  BUTTON_DETAILS: Einzelheiten
+  BUTTON_DETAILS: Details
   BUTTON_CHARTS: Diagramm
   BUTTON_CREATE: Erstellen
-  BUTTON_GRID: Gitter anzeigen
+  BUTTON_GRID: Raster anzeigen
   BUTTON_EDIT_LOGO: Logo bearbeiten
   BUTTON_BUILD: Bauen
 
@@ -87,14 +87,14 @@ de:
     Um zu hacken, klicken Sie auf'Start'.
   LABEL_OPEN_CONSOLE: Klicken Sie auf'Start', um zu hacken
   LABEL_DOWNLOADING: Herunterladen
-  LABEL_TARGET_LOCALIZING: Einbruch erkannt
+  LABEL_TARGET_LOCALIZING: Angriff erkannt
   LABEL_CONNECTION_LOST: Verbindung unterbrochen
   LABEL_ACCESS_GRANTED: Zugriff gewährt
   LABEL_CLICK_FOR_ACTION: Klicken Sie hier, um das Menü zu öffnen.
   LABEL_NO_GAME_INDEV: |
     Es sind keine Spiele in der Entwicklung.
   LABEL_ALREADY_REGISTERED: Eingetragen
-  LABEL_NET_PROFITS: Reingewinn
+  LABEL_NET_PROFITS: Gewinn
   LABEL_ENERGY: Energie
   LABEL_LOSE: Du verlierst.
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
@@ -102,11 +102,11 @@ de:
   LABEL_CANNOT_OPEN_FILE: Datei kann nicht geöffnet werden
   LABEL_OPEN_FILE: Öffnen einer Datei
   LABEL_KEEP_HINTS: Behalten Sie die Tipps
-  LABEL_SELECT_GAME_OF_THE_YEAR: Wählen Sie das Spiele aus, das präsentiert werden soll.
+  LABEL_SELECT_GAME_OF_THE_YEAR: Wählen Sie das Spiele aus, das vorgestellt werden soll.
   LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Veröffentlichung der "Game of the Year"-Edition
   LABEL_GAME_OF_THE_YEAR: >
     Seit Jahren veröffentlichen Zeitschriften ihre eigenen TopListen.
-    Allmälich werden Sie auch auf dich aufmerksam. Du hast das Spiel des Jahres!
+    Nun werden Sie auch auf dich aufmerksam. Du hast das Spiel des Jahres!
   LABEL_RIGHT_CLICK_TO_CLOSE: Rechtsklick zum Schließen
   LABEL_STARTING_YEAR: Anfangsjahr
   LABEL_CURRENCY_UNLIMITED: Unbegrenztes Geld
@@ -159,7 +159,7 @@ de:
   LABEL_DOOR: Tür
   LABEL_COGS: Herstellungskosten der verkauften Produkte
   LABEL_TAXES: Steuern
-  LABEL_FIXED_COSTS: Fixkosten
+  LABEL_FIXED_COSTS: Kosten
   LABEL_OVERVIEW: Übersicht
   LABEL_LOW_CONFIGURATION: Minimale Einstellung
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
@@ -188,8 +188,8 @@ de:
     Benötigt %d Mitarbeiter in einem einzigen Studio
     Benötigt %d Produzenten
   LABEL_STUDIO_NOT_BALANCED: >
-    Überprüfen Sie das Team Ihres Studios. Es scheint, es nicht die gleiche Menge an Design / Entwicklung oder Politur erzeugt.
-    Dies wirkt sich auf die Spiele aus, die Sie erstellen.
+    Überprüfen Sie das Team Ihres Studios. Es scheint, es nicht die gleiche Menge an Design / Entwicklung oder Perfektion zu erzeugen.
+    Dies wirkt sich negativ auf die Spiele aus, die Sie erstellen.
   LABEL_LAST_COMBO: "Das letzte Mal hast du bereits dieselbe Kombo (Thema/Genre) erstellt."
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] fehlt [b]%s[/b]. 
@@ -393,7 +393,7 @@ de:
 
     Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben. Probieren Sie was Neues!
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
-  LABEL_TRENDING: Im Trend
+  LABEL_TRENDING: Beliebt
   LABEL_CREATOR: Entwicklung
   LABEL_PRODUCER: Produzent
   LABEL_COMMUNITY_MANAGER: Community-Manager
@@ -794,8 +794,8 @@ de:
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Gratis Werbung
   LABEL_LOAN_TITLE: Rettungs-Kredit
   LABEL_LOAN_DESCRIPTION: >
-    Sie brauchen etwas zusätzliches Geld, wir können Ihnen helfen.
-    WIr bieten Ihnen einen Kredit in Höhe von [b]%s$[/b] .
+    Sie brauchen etwas zusätzliches Geld, - wir können Ihnen helfen.
+    Wir bieten Ihnen einen Kredit in Höhe von [b]%s$[/b] .
     Unsere Zinssätze sind so niedrig! Nur [b]%s%%[/b] und Sie haben [b]%s[/b] Wochen um den Kredit zurückzuzahlen.
     Wir sind Ihre letzte Option, überzeugen Sie sich selbst.
   LABEL_BURNING_SERVER_DESCRIPTION: >
@@ -907,9 +907,9 @@ de:
     Es ist Zeit, den Markt zu studieren und einen Blick auf deine Konkurrenz zu werfen!
   LABEL_CONCURRENT_STUDIOS_BUY: >
     Du schwimmst bereits im Geld.
-    Vielleicht ist es Zeit, konkurrierende Studios zu kaufen? 
+    Vielleicht ist es Zeit einen Konkurrenten zu kaufen?
     *Böses Lachen*
-  LABEL_FURNITURES_COMMON_BUY: Es wird Zeit, eine stilvolle Büro-Umgestaltung zu machen.
+  LABEL_FURNITURES_COMMON_BUY: Es wird Zeit, eine stilvolle Büro-Umgestaltung zu gestalten.
   LABEL_EMPLOYEES_HIRE: >
     Deine Firma wächst, produziert mehr und mehr Spiele und verbessert die Qualität jedes mal.
     Aber zuerst musst du Mitarbeiter suchen!
