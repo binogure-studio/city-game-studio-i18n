@@ -52,6 +52,7 @@ es:
   BUTTON_BUGREPORT: Informe de errores
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Idiomas
+
   BUTTON_CRACK_GAME: Crackear este juego
   BUTTON_FORCE_STUDIO_SELL: Forzar venta del estudio
   BUTTON_SPY: Espiar competidor
@@ -332,6 +333,7 @@ es:
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
+
     
     [color=%s]%s[/color]
   LABEL_SKILL_POINTS: Puntos de género
@@ -367,19 +369,23 @@ es:
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
+
     
     Estamos especialmente decepcionados de que haya cancelado el desarrollo de [b]%s[/b].
     De acuerdo con el contrato debidamente firmado, página 453, párrafo 72D, epígrafe W, hoja rosa, usted debe pagar la multa de [b]%s$[/b] y reenbolsarnos el importe lo antes posible.
     
+
     Respetuosamente,
-    El honesto bufete de abogados [b]%s[/b]
+    La firma de abogados honestos, [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrato finalizado"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
+
     
     [b]%s[/b] no ha tenido el éxito esperado y debemos aplicar el contrato firmado al pie de la letra.
     Según la página 5863, párrafo 99Z, epígrafe K, hoja marrón, usted debe pagar una penalización de [b]%s$[/b] y reembolsarnos el importe lo antes posible.
     
+
     Respetuosamente,
     El departamento de malas ventas [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Seleccione los videojuegos a mostrar
@@ -394,7 +400,7 @@ es:
   LABEL_MARKETING_BILLBOARD_ITEM: Panel publicitario
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Redes sociales
   LABEL_MARKETING_MAILINGLIST_ITEM: Boletín de noticias
-  LABEL_SELF_PUBLISH: Autopublicar
+  LABEL_SELF_PUBLISH: Auto publicar
   LABEL_TRADE_PUBLISH: Publicación tradicional
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hola,
@@ -413,6 +419,7 @@ es:
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Solicitud espontánea
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hola,
+
     
     Escribo para informarle que renuncio a mi cargo aquí en [b]%s[/b] con efecto inmediato.
     Muchas gracias por todas las oportunidades que esta empresa me ha brindado. He aprendido mucho y nunca olvidaré la amabilidad de todos mis compañeros.
@@ -421,6 +428,7 @@ es:
     
     Gracias de nuevo por su apoyo y motivación.
     
+
     Sinceramente
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Renuncia
@@ -435,7 +443,7 @@ es:
   LABEL_SERVER_MONITORING_REPORT: Estado de los servidores
   LABEL_ONLINE_USAGE: Jugadores en línea
   LABEL_ONLINE_CAPACITY: Capacidad total
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Cantidad de jugadores concurrentes en línea
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Cantidad de jugadores simultáneos en línea
   LABEL_SERVER: Servidor
   LABEL_CAMPAIGN_NO_COST: Hablar con la prensa
   LABEL_CAMPAIGN_DEMO: Publicar una demo
@@ -466,9 +474,9 @@ es:
   LABEL_NO_BUILDING: No hay edificios disponibles
   LABEL_NO_CONVENTION: Ninguna convención planeada
   LABEL_CONVENTION_LAST_DATE: Última convención
-  LABEL_DATE: Fecha de vencimiento
+  LABEL_DATE: Fecha límite
   LABEL_STANDSIZE: Tamaño del stand
-  LABEL_CONVENTION_NAME: Nombre de la convención
+  LABEL_CONVENTION_NAME: Nombre del acuerdo
   LABEL_ATTEND: Asistir
   LABEL_ORGANIZE: Organizar
   LABEL_INFORMATIONS: Detalles
@@ -1022,6 +1030,7 @@ es:
     Los sueños se hacen realidad. ¡Una nueva consola acaba de ser lanzada!
     Puedes lanzar un juego multiplataforma.
     ¡Vamos, pruébalo!
+
   
   LABEL_GAME_CREATION: Calcula la carga de trabajo de cada parte de tu juego ajustando cada indicador
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
@@ -1186,6 +1195,7 @@ es:
     Costos de las campañas de marketing en curso
   TOOLTIP_SALARY_COST: |
     Salario de cada empleado
+
   TOOLTIP_STEAM_MODS: |
     Steam workshop
   TOOLTIP_HUMANRESOURCE: |
@@ -1224,7 +1234,7 @@ es:
   LOADING_SCREEN_TIP_10: >
     Echar un vistazo a las cuotas de mercado es bueno, pero también hay que tener en cuenta la cantidad de juegos publicados en una plataforma.
   LOADING_SCREEN_TIP_11: >
-    ¿Quieres ayudar a traducir City Game Studio? https://discord.gg/citygamestudio
+    ¿Quieres ayudar a traducir City Game Studio? https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
     Cuando las luces de sus servidores se iluminan en rojo, significa que están sobrecargados.
   LOADING_SCREEN_TIP_13: >
@@ -1244,6 +1254,7 @@ es:
   LOADING_SCREEN_TIP_20: >
     Si su estudio tiene un nivel de habilidad desigual, puede afectar la calidad general de un juego.
   
+
   GAMEEDITION_SUBMIT: Emitir ofertas de publicación
   GAMEEDITION_RECEIVE: Recibir ofertas de publicación
   WORLDMAP: Mapa de la ciudad
