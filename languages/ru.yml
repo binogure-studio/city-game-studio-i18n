@@ -154,10 +154,10 @@ ru:
   LABEL_OPEN_FILE: Открыть файл
   LABEL_KEEP_HINTS: Держите советы
   LABEL_SELECT_GAME_OF_THE_YEAR: "Выберите видеоигру для показа"
-  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Опубликовать игру года издания
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Опубликовать игру года в издание
   LABEL_GAME_OF_THE_YEAR: >
-    На протяжении многих лет журналы публикуют свои собственные списки.
-    В последнее время, кажется, одна из них взлетает, это "Игра года".
+    Журналы годами публиковали свои списки.     
+    В последнее время один из них, кажется, взлетает, это "Игра Года"
   LABEL_RIGHT_CLICK_TO_CLOSE: Щелкните правой кнопкой мыши, чтобы закрыть
   LABEL_STARTING_YEAR: Начальный год
   LABEL_CURRENCY_UNLIMITED: Неограниченная валюта
@@ -239,7 +239,7 @@ ru:
     Требуется %d сотрудников в одной студии.
     Требуется %d продюсер
   LABEL_STUDIO_NOT_BALANCED: >
-    Проверьте команду вашей студии. Кажется, он не производит столько же дизайна/разработки или полировки.
+    Проверьте команду вашей студии. Кажется, она не производит столько же дизайна/разработки или полировки.
     Это повлияет на игры, которые вы создадите.
   LABEL_LAST_COMBO: "В прошлый раз вы сделали такую же комбинацию темы/жанра"
   LABEL_POINTRATIO_NOT_ENOUGH: |
@@ -312,12 +312,12 @@ ru:
   LABEL_CONVENTION_INCOMING: |
     Дорогой %s,
 
-    Мы рады сообщить, что [b]%s[/b], запланированная к проведению [b]%s[/b].
+    Мы рады сообщить, что [b]%s[/b], запланированна к проведению [b]%s[/b].
 
     Съезд продлится 3 дня, и мы ждем гостей [b]%s[/b].
 
-    Вы можете арендовать стенд, чтобы показать свои самые лучшие творения.
-    Предпоказы ждут вас! Поторопись, места ограничены!
+    Вы уже можете арендовать стенд, чтобы показать свои самые лучшие творения.
+    Поторопись, места ограничены.
 
     Искренне,
     Организаторы %s
@@ -373,13 +373,13 @@ ru:
   LABEL_COMPANY_WIDE: По всей компании
   LABEL_STUDIO_WIDE: Эта студия
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    У вас должно быть как минимум [b]3[/b] человека, работающие в студии, чтобы
+    У вас должно быть как минимум [b]3[/b] человека, работающих в студии, чтобы
     подать заявку на предложение издателя.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s отменено"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Для [b]%s[/b] (%s)
 
-    Мы особенно разочарованы тем, что вы отменили разработку [b]%s[/b].
+    Мы очень разочарованы тем, что вы отменили разработку [b]%s[/b].
 
     В соответствии с подписанным контрактом, стр. 453, параграф 72d, параграф W,
 
@@ -440,7 +440,7 @@ ru:
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Отставка
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
-    У вас нет студии, которая может создать игру обычного или большего размера.
+    У вас нет студии, которая может создать игру нормального или большего размера.
   LABEL_NO_FAN_BIG_GAME: >
     Чтобы создать игру нормального или большего размера, рекомендуется иметь как
     минимум [b]%s[/b] поклонников, иначе это повлияет на продажи
@@ -466,9 +466,10 @@ ru:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Поклонники взволнованы, как и мы!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Фанаты сильно недовольны, и игровые журналы тоже.
-    Кажется им нужно выпустить пар...
-    Надо сказать, что вы не так давно выпускали подобную игру.
+    Поклонники недовольны, и специализированные журналы тоже, кажется, хотят
+    выпустить пар на этой игре.
+
+    Надо сказать, что не так давно они выпустили подобную игру.
   LABEL_GAME_ANNOUNCED_TITLE: Объявлено %s
   LABEL_TRENDING: Тенденции
   LABEL_CREATOR: Создатель
@@ -593,7 +594,7 @@ ru:
   LABEL_THEME_INDUSTRIALIZATION: Индустриализация
   LABEL_THEME_PET: Животное
   LABEL_THEME_FOOTBALL: Футбол
-  LABEL_THEME_SOCCER: Футбол
+  LABEL_THEME_SOCCER: Регби
   LABEL_THEME_CARTOON: Мультфильм
   LABEL_THEME_COOK: Повар
   LABEL_THEME_URBAN: Городской
@@ -624,7 +625,7 @@ ru:
   LABEL_TYPE_INTERACTIVE_FICTION: Интерактивная художественная литература
   LABEL_TYPE_INTERACTIVE_MOVIE: Интерактивный фильм
   LABEL_TYPE_CHAT: Чат
-  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_BISHOJO: Бисёдзё
   LABEL_TYPE_EROGE: Хентай
   LABEL_TYPE_OTOME: Otome
   LABEL_TYPE_VISUAL_NOVEL: Визуальная новелла
@@ -662,7 +663,7 @@ ru:
   LABEL_TYPE_MOBA_LIKE: Moba-like
   LABEL_TYPE_TOWER_DEFENSE: Tower defense
   LABEL_TYPE_TURN_BASED: Пошаговая
-  LABEL_TYPE_ARTILLERY: Артилерия
+  LABEL_TYPE_ARTILLERY: Артиллерия
   LABEL_TYPE_CASUAL: Казуальная
   LABEL_TYPE_BREAKOUT: Побег
   LABEL_TYPE_RYTHM: Ритм
@@ -752,7 +753,7 @@ ru:
   LABEL_CATCHPHRASE_4_5: Лучший момент? Когда он останавливается
   LABEL_CATCHPHRASE_5_0: Минимальное обслуживание
   LABEL_CATCHPHRASE_5_1: Безвкусный плавильный котел
-  LABEL_CATCHPHRASE_5_2: Очень смешанный отчет
+  LABEL_CATCHPHRASE_5_2: Очень смешанный опыт
   LABEL_CATCHPHRASE_5_3: "Мы видели лучше, но мы видели и ещё хуже!"
   LABEL_CATCHPHRASE_5_4: "Конечно, это не игра года"
   LABEL_CATCHPHRASE_5_5: Полый зазор с ограниченным сроком службы
@@ -784,7 +785,7 @@ ru:
   LABEL_CATCHPHRASE_10_1: Шедевр постановки
   LABEL_CATCHPHRASE_10_2: Обязательно нужно иметь
   LABEL_CATCHPHRASE_10_3: Одна из лучших игр за последнее время
-  LABEL_CATCHPHRASE_10_4: Часы игры, только хороши воспоминания
+  LABEL_CATCHPHRASE_10_4: После часов игры,только хорошие воспоминания
   LABEL_CATCHPHRASE_10_5: Эта игра поработит умы всех
   LABEL_CATCHPHRASE_11_0: Художественный удар
   LABEL_CATCHPHRASE_11_1: Редкий камень красоты
@@ -1253,7 +1254,7 @@ ru:
     Хорошо смотреть на долю рынка, но вы также должны позаботиться о количестве игр, опубликованных на платформе.
   LOADING_SCREEN_TIP_11: >
     Хотите помочь с переводом City Game Studio?
-    https://discord.gg/citygamestudio
+    https://github.com/binogure-studio/city-game-studio-i18n
   LOADING_SCREEN_TIP_12: >
     Когда индикаторы ваших серверов горят красным цветом, это означает, что они
     перегружены.
