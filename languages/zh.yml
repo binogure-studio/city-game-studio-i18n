@@ -1,9 +1,9 @@
 zh:
   # Buttons actions verbs
   BUTTON_READ: 阅读
-  BUTTON_ANNOUNCE: 游戏宣传手段
+  BUTTON_ANNOUNCE: 宣布新游
   BUTTON_NEW_GAME: 新游戏
-  BUTTON_HIRE: 雇用
+  BUTTON_HIRE: 雇佣
   BUTTON_APPLY: 应用
   BUTTON_BACK: 返回
   BUTTON_BUILD_MODE: 建造模式
@@ -13,7 +13,7 @@ zh:
   BUTTON_CLOSE: 关闭
   BUTTON_CREDITS: 制作人名单
   BUTTON_EXIT: 退出
-  BUTTON_FIRE: 辞退
+  BUTTON_FIRE: 解雇
   BUTTON_LOAD: 加载
   BUTTON_LOAD_GAME: 加载游戏
   BUTTON_MAIN_MENU: 主菜单
@@ -761,13 +761,13 @@ zh:
   LABEL_CATCHPHRASE_11_5: 这个游戏世代的奇迹级游戏！
   LABEL_CREATE_SEQUEL: 制作续作
   LABEL_NEW_IP: 新IP
-  LABEL_POSTMORTEM: 事后开发分析
+  LABEL_POSTMORTEM: 游戏市场分析
   LABEL_EMPTY_STUDIO: 警告此工作室不包含任何带计算机的工作桌！
   LABEL_MATCH_EXCELLENT: 非常适合
   LABEL_MATCH_GOOD: 适合得不错
   LABEL_MATCH_OK: 适合得一般般
   LABEL_MATCH_POOR: 非常不适合
-  LABEL_POSTMORTEM_TITLE: 事后开发分析 (%s)
+  LABEL_POSTMORTEM_TITLE: 游戏市场分析 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "从[b]%s[/b]中，我们没有学到什么新东西"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "从[b]%s[/b]中，我们学到新的东西是：%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i]和[i]%s[/i]之间的匹配是[b]%s[/b][/ul]"
@@ -927,7 +927,7 @@ zh:
   LABEL_FURNITURES_COMMON_BUY: >
     现在是时候重新装修办公室了。
   LABEL_EMPLOYEES_HIRE: >
-    你的工作室正在发展，制作更多游戏，并提高其质量。但首先，你需要招募更多工作人员。
+    您的工作室正在发展, 生产更多游戏, 提高其质量.  但首先, 你需要雇佣些人
   LABEL_STUDIO_RENT: >
     你的工作室太小了，去找一个可以容纳更大的工作室的地方吧。
   LABEL_STUDIO_BUILD: >
