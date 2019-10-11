@@ -68,6 +68,11 @@ fr:
   BUTTON_BUILD: Construire
 
   # Labels, descriptive
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Fin de support
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    Au moins un de vos jeux est toujours en vente sur %s' via le magasin dématérialisé.
+
+    Êtes-vous sûr de vouloir terminer le support de '%s'?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     Pour pouvoir supporter plusieurs plateformes
     vous devez avoir développer la fonctionnalité Multi-platforme
@@ -1260,7 +1265,7 @@ fr:
   STUDIO_CUSTOMIZE: Rénover vos studios
   FURNITURES_SERVERS_BUY: Acheter des serveurs
   GAME_ONLINE: Publier des jeux en ligne
-  DIGITAL_STORE: Créer un magasin dématérialisé
+  DIGITAL_STORE: Magasin dématérialisé
   POSTMORTEM: Rapport de jeu
   NEW_GAME: Nouveau jeu
   TARGETTED_AUDIENCE: Audience ciblée

@@ -68,6 +68,11 @@ ru:
   BUTTON_BUILD: Cтроить
 
   # Labels, descriptive
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Прекратить работу платформы
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    Вы все еще продаете хотя бы одну игру на '%s' через цифровой магазин.
+
+    Вы уверены, что хотите прекратить поддержку платформы '%s'?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     Для поддержки более чем одной платформы
     необходимо разработать кроссплатформенную

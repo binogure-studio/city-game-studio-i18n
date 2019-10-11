@@ -68,6 +68,11 @@ es:
   BUTTON_BUILD: Construir
   
   # Etiquetas, descripciones
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Discontinuar la plataforma
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    Usted todavía está vendiendo por lo menos un juego en '%s' a través de la tienda digital.
+
+    ¿Está seguro de que desea dejar de soportar la plataforma '%s'?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     Para soportar más de una plataforma,
     es necesario desarrollar la función

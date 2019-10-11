@@ -68,6 +68,11 @@ en:
   BUTTON_BUILD: Build
 
   # Labels, descriptive
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Discontinue platform
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    You are still selling at least one game on '%s' via the digital store.
+
+    Are you sure you want to stop supporting platform '%s'?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     To support more than one platform, you need to develop
     the Cross-platform feature for the digital store.

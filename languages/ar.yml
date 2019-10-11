@@ -67,6 +67,11 @@ ar:
   BUTTON_BUILD: بناء
 
   # Labels, descriptive
+  LABEL_DISCONTINUE_PLATFORM_TITLE: وقف منصة
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    لا تزال تبيع لعبة واحدة على الأقل على '%s' عبر المتجر الرقمي.
+
+    هل أنت متأكد من أنك تريد إيقاف دعم النظام الأساسي '%s'؟
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     لدعم أكثر من نظام أساسي واحد ،
     تحتاج إلى تطوير ميزة النظام
