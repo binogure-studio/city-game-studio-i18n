@@ -84,52 +84,52 @@ ru:
   LABEL_SERVER_COST: Стоимость серверов
   LABEL_DS_SALES: Продажа игр
   LABEL_DS_PLATFORMCUT: Доля цифрового магазина
-  LABEL_DS_CCU: Параллельные пользователи
+  LABEL_DS_CCU: Загрузка интернет магазина
   LABEL_DS_CHAT_TITLE: Чат
   LABEL_DS_CHAT_DESCRIPTION: |
     Позволяет пользователям мгновенно общаться друг с другом.
   LABEL_DS_FORUM_TITLE: Форум
   LABEL_DS_FORUM_DESCRIPTION: |
     Позволяет пользователям размещать сообщения в цифровом магазине.
-  LABEL_DS_CROSSPLATFORM_TITLE: Кроссплатформенная
+  LABEL_DS_CROSSPLATFORM_TITLE: Кроссплатформенность
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     Добавлена кроссплатформенная поддержка.
-  LABEL_DS_BOTPROTECTION_TITLE: Бот защита
+  LABEL_DS_BOTPROTECTION_TITLE: Защита от ботов
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
-    Смягчающие удары лодок.
+    Смягчает удары от ботов по интернет магазину.
   LABEL_DS_WORKSHOP_TITLE: Мастерская
   LABEL_DS_WORKSHOP_DESCRIPTION: |
     Позволяет пользователям совместно использовать созданные ими моды.
   LABEL_DS_SUPPORT_TITLE: Служба поддержки
   LABEL_DS_SUPPORT_DESCRIPTION: |
     Добавлена техническая поддержка цифрового магазина.
-  LABEL_DS_REVIEW_TITLE: Обзор
+  LABEL_DS_REVIEW_TITLE: Обзор товара
   LABEL_DS_REVIEW_DESCRIPTION: |
     Позволяет пользователям просматривать игру.
-  LABEL_DS_STORE_TITLE: Хранить
+  LABEL_DS_STORE_TITLE: Магазин
   LABEL_DS_STORE_DESCRIPTION: |
     Позволяет продавать игры в Digital Store.
-  LABEL_DS_ANALYTICS_TITLE: Аналитика
+  LABEL_DS_ANALYTICS_TITLE: Аналитика пользователей
   LABEL_DS_ANALYTICS_DESCRIPTION: |
-    Позволяет собирать привычки пользователей.
+    Позволяет собирать действия пользователей в интернет магазине.
   LABEL_DS_INVENTORY_TITLE: Инвентарь
   LABEL_DS_INVENTORY_DESCRIPTION: |
     Позволяет пользователям владеть, обмениваться и перепродавать товары.
-  LABEL_DS_WISHLIST_TITLE: Добавить в корзину
+  LABEL_DS_WISHLIST_TITLE: Добавление в корзину
   LABEL_DS_WISHLIST_DESCRIPTION: |
-    Позволяет пользователям выбрать игру по своему усмотрению.
+    Позволяет пользователям выбрать игру по своему усмотрению и добавлять её в корзину.
   LABEL_DS_ACHIEVEMENTS_TITLE: Достижения
   LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
     Позволяет пользователям отслеживать свой прогресс в игре.
   LABEL_DS_GIFTCARDS_TITLE: Подарочные карты
   LABEL_DS_GIFTCARDS_DESCRIPTION: |
     Добавление нового способа оплаты.
-  LABEL_DS_MARKETPLACE_TITLE: Базарная площадь
+  LABEL_DS_MARKETPLACE_TITLE: Торговая плащадка
   LABEL_DS_MARKETPLACE_DESCRIPTION: |
-    Позволяет пользователям перепродавать свои игры.
-  LABEL_DS_SALES_TITLE: Противовесов
+    Позволяет пользователям перепродавать свои игры в интернет магазине.
+  LABEL_DS_SALES_TITLE: Сторонние компании
   LABEL_DS_SALES_DESCRIPTION: |
-    Позволяет создавать балансы для игры.
+    Позволяет продавать игры от других компаний.
   LABEL_HIRING_COSTS: Стоимость найма
   LABEL_COMPLETE: Полный
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -309,8 +309,8 @@ ru:
     [b]%s[/b] не так уж и плохо в этом месяце, по моим оценкам, это позволит
     увеличить продажи на [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    Хорошо, давайте поговорим о [b]%s[/b]. Продажи превосходны, и я думаю, что
-    мы можем ожидать [b]%d%%[/b] роста продаж.
+    Хорошо, давайте поговорим о [b]%s[/b]. 
+    Продажи превосходны, и я думаю, что мы можем ожидать [b]%d%%[/b] роста продаж.
   LABEL_SALES_HITS_3: >
     С [b]%s[/b] я думаю, что продажи должны увеличиться на [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
@@ -380,7 +380,7 @@ ru:
   LABEL_MONTHLY: Ежемесячная оплата
   LABEL_AUTO_ASSIGN_STAFF: Автоназначение сотрудников
   LABEL_UPGRADE_COMPUTER: Автообновление компьютеров
-  LABEL_UPGRADE_SERVER: Автообновление серверы
+  LABEL_UPGRADE_SERVER: Автообновление серверов
   LABEL_COMPANY_WIDE: По всей компании
   LABEL_STUDIO_WIDE: Эта студия
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
@@ -881,7 +881,7 @@ ru:
     ваша. Мы ваш последний вариант, позвольте себя соблазнить.
   LABEL_BURNING_SERVER_DESCRIPTION: >
     Он пахнет огнем?! Ваши серверы достигли максимальной емкости. Пора покупать новые сервера или закрывать онлайн игру!
-  LABEL_BURNING_SERVER_TITLE: Серверы горят
+  LABEL_BURNING_SERVER_TITLE: Сервера горят!
   LABEL_SMOKING_SERVER_DESCRIPTION: >
     Вы делаете очень хорошую онлайн-игру, и вы хорошо ее продаете. Однако ваши серверы достигают максимальной производительности, большинство из них используются на 90% и более. Вы должны купить новые серверы.
   LABEL_SMOKING_SERVER_TITLE: Предупреждение о емкости сервера
@@ -1186,11 +1186,11 @@ ru:
   TOOLTIP_TUTORIEL: |
     %s для разблокировки %s
   TOOLTIP_EMAIL: |
-    Читай новости и свою почту.  
+    Читай новости и свою почту
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    Позволяет разблокировать новые типы игр.  
+    Новые игровые жанры
   TOOLTIP_MANAGE_STUDIO: |
-    Для управления студиями, обновления компьютеров, назначения сотрудников...
+    Управление студией
   TOOLTIP_GAMEPORT: Портируйте видеоигру на другую платформу
   TOOLTIP_POSTMORTEM: Создайте отчет .Отчет поможет вам создать лучшие игры
   TOOLTIP_CREATE_GAME: Создать новую игру
@@ -1203,13 +1203,13 @@ ru:
   TOOLTIP_STUDIOLIST: "Список офисов, доступных в городе"
   TOOLTIP_CONSTRUCT: Создайте новое здание для офиса или приймите конвенцию
   TOOLTIP_CONFERENCE: Управление соглашениями
-  TOOLTIP_MARKETING: Управление маркетинговыми кампаниями
+  TOOLTIP_MARKETING: Маркетинг
   TOOLTIP_SELL: Продать свой офис
   TOOLTIP_SHOP: Купите мебель и прочее пренадлежности для вашего офиса
   TOOLTIP_BUILDMOD: Покраска и украшение вашего офиса
   TOOLTIP_ASSIGN: Назначить сотрудника на рабочее место
   TOOLTIP_STUDIO_SELECT: Список ваших студий
-  TOOLTIP_ANNOUNCE_GAME: Анонс видеоигр создает ажиотаж
+  TOOLTIP_ANNOUNCE_GAME: Анонс видеоигры создает ажиотаж
   TOOLTIP_CONCURRENT: |
     Компании по видеоиграм
   TOOLTIP_STUDIO_COST: |
