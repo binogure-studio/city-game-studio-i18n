@@ -84,7 +84,7 @@ ru:
   LABEL_SERVER_COST: Стоимость серверов
   LABEL_DS_SALES: Продажа игр
   LABEL_DS_PLATFORMCUT: Доля цифрового магазина
-  LABEL_DS_CCU: Загрузка интернет магазина
+  LABEL_DS_CCU: Нагрузка интернет магазина
   LABEL_DS_CHAT_TITLE: Чат
   LABEL_DS_CHAT_DESCRIPTION: |
     Позволяет пользователям мгновенно общаться друг с другом.
@@ -93,7 +93,7 @@ ru:
     Позволяет пользователям размещать сообщения в цифровом магазине.
   LABEL_DS_CROSSPLATFORM_TITLE: Кроссплатформенность
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
-    Добавлена кроссплатформенная поддержка.
+    Добавляет кроссплатформенную поддержку.
   LABEL_DS_BOTPROTECTION_TITLE: Защита от ботов
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
     Смягчает удары от ботов по интернет магазину.
@@ -115,7 +115,7 @@ ru:
   LABEL_DS_INVENTORY_TITLE: Инвентарь
   LABEL_DS_INVENTORY_DESCRIPTION: |
     Позволяет пользователям владеть, обмениваться и перепродавать товары.
-  LABEL_DS_WISHLIST_TITLE: Добавление в корзину
+  LABEL_DS_WISHLIST_TITLE: Корзина
   LABEL_DS_WISHLIST_DESCRIPTION: |
     Позволяет пользователям выбрать игру по своему усмотрению и добавлять её в корзину.
   LABEL_DS_ACHIEVEMENTS_TITLE: Достижения
@@ -163,7 +163,7 @@ ru:
     Чтобы взломать игру, необходимо декомпилировать двоичный код с помощью кнопок в нижней части экрана.
   LABEL_CANNOT_OPEN_FILE: Невозможно открыть файл
   LABEL_OPEN_FILE: Открыть файл
-  LABEL_KEEP_HINTS: Держите советы
+  LABEL_KEEP_HINTS: Сохранить подсказки
   LABEL_SELECT_GAME_OF_THE_YEAR: "Выберите видеоигру для показа"
   LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Опубликовать игру года в издание
   LABEL_GAME_OF_THE_YEAR: >
@@ -178,7 +178,7 @@ ru:
   LABEL_DEVELOPER: Разработчик
   LABEL_GAME_CAPACITY: Емкость игры
   LABEL_BONUS_PRODUCTIVITY: Бонус производительности
-  LABEL_MARKETING_MANAGER: Менеджер по маркетингу
+  LABEL_MARKETING_MANAGER: Маркетолог
   LABEL_BONUS_HYPE: Ажиотаж
   LABEL_ACCOUNTANT: Бухгалтер
   LABEL_BONUS_TAXES: Снижение налогов
@@ -241,7 +241,7 @@ ru:
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     Невозможно опубликовать новую игру.
-  LABEL_EDIT_GAME: Опубликовать игровое предложение
+  LABEL_EDIT_GAME: Игровое предложение
   LABEL_EDIT_GAME_ANNOUNCE: |
     %s будет работать над следующей игрой %s.
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
@@ -254,7 +254,7 @@ ru:
     Это сильно влияет на ваши игры, которые вы создадите!
   LABEL_LAST_COMBO: "В прошлый раз вы сделали такую же комбинацию темы/жанра"
   LABEL_POINTRATIO_NOT_ENOUGH: |
-    [b]%s[/b] не хватает [b]%s[/b]. 
+    [b]%s[/b] не хватает [b]%s.[/b] 
   LABEL_POINTRATIO_TOO_MUCH: |
     В [b]%s[/b] слишком много [b]%s[/b].
   LABEL_MARKETING_CAMPAIGN: Маркетинг
@@ -371,7 +371,7 @@ ru:
   LABEL_FINANCIAL_RESULT: Финансовый результат
   LABEL_PROPERTY_VALUE: Стоимость недвижимости
   LABEL_FURNITURE_VALUE: Стоимость мебели
-  LABEL_CATALOG_VALUE: Значение каталога игр
+  LABEL_CATALOG_VALUE: Доход со всех игр
   LABEL_TOTAL_VALUE: Общая стоимость
   LABEL_MORTGAGES: Ипотека
   LABEL_MORTGAGE: Ипотека
@@ -1041,8 +1041,7 @@ ru:
     Мечты сбываются. Только что выпущена новая консоль! 
     Теперь вы знаете, что хотите выпустить кросс-платформенную игру. Пойдем, попробуешь!
   LABEL_GAME_CREATION: >
-    Настройте рабочую нагрузку каждой части вашей игры, настроив каждый 
-    параметр
+    Настройте рабочую нагрузку каждой части вашей игры, настроив каждый параметр
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
     Вы можете ознакомиться с предложениями издателей. Издание игры - это простой
     способ стать популярным и издавать большие игры.
@@ -1145,7 +1144,7 @@ ru:
     Теперь вы можете открыть для себя новые игровые жанры! Чтобы заработать очки
     опыта, нужно просто издавать игры.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    Для вас стали открыты контракты. Заключение контракта дает вам деньги, опыт и советы по определенному игровому жанру.
+    Заключить контракт
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Название компании
@@ -1188,11 +1187,11 @@ ru:
   TOOLTIP_EMAIL: |
     Читай новости и свою почту
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    Новые игровые жанры
+    Игровые жанры
   TOOLTIP_MANAGE_STUDIO: |
     Управление студией
-  TOOLTIP_GAMEPORT: Портируйте видеоигру на другую платформу
-  TOOLTIP_POSTMORTEM: Создайте отчет .Отчет поможет вам создать лучшие игры
+  TOOLTIP_GAMEPORT: Портировать видеоигру на другую платформу
+  TOOLTIP_POSTMORTEM: Сделать отчёт для выбранной игры
   TOOLTIP_CREATE_GAME: Создать новую игру
   TOOLTIP_STAFF: Список сотрудников
   TOOLTIP_RECRUIT: "Список потенциальных кандидатов, доступных в городе"
@@ -1201,15 +1200,15 @@ ru:
   TOOLTIP_EXIT: Выход
   TOOLTIP_STUDIOS: Список ваших студий
   TOOLTIP_STUDIOLIST: "Список офисов, доступных в городе"
-  TOOLTIP_CONSTRUCT: Создайте новое здание для офиса или приймите конвенцию
+  TOOLTIP_CONSTRUCT: Строительство новых студий/центров
   TOOLTIP_CONFERENCE: Управление соглашениями
   TOOLTIP_MARKETING: Маркетинг
   TOOLTIP_SELL: Продать свой офис
-  TOOLTIP_SHOP: Купите мебель и прочее пренадлежности для вашего офиса
+  TOOLTIP_SHOP: Магазин мебели и прочей пренадлежности
   TOOLTIP_BUILDMOD: Покраска и украшение вашего офиса
   TOOLTIP_ASSIGN: Назначить сотрудника на рабочее место
   TOOLTIP_STUDIO_SELECT: Список ваших студий
-  TOOLTIP_ANNOUNCE_GAME: Анонс видеоигры создает ажиотаж
+  TOOLTIP_ANNOUNCE_GAME: Создать анонс для выдеоигры
   TOOLTIP_CONCURRENT: |
     Компании по видеоиграм
   TOOLTIP_STUDIO_COST: |
