@@ -33,7 +33,7 @@ de:
   BUTTON_KEEP_PLAYING: Weiter spielen
   BUTTON_LEADERBOARD: Bestenliste
   BUTTON_GIVEUP: Aufgeben
-  BUTTON_LOAN: Lohn
+  BUTTON_LOAN: Kredit
   BUTTON_REPAY: Zurückzahlen
   BUTTON_ZOOM: Zoomen
   BUTTON_BUY: Kaufen
@@ -71,13 +71,13 @@ de:
   # Labels, descriptive
   LABEL_DISCONTINUE_PLATFORM_TITLE: Plattform beenden
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
-    Du verkaufst immer noch mindestens ein Spiel auf '%s' über den digitalen Store.
+    Du verkaufst immer noch mindestens ein Spiel auf '%s' über den Launcher.
 
     Sind Sie sicher, dass Sie die Unterstützung der Plattform '%s' einstellen möchten?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     Um mehr als eine Plattform zu unterstützen,
     müssen Sie die plattformübergreifende
-    Funktion für den digitalen Speicher entwickeln.
+    Funktion für den Launcher entwickeln.
   LABEL_DS_SUPPORT_ALL_PLATFORMS: Unterstützt alle Spielkonsolen
   LABEL_NUMBER_OF_PLATFORMS: Anzahl der Spielkonsolen
   LABEL_SERVER_LOAD: Serverauslastung
@@ -86,36 +86,36 @@ de:
   LABEL_DS_SALES: Spiele-Verkauf
   LABEL_DS_PLATFORMCUT: Anteil des digitalen Geschäfts
   LABEL_DS_CCU: Gleichzeitige Benutzer
-  LABEL_DS_CHAT_TITLE: Plaudern
+  LABEL_DS_CHAT_TITLE: Chat
   LABEL_DS_CHAT_DESCRIPTION: |
-    Ermöglicht es Benutzern, sofort miteinander zu chatten.
+    Ermöglicht es Benutzern, in Echtzeit miteinander zu chatten.
   LABEL_DS_FORUM_TITLE: Forum
   LABEL_DS_FORUM_DESCRIPTION: |
-    Ermöglicht es Benutzern, Nachrichten im digitalen Speicher zu veröffentlichen.
+    Ermöglicht es Benutzern, Nachrichten im Launcher zu veröffentlichen.
   LABEL_DS_CROSSPLATFORM_TITLE: Plattformübergreifend
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     Hinzufügen von plattformübergreifender Unterstützung.
   LABEL_DS_BOTPROTECTION_TITLE: Bot-Schutz
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
-    Milderung von Bots-Angriffen.
-  LABEL_DS_WORKSHOP_TITLE: Werkstatt
+    Milderung von Bot-Angriffen.
+  LABEL_DS_WORKSHOP_TITLE: Workshop
   LABEL_DS_WORKSHOP_DESCRIPTION: |
     Ermöglicht es Benutzern, Mods, die sie erstellt haben, zu teilen.
-  LABEL_DS_SUPPORT_TITLE: Unterstützung
+  LABEL_DS_SUPPORT_TITLE: Support
   LABEL_DS_SUPPORT_DESCRIPTION: |
-    Hinzufügen von technischem Support zum digitalen Speicher.
-  LABEL_DS_REVIEW_TITLE: Rezension
+    Hinzufügen von technischem Support zum Launcher.
+  LABEL_DS_REVIEW_TITLE: Bewertungen
   LABEL_DS_REVIEW_DESCRIPTION: |
-    Ermöglicht es Benutzern, ein Spiel zu überprüfen.
-  LABEL_DS_STORE_TITLE: Geschäft
+    Ermöglicht es Benutzern, ein Spiel zu bewerten.
+  LABEL_DS_STORE_TITLE: Shop
   LABEL_DS_STORE_DESCRIPTION: |
-    Ermöglicht den Verkauf von Spielen im Digital Store.
+    Ermöglicht den Verkauf von Spielen im Launcher.
   LABEL_DS_ANALYTICS_TITLE: Analytics
   LABEL_DS_ANALYTICS_DESCRIPTION: |
     Ermöglicht es, die Gewohnheiten der Benutzer zu erfassen.
   LABEL_DS_INVENTORY_TITLE: Inventar
   LABEL_DS_INVENTORY_DESCRIPTION: |
-    Ermöglicht es Benutzern, Artikel zu besitzen, auszutauschen und weiterzuverkaufen.
+    Ermöglicht es Benutzern, Artikel zu besitzen, zu tauschen und weiterzuverkaufen.
   LABEL_DS_WISHLIST_TITLE: Wunschzettel
   LABEL_DS_WISHLIST_DESCRIPTION: |
     Ermöglicht es Benutzern, ein Spiel auf die Wunschliste zu setzen.
@@ -128,9 +128,9 @@ de:
   LABEL_DS_MARKETPLACE_TITLE: Marktplatz
   LABEL_DS_MARKETPLACE_DESCRIPTION: |
     Ermöglicht es Benutzern, ihr Spiel weiterzuverkaufen.
-  LABEL_DS_SALES_TITLE: Waagen
+  LABEL_DS_SALES_TITLE: Sales
   LABEL_DS_SALES_DESCRIPTION: |
-    Ermöglicht es Ihnen, Salden für ein Spiel zu erstellen.
+    Ermöglicht es Ihnen, Rabatte für ein Spiel zu erstellen.
   LABEL_HIRING_COSTS: Einstellungskosten
   LABEL_COMPLETE: Vollständig
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
