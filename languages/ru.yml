@@ -310,10 +310,10 @@ ru:
     [b]%s[/b] не так уж и плохо в этом месяце, по моим оценкам, это позволит
     увеличить продажи на [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    Хорошо, давайте поговорим о [b]%s[/b]. 
+    Давай поговорим о [b]%s[/b]. 
     Продажи превосходны, и я думаю, что мы можем ожидать [b]%d%%[/b] роста продаж.
   LABEL_SALES_HITS_3: >
-    С [b]%s[/b] я думаю, что продажи должны увеличиться на [b]%d%%[/b].
+    У [b]%s[/b] я думаю, что продажи должны увеличиться на [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
     Сегодня отличный день! [b]%s[/b] Должен увидеть [b]%d%%[/b] увеличение популярности.
   LABEL_SALES_HITS_5: >
@@ -810,20 +810,20 @@ ru:
   LABEL_NEW_IP: Новая игра
   LABEL_POSTMORTEM: Отчёт
   LABEL_EMPTY_STUDIO: "Внимание, в этой студии нет рабочего стола с компьютером!"
-  LABEL_MATCH_EXCELLENT: Отличное
-  LABEL_MATCH_GOOD: Хорошее
-  LABEL_MATCH_OK: Нормальное
-  LABEL_MATCH_POOR: Плохое
+  LABEL_MATCH_EXCELLENT: Отличным
+  LABEL_MATCH_GOOD: Хорошим
+  LABEL_MATCH_OK: Нормальным
+  LABEL_MATCH_POOR: Плохим
   LABEL_POSTMORTEM_TITLE: Отчёт (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "Мы ничего не узнали из [b]%s[/b]"
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из [b]%s[/b]: [b]%s[/b]"
-  LABEL_POSTMORTEM_MATCH: "[ul] - совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_CAPACITY: "[ul] - [b]%s[/b]- это [b]%s[/b] для типа игры [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_MARGINAL: предельный
-  LABEL_POSTMORTEM_INSIGNIFICANT: незначительный
-  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: относительно важный
-  LABEL_POSTMORTEM_VERY_IMPORTANT: очень важный
-  LABEL_POSTMORTEM_ESSENTIAL: существенный
+  LABEL_POSTMORTEM_MATCH: "[ul] - Совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul] - [b]%s[/b] - это [b]%s[/b] для игрового жанра [b]%s[/b][/ul]"
+  LABEL_POSTMORTEM_MARGINAL: предельный этап разработки
+  LABEL_POSTMORTEM_INSIGNIFICANT: незначительный этап разработки
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: относительно важно во время разработки 
+  LABEL_POSTMORTEM_VERY_IMPORTANT: очень важный этап разработки
+  LABEL_POSTMORTEM_ESSENTIAL: существенный этап разработки
   LABEL_MARKET_SHARE: Доля рынка
   LABEL_LICENSE_COST: Лицензия
   LABEL_OWNED: Принадлежит
