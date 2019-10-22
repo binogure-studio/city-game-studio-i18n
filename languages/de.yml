@@ -8,8 +8,8 @@ de:
   BUTTON_BACK: Zurück
   BUTTON_BUILD_MODE: Bau-Modus
   BUTTON_BUILDING_RENT: Mieten
-  BUTTON_CANCEL: Abbrechen
-  BUTTON_CANCEL_ALL: Alles abbrechen
+  BUTTON_CANCEL: Verkauf einstellen für
+  BUTTON_CANCEL_ALL: Verkauf für alle Plattformen einstellen
   BUTTON_CLOSE: Schließen
   BUTTON_CREDITS: Credits
   BUTTON_EXIT: Zum Desktop
@@ -46,8 +46,8 @@ de:
   BUTTON_DELETE_ALL: Alle löschen
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Kein Spam
-  BUTTON_HOLIDAY: Senden Sie das Büro in den Urlaub.
-  BUTTON_HOLIDAY_SOLO: In den Urlaub schicken
+  BUTTON_HOLIDAY: Alle Angestellten des Büros in den Urlaub schicken
+  BUTTON_HOLIDAY_SOLO: Diesen Angestellten in den Urlaub schicken
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Fehlerbericht
   BUTTON_FEEDBACK: Feedback
@@ -55,10 +55,10 @@ de:
   BUTTON_CRACK_GAME: Dieses Spiel hacken
   BUTTON_FORCE_STUDIO_SELL: Erzwinge Verkauf des Büros
   BUTTON_SPY: Einen Konkurrenten ausspionieren
-  BUTTON_HIRE_THEIR_EMPLOYE: Werben Sie Mitarbeiter ab
+  BUTTON_HIRE_THEIR_EMPLOYE: Mitarbeiter abwerben
   BUTTON_SELECT: Wählen
   BUTTON_SAVEGAME: Spiel speichern
-  BUTTON_SELL_ITEMS: Verkaufen Sie die Möbel 
+  BUTTON_SELL_ITEMS: Verkaufe alle Möbel
   BUTTON_CONTINUE: Fortsetzen
   BUTTON_DETAILS: Details
   BUTTON_CHARTS: Diagramm
@@ -69,15 +69,15 @@ de:
   BUTTON_PAY: Bezahlen
 
   # Labels, descriptive
-  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Diese Gaming-Plattform wird von Ihrem digitalen Shop nicht unterstützt.
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Diese Gaming-Plattform wird von deinem digitalen Shop nicht unterstützt.
   LABEL_DISCONTINUE_PLATFORM_TITLE: Plattform beenden
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
     Du verkaufst immer noch mindestens ein Spiel auf '%s' über den Launcher.
 
-    Sind Sie sicher, dass Sie die Unterstützung der Plattform '%s' einstellen möchten?
+    Bist du sicher die Unterstützung der Plattform '%s' einzustellen?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     Um mehr als eine Plattform zu unterstützen,
-    müssen Sie die plattformübergreifende
+    musst du die plattformübergreifende
     Funktion für den Launcher entwickeln.
   LABEL_DS_SUPPORT_ALL_PLATFORMS: Unterstützt alle Spielkonsolen
   LABEL_NUMBER_OF_PLATFORMS: Anzahl der Spielkonsolen
@@ -92,7 +92,7 @@ de:
     Ermöglicht es Benutzern, in Echtzeit miteinander zu chatten.
   LABEL_DS_FORUM_TITLE: Forum
   LABEL_DS_FORUM_DESCRIPTION: |
-    Ermöglicht es Benutzern, Nachrichten im Launcher zu veröffentlichen.
+    Fügt dem Launcher eine Forumsfunktion hinzu.
   LABEL_DS_CROSSPLATFORM_TITLE: Plattformübergreifend
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     Hinzufügen von plattformübergreifender Unterstützung.
@@ -135,38 +135,38 @@ de:
   LABEL_HIRING_COSTS: Einstellungskosten
   LABEL_COMPLETE: Vollständig
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
-    Wählen und ziehen Sie das Symbol,
+    Wählen und ziehen Sie das Symbol
     um den Download zu starten
-  LABEL_CLOSE_POPUP: Schließen Sie das Popup, um fortzufahren
+  LABEL_CLOSE_POPUP: Schließe das Popup um fortzufahren
   LABEL_CLOSE_CAT_POPUP: |
-    Schließen Sie die Popups der Katze,
+    Schließe die Popups der Katze
     um den Download fortzusetzen
   LABEL_SETTING_UP_FIREWALL: Einrichten der Firewall
-  LABEL_PRESS_ANY_KEY: Drücken Sie eine beliebige Taste, um zu hacken
+  LABEL_PRESS_ANY_KEY: Drücke eine beliebige Taste, um zu hacken
   LABEL_HACKED: |
     Hacking abgeschlossen.
     Herzlichen Glückwunsch!
   LABEL_HACKING_INTRODUCTION: |
     Willkommen im Hacker-Simulator.
-    Um zu hacken, klicken Sie auf'Start'.
-  LABEL_OPEN_CONSOLE: Klicken Sie auf'Start', um zu hacken
+    Um zu hacken, klicke auf'Start'.
+  LABEL_OPEN_CONSOLE: Klicke auf'Start' um zu hacken
   LABEL_DOWNLOADING: Herunterladen
   LABEL_TARGET_LOCALIZING: Angriff erkannt
   LABEL_CONNECTION_LOST: Verbindung unterbrochen
   LABEL_ACCESS_GRANTED: Zugriff gewährt
-  LABEL_CLICK_FOR_ACTION: Klicken Sie hier, um das Menü zu öffnen.
+  LABEL_CLICK_FOR_ACTION: Klicke hier um das Menü zu öffnen.
   LABEL_NO_GAME_INDEV: |
     Es sind keine Spiele in der Entwicklung.
   LABEL_ALREADY_REGISTERED: Eingetragen
   LABEL_NET_PROFITS: Gewinn
   LABEL_ENERGY: Energie
-  LABEL_LOSE: Du verlierst.
+  LABEL_LOSE: Du hast verloren.
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
     Um das Spiel zu knacken, musst du den Binärcode mit den Schaltflächen unten auf dem Bildschirm zusammensetzen.
   LABEL_CANNOT_OPEN_FILE: Datei kann nicht geöffnet werden
   LABEL_OPEN_FILE: Datei öffnen
   LABEL_KEEP_HINTS: Tipps speichern
-  LABEL_SELECT_GAME_OF_THE_YEAR: Wählen Sie das Spiele aus, das vorgestellt werden soll.
+  LABEL_SELECT_GAME_OF_THE_YEAR: Wähle ein Spiel das du für die GotY Edition vorschlagen möchtest.
   LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Veröffentlichung der "Game of the Year"-Edition
   LABEL_GAME_OF_THE_YEAR: >
     Seit Jahren veröffentlichen Zeitschriften ihre eigenen TopListen.
@@ -199,7 +199,7 @@ de:
   LABEL_AMOUNT_POSTMORTEM: Anzahl der Spielberichte
   LABEL_AMOUNT_ATTENDED_CONVENTION: Anzahl der besuchten Messen
   LABEL_AMOUNT_DESK: Anzahl der Arbeitsplätze
-  LABEL_MORTGAGE_NOT_INTERESTED: Sie haben nicht genügend Sicherheiten, um diesen Kredit aufnehmen zu können.
+  LABEL_MORTGAGE_NOT_INTERESTED: Du habst nicht genügend Sicherheiten um diesen Kredit aufnehmen zu können.
   LABEL_THANKYOU_PURCHASING: |
     Seid gegrüßt,
 
@@ -209,13 +209,13 @@ de:
     Wenn du also Spaß am Spielen von City Game Studio haben und Indie-Spiele magst, unterstütz mich gern weiterhin.
 
     Binogure
-  LABEL_CREATE_POSTMORTEM: Machen Sie einen Spiel-Bericht
+  LABEL_CREATE_POSTMORTEM: Mache einen Spiel-Bericht
   LABEL_VENDING_MACHINE: Verkaufsautomat
   LABEL_GAME_SPEED: Spielgeschwindigkeit
   LABEL_SPEED_NORMAL: Normal
   LABEL_SPEED_SLOW: Langsam
   LABEL_SPEED_SLOWEST: Sehr Langsam
-  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Freie Mitarbeiter entlassen 
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Nicht zugeteilte Mitarbeiter entlassen 
   LABEL_FURNISH_MOD: Automatisch einrichten
   LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Nur leere Büros können automatisch eingerichtet werden.
   LABEL_HAPPINESS: Zufriedenheit
@@ -227,8 +227,8 @@ de:
   LABEL_OVERVIEW: Übersicht
   LABEL_LOW_CONFIGURATION: Minimale Einstellung
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
-    Bewegen Sie den Bildschirm mit der Maus.
-  LABEL_WEEK: wochen
+    Bewegen den Bildschirm mit der Maus.
+  LABEL_WEEK: Wochen
   LABEL_TOOLS: Hergestellt aus
   LABEL_SANDBOX: Sandbox
   LABEL_SAVING: Speichern des laufenden Spiels
@@ -252,8 +252,8 @@ de:
     Benötigt %d Mitarbeiter in einem einzigen Studio
     Benötigt %d Produzenten
   LABEL_STUDIO_NOT_BALANCED: >
-    Überprüfen Sie das Team Ihres Studios. Es scheint, es nicht die gleiche Menge an Design, Entwicklung oder Perfektion zu erzeugen.
-    Dies wirkt sich negativ auf die Spiele aus, die Sie erstellen.
+    Überprüfe das Team Ihres Studios. Es scheint so als sei nicht die gleiche Menge an Design, Entwicklung oder Perfektion vorhanden.
+    Dies wirkt sich negativ auf die Spiele aus, die das Studio erstellt.
   LABEL_LAST_COMBO: "Das letzte Mal hast du bereits dieselbe Kombo (Thema/Genre) erstellt."
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] fehlt [b]%s[/b]. 
@@ -336,7 +336,7 @@ de:
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Neue Spielgenres freischalten[/b].
 
-    Um ein neues Genre freizuschalten, klicken Sie auf das Symbol[/b].
+    Um ein neues Genre freizuschalten, klicke auf das Symbol[/b].
     Wenn du genügend Punkte hast, dann wird das Spielgenre freigeschaltet.
 
     [b]Die Anzahl der Forschungspunkte[/b] befindet sich in der rechten oberen Ecke[/b] des Bildschirms.
@@ -393,7 +393,7 @@ de:
 
     Hochachtungsvoll,
     Die Abteilung für schlechte Verkäufe, [b]%s[/b]
-  LABEL_SELECT_GAME_PRESENT: Wählen Sie die Spiele aus, die präsentiert werden sollen.
+  LABEL_SELECT_GAME_PRESENT: Wählen die Spiele aus, die präsentiert werden sollen.
   LABEL_ROYALTIES: Lizenzgebühren
   LABEL_PENALITY: Strafe
   LABEL_NOTE_MIN: Punktzahl min.
@@ -1037,53 +1037,53 @@ de:
     Träume werden wahr - Eine neue Konsole wurde gerade veröffentlicht!
     Du kannst bereits veröffentlichte Spiele nun auf andere Platformen portieren.
     Los geht's, probier es aus!
-  LABEL_GAME_CREATION: Legen sie die Zeit, die in die jeweiligen Bereiche der Entwicklung gesteckt wird, mithilfe der Regler fest.
+  LABEL_GAME_CREATION: Lege die Zeit, die in die jeweiligen Bereiche der Entwicklung gesteckt wird mithilfe der Regler fest.
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
-    Sie können sich die Angebote der Publisher ansehen. Die Veröffentlichung eines Spiels ist ein einfacher Weg, um populär zu werden und größere Spiele zu veröffentlichen.
+    Du kannst dir die Angebote der Publisher ansehen. Die Veröffentlichung eines Spiels ist ein einfacher Weg, um populär zu werden und größere Spiele zu veröffentlichen.
   LABEL_WORLDMAP_DESCRIPTION_0: >
-    Besuchen Sie die Stadt, werfen Sie einen Blick auf die Wettbewerber und überprüfen Sie, wo sich Ihr Büro befindet.
+    Besuche die Stadt, wirf einen Blick auf die Wettbewerber und überprüfe wo sich deine Büros befindet.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
-    Ermöglicht die Organisation einer Marketingkampagne über viele Spielemagazine. Dies erhöht die Bekanntheit Ihrer Spiele.
+    Ermöglicht die Organisation einer Marketingkampagne über viele Spielemagazine. Dies erhöht die Bekanntheit deiner Spiele.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
-    Ermöglicht es Ihnen, Werbetafeln zu mieten, um Poster Ihrer derzeit im Handel befindlichen Spiele zu platzieren.
+    Ermöglicht es, Werbetafeln zu mieten, um Poster deiner derzeit im Handel befindlichen Spiele zu platzieren.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
-    Sie können nun Marketingmanager einstellen. Sie steigern Ihre Marketingkampagnen!
+    Du kannst nun Marketingmanager einstellen. Sie steigern deine Marketingkampagnen!
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
-    Ermöglicht es Ihnen, Fernsehwerbekampagnen zu organisieren. Es ist teuer, aber wer schaut heutzutage nicht fern?!
+    Ermöglicht es, Fernsehwerbekampagnen zu organisieren. Es ist teuer, aber wer schaut heutzutage nicht fern?!
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
-    Sie können nun ein blinkendes Banner auf Websites anzeigen. Es ist billig und bringt mehr Spieler mit sich.
+    Du kannst nun ein blinkendes Banner auf Websites anzeigen. Es ist billig und bringt mehr Spieler mit sich.
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
-    Es ist jetzt möglich, einen Webseite zu erstellen, um der Welt zu zeigen, dass Ihre Spiele existieren.
+    Es ist jetzt möglich, einen Webseite zu erstellen, um der Welt zu zeigen, dass deine Spiele existieren.
   LABEL_GAME_ONLINE_DESCRIPTION_1: >
     Netzwerkadministratoren verbessern die Serverkapazitäten und ermöglichen es Ihnen, mehr Spieler mit der gleichen Anzahl von Servern zu unterstützen.
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
-    Du konntest deine Konkurrenten auf dem Stadtplan sehen, jetzt kannst du sie beobachten.
+    Du kannst deine Konkurrenten auf dem Stadtplan sehen, jetzt kannst du sie beobachten.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Der Kauf deiner Konkurrenten ist ein einfacher Weg, um viele Fans zu gewinnen und dein Unternehmen zu erweitern.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    Während Sie sich eines Ihrer Büros ansehen, können Sie jetzt neue Möbel kaufen.
+    Während du dir eines deiner Büros ansiehst, kannst du neue Möbel kaufen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Denken Sie daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Pefektion stark sind.
+    Denk daran, dass die besten Spiele von Teams produziert werden, die in Design, Entwicklung und Pefektion stark sind.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
     Videospielhersteller steigern die Produktivität der Mitarbeiter und ermöglichen es Ihnen, AAA-Spiele zu erstellen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
     Die Personalabteilung steigert die Zufriedenheit der Mitarbeiter und Sie können die Schichten der Mitarbeiter anpassen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
-    Die Einstellung eines Buchhalters hilft Ihnen Steuern zu sparen.
+    Die Einstellung eines Buchhalters hilft dir Steuern zu sparen.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
-    Ermöglicht es Ihnen, neue Gebäude zu mieten. Auf diese Weise können Sie an mehreren Projekten gleichzeitig arbeiten.
+    Ermöglicht es dir, neue Gebäude zu mieten. Auf diese Weise kannst du an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    Ermöglicht es dir, neue Büros zu bauen. Es ist teuer, aber es ist eine der wenigen Möglichkeiten, unbegrenzt zu wachsen.
+    Ermöglicht es dir, neue Büros zu bauen. Es ist teuer, aber es ist eine der wenigen Möglichkeiten unbegrenzt zu wachsen.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
-    Neben der Möglichkeit, Büros zu bauen, können Sie auch Messezentren bauen, die für die Organisation von Messen notwendig sind.
+    Neben der Möglichkeit, Büros zu bauen, kannst du auch Messezentren bauen, die für die Organisation von Messen notwendig sind.
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
-    Wenn Sie Messezentrum haben, dann können Sie eigene Messen veranstalten.
+    Wenn du mindestens ein Messezentrum hast, dann kannst du eigene Messen veranstalten.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
     Du kannst an Messen teilnehmen, dies wird die Bekanntheit deiner Spiele für eine gewisse Zeit erhöhen.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
-    Sie können die Wände neu streichen, die Pfosten wechseln und die Böden Ihrer Studios neu gestalten.
+    Du kannst die Wände neu streichen, die Pfosten wechseln und die Böden deiner Studios neu gestalten.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-    Kaufen Sie Server, mit denen Sie Online-Spiele, aber auch ein Online-Portal erstellen können.
+    Kaufe Server. Mit ihnen kannst du Online-Spiele, aber auch ein Online-Portal hosten.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
     Du kannst Online-Spiele erstellen. Sie sind normalerweise günstiger, aber die Spieler müssen ein monatliches Abonnement bezahlen.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
@@ -1091,11 +1091,11 @@ de:
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     Du kannst Angebote von Publisher annehmen. Es bringt dir viel Geld, wenn du die nötige Bewertung schaffst.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-    Ein Spielbericht ist ein Bericht darüber, was während der Entwicklung des Spiels richtig oder falsch gelaufen ist und gibt Ihnen Hinweise.
+    Ein Spielbericht ist ein Bericht darüber, was während der Entwicklung des Spiels richtig oder falsch gelaufen ist und gibt dir Hinweise.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
-    Wenn Sie ein gutes Spiel erstellen, können Sie im City Game Studio Fortschritte machen, Geld verdienen, Fans und Erfahrung sammeln.
+    Wenn du ein gutes Spiel erstellst, kannst du in City Game Studio Fortschritte machen, Geld verdienen, Fans und Erfahrung sammeln.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    Bei der Erstellung eines Spiels können Sie nun die Zielgruppe wählen, was einen Einfluss auf die Bewertung und den Verkauf des Spiels hat.
+    Bei der Erstellung eines Spiels kannst du nun die Zielgruppe wählen, was einen Einfluss auf die Bewertung und den Verkauf des Spiels hat.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
     Du hast ein neues Design verwenden, wenn du ein Spiel erstellst.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
@@ -1109,16 +1109,16 @@ de:
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
     Du hast ein neues Funktion, wenn du ein Spiel erstellst.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
-    Sie können in sozialen Netzwerken werben. Es ist sehr zielgerichtet, teuer und sehr effektiv.
+    Du kannst in sozialen Netzwerken werben. Es ist sehr zielgerichtet, teuer und sehr effektiv.
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
-    Der Versand von E-Mails kostet Sie fast nichts und beeinflusst den Verkauf Ihrer Spiele.
+    Der Versand von E-Mails kostet fast nichts und beeinflusst den Verkauf Ihrer Spiele.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
     Du kannst deine Spiele auf neue Plattformen portieren, es ist einfach und es wird nur eine Person benötigt.
   LABEL_UNLOCK_GAMEGENRE: Du hast Erfahrung in der Entwicklung von Spielen gesammelt, du fühlst dich bereit, neue Spielmechaniken zu entwickeln.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Du kannst jetzt neue Spielgenres freischalten. Um Erfahrungspunkte zu sammeln, musst du nur Spiele veröffentlichen.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    Aufträge sind nun verfügbar. Der Abschluss eines Auftrags gibt Ihnen Geld, Erfahrung und Tipps für ein bestimmtes Spielgenre.
+    Aufträge sind nun verfügbar. Der Abschluss eines Auftrags bringt dir Geld, Erfahrung und Tipps für ein bestimmtes Spielgenre.
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: Name der Firma
@@ -1133,13 +1133,13 @@ de:
     Willst du fortfahren?
   LABEL_SUCCESS: Erfolg
   LABEL_FAILURE: Misserfolg
-  LABEL_CANNOT_INTERACT: Bis %s können Sie nichts gegen %s unternehmen.
+  LABEL_CANNOT_INTERACT: Bis %s kansnt du nichts gegen %s unternehmen.
   LABEL_FAN_LOST: Dies hat deine Popularität beeinflusst, du verlierst %s-Fans.
   LABEL_PENALTY_COST: Das Gericht hat entschieden, dass du %s$ bezahlen musst.
   LABEL_EMPLOYEE_HIRED: Sie haben %s eingestellt.
   LABEL_GAME_CRACKED: Du hast %s gehackt.
   LABEL_GENRE_STOLEN: Du hast gelernt, dass %s
-  LABEL_STUDIO_SOLD: Sie haben %s verkauft.
+  LABEL_STUDIO_SOLD: DU hast %s verkauft.
 
   # Tooltips
   TOOTIP_STUDIO_HAPPINESS: |
@@ -1153,7 +1153,7 @@ de:
   TOOLTIP_CRACK_GAME: |
     Du musst das Spiel auswählen, das du hacken möchtest.
   TOOLTIP_HIRE_STAFF: |
-    Sie müssen den Mitarbeiter auswählen, den Sie einstellen möchten.
+    Du musst den Mitarbeiter auswählen den du einstellen möchten.
   TOOLTIP_CONCURRENT_LOCKED: |
     Du kannst eine Aktion gegen %s von %s erneut versuchen.
   TOOLTIP_TUTORIEL: |
@@ -1199,22 +1199,22 @@ de:
   TOOLTIP_STEAM_MODS: |
     Steam Workshop
   TOOLTIP_HUMANRESOURCE: |
-    Weisen Sie einen Personalleiter zu, der die Schichtpläne Ihrer
+    Weise einen Personalleiter zu, der die Schichtpläne deiner
     Mitarbeiter verwaltet.
   TOOLTIP_GAME_OF_THE_YEAR: |
     Jedes Jahr wird ein neues Spiel zum Spiel des Jahres ernannt
   TOOLTIP_DESK_REPLACE: |
     Upgrade die Computer.
   TOOLTIP_POSTMORTEM_RED_ZONE: |
-    Mit Spielberichten haben Sie die blaue Zone verfeinert.
-    Wenn Sie die blaue Zone verlassen,
-    riskieren Sie ein unausgeglichenes Spiel und bekommen schlechte Bewertungen
+    Mit Spielberichten hast du die blaue Zone verfeinert.
+    Wenn du die blaue Zone verlässt,
+    riskierst du ein unausgeglichenes Spiel und bekommst schlechte Bewertungen
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
-    Ihr Unternehmen wird auf der Grundlage der Qualität der Spiele bewertet, die Sie in den letzten vier Jahren produziert haben.
+    Dein Unternehmen wird auf der Grundlage der Qualität der Spiele bewertet, die du in den letzten vier Jahren produziert hast.
   LOADING_SCREEN_TIP_1: >
-    Perfekte Mitarbeiter können sich spontan bewerben, um Ihre Produktionsteams zu stärken.
+    Perfekte Mitarbeiter können sich spontan bewerben, um deine Produktionsteams zu stärken.
   LOADING_SCREEN_TIP_2: >
     Dieser Ladebildschirm ist nur da, um dich warten zu lassen, tatsächlich ist es ein sleep(random(0, 50)), der eine Schleife erstellt.
   LOADING_SCREEN_TIP_3: >
@@ -1222,11 +1222,11 @@ de:
   LOADING_SCREEN_TIP_4: >
     Spiele mit einem Publisher zu produzieren ist der beste Weg, um berühmt zu werden.
   LOADING_SCREEN_TIP_5: >
-    Sie können Messen in Ihren eigenen Gebäuden organisieren, aber Sie sollten sie besser nur einmal pro Jahr veranstalten.
+    Du kannst Messen in deinen eigenen Gebäuden organisieren, aber du solltest das nur einmal pro Jahr machen.
   LOADING_SCREEN_TIP_6: >
     Die Abteilung für schlechte Verkäufe hat immer Recht.
   LOADING_SCREEN_TIP_7: >
-    Sie benötigen Server, um Online-Spiele zu hosten, sie sind günstiger, aber die Spieler müssen monatlich bezahlen, um sie weiterhin zu spielen.
+    Du benötigst Server, um Online-Spiele zu hosten, sie sind günstiger, aber die Spieler müssen monatlich bezahlen, um sie weiterhin zu spielen.
   LOADING_SCREEN_TIP_8: >
     Einstein, unser Maskottchen, bellte 65,13 Mal bei der Entwicklung des City Game Studio.
   LOADING_SCREEN_TIP_9: >
@@ -1250,9 +1250,9 @@ de:
   LOADING_SCREEN_TIP_18: >
     Verlassen Sie sich nicht auf alles, was Sie auf den Ladebildschirmen lesen können.
   LOADING_SCREEN_TIP_19: >
-    Die Adoption einer Katze bringt einen kleinen Bonus für Ihre Studios.
+    Die Adoption einer Katze bringt einen kleinen Bonus für dein Studio.
   LOADING_SCREEN_TIP_20: >
-    Wenn Ihr Studio ein ungleiches Qualifikationsniveau hat, kann dies die Gesamtqualität eines Spiels beeinflussen.
+    Wenn dein Studio ein ungleiches Qualifikationsniveau hat, kann das die Gesamtqualität eines Spiels negativ beeinflussen.
 
   GAMEEDITION_SUBMIT: Spiel erstellen lassen
   GAMEEDITION_RECEIVE: Publisherangebote erhalten
@@ -1264,11 +1264,11 @@ de:
   CONCURRENT_STUDIOS_BUY: Kaufen von Wettbewerbern
   FURNITURES_COMMON_BUY: Möbel kaufen
   EMPLOYEES_HIRE: Personal einstellen
-  STUDIO_RENT: Mieten Sie ein Büro
+  STUDIO_RENT: Miete ein Büro
   STUDIO_BUILD: Neubau eines Büros
-  CONVENTION_ORGANIZE: Organisieren Sie eine Messe
+  CONVENTION_ORGANIZE: Organisiere eine Messe
   CONVENTION_PARTICIPATE: An einer Messe teilnehmen
-  STUDIO_CUSTOMIZE: Renovieren Sie Ihre Büros
+  STUDIO_CUSTOMIZE: Renoviere dein Büro
   FURNITURES_SERVERS_BUY: Server kaufen
   GAME_ONLINE: Online-Spiele veröffentlichen
   DIGITAL_STORE: Digitaler Vertrieb
