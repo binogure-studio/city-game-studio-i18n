@@ -1,9 +1,9 @@
-# City Game Studio translations
+# [City Game Studio](https://www.city-game-studio.com) translations
 
 A repository for City Game Studio's translation efforts. There are only two folders:
 
 - **languages** contains a list of files for every supported languages
-- **steam-page** contains two files for every supported languages, one for the short description, one for the long description
+- [**steam-page**](https://store.steampowered.com/app/726840/City_Game_Studio/) contains two files for every supported languages, one for the short description, one for the long description
 
 ## Contributing languages
 
