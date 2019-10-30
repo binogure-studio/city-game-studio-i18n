@@ -69,6 +69,12 @@ zh:
   BUTTON_PAY: 付
 
   # Labels, descriptive
+  LABEL_SERVER_CAPACITY: 服务器容量
+  LABEL_SERVER_RENT_CAPACITY: 租用服务器容量
+  LABEL_TOTAL_COST: 总成本
+  LABEL_RENT_SERVER_COST: 服务器租赁费用
+  LABEL_SERVER_USAGE_THRESHOLD: >
+    一旦服务器负载达到此阈值，请租用新服务器：
   LABEL_STEAM_NOT_DETECTED: |
     无法达到Steam。
 

@@ -69,6 +69,12 @@ it:
   BUTTON_PAY: Paga
 
   # Labels, descriptive
+  LABEL_SERVER_CAPACITY: Capacità server
+  LABEL_SERVER_RENT_CAPACITY: Capacità server in affitto
+  LABEL_TOTAL_COST: Totale costi
+  LABEL_RENT_SERVER_COST: Costi di noleggio server
+  LABEL_SERVER_USAGE_THRESHOLD: >
+    Affittare nuovi server non appena il carico dei server raggiunge questa soglia:
   LABEL_STEAM_NOT_DETECTED: |
     Non si puo' raggiungere lo Steam.
 

@@ -69,6 +69,12 @@ en:
   BUTTON_PAY: Pay
 
   # Labels, descriptive
+  LABEL_SERVER_CAPACITY: Servers capacity
+  LABEL_SERVER_RENT_CAPACITY: Rented servers capacity
+  LABEL_TOTAL_COST: Total costs
+  LABEL_RENT_SERVER_COST: Servers rental costs
+  LABEL_SERVER_USAGE_THRESHOLD: >
+    Rent new servers as soon as the servers load reaches this threshold:
   LABEL_STEAM_NOT_DETECTED: |
     Steam can't be reached.
 
