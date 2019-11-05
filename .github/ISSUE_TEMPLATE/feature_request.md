@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[SUGGESTION] Replace me"
+title: "Suggestion: Replace me"
 labels: ''
 assignees: xsellier
 
