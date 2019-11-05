@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "BUG: Replace me"
+title: "Bug: Replace me"
 labels: bug
 assignees: xsellier
 
