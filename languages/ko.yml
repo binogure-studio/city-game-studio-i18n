@@ -1,4 +1,4 @@
-en:
+ko:
   # Buttons actions verbs
   BUTTON_READ: 읽기
   BUTTON_ANNOUNCE: 게임 소개
@@ -90,9 +90,9 @@ en:
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: 이 게이밍 플랫폼은 당신의 디지털 스토어에서 지원되지 않는다.
   LABEL_DISCONTINUE_PLATFORM_TITLE: 플랫폼을 계속할수 없다.
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
-    당신은 여전히 디지털 스토어를 통해 '%s'로 게임을 하나 이상 판매하고 있다.
+    당신은 여전히 디지털 스토어를 통해 "%s"로 게임을 하나 이상 판매하고 있다.
    
-    플랫폼 '%s'의 지원을 중지하시겠습니까?
+    플랫폼 "%s"의 지원을 중지하시겠습니까?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     한개 이상의 플랫폼을 지원하려면, 
     당신은 디지털 스토어의 크로스 플랫폼 기능을 개발해야 한다.
@@ -166,7 +166,8 @@ en:
   LABEL_HACKING_INTRODUCTION: |
     해커 시뮬레이터에 오신것을 환영합니다.
     해킹을 시작하려면 '시작'버튼을 눌러주세요.
-  LABEL_OPEN_CONSOLE: '시작'버튼을 눌러서 해킹 시작
+  LABEL_OPEN_CONSOLE: >
+    '시작'버튼을 눌러서 해킹 시작
   LABEL_DOWNLOADING: 다운로드중
   LABEL_TARGET_LOCALIZING: 침입이 감지됨.
   LABEL_CONNECTION_LOST: 연결 끊김
@@ -300,7 +301,7 @@ en:
   LABEL_CRACKED: 금이 갔다.
   LABEL_SELECT_COMPANY_SPECIALIZATION: 게임 장르 전문화
   LABEL_DISCORD_COMMUNITY: 디스코드 커뮤니티
-  LABEL_LAST_MONTH: %s 달 동안 지속.
+  LABEL_LAST_MONTH: "%s 달 동안 지속."
   LABEL_SUCCESS_RATE: 성공 확률
   LABEL_RISKS: 관련 위험
   LABEL_SALES_HITS_TITLE: 판매 리포트
@@ -367,7 +368,7 @@ en:
   LABEL_SKILL_POINTS: 장르 포인트
   LABEL_SKILL_POINT: "%s 장르 포인트"
   LABEL_UNLOCKED: "잠금 해제됨"
-  LABEL_COST: %s 포인트를 지출
+  LABEL_COST: "%s 포인트를 지출"
   LABEL_FANBASE_TRENDS: 팬 베이스 트렌드
   LABEL_YEAR: 년도
   LABEL_GAMEOVER_CONFIRM: 파산
@@ -626,10 +627,10 @@ en:
   LABEL_TYPE_VERSUS_FIGHTING: VS 싸움
   LABEL_TYPE_PLATFORMS: 플랫폼
   LABEL_TYPE_SHOOT: 슈팅
-  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_SHOOT_EM_UP: "Shoot'em up"
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
-  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_HACK_N_SLASH: "Hack'n'slash"
   LABEL_TYPE_OPEN_WORLD: 오픈 월드
   LABEL_TYPE_HTA_LIKE: HTA-like
   LABEL_TYPE_INFILTRATION: 침투
@@ -821,7 +822,7 @@ en:
   LABEL_MATCH_POOR: 불쌍한 경기
   LABEL_POSTMORTEM_TITLE: 재검토 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 우리는 새로운 것을 배운 적이 없습니다 [b]%s[/b]
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: 우리가 배운 것은 이것입니다. [b]%s[/b]:%s"
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "우리가 배운 것은 이것입니다. [b]%s[/b]: %s"
   LABEL_POSTMORTEM_MATCH: "[ul]- Match between [i]%s[/i] and [i]%s[/i] is [b]%s[/b][/ul]."
   LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] is [b]%s[/b] for [b]%s[/b] games[/ul]."
   LABEL_POSTMORTEM_MARGINAL: 미미한
@@ -837,7 +838,7 @@ en:
   LABEL_PLATFORM_LIST: 플랫폼 목록
   LABEL_IDLE: 게으른
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    [b] % s [/ b]의 스튜디오 직원이 쓰레기 뒤에 숨은 길 잃은 고양이를 발견했습니다.
+    [b]%s[/b]의 스튜디오 직원이 쓰레기 뒤에 숨은 길 잃은 고양이를 발견했습니다.
     이 고양이는 매우 귀여워서 직원들은 이미 이름을 지어주었습니다. 무엇을 원하세요?
   LABEL_ADOPT_CAT_TITLE: 길 잃은 고양이
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
@@ -858,7 +859,7 @@ en:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Morba와 같은 장르가 발명되었습니다.
   LABEL_BROKEN_COFFEEMAKER_TITLE: 부러진 커피 기계
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    스튜디오 직원 [b] % s [/ b]은 커피에 중독되어 있습니다.
+    스튜디오 직원 [b]%s[/b]은 커피에 중독되어 있습니다.
     그러나 커피 기계는 마지막 컵을 제공했습니다 ...
   LABEL_RABBIT_INVASION_DESCRIPTION: >
     토끼, 토끼가 어디든. 그들은 소음을 내고 있습니다... 그들은 모든 곳을 뛰어다닙니다.
@@ -875,12 +876,12 @@ en:
   LABEL_VIRUS_UNLEASHED_TITLE: 순환하는 새로운 바이러스
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     게임 리뷰로 유명한 스미 티는 방금 새 비디오를 게시했습니다.
-    그들은 [b] % s [/b]을 (를) 검토했습니다. 그것은 당신의 게임입니다! 판매에 영향을 미칠 것입니다.
+    그들은 [b]%s[/b]을 (를) 검토했습니다. 그것은 당신의 게임입니다! 판매에 영향을 미칠 것입니다.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 무료 광고
   LABEL_LOAN_TITLE: 마지막 대출
   LABEL_LOAN_DESCRIPTION: >
-    추가 비용이 필요하다는 점을 이해하고 도와 드리겠습니다. [b] % s $ [/b]의 대출을 제공 할 수 있습니다.
-    우리의 이자율은 [b] % s %% [/b]와 같으며 [b] % s [/b]가 상환됩니다.
+    추가 비용이 필요하다는 점을 이해하고 도와 드리겠습니다. [b]%s$[/b]의 대출을 제공 할 수 있습니다.
+    우리의 이자율은 [b]%s%%[/b]와 같으며 [b]%s[/b]가 상환됩니다.
     그것은 그의 회사와 같은 삶입니다. 우리는 당신의 마지막 희망입니다.
   LABEL_BURNING_SERVER_DESCRIPTION: >
     불 냄새가 납니까?!
@@ -893,10 +894,10 @@ en:
     새 서버를 구입해야합니다.
   LABEL_SMOKING_SERVER_TITLE: 서버 용량 경고
   LABEL_PAYLOAN_TITLE: 대출상환
-  LABEL_PAYLOAN_DESCRIPTION: 예정된 상환이 종료되었으며 [b] % s $ [/b]을 지불해야합니다.
+  LABEL_PAYLOAN_DESCRIPTION: 예정된 상환이 종료되었으며 [b]%s$[/b]을 지불해야합니다.
   LABEL_SELL_STUDIO_TITLE: 스튜디오 판매
-  LABEL_SELL_STUDIO_DESCRIPTION: 스튜디오 [b] % s [/b]을 판매하고 있습니다. 계속 하시겠습니까?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: [b] % s [/ b]가 마지막 스튜디오이거나 프로젝트 작업에 바쁘기 때문에 판매 할 수 없습니다.
+  LABEL_SELL_STUDIO_DESCRIPTION: 스튜디오 [b]%s[/b]을 판매하고 있습니다. 계속 하시겠습니까?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: "[b]%s[/b]가 마지막 스튜디오이거나 프로젝트 작업에 바쁘기 때문에 판매 할 수 없습니다."
   LABEL_BUILDING_AREA: 면적 %s m²
   LABEL_BUILDING_BUY: 가격
   LABEL_BUILDING_RENT: 임대
@@ -1108,7 +1109,7 @@ en:
     사후는 게임이 발당하는 동안 무엇이 옳고 그른지에 대한 보고서로 너에게 힌트를 준다.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     좋은 게임을 만드는 것은 너에게 City 게임 스튜디오에 돈과 팬과 경험의 발전을 얻게 해준다.
-  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
     게임을 만들 때, 당신은 이제 들을 청중을 선택할 수 있으며, 이것은 게임의 최종 성적과 판매에 영향을 미친다.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
     게임을 만들 때 새로운 설계 게이지를 갖게 된다.
@@ -1147,13 +1148,13 @@ en:
     계속하시겠습니까?
   LABEL_SUCCESS: 성공
   LABEL_FAILURE: 실패
-  LABEL_CANNOT_INTERACT: %s까지 %s과(와) 더 이상 연락할 수 없음
+  LABEL_CANNOT_INTERACT: "%s까지 %s과(와) 더 이상 연락할 수 없음"
   LABEL_FAN_LOST: 이것은 당신의 인기에 영향을 미치고, %s 의 팬을 잃는다.
   LABEL_PENALTY_COST: 정의의 판결로 인해, %s$를 지불해야 한다.
-  LABEL_EMPLOYEE_HIRED: %s를 고용했습니다.
-  LABEL_GAME_CRACKED: %s를 차단했습니다.
-  LABEL_GENRE_STOLEN: %s을 배우셨습니다.
-  LABEL_STUDIO_SOLD: %s를 팔았다.
+  LABEL_EMPLOYEE_HIRED: "%s를 고용했습니다."
+  LABEL_GAME_CRACKED: "%s를 차단했습니다."
+  LABEL_GENRE_STOLEN: "%s을 배우셨습니다."
+  LABEL_STUDIO_SOLD: "%s를 팔았다."
 
   # Tooltips
   TOOLTIP_MATCH_EXCELLENT: 뛰어난 매치

@@ -46,7 +46,7 @@ console.log(Object.keys(result).reduce((acc, key) => {
   value.forEach((item) => {
     if (amount_of_percent == null) {
       amount_of_percent = item.split('%d').length
-    } else if (amount_of_percent != item.split('%d').length) {
+    } else if (item != null && amount_of_percent != item.split('%d').length) {
       console.error(`Error with ${key} ${item}`)
     }
   })
@@ -56,7 +56,7 @@ console.log(Object.keys(result).reduce((acc, key) => {
   value.forEach((item) => {
     if (amount_of_percent == null) {
       amount_of_percent = item.split('%s').length
-    } else if (amount_of_percent != item.split('%s').length) {
+    } else if (item != null && amount_of_percent != item.split('%s').length) {
       console.error(`Error with ${key}`)
     }
   })
