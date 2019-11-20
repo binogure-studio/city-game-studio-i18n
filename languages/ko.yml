@@ -69,6 +69,8 @@ en:
   BUTTON_PAY: 지불하기
 
   # Labels, descriptive
+  LABEL_BUSY: 바쁜
+  LABEL_AVAILABLE: 유효한
   LABEL_AUTOATTEND_CONVENTION: 모든 컨벤션에 자동으로 참여됩니다.
   LABEL_SERVER_CAPACITY: 서버 용량
   LABEL_SERVER_RENT_CAPACITY: 대여한 서버 용량
@@ -166,7 +168,8 @@ en:
   LABEL_HACKING_INTRODUCTION: |
     해커 시뮬레이터에 오신것을 환영합니다.
     해킹을 시작하려면 '시작'버튼을 눌러주세요.
-  LABEL_OPEN_CONSOLE: '시작'버튼을 눌러서 해킹 시작
+  LABEL_OPEN_CONSOLE: >
+  '시작'버튼을 눌러서 해킹 시작
   LABEL_DOWNLOADING: 다운로드중
   LABEL_TARGET_LOCALIZING: 침입이 감지되었습니다.
   LABEL_CONNECTION_LOST: 연결이 끊겼습니다.
