@@ -168,7 +168,7 @@ ko:
     해커 시뮬레이터에 오신것을 환영합니다.
     해킹을 시작하려면 '시작'버튼을 눌러주세요.
   LABEL_OPEN_CONSOLE: >
-  '시작'버튼을 눌러서 해킹 시작
+    '시작'버튼을 눌러서 해킹 시작
   LABEL_DOWNLOADING: 다운로드중
   LABEL_TARGET_LOCALIZING: 침입이 감지되었습니다.
   LABEL_CONNECTION_LOST: 연결이 끊겼습니다.
@@ -360,7 +360,7 @@ ko:
     새로운 장르를 열고싶다면, [b]이 아이콘을 클릭하세요[/b].
     당신이 충분한 포인트를 갖고있다면, 그 게임 장르가 열릴것입니다.
 
-    [b]장르 포인트 수는 [/b] 화면의 [b] 오른쪽 상단에 [/b] 위치하고 있습니다.
+    [b]장르 포인트 수는[/b] 화면의 [b]오른쪽 상단에[/b] 위치하고 있습니다.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
@@ -369,7 +369,7 @@ ko:
   LABEL_SKILL_POINTS: 장르 포인트
   LABEL_SKILL_POINT: "%s 장르 포인트"
   LABEL_UNLOCKED: "잠금 해제됨"
-  LABEL_COST: %s 포인트를 사용
+  LABEL_COST: "%s 포인트를 사용"
   LABEL_FANBASE_TRENDS: 팬 베이스 트렌드
   LABEL_YEAR: 년도
   LABEL_GAMEOVER_CONFIRM: 파산
@@ -823,9 +823,9 @@ ko:
   LABEL_MATCH_POOR: 안 좋은 조합
   LABEL_POSTMORTEM_TITLE: 사후 보고서 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 우리는 [b]%s[/b] 에서 새로운 것을 배운적이 없습니다.
-  LABEL_POSTMORTEM_DESCRIPTION_LIST: 이것이 우리가 [b]%s[/b]:%s" 에서 배운 것입니다.
-  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] 와 [i]%s[/i] 의 조합은 [b]%s[/b][/ul] 입니다."
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] 는 [b]%s[/b] 입니다, [b]%s[/b] 게임의[/ul]."
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: 이것이 우리가 [b]%s[/b]:%s 에서 배운 것입니다.
+  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] 와 [i]%s[/i] 의 조합은 [b]%s[/b]입니다[/ul]"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] 는 [b]%s[/b] 입니다, [b]%s[/b] 게임의[/ul]"
   LABEL_POSTMORTEM_MARGINAL: 미미한
   LABEL_POSTMORTEM_INSIGNIFICANT: 의미없는
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: 상대적으로 중요한
@@ -860,7 +860,7 @@ ko:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba 장르가 발명되었습니다.
   LABEL_BROKEN_COFFEEMAKER_TITLE: 부러진 커피 기계
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    스튜디오 직원 [b] % s [/ b]은 커피에 중독되어 있습니다.
+    스튜디오 직원 [b]%s[/b]은 커피에 중독되어 있습니다.
     그러나 커피 기계는 수명이 다했습니다 ...
   LABEL_RABBIT_INVASION_DESCRIPTION: >
     이 편지는 영국에서 최초로 시작되어 일년에 한바퀴 돌면서 받는 사람에게 행운을 주었고,
@@ -877,7 +877,7 @@ ko:
   LABEL_VIRUS_UNLEASHED_TITLE: 바이러스가 퍼지는 중
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
     게임 리뷰로 유명한 smitties 는 방금 새 영상을 게시했습니다.
-    그들은 [b] % s [/b]을 (를) 리뷰했습니다. 그것은 당신의 게임입니다! 판매에 영향을 미칠 것입니다.
+    그들은 [b]%s[/b]을 (를) 리뷰했습니다. 그것은 당신의 게임입니다! 판매에 영향을 미칠 것입니다.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 무료 광고
   LABEL_LOAN_TITLE: 마지막 대출
   LABEL_LOAN_DESCRIPTION: >
@@ -895,10 +895,10 @@ ko:
     새 서버를 구입해야합니다.
   LABEL_SMOKING_SERVER_TITLE: 서버 용량 경고
   LABEL_PAYLOAN_TITLE: 대출상환
-  LABEL_PAYLOAN_DESCRIPTION: 예정된 상환일이 다가오고 있으며, [b] % s $ [/b]을 지불해야합니다.
+  LABEL_PAYLOAN_DESCRIPTION: 예정된 상환일이 다가오고 있으며, [b]%s$[/b]을 지불해야합니다.
   LABEL_SELL_STUDIO_TITLE: 스튜디오 판매
-  LABEL_SELL_STUDIO_DESCRIPTION: 스튜디오 [b] % s [/b]을 판매하려 합니다. 계속 하시겠습니까?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: [b] % s [/ b]가 마지막 스튜디오이거나 프로젝트 작업에 바쁘기 때문에 판매 할 수 없습니다.
+  LABEL_SELL_STUDIO_DESCRIPTION: 스튜디오 [b]%s[/b]을 판매하려 합니다. 계속 하시겠습니까?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: "[b]%s[/b]가 마지막 스튜디오이거나 프로젝트 작업에 바쁘기 때문에 판매 할 수 없습니다."
   LABEL_BUILDING_AREA: 면적 %s m²
   LABEL_BUILDING_BUY: 가격
   LABEL_BUILDING_RENT: 임대
@@ -1110,7 +1110,7 @@ ko:
     사후 보고서는 게임을 개발하는 동안 맞고 틀린 것에 대한 보고서로 당신에게 힌트를 줄 수 있습니다.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
     좋은 게임을 만드는 것은 당신에게 City Game Studio에서 돈을 벌고 팬이 늘며, 경험의 발전을 얻게 해줍니다.
-  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
     게임을 만들 때, 당신은 이제 목표 대상들을 선택할 수 있으며, 이것은 게임의 최종 성적과 판매에 영향을 미칩니다.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
     게임을 만들 때 새로운 설계 게이지를 갖게 됩니다.
@@ -1149,13 +1149,14 @@ ko:
     계속하시겠습니까?
   LABEL_SUCCESS: 성공
   LABEL_FAILURE: 실패
-  LABEL_CANNOT_INTERACT: %s까지 %s과(와) 더 이상 소통할 수 없습니다
+  LABEL_CANNOT_INTERACT: "%s까지 %s과(와) 더 이상 소통할 수 없습니다"
   LABEL_FAN_LOST: 이것은 당신의 인기에 영향을 미치고, %s 의 팬을 잃습니다.
   LABEL_PENALTY_COST: 정의로운 판결로 인해, %s$를 지불해야 합니다.
-  LABEL_EMPLOYEE_HIRED: %s를 고용했습니다.
-  LABEL_GAME_CRACKED: %s를 차단했습니다.
-  LABEL_GENRE_STOLEN: %s을 배웠습니다.
-  LABEL_STUDIO_SOLD: %s를 팔았습니다.
+  LABEL_EMPLOYEE_HIRED: "%s를 고용했습니다."
+  LABEL_GAME_CRACKED: "%s를 차단했습니다."
+  LABEL_GENRE_STOLEN: "%s을 배웠습니다."
+  LABEL_STUDIO_SOLD: "%s를 팔았습니다."
+
   # Tooltips
   TOOLTIP_MATCH_EXCELLENT: 훌륭한 조합
   TOOLTIP_MATCH_GOOD: 좋은 조합
