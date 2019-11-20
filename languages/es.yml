@@ -77,33 +77,33 @@ es:
   LABEL_TOTAL_COST: Costes totales
   LABEL_RENT_SERVER_COST: Gastos de alquiler de servidores
   LABEL_SERVER_USAGE_THRESHOLD: >
-    Alquile nuevos servidores tan pronto como la carga de los servidores alcance este umbral:
+    Alquila nuevos servidores tan pronto como la carga de los servidores alcance este umbral:
   LABEL_STEAM_NOT_DETECTED: |
-    No se puede alcanzar Steam.
+    No se puede detectar Steam.
 
-    Por favor, reinicie Steam.
-    Si el problema persiste, póngase en contacto con nosotros:
+    Por favor, reinicia Steam y vuelve a intentarlo.
+    Si el problema persiste, contacta con nosotros:
     contact@binogure-studio.com
   LABEL_ONLINE_GAMES: Juegos en línea
   LABEL_RENT_SERVERS: Servidor de alquiler
   LABEL_ENABLED: Habilitado
-  LABEL_DISABLED: Discapacitado
+  LABEL_DISABLED: Deshabilitado
   LABEL_TOTAL_UNIT_SOLD: Total de unidades vendidas
-  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Esta plataforma de juego no es compatible con su tienda digital
-  LABEL_DISCONTINUE_PLATFORM_TITLE: Discontinuar la plataforma
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Esta plataforma de juego no es compatible con tu tienda digital
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Descontinuar la plataforma
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
-    Usted todavía está vendiendo por lo menos un juego en '%s' a través de la tienda digital.
+    Todavía está vendiendo por lo menos un juego en '%s' a través de la tienda digital.
 
-    ¿Está seguro de que desea dejar de soportar la plataforma '%s'?
+    ¿Está seguro que desea dejar de soportar la plataforma '%s'?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     Para soportar más de una plataforma,
     es necesario desarrollar la función
     multiplataforma para la tienda digital.
-  LABEL_DS_SUPPORT_ALL_PLATFORMS: Soporta todas las consolas de juego
-  LABEL_NUMBER_OF_PLATFORMS: Número de consolas de juegos.
+  LABEL_DS_SUPPORT_ALL_PLATFORMS: Soporta todas las consolas
+  LABEL_NUMBER_OF_PLATFORMS: Número de consolas.
   LABEL_SERVER_LOAD: Carga de servidores
   LABEL_SALES_BONUS: Impulso de ventas
-  LABEL_SERVER_COST: Costos de servidores
+  LABEL_SERVER_COST: Costes de servidores
   LABEL_DS_SALES: Venta de juegos
   LABEL_DS_PLATFORMCUT: Cuota de la tienda digital
   LABEL_DS_CCU: Usuarios concurrentes
@@ -116,7 +116,7 @@ es:
   LABEL_DS_CROSSPLATFORM_TITLE: Multiplataforma
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     Añade soporte multiplataforma.
-  LABEL_DS_BOTPROTECTION_TITLE: Protección de bot
+  LABEL_DS_BOTPROTECTION_TITLE: Protección de bots
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
     Mitigación de ataques de bots.
   LABEL_DS_WORKSHOP_TITLE: Workshop
@@ -130,16 +130,16 @@ es:
     Permite a los usuarios opinar de un juego.
   LABEL_DS_STORE_TITLE: Tienda
   LABEL_DS_STORE_DESCRIPTION: |
-    Permite a los competidores vender juegos en su Tienda Digital.
+    Permite a los competidores vender juegos en tu tienda digital.
   LABEL_DS_ANALYTICS_TITLE: Analítica
   LABEL_DS_ANALYTICS_DESCRIPTION: |
     Permite recoger los hábitos de los usuarios.
   LABEL_DS_INVENTORY_TITLE: Inventario
   LABEL_DS_INVENTORY_DESCRIPTION: |
     Permite a los usuarios poseer, intercambiar y revender artículos.
-  LABEL_DS_WISHLIST_TITLE: Lista de deseos
+  LABEL_DS_WISHLIST_TITLE: Lista de deseados
   LABEL_DS_WISHLIST_DESCRIPTION: |
-    Permite a los usuarios incluir un juego en la lista de deseos.
+    Permite a los usuarios incluir un juego en la lista de deseados.
   LABEL_DS_ACHIEVEMENTS_TITLE: Logros
   LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
     Permite a los usuarios seguir su progreso en un juego.
@@ -168,8 +168,8 @@ es:
     ¡Felicidades!
   LABEL_HACKING_INTRODUCTION: |
     Bienvenido al simulador de Hacker.
-    Para piratear, haz clic en 'Comenzar'.
-  LABEL_OPEN_CONSOLE: Haga clic en 'Comenzar' para hackear
+    Para hackear, haz clic en 'Comenzar'.
+  LABEL_OPEN_CONSOLE: Haz clic en 'Comenzar' para hackear
   LABEL_DOWNLOADING: Descargando
   LABEL_TARGET_LOCALIZING: Intrusión detectada
   LABEL_CONNECTION_LOST: Conexión perdida
