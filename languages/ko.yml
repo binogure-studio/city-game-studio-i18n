@@ -1,4 +1,4 @@
-en:
+ko:
   # Buttons actions verbs
   BUTTON_READ: 읽기
   BUTTON_ANNOUNCE: 게임 소개
@@ -93,8 +93,7 @@ en:
   LABEL_DISCONTINUE_PLATFORM_TITLE: 플랫폼을 계속할수 없습니다.
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
     당신은 여전히 디지털 스토어를 통해 '%s'로 게임을 하나 이상 판매하고 있습니다.
-   
-    플랫폼 '%s'의 지원을 중지하시겠습니까?
+    플랫폼 "%s"의 지원을 중지하시겠습니까?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     한개 이상의 플랫폼을 지원하려면, 
     당신은 디지털 스토어의 크로스 플랫폼 기능을 개발해야 합니다.
@@ -303,7 +302,7 @@ en:
   LABEL_CRACKED: 크랙 존재.
   LABEL_SELECT_COMPANY_SPECIALIZATION: 게임 장르 전문화
   LABEL_DISCORD_COMMUNITY: 디스코드 커뮤니티
-  LABEL_LAST_MONTH: %s 달 동안 지속.
+  LABEL_LAST_MONTH: "%s 달 동안 지속."
   LABEL_SUCCESS_RATE: 성공 확률
   LABEL_RISKS: 관련 위험
   LABEL_SALES_HITS_TITLE: 판매 보고서
@@ -840,7 +839,7 @@ en:
   LABEL_PLATFORM_LIST: 플랫폼 목록
   LABEL_IDLE: 통합 개발 환경
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    [b] % s [/ b]의 스튜디오 직원이 쓰레기 뒤에 숨은 길 잃은 고양이를 발견했습니다.
+    [b]%s[/b]의 스튜디오 직원이 쓰레기 뒤에 숨은 길 잃은 고양이를 발견했습니다.
     이 고양이는 매우 귀여워서 직원들은 이미 이름을 지어주었습니다. 무엇을 원하세요?
   LABEL_ADOPT_CAT_TITLE: 길 잃은 고양이
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
@@ -882,8 +881,8 @@ en:
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 무료 광고
   LABEL_LOAN_TITLE: 마지막 대출
   LABEL_LOAN_DESCRIPTION: >
-    추가 비용이 필요하다는 점을 이해하고 도와 드리겠습니다. [b] % s $ [/b]의 대출을 제공 할 수 있습니다.
-    우리의 이자율은 [b] % s %% [/b]와 같으며 [b] % s [/b]가 상환됩니다.
+    추가 비용이 필요하다는 점을 이해하고 도와 드리겠습니다. [b]%s$[/b]의 대출을 제공 할 수 있습니다.
+    우리의 이자율은 [b]%s%%[/b]와 같으며 [b]%s[/b]가 상환됩니다.
     그것은 그의 회사와 같은 삶입니다. 우리는 당신의 마지막 희망입니다.
   LABEL_BURNING_SERVER_DESCRIPTION: >
     불 냄새가 납니까?!
@@ -1157,7 +1156,6 @@ en:
   LABEL_GAME_CRACKED: %s를 차단했습니다.
   LABEL_GENRE_STOLEN: %s을 배웠습니다.
   LABEL_STUDIO_SOLD: %s를 팔았습니다.
-
   # Tooltips
   TOOLTIP_MATCH_EXCELLENT: 훌륭한 조합
   TOOLTIP_MATCH_GOOD: 좋은 조합
