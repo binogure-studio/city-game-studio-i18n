@@ -68,6 +68,23 @@ ar:
   BUTTON_PAY: دفع
 
   # Labels, descriptive
+  LABEL_GAMEENGINE_READY: لعبة المحرك جاهزة
+  LABEL_GAMEENGINE_UPDATE: تحديث محرك اللعبة هذا
+  LABEL_GAMEENGINE_LIST: >
+    قائمة محركات اللعبة المتاحة في السوق
+  LABEL_FOSS: البرمجيات الحرة والمفتوحة المصدر
+  LABEL_PROPRIETARY: امتلاكي
+  LABEL_OWNER: صاحب
+  LABEL_PLATFORM_GPU_CAPABILITY: قدرات الرسم
+  LABEL_PLATFORM_CPU_CAPABILITY: حساب القدرات
+  LABEL_PLATFORM_GPU_COSTS: تكاليف الرسوم
+  LABEL_PLATFORM_CPU_COSTS: حساب التكاليف
+  LABEL_GAME_ENGINE_TITLE: التكنولوجيا الجديدة المتاحة
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    تقنية جديدة جاهزة للإضافة إلى محرك اللعبة:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    يمكنك الآن إنشاء محركات اللعبة الخاصة بك.
+    محركات اللعبة تزيد من مقدار النقاط التي يولدها فريقك.
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "الرسوم البيانية 2D أحادية اللون"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "الرسوم البيانية 2D 8 بت الألوان"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "الرسوم البيانية 2D 16 بت الألوان"
@@ -1359,6 +1376,8 @@ ar:
   LOADING_SCREEN_TIP_20: >
     إذا كان لدى الاستوديو الخاص بك مستوى مهارة غير متساو ، فيمكن أن يؤثر على
     الجودة الإجمالية للعبة.
+
+  GAMEENGINE: محركات اللعبة
   GAMEEDITION_SUBMIT: إصدار عروض النشر
   GAMEEDITION_RECEIVE: تلقي عروض النشر
   WORLDMAP: خريطة المدينة

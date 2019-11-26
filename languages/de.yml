@@ -69,6 +69,23 @@ de:
   BUTTON_PAY: Bezahlen
 
   # Labels, descriptive
+  LABEL_GAMEENGINE_READY: Spielmaschine bereit
+  LABEL_GAMEENGINE_UPDATE: Diese Spielmaschine aktualisieren
+  LABEL_GAMEENGINE_LIST: >
+    Liste der auf dem Markt erhältlichen Spiele-Engines
+  LABEL_FOSS: Freie und Open Source Software
+  LABEL_PROPRIETARY: Proprietär
+  LABEL_OWNER: Eigentümer
+  LABEL_PLATFORM_GPU_CAPABILITY: Grafikfähigkeiten
+  LABEL_PLATFORM_CPU_CAPABILITY: Rechenfunktionen
+  LABEL_PLATFORM_GPU_COSTS: Grafikkosten
+  LABEL_PLATFORM_CPU_COSTS: Kosten berechnen
+  LABEL_GAME_ENGINE_TITLE: Neue Technologie verfügbar
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    Eine neue Technologie ist bereit, um Ihrer Spiel-Engine hinzugefügt zu werden:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    Du kannst nun deine eigenen Spiel-Engines erstellen.
+    Game Engines erhöhen die Anzahl der von Ihren Mitarbeitern generierten Punkte. 
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D-Grafiken Monochrom"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D-Grafiken 8 Bits Farben"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D-Grafiken 16 Bits Farben"
@@ -1329,6 +1346,7 @@ de:
   LOADING_SCREEN_TIP_20: >
     Wenn dein Studio ein ungleiches Qualifikationsniveau hat, kann das die Gesamtqualität eines Spiels negativ beeinflussen.
 
+  GAMEENGINE: Spielmaschinen
   GAMEEDITION_SUBMIT: Spiel erstellen lassen
   GAMEEDITION_RECEIVE: Publisherangebote erhalten
   WORLDMAP: Weltkarte

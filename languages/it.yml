@@ -69,6 +69,23 @@ it:
   BUTTON_PAY: Paga
 
   # Labels, descriptive
+  LABEL_GAMEENGINE_READY: Motore di gioco pronto
+  LABEL_GAMEENGINE_UPDATE: Aggiornare questo motore di gioco
+  LABEL_GAMEENGINE_LIST: >
+    Elenco dei motori di gioco disponibili sul mercato
+  LABEL_FOSS: Software Libero e Open Source
+  LABEL_PROPRIETARY: Proprietario
+  LABEL_OWNER: Proprietario
+  LABEL_PLATFORM_GPU_CAPABILITY: Capacità grafiche
+  LABEL_PLATFORM_CPU_CAPABILITY: Capacità di calcolo
+  LABEL_PLATFORM_GPU_COSTS: Costi grafici
+  LABEL_PLATFORM_CPU_COSTS: Calcolare i costi
+  LABEL_GAME_ENGINE_TITLE: Nuova tecnologia disponibile
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    Una nuova tecnologia è pronta per essere aggiunta al tuo motore di gioco:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    Ora è possibile creare i propri motori di gioco.
+    I motori di gioco aumentano la quantità di punti generati dal tuo staff. 
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "Grafismi 2D Monocromatico"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "Grafismi 2D 8 Bit colori"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "Grafismi 2D 16 Bit colori"
@@ -1308,6 +1325,7 @@ it:
   LOADING_SCREEN_TIP_20: >
     Se il tuo studio ha un livello di abilità non uniforme, può influire sulla qualità complessiva di un gioco.
 
+  GAMEENGINE: Motori di gioco
   GAMEEDITION_SUBMIT: Pubblica offerte editoriali
   GAMEEDITION_RECEIVE: Ricevi offerte editoriali
   WORLDMAP: Mappa della città

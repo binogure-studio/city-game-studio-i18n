@@ -69,6 +69,23 @@ ru:
   BUTTON_PAY: Оплатить
 
   # Labels, descriptive
+  LABEL_GAMEENGINE_READY: Игровой движок готов
+  LABEL_GAMEENGINE_UPDATE: Обновить этот движок игры
+  LABEL_GAMEENGINE_LIST: >
+    Список доступных на рынке игровых движков
+  LABEL_FOSS: Свободное и открытое программное обеспечение с исходным кодом
+  LABEL_PROPRIETARY: Собственный
+  LABEL_OWNER: Владелец
+  LABEL_PLATFORM_GPU_CAPABILITY: Графические возможности
+  LABEL_PLATFORM_CPU_CAPABILITY: Вычислительные возможности
+  LABEL_PLATFORM_GPU_COSTS: Расходы на графику
+  LABEL_PLATFORM_CPU_COSTS: Расчет затрат
+  LABEL_GAME_ENGINE_TITLE: Доступны новые технологии
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    Новая технология готова к добавлению в ваш игровой движок:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    Теперь вы можете создавать собственные игровые движки.
+    Игровые движки увеличивают количество очков, генерируемых вашим персоналом. 
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D-графизмы Монохромный"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D-графизмы 8 бит цвета"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D-графизмы 16 битные цвета"
@@ -1356,6 +1373,7 @@ ru:
   LOADING_SCREEN_TIP_20: >
     Если ваша студия имеет неравномерный уровень мастерства, это может повлиять на общее качество игры.
 
+  GAMEENGINE: Игровые движки
   GAMEEDITION_SUBMIT: Издательские предложения
   GAMEEDITION_RECEIVE: Издательская деятельность
   WORLDMAP: Карта города

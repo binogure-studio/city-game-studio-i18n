@@ -69,6 +69,23 @@ tr:
   BUTTON_PAY: Ödemek
 
   # Labels, descriptive
+  LABEL_GAMEENGINE_READY: Oyun motoru hazır
+  LABEL_GAMEENGINE_UPDATE: Bu oyun motorunu güncelle
+  LABEL_GAMEENGINE_LIST: >
+    Piyasada bulunan oyun motorlarının listesi
+  LABEL_FOSS: Özgür ve Açık Kaynak Yazılım
+  LABEL_PROPRIETARY: müseccel
+  LABEL_OWNER: Sahip
+  LABEL_PLATFORM_GPU_CAPABILITY: Grafik yetenekleri
+  LABEL_PLATFORM_CPU_CAPABILITY: Bilgi işlem yetenekleri
+  LABEL_PLATFORM_GPU_COSTS: Grafik maliyetleri
+  LABEL_PLATFORM_CPU_COSTS: Maliyetleri hesapla
+  LABEL_GAME_ENGINE_TITLE: Yeni teknoloji mevcut
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    Oyun motorunuza yeni bir teknoloji eklenmeye hazır:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    Artık kendi oyun motorlarınızı oluşturabilirsiniz.
+    Oyun motorları, personeliniz tarafından oluşturulan puan miktarını arttırır.
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2B grafikler Tek renkli"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D grafikler 8 Bit renkleri"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D grafikler 16 Bit renk"
@@ -1315,6 +1332,7 @@ tr:
   LOADING_SCREEN_TIP_20: >
     Stüdyonuzun düzensiz bir beceri seviyesi varsa, oyunun genel kalitesini etkileyebilir.
 
+  GAMEENGINE: Oyun motorları
   GAMEEDITION_SUBMIT: Yayıncılık teklifleri yayınla
   GAMEEDITION_RECEIVE: Yayın teklifi al
   WORLDMAP: Şehir haritası

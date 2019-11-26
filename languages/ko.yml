@@ -69,6 +69,23 @@ ko:
   BUTTON_PAY: 지불하기
 
   # Labels, descriptive
+  LABEL_GAMEENGINE_READY: 게임 엔진 준비
+  LABEL_GAMEENGINE_UPDATE: 이 게임 엔진 업데이트
+  LABEL_GAMEENGINE_LIST: >
+    시중에서 판매되는 게임 엔진 목록
+  LABEL_FOSS: 무료 및 오픈 소스 소프트웨어
+  LABEL_PROPRIETARY: 소유권
+  LABEL_OWNER: 소유자
+  LABEL_PLATFORM_GPU_CAPABILITY: 그래픽 기능
+  LABEL_PLATFORM_CPU_CAPABILITY: 컴퓨팅 기능
+  LABEL_PLATFORM_GPU_COSTS: 그래픽 비용
+  LABEL_PLATFORM_CPU_COSTS: 계산 비용
+  LABEL_GAME_ENGINE_TITLE: 사용 가능한 새로운 기술
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    새로운 기술을 게임 엔진에 추가 할 준비가되었습니다.
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    이제 자신 만의 게임 엔진을 만들 수 있습니다.
+    게임 엔진은 직원이 생성 한 점수를 높입니다.
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D 그래픽 흑백"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D 그래픽 8 비트 색상"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D 그래픽 16 비트 색상"
@@ -1323,6 +1340,7 @@ ko:
   LOADING_SCREEN_TIP_20: >
     만약 당신의 스튜디오가 수준이 떨어지는 기술을 보유했다면, 그건 게임의 전반적인 질에 영향을 미칠 수 있습니다.
 
+  GAMEENGINE: 게임 엔진
   GAMEEDITION_SUBMIT: 이슈 발행 제안
   GAMEEDITION_RECEIVE: 게시 제안 받기
   WORLDMAP: 도시 지도 
