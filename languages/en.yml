@@ -69,6 +69,9 @@ en:
   BUTTON_PAY: Pay
 
   # Labels, descriptive
+  LABEL_DESIGN_CAPACITY: Ability to produce design points
+  LABEL_DEVELOPMENT_CAPACITY: Ability to produce development points
+  LABEL_POLISH_CAPACITY: Ability to produce polishing points
   LABEL_GAMEENGINE_MAKEFOSS: Make it free
   LABEL_GAMEENGINE_PENALITY: >
     Because of the legacy code, updating a game engine costs a bit more.
@@ -342,13 +345,15 @@ en:
     Requires %d employees in a single studio.
     Requires %d producer.
   LABEL_STUDIO_NOT_BALANCED: >
-    Check your studio's team. It does not produce the same number of Design/Development or Polish.
+    Check your studio's team. It does not produce the same amount of Design/Development or Polish.
     It will impact the games you will create.
   LABEL_LAST_COMBO: "Last time you've made the same combo theme/genre."
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] lacks [b]%s[/b].
   LABEL_POINTRATIO_TOO_MUCH: |
     [b]%s[/b] has too much [b]%s[/b].
+  LABEL_PLATFORM_NOT_EXPLOITED: |
+    They should have made greater use of the platform's capabilities.
   LABEL_MARKETING_CAMPAIGN: Marketing campaign
   LABEL_CAMPAIGN_TYPE: Campaign type
   LABEL_WORKLOAD: Workload

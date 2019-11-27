@@ -69,6 +69,9 @@ pt:
   BUTTON_PAY: Pagamento
 
   # Labels, descriptive
+  LABEL_DESIGN_CAPACITY: Capacidade de produzir pontos de desenho
+  LABEL_DEVELOPMENT_CAPACITY: Capacidade de produzir pontos de desenvolvimento
+  LABEL_POLISH_CAPACITY: Capacidade de produzir pontos de polimento
   LABEL_GAMEENGINE_MAKEFOSS: Faça de graça
   LABEL_GAMEENGINE_PENALITY: >
     Por causa do código legado, atualizar um mecanismo de jogo custa um pouco mais.
@@ -348,6 +351,8 @@ pt:
   LABEL_LAST_COMBO: "Da última vez que fizeste a mesma combinação tema/género"
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] não tem [b]%s[/b]. 
+  LABEL_PLATFORM_NOT_EXPLOITED: |
+    Deviam ter feito maior uso das capacidades da plataforma.
   LABEL_POINTRATIO_TOO_MUCH: |
     [b]%s[/b] tem muito [b]%s[/b].
   LABEL_MARKETING_CAMPAIGN: Campanha de marketing
