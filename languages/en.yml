@@ -71,6 +71,10 @@ en:
   BUTTON_EDIT: Edit
 
   # Labels, descriptive
+  LABEL_REVIEW_GAMEENGINE_BAD: >
+    They should have taken advantage of the console’s capabilities
+  LABEL_REVIEW_GAMEENGINE_GOOD: >
+    They were able to get the most out of the console    
   LABEL_GAME_ENGINE: Game engine
   LABEL_FEATURE_LIST: Features list
   LABEL_DESIGN_CAPACITY: Ability to produce design points
@@ -475,7 +479,7 @@ en:
   LABEL_COMPANY_WIDE: Company wide
   LABEL_STUDIO_WIDE: This studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    You must have at least [b]3[/b] employees in a single studio to deal with a publisher.
+    You must have at least 3 employees in a single studio to deal with a publisher.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelled"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     For [b]%s[/b] (%s),

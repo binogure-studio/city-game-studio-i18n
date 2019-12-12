@@ -71,6 +71,10 @@ es:
   BUTTON_EDIT: Tratar
   
   # Etiquetas, descripciones
+  LABEL_REVIEW_GAMEENGINE_BAD: >
+    Deberían haber aprovechado las capacidades de la consola
+  LABEL_REVIEW_GAMEENGINE_GOOD: >
+    Pudieron aprovechar al máximo la consola
   LABEL_GAME_ENGINE: Motor de juegos
   LABEL_FEATURE_LIST: Lista de características
   LABEL_DESIGN_CAPACITY: Capacidad para producir puntos de diseño
@@ -476,7 +480,7 @@ es:
   LABEL_COMPANY_WIDE: En toda la empresa
   LABEL_STUDIO_WIDE: Este estudio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Debes tener al menos [b]3[/b] personas trabajando en un estudio para poder solicitar una oferta de editor.
+    Debes tener al menos 3 personas trabajando en un estudio para poder solicitar una oferta de editor.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
