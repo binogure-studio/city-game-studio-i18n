@@ -8,7 +8,7 @@ de:
   BUTTON_BACK: Zurück
   BUTTON_BUILD_MODE: Bau-Modus
   BUTTON_BUILDING_RENT: Mieten
-  BUTTON_CANCEL: Verkauf einstellen für
+  BUTTON_CANCEL: Abbrechen
   BUTTON_CANCEL_ALL: Verkauf für alle Plattformen einstellen
   BUTTON_CLOSE: Schließen
   BUTTON_CREDITS: Credits
@@ -20,7 +20,7 @@ de:
   BUTTON_NEXT: Weiter
   BUTTON_OK: Okay
   BUTTON_OPTIONS: Optionen
-  BUTTON_RESET: Auf Standard
+  BUTTON_RESET: Zurücksetzen
   BUTTON_SKIP: Überspringen
   BUTTON_START: Start
   BUTTON_NEED_STUDIO: Keine verfügbaren Büros
@@ -28,7 +28,7 @@ de:
   BUTTON_TOO_BAD: Mist!
   BUTTON_BUY_ANOTHER_ONE: Erneut kaufen
   BUTTON_ADOPT: Adoptieren
-  BUTTON_ABANDON: Aussetzen
+  BUTTON_ABANDON: Abbrechen
   BUTTON_ASSIGN_EMPLOYEE: Zuweisen
   BUTTON_KEEP_PLAYING: Weiter spielen
   BUTTON_LEADERBOARD: Bestenliste
@@ -53,7 +53,7 @@ de:
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
   BUTTON_CRACK_GAME: Dieses Spiel hacken
-  BUTTON_FORCE_STUDIO_SELL: Erzwinge Verkauf des Büros
+  BUTTON_FORCE_STUDIO_SELL: Erzwinge den Verkauf des Büros
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Mitarbeiter abwerben
   BUTTON_SELECT: Wählen
@@ -73,7 +73,7 @@ de:
   # Labels, descriptive
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     Um den Digital Store zu aktivieren,
-    müssen Sie mindestens eine Plattform unterstützen
+    musst du mindestens eine Plattform unterstützen
   LABEL_NOT_AVAILABLE: Nicht verfügbar
   LABEL_REQUIRED: Erforderlich
   LABEL_REVIEW_GAMEENGINE_BAD: >
@@ -85,14 +85,14 @@ de:
   LABEL_DESIGN_CAPACITY: Möglichkeit der Erstellung von Konstruktionspunkten
   LABEL_DEVELOPMENT_CAPACITY: Fähigkeit, Entwicklungspunkte zu erstellen
   LABEL_POLISH_CAPACITY: Möglichkeit zur Herstellung von Polierspitzen
-  LABEL_GAMEENGINE_MAKEFOSS: Machen Sie es kostenlos
+  LABEL_GAMEENGINE_MAKEFOSS: Spiel-Engine kostenlos zur Verfügung stellen
   LABEL_GAMEENGINE_PENALITY: >
-    Aufgrund des Legacy-Codes kostet die Aktualisierung einer Game Engine etwas mehr.
-  LABEL_GAMEENGINE_READY: Spielmaschine bereit
-  LABEL_GAMEENGINE_UPDATE: Diese Spielmaschine aktualisieren
+    Aufgrund des Legacy-Codes kostet die Aktualisierung einer Spiel-Engine etwas mehr.
+  LABEL_GAMEENGINE_READY: Spiel-Engine bereit
+  LABEL_GAMEENGINE_UPDATE: Diese Spiel-Engine aktualisieren
   LABEL_GAMEENGINE_LIST: >
     Liste der auf dem Markt erhältlichen Spiele-Engines
-  LABEL_FOSS: Freie und Open Source Software
+  LABEL_FOSS: Kostenlose und Open-Source Software
   LABEL_PROPRIETARY: Proprietär
   LABEL_OWNER: Eigentümer
   LABEL_PLATFORM_GPU_CAPABILITY: Grafikfähigkeiten
@@ -101,10 +101,10 @@ de:
   LABEL_PLATFORM_CPU_COSTS: Kosten der Berechnungen
   LABEL_GAME_ENGINE_TITLE: Neue Technologie verfügbar
   LABEL_GAME_ENGINE_DESCRIPTION: >
-    Eine neue Technologie ist bereit, um Ihrer Spiel-Engine hinzugefügt zu werden:
+    Eine neue Technologie ist bereit, um deiner Spiel-Engine hinzugefügt zu werden:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Du kannst nun deine eigenen Spiel-Engines erstellen.
-    Game Engines erhöhen die Anzahl der von Ihren Mitarbeitern generierten Punkte. 
+    Spiel-Engines erhöhen die Anzahl der von Ihren Mitarbeitern generierten Punkte. 
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D-Grafiken Monochrom"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D-Grafiken 8 Bits Farben"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D-Grafiken 16 Bits Farben"
@@ -168,8 +168,8 @@ de:
   LABEL_STEAM_NOT_DETECTED: |
     Steam ist nicht erreichbar.
 
-    Bitte starten Sie Steam neu.
-    Wenn das Problem weiterhin besteht, kontaktieren Sie uns bitte:
+    Bitte starte Steam neu.
+    Wenn das Problem weiterhin besteht, kontaktiere uns bitte:
     contact@binogure-studio.com
   LABEL_ONLINE_GAMES: Online-Spiele
   LABEL_RENT_SERVERS: Server mieten
@@ -242,7 +242,7 @@ de:
   LABEL_HIRING_COSTS: Einstellungskosten
   LABEL_COMPLETE: Vollständig
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
-    Wählen und ziehen Sie das Symbol
+    Wähle und ziehe das Symbol
     um den Download zu starten
   LABEL_CLOSE_POPUP: Schließe das Popup um fortzufahren
   LABEL_CLOSE_CAT_POPUP: |
@@ -411,7 +411,7 @@ de:
   LABEL_SALES_HITS_1: >
     [b]%s[/b] ist diesen Monat nicht allzu schlecht, nach meinen Schätzungen wird es den Umsatz um [b]%d%%[/b] steigern.
   LABEL_SALES_HITS_2: >
-    In Ordnung, lassen Sie uns über [b]%s[/b] sprechen. Der Umsatz ist ausgezeichnet, und ich denke, wir können mit einer Umsatzsteigerung von [b]%d%%[/b] rechnen.
+    In Ordnung, lass uns über [b]%s[/b] sprechen. Der Umsatz ist ausgezeichnet, und ich denke, wir können mit einer Umsatzsteigerung von [b]%d%%[/b] rechnen.
   LABEL_SALES_HITS_3: >
     Mit [b]%s[/b] können wir groß denken, der Umsatz soll um [b]%d%%[/b] steigen.
   LABEL_SALES_HITS_4: >
@@ -426,7 +426,7 @@ de:
     Wir freuen uns, Ihnen mitteilen zu können, dass [b]%s[/b] für den [b]%s[/b] geplant ist.
 
     Die Messe wird 3 Tage dauern, und wir rechnen mit [b]%s[/b] Besuchern.
-    Sie können bereits einen Stand mieten, um Ihre schönsten Spiele zu präsentieren. Beeilung, die Plätze sind begrenzt.
+    Du kannst bereits einen Stand mieten, um deine schönsten Spiele zu präsentieren. Beeilung, die Plätze sind begrenzt.
 
     Mit freundlichen Grüßen,
     Die Organisatoren von  %s
@@ -564,7 +564,7 @@ de:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     Die Fans sind nicht glücklich und die Fachzeitschriften scheinen sich bereits auf dieses Spiel einzuschießen.
 
-    Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben. Probieren Sie was Neues!
+    Es muss gesagt werden, dass Sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben. Probieren Sie was Neues!
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
   LABEL_TRENDING: Beliebt
   LABEL_CREATOR: Entwicklung
@@ -791,7 +791,7 @@ de:
     Sie soll jahrelang halten!
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: >
     [b]%s[/b] kündigt das Ende der allseits bekannten Platform [b]%s[/b] an.
-  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für [b]%s[/b] freigeschaltet, sie kostete dich [b]%s$[/b]"
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für [b]%s[/b] freigeschaltet. Diese kostete dich [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
   LABEL_PLATFORM_DISCONTINUED_TITLE: Eingestellte Plattform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
