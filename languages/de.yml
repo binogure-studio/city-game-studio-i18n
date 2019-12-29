@@ -54,7 +54,7 @@ de:
   DROPDOWN_LANGUAGE: Sprache
   BUTTON_CRACK_GAME: Dieses Spiel hacken
   BUTTON_FORCE_STUDIO_SELL: Erzwinge den Verkauf des Büros
-  BUTTON_SPY: Einen Konkurrenten ausspionieren
+  BUTTON_SPY: Spionage
   BUTTON_HIRE_THEIR_EMPLOYE: Mitarbeiter abwerben
   BUTTON_SELECT: Wählen
   BUTTON_SAVEGAME: Spiel speichern
@@ -72,19 +72,19 @@ de:
 
   # Labels, descriptive
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
-    Um den Digital Store zu aktivieren,
+    Um den digitalen Vertrieb zu aktivieren,
     musst du mindestens eine Plattform unterstützen
   LABEL_NOT_AVAILABLE: Nicht verfügbar
   LABEL_REQUIRED: Erforderlich
   LABEL_REVIEW_GAMEENGINE_BAD: >
-    Sie hätten die Funktionen der Konsole nutzen sollen
+    Sie hätten mehr aus der Eingine holen müssen
   LABEL_REVIEW_GAMEENGINE_GOOD: >
-    Sie konnten das Beste aus der Konsole herausholen
+    Sie konnten das Beste aus der Engine herausholen
   LABEL_GAME_ENGINE: Spiel-Engine
   LABEL_FEATURE_LIST: Liste der Funktionen
-  LABEL_DESIGN_CAPACITY: Möglichkeit der Erstellung von Konstruktionspunkten
+  LABEL_DESIGN_CAPACITY: Möglichkeit der Erstellung von Design-Punkten
   LABEL_DEVELOPMENT_CAPACITY: Fähigkeit, Entwicklungspunkte zu erstellen
-  LABEL_POLISH_CAPACITY: Möglichkeit zur Herstellung von Polierspitzen
+  LABEL_POLISH_CAPACITY: Möglichkeit zur Herstellung von Perfektions-Punkten
   LABEL_GAMEENGINE_MAKEFOSS: Spiel-Engine kostenlos zur Verfügung stellen
   LABEL_GAMEENGINE_PENALITY: >
     Aufgrund des Legacy-Codes kostet die Aktualisierung einer Spiel-Engine etwas mehr.
@@ -96,9 +96,9 @@ de:
   LABEL_PROPRIETARY: Proprietär
   LABEL_OWNER: Eigentümer
   LABEL_PLATFORM_GPU_CAPABILITY: Grafikfähigkeiten
-  LABEL_PLATFORM_CPU_CAPABILITY: Rechenfunktionen
+  LABEL_PLATFORM_CPU_CAPABILITY: CPU-Fähigkeit
   LABEL_PLATFORM_GPU_COSTS: Grafikkosten
-  LABEL_PLATFORM_CPU_COSTS: Kosten der Berechnungen
+  LABEL_PLATFORM_CPU_COSTS: Kosten der CPU
   LABEL_GAME_ENGINE_TITLE: Neue Technologie verfügbar
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Eine neue Technologie ist bereit, um deiner Spiel-Engine hinzugefügt zu werden:
@@ -117,9 +117,9 @@ de:
   LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D-Grafiken 32 Bits Farben"
   LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR-Grafiken"
   LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "Voxel-Grafiken"
-  LABEL_GAME_ENGINE_BASIC_DIALOG: "Basisdialog"
-  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "Interaktiver Dialog"
-  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "KI generierter Dialog"
+  LABEL_GAME_ENGINE_BASIC_DIALOG: "Einfache Dialoge"
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "Interaktive Dialoge"
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "KI generierte Dialoge"
   LABEL_GAME_ENGINE_JOYSTICK: "Joystick-Unterstützung"
   LABEL_GAME_ENGINE_GAMEPAD: "Gamepad-Unterstützung"
   LABEL_GAME_ENGINE_MOUSE: "Mausunterstützung"
@@ -133,12 +133,12 @@ de:
   LABEL_GAME_ENGINE_MIDI_SOUND: "Midi-Sound"
   LABEL_GAME_ENGINE_STEREO_SOUND: "Stereoklang"
   LABEL_GAME_ENGINE_51_SOUND: "Surround-Sound"
-  LABEL_GAME_ENGINE_BASIC_MUSIC: "Basismusik"
+  LABEL_GAME_ENGINE_BASIC_MUSIC: "Einfache Musik"
   LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "Orchestermusik"
   LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "Interaktive Musik"
   LABEL_GAME_ENGINE_PASSWORD_SAVE: "Passwortbasiertes Speichern"
-  LABEL_GAME_ENGINE_BASIC_SAVE: "Spart"
-  LABEL_GAME_ENGINE_CLOUD_SAVE: "Cloud spart"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "Speicherstände"
+  LABEL_GAME_ENGINE_CLOUD_SAVE: "Cloud Speicherstände"
   LABEL_GAME_ENGINE_BASIC_PHYSICS: "Grundlegende Physik"
   LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "Fortgeschrittene Physik"
   LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "Realistische Physik"
@@ -147,7 +147,7 @@ de:
   LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "Einfache Animation"
   LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: "Dynamische Animation"
   LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "KI-basierte Animation"
-  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "Basis-Tutoriel"
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "Basis-Tutorial"
   LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "Interaktives Tutorial"
   LABEL_GAME_ENGINE_LOADING_SCREEN: "Ladebildschirm"
   LABEL_GAME_ENGINE_BACKGROUND_LOADING: "Laden im Hintergrund"
@@ -158,7 +158,7 @@ de:
   LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "Cloud-Ranglisten"
   LABEL_BUSY: Beschäftigt
   LABEL_AVAILABLE: Verfügbar
-  LABEL_AUTOATTEND_CONVENTION: Automatische Teilnahme an allen Kongressen.
+  LABEL_AUTOATTEND_CONVENTION: Automatische Teilnahme an allen Messen.
   LABEL_SERVER_CAPACITY: Serverkapazität
   LABEL_SERVER_RENT_CAPACITY: Kapazität der gemieteten Server
   LABEL_TOTAL_COST: Gesamtkosten
