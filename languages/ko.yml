@@ -30,6 +30,7 @@ ko:
   BUTTON_ADOPT: 채택하기
   BUTTON_ABANDON: 버리기
   BUTTON_ASSIGN_EMPLOYEE: 직원 할당
+  BUTTON_WITHDRAW_SPECIALISTS: 모든 전문가 철회
   BUTTON_KEEP_PLAYING: 계속 플레이
   BUTTON_LEADERBOARD: 리더보드
   BUTTON_GIVEUP: 포기
@@ -71,6 +72,7 @@ ko:
   BUTTON_EDIT: 편집하다
 
   # Labels, descriptive
+  LABEL_UNIQUE: 독특한
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     디지털 상점을 활성화하려면 하나
     이상의 플랫폼을 지원해야합니다.
@@ -99,6 +101,24 @@ ko:
   LABEL_PLATFORM_CPU_CAPABILITY: 컴퓨팅 기능
   LABEL_PLATFORM_GPU_COSTS: 그래픽 비용
   LABEL_PLATFORM_CPU_COSTS: 계산 비용
+  LABEL_GAMEENGINE_DONATION_TITLE: 기부금을 받았습니다
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    여보세요,
+
+    이 이메일은 귀하가 [b]%s$[/b] 의 기부금을 받았음을 확인합니다
+    게임 엔진 [b]%s[/b]
+
+    문안 인사,
+    비노 팔
+  LABEL_GAMEENGINE_FEATURE_TITLE: 새로운 기능 구현
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    여보세요,
+
+    [b]%s[/b]는 빠르게 성장하는 커뮤니티에 있습니다.
+    그들은 새로운 기능을 구현했습니다.
+    [b]%s[/b]
+
+    무료입니다!
   LABEL_GAME_ENGINE_TITLE: 사용 가능한 새로운 기술
   LABEL_GAME_ENGINE_DESCRIPTION: >
     새로운 기술을 게임 엔진에 추가 할 준비가되었습니다.

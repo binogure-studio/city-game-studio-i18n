@@ -30,6 +30,7 @@ en:
   BUTTON_ADOPT: Adopt
   BUTTON_ABANDON: Abandon
   BUTTON_ASSIGN_EMPLOYEE: Assign
+  BUTTON_WITHDRAW_SPECIALISTS: Withdraw all specialists
   BUTTON_KEEP_PLAYING: Keep playing
   BUTTON_LEADERBOARD: Leaderboard
   BUTTON_GIVEUP: Give up
@@ -71,6 +72,7 @@ en:
   BUTTON_EDIT: Edit
 
   # Labels, descriptive
+  LABEL_UNIQUE: Unique
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     To activate the digital store,
     you need to support at least one platform
@@ -99,6 +101,24 @@ en:
   LABEL_PLATFORM_CPU_CAPABILITY: Compute capabilities
   LABEL_PLATFORM_GPU_COSTS: Graphic costs
   LABEL_PLATFORM_CPU_COSTS: Computations costs
+  LABEL_GAMEENGINE_DONATION_TITLE: You received a donation
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Hello,
+
+    This email confirms that you've received a donation of [b]%s$[/b]
+    for the game engine [b]%s[/b]
+
+    Regards,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: New feature implemented
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Hello,
+
+    [b]%s[/b] is in a fast-growing community.
+    They've implemented a new feature:
+    [b]%s[/b]
+
+    It is free of charge!
   LABEL_GAME_ENGINE_TITLE: New technology available
   LABEL_GAME_ENGINE_DESCRIPTION: >
     A new technology is ready to be implemented:

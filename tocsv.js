@@ -40,7 +40,7 @@ console.log(Object.keys(result).reduce((acc, key) => {
   let amount_of_percent = null
 
   if (amount_of_translations != value.length) {
-    console.error(`Error on ${key}`)
+    console.error(`Error on ${key} (Expected: ${amount_of_translations}, actual: ${value.length})`)
   }
 
   value.forEach((item) => {

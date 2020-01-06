@@ -30,6 +30,7 @@ zh:
   BUTTON_ADOPT: 采用
   BUTTON_ABANDON: 放弃
   BUTTON_ASSIGN_EMPLOYEE: 分配
+  BUTTON_WITHDRAW_SPECIALISTS: 撤出所有专家
   BUTTON_KEEP_PLAYING: 继续游戏
   BUTTON_LEADERBOARD: 排行榜
   BUTTON_GIVEUP: 放弃
@@ -71,6 +72,7 @@ zh:
   BUTTON_EDIT: 编辑
 
   # Labels, descriptive
+  LABEL_UNIQUE: 独特
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     要激活数字商店，
     您需要至少支持一个平台
@@ -99,6 +101,24 @@ zh:
   LABEL_PLATFORM_CPU_CAPABILITY: 计算能力
   LABEL_PLATFORM_GPU_COSTS: 图形费用
   LABEL_PLATFORM_CPU_COSTS: 计算成本
+  LABEL_GAMEENGINE_DONATION_TITLE: 您收到了捐款
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    你好，
+
+    这封电子邮件确认您已收到[b]%s[/b]美元的捐款
+    用于游戏引擎[b]%s[/b]
+
+    问候，
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: 实施新功能
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    你好，
+
+    [b]%s[/b]位于一个快速成长的社区。
+    他们实现了一项新功能：
+    [b]%s[/b]
+
+    这个是免费的！
   LABEL_GAME_ENGINE_TITLE: 可用的新技术
   LABEL_GAME_ENGINE_DESCRIPTION: >
     准备将新技术添加到您的游戏引擎中：

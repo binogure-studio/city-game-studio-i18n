@@ -30,6 +30,7 @@ ru:
   BUTTON_ADOPT: Принять
   BUTTON_ABANDON: Отказаться
   BUTTON_ASSIGN_EMPLOYEE: Назначить
+  BUTTON_WITHDRAW_SPECIALISTS: Вывести всех специалистов
   BUTTON_KEEP_PLAYING: Продолжить играть
   BUTTON_LEADERBOARD: Статистика
   BUTTON_GIVEUP: Сдаться
@@ -71,6 +72,7 @@ ru:
   BUTTON_EDIT: Редактировать
 
   # Labels, descriptive
+  LABEL_UNIQUE: Уникальный
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     Для активации цифрового магазина
     необходимо поддерживать хотя бы одну платформу
@@ -99,6 +101,24 @@ ru:
   LABEL_PLATFORM_CPU_CAPABILITY: Вычислительные возможности
   LABEL_PLATFORM_GPU_COSTS: Расходы на графическую часть
   LABEL_PLATFORM_CPU_COSTS: Расходы на техническую часть
+  LABEL_GAMEENGINE_DONATION_TITLE: Вы получили пожертвование
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Здравствуйте,
+
+    Данное письмо подтверждает, что вы получили пожертвование в размере [b]%s$[/b]
+    для игрового движка [b]%s[/b]
+
+    С Уважением,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: Новая функция реализована
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Здравствуйте,
+
+    [b]%s[/b] в быстро растущем сообществе.
+    Они реализовали новую функцию:
+    [b]%s[/b]
+
+    Это бесплатно!
   LABEL_GAME_ENGINE_TITLE: Доступны новые технологии
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Новая технология готова к добавлению в ваш игровой движок:

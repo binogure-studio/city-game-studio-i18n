@@ -30,6 +30,7 @@ pt:
   BUTTON_ADOPT: Adotar
   BUTTON_ABANDON: Abandono
   BUTTON_ASSIGN_EMPLOYEE: Atribuir
+  BUTTON_WITHDRAW_SPECIALISTS: Retirar todos os especialistas
   BUTTON_KEEP_PLAYING: Continue jogando
   BUTTON_LEADERBOARD: Entre os melhores
   BUTTON_GIVEUP: Desistir
@@ -71,6 +72,7 @@ pt:
   BUTTON_EDIT: Editar
 
   # Labels, descriptive
+  LABEL_UNIQUE: Único
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     Para ativar a loja digital,
     você precisa oferecer suporte a pelo menos uma plataforma
@@ -99,6 +101,24 @@ pt:
   LABEL_PLATFORM_CPU_CAPABILITY: Capacidades de computação
   LABEL_PLATFORM_GPU_COSTS: Custos gráficos
   LABEL_PLATFORM_CPU_COSTS: Custos dos cálculos
+  LABEL_GAMEENGINE_DONATION_TITLE: Você recebeu uma doação
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Olá,
+
+    Este email confirma que você recebeu uma doação de [b]%s$[/b]
+    para o motor de jogo [b]%s[/b]
+
+    Saudações,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: Novo recurso implementado
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Olá,
+
+    [b]%s[/b] está em uma comunidade que cresce rapidamente.
+    Eles implementaram um novo recurso:
+    [b]%s[/b]
+
+    É grátis!
   LABEL_GAME_ENGINE_TITLE: Nova tecnologia disponível
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Uma nova tecnologia está pronta para ser adicionada ao seu motor de jogo:

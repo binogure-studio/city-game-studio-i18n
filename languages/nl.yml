@@ -30,6 +30,7 @@ nl:
   BUTTON_ADOPT: Adopteer
   BUTTON_ABANDON: Verlaten
   BUTTON_ASSIGN_EMPLOYEE: Toewijzen
+  BUTTON_WITHDRAW_SPECIALISTS: Trek alle specialisten terug
   BUTTON_KEEP_PLAYING: Verder spelen
   BUTTON_LEADERBOARD: Klassement
   BUTTON_GIVEUP: Opgeven
@@ -71,6 +72,7 @@ nl:
   BUTTON_EDIT: Bewerken
 
   # Labels, descriptive
+  LABEL_UNIQUE: Uniek
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     Om de digitale winkel te activeren,
     moet u ten minste één platform ondersteunen
@@ -99,6 +101,24 @@ nl:
   LABEL_PLATFORM_CPU_CAPABILITY: Bereken de mogelijkheden
   LABEL_PLATFORM_GPU_COSTS: Grafische kosten
   LABEL_PLATFORM_CPU_COSTS: Kosten van de berekeningen
+  LABEL_GAMEENGINE_DONATION_TITLE: U heeft een donatie ontvangen
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Hallo,
+
+    Deze e-mail bevestigt dat je een donatie van [b]%s$[/b] hebt ontvangen
+    voor de game-engine [b]%s[/b]
+
+    Vriendelijke groeten,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: Nieuwe functie geïmplementeerd
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Hallo,
+
+    [b]%s[/b] zit in een snelgroeiende gemeenschap.
+    Ze hebben een nieuwe functie geïmplementeerd:
+    [b]%s[/b]
+
+    Het is gratis!
   LABEL_GAME_ENGINE_TITLE: Nieuwe technologie beschikbaar
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Een nieuwe technologie is klaar om toegevoegd te worden aan je game-engine:

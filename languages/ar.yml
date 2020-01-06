@@ -29,6 +29,7 @@ ar:
   BUTTON_ADOPT: إعتمد
   BUTTON_ABANDON: تخلي
   BUTTON_ASSIGN_EMPLOYEE: تعيين
+  BUTTON_WITHDRAW_SPECIALISTS: سحب جميع المتخصصين
   BUTTON_KEEP_PLAYING: إستمر في اللعب
   BUTTON_LEADERBOARD: لوح المتصدرين
   BUTTON_GIVEUP: تخلي عن
@@ -70,6 +71,7 @@ ar:
   BUTTON_EDIT: تصحيح
 
   # Labels, descriptive
+  LABEL_UNIQUE: فريد
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     لتنشيط المتجر الرقمي ،
     تحتاج إلى دعم منصة واحدة على الأقل
@@ -98,6 +100,24 @@ ar:
   LABEL_PLATFORM_CPU_CAPABILITY: حساب القدرات
   LABEL_PLATFORM_GPU_COSTS: تكاليف الرسوم
   LABEL_PLATFORM_CPU_COSTS: تكاليف الحسابات
+  LABEL_GAMEENGINE_DONATION_TITLE: لقد تلقيت تبرعًا
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    مرحبا،
+
+    تؤكد رسالة البريد الإلكتروني هذه أنك تلقيت تبرعًا بقيمة [b]%s[/b] دولار
+    لمحرك اللعبة [b]%s[/b]
+
+    مع تحياتي،
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: ميزة جديدة تنفيذها
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    مرحبا،
+
+    [b]%s[/b] في مجتمع سريع النمو.
+    لقد نفذوا ميزة جديدة:
+    [b]%s[/b]
+
+    إنه مجاني!
   LABEL_GAME_ENGINE_TITLE: التكنولوجيا الجديدة المتاحة
   LABEL_GAME_ENGINE_DESCRIPTION: >
     تقنية جديدة جاهزة للإضافة إلى محرك اللعبة:

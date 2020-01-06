@@ -30,6 +30,7 @@ tr:
   BUTTON_ADOPT: Benimse
   BUTTON_ABANDON: Terket
   BUTTON_ASSIGN_EMPLOYEE: Çalışan yerleştir
+  BUTTON_WITHDRAW_SPECIALISTS: Tüm uzmanları geri çek
   BUTTON_KEEP_PLAYING: Oynamaya devam et
   BUTTON_LEADERBOARD: Liderler Sıralaması
   BUTTON_GIVEUP: Vazgeç
@@ -71,6 +72,7 @@ tr:
   BUTTON_EDIT: Düzenle
 
   # Labels, descriptive
+  LABEL_UNIQUE: Benzersiz
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     Dijital mağazayı etkinleştirmek için
     en az bir platforma ihtiyacınız var.
@@ -99,6 +101,24 @@ tr:
   LABEL_PLATFORM_CPU_CAPABILITY: Bilgi işlem yetenekleri
   LABEL_PLATFORM_GPU_COSTS: Grafik maliyetleri
   LABEL_PLATFORM_CPU_COSTS: Hesapların maliyeti
+  LABEL_GAMEENGINE_DONATION_TITLE: Bir bağış aldınız
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Merhaba,
+
+    Bu e-posta [b]%s$[/b] bağış aldığınızı onaylıyor
+    oyun motoru için [b]%s[/b]
+
+    Saygılarımızla,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: Yeni özellik uygulandı
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Merhaba,
+
+    [b]%s[/b] hızla büyüyen bir topluluktadır.
+    Yeni bir özellik uyguladılar:
+    [b]%s[/b]
+
+    Ücretsiz!
   LABEL_GAME_ENGINE_TITLE: Yeni teknoloji mevcut
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Oyun motorunuza yeni bir teknoloji eklenmeye hazır:
