@@ -8,22 +8,35 @@ Ma rimane un problema: nonostante il tuo successo, non hai abbastanza fans per p
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Ogni partita è unica[/h2]
+[h2]Elenco delle caratteristiche[/h2]
+[list][*] Sviluppare o affittare motori di gioco
+[*] Ricevere/pubblicare le offerte di gioco
+[*] Acquisto o affitto di diversi edifici
+[*] Sviluppare e gestire un negozio digitale
+[*] Giochi di Cracking dei concorrenti
+[*] Sbloccare nuovi generi di gioco
+[*] Spiare i concorrenti
+[*] Assumere personale
+[*] Organizzare campagne di marketing
+[*] Organizzazione e partecipazione a convegni
+[*] Acquistare aziende
+[*] Esecuzione di contratti che formano i vostri dipendenti
+[*] Portare i giochi su diverse console
+[*] Progetta il tuo logo aziendale
+[*] Gestire gli orari dei vostri dipendenti
+[*] Premiato come gioco dell'anno
+[*] Divertitevi[/list]
 
-Mappe and studi sono generati proceduralmente. Uniti a eventi casuali e personalizzazioni, ogni partita sarà un'esperienza unica.
+[h2]Questo gioco non ha[/h2]
+[list][*] Concorsi eSport
+[*] Un reparto di Ricerca e Sviluppo
+[*] Una modalità multiplayer
+[*] Lootbox
+[*] Microtransazioni[/list]
 
-[h2]Scegli lo studio che fa per te[/h2]
-
-Scegli il posto che fa per te tra numerose città. Come diceva mio zio: "Si prendono più mosche con una goccia di miele che con una botte d'aceto".
-
-[h2]Arreda il tuo studio[/h2]
-
-Non tutti siamo arredatori di interni, ma ogni singolo mobile e decorazione ha il suo posto, e può influenzare la storia della tua azienda.
-
-[h2]Pubblica, assumi, ripeti[/h2]
-
-Ogni gioco è unico, ma con il passare del tempo, nuove generazioni di console arrivano sul mercato. Non puoi creare un bestseller da solo. Avrai bisogno di assumere nuovi talenti che ti aiuteranno a creare il gioco perfetto.
-
-[h2]Sviluppo del gioco[/h2]
-
-Puoi seguire lo sviluppo del gioco in diretta su twitch tramite il canale binogure.
+[h2]City Game Studio si ispira a giochi meravigliosi come[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon[/list]

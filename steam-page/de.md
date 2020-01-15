@@ -10,20 +10,35 @@ Nur eine Aneinanderkettung von Erfolgen ermöglicht dir von all den Publishern l
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Jedes Spiel ist einzigartig![/h2]
-Karten und Studios werden zufällig generiert. Kombiniert mit zufälligen Ereignissen und anpassbaren Studios, wirst du das Spiel jedes mal neu entdecken.
+[h2]Funktionsliste[/h2]
+[list][*] Game-Engines entwickeln oder mieten
+[*] Spielangebote erhalten/veröffentlichen
+[*] Kauf oder Miete mehrerer Gebäude
+[*] Entwicklung und Verwaltung eines digitalen Shops
+[*] Spiele der Wettbewerber knacken
+[*] Neue Spielgenres freischalten
+[*] Die Konkurrenz ausspionieren
+[*] Personal einstellen
+[*] Marketingkampagnen organisieren
+[*] Organisation und Teilnahme an Kongressen
+[*] Unternehmen aufkaufen
+[*] Durchführung von Verträgen, die Ihre Mitarbeiter schulen
+[*] Portierung von Spielen auf mehrere Konsolen
+[*] Gestalten Sie Ihr Firmenlogo
+[*] Verwalten Sie die Zeitpläne Ihrer Mitarbeiter
+[*] Erhalten Sie die Auszeichnung Spiel des Jahres
+[*] Amüsieren Sie sich[/list]
 
-[h2]Hole dir das beste Büro![/h2]
-Durchsuche die Stadt und finde den besten Ort für dein nächstes Büro.
-Wie mein Onkel immer sagte: „Man kann mehr Talente mit Honig als mit Essig fangen!“
+[h2] Dieses Spiel hat keine[/h2]
+[list][*] eSport-Wettbewerbe
+[*] Eine Abteilung für Forschung und Entwicklung
+[*] Ein Mehrspieler-Modus
+[*] Beutekästen
+[*] Mikrotransaktionen[/list]
 
-[h2]Richte deine Studios ein[/h2]
-Nicht jeder ist ein Studio Designer, trotzdem hat jedes Möbelstück seinen Platz im Studio und kann Einfluss auf die Geschichte deiner Firma haben! Notfalls lässt du dir von einem Architekten helfen.
-
-[h2]Publish, Hire, Repeat[/h2]
-Jedes Spiel ist einzigartig, doch von Zeit zu Zeit kommen neue Generationen von Spielekonsolen!
-Du kannst alleine keine Bestseller machen und musst neue Talente einstellen die dir dabei helfen, das perfekte Spiel zu entwickeln!
-
-[h2]Entwicklung[/h2]
-Die Entwicklung dieses Spieles wird auf dem Twitch-Kanal von binogure auf französisch gestreamt.
-
+[h2]City Game Studio ist inspiriert von wunderbaren Spielen wie[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon[/list]

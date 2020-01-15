@@ -8,22 +8,34 @@ Mas um problema permanece, mesmo se os seus jogos forem brilhantes, você não t
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Cada jogo é único[/h2]
+[h2]Lista de características[/h2]
+[list][*] Desenvolver ou alugar motores de jogo
+[*] Receber/publicar ofertas de jogos
+[*] Compra ou aluguer de vários edifícios
+[*] Desenvolver e gerir uma loja digital
+[*] Cracking dos jogos dos concorrentes
+[*] Desbloqueando novos gêneros de jogo
+[*] Espiar os concorrentes
+[*] Contratar pessoal
+[*] Organizar campanhas de marketing
+[*] Organização e participação em convenções
+[*] Compra de empresas
+[*] Execução de contratos que treinam os seus empregados
+[*] Jogos de portabilidade para vários consoles
+[*] Desenhe o logotipo da sua empresa
+[*] Gerencie os horários dos seus funcionários
+[*] Ganhe o Jogo do Ano
+[*] Divirta-se.[/list]
 
-Mapas e estúdios são processualmente gerados. Combinado com eventos aleatórios e estúdios personalizáveis, você redescobrirá o jogo a cada novo jogo.
+[h2]Este jogo não tem[/h2]
+[list][*] Concursos eSport
+[*] Um departamento de Pesquisa e Desenvolvimento
+[*] Um modo multiplayer
+[*] Lootboxes
+[*] Microtransacções[/list]
 
-[h2]Atribuir o melhor estúdio[/h2]
-
-Navegue pelas cidades e escolha a localização do seu próximo estúdio. Como meu tio costumava dizer "O mel pega mais talentos do que o vinagre!"
-
-[h2]Forneça seus estúdios com cuidado[/h2]
-
-Nem todo mundo é um designer de estúdio, mas cada peça de mobília tem o seu lugar no seu estúdio e pode influenciar a história da sua empresa.
-
-[h2]Publicar, contratar, repetir[/h2]
-
-Cada jogo é único, mas com o tempo, novas gerações de consoles saem. Você não pode criar um bestseller sozinho. Você tem que contratar novos talentos que irão ajudá-lo a criar o jogo perfeito
-
-[h2]Desenvolvimento de jogos[/h2]
-
-O desenvolvimento do jogo é transmitido ao vivo no Twitch no canal binogure.
+[h2]O City Game Studio é inspirado em jogos maravilhosos como[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City

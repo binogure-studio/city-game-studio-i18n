@@ -8,22 +8,36 @@ But a problem remains, even if your games are brilliant, you don't have enough f
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Each game is unique[/h2]
+[h2]Feature list[/h2]
+[list][*] Develop or rent game engines
+[*] Receive/publish game offers
+[*] Buying or renting several buildings
+[*] Develop and manage a digital store
+[*] Cracking competitors' games
+[*] Unlocking new game genres
+[*] Spy the competitors
+[*] Hire staff
+[*] Organize marketing campaigns
+[*] Organizing and attending conventions
+[*] Buy out companies
+[*] Executing contracts that trains your employees
+[*] Porting games to several consoles
+[*] Design your company logo
+[*] Manage your employees' schedules
+[*] Get awarded Game of the Year
+[*] Have a good time[/list]
 
-Maps and studios are procedurally generated. Combined with random events and customizable studios, you will rediscover the game with each new game.
+[h2]This game doesn’t have[/h2]
+[list][*] eSport competitions
+[*] An R&D department
+[*] A multiplayer mode
+[*] Lootboxes
+[*] Microtransactions
+[/list]
 
-[h2]Assign the best studio[/h2]
-
-Browse the cities and choose the location of your next studio. As my uncle used to say, "Honey catches more talents than vinegar!"
-
-[h2]Furnish your studios carefully[/h2]
-
-Not everyone is a studio designer, yet every piece of furniture has its place in your studio, and can have an influence on the history of your company.
-
-[h2]Publish, hire, repeat[/h2]
-
-Each game is unique, but over time new generations of consoles come out. You cannot create a bestseller alone. You have to hire new talents that will help you create the perfect game.
-
-[h2]Game development[/h2]
-
-The development of the game is broadcast on twitch using the channel binogure.
+[h2]City Game Studio is inspired by marvelous games like[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon[/list]

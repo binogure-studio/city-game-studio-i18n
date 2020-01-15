@@ -8,22 +8,35 @@ Pero un problema permanece, aunque tus juegos son brillantes, no tienes suficien
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Cada partida es única[/h2]
+[h2]Lista de características[/h2]
+[list][*] Desarrollar o alquilar motores de juego
+[*] Recibir/publicar ofertas de juegos
+[*] Compra o alquiler de varios edificios
+[*] Desarrollar y gestionar una tienda digital
+[*] Destruir los juegos de los competidores
+[*] Desbloqueo de nuevos géneros de juego
+[*] Espiar a los competidores
+[*] Contratar personal
+[*] Organizar campañas de marketing
+[*] Organizar y asistir a convenciones
+[*] Compra de empresas
+[*] Ejecutar contratos que formen a sus empleados
+[*] Portar juegos a varias consolas
+[*] Diseñe el logotipo de su empresa
+[*] Gestione los horarios de sus empleados
+[*] Obtenga el premio al Juego del Año
+[*] Pásalo bien[/list]
 
-El mapa y los estudios son generadores proceduralmente. Combinado con eventos aleatorios y estudios personalizables, deberás descubrir el juego con cada nueva partida.
+[h2]Este juego no tiene[/h2]
+[list][*] Competiciones eSport
+[*] Un departamento de I+D
+[*] Un modo multijugador
+[*] Cajas de botín
+[*] Microtransacciones[/list]
 
-[h2]Asigna el mejor estudio[/h2]
-
-Explora la ciudad y selecciona la mejor localización para tu próximo estudio. Como mi tío solía decir, "¡Se cazan más moscas con miel que con vinagre!".
-
-[h2]Amuebla tus estudios con cuidado[/h2]
-
-No todo el mundo es decorador. Sin embargo, cada parte del mobiliario tiene su lugar en tu estudio y puede influir en la historia de tu estudio.
-
-[h2]Publicar, contratar, repetir[/h2]
-
-Cada videojuego es único, pero a lo largo del tiempo, nuevas generaciones de consolas saldrán al mercado. No puedes crear un bestseller tú solo, así que deberás contratar nuevos talentos que te permitan crear el juego perfecto.
-
-[h2]Desarrollo del videojuego[/h2]
-
-El desarrollo del videojuego es retransmitido por Twitch en el canal Binogure.
+[h2]City Game Studio está inspirado en maravillosos juegos como[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon[/list]

@@ -8,22 +8,35 @@ Ancak oyunlarınız mükemmel olsa bile, bir sorun var, stüdyonuzu kârlı kıl
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Her oyun eşsizdir.[/h2]
+[h2]Özellik listesi[/h2]
+[list][*] Oyun motorları geliştirin veya kiralayın
+[*] Oyun teklifleri alma / yayınlama
+[*] Birkaç bina satın alma veya kiralama
+[*] Dijital mağaza geliştirme ve yönetme
+[*] Rakiplerin oyunlarını kırma
+[*] Yeni oyun türlerinin kilidini açma
+[*] Rakiplere casusluk yapın
+[*] Personel almak
+[*] Pazarlama kampanyaları düzenleme
+[*] Sözleşmeleri düzenlemek ve katılmak
+[*] Şirket satın alın
+[*] Çalışanlarınızı eğiten sözleşmeler yapma
+[*] Oyunları birkaç konsola taşıma
+[*] Şirket logonuzu tasarlayın
+[*] Çalışanlarınızın programlarını yönetin
+[*] Yılın Yılın Oyunu
+[*] İyi vakit geçir[/list]
 
-Haritalar ve stüdyolar usule göre oluşturulur. Rasgele etkinlikler ve özelleştirilebilir stüdyolarla bir araya getirildiğinde, her yeni oyunda oyunu yeniden keşfedeceksiniz.
+[h2]Bu oyunda yok[/h2]
+[list][*] eSport yarışmaları
+[*] Araştırma ve Geliştirme departmanı
+[*] Çok oyunculu mod
+[*] Lootboxes
+[*] microtransactions[/list]
 
-[h2]En iyi stüdyoyu yapın[/h2]
-
-Şehirlere göz atın ve bir sonraki stüdyonuzun yerini seçin. Amcamın dediği gibi, "Bal sirkeden daha fazla yetenek yakalar!"
-
-[h2]Stüdyolarınızı dikkatlice döşeyin[/h2]
-
-Herkes bir stüdyo tasarımcısı olmasına rağmen, her mobilyanın stüdyoda bir yeri vardır ve şirketinizin tarihini etkileyebilir.
-
-[h2]Yayınla, işe al, tekrarla[/h2]
-
-Her oyun eşsizdir ancak zamanla yeni konsollar ortaya çıkmaktadır. Tek başına en çok satan oyun oluşturamazsın. Mükemmel bir oyun oluşturmanıza yardımcı olacak yeni yetenekler kiralamak zorundasınız.
-
-[h2]Oyun Geliştirme[/h2]
-
-Oyunun geliştirme, kanal binogure kullanılarak Twitch de yayınlanır.
+[h2]City Game Studio, muhteşem oyunlardan esinlenmiştir.[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon[/list]

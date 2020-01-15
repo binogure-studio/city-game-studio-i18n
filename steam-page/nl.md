@@ -9,22 +9,35 @@ Je zal je moeten richten op video game editors die het grootste deel zullen wegk
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Elk spel is uniek [/h2]
+[h2]Eigenschappenlijst[/h2]
+[list][*] Ontwikkelen of huren van game engines
+[*] Aanbiedingen van spellen ontvangen/publiceren
+[*] Het kopen of huren van meerdere gebouwen
+[*] Ontwikkelen en beheren van een digitale winkel
+[*] Kraken van de concurrentie
+[*] Het ontsluiten van nieuwe spelgenres
+[*] Bespioneer de concurrenten
+[*] Personeel inhuren
+[*] Marketingcampagnes organiseren
+[*] Het organiseren en bijwonen van congressen
+[*] Uitkoopbedrijven
+[*] Uitvoeren van contracten die uw medewerkers opleiden
+[*] Spellen overbrengen naar verschillende consoles
+[*] Ontwerp uw bedrijfslogo
+[*] Beheer de agenda's van uw medewerkers
+[*] Word bekroond tot Spel van het Jaar
+[*] Veel plezier[/list]
 
-Mappen en studios worden procedureel gegenereerd. Gecombineerd met willekeurige evenementen en aanpasbare studio's zal je met elk nieuwe spel het spel herontdekken.
+[h2]Dit spel heeft niet[/h2]
+[list][*] eSport wedstrijden
+[*] Een afdeling Onderzoek en Ontwikkeling
+[*] Een multiplayer-modus
+[*] Lootboxen
+[*] Microtransacties[/list]
 
-[h2]Wij de beste studio toe[/h2]
-
-Verken de stad en kies je locatie voor de volgende studio. Zoals mijn nonkel altijd zei,"Stroop vangt meer talent dan azijn!"
-
-[h2]Bemeubel je studio zorgvuldig[/h2]
-
-Niet iedereen is een studio designer, toch heeft elk meubel een plaats in je studio en kan het een invloed op de geschiedenis van je bedrijf hebben.
-
-[h2]Publiceer, werf aan, herhaal[/h2]
-
-Elk spel is uniek maar na een verloop van tijd komen er nieuwe generaties consoles uit. Je kan geen bestseller alleen maken. Je moet nieuwe talenten aanwerven die je zullen helpen bij het maken van het perfecte spel.
-
-[h2]Game development[/h2]
-
-Het maken van het spel wordt getoont op twitch op het kanaal van binogure.
+[h2]City Game Studio is geïnspireerd door prachtige spellen zoals[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon[/list]

@@ -8,22 +8,36 @@ Un problème subsiste, même si vos jeux sont de qualité, votre notoriété ne 
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Chaque partie est unique[/h2]
+[h2]Ce qui est inclut[/h2]
+[list][*] Créer/louer des moteurs de jeux. Vous pouvez les louer, les rendre libres de droits ou garder ça en interne c'est à vous de voir.
+[*] Recevoir/publier des offres de jeux. Vous choisissez le genre, le thème, la plateforme, les royalties ainsi que quelques autres paramètres et recevez vos premières offres
+[*] Acheter ou louer plusieurs batiments. Après vous pouvez les transformer en centre de données ou en studio de développement
+[*] Créer et administrer votre magasin dématérialisé.
+[*] Cracker les jeux des vos concurrents, essayez c'est vraiment sympa
+[*] Déverrouiller des nouveaux genres [spoiler]en espionnant les autres compagnies[/spoiler]
+[*] Engager beaucoup de personnel
+[*] Gérer les campagnes publicitaires
+[*] Organiser et assister à des conventions
+[*] Racheter les autres compagnies
+[*] Remplir des contrats pour former vos employés
+[*] Porter les jeux sur plusieurs consoles
+[*] Dessiner le logo de votre compagnie
+[*] Gérer les emplois du temps de vos employés
+[*] Être nomminé Jeu de l'année
+[*] Passer un bon moment[/list]
 
-La carte ainsi que les studios sont générés de manière procédurale. Combiner cela à des évènements aléatoires et à des locaux personnalisables vous redécouvrirez le jeu à chaque nouvelle partie.
+[h2]Ce qui n'est pas inclut[/h2]
+[list][*] Les compétitions eSport
+[*] Un département de R&D
+[*] Un mode multijoueur
+[*] Des lootboxes
+[*] Des microtransactions
+[/list]
 
-[h2]Achetez les meilleurs immeubles[/h2]
-
-Parcourez les villes et choisissez soigneusement l'emplacement de votre prochain local. Comme disait mon oncle "on n’attire pas les nouveaux talents avec du vinaigre !"
-
-[h2]Meublez vos studios avec soin[/h2]
-
-Tout le monde n'est pas décorateur d'intérieur, pourtant chaque meuble à sa place dans votre local, et peut avoir une influence sur l'histoire de votre studio.
-
-[h2]Publier, embaucher, répéter[/h2]
-
-Chacune de vos créations est unique, mais avec le temps des consoles de nouvelle génération sont publiées. Seul, vous ne parviendrez pas à créer un best-seller. Il vous faudra vous dégotter de nouveaux talents qui vous aideront à créer le jeu parfait.
-
-[h2]Assister au développement du jeu[/h2]
-
-Le développement du jeu est diffusé sur twitch: "binogure".
+[h2]Les jeux suivants ont été une source d'inspiration pour City Game Studio[/h2]
+[list][*] Game Dev Story
+[*] Game Dev Tycoon
+[*] Software Inc
+[*] Sim City
+[*] Mad Games Tycoon
+[/list]
