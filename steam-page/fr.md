@@ -1,12 +1,12 @@
-[img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
 On est en 1975 et vous venez de créer votre studio de jeux vidéo. Vous louez un local étriqué qui vous permet déjà de développer des jeux. Rapidement vos créations ont du succès et vous devez déjà déménager. Il vous appartient de parcourir la ville de choisir votre prochain local. En un clin d'oeil vous vous retrouvez à embaucher des artistes pour améliorer l'aspect visuel de vos créations. Puis viendra le tour des développeurs et enfin celui des testeurs.
 
-[img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
 Un problème subsiste, même si vos jeux sont de qualité, votre notoriété ne suffit pas à garantir les ventes et à rentabiliser votre studio. Vous devrez vous tourner vers des éditeurs de jeux vidéo qui se tailleront la part du lion. En enchaînant les succès vous serez capable de vous passer des éditeurs. Et à termes vous serez capable de publier vos propres contrats d'éditions. Vous serez alors prêts à dominer le marché et à racheter vos concurrents.
 
-[img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
 [h2]Chaque partie est unique[/h2]
 

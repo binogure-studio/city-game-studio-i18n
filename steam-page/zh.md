@@ -1,12 +1,12 @@
-[img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
 1975年1月 ，你创建了你自己的电子游戏公司。 你租用了一个窄小的地方去开发你工作室的第一个游戏。 很快，你的游戏都卖的非常成功。你可能觉得需要搬工作室了，但是下一个工作室地点在哪，则完全由你敲定。转眼之间，你已经雇佣了几位美术来丰富游戏的视觉效果。下一批雇佣来的是开发人员，再一批则是测试人员。
 
-[img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
 但是问题接踵而来，就算你的游戏是非常出色的，你的游戏铁粉数还是不足以让你的工作室能够独自发行大制作的游戏，从而工作室的吸金能力相当不理想。你必须将自己变成一位能从狮口夺食的游戏编辑。产业链的链接成功是撇开发行商扩大盈利规模的唯一方法。此外，你还可以出版属于自己的发行合同。然后你就可以准备着去主宰市场的风向，并且找机会回购你的竞争队手。
 
-[img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
 [h2]每一场游戏都是与众不同的。[/h2]
 

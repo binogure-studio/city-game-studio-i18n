@@ -1,12 +1,12 @@
-[img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
 January 1975, you've just created your own video game company. You are renting a tight place that allows you to develop your first game. Quickly, your games are successful and you already have to move, but it is up to you to cross the city to pick your next local. In the blink of an eye you are hiring artists to improve the visual aspect of your games. Next came developers and then testers.
 
-[img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
 But a problem remains, even if your games are brilliant, you don't have enough fans to self-publish a big game to make your studio profitable. You will have to turn to video game editors who will carve out the lion's share. Chaining successes is the only way of getting rid of the publishers. Furthermore you will be able to publish your own publishing contracts. Then you will then be ready to dominate the market and buy back your competitors.
 
-[img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
 [h2]Each game is unique[/h2]
 

@@ -1,12 +1,12 @@
-[img]{STEAM_APP_IMAGE}/extras/create.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
 Ocak 1975'te kendi video oyun şirketinizi yarattınız. İlk oyununuzu geliştirmenize olanak sağlayan küçük bir yer kiralıyorsunuz. Hızla, oyunlarınız başarılı ve zaten hareket etmek zorundasınız ancak bir sonraki yerinizi seçmek için şehri geçmek size kalmış. göz açıp kapayıncaya kadar oyunların görsel yönünü geliştirmek için grafikçi işe alıyorsunuz. Daha sonra geliştiriciler ve testçiler geliyor.
 
-[img]{STEAM_APP_IMAGE}/extras/build.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
 Ancak oyunlarınız mükemmel olsa bile, bir sorun var, stüdyonuzu kârlı kılmak için büyük bir oyun yayınlamalısınız bunun için yeterli hayranınız yok. Aslan payını ortaya çıkaracak video oyun editörlerine gitmeniz gerekecek. Başarıları zincirlemek, yayıncılardan kurtulmanın tek yoludur. Ayrıca kendi yayıncılık sözleşmelerinizi yayınlayabileceksiniz. O zaman pazarı geri almaya ve rakiplerinize hakim olmaya hazır olacaksınız.
 
-[img]{STEAM_APP_IMAGE}/extras/expand.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
 [h2]Her oyun eşsizdir.[/h2]
 
