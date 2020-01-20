@@ -47,8 +47,8 @@ de:
   BUTTON_DELETE_ALL: Alle löschen
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Kein Spam
-  BUTTON_HOLIDAY: Alle Angestellten des Büros in den Urlaub schicken
-  BUTTON_HOLIDAY_SOLO: Diesen Angestellten in den Urlaub schicken
+  BUTTON_HOLIDAY: Alle in den Urlaub!
+  BUTTON_HOLIDAY_SOLO: In den Urlaub!
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Fehlerbericht
   BUTTON_FEEDBACK: Feedback
@@ -95,9 +95,9 @@ de:
   LABEL_GAMEENGINE_UPDATE: Diese Spiel-Engine aktualisieren
   LABEL_GAMEENGINE_LIST: >
     Liste der auf dem Markt erhältlichen Spiele-Engines
-  LABEL_FOSS: Kostenlose und Open-Source Software
-  LABEL_PROPRIETARY: Proprietär
-  LABEL_OWNER: Eigentümer
+  LABEL_FOSS: Kostenlose Open-Source Software
+  LABEL_PROPRIETARY: Nutzungslizenzen
+  LABEL_OWNER: Nur Intern
   LABEL_PLATFORM_GPU_CAPABILITY: Grafikfähigkeiten
   LABEL_PLATFORM_CPU_CAPABILITY: CPU-Fähigkeit
   LABEL_PLATFORM_GPU_COSTS: Grafikkosten
@@ -497,8 +497,8 @@ de:
   LABEL_FURNITURE_VALUE: Wert der Möbel
   LABEL_CATALOG_VALUE: Spielkatalogwert
   LABEL_TOTAL_VALUE: Gesamtwert
-  LABEL_MORTGAGES: Hypotheken
-  LABEL_MORTGAGE: Hypothek
+  LABEL_MORTGAGES: Kredite
+  LABEL_MORTGAGE: Kredit
   LABEL_DURATION: Dauer
   LABEL_INTEREST: Zinssatz
   LABEL_MONTHLY: Monatliche Zahlung
@@ -651,7 +651,7 @@ de:
   LABEL_NETWORK: Netzwerk
   LABEL_GRADE: Noten
   LABEL_OPTIMIZATION: Optimierung
-  LABEL_OUTCOME: Entwicklungskosten
+  LABEL_OUTCOME: Emtwicklungskosten
   LABEL_PHYSICS: Physik
   LABEL_GAME_FINISHED: Herzlichen Glückwunsch, du hast City Game Studio abgeschlossen
   LABEL_PLANNING: Planung
@@ -1337,12 +1337,12 @@ de:
   TOOLTIP_STEAM_MODS: |
     Steam Workshop
   TOOLTIP_HUMANRESOURCE: |
-    Weise einen Personalleiter zu, der die Schichtpläne deiner
+    Weise einen Personalleiter zu, der die Arbeitszeiten deiner
     Mitarbeiter verwaltet.
   TOOLTIP_GAME_OF_THE_YEAR: |
     Jedes Jahr wird ein neues Spiel zum Spiel des Jahres ernannt
   TOOLTIP_DESK_REPLACE: |
-    Upgrade die Computer.
+    Upgrade die Computer
   TOOLTIP_POSTMORTEM_RED_ZONE: |
     Mit Spielberichten hast du die blaue Zone verfeinert.
     Wenn du die blaue Zone verlässt,
@@ -1404,8 +1404,8 @@ de:
   FURNITURES_COMMON_BUY: Möbel kaufen
   EMPLOYEES_HIRE: Personal einstellen
   STUDIO_RENT: Miete ein Büro
-  STUDIO_BUILD: Neubau eines Büros
-  CONVENTION_ORGANIZE: Organisiere eine Messe
+  STUDIO_BUILD: Neubau
+  CONVENTION_ORGANIZE: Eigene Messen
   CONVENTION_PARTICIPATE: An einer Messe teilnehmen
   STUDIO_CUSTOMIZE: Renoviere dein Büro
   FURNITURES_SERVERS_BUY: Server kaufen
