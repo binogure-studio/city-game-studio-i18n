@@ -72,6 +72,9 @@ ko:
   BUTTON_EDIT: 편집하다
 
   # Labels, descriptive
+  LABEL_DISCOUNT: 할인하다
+  LABEL_ORGANIZE_YEARLY: 연례 컨벤션 조직
+  LABEL_YEARLY: 매년
   LABEL_GAME_UPDATE_REQUIREMENTS: 업데이트에 대한 플레이어의 기대
   LABEL_GAME_UPDATE_HYPE: 게임 업데이트 광고
   LABEL_GAME_UPDATE: 업데이트 게시
@@ -1274,7 +1277,9 @@ ko:
   LABEL_FAN_LOST: 이것은 당신의 인기에 영향을 미치고, %s 의 팬을 잃습니다.
   LABEL_PENALTY_COST: 정의로운 판결로 인해, %s$를 지불해야 합니다.
   LABEL_EMPLOYEE_HIRED: "%s를 고용했습니다."
-  LABEL_GAME_CRACKED: "%s를 차단했습니다."
+  LABEL_GAME_CRACKED: |
+    %s에 의해 생성 된 수입은 3으로 나누어지고
+    더 이상 비디오 게임과 경쟁하지 않습니다.
   LABEL_GENRE_STOLEN: "%s을 배웠습니다."
   LABEL_STUDIO_SOLD: "%s를 팔았습니다."
 

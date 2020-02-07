@@ -72,6 +72,9 @@ tr:
   BUTTON_EDIT: Düzenle
 
   # Labels, descriptive
+  LABEL_DISCOUNT: Bir indirim yapın
+  LABEL_ORGANIZE_YEARLY: Yıllık bir toplantı düzenleyin
+  LABEL_YEARLY: Yıllık
   LABEL_GAME_UPDATE_REQUIREMENTS: Oyuncuların güncelleme beklentileri
   LABEL_GAME_UPDATE_HYPE: Oyun güncelleme hype
   LABEL_GAME_UPDATE: Güncelleme yayınla
@@ -1260,7 +1263,9 @@ tr:
   LABEL_FAN_LOST: Bu popülerliğini etkiledi,%s hayranını kaybettin
   LABEL_PENALTY_COST: Adalet karar verdi,%s$ ödemeniz gerekiyor
   LABEL_EMPLOYEE_HIRED: "%s kiraladınız"
-  LABEL_GAME_CRACKED: "%s kırdınız"
+  LABEL_GAME_CRACKED: |
+    %s tarafından elde edilen gelir 3'e bölünür ve
+    artık video oyunlarınızla rekabet halinde değildir.
   LABEL_GENRE_STOLEN: "%s öğrendin"
   LABEL_STUDIO_SOLD: "%s sattılar"
 

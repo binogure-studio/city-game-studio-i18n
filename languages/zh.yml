@@ -72,6 +72,9 @@ zh:
   BUTTON_EDIT: 编辑
 
   # Labels, descriptive
+  LABEL_DISCOUNT: 打折
+  LABEL_ORGANIZE_YEARLY: 举办年度大会
+  LABEL_YEARLY: 每年
   LABEL_GAME_UPDATE_REQUIREMENTS: 玩家对更新的期望
   LABEL_GAME_UPDATE_HYPE: 游戏更新炒作
   LABEL_GAME_UPDATE: 发布更新
@@ -1222,7 +1225,9 @@ zh:
   LABEL_FAN_LOST: 这已经影响了你的受欢迎程度，你失去了%s粉丝
   LABEL_PENALTY_COST: 司法已裁定，你必须支付%s$
   LABEL_EMPLOYEE_HIRED: 你雇用了%s
-  LABEL_GAME_CRACKED: 你破解了%s
+  LABEL_GAME_CRACKED: |
+    %s产生的收入除以3，
+    就不再与您的视频游戏竞争。
   LABEL_GENRE_STOLEN: 你已经学会了%s
   LABEL_STUDIO_SOLD: 他们卖掉了%s
 

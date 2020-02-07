@@ -72,6 +72,9 @@ it:
   BUTTON_EDIT: Modifica
 
   # Labels, descriptive
+  LABEL_DISCOUNT: Fai uno sconto
+  LABEL_ORGANIZE_YEARLY: Organizza una convention annuale
+  LABEL_YEARLY: Annuale
   LABEL_GAME_UPDATE_REQUIREMENTS: Aspettative dei giocatori sull'aggiornamento
   LABEL_GAME_UPDATE_HYPE: Hype di aggiornamento del gioco
   LABEL_GAME_UPDATE: Pubblica un aggiornamento
@@ -1255,7 +1258,9 @@ it:
   LABEL_FAN_LOST: Questo ha influenzato la tua popolarità, hai perso %s fan.
   LABEL_PENALTY_COST: La giustizia ha stabilito che devi pagare %s$
   LABEL_EMPLOYEE_HIRED: Hai assunto %s
-  LABEL_GAME_CRACKED: Hai rotto %s
+  LABEL_GAME_CRACKED: |
+    Le entrate generate da %s sono divise per 3
+    e non sono più in concorrenza con i tuoi videogiochi.
   LABEL_GENRE_STOLEN: Hai imparato %s
   LABEL_STUDIO_SOLD: Hanno venduto %s
 

@@ -72,6 +72,9 @@ ru:
   BUTTON_EDIT: Редактировать
 
   # Labels, descriptive
+  LABEL_DISCOUNT: Сделать скидку
+  LABEL_ORGANIZE_YEARLY: Организовать ежегодную конвенцию
+  LABEL_YEARLY: Каждый год
   LABEL_GAME_UPDATE_REQUIREMENTS: Ожидания игроков от обновления
   LABEL_GAME_UPDATE_HYPE: Шумиха об обновлении игры
   LABEL_GAME_UPDATE: Опубликовать обновление
@@ -1305,7 +1308,9 @@ ru:
   LABEL_FAN_LOST: Это повлияло на вашу популярность, вы потеряли своих фанатов %s.
   LABEL_PENALTY_COST: Правосудие решило, что вы должны заплатить %s$.
   LABEL_EMPLOYEE_HIRED: Вы наняли %s.
-  LABEL_GAME_CRACKED: Ты взломал %s.
+  LABEL_GAME_CRACKED: |
+    Доход, полученный %s, делится на 3,
+    и он больше не конкурирует с вашими видеоиграми.
   LABEL_GENRE_STOLEN: Ты узнал, что %s
   LABEL_STUDIO_SOLD: Они продали %s.
 

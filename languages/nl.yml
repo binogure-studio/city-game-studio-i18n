@@ -72,6 +72,9 @@ nl:
   BUTTON_EDIT: Bewerken
 
   # Labels, descriptive
+  LABEL_DISCOUNT: Maak korting
+  LABEL_ORGANIZE_YEARLY: Organiseer een jaarlijkse conventie
+  LABEL_YEARLY: Jaar-
   LABEL_GAME_UPDATE_REQUIREMENTS: Spelers verwachtingen van de update
   LABEL_GAME_UPDATE_HYPE: Game update hype
   LABEL_GAME_UPDATE: Publiceer een update
@@ -1262,7 +1265,9 @@ nl:
   LABEL_FAN_LOST: Dit heeft je, je verliest %s fans
   LABEL_PENALTY_COST: Justitie heeft geoordeeld, je moet %s$ betalen
   LABEL_EMPLOYEE_HIRED: Je hebt  %s aangenomen
-  LABEL_GAME_CRACKED: Je hebt %s gekraakt
+  LABEL_GAME_CRACKED: |
+    De inkomsten gegenereerd door %s worden gedeeld door 3
+    en concurreren niet langer met uw videogames.
   LABEL_GENRE_STOLEN: Je hebt %s geleerd
   LABEL_STUDIO_SOLD: Ze hebben %s verkocht
 

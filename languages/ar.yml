@@ -71,6 +71,9 @@ ar:
   BUTTON_EDIT: تصحيح
 
   # Labels, descriptive
+  LABEL_DISCOUNT: تقديم خصم
+  LABEL_ORGANIZE_YEARLY: تنظيم مؤتمر سنوي
+  LABEL_YEARLY: سنوي
   LABEL_GAME_UPDATE_REQUIREMENTS: توقعات اللاعبين من التحديث
   LABEL_GAME_UPDATE_HYPE: تحديث لعبة الضجيج
   LABEL_GAME_UPDATE: نشر التحديث
@@ -1300,7 +1303,9 @@ ar:
   LABEL_FAN_LOST: لقد أثر هذا على شعبيتك ، فستفقد مشجعي%s
   LABEL_PENALTY_COST: استبعدت العدالة ، يجب أن تدفع%s$
   LABEL_EMPLOYEE_HIRED: لقد عينت%s
-  LABEL_GAME_CRACKED: لقد تكسرت%s
+  LABEL_GAME_CRACKED: |
+    يتم تقسيم الدخل الناتج عن %s على 3
+    ولم يعد في منافسة مع ألعاب الفيديو الخاصة بك.
   LABEL_GENRE_STOLEN: لقد تعلمت%s
   LABEL_STUDIO_SOLD: لقد باعوا%s
 
