@@ -65,14 +65,18 @@ zh:
   BUTTON_CHARTS: 图表
   BUTTON_CREATE: 创建
   BUTTON_GRID: 显示网格
-  BUTTON_EDIT_LOGO: 编辑徽标
+  BUTTON_EDIT_LOGO: 编辑LOGO
   BUTTON_BUILD: 建立
-  BUTTON_PAY: 付
+  BUTTON_PAY: 支付
   BUTTON_UPDATE: 更新
   BUTTON_EDIT: 编辑
 
   # Labels, descriptive
-  LABEL_GAME_UPDATE_REQUIREMENTS: 玩家对更新的期望
+  LABEL_RANDOM_SLIDER: 随机游戏设置
+  LABEL_DISCOUNT: 打折
+  LABEL_ORGANIZE_YEARLY: 组织一次展会
+  LABEL_YEARLY: 每年
+  LABEL_GAME_UPDATE_REQUIREMENTS: 玩家对更新的请求
   LABEL_GAME_UPDATE_HYPE: 游戏更新炒作
   LABEL_GAME_UPDATE: 发布更新
   LABEL_GAME_FREE_UPDATE: 免费更新
@@ -89,13 +93,13 @@ zh:
   LABEL_REVIEW_GAMEENGINE_GOOD: >
     他们能够充分利用控制台
   LABEL_GAME_ENGINE: 游戏引擎
-  LABEL_FEATURE_LIST: 功能清单
+  LABEL_FEATURE_LIST: 功能列表
   LABEL_DESIGN_CAPACITY: 产生设计点的能力
   LABEL_DEVELOPMENT_CAPACITY: 产生发展点的能力
   LABEL_POLISH_CAPACITY: 产生抛光点的能力
   LABEL_GAMEENGINE_MAKEFOSS: 免费
   LABEL_GAMEENGINE_PENALITY: >
-    由于已有代码，升级游戏引擎的成本要高一些。
+    由于已有代码，升级游戏引擎的费用要高一些。
   LABEL_GAMEENGINE_READY: 游戏引擎准备就绪
   LABEL_GAMEENGINE_UPDATE: 更新这个游戏引擎
   LABEL_GAMEENGINE_LIST: >
@@ -106,7 +110,7 @@ zh:
   LABEL_PLATFORM_GPU_CAPABILITY: 图形功能
   LABEL_PLATFORM_CPU_CAPABILITY: 计算能力
   LABEL_PLATFORM_GPU_COSTS: 图形费用
-  LABEL_PLATFORM_CPU_COSTS: 计算成本
+  LABEL_PLATFORM_CPU_COSTS: 计算费用
   LABEL_GAMEENGINE_DONATION_TITLE: 您收到了捐款
   LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
     你好，
@@ -132,67 +136,67 @@ zh:
     您现在可以创建自己的游戏引擎。
     游戏引擎可提高员工产生的积分数量。
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D图形学单色"
-  LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D图形学8位颜色"
-  LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D图形学16位颜色"
-  LABEL_GAME_ENGINE_2D_24BITCOLOR: "2D图形学24位颜色"
-  LABEL_GAME_ENGINE_2D_32BITCOLOR: "2D图形学32位颜色"
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D图形学8位色"
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D图形学16位色"
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: "2D图形学24位色"
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: "2D图形学32位色"
   LABEL_GAME_ENGINE_3D_1BITCOLOR: "3D图形学单色"
-  LABEL_GAME_ENGINE_3D_8BITCOLOR: "3D图形学8位颜色"
-  LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D图形学16位颜色"
-  LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D图形学24位颜色"
-  LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D图形学32位颜色"
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: "3D图形学8位色"
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D图形学16位色"
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D图形学24位色"
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D图形学32位色"
   LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR图形学"
-  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "体素石墨学"
+  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "体素图像"
   LABEL_GAME_ENGINE_BASIC_DIALOG: "基本对话"
-  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "互动对话"
-  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "AI生成对话框"
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "交互对话"
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "AI生成对话"
   LABEL_GAME_ENGINE_JOYSTICK: "操纵杆支持"
   LABEL_GAME_ENGINE_GAMEPAD: "游戏手柄支持"
   LABEL_GAME_ENGINE_MOUSE: "滑鼠支援"
   LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "预建角色"
-  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "可自定义的字符"
-  LABEL_GAME_ENGINE_DIFFICULTY: "困难"
+  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "可自定义角色"
+  LABEL_GAME_ENGINE_DIFFICULTY: "难度"
   LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "动态难度"
   LABEL_GAME_ENGINE_MAP_EDITOR: "地图编辑器"
   LABEL_GAME_ENGINE_MOD_SUPPORT: "Mod支持"
-  LABEL_GAME_ENGINE_MONO_SOUND: "单声道声音"
-  LABEL_GAME_ENGINE_MIDI_SOUND: "迷笛声音"
+  LABEL_GAME_ENGINE_MONO_SOUND: "单声道"
+  LABEL_GAME_ENGINE_MIDI_SOUND: "MIDI声音"
   LABEL_GAME_ENGINE_STEREO_SOUND: "立体声"
   LABEL_GAME_ENGINE_51_SOUND: "环绕声"
   LABEL_GAME_ENGINE_BASIC_MUSIC: "基本音乐"
   LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "管弦乐"
   LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "互动音乐"
   LABEL_GAME_ENGINE_PASSWORD_SAVE: "基于密码的保存"
-  LABEL_GAME_ENGINE_BASIC_SAVE: "节省"
-  LABEL_GAME_ENGINE_CLOUD_SAVE: "节省云端"
-  LABEL_GAME_ENGINE_BASIC_PHYSICS: "基础物理学"
-  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "高等物理"
-  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "现实物理学"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "存档"
+  LABEL_GAME_ENGINE_CLOUD_SAVE: "云存档"
+  LABEL_GAME_ENGINE_BASIC_PHYSICS: "基本物理"
+  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "先进物理"
+  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "现实物理"
   LABEL_GAME_ENGINE_DEDICATED_SERVER: "专用服务器"
-  LABEL_GAME_ENGINE_SOCIAL_NETWORK_INTEGRATION: "社交网络整合"
+  LABEL_GAME_ENGINE_SOCIAL_NETWORK_INTEGRATION: "集成社交网络"
   LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "简单的动画"
   LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: "动态动画"
-  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "基于AI的动画"
-  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "基本家庭教师"
-  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "互动式老师"
-  LABEL_GAME_ENGINE_LOADING_SCREEN: "载入画面"
+  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "AI生成的动画"
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "基本教程"
+  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "交互式教程"
+  LABEL_GAME_ENGINE_LOADING_SCREEN: "加载画面"
   LABEL_GAME_ENGINE_BACKGROUND_LOADING: "后台加载"
-  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "简单的电影"
-  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "高级电影"
-  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "逼真的电影"
-  LABEL_GAME_ENGINE_LEADERBOARD: "排行榜"
-  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "云排行榜"
-  LABEL_BUSY: 忙
+  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "简单的过场动画"
+  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "先进过场动画"
+  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "逼真的过场动画"
+  LABEL_GAME_ENGINE_LEADERBOARD: "本地排行榜"
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "全球排行榜"
+  LABEL_BUSY: 忙碌
   LABEL_AVAILABLE: 可用的
-  LABEL_AUTOATTEND_CONVENTION: 自动参加所有约定。
+  LABEL_AUTOATTEND_CONVENTION: 自动参加所有展会。
   LABEL_SERVER_CAPACITY: 服务器容量
   LABEL_SERVER_RENT_CAPACITY: 租用服务器容量
-  LABEL_TOTAL_COST: 总成本
+  LABEL_TOTAL_COST: 总费用
   LABEL_RENT_SERVER_COST: 服务器租赁费用
   LABEL_SERVER_USAGE_THRESHOLD: >
     一旦服务器负载达到此阈值，请租用新服务器：
   LABEL_STEAM_NOT_DETECTED: |
-    无法达到Steam。
+    无法连接至Steam。
 
     请重新启动Steam。
     如果问题仍然存在，请与我们联系：
@@ -203,8 +207,8 @@ zh:
   TOOLTIP_CLOUD_SERVERS: |
     不再需要容纳数百台服务器的大型建筑物
   LABEL_RENT_SERVERS: 租用服务器
-  LABEL_ENABLED: 已启用
-  LABEL_DISABLED: 残障人士
+  LABEL_ENABLED: 启用
+  LABEL_DISABLED: 停用
   LABEL_TOTAL_UNIT_SOLD: 总销售量
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: 您的数字商店不支持此游戏平台
   LABEL_DISCONTINUE_PLATFORM_TITLE: 停产平台
@@ -222,8 +226,8 @@ zh:
   LABEL_SERVER_COST: 服务器费用
   LABEL_DS_SALES: 游戏销售
   LABEL_DS_PLATFORMCUT: 数码商店的份额
-  LABEL_DS_CCU: 并发用户
-  LABEL_DS_CHAT_TITLE: 聊
+  LABEL_DS_CCU: 平台用户
+  LABEL_DS_CHAT_TITLE: 聊天
   LABEL_DS_CHAT_DESCRIPTION: |
     允许用户立即彼此聊天。
   LABEL_DS_FORUM_TITLE: 论坛
@@ -232,10 +236,10 @@ zh:
   LABEL_DS_CROSSPLATFORM_TITLE: 跨平台的
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     添加跨平台支持。
-  LABEL_DS_BOTPROTECTION_TITLE: 博特保护
+  LABEL_DS_BOTPROTECTION_TITLE: 机器人保护
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
     缓解机器人攻击。
-  LABEL_DS_WORKSHOP_TITLE: 作坊
+  LABEL_DS_WORKSHOP_TITLE: 创意工坊
   LABEL_DS_WORKSHOP_DESCRIPTION: |
     允许用户共享他们创建的mod。
   LABEL_DS_SUPPORT_TITLE: 支持
@@ -281,7 +285,7 @@ zh:
     骇客完成。
     恭喜！
   LABEL_HACKING_INTRODUCTION: |
-    欢迎使用黑客模拟器。 
+    欢迎使用黑客模拟器。
     要破解，请点击“开始”
   LABEL_OPEN_CONSOLE: 点击“开始”进行黑客入侵
   LABEL_DOWNLOADING: 下载
@@ -313,13 +317,13 @@ zh:
   LABEL_DEFAULT: 预设的
   LABEL_DEVELOPER: 开发人员
   LABEL_GAME_CAPACITY: 制作游戏
-  LABEL_BONUS_PRODUCTIVITY: 奖金生产力
+  LABEL_BONUS_PRODUCTIVITY: 奖励生产力
   LABEL_MARKETING_MANAGER: 市场经理
-  LABEL_BONUS_HYPE: 炒作奖金
+  LABEL_BONUS_HYPE: 炒作奖励
   LABEL_ACCOUNTANT: 会计
   LABEL_BONUS_TAXES: 减税
   LABEL_NETWORK_ADMINISTRATOR: 网络管理员
-  LABEL_BONUS_SERVER: 服务器负载奖金
+  LABEL_BONUS_SERVER: 服务器负载奖励
   LABEL_HUMAN_RESOURCE: 人力资源
   LABEL_BONUS_HAPPINESS: 幸福奖励
   LABEL_AMOUNT_OF_TIPS: 数量线索
@@ -339,11 +343,11 @@ zh:
 
     您能购买CityGameStudio来支持支持我吗？
     没有你的支持，我真的无法继续努力地改进City Game Studio。
-    
+
     因此，如果您喜欢玩City Game Studio，如果您喜欢独立游戏，请支持一下我。在此向您鞠躬。
 
     Binogure
-  LABEL_CREATE_POSTMORTEM: 做吧事后开发分析
+  LABEL_CREATE_POSTMORTEM: 游戏报告
   LABEL_VENDING_MACHINE: 售货机
   LABEL_GAME_SPEED: 游戏速度
   LABEL_SPEED_NORMAL: 正常
@@ -366,7 +370,7 @@ zh:
   LABEL_TOOLS: 制成
   LABEL_SANDBOX: 沙盒模式
   LABEL_SAVING: 正在保存游戏
-  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: 赔偿金
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: 违约金
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
     亲爱的[b]%s[/b]，
     由于 [b]%s[/b] 未达到预期的成功，我们承诺将尽快支付赔偿金[b]%s$[/b]。
@@ -423,13 +427,13 @@ zh:
   LABEL_RISKS: 涉及的风险
   LABEL_SALES_HITS_TITLE: 销售报告
   LABEL_SALES_HITS_DESCRIPTION: |
-    你好%s， 
-    很高兴我能给您发邮件。 
-    我们可以观察到良好的发售情况，因此我斟酌了一下。今天我们将讨论%s的发售情况 
-    
-    %s 
-    
-    此致 
+    你好%s，
+    很高兴我能给您发邮件。
+    我们可以观察到良好的发售情况，因此我斟酌了一下。今天我们将讨论%s的发售情况
+
+    %s
+
+    此致
     Binogure
   LABEL_SALES_HITS_0: >
     [b]%s[/b]的发售情况很好，我相信这会通过[b]%d%%[/b]提高销售额
@@ -446,14 +450,14 @@ zh:
   LABEL_SALES_HITS_6: >
     恭喜获得[b]%s[/b]的销售额，我们的销售应该可以再增加[b]%d%%[/b]
   LABEL_CONVENTION_INCOMING: |
-    亲爱的%s， 
+    亲爱的%s，
 
-    我们很高兴地宣布由[b]%s[/b]安排的[b]%s[/b]。 
+    我们很高兴地宣布由[b]%s[/b]举行在[b]%s[/b]。
 
-    展会将持续3天，我们正在等待[b]%s[/b]位访客。 
-    你現在可以租一个展台来展示你优秀的作品。请预早申请，展位有限。 
+    展会将持续3天，我们正在等待[b]%s[/b]位访客。
+    你現在可以租一个展台来展示你优秀的作品。请提早申请，展位有限。
 
-    此致 
+    此致
     %s的组织者
   LABEL_REDCOUCH: 红色沙发
   LABEL_DARKCOUCH: 深色沙发
@@ -469,15 +473,15 @@ zh:
   LABEL_TRASH: 垃圾桶
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]解锁新游戏类別[/b]。
-    
+
     要解锁新类別，[b]点击其图标[/b]。
     如果你有足够的「类别点数」，就可以解锁游戏类別。
-    
+
     [b]类別数量[/b]位于屏幕的[b]右上角[/b]。
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
-    
+
     [color=%s]%s[/color]
   LABEL_SKILL_POINTS: 类別点数
   LABEL_SKILL_POINT: "%s类別点数"
@@ -511,52 +515,52 @@ zh:
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s已取消"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     对于 [b]%s[/b] (%s)，
-    
+
     我们非常失望地知道你取消了[b]%s[/b]的开发。
     根据正式签署的合同条款中的第453页，第72d段，W段，粉红页，你必须支付违约金[b]%s$[/b] ，请尽快将款项交付与我们。  此致，  诚实的律师事务所。
 
     [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: 终止合同
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
-    对于[b]%s[/b] (%s)， 
+    对于[b]%s[/b] (%s)，
 
-    [b]%s[/b]未达到预期的期望，我们必须将已签署的合同一丝不苟地执行。 
-    因此，根据第5863页，第99z段，棕色页，您必须支付[b]%s$[/b] 的违约金，并尽快将款项交付給我们。 
-    
-    此致， 
+    [b]%s[/b]未达到预期的成功，我们必须将已签署的合同一丝不苟地执行。
+    因此，根据第5863页，第99z段，棕色页，您必须支付[b]%s$[/b] 的违约金，并尽快将款项交付給我们。
+
+    此致，
     处理不良销售部门，[b]%s[/b]
-  LABEL_SELECT_GAME_PRESENT: 选择要给玩家看的游戏演示
-  LABEL_ROYALTIES: 版权使用费
-  LABEL_PENALITY: 罚款
+  LABEL_SELECT_GAME_PRESENT: 选择要给玩家们展示的游戏
+  LABEL_ROYALTIES: 版税
+  LABEL_PENALITY: 违约金
   LABEL_NOTE_MIN: 最小得分
-  LABEL_MARKETING_GLOBAL_ITEM: 整体营销
+  LABEL_MARKETING_GLOBAL_ITEM: 全面营销
   LABEL_MARKETING_MAGAZINE_ITEM: 杂志
   LABEL_MARKETING_TV_ITEM: 电视
   LABEL_MARKETING_WEBSITE_ITEM: 网站
-  LABEL_MARKETING_ONLINEAD_ITEM: 在线广告
+  LABEL_MARKETING_ONLINEAD_ITEM: 网站广告
   LABEL_MARKETING_BILLBOARD_ITEM: 广告牌
   LABEL_MARKETING_SOCIALNETWORK_ITEM: 社交网络
-  LABEL_MARKETING_MAILINGLIST_ITEM: 通讯
+  LABEL_MARKETING_MAILINGLIST_ITEM: 简报
   LABEL_SELF_PUBLISH: 自我发布
   LABEL_TRADE_PUBLISH: 传统出版
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
-    你好， 
-     
-    我[b]%s[/b]，我喜欢[b]%s[/b]，我想尽快加入你的团队。 
+    你好，
+
+    我[b]%s[/b]，我喜欢[b]%s[/b]，我想尽快加入你的团队。
     我将能够有效地为你的团队带来新的知识。
 
-    感谢您的阅读， 
+    感谢您的阅读，
     并[b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: 自发申请
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
-    你好， 
+    你好，
 
-    我很遗憾地想通知你我已辞掉了[b]%s[/b] 的职务。 
+    我很遗憾地想通知你我已辞掉了[b]%s[/b] 的职务。
     我离开是因为我找到了离家更近，而且更有吸引力的新公司。
-    
-    我非常喜欢和你一起度过的时光，我会想念你们的！ 
 
-    此致 
+    我非常喜欢和你一起度过的时光，我会想念你们的！
+
+    此致
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: 辞职
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
@@ -578,15 +582,15 @@ zh:
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] 刚刚公布了他们的下一款游戏：[b]%s[/b]
     它将在[b]%s[/b]上发布
-    
+
     %s
-    
+
     祝一切顺利
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     粉丝们非常兴奋，我们同样也HIGH起来了！
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     粉丝们并不高兴，专业杂志似乎要开始对这游戏发泄心中的怒火。
-    
+
     必须说他们在不久前发布了类似的游戏。
   LABEL_GAME_ANNOUNCED_TITLE: "%s 宣布"
   LABEL_TRENDING: 趋势
@@ -596,7 +600,7 @@ zh:
   LABEL_SOUND_COMPOSER: 音乐作曲者
   LABEL_SPECIAL_THANKS: 特别鸣谢
   LABEL_VISITORS: "%d访客"
-  LABEL_ATTENDANCE: 出席
+  LABEL_ATTENDANCE: 展会到场人数
   LABEL_NONE: 无
   LABEL_NO_BUILDING: 没有可用的建筑物
   LABEL_NO_CONVENTION: 没有展会计划
@@ -618,7 +622,7 @@ zh:
   LABEL_ANISOTROPIC_FILTER: 各向异性过滤器
   LABEL_BUILDING_LEASE: 租赁
   LABEL_TYPE_BUILDING: 地皮类型
-  LABEL_CHARACTERS: 文字
+  LABEL_CHARACTERS: 角色
   LABEL_COMPANY_NAME: 公司名称
   LABEL_CUTSCENES: 过场动画
   LABEL_CURRENCY: 货币
@@ -657,7 +661,7 @@ zh:
     没有可用的平台。
   LABEL_PLATFORM: 平台
   LABEL_PLAYER_NAME: 玩家姓名
-  LABEL_PROFITS: 利润
+  LABEL_PROFITS: 利益
   LABEL_POLISH: 润色
   LABEL_PRICE: 价格
   LABEL_RELEASE: 发布
@@ -676,8 +680,8 @@ zh:
   LABEL_USERINTERFACE: 用户界面
   LABEL_THEME_MOVIE_ADAPTATION: 电影改编
   LABEL_THEME_PREHISTORY: 侏罗纪
-  LABEL_THEME_ARCHEOLOGY: 考古学
-  LABEL_THEME_POSTAPOCALYPTIC: 核战后
+  LABEL_THEME_ARCHEOLOGY: 考古
+  LABEL_THEME_POSTAPOCALYPTIC: 世界末日
   LABEL_THEME_ATLANTIS: 亚特兰蒂斯
   LABEL_THEME_RELIGIOUS: 宗教
   LABEL_THEME_ORGANIZED_CRIME: 黑帮
@@ -791,7 +795,7 @@ zh:
   LABEL_TARGETTED_AUDIENCE_ALL: 大众
   LABEL_TARGETTED_AUDIENCE_MATURE: 成熟
   LABEL_GAME_SIZE_INDIE: 独立
-  LABEL_GAME_SIZE_NORMAL: 正常
+  LABEL_GAME_SIZE_NORMAL: 标准
   LABEL_GAME_SIZE_BIG: 大
   LABEL_GAME_SIZE_AAA: AAA
   LABEL_MAP_SIZE_TINY: 微小
@@ -804,20 +808,20 @@ zh:
   LABEL_DIFFICULTY_HARD: 难
   LABEL_DIFFICULTY_INSANE: 疯狂
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 发布了一个新平台： [b]%s[/b]"
-  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]从有名的[b]%s[/b]退休了，粉丝们都非常地不开心。"
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]著名的[b]%s[/b]退休了，粉丝们都哭了。"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] 会在几个月内发布一个新平台 [b]%s[/b] 热度应该会持续多年"
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]宣布众所周知的 [b]%s[/b]被淘汰"
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b]著名的 [b]%s[/b]退役"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "你已获得[b]%s[/b]的授权，花费美金[b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: 平台发布
   LABEL_PLATFORM_DISCONTINUED_TITLE: 已停产的平台
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: 即将推出的平台
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: 即将淘汰的平台
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: 即将退役的平台
   LABEL_PLATFORM_UNLOCKED_TITLE: 已购买的平台
   LABEL_CLICK_TO_CLOSE: 点击关闭
   LABEL_SHOP_UI: 商店
   LABEL_DESK: 服务台
   LABEL_BOOKSHELF: 书架
-  LABEL_WASTEBASKET: 废纸篓
+  LABEL_WASTEBASKET: 垃圾桶
   LABEL_ASSIGN_EMPLOYEE: 工作人员
   LABEL_NEW_GAME: 新游戏
   LABEL_MODDING: 模组
@@ -828,7 +832,7 @@ zh:
   LABEL_MAGAZINE_1: 游戏会
   LABEL_MAGAZINE_2: 死宅周刊
   LABEL_MAGAZINE_3: 游戏力量
-  LABEL_MAGAZINE_4: OGN
+  LABEL_MAGAZINE_4: 极客中心
   LABEL_MAGAZINE_5: 游戏前瞻资讯杂志
   LABEL_MAGAZINE_6: 游戏望远镜
   LABEL_MAGAZINE_7: 试玩游戏会
@@ -956,7 +960,7 @@ zh:
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
     你的[b]%s[/b]工作室员工是咖啡上瘾者。但咖啡机已经没有咖啡了......
   LABEL_RABBIT_INVASION_DESCRIPTION: >
-    兔子，兔子到处都是。它们发出一些噪音......它们到处跑。 
+    兔子，兔子到处都是。它们发出一些噪音......它们到处跑。
     但没有人会注意他们，人们继续工作......
   LABEL_RABBIT_INVASION_TITLE: 兔子入侵
   LABEL_TARGETTED_AUDIENCE_FEATURE: >
@@ -966,7 +970,7 @@ zh:
     这肯定会对员工的工作效率产生影响。只有[b]%s[/b] 受到攻击。
   LABEL_VIRUS_UNLEASHED_TITLE: 已释放病毒
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
-    以游戏评论而闻名的smitties刚刚发布了一个新视频。 
+    以游戏评论而闻名的smitties刚刚发布了一个新视频。
     而这一次，他回顾了你的 [b]%s[/b]游戏。 这肯定会对销售产生影响。
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 免费广告
   LABEL_LOAN_TITLE: 最后贷款
@@ -1061,10 +1065,10 @@ zh:
   LABEL_GAME_UPDATE_FEATURE: >
     发布更新并为您的游戏创建新内容。 免费更新还是付费更新？ 它是由你决定。
   LABEL_GAMEEDITION_SUBMIT: >
-    你有很多粉丝。 
-    你已经有名了，现在可以编辑游戏。
+    你有很多粉丝。
+    你已经有名了，现在可以为其他工作室发行游戏。
   LABEL_GAMEEDITION_RECEIVE: >
-    由于你取得成功，发布商会立即与你联系，並为你提供合约。
+    由于你的游戏取得成功，发行商会立即与你联系，並为你提供合约。
   LABEL_WORLDMAP: >
     抬头看看，外面有一整个世界等着你。
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
@@ -1213,8 +1217,8 @@ zh:
   PLACEHOLDER_PLAYER_NAME: 你的姓名
   LABEL_VERSION_BETA: 测试版
   LABEL_BREAK_LAW: |
-    你即将违法。 
-   
+    你即将违法。
+
     你想继续吗？
   LABEL_SUCCESS: 成功
   LABEL_FAILURE: 失败
@@ -1222,7 +1226,9 @@ zh:
   LABEL_FAN_LOST: 这已经影响了你的受欢迎程度，你失去了%s粉丝
   LABEL_PENALTY_COST: 司法已裁定，你必须支付%s$
   LABEL_EMPLOYEE_HIRED: 你雇用了%s
-  LABEL_GAME_CRACKED: 你破解了%s
+  LABEL_GAME_CRACKED: |
+    %s产生的收入除以3
+    就不再与您的视频游戏竞争。
   LABEL_GENRE_STOLEN: 你已经学会了%s
   LABEL_STUDIO_SOLD: 他们卖掉了%s
 
@@ -1237,7 +1243,7 @@ zh:
   TOOTIP_STUDIO_HAPPINESS: |
     畅销游戏
   TOOLTIP_TOPSALES: |
-    所选工作室喜欢的游戏类型
+    游戏销量排行榜
   TOOLTIP_CONVENTION_LIST: |
     出席展会
   TOOLTIP_FORCE_STUDIO: |
@@ -1258,14 +1264,14 @@ zh:
     管理你的工作室，升级计算机，分配员工......
   TOOLTIP_GAMEPORT: 将游戏移植到另一个平台上
   TOOLTIP_POSTMORTEM: |
-    创建事后报告。
-    事后报告可帮助你创建更好的游戏。
+    游戏报告。
+    游戏报告可帮助你在以后开发出更好的游戏。
   TOOLTIP_CREATE_GAME: 制作一款新游戏
   TOOLTIP_STAFF: 员工名单
   TOOLTIP_RECRUIT: 查看员工名单
   TOOLTIP_PORTFOLIO: 过往游戏名单
   TOOLTIP_OPTION: 参数和选项
-  TOOLTIP_EXIT: 返回Linux
+  TOOLTIP_EXIT: 返回桌面
   TOOLTIP_STUDIOS: 查看你的工作室
   TOOLTIP_STUDIOLIST: 查看镇上的办公室
   TOOLTIP_CONSTRUCT: |
@@ -1279,7 +1285,7 @@ zh:
   TOOLTIP_STUDIO_SELECT: 列出你的工作室
   TOOLTIP_ANNOUNCE_GAME: |
     发布游戏预告。
-    大肆宣传新游戏。
+    炒作新游戏。
   TOOLTIP_CONCURRENT: |
     游戏公司列表
   TOOLTIP_STUDIO_COST: |
@@ -1335,7 +1341,7 @@ zh:
   LOADING_SCREEN_TIP_15: >
     发布新游戏是赚钱的最佳方式。
   LOADING_SCREEN_TIP_16: >
-    事后开发报告可让你了解有关已发布游戏的更多信息。
+    开发报告可让你了解有关已发布游戏的更多信息。
   LOADING_SCREEN_TIP_17: >
     根据最近的一项研究，625.3只狗中有近1只在下雨时吠叫，其他人则把它当笑话。
   LOADING_SCREEN_TIP_18: >
@@ -1361,11 +1367,11 @@ zh:
   STUDIO_BUILD: 建立一间工作室
   CONVENTION_ORGANIZE: 组织一次展会
   CONVENTION_PARTICIPATE: 参加一次展会
-  STUDIO_CUSTOMIZE: 翻新你的工作室
+  STUDIO_CUSTOMIZE: 装修你的工作室
   FURNITURES_SERVERS_BUY: 购买服务器
   GAME_ONLINE: 发布在线游戏
   DIGITAL_STORE: 电子商店
-  POSTMORTEM: 游戏报告
+  POSTMORTEM: 游戏开发报告
   NEW_GAME: 新游戏
   TARGETTED_AUDIENCE: 受众人群
   STORY: 历史
@@ -1380,4 +1386,4 @@ zh:
   UNLOCK_GAMEGENRE: 解锁游戏类别
   UNLOCK_HUMANRESOURCE: 人力资源
   UNLOCK_GAME_OF_THE_YEAR: 年度游戏纪念版
-  UNLOCK_CLOUD_SERVER: 云计算
+  UNLOCK_CLOUD_SERVER: 云服务器
