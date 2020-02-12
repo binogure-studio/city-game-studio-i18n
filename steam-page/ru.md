@@ -34,7 +34,7 @@
 [*] Лутбоксов
 [*] Микротранзакций[/list]
 
-[h2]City Game Studio вдохновлена удивительными играми как[/h2]
+[h2]City Game Studio вдохновлена такими удивительными играми как[/h2]
 [list][*] Game Dev Story
 [*] Game Dev Tycoon
 [*] Software Inc
