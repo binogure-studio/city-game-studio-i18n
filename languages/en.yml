@@ -72,6 +72,7 @@ en:
   BUTTON_EDIT: Edit
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d studios"
   LABEL_RANDOM_SLIDER: Randomize games' sliders
   LABEL_DISCOUNT: Make a discount
   LABEL_ORGANIZE_YEARLY: Hold an annual convention
@@ -389,7 +390,7 @@ en:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     It is rumoured that [b]%s[/b] is not satisfied with the deal they made with [b]%s[/b].
   LABEL_REQUIRE_EMPLOYEE: |
-    Requires %d employees in a single studio.
+    Requires %d employees.
     Requires %d producer.
   LABEL_STUDIO_NOT_BALANCED: >
     Check your studio's team. It does not produce the same amount of Design/Development or Polish.
@@ -518,7 +519,7 @@ en:
   LABEL_COMPANY_WIDE: Company wide
   LABEL_STUDIO_WIDE: This studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    You must have at least 3 employees in a single studio to deal with a publisher.
+    You must have at least 10 employees to deal with a publisher.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelled"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     For [b]%s[/b] (%s),
@@ -1088,7 +1089,7 @@ en:
   LABEL_RENT_PRICE: Rent price
   LABEL_NO_STUDIO_AVAILABLE: No studio available
   LABEL_REAL_ESTATE: Real estate
-  LABEL_STAFF_SIZE: Staff size
+  LABEL_STAFF_SIZE: Number of employees
   LABEL_CREATION_DATE: Creation date
   LABEL_STUDIO_LIST: Studio list
   LABEL_NO_STUDIO_FOUND: No studio found

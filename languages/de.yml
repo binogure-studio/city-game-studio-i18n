@@ -72,6 +72,7 @@ de:
   BUTTON_EDIT: Bearbeiten
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d Studios"
   LABEL_RANDOM_SLIDER: Zufällige Schieberegler für Spiele
   LABEL_DISCOUNT: Machen Sie einen Rabatt
   LABEL_ORGANIZE_YEARLY: Organisieren Sie eine jährliche Tagung
@@ -390,7 +391,7 @@ de:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Gerüchte kursieren, und es scheint, dass %s mit dem Geschäft, das sie mit %s abgeschlossen haben, nicht zufrieden ist.
   LABEL_REQUIRE_EMPLOYEE: |
-    Benötigt %d Mitarbeiter in einem einzigen Studio
+    Benötigt %d Mitarbeiter
     Benötigt %d Produzenten
   LABEL_STUDIO_NOT_BALANCED: >
     Überprüfe das Team Ihres Studios. Es scheint so als sei nicht die gleiche Menge an Design, Entwicklung oder Perfektion vorhanden.
@@ -517,7 +518,7 @@ de:
   LABEL_COMPANY_WIDE: Unternehmensweit
   LABEL_STUDIO_WIDE: Dieses Büro
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Es müssen mindestens 3 Personen in einem Studio arbeiten, um sich für ein Publisher-Angebot bewerben zu können.
+    Sie müssen mindestens 10 Mitarbeiter haben, um sich mit einem Verlag zu befassen.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s abgebrochen"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     An [b]%s[/b] (%s),

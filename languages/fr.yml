@@ -72,6 +72,7 @@ fr:
   BUTTON_EDIT: Modifier
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d studios"
   LABEL_RANDOM_SLIDER: Randomize games' sliders
   LABEL_DISCOUNT: Organiser des soldes
   LABEL_ORGANIZE_YEARLY: Organiser une convention annuelle
@@ -394,7 +395,7 @@ fr:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Des rumeurs courent, et il parait que %s n'est pas satisfait du deal qu'ils ont passé avec %s
   LABEL_REQUIRE_EMPLOYEE: |
-    Nécessite %d employés dans un seul studio.
+    Nécessite %d employés.
     Nécessite %d producteur.
   LABEL_STUDIO_NOT_BALANCED: >
     Vérifier la composition de votre studio, il ne produit pas le même montant de Design/Developpement ou de Polissage.
@@ -522,7 +523,7 @@ fr:
   LABEL_UPGRADE_COMPUTER: Mise à niveau des ordinateurs
   LABEL_UPGRADE_SERVER: Mise à niveau des serveurs
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Vous devez avoir au minimum 3 personnes travaillant dans un studio pour pouvoir répondre à une offre d'éditeur.
+    Vous devez avoir au minimum 10 personnes pour pouvoir répondre à une offre d'édition.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     À l'intention de [b]%s[/b] (%s),

@@ -72,6 +72,7 @@ zh:
   BUTTON_EDIT: 编辑
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d间工作室"
   LABEL_RANDOM_SLIDER: 随机游戏设置
   LABEL_DISCOUNT: 打折
   LABEL_ORGANIZE_YEARLY: 组织一次展会
@@ -386,7 +387,7 @@ zh:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     有谣言流传说似乎%s对他们与%s做的交易不满意
   LABEL_REQUIRE_EMPLOYEE: |
-    在一个工作室中需要%d名员工
+    需要%d名员工。
     在一个工作室中需要%d制片人
   LABEL_STUDIO_NOT_BALANCED: >
     检查你的工作室团队。这个工作室不制作同样多的设计/开发元素或润色。
@@ -511,7 +512,7 @@ zh:
   LABEL_COMPANY_WIDE: 公司范围
   LABEL_STUDIO_WIDE: 此工作室
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    你必须至少有3人在工作室工作才能对发行商的开价作出申请。
+    你必须至少有10人工作才能对发行商的开价作出申请。
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s已取消"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     对于 [b]%s[/b] (%s)，

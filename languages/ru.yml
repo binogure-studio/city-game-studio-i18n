@@ -72,6 +72,7 @@ ru:
   BUTTON_EDIT: Редактировать
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d студий"
   LABEL_RANDOM_SLIDER: Рандомизировать ползунки игр
   LABEL_DISCOUNT: Сделать скидку
   LABEL_ORGANIZE_YEARLY: Организовать ежегодную конвенцию
@@ -389,7 +390,7 @@ ru:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Ходят слухи, и похоже, что %s недоволен заключенной сделкой с %s.    
   LABEL_REQUIRE_EMPLOYEE: |
-    Требуется %d сотрудников в одной студии.
+    Требуется %d сотрудников.
     Требуется %d продюсер
   LABEL_STUDIO_NOT_BALANCED: >
     Проверьте команду вашей студии. Она не производит достаточно дизайна/разработки либо полировки.
@@ -527,8 +528,7 @@ ru:
   LABEL_COMPANY_WIDE: По всей компании
   LABEL_STUDIO_WIDE: Эта студия
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    У вас должно быть как минимум 3 человека, работающих в студии, чтобы
-    подать заявку на предложение издателя.
+    У вас должно быть как минимум 10 сотрудников для работы с издателем.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s отменено"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Для [b]%s[/b] (%s)

@@ -72,6 +72,7 @@ nl:
   BUTTON_EDIT: Bewerken
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d studio's"
   LABEL_RANDOM_SLIDER: Willekeurige schuifregelaars voor games
   LABEL_DISCOUNT: Maak korting
   LABEL_ORGANIZE_YEARLY: Organiseer een jaarlijkse conventie
@@ -390,7 +391,7 @@ nl:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Er doen geruchten de ronde en het lijkt erop dat %s niet tevreden is met de deal die ze met %s hebben gesloten.
   LABEL_REQUIRE_EMPLOYEE: |
-    Vereist %d medewerkers in één studio
+    Vereist %d medewerkers
     Vereist %d producent
   LABEL_STUDIO_NOT_BALANCED: >
     Deze studio is onevenwichtig, het produceert niet dezelfde hoeveelheid Design/Development/Polish.
@@ -518,7 +519,7 @@ nl:
   LABEL_COMPANY_WIDE: Gehele bedrijf
   LABEL_STUDIO_WIDE: Deze studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Er moeten minstens 3 mensen in je studio werken voor je een aanbieding van een uitgever kan verkrijgen.
+    U moet ten minste 10 werknemers hebben om met een uitgever om te gaan.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s geannuleerd"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Ter attentie van [b]%s[/b] (%s)

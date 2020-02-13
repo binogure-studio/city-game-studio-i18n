@@ -71,6 +71,7 @@ ar:
   BUTTON_EDIT: تصحيح
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d استوديوهات"
   LABEL_RANDOM_SLIDER: العشوائية المتزلجون الألعاب
   LABEL_DISCOUNT: تقديم خصم
   LABEL_ORGANIZE_YEARLY: تنظيم مؤتمر سنوي
@@ -392,7 +393,7 @@ ar:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     الإشاعات تنتشر, ويبدو أن %s غير راض عن الصفقة التي أبرموها مع %s
   LABEL_REQUIRE_EMPLOYEE: |
-    يتطلب %d الموظفون في استوديو واحد
+    يتطلب %d موظفين
     يتطلب %d منتج
   LABEL_STUDIO_NOT_BALANCED: |
     تحقق فريق الاستوديو الخاص بك. يبدو أنه لا ينتج نفس القدر من التصميم / التطوير أو البولندية.
@@ -529,8 +530,7 @@ ar:
   LABEL_COMPANY_WIDE: شركة واسعة
   LABEL_STUDIO_WIDE: هذا الاستوديو
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    يجب أن يكون لديك على الأقل  3  أشخاص يعملون في الاستوديو حتى تتمكن من
-    التقدم للحصول على عرض ناشر.
+    يجب أن يكون لديك 10 موظفين على الأقل للتعامل مع ناشر.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s ملغاة"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
     ل [b]%s[/b] (%s), 

@@ -72,6 +72,7 @@ ko:
   BUTTON_EDIT: 편집하다
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d 개 스튜디오"
   LABEL_RANDOM_SLIDER: 게임 슬라이더 무작위 화
   LABEL_DISCOUNT: 할인하다
   LABEL_ORGANIZE_YEARLY: 연례 컨벤션 조직
@@ -389,7 +390,7 @@ ko:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     [b]%s[/b]는 그들이 [b]%s[/b]와 맺은 거래에 만족하지 못한다는 소문이 있습니다.
   LABEL_REQUIRE_EMPLOYEE: |
-    한개의 스튜디오에 %d명의 직원들이 필요합니다.
+    %d명의 직원들이 필요합니다.
     %d명의 프로듀서가 필요합니다.
   LABEL_STUDIO_NOT_BALANCED: >
     당신의 스튜디오 팀을 확인해보세요. 그들은 디자인이나 개발을 코드 검토와 동일한 비율로 진행할 수 없습니다.
@@ -518,7 +519,7 @@ ko:
   LABEL_COMPANY_WIDE: 회사 전체
   LABEL_STUDIO_WIDE: 이 스튜디오
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    당신은 유통사와 거래를 하기 위해 하나의 스튜디오에 적어도 3 명의 직원들이 필요합니다.
+    게시자를 다루려면 직원이 10 명 이상이어야합니다.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s 취소"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     [b]%s[/b] (%s) 를 위해서,

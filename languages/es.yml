@@ -72,6 +72,7 @@ es:
   BUTTON_EDIT: Tratar
   
   # Etiquetas, descripciones
+  LABEL_X_STUDIOS: "%d estudios"
   LABEL_RANDOM_SLIDER: Aleatorizar los controles deslizantes de los juegos
   LABEL_DISCOUNT: Hacer un descuento
   LABEL_ORGANIZE_YEARLY: Organizar una convención anual.
@@ -391,7 +392,7 @@ es:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Circulan rumores y parece ser que %s no está satisfecho con el trato que hicieron con %s.
   LABEL_REQUIRE_EMPLOYEE: |
-    Requiere %d empleados en un mismo estudio
+    Requiere %d empleados
     Requiere %d productor
   LABEL_STUDIO_NOT_BALANCED: |
     Consulta el equipo de tu estudio. Parece que no está produciendo la misma cantidad de diseño, desarrollo y pulido.
@@ -520,7 +521,7 @@ es:
   LABEL_COMPANY_WIDE: En toda la empresa
   LABEL_STUDIO_WIDE: Este estudio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Debes tener al menos 3 personas trabajando en un estudio para poder solicitar una oferta de editor.
+    Debes tener al menos 3 personas para poder solicitar una oferta de editor.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),

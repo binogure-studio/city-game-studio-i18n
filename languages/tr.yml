@@ -72,6 +72,7 @@ tr:
   BUTTON_EDIT: Düzenle
 
   # Labels, descriptive
+  LABEL_X_STUDIOS: "%d stüdyo"
   LABEL_RANDOM_SLIDER: Oyunların kaydırıcılarını rastgele oluştur
   LABEL_DISCOUNT: Bir indirim yapın
   LABEL_ORGANIZE_YEARLY: Yıllık bir toplantı düzenleyin
@@ -390,7 +391,7 @@ tr:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Söylentiler dolaşıyor ve %s'nin %s ile yaptıkları anlaşmadan memnun olmadığı görülüyor
   LABEL_REQUIRE_EMPLOYEE: |
-    Tek bir stüdyoda %d çalışan gerektirir
+    %d çalışan gerektirir.
     %d yapımcı çalışan gerektirir
   LABEL_STUDIO_NOT_BALANCED: >
     Stüdyonun ekibini kontrol edin. Aynı miktarda tasarım / geliştirme veya cila üretmediği anlaşılıyor.
@@ -517,7 +518,7 @@ tr:
   LABEL_UPGRADE_COMPUTER: Bilgisayarları otomatik yükselt
   LABEL_UPGRADE_SERVER: Sunucuları otomatik yükselt
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Bir yayıncı teklifine başvurabilmek için stüdyoda çalışan en az 3 kişiye sahip olmalısınız.
+    Bir yayıncıyla başa çıkmak için en az 10 çalışanınız olmalıdır.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s iptal edildi"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     [b]%s[/b] (%s) için,
