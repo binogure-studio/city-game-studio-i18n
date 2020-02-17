@@ -72,6 +72,9 @@ nl:
   BUTTON_EDIT: Bewerken
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: Abonnements prijs
+  LABEL_GAME_PRICE: Game prijs
+  LABEL_UPDATE_PRICE: Game update prijs
   LABEL_X_STUDIOS: "%d studio's"
   LABEL_RANDOM_SLIDER: Willekeurige schuifregelaars voor games
   LABEL_DISCOUNT: Maak korting
@@ -107,7 +110,7 @@ nl:
     Lijst van spelmotoren beschikbaar op de markt
   LABEL_FOSS: Gratis en open source software
   LABEL_PROPRIETARY: Eigenaar
-  LABEL_OWNER: Eigenaar
+  LABEL_OWNER: Intern
   LABEL_PLATFORM_GPU_CAPABILITY: Grafische mogelijkheden
   LABEL_PLATFORM_CPU_CAPABILITY: Bereken de mogelijkheden
   LABEL_PLATFORM_GPU_COSTS: Grafische kosten
@@ -519,7 +522,7 @@ nl:
   LABEL_COMPANY_WIDE: Gehele bedrijf
   LABEL_STUDIO_WIDE: Deze studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    U moet ten minste 10 werknemers hebben om met een uitgever om te gaan.
+    U moet ten minste 5 werknemers hebben om met een uitgever om te gaan.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s geannuleerd"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Ter attentie van [b]%s[/b] (%s)

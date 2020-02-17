@@ -72,6 +72,9 @@ zh:
   BUTTON_EDIT: 编辑
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: 认购价
+  LABEL_GAME_PRICE: 游戏价格
+  LABEL_UPDATE_PRICE: 游戏更新价格
   LABEL_X_STUDIOS: "%d间工作室"
   LABEL_RANDOM_SLIDER: 随机游戏设置
   LABEL_DISCOUNT: 打折
@@ -106,8 +109,8 @@ zh:
   LABEL_GAMEENGINE_LIST: >
     市场上可用的游戏引擎列表
   LABEL_FOSS: 免费和开源软件
-  LABEL_PROPRIETARY: 所有权
-  LABEL_OWNER: 所有者
+  LABEL_PROPRIETARY: 所有者
+  LABEL_OWNER: 内部
   LABEL_PLATFORM_GPU_CAPABILITY: 图形功能
   LABEL_PLATFORM_CPU_CAPABILITY: 计算能力
   LABEL_PLATFORM_GPU_COSTS: 图形费用
@@ -512,7 +515,7 @@ zh:
   LABEL_COMPANY_WIDE: 公司范围
   LABEL_STUDIO_WIDE: 此工作室
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    你必须至少有10人工作才能对发行商的开价作出申请。
+    你必须至少有5人工作才能对发行商的开价作出申请。
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s已取消"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     对于 [b]%s[/b] (%s)，

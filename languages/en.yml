@@ -72,6 +72,9 @@ en:
   BUTTON_EDIT: Edit
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: Subscription price
+  LABEL_GAME_PRICE: Game price
+  LABEL_UPDATE_PRICE: Game update price
   LABEL_X_STUDIOS: "%d studios"
   LABEL_RANDOM_SLIDER: Randomize games' sliders
   LABEL_DISCOUNT: Make a discount
@@ -107,7 +110,7 @@ en:
     List of game engines available on the market
   LABEL_FOSS: Free and Open Source Software
   LABEL_PROPRIETARY: Proprietary
-  LABEL_OWNER: Owner
+  LABEL_OWNER: Internal
   LABEL_PLATFORM_GPU_CAPABILITY: Graphic capabilities
   LABEL_PLATFORM_CPU_CAPABILITY: Compute capabilities
   LABEL_PLATFORM_GPU_COSTS: Graphic costs
@@ -519,7 +522,7 @@ en:
   LABEL_COMPANY_WIDE: Company wide
   LABEL_STUDIO_WIDE: This studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    You must have at least 10 employees to deal with a publisher.
+    You must have at least 5 employees to deal with a publisher.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelled"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     For [b]%s[/b] (%s),

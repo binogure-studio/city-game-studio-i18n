@@ -72,6 +72,9 @@ it:
   BUTTON_EDIT: Modifica
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: Prezzo di abbonamento
+  LABEL_GAME_PRICE: Prezzo del gioco
+  LABEL_UPDATE_PRICE: Prezzo di aggiornamento del gioco
   LABEL_X_STUDIOS: "%d studi"
   LABEL_RANDOM_SLIDER: Casuali i cursori dei giochi
   LABEL_DISCOUNT: Fai uno sconto
@@ -107,7 +110,7 @@ it:
     Elenco dei motori di gioco disponibili sul mercato
   LABEL_FOSS: Software Libero e Open Source
   LABEL_PROPRIETARY: Proprietario
-  LABEL_OWNER: Proprietario
+  LABEL_OWNER: Interno
   LABEL_PLATFORM_GPU_CAPABILITY: Capacità grafiche
   LABEL_PLATFORM_CPU_CAPABILITY: Capacità di calcolo
   LABEL_PLATFORM_GPU_COSTS: Costi grafici
@@ -518,7 +521,7 @@ it:
   LABEL_COMPANY_WIDE: In tutta l'azienda
   LABEL_STUDIO_WIDE: Questo studio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Devi avere almeno 10 dipendenti per trattare con un editore.
+    Devi avere almeno 5 dipendenti per trattare con un editore.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annullato"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Per [b]%s[/b] (%s),

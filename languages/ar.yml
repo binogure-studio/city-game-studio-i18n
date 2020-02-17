@@ -71,6 +71,9 @@ ar:
   BUTTON_EDIT: تصحيح
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: سعر الاشتراك
+  LABEL_GAME_PRICE: سعر اللعبة
+  LABEL_UPDATE_PRICE: سعر تحديث اللعبة
   LABEL_X_STUDIOS: "%d استوديوهات"
   LABEL_RANDOM_SLIDER: العشوائية المتزلجون الألعاب
   LABEL_DISCOUNT: تقديم خصم
@@ -106,7 +109,7 @@ ar:
     قائمة محركات اللعبة المتاحة في السوق
   LABEL_FOSS: البرمجيات الحرة والمفتوحة المصدر
   LABEL_PROPRIETARY: امتلاكي
-  LABEL_OWNER: صاحب
+  LABEL_OWNER: داخلي
   LABEL_PLATFORM_GPU_CAPABILITY: قدرات الرسم
   LABEL_PLATFORM_CPU_CAPABILITY: حساب القدرات
   LABEL_PLATFORM_GPU_COSTS: تكاليف الرسوم
@@ -530,7 +533,7 @@ ar:
   LABEL_COMPANY_WIDE: شركة واسعة
   LABEL_STUDIO_WIDE: هذا الاستوديو
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    يجب أن يكون لديك 10 موظفين على الأقل للتعامل مع ناشر.
+    يجب أن يكون لديك 5 موظفين على الأقل للتعامل مع ناشر.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s ملغاة"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: >
     ل [b]%s[/b] (%s), 

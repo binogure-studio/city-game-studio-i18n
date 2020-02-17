@@ -72,6 +72,9 @@ fr:
   BUTTON_EDIT: Modifier
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: Prix de l'abonnement
+  LABEL_GAME_PRICE: Prix du jeu
+  LABEL_UPDATE_PRICE: Prix de la mise à jour
   LABEL_X_STUDIOS: "%d studios"
   LABEL_RANDOM_SLIDER: Randomize games' sliders
   LABEL_DISCOUNT: Organiser des soldes
@@ -107,7 +110,7 @@ fr:
     Liste des moteurs de jeux disponibles sur le marché
   LABEL_FOSS: Logiciels libres et open source
   LABEL_PROPRIETARY: Propriétaire
-  LABEL_OWNER: Propriétaire
+  LABEL_OWNER: Interne
   LABEL_PLATFORM_GPU_CAPABILITY: Capacités graphiques
   LABEL_PLATFORM_CPU_CAPABILITY: Capacités de calcul
   LABEL_PLATFORM_GPU_COSTS: Coûts des graphiques
@@ -523,7 +526,7 @@ fr:
   LABEL_UPGRADE_COMPUTER: Mise à niveau des ordinateurs
   LABEL_UPGRADE_SERVER: Mise à niveau des serveurs
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Vous devez avoir au minimum 10 personnes pour pouvoir répondre à une offre d'édition.
+    Vous devez avoir au minimum 5 personnes pour pouvoir répondre à une offre d'édition.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s annulé"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     À l'intention de [b]%s[/b] (%s),

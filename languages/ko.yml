@@ -72,6 +72,9 @@ ko:
   BUTTON_EDIT: 편집하다
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: 구독 가격
+  LABEL_GAME_PRICE: 게임 가격
+  LABEL_UPDATE_PRICE: 게임 업데이트 가격
   LABEL_X_STUDIOS: "%d 개 스튜디오"
   LABEL_RANDOM_SLIDER: 게임 슬라이더 무작위 화
   LABEL_DISCOUNT: 할인하다
@@ -107,7 +110,7 @@ ko:
     시중에서 판매되는 게임 엔진 목록
   LABEL_FOSS: 무료 및 오픈 소스 소프트웨어
   LABEL_PROPRIETARY: 소유권
-  LABEL_OWNER: 소유자
+  LABEL_OWNER: 내부의
   LABEL_PLATFORM_GPU_CAPABILITY: 그래픽 기능
   LABEL_PLATFORM_CPU_CAPABILITY: 컴퓨팅 기능
   LABEL_PLATFORM_GPU_COSTS: 그래픽 비용
@@ -519,7 +522,7 @@ ko:
   LABEL_COMPANY_WIDE: 회사 전체
   LABEL_STUDIO_WIDE: 이 스튜디오
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    게시자를 다루려면 직원이 10 명 이상이어야합니다.
+    게시자를 다루려면 직원이 5 명 이상이어야합니다.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s 취소"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     [b]%s[/b] (%s) 를 위해서,

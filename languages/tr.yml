@@ -72,6 +72,9 @@ tr:
   BUTTON_EDIT: Düzenle
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: Abonelik ücreti
+  LABEL_GAME_PRICE: Oyun fiyatı
+  LABEL_UPDATE_PRICE: Oyun güncelleme fiyatı
   LABEL_X_STUDIOS: "%d stüdyo"
   LABEL_RANDOM_SLIDER: Oyunların kaydırıcılarını rastgele oluştur
   LABEL_DISCOUNT: Bir indirim yapın
@@ -107,7 +110,7 @@ tr:
     Piyasada bulunan oyun motorlarının listesi
   LABEL_FOSS: Özgür ve Açık Kaynak Yazılım
   LABEL_PROPRIETARY: müseccel
-  LABEL_OWNER: Sahip
+  LABEL_OWNER: İç
   LABEL_PLATFORM_GPU_CAPABILITY: Grafik yetenekleri
   LABEL_PLATFORM_CPU_CAPABILITY: Bilgi işlem yetenekleri
   LABEL_PLATFORM_GPU_COSTS: Grafik maliyetleri
@@ -518,7 +521,7 @@ tr:
   LABEL_UPGRADE_COMPUTER: Bilgisayarları otomatik yükselt
   LABEL_UPGRADE_SERVER: Sunucuları otomatik yükselt
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Bir yayıncıyla başa çıkmak için en az 10 çalışanınız olmalıdır.
+    Bir yayıncıyla başa çıkmak için en az 5 çalışanınız olmalıdır.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s iptal edildi"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     [b]%s[/b] (%s) için,

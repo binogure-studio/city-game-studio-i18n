@@ -72,6 +72,9 @@ pt-br:
   BUTTON_EDIT: Editar
 
   # Labels, descriptive
+  LABEL_SUBSCRIPTION_PRICE: Preço de assinatura
+  LABEL_GAME_PRICE: Preço do jogo
+  LABEL_UPDATE_PRICE: Preço de atualização do jogo
   LABEL_X_STUDIOS: "%d estúdios"
   LABEL_RANDOM_SLIDER: Randomize os controles deslizantes dos jogos
   LABEL_DISCOUNT: Faça um desconto
@@ -107,7 +110,7 @@ pt-br:
     Lista de motores de jogos disponíveis no mercado
   LABEL_FOSS: Software Livre e de Código Aberto
   LABEL_PROPRIETARY: Proprietário
-  LABEL_OWNER: Proprietário
+  LABEL_OWNER: Interno
   LABEL_PLATFORM_GPU_CAPABILITY: Capacidades gráficas
   LABEL_PLATFORM_CPU_CAPABILITY: Capacidades de computação
   LABEL_PLATFORM_GPU_COSTS: Custos gráficos
@@ -526,7 +529,7 @@ pt-br:
   LABEL_COMPANY_WIDE: Toda a empresa
   LABEL_STUDIO_WIDE: Este estúdio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Você deve ter pelo menos 10 funcionários para lidar com um editor.
+    Você deve ter pelo menos 5 funcionários para lidar com um editor.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
