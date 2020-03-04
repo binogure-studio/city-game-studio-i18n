@@ -72,6 +72,22 @@ ru:
   BUTTON_EDIT: Редактировать
 
   # Labels, descriptive
+  LABEL_IAP_NAME: Микротранзакции
+  LABEL_IAP_PACK: "Пакет #%d"
+  LABEL_IAP_TYPE_POWER_BOOST: Повышение мощности
+  LABEL_IAP_TYPE_COSMETIC: Косметика
+  LABEL_IAP_TYPE_LOOTBOX: Лутбокс
+  LABEL_IAP_LIST: Перечень пунктов
+  LABEL_IAP_RARITY: Раритет
+  LABEL_IAP_RARITY_UNCOMMON: Необычный
+  LABEL_IAP_RARITY_RARE: Редкий сайт
+  LABEL_IAP_RARITY_EPIC: Epic
+  LABEL_IAP_RARITY_LEGENDARY: Легендарный
+  LABEL_FINANCIAL_DETAILS: Финансовые данные
+  LABEL_AD_NAME: Объявление
+  LABEL_AD_POPUP: Всплывающая реклама
+  LABEL_AD_BANNER: Рекламный баннер
+  LABEL_NUMBER_OF_PLAYER: Количество игроков
   LABEL_GAME_ENGINE_LIST: Список игровых движков
   LABEL_THEME_LIST: Тематический список
   LABEL_GAME_ANNOUNCEMENT: Анонсы об играх
@@ -154,6 +170,8 @@ ru:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Теперь вы можете создавать собственные игровые движки.
     Игровые движки увеличивают количество очков, генерируемых вашим персоналом. 
+  LABEL_GAME_ENGINE_ADS: рекламный модуль
+  LABEL_GAME_ENGINE_IAP: Модуль микротранзакций
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D-графика Монохромный"
   LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D-графика 8-Битные цвета"
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D-графика 16-Битные цвета"
