@@ -77,9 +77,17 @@ en:
   LABEL_NUMBER_OF_PLAYER_LOST: Number of lost players
   LABEL_FEATURE_REQUIRED: >
     This feature requires the following game engine modules:
+  LABEL_ESTIMATED_INCOME: Estimated revenue
+  LABEL_ADS_WARNING: >
+    Be careful when using ads.
+    Ads impact user retention.
+  LABEL_IAP_WARNING: >
+    Players who bought a game don't like seeing ads
+    or spending money on microtransactions.
   LABEL_IAP_NAME: Microtransactions
   LABEL_IAP_PACK: "Pack #%d"
   LABEL_IAP_TYPE_POWER_BOOST: Power boost
+  LABEL_IAP_POWER: Power factor
   LABEL_IAP_TYPE_COSMETIC: Cosmetic
   LABEL_IAP_TYPE_LOOTBOX: Lootbox
   LABEL_IAP_LIST: List of items
@@ -89,10 +97,10 @@ en:
   LABEL_IAP_RARITY_EPIC: Epic
   LABEL_IAP_RARITY_LEGENDARY: Legendary
   LABEL_FINANCIAL_DETAILS: Financial details
-  LABEL_AD_NAME: Ad
+  LABEL_AD_NAME: Ads
   LABEL_AD_POPUP: Ad popup
   LABEL_AD_BANNER: Ad banner
-  LABEL_NUMBER_OF_PLAYER: Number of player
+  LABEL_NUMBER_OF_PLAYER: Number of players
   LABEL_GAME_ENGINE_LIST: Game engine list
   LABEL_THEME_LIST: Theme list
   LABEL_CONVENTION_MESSAGE: Conventions
