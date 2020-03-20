@@ -70,8 +70,23 @@ it:
   BUTTON_PAY: Paga
   BUTTON_UPDATE: Aggiornare
   BUTTON_EDIT: Modifica
+  BUTTON_CONFINE_MOUSE: Confiner le curseur de la souris
+  BUTTON_SHOW_STUDIO: Mostra lo studio
+  BUTTON_CANCEL_GAME: Annulla il gioco
 
   # Labels, descriptive
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    O il vostro team di sviluppo non è abbastanza equilibrato,
+    oppure avete dedicato molto più tempo al %s rispetto ad
+    altri stadi di sviluppo.
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    O il vostro team di sviluppo non è sufficientemente bilanciato,
+    oppure non avete passato abbastanza tempo sul %s rispetto
+    agli altri stadi di sviluppo.
+  LABEL_WARNING_THEME_MISSING: Si prega di selezionare un tema
+  LABEL_BUYABLE: Acquistabile
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    Aggiungere una microtransazione cliccando sul pulsante blu.
   LABEL_NUMBER_OF_NEW_PLAYERS: Numero di nuovi giocatori
   LABEL_NUMBER_OF_RETURNING_PLAYERS: Numero di giocatori che ritornano
   LABEL_NUMBER_OF_PLAYER_LOST: Numero di giocatori persi

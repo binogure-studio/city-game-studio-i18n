@@ -70,8 +70,21 @@ zh:
   BUTTON_PAY: 支付
   BUTTON_UPDATE: 更新
   BUTTON_EDIT: 编辑
+  BUTTON_CONFINE_MOUSE: 限制鼠标光标
+  BUTTON_SHOW_STUDIO: 显示工作室
+  BUTTON_CANCEL_GAME: 取消游戏
 
   # Labels, descriptive
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    要么你的开发团队不够平衡，
+    要么你在%s上花费的时间比其他开发阶段多了很多。
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    要么你的开发团队不够平衡，
+    要么你的开发团队与其他开发阶段相比，在%s上花费的时间不够多。
+  LABEL_WARNING_THEME_MISSING: 请选择一个主题
+  LABEL_BUYABLE: 可买的
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    通过单击蓝色按钮添加微交易。
   LABEL_NUMBER_OF_NEW_PLAYERS: 新玩家人数
   LABEL_NUMBER_OF_RETURNING_PLAYERS: 返程球员数
   LABEL_NUMBER_OF_PLAYER_LOST: 失去的玩家人数

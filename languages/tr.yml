@@ -70,8 +70,21 @@ tr:
   BUTTON_PAY: Ödemek
   BUTTON_UPDATE: Güncellemek için
   BUTTON_EDIT: Düzenle
+  BUTTON_CONFINE_MOUSE: Confine fare imleci
+  BUTTON_SHOW_STUDIO: Stüdyoyu göster
+  BUTTON_CANCEL_GAME: Oyunu iptal et
 
   # Labels, descriptive
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    Geliştirme ekibiniz dengeli değil veya geliştirme ekibiniz
+    %s'a diğer geliştirme aşamalarından daha fazla zaman harcıyor
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    Geliştirme ekibiniz dengeli değil veya geliştirme ekibiniz diğer
+    geliştirme aşamalarına kıyasla%s'a yeterince zaman harcamıyor
+  LABEL_WARNING_THEME_MISSING: Lütfen bir konu seçin
+  LABEL_BUYABLE: Satın alınabilir
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    Mavi düğmeye tıklayarak mikroişlem ekleyin.
   LABEL_NUMBER_OF_NEW_PLAYERS: Yeni oyuncu sayısı
   LABEL_NUMBER_OF_RETURNING_PLAYERS: Geri dönen oyuncu sayısı
   LABEL_NUMBER_OF_PLAYER_LOST: Kayıp oyuncu sayısı

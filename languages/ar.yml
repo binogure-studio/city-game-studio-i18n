@@ -69,8 +69,21 @@ ar:
   BUTTON_PAY: دفع
   BUTTON_UPDATE: تحديث
   BUTTON_EDIT: تصحيح
+  BUTTON_CONFINE_MOUSE: حصر مؤشر الماوس
+  BUTTON_SHOW_STUDIO: اعرض الاستوديو
+  BUTTON_CANCEL_GAME: قم بإلغاء اللعبة
 
   # Labels, descriptive
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    إما أن فريق التطوير لديك ليس متوازنًا بما فيه الكفاية ،
+    أو أنك قضيت الكثير من الوقت في %s مقارنةً بمراحل التطوير الأخرى
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    إما أن فريق التطوير لديك ليس متوازنًا بما فيه الكفاية ،
+    أو أنك لم تقضي وقتًا كافيًا في %s مقارنةً بمراحل التطوير الأخرى
+  LABEL_WARNING_THEME_MISSING: يرجى تحديد موضوع
+  LABEL_BUYABLE: يمكن شراؤه
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    أضف microtransaction بالضغط على الزر الأزرق.
   LABEL_NUMBER_OF_NEW_PLAYERS: عدد اللاعبين الجدد
   LABEL_NUMBER_OF_RETURNING_PLAYERS: عدد اللاعبين العائدين
   LABEL_NUMBER_OF_PLAYER_LOST: عدد اللاعبين الضائعين

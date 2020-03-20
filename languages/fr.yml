@@ -70,8 +70,24 @@ fr:
   BUTTON_PAY: Payer
   BUTTON_UPDATE: Mettre à jour
   BUTTON_EDIT: Modifier
+  BUTTON_CONFINE_MOUSE: Confiner le curseur de la souris
+  BUTTON_SHOW_STUDIO: Montrer le studio
+  BUTTON_CANCEL_GAME: Annuler le jeu
 
   # Labels, descriptive
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    Soit votre équipe de développement n'est pas suffisament équilibrée,
+    soit vous avez passé beaucoup plus de temps sur le %s par rapport
+    aux autres étapes de développement
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    Soit votre équipe de développement n'est pas suffisament équilibrée,
+    soit vous n'avez pas passé suffisament de temps sur le %s par rapport
+    aux autres étapes de développement
+  LABEL_WARNING_THEME_MISSING: Veuillez sélectionner un thème
+  LABEL_BUYABLE: Achetable
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    Ajouter un nouvel achat par microtransaction en cliquant
+    sur la croix bleue.
   LABEL_NUMBER_OF_NEW_PLAYERS: Nombre de nouveaux joueurs
   LABEL_NUMBER_OF_RETURNING_PLAYERS: Nombre de joueurs qui reviennent
   LABEL_NUMBER_OF_PLAYER_LOST: Nombre de joueurs perdus
@@ -1018,7 +1034,7 @@ fr:
   LABEL_POSTMORTEM_MATCH: "[ul]- Le rapport [i]%s[/i]/[i]%s[/i] est une [b]%s[/b][/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] est [b]%s[/b] pour un jeu de type [b]%s[/b][/ul]"
   LABEL_POSTMORTEM_MARGINAL: négligeable
-  LABEL_POSTMORTEM_INSIGNIFICANT: insignifiant
+  LABEL_POSTMORTEM_INSIGNIFICANT: peu important
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativement important
   LABEL_POSTMORTEM_VERY_IMPORTANT: très important
   LABEL_POSTMORTEM_ESSENTIAL: essentiel
