@@ -70,15 +70,15 @@ zh:
   BUTTON_PAY: 支付
   BUTTON_UPDATE: 更新
   BUTTON_EDIT: 编辑
-  BUTTON_CONFINE_MOUSE: 限制鼠标光标
+  BUTTON_CONFINE_MOUSE: 限制鼠标在窗口区域
   BUTTON_SHOW_STUDIO: 显示工作室
   BUTTON_CANCEL_GAME: 取消游戏
 
   # Labels, descriptive
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
-    选择要更新的功能，以满足玩家的期望值。
+    选择要更新的功能，以满足玩家的期望。
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
-    当更新游戏引擎时，惩罚适用，它只影响所需的点数。
+    更新游戏引擎时，会有惩罚。只会影响产生的点数。
   LABEL_TOO_MUCH_TIME_SPENT: |
     要么你的开发团队不够平衡，
     要么你在%s上花费的时间比其他开发阶段多了很多。
@@ -90,11 +90,11 @@ zh:
   LABEL_IAP_ADD_MICROTRANSATION: >
     通过单击蓝色按钮添加微交易。
   LABEL_NUMBER_OF_NEW_PLAYERS: 新玩家人数
-  LABEL_NUMBER_OF_RETURNING_PLAYERS: 返程球员数
-  LABEL_NUMBER_OF_PLAYER_LOST: 失去的玩家人数
+  LABEL_NUMBER_OF_RETURNING_PLAYERS: 回归玩家数
+  LABEL_NUMBER_OF_PLAYER_LOST: 流失的玩家人数
   LABEL_FEATURE_REQUIRED: >
     此功能需要以下游戏引擎模块：
-  LABEL_ESTIMATED_INCOME: 预估收益
+  LABEL_ESTIMATED_INCOME: 预计收益
   LABEL_ADS_WARNING: >
     使用广告时要小心。
     广告会影响用户保留率。
