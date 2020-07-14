@@ -69,10 +69,10 @@ es:
   BUTTON_BUILD: Construir
   BUTTON_PAY: Pagar
   BUTTON_UPDATE: Actualizar
-  BUTTON_EDIT: Tratar
-  BUTTON_CONFINE_MOUSE: Confine el cursor del mouse
-  BUTTON_SHOW_STUDIO: Muestra el estudio
-  BUTTON_CANCEL_GAME: Cancele el juego.
+  BUTTON_EDIT: Editar
+  BUTTON_CONFINE_MOUSE: Confinar el cursor
+  BUTTON_SHOW_STUDIO: Mostrar el estudio
+  BUTTON_CANCEL_GAME: Cancelar el juego
   BUTTON_VIEW_SEQUEL: Ver secuela
   
   # Etiquetas, descripciones
@@ -91,7 +91,7 @@ es:
     O tu equipo de desarrollo no está suficientemente equilibrado,
     o no has pasado suficiente tiempo en el %s comparado con las otras etapas
     de desarrollo.
-  LABEL_WARNING_THEME_MISSING: Por favor, seleccione un tema
+  LABEL_WARNING_THEME_MISSING: No hay ningun tema seleccionado.
   LABEL_BUYABLE: Comprable
   LABEL_IAP_ADD_MICROTRANSATION: >
     Añade una microtransacción haciendo clic en el botón azul.
@@ -131,7 +131,7 @@ es:
   LABEL_NO_FILTER: Sin filtro
   LABEL_GAME_UPDATE_EXPECTED: Esperando una actualización
   LABEL_GAME_UPDATE_NOTEXPECTED: No esperando una actualización
-  LABEL_MARKETING_CAMPAIGN_ACTIVE: Campaña de marketing activo
+  LABEL_MARKETING_CAMPAIGN_ACTIVE: Campaña de marketing activa
   LABEL_MARKETING_CAMPAIGN_INACTIVE: No hay una campaña de marketing activa
   LABEL_FANBASE_GAIN: Creciente base de fanáticos
   LABEL_FANBASE_LOSS: La disminución de la base de fanáticos
@@ -155,8 +155,8 @@ es:
   LABEL_REPAIR_ALL: Arreglar todo
   LABEL_UNIQUE: Único
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
-    Per attivare l'archivio digitale,
-    è necessario supportare almeno una piattaforma
+    Para activar el archivo digital,
+    al menos una plataforma debe ser compatible.
   LABEL_NOT_AVAILABLE: No disponible
   LABEL_REQUIRED: Necesario
   LABEL_REVIEW_GAMEENGINE_BAD: >
@@ -168,13 +168,13 @@ es:
   LABEL_DESIGN_CAPACITY: Capacidad para producir puntos de diseño
   LABEL_DEVELOPMENT_CAPACITY: Capacidad para producir puntos de desarrollo
   LABEL_POLISH_CAPACITY: Capacidad para producir puntos de pulido
-  LABEL_GAMEENGINE_MAKEFOSS: Hágalo gratis
+  LABEL_GAMEENGINE_MAKEFOSS: Hazlo gratis
   LABEL_GAMEENGINE_PENALITY: >
-    Debido al código heredado, actualizar un motor de juego cuesta un poco más.
-  LABEL_GAMEENGINE_READY: Motor de juego listo
-  LABEL_GAMEENGINE_UPDATE: Actualizar este motor de juego
+    Debido al código heredado, actualizar un motor gráfico cuesta un poco más.
+  LABEL_GAMEENGINE_READY: Motor de juego terminado
+  LABEL_GAMEENGINE_UPDATE: Actualizar este motor gráfico
   LABEL_GAMEENGINE_LIST: >
-    Lista de motores de juego disponibles en el mercado
+    Lista de motores gráficos disponibles en el mercado
   LABEL_FOSS: Software Libre y de Código Abierto
   LABEL_PROPRIETARY: Propietario
   LABEL_OWNER: Interno
@@ -213,25 +213,25 @@ es:
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "Gráficos 2D 16 Bits colores"
   LABEL_GAME_ENGINE_2D_24BITCOLOR: "Gráficos 2D 24 Bits colores"
   LABEL_GAME_ENGINE_2D_32BITCOLOR: "Gráficos 2D 32 Bits colores"
-  LABEL_GAME_ENGINE_3D_1BITCOLOR: "Grafismos 3D Color monocromo"
-  LABEL_GAME_ENGINE_3D_8BITCOLOR: "Grafismos 3D 8 Bits colores"
-  LABEL_GAME_ENGINE_3D_16BITCOLOR: "Grafismos 3D 16 Bits colores"
-  LABEL_GAME_ENGINE_3D_24BITCOLOR: "Grafismos 3D 24 Bits colores"
-  LABEL_GAME_ENGINE_3D_32BITCOLOR: "Grafismos 3D 32 Bits colores"
-  LABEL_GAME_ENGINE_VR_32BITCOLOR: "Grafismos de RV"
-  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "Grafismos de voxel"
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: "Gráficos 3D Color monocromo"
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: "Gráficos 3D 8 Bits colores"
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: "Gráficos 3D 16 Bits colores"
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: "Gráficos 3D 24 Bits colores"
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: "Gráficos 3D 32 Bits colores"
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: "Gráficos de Realidad Virtual"
+  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "Gráficos estilo voxel"
   LABEL_GAME_ENGINE_BASIC_DIALOG: "Diálogo básico"
   LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "Diálogo interactivo"
-  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "Diálogo generado por la IA"
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "Diálogo generado por IA"
   LABEL_GAME_ENGINE_JOYSTICK: "Soporte para joystick"
-  LABEL_GAME_ENGINE_GAMEPAD: "Soporte para Gamepad"
+  LABEL_GAME_ENGINE_GAMEPAD: "Soporte para mando"
   LABEL_GAME_ENGINE_MOUSE: "Soporte de ratón"
   LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "Personajes predefinidos"
-  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "Caracteres personalizables"
+  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "Personajes personalizables"
   LABEL_GAME_ENGINE_DIFFICULTY: "Dificultad"
   LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "Dificultad dinámica"
   LABEL_GAME_ENGINE_MAP_EDITOR: "Editor de mapas"
-  LABEL_GAME_ENGINE_MOD_SUPPORT: "Soporte de Mod"
+  LABEL_GAME_ENGINE_MOD_SUPPORT: "Soporte de Mods"
   LABEL_GAME_ENGINE_MONO_SOUND: "Sonido mono"
   LABEL_GAME_ENGINE_MIDI_SOUND: "Sonido Midi"
   LABEL_GAME_ENGINE_STEREO_SOUND: "Sonido estéreo"
@@ -239,7 +239,7 @@ es:
   LABEL_GAME_ENGINE_BASIC_MUSIC: "Música básica"
   LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "Música orquestal"
   LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "Música interactiva"
-  LABEL_GAME_ENGINE_PASSWORD_SAVE: "Guardar con contraseña"
+  LABEL_GAME_ENGINE_PASSWORD_SAVE: "Guardado con contraseña"
   LABEL_GAME_ENGINE_BASIC_SAVE: "Ahorra"
   LABEL_GAME_ENGINE_CLOUD_SAVE: "La nube ahorra"
   LABEL_GAME_ENGINE_BASIC_PHYSICS: "Física básica"
@@ -267,7 +267,7 @@ es:
   LABEL_TOTAL_COST: Costes totales
   LABEL_RENT_SERVER_COST: Gastos de alquiler de servidores
   LABEL_SERVER_USAGE_THRESHOLD: >
-    Alquila nuevos servidores tan pronto como la carga de los servidores alcance este umbral:
+    Alquila nuevos servidores cuando la carga llegue hasta este nivel:
   LABEL_STEAM_NOT_DETECTED: |
     No se puede detectar Steam.
 
@@ -295,8 +295,8 @@ es:
     es necesario desarrollar la función
     multiplataforma para la tienda digital.
   LABEL_DS_SUPPORT_ALL_PLATFORMS: Soporta todas las consolas
-  LABEL_NUMBER_OF_PLATFORMS: Número de consolas.
-  LABEL_SERVER_LOAD: Carga de servidores
+  LABEL_NUMBER_OF_PLATFORMS: Número de plataformas.
+  LABEL_SERVER_LOAD: Carga de los servidores
   LABEL_SALES_BONUS: Impulso de ventas
   LABEL_SERVER_COST: Costes de servidores
   LABEL_DS_SALES: Venta de juegos
@@ -311,22 +311,22 @@ es:
   LABEL_DS_CROSSPLATFORM_TITLE: Multiplataforma
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     Añade soporte multiplataforma.
-  LABEL_DS_BOTPROTECTION_TITLE: Protección de bots
+  LABEL_DS_BOTPROTECTION_TITLE: Protección contra bots
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
-    Mitigación de ataques de bots.
+    protege de los ataques de bots.
   LABEL_DS_WORKSHOP_TITLE: Workshop
   LABEL_DS_WORKSHOP_DESCRIPTION: |
     Permite a los usuarios compartir los mods que han creado.
   LABEL_DS_SUPPORT_TITLE: Soporte
   LABEL_DS_SUPPORT_DESCRIPTION: |
     Incorporación de soporte técnico a la tienda digital.
-  LABEL_DS_REVIEW_TITLE: Crítica
+  LABEL_DS_REVIEW_TITLE: Críticas
   LABEL_DS_REVIEW_DESCRIPTION: |
     Permite a los usuarios opinar de un juego.
   LABEL_DS_STORE_TITLE: Tienda
   LABEL_DS_STORE_DESCRIPTION: |
-    Permite a los competidores vender juegos en tu tienda digital.
-  LABEL_DS_ANALYTICS_TITLE: Analítica
+    Permite a otras compañias vender sus juegos en tu tienda digital.
+  LABEL_DS_ANALYTICS_TITLE: Analíticas
   LABEL_DS_ANALYTICS_DESCRIPTION: |
     Permite recoger los hábitos de los usuarios.
   LABEL_DS_INVENTORY_TITLE: Inventario
@@ -334,7 +334,7 @@ es:
     Permite a los usuarios poseer, intercambiar y revender artículos.
   LABEL_DS_WISHLIST_TITLE: Lista de deseados
   LABEL_DS_WISHLIST_DESCRIPTION: |
-    Permite a los usuarios incluir un juego en la lista de deseados.
+    Permite a los usuarios guardar un juego en la lista de deseados.
   LABEL_DS_ACHIEVEMENTS_TITLE: Logros
   LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
     Permite a los usuarios seguir su progreso en un juego.
@@ -377,7 +377,7 @@ es:
   LABEL_ENERGY: Energía
   LABEL_LOSE: Has perdido
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
-    Para crackear el juego, debes descompilar el código binario usando los botones de la parte inferior de la pantalla.
+    Para hackear el juego, debes descompilar el código binario usando los botones de la parte inferior de la pantalla.
   LABEL_CANNOT_OPEN_FILE: No se puede abrir el archivo
   LABEL_OPEN_FILE: Abrir archivo
   LABEL_KEEP_HINTS: Mantener consejos
@@ -416,14 +416,15 @@ es:
   LABEL_AMOUNT_DESK: Cantidad de escritorios
   LABEL_MORTGAGE_NOT_INTERESTED: No tienes suficientes propiedades para poder obtener una hipoteca
   LABEL_THANKYOU_PURCHASING: |
-    Saludos,
+    Hola,
     
-    Muestra tu apoyo comprando City Game Studio.
-    Sin tu apoyo no puedo seguir trabajando y mejorando City Game Studio.
+    Gracias por mostrar tu apoyo comprando City Game Studio.
+    Sin el no puedo seguir trabajando y mejorando este juego.
     
-    Así que si te gusta jugar a City Game Studio y te gustan los juegos independientes, por favor, muestra tu apoyo.
-    
-    Binogure
+    Tambien tenemos una comunidad en discord, la podrás encontrar en la página de la tienda.
+
+    Espero que te guste :D 
+    Binogure.
   LABEL_CREATE_POSTMORTEM: Hacer reporte del juego
   LABEL_VENDING_MACHINE: Máquina expendedora
   LABEL_GAME_SPEED: Velocidad del juego
@@ -454,7 +455,7 @@ es:
     Dado que [b]%s[/b] no ha tenido el éxito esperado, nos comprometemos a pagar la multa de [b]%s$[/b] tan pronto como sea posible.
     Esperamos que este inconveniente no perjudique una futura cooperación.
     
-    Respetuosamente,
+    Cordialmente,
     [b]%s[/b]  
   LABEL_CANT_PUBLISH_NEW_GAME: |
     No se puede publicar un juego nuevo todavía
@@ -467,8 +468,8 @@ es:
     Requiere %d empleados
     Requiere %d productor
   LABEL_STUDIO_NOT_BALANCED: |
-    Consulta el equipo de tu estudio. Parece que no está produciendo la misma cantidad de diseño, desarrollo y pulido.
-    Impactará en los juegos que crearás.
+    Consulta tu equipo de desarrollo. Parece que no están produciendo la misma cantidad de diseño, desarrollo y pulido.
+    Esto afectará negativamente en los juegos que crees en un futuro.
   LABEL_LAST_COMBO: "La última vez que hiciste la misma combinación tema/género"
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] carece de [b]%s[/b]. 
@@ -481,12 +482,12 @@ es:
   LABEL_WORKLOAD: Carga de trabajo
   LABEL_WORKLOAD_DISTRIBUTION: Distribución de la carga de trabajo
   LABEL_RELEASE_DATE: Fecha de lanzamiento
-  LABEL_MANUFACTURER: Fabricante
-  LABEL_EXPIRED: Vencido
+  LABEL_MANUFACTURER: Editor
+  LABEL_EXPIRED: Expirado
   LABEL_POINTRATIO_GOOD: |
     En [b]%s[/b] saben cómo gestionar [b]%s[/b]
   LABEL_POINTRATIO_BAD: |
-    [b]%s[/b] es su debilidad. Su equipo de producción no está suficientemente equilibrado.
+    [b]%s[/b] es su debilidad. Su equipo de desarrollo no está suficientemente equilibrado.
   LABEL_REVIEW_PLATFORM_GOOD: |
     [b]%s[/b] tiene un gran equipo, brilla por todos lados.
   LABEL_REVIEW_PLATFORM_BAD: |
@@ -496,10 +497,10 @@ es:
   LABEL_REVIEW_COMBO_GOOD: |
     [b]%s[/b] prueba nuevos combos y aciertan con la fórmula. [b]%s[/b] es un juego excelente. 
   LABEL_REVIEW_COMBO_BAD: |
-    Es sólo otro juego de [b]%s[/b]. [b]%s[/b] deben aprender a renovar.
+    Es sólo otro juego de [b]%s[/b]. [b]%s[/b] deben aprender a innovar.
   LABEL_CRACKED: Crackeado
   LABEL_SELECT_COMPANY_SPECIALIZATION: Género especializado
-  LABEL_DISCORD_COMMUNITY: Comunidad discord
+  LABEL_DISCORD_COMMUNITY: Comunidad de discord
   LABEL_LAST_MONTH: Durará %s meses
   LABEL_SUCCESS_RATE: Probabilidad de éxito
   LABEL_RISKS: Posibles riesgos
@@ -512,7 +513,7 @@ es:
     
     %s
     
-    Sinceramente,
+    Un saludo,
     Binogure
   LABEL_SALES_HITS_0: >
     Las ventas de [b]%s[/b] van bien, estimo que éstas mejorarán en un [b]%d%%[/b].
@@ -536,9 +537,9 @@ es:
     La convención durará 3 días, y estamos esperando aproximadamente una media de [b]%s[/b] visitantes.
     Ya puedes alquilar un stand para mostrar tus mejores creaciones. 
     
-    Por favor, tenga en cuenta que las plazas son limitadas.
+    Por favor, ten en cuenta que las plazas son limitadas.
     
-    Sinceramente,
+    Un saludo,
     Los organizadores de %s
   LABEL_REDCOUCH: Sofá rojo
   LABEL_DARKCOUCH: Sofá oscuro
@@ -591,7 +592,7 @@ es:
   LABEL_UPGRADE_COMPUTER: Actualizar ordenadores
   LABEL_UPGRADE_SERVER: Actualizar servidores
   LABEL_COMPANY_WIDE: En toda la empresa
-  LABEL_STUDIO_WIDE: Este estudio
+  LABEL_STUDIO_WIDE: En este estudio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Debes tener al menos 5 personas para poder solicitar una oferta de editor.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
@@ -599,10 +600,11 @@ es:
     Para [b]%s[/b] (%s),
     
     Estamos especialmente decepcionados de que haya cancelado el desarrollo de [b]%s[/b].
-    De acuerdo con el contrato debidamente firmado, página 453, párrafo 72D, epígrafe W, hoja rosa, usted debe pagar la multa de [b]%s$[/b] y reenbolsarnos el importe lo antes posible.
+    Según el acuerdo que pone en el contrato en la página 12953, párrafo 99H, epígrafe W-z22, hoja rosa, 
+    usted debe pagar la multa de [b]%s$[/b] y reenbolsarnos el importe lo antes posible.
     
-    Respetuosamente,
-    El honesto bufete de abogados [b]%s[/b]
+    Cordialmente,
+    Tu bufete de abogados [b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Contrato finalizado"
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
@@ -610,18 +612,18 @@ es:
     [b]%s[/b] no ha tenido el éxito esperado y debemos aplicar el contrato firmado al pie de la letra.
     Según la página 5863, párrafo 99Z, epígrafe K, hoja marrón, usted debe pagar una penalización de [b]%s$[/b] y reembolsarnos el importe lo antes posible.
     
-    Respetuosamente,
+    Cordialmente,
     El departamento de malas ventas [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Seleccione los videojuegos a mostrar
   LABEL_ROYALTIES: Regalías
   LABEL_PENALITY: Penalización
-  LABEL_NOTE_MIN: Puntuación min.
+  LABEL_NOTE_MIN: Puntuación mínima.
   LABEL_MARKETING_GLOBAL_ITEM: Marketing general
   LABEL_MARKETING_MAGAZINE_ITEM: Revista
   LABEL_MARKETING_TV_ITEM: Televisión
   LABEL_MARKETING_WEBSITE_ITEM: Sitio web
   LABEL_MARKETING_ONLINEAD_ITEM: Publicidad en línea
-  LABEL_MARKETING_BILLBOARD_ITEM: Panel publicitario
+  LABEL_MARKETING_BILLBOARD_ITEM: Cartel publicitario
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Redes sociales
   LABEL_MARKETING_MAILINGLIST_ITEM: Boletín de noticias
   LABEL_SELF_PUBLISH: Autopublicar
@@ -629,14 +631,15 @@ es:
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Hola,
     
-    Soy [b]%s[/b], me he encontrado con una gran oferta de trabajo en vuestro portal de empleo que creo podría encajar perfectamente.
-    Después de leer la descripción del puesto y requisitos y, encajando con mis propias experiencias, sé que puedo ser un gran valor añadido a su organización.
+    Soy [b]%s[/b], me he encontrado con una gran oferta de trabajo en vuestro portal de empleo y creo podría encajar perfectamente.
+    Después de leer la descripción del puesto y los requisitos, sé que puedo ser un gran valor añadido a vuestra organización.
     
-    Recientemente me he graduado con un título en ingeniería informática en la Universiy of Mars.
+    Recientemente me he graduado con un título en ingeniería informática en la UIN (Universidad Interplanetaria de Neptuno).
     Ahora me gustaría utilizar mis habilidades en una empresa como [b]%s[/b]. 
     Como ingeniero, puedo implementar conceptos de diseño innovadores e ingeniosos productos para sus clientes.
     
-    Me gustaría hablar con usted en más detalle al respecto de esta gran oportunidad en su empresa. Me sería de gran honor recibir una respuesta de usted  respecto a mi candidatura.
+    Me gustaría hablar con usted en más detalle al respecto de esta gran oportunidad en su empresa. Me sería de gran honor recibir una respuesta de usted  <
+    respecto a mi propuesta.
     
     Cordialmente,
     [b]%s[/b]
@@ -651,7 +654,7 @@ es:
     
     Gracias de nuevo por su apoyo y motivación.
     
-    Sinceramente
+    Cordialmente
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Renuncia
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
@@ -665,7 +668,7 @@ es:
   LABEL_SERVER_MONITORING_REPORT: Estado de los servidores
   LABEL_ONLINE_USAGE: Jugadores en línea
   LABEL_ONLINE_CAPACITY: Capacidad total
-  LABEL_ONLINE_CAPACITY_TOOLTIP: Cantidad de jugadores concurrentes en línea
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Cantidad de jugadores en línea máximos
   LABEL_SERVER: Servidor
   LABEL_CAMPAIGN_NO_COST: Hablar con la prensa
   LABEL_CAMPAIGN_DEMO: Publicar una demo
@@ -714,14 +717,14 @@ es:
   LABEL_BUILDING_LEASE: Arrendamiento
   LABEL_TYPE_BUILDING: Tipo
   LABEL_CHARACTERS: Personajes
-  LABEL_COMPANY_NAME: Nombre de la empresa
+  LABEL_COMPANY_NAME: Nombre de la compañia
   LABEL_CUTSCENES: Cinemáticas
   LABEL_CURRENCY: Moneda
   LABEL_DESIGN: Diseño
   LABEL_DEVELOPMENT: Desarrollo
   LABEL_DIFFICULTY: Dificultad
   LABEL_EVENT_TYPE: Tipo de evento
-  LABEL_UNIT_SOLD: Unidad vendida
+  LABEL_UNIT_SOLD: Unidades vendidas
   LABEL_FANBASE: Aficionados
   LABEL_FULLSCREEN: Pantalla completa
   LABEL_GAME_GENRE: Género
@@ -781,12 +784,12 @@ es:
   LABEL_THEME_COMEDY: Comedia
   LABEL_THEME_DRAGON: Dragón
   LABEL_THEME_EROTIC: Erótico
-  LABEL_THEME_SPY: Espía
+  LABEL_THEME_SPY: Espías
   LABEL_THEME_FANTASY: Fantasía
-  LABEL_THEME_GHOST: Fantasma
+  LABEL_THEME_GHOST: Fantasmas
   LABEL_THEME_HISTORY: Historia
   LABEL_THEME_HORROR: Terror
-  LABEL_THEME_MEDICAL: Médico
+  LABEL_THEME_MEDICAL: Medicina
   LABEL_THEME_OCEAN: Océano
   LABEL_THEME_ARABIAN_NIGHTS: Noches árabes
   LABEL_THEME_MYTHOLOGY: Mitología
@@ -794,14 +797,14 @@ es:
   LABEL_THEME_PARK: Parque
   LABEL_THEME_PIRATES: Piratas
   LABEL_THEME_SCIENCE_FICTION: Ciencia ficción
-  LABEL_THEME_SUPER_HEROS: Super heroe
-  LABEL_THEME_VAMPIRE: Vampiro
+  LABEL_THEME_SUPER_HEROS: Super heroes
+  LABEL_THEME_VAMPIRE: Vampiros
   LABEL_THEME_TIME_TRAVEL: Viaje en el tiempo
   LABEL_THEME_WESTERN: Occidental
-  LABEL_THEME_ZOMBIE: Zombi
+  LABEL_THEME_ZOMBIE: Zombies
   LABEL_THEME_MEDIEVAL: Medieval
   LABEL_THEME_GAMEDEV: Desarrollo de videojuegos
-  LABEL_THEME_HACK: Hack
+  LABEL_THEME_HACK: Hackeo
   LABEL_THEME_HUNT: Caza
   LABEL_THEME_ANIME: Anime
   LABEL_THEME_MILITARY: Militar
@@ -809,9 +812,9 @@ es:
   LABEL_THEME_PET: Mascota
   LABEL_THEME_FOOTBALL: Fútbol americano
   LABEL_THEME_SOCCER: Fútbol
-  LABEL_THEME_CARTOON: Dibujo animado
-  LABEL_THEME_COOK: Cocinero
-  LABEL_THEME_URBAN: Urbano
+  LABEL_THEME_CARTOON: Dibujos animados
+  LABEL_THEME_COOK: Cocina
+  LABEL_THEME_URBAN: Ciudades
   LABEL_THEME_KAIJU: Kaiju
   LABEL_THEME_EVOLUTION: Evolución
   LABEL_THEME_CYBERPUNK: Cyberpunk
@@ -843,7 +846,7 @@ es:
   LABEL_TYPE_EROGE: Eroge
   LABEL_TYPE_OTOME: Otome
   LABEL_TYPE_VISUAL_NOVEL: Novela visual
-  LABEL_TYPE_MYSTERY_LIKE: Mistery-like
+  LABEL_TYPE_MYSTERY_LIKE: Misterio
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: RPG de acción
   LABEL_TYPE_DUNGEON_CRAWLER: Mazmorras
@@ -857,7 +860,7 @@ es:
   LABEL_TYPE_PUZZLE: Rompecabezas
   LABEL_TYPE_SIMULATION: Simulación
   LABEL_TYPE_ANIMALS: Animales
-  LABEL_TYPE_GOD_GAME: Ser un Dios
+  LABEL_TYPE_GOD_GAME: Ser Dios
   LABEL_TYPE_FARMING: Agricultura
   LABEL_TYPE_LIVING_ORGANISM: Organismo vivo
   LABEL_TYPE_SPORT: Deporte
@@ -921,7 +924,7 @@ es:
   LABEL_WASTEBASKET: Papelera
   LABEL_ASSIGN_EMPLOYEE: Personal
   LABEL_NEW_GAME: Nueva partida
-  LABEL_MODDING: Modding
+  LABEL_MODDING: Modificaciones
   LABEL_ARTWORK: Ilustraciones
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Gracias a tu reciente experiencia, has desbloqueado un nuevo género [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Tema desbloqueado: %s"
@@ -1012,7 +1015,7 @@ es:
   LABEL_CATCHPHRASE_11_4: Si la perfección fuera un juego
   LABEL_CATCHPHRASE_11_5: La vigésima maravilla del mundo
   LABEL_CREATE_SEQUEL: Crear una secuela
-  LABEL_NEW_IP: Nueva IP
+  LABEL_NEW_IP: Nuevo juego
   LABEL_POSTMORTEM: Informe
   LABEL_EMPTY_STUDIO: ¡Advertencia, este estudio no contiene ningún escritorio con un ordenador!
   LABEL_MATCH_EXCELLENT: excelente
@@ -1111,7 +1114,7 @@ es:
   LABEL_BUILDING_STUDIO: Estudio
   LABEL_BUILDING_BIGSTUDIO: Estudio
   LABEL_BUILDING_BUILDING: Residencia
-  LABEL_BUILDING_GRASS: Pasto
+  LABEL_BUILDING_GRASS: Camp
   LABEL_BUILDING_SQUARE: Cuadrado
   LABEL_BUILDING_CAFE: Café
   LABEL_BUILDING_RESTAURANT: Restaurante
@@ -1169,7 +1172,7 @@ es:
   LABEL_NO_STUDIO_FOUND: No se encontró ningún estudio
   LABEL_PRODUCTIVITY_BONUS: Bonificación de productividad
   LABEL_SKILLS_AVERAGE: Habilidades (promedio)
-  LABEL_VSYNC: Sincronización vertical
+  LABEL_VSYNC: Vsync / Sincronización Vertical
   LABEL_BORDERLESS_WINDOW: Ventana sin bordes
   LABEL_GAME_UPDATE_FEATURE: >
     Publica actualizaciones y crea nuevo contenido para tus juegos. ¿Actualizaciones gratuitas o de pago? Depende de ti.
