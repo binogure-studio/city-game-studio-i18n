@@ -103,7 +103,7 @@ es:
   LABEL_NUMBER_OF_RETURNING_PLAYERS: Número de jugadores que vuelven
   LABEL_NUMBER_OF_PLAYER_LOST: Número de jugadores perdidos
   LABEL_FEATURE_REQUIRED: >
-    Esta característica requiere las siguientes características del motor gráfico:
+    Esta característica requiere las siguientes características del motor de juego:
   LABEL_ESTIMATED_INCOME: Ingresos estimados
   LABEL_ADS_WARNING: >
     Ten cuidado al usar anuncios.
@@ -128,7 +128,7 @@ es:
   LABEL_AD_POPUP: Popup de anuncios
   LABEL_AD_BANNER: Banner de anuncios
   LABEL_NUMBER_OF_PLAYER: Número de jugadores
-  LABEL_GAME_ENGINE_LIST: Lista de motores gráficos
+  LABEL_GAME_ENGINE_LIST: Lista de motores de juego
   LABEL_THEME_LIST: Lista de temas
   LABEL_GAME_ANNOUNCEMENT: Anuncios de juegos
   LABEL_CONVENTION_MESSAGE: Convenciones
@@ -167,18 +167,18 @@ es:
     Deberían haber aprovechado las capacidades de la consola
   LABEL_REVIEW_GAMEENGINE_GOOD: >
     Han aprovechado al máximo las capacidades de la consola
-  LABEL_GAME_ENGINE: Motor gráfico
+  LABEL_GAME_ENGINE: Motor de juego
   LABEL_FEATURE_LIST: Lista de características
   LABEL_DESIGN_CAPACITY: Capacidad para producir puntos de diseño
   LABEL_DEVELOPMENT_CAPACITY: Capacidad para producir puntos de desarrollo
   LABEL_POLISH_CAPACITY: Capacidad para producir puntos de pulido
   LABEL_GAMEENGINE_MAKEFOSS: Hazlo gratis
   LABEL_GAMEENGINE_PENALITY: >
-    Debido al código heredado, actualizar un motor gráfico cuesta un poco más.
-  LABEL_GAMEENGINE_READY: Motor gráfico terminado
-  LABEL_GAMEENGINE_UPDATE: Actualizar este motor gráfico
+    Debido al código heredado, actualizar un motor de juego cuesta un poco más.
+  LABEL_GAMEENGINE_READY: Motor de juego terminado
+  LABEL_GAMEENGINE_UPDATE: Actualizar este motor de juego
   LABEL_GAMEENGINE_LIST: >
-    Lista de motores gráficos disponibles en el mercado
+    Lista de motores de juego disponibles en el mercado
   LABEL_FOSS: Software Libre y de Código Abierto
   LABEL_PROPRIETARY: Propietario
   LABEL_OWNER: Interno
@@ -191,7 +191,7 @@ es:
     Hola,
 
     Este correo electrónico confirma que has recibido una donación de [b]%s$[/b]
-    para el motor gráfico [b]%s[/b]
+    para el motor de juego [b]%s[/b]
 
     Saludos,
     BinoPal
@@ -204,12 +204,12 @@ es:
     [b]%s[/b]
 
     ¡Es gratis!
-  LABEL_GAME_ENGINE_TITLE: Nuevas características disponibles para el motor gráfico
+  LABEL_GAME_ENGINE_TITLE: Nuevas características disponibles para el motor de juego
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Una nueva característica está lista para ser añadida a su motor de juego:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
-    Ahora puedes crear tus propios motores gráficos.
-    Los motores gráficos aumentan la cantidad de puntos generados por tus trabajadores. 
+    Ahora puedes crear tus propios motores de juego.
+    Los motores de juego aumentan la cantidad de puntos generados por tus trabajadores. 
   LABEL_GAME_ENGINE_ADS: Módulo de anuncios
   LABEL_GAME_ENGINE_IAP: Módulo de microtransacciones
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "Gráficos 2D Monocromo"
@@ -1513,7 +1513,7 @@ es:
   DIGITAL_STORE: Tienda digital
   POSTMORTEM: Reporte del juego
   NEW_GAME: Nuevo juego
-  TARGETTED_AUDIENCE: ovjetivo de público
+  TARGETTED_AUDIENCE: Objetivo de público
   STORY: Historia
   USERINTERFACE: Interfaz de usuario
   NETWORK: Red
