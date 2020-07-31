@@ -76,6 +76,22 @@ tr:
   BUTTON_VIEW_SEQUEL: Devam filmi görüntüle
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Sizin için ne yapabilirim?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Zamanımı boşa harcama evlat!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Oyunların kilidini açmak için müzakere etmeniz
+    gerektiğinden bu platformda oyun yayınlayamazsınız.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    %s ile özel bir sözleşmeniz olduğu için
+    bu platformda oyun yayınlayamazsınız
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    %s ile özel bir sözleşmeniz olduğu için henüz yeni sözleşme imzalayamazsınız.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    %s ile münhasır ayrılık süresi: %d ay
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Müzakere etmek için %s'yu aramak
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Merhaba
 
@@ -94,9 +110,7 @@ tr:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Bunun yerine bunun hakkında ne diyorsun?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    [b]%s[/b] lisansı için [b]%d$[/b] bir çekin yanı sıra [b]%d[/b] ay boyunca
-    [b]%s[/b] için özel bir sözleşme.
-
+    [b]%s[/b] lisansı için [b]%d$[/b] bir çekin yanı sıra [b]%d[/b] ay boyunca [b]%s[/b] için özel bir sözleşme.
     (Diğer üreticilerin konsollarına oyun yayınlayamayacaksınız)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     [b]%s[/b] lisansı için [b]%d$[/b] bir çek.

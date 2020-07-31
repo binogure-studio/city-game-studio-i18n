@@ -76,6 +76,22 @@ pt:
   BUTTON_VIEW_SEQUEL: Ver sequência
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    O que é que posso fazer por si?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Não me faças perder tempo, rapaz!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Não pode publicar jogos nesta plataforma porque
+    tem de negociar para o desbloquear.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    Não pode publicar jogos nesta plataforma
+    porque tem um contrato exclusivo com a %s
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    Ainda não pode assinar novos contratos porque tem um contrato exclusivo com a %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Tempo restante de exclusividade com %s: %d meses
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Para chamar o %s para negociar
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Olá
 
@@ -94,9 +110,7 @@ pt:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Que tal isto em vez disso?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Um cheque de [b]%d$[/b] para uma licença [b]%s[/b] e um contrato exclusivo
-    de [b]%d[/b] meses para [b]%s[/b].
-
+    Um cheque de [b]%d$[/b] para uma licença [b]%s[/b] e um contrato exclusivo de [b]%d[/b] meses para [b]%s[/b].
     (Não será possível publicar jogos em consolas de outros fabricantes).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Um cheque de [b]%d$[/b] para a licença [b]%s[/b].

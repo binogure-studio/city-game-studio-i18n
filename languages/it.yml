@@ -76,6 +76,22 @@ it:
   BUTTON_VIEW_SEQUEL: Vedi il seguito
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Cosa posso fare per voi?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Non farmi perdere tempo, ragazzo!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Non puoi pubblicare giochi su questa piattaforma
+    perché devi negoziare per sbloccarla.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    Non puoi pubblicare giochi su questa piattaforma perché
+    hai un contratto esclusivo con %s
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    Non potete ancora firmare nuovi contratti perché avete un contratto di esclusiva con %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Tempo rimanente di esclusività con %s: %d mesi
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Chiamare %s per negoziare
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Ciao
 
@@ -94,9 +110,7 @@ it:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Che ne dite invece di questo?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Un assegno di [b]%d$[/b] per una licenza [b]%s[/b] e un contratto esclusivo
-    di [b]%d[/b] mesi per [b]%s[/b].
-
+    Un assegno di [b]%d$[/b] per una licenza [b]%s[/b] e un contratto esclusivo di [b]%d[/b] mesi per [b]%s[/b].
     (Non sarà possibile pubblicare giochi su console di altri produttori).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Un assegno di [b]%d$[/b] per la licenza [b]%s[/b].

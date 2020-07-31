@@ -76,6 +76,23 @@ de:
   BUTTON_VIEW_SEQUEL: Fortsetzung ansehen
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Was kann ich für Sie tun?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Verschwenden Sie nicht meine Zeit, Kleine!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Sie können keine Spiele auf dieser Plattform veröffentlichen,
+    weil Sie verhandeln müssen, um sie freizuschalten.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    Sie können keine Spiele auf dieser Plattform veröffentlichen,
+    da Sie einen Exklusivvertrag mit %s haben.
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    Sie können noch keine neuen Verträge unterzeichnen, da Sie einen
+    Exklusivvertrag mit %s haben.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Verbleibende Zeit der Exklusivität bei %s: %d Monate
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    %s zur Verhandlung aufzurufen
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Hallo
 
@@ -94,9 +111,7 @@ de:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Wie wäre es stattdessen damit?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Ein Scheck über [b]%d$[/b] für eine [b]%s[/b]-Lizenz und einen [b]%d[/b]-monatigen
-    Exklusivvertrag für [b]%s[/b].
-
+    Ein Scheck über [b]%d$[/b] für eine [b]%s[/b]-Lizenz und einen [b]%d[/b]-monatigen Exklusivvertrag für [b]%s[/b].
     (Es ist nicht möglich, Spiele auf Konsolen anderer Hersteller zu veröffentlichen).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Ein Scheck über [b]%d$[/b] für die [b]%s[/b]-Lizenz.

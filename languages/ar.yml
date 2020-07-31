@@ -75,6 +75,20 @@ ar:
   BUTTON_VIEW_SEQUEL: عرض التكملة
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    ما الذي يمكنني أن أفعله من أجلك؟
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    لا اضيع وقتي طفل!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    لا يمكنك نشر الألعاب على هذا النظام الأساسي لأنه يجب عليك التفاوض لفتحه.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    لا يمكنك نشر الألعاب على هذه المنصة لأن لديك عقد حصري مع %s
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    لا يمكنك بعد توقيع عقود جديدة لأن لديك عقد حصري مع %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    الوقت المتبقي للحصرية مع %s: %d شهور
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    للاتصال بـ %s للتفاوض
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     صباح الخير
 
@@ -93,7 +107,6 @@ ar:
     ماذا تقول عن هذا بدلا من ذلك؟
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
     شيك بمبلغ [b]%d دولار[/b] أمريكي للحصول على ترخيص [b]%s[/b] بالإضافة إلى عقد حصري لـ [b]%s[/b] لمدة b]%d[/b] أشهر.
-
     (لن تتمكن من نشر الألعاب لوحدات التحكم من الشركات المصنعة الأخرى)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     شيك بمبلغ [b]%d دولار[/b] لترخيص [b]%s[/b].

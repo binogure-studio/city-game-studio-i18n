@@ -76,6 +76,20 @@ zh:
   BUTTON_VIEW_SEQUEL: 查看续集
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    有什么可以帮你的？
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    别浪费我的时间，小子！
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    你不能在这个平台上发布游戏，因为你必须协商解锁。
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    您不能在这个平台上发布游戏，因为您与%s有独家合同。
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    你还不能签署新的合同，因为你和%s有独家合同。
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    剩余的%s独家经营时间：%d个月。
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    打电话给%s进行谈判。
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     你好
 
@@ -92,8 +106,8 @@ zh:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     这个怎么样？
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    一张[b]%d美元[/b]的支票，用于购买[b]%s[/b]许可证和[b]%s[/b]的[b]%d[/b]个月独家合同。
-    您将无法在其他厂商的游戏机上发布游戏）。
+    [b]%d美元[/b]的[b]%s[/b]许可证支票和[b]%d[/b]个月的[b]%s[/b]独家合同。
+    (您将无法在其他厂商的游戏机上发布游戏)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     [b]%d美元[/b]的支票，用于购买[b]%s[/b]许可证。
   LABEL_PLATFORM_MANUFACTURER_GIVEUP: |

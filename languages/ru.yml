@@ -76,6 +76,22 @@ ru:
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Чем могу помочь?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Не трать мое время, малыш!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Вы не можете публиковать игры на этой платформе,
+    потому что вы должны вести переговоры, чтобы разблокировать его.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    Вы не можете публиковать игры на этой платформе,
+    потому что у вас есть эксклюзивный контракт с %s.
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    Вы пока не можете подписать новые контракты, потому что у вас эксклюзивный контракт с %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Оставшееся время эксклюзивности с %s: %d месяцев
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Позвонить в %s для проведения переговоров.
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Здравствуйте
 
@@ -93,9 +109,7 @@ ru:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Как насчет этого вместо этого?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Чек на [b]%d$[/b] за лицензию [b]%s[/b] и эксклюзивный контракт на [b]%d[/b]
-    месяцев для [b]%s[/b].
-
+    Чек на [b]%d$[/b] за лицензию [b]%s[/b] и эксклюзивный контракт на [b]%d[/b] месяцев для [b]%s[/b].
     (Вы не сможете публиковать игры на приставках других производителей).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Чек на [b]%d$[/b] за лицензию [b]%s[/b].

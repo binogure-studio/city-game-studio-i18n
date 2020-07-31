@@ -76,6 +76,22 @@ nl:
   BUTTON_VIEW_SEQUEL: Vervolg bekijken
 
   # Labels, descriptive
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Wat kan ik voor u doen?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Verspil mijn tijd niet kiddo!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Je kunt geen spellen op dit platform publiceren omdat
+    je moet onderhandelen om het te ontgrendelen.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    U kunt geen spellen op dit platform publiceren omdat
+    u een exclusief contract met %s heeft.
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    U kunt nog geen nieuwe contracten tekenen omdat u een exclusief contract heeft met %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Resterende tijd van exclusiviteit met %s: %d maanden
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Om %s op te roepen om te onderhandelen
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Hallo
 
@@ -94,11 +110,8 @@ nl:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Wat dacht je hiervan?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Een cheque voor [b]%d$[/b] voor een [b]%s[/b]-licentie en een [b]%d[/b] maanden
-    durend exclusief contract voor [b]%s[/b].
-
-    (U zult niet in staat zijn om spellen te publiceren op consoles van andere
-    fabrikanten).
+    Een cheque voor [b]%d$[/b] voor een [b]%s[/b]-licentie en een [b]%d[/b] maanden durend exclusief contract voor [b]%s[/b].
+    (U zult niet in staat zijn om spellen te publiceren op consoles van andere fabrikanten).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Een cheque voor [b]%d$[/b] voor de [b]%s[/b]-licentie.
   LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
