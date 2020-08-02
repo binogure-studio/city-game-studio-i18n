@@ -249,13 +249,13 @@ de:
   LABEL_GAMEENGINE_UPDATE: Diese Spiel-Engine aktualisieren
   LABEL_GAMEENGINE_LIST: >
     Liste der auf dem Markt erhältlichen Spiele-Engines
-  LABEL_FOSS: Kostenlose Open-Source Software
-  LABEL_PROPRIETARY: Nutzungslizenzen
+  LABEL_FOSS: Freie Open-Source Software
+  LABEL_PROPRIETARY: Proprietäre Software
   LABEL_OWNER: Nur Intern
-  LABEL_PLATFORM_GPU_CAPABILITY: Grafikfähigkeiten
-  LABEL_PLATFORM_CPU_CAPABILITY: CPU-Fähigkeit
-  LABEL_PLATFORM_GPU_COSTS: Grafikkosten
-  LABEL_PLATFORM_CPU_COSTS: Kosten der CPU
+  LABEL_PLATFORM_GPU_CAPABILITY: Grafikleistung
+  LABEL_PLATFORM_CPU_CAPABILITY: Prozessorleistung
+  LABEL_PLATFORM_GPU_COSTS: Grafikbedarf
+  LABEL_PLATFORM_CPU_COSTS: Prozessorbedarf
   LABEL_GAMEENGINE_DONATION_TITLE: Sie haben eine Spende erhalten
   LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
     Hallo,
@@ -497,7 +497,7 @@ de:
     Wenn du also Spaß am Spielen von City Game Studio haben und Indie-Spiele magst, unterstütz mich gern weiterhin.
 
     Binogure
-  LABEL_CREATE_POSTMORTEM: Mache einen Spiel-Bericht
+  LABEL_CREATE_POSTMORTEM: Erstelle einen Spiel-Bericht
   LABEL_VENDING_MACHINE: Verkaufsautomat
   LABEL_GAME_SPEED: Spielgeschwindigkeit
   LABEL_SPEED_NORMAL: Normal
@@ -947,7 +947,7 @@ de:
   LABEL_TYPE_CLICKER_GAME: Clicker
   LABEL_TARGETTED_AUDIENCE_YOUNG: Jung
   LABEL_TARGETTED_AUDIENCE_ALL: Alle
-  LABEL_TARGETTED_AUDIENCE_MATURE: Alt
+  LABEL_TARGETTED_AUDIENCE_MATURE: Erwachsene
   LABEL_GAME_SIZE_INDIE: Indie
   LABEL_GAME_SIZE_NORMAL: Normal
   LABEL_GAME_SIZE_BIG: Groß
@@ -974,7 +974,7 @@ de:
     [b]%s[/b] kündigt das Ende der allseits bekannten Platform [b]%s[/b] an.
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "Du hast die Lizenz für [b]%s[/b] freigeschaltet. Diese kostete dich [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Plattform veröffentlicht
-  LABEL_PLATFORM_DISCONTINUED_TITLE: Eingestellte Plattform
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Plattform eingestellt
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Kommende Plattform
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Plattform wird nicht weiter produziert
   LABEL_PLATFORM_UNLOCKED_TITLE: Plattform freigeschaltet
@@ -1114,11 +1114,11 @@ de:
     Das HTA Genre ist entstanden!
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like wurde erfunden
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
-    3 Jungs in einer Garage haben ein neues Spiel entwickelt.
+    Drei Jungs in einer Garage haben ein neues Spiel entwickelt.
     Es ist so berühmt, dass es ein neues Spielgenre geschaffen hat! Es heißt 'Gauner'!
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Genre Gauner wurde erfunden
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
-    3 amerikanische Designer haben gerade einen Mod für ein berühmtes Spiel entwickelt.
+    Drei amerikanische Designer haben gerade einen Mod für ein berühmtes Spiel entwickelt.
     Das Moba-Genre wurde geboren!
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Moba wurde erfunden
   LABEL_BROKEN_COFFEEMAKER_TITLE: Kaputte Kaffeemaschine
@@ -1133,7 +1133,7 @@ de:
   LABEL_TARGETTED_AUDIENCE_FEATURE: >
     Experten haben herausgefunden, dass Spiele ein bestimmtes Publikum ansprechen können.
     Sie haben eine Studie über die verschiedenen Zielgruppen veröffentlicht: 
-    Jung, Alle und Alt
+    Jung, Alle und Erwachsene
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Ein neuer Computer-Virus wurde entdeckt!
     Es greift nur die Videospiel-Unternehmen an!
