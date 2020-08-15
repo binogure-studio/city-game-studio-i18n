@@ -76,6 +76,20 @@ ru:
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
 
   # Labels, descriptive
+  LABEL_CLOUDS: Показать облака на карте
+  LABEL_AUTOSAVE: Автоматическое сохранение
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Конкурент использует ваш игровой движок
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] выпустила игру, которая использует ваш игровой движок ([b]%s[/b]).
+
+    Благодаря [b]%s[/b] вы получите [b]%d%%[/b] гонорара.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Индивидуальное предложение
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Денежное предложение: [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Эксклюзивная продолжительность: [b]%s[/b] месяцев
   LABEL_GAMEENGINE_DELETE_TITLE: Удалить игровой движок?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     Вы собираетесь удалить [b]%s[/b].
@@ -115,7 +129,7 @@ ru:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Как насчет этого вместо этого?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Чек на [b]%s$[/b] за лицензию [b]%s[/b] и эксклюзивный контракт на [b]%d[/b] месяцев для [b]%s[/b].
+    Чек на [b]%s$[/b] за лицензию [b]%s[/b] и эксклюзивный контракт на [b]%s[/b] месяцев для [b]%s[/b].
     (Вы не сможете публиковать игры на приставках других производителей).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Чек на [b]%s$[/b] за лицензию [b]%s[/b].
@@ -1526,7 +1540,8 @@ ru:
   TOOLTIP_STEAM_MODS: |
     Мастерская Steam
   TOOLTIP_HUMANRESOURCE: |
-    Назначьте менеджера по работе с персоналом для управления графиками работы ваших сотрудников.
+    Назначьте менеджера по персоналу для управления графиками
+    работы сотрудников и повышения заработной платы
   TOOLTIP_GAME_OF_THE_YEAR: |
     Каждый год выдвигается новая игра Game of the Year
   TOOLTIP_DESK_REPLACE: |

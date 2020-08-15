@@ -76,6 +76,20 @@ it:
   BUTTON_VIEW_SEQUEL: Vedi il seguito
 
   # Labels, descriptive
+  LABEL_CLOUDS: Mostra le nuvole sulla mappa
+  LABEL_AUTOSAVE: Risparmio automatico
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Un concorrente sta usando il vostro motore di gioco
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] ha rilasciato un gioco che utilizza il vostro motore di gioco ([b]%s[/b]).
+
+    Grazie a [b]%s[/b], otterrete il [b]%d%%[/b] di royalties.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Personalizza offerta
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Offerta di denaro: [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Durata dell'esclusiva: [b]%s[/b] mesi
   LABEL_GAMEENGINE_DELETE_TITLE: Eliminare il motore di gioco?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     Stai per rimuovere [b]%s[/b].
@@ -116,7 +130,7 @@ it:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Che ne dite invece di questo?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Un assegno di [b]%s$[/b] per una licenza [b]%s[/b] e un contratto esclusivo di [b]%d[/b] mesi per [b]%s[/b].
+    Un assegno di [b]%s$[/b] per una licenza [b]%s[/b] e un contratto esclusivo di [b]%s[/b] mesi per [b]%s[/b].
     (Non sarà possibile pubblicare giochi su console di altri produttori).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Un assegno di [b]%s$[/b] per la licenza [b]%s[/b].
@@ -1485,8 +1499,8 @@ it:
   TOOLTIP_STEAM_MODS: |
     Steam workshop
   TOOLTIP_HUMANRESOURCE: |
-    Atribuir um gerente de recursos humanos para administrar os horários
-    dos empregados.
+    Assegnate un responsabile delle risorse umane per gestire gli
+    orari dei vostri dipendenti e gli aumenti di stipendio
   TOOLTIP_GAME_OF_THE_YEAR: |
     Ogni anno viene promosso Game of the Year
   TOOLTIP_DESK_REPLACE: |

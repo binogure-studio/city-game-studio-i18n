@@ -75,6 +75,20 @@ ar:
   BUTTON_VIEW_SEQUEL: عرض التكملة
 
   # Labels, descriptive
+  LABEL_CLOUDS: إظهار السحب على الخريطة
+  LABEL_AUTOSAVE: الحفظ التلقائي
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    يستخدم أحد المنافسين محرك لعبتك
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    أصدرت [b]%s[/b] لعبة تستخدم محرك لعبتك ([b]%s[/b]).
+
+    بفضل [b]%s[/b] ، ستحصل على [b]%d%%[/b] من الإتاوات.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    تخصيص العرض
+  LABEL_PLATFORM_MONEY_OFFER: |
+    عرض النقود: [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    مدة التفرد: [b]%s[/b] شهور
   LABEL_GAMEENGINE_DELETE_TITLE: هل تريد حذف محرك اللعبة؟
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     أنت على وشك إزالة [b]%s[/b].
@@ -112,7 +126,7 @@ ar:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     ماذا تقول عن هذا بدلا من ذلك؟
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    شيك بمبلغ [b]%s دولار[/b] أمريكي للحصول على ترخيص [b]%s[/b] بالإضافة إلى عقد حصري لـ [b]%s[/b] لمدة b]%d[/b] أشهر.
+    شيك بمبلغ [b]%s دولار[/b] أمريكي للحصول على ترخيص [b]%s[/b] بالإضافة إلى عقد حصري لـ [b]%s[/b] لمدة b]%s[/b] أشهر.
     (لن تتمكن من نشر الألعاب لوحدات التحكم من الشركات المصنعة الأخرى)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     شيك بمبلغ [b]%s دولار[/b] لترخيص [b]%s[/b].
@@ -1509,7 +1523,7 @@ ar:
   TOOLTIP_STEAM_MODS: |
     ورشة البخار
   TOOLTIP_HUMANRESOURCE: |
-    عين مدير موارد بشرية لإدارة جداول موظفيك.
+    قم بتعيين مدير موارد بشرية لإدارة جداول الموظفين وزيادة الرواتب
   TOOLTIP_GAME_OF_THE_YEAR: |
     كل عام ، يتم الترويج لعبة جديدة لعبة العام
   TOOLTIP_DESK_REPLACE: |

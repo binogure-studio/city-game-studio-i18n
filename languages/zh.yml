@@ -76,6 +76,20 @@ zh:
   BUTTON_VIEW_SEQUEL: 查看续集
 
   # Labels, descriptive
+  LABEL_CLOUDS: 在地图上显示云层
+  LABEL_AUTOSAVE: 自动保存
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    竞争对手正在使用你的游戏引擎
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b]发布了一款使用你的游戏引擎（[b]%s[/b]）的游戏。
+
+    感谢[b]%s[/b]，你会得到[b]%d%%[/b]的版税。
+  LABEL_PLATFORM_SELECT_OFFER: |
+    自定义报价
+  LABEL_PLATFORM_MONEY_OFFER: |
+    钱的报价。[b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    专属期： [b]%s[/b]个月
   LABEL_GAMEENGINE_DELETE_TITLE: 删除游戏引擎？
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     您即将删除[b]%s[/b]。
@@ -112,7 +126,7 @@ zh:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     这个怎么样？
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    [b]%s美元[/b]的[b]%s[/b]许可证支票和[b]%d[/b]个月的[b]%s[/b]独家合同。
+    [b]%s美元[/b]的[b]%s[/b]许可证支票和[b]%s[/b]个月的[b]%s[/b]独家合同。
     (您将无法在其他厂商的游戏机上发布游戏)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     [b]%s美元[/b]的支票，用于购买[b]%s[/b]许可证。
@@ -1156,7 +1170,7 @@ zh:
   LABEL_WOODDESK: 木桌子
   LABEL_WOODLARGEDESK: 大型木桌子
   LABEL_WOODTABLEDESK: 木桌子
-  LABEL_WATERTANK: 喷泉
+  LABEL_WATERTANK: 饮水机
   LABEL_WHITEBOARD: 白板
   LABEL_WOODBOOKSHELF: 木书架
   LABEL_METALBOOKSHELF: 金属书架
@@ -1430,7 +1444,7 @@ zh:
   TOOLTIP_STEAM_MODS: |
     Steam创意工坊
   TOOLTIP_HUMANRESOURCE: |
-    指定一个人力资源部经理来编排员工的工作表
+    指派人力资源经理管理员工的排班和加薪。
   TOOLTIP_GAME_OF_THE_YEAR: |
     每一年，新上排行的游戏都会推出它的年度游戏纪念版。
   TOOLTIP_DESK_REPLACE: |

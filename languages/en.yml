@@ -76,6 +76,20 @@ en:
   BUTTON_VIEW_SEQUEL: View sequel
 
   # Labels, descriptive
+  LABEL_CLOUDS: Show clouds on the map
+  LABEL_AUTOSAVE: Automatic saving
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    A competitor is using your game engine
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] has released a game that uses your game engine ([b]%s[/b]).
+
+    Thanks to [b]%s[/b], you're gonna get [b]%d%%[/b] royalties.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Customize offer
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Exclusivity duration: [b]%s[/b] months
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Money offer: [b]%s$[/b]
   LABEL_GAMEENGINE_DELETE_TITLE: Delete game engine?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     You are about to remove [b]%s[/b].
@@ -115,7 +129,7 @@ en:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     What do you say to this instead?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    A cheque of [b]%s$[/b] for a [b]%s[/b] license and a [b]%d[/b] months exclusive contract for [b]%s[/b].
+    A cheque of [b]%s$[/b] for a [b]%s[/b] license and a [b]%s[/b] months exclusive contract for [b]%s[/b].
     (You will not be able to publish games on other manufacturers' consoles).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     A cheque of [b]%s$[/b] for a [b]%s[/b] license
@@ -1007,7 +1021,7 @@ en:
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Game over
   LABEL_SCORE: Score
-  LABEL_WAGE_INCREASES_TITLE: Salary increase
+  LABEL_WAGE_INCREASES_TITLE: Pay raise
   LABEL_WAGE_INCREASES_DESCRIPTION: "Following employees have had an increase in pay:"
   LABEL_PRESS_KEY: Press
   LABEL_WORD_OR: or
@@ -1503,7 +1517,7 @@ en:
     Steam workshop
   TOOLTIP_HUMANRESOURCE: |
     Assign a human resources manager to manage your
-    employees' schedules.
+    employees' schedules and pay raises
   TOOLTIP_GAME_OF_THE_YEAR: |
     Every year, a new game is promoted Game Of The year.
   TOOLTIP_DESK_REPLACE: |

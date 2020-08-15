@@ -76,6 +76,20 @@ ko:
   BUTTON_VIEW_SEQUEL: 속편보기
 
   # Labels, descriptive
+  LABEL_CLOUDS: 지도에 구름 표시
+  LABEL_AUTOSAVE: 자동 저장
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    경쟁자가 게임 엔진을 사용하고 있습니다.
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b]는 게임 엔진 ([b]%s[/b])을 사용하는 게임을 출시했습니다.
+
+    [b]%s[/b] 덕분에 [b]%d%%[/b] 로열티를 받게됩니다.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    오퍼 맞춤 설정
+  LABEL_PLATFORM_MONEY_OFFER: |
+    돈 제공 : [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    독점 기간 : [b]%s[/b] 개월
   LABEL_GAMEENGINE_DELETE_TITLE: 게임 엔진을 삭제 하시겠습니까?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     [b]%s[/b]를 제거하려고합니다.
@@ -113,7 +127,7 @@ ko:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     대신 이것에 대해 무엇을 말합니까?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    [b]%s[/b] 라이센스에 대해 [b]%s$[/b]의 수표와 [b]%s[/b]에 대한 [b]%d[/b] 개월 독점 계약.
+    [b]%s[/b] 라이센스에 대해 [b]%s$[/b]의 수표와 [b]%s[/b]에 대한 [b]%s[/b] 개월 독점 계약.
     (다른 제조업체의 콘솔에 게임을 게시 할 수 없습니다)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     [b]%s[/b] 라이센스에 대해 [b]%s$[/b]를 확인하십시오.
@@ -1486,7 +1500,7 @@ ko:
   TOOLTIP_STEAM_MODS: |
     Steam 워크샵
   TOOLTIP_HUMANRESOURCE: |
-    직원 일정을 관리할 인력 관리자를 할당하십시오. 
+    인사 관리자를 지정하여 직원의 일정과 급여 인상을 관리합니다.
   TOOLTIP_GAME_OF_THE_YEAR: |
     매년, 새로운 게임이 Game of The Year에 올라옵니다.
   TOOLTIP_DESK_REPLACE: |

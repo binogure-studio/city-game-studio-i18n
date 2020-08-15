@@ -76,6 +76,20 @@ fr:
   BUTTON_VIEW_SEQUEL: Voir la suite
 
   # Labels, descriptive
+  LABEL_CLOUDS: Afficher les nuages sur la carte
+  LABEL_AUTOSAVE: Sauvegarde automatique
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Un concurrent utilise votre moteur de jeu.
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] a publié un jeu qui utilise votre moteur de jeu ([b]%s[/b]).
+
+    Grâce à [b]%s[/b], vous allez toucher [b]%d%%[/b] de royalties.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Personnaliser l'offre
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Offre d'argent : [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Durée d'exclusivité : [b]%s[/b] mois
   LABEL_GAMEENGINE_DELETE_TITLE: Supprimer le moteur de jeu?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     Vous êtes sur le point de supprimer [b]%s[/b].
@@ -117,7 +131,7 @@ fr:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Que dites-vous de ceci à la place?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Un chèque de [b]%s$[/b] pour licence de [b]%s[/b] ainsi qu'un contrat d'exclusivité de [b]%d[/b] mois pour [b]%s[/b].
+    Un chèque de [b]%s$[/b] pour licence de [b]%s[/b] ainsi qu'un contrat d'exclusivité de [b]%s[/b] mois pour [b]%s[/b].
     (Vous ne pourrez pas publier de jeux sur des consoles d'autres fabricants)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Un chèque de [b]%s$[/b] pour license de [b]%s[/b]
@@ -1505,8 +1519,8 @@ fr:
   TOOLTIP_STEAM_MODS: |
     Mod du workshop de Steam
   TOOLTIP_HUMANRESOURCE: |
-    Assigner un responsable des ressources humaines pour pouvoir
-    gérer les emplois du temps de vos employés.
+    Désignez un responsable des ressources humaines pour gérer les horaires
+    et les augmentations de salaire de vos employés
   TOOLTIP_DESK_REPLACE: |
     Remplacer les bureaux et mettre à jour les ordinateurs
   TOOLTIP_POSTMORTEM_RED_ZONE: |

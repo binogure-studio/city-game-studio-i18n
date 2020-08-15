@@ -76,6 +76,20 @@ tr:
   BUTTON_VIEW_SEQUEL: Devam filmi görüntüle
 
   # Labels, descriptive
+  LABEL_CLOUDS: Bulutları haritada göster
+  LABEL_AUTOSAVE: Otomatik kaydetme
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Bir rakip oyun motorunuzu kullanıyor
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b], oyun motorunuzu ([b]%s[/b]) kullanan bir oyun yayınladı.
+
+    [b]%s[/b] sayesinde [b]%d%%[/b] telif ücreti alacaksınız.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Teklifi özelleştir
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Para teklifi: [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Münhasırlık süresi: [b]%s[/b] ay
   LABEL_GAMEENGINE_DELETE_TITLE: Oyun motoru silinsin mi?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     [b]%s[/b]'yi kaldırmak üzeresiniz.
@@ -116,7 +130,7 @@ tr:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Bunun yerine bunun hakkında ne diyorsun?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    [b]%s[/b] lisansı için [b]%s$[/b] çek ve [b]%s[/b] için [b]%d[/b] aylık özel sözleşme.
+    [b]%s[/b] lisansı için [b]%s$[/b] çek ve [b]%s[/b] için [b]%s[/b] aylık özel sözleşme.
     (Diğer üreticilerin konsollarına oyun yayınlayamayacaksınız)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     [b]%s[/b] lisansı için [b]%s$[/b] bir çek.
@@ -1487,8 +1501,8 @@ tr:
   TOOLTIP_STEAM_MODS: |
     Buhar atölyesi
   TOOLTIP_HUMANRESOURCE: |
-    Çalışanlarınızın programlarını yönetmek için bir insan
-    kaynakları yöneticisi atayın.
+    Çalışanlarınızın programlarını ve maaş zamlarını yönetmek için
+    bir insan kaynakları yöneticisi atayın
   TOOLTIP_GAME_OF_THE_YEAR: |
     Her yıl yeni bir oyun tanıtılıyor Yılın Oyunu
   TOOLTIP_DESK_REPLACE: |

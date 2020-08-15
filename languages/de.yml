@@ -76,6 +76,20 @@ de:
   BUTTON_VIEW_SEQUEL: Fortsetzung ansehen
 
   # Labels, descriptive
+  LABEL_CLOUDS: Wolken auf der Karte anzeigen
+  LABEL_AUTOSAVE: Automatisches Speichern
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Ein Konkurrent benutzt Ihre Spiel-Engine.
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] hat ein Spiel veröffentlicht, das Ihre Spiel-Engine ([b]%s[/b]) verwendet.
+
+    Dank [b]%s[/b] erhalten Sie [b]%d%%[/b] Tantiemen.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Angebot anpassen
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Geldangebot: [b]%s$[/b]
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Dauer der Exklusivität: [b]%s[/b] Monate
   LABEL_GAMEENGINE_DELETE_TITLE: Spiel-Engine löschen?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     Sie sind dabei, [b]%s[/b] zu entfernen.
@@ -117,7 +131,7 @@ de:
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
     Wie wäre es stattdessen damit?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    Ein Scheck über [b]%s$[/b] für eine [b]%s[/b]-Lizenz und einen [b]%d[/b]-monatigen Exklusivvertrag für [b]%s[/b].
+    Ein Scheck über [b]%s$[/b] für eine [b]%s[/b]-Lizenz und einen [b]%s[/b]-monatigen Exklusivvertrag für [b]%s[/b].
     (Es ist nicht möglich, Spiele auf Konsolen anderer Hersteller zu veröffentlichen).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Ein Scheck über [b]%s$[/b] für die [b]%s[/b]-Lizenz.
@@ -1508,8 +1522,8 @@ de:
   TOOLTIP_STEAM_MODS: |
     Steam Workshop
   TOOLTIP_HUMANRESOURCE: |
-    Weise einen Personalleiter zu, der die Arbeitszeiten deiner
-    Mitarbeiter verwaltet.
+    Beauftragen Sie einen Personalmanager mit der Verwaltung der
+    Zeitpläne und Gehaltserhöhungen Ihrer Mitarbeiter
   TOOLTIP_GAME_OF_THE_YEAR: |
     Jedes Jahr wird ein neues Spiel zum Spiel des Jahres ernannt
   TOOLTIP_DESK_REPLACE: |
