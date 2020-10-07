@@ -76,6 +76,30 @@ tr:
   BUTTON_VIEW_SEQUEL: Devam filmi görüntüle
 
   # Labels, descriptive
+  LABEL_MOD_BANNED: Mod yasaklandı
+  LABEL_MOD_AGREEMENT: |
+    Bu öğeyi göndererek [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]Atölye Hizmet Koşulları'nı[/url] kabul ettiğinizi beyan edersiniz
+  LABEL_MOD_VERSION: Sürüm
+  LABEL_MOD_CREATE: Bir mod oluştur
+  LABEL_MOD_LIST: Modları listeleyin
+  LABEL_MOD_NAME: İsim
+  LABEL_MOD_DESCRIPTION: Açıklama
+  LABEL_MOD_LANGUAGE: Dil
+  LABEL_MOD_VISIBILITY: Görünürlük
+  LABEL_MOD_VISIBILITY_PUBLIC: halka açık
+  LABEL_MOD_VISIBILITY_FRIENDS: Sadece arkadaşlar
+  LABEL_MOD_VISIBILITY_PRIVATE: Özel
+  LABEL_MOD_IMAGE_PREVIEW: Önizleme resmi
+  LABEL_MOD_VIDEO_PREVIEW: Videoyu önizleyin
+  LABEL_MOD_PATH: Kesin yol
+  LABEL_MOD_PUBLISHED_DATE: Yayın tarihi
+  LABEL_MOD_UPDATE: Güncelleme
+  LABEL_MOD_VALIDATE: Doğrula
+  LABEL_MOD_NOT_VALID: Geçersiz
+  LABEL_MOD_CREATED: Mod oluşturuldu
+  LABEL_MOD_UPDATED: Mod güncellendi
+  TOOLTIP_HOLD_TO_CLICK: |
+    Basmak için tıklamayı basılı tutun
   LABEL_GAME_EXCLUSIVITY: >
     Bu oyun %s,'ya özeldir
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
@@ -610,19 +634,19 @@ tr:
     Saygılarımla
     Binogure
   LABEL_SALES_HITS_0: >
-    [b]%s[/b] satışlar iyi gidiyor, bunun satışları artıracağına inanıyorum [b]%d%%[/b]
+    [b]%s[/b] satışları iyi gidiyor, bu[b]%% %d[/b] bonus getirmeli.
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] bu ay çok kötü değil, tahminime göre satışları artıracak [b]%d%%[/b]
+    [b]%s[/b] bu ay çok da kötü değil, tahminlerime göre satışlar[b]%% %d[/b] bonus alacak.
   LABEL_SALES_HITS_2: >
-    [b]%s[/b] Bu ay çok kötü değil, benim tahminlerime göre [b]%d%%[/b] tarafından satış artıracak
+    Pekala, [b]%s[/b] hakkında konuşalım. Satışlar mükemmel ve bence[b]%% %d[/b]'lük bir bonus bekleyebiliriz.
   LABEL_SALES_HITS_3: >
-    [b]%s[/b] ile büyük düşünebiliriz, satışlar [b]%d%%[/b] artmalı
+    [b]%s[/b] ile büyük düşünebileceğiz, satışlar[b]%% %d[/b] bonus almalı.
   LABEL_SALES_HITS_4: >
-    Bugün harika bir gün, [b]%s[/b], [b]%d%%[/b] artış görmeli
+    Bugün harika bir gün, [b]%s[/b][b]%% %d[/b] bonus görmeli.
   LABEL_SALES_HITS_5: >
-    [b]%s[/b] 'nin [b]%d%%[/b] artacağı tahmin ediliyor
+    [b]%s[/b]'nin[b]%% %d[/b] bonus alması bekleniyor.
   LABEL_SALES_HITS_6: >
-    [b]%s[/b] satışı ile tebrikler, [b]%d%%[/b] artışa ulaşmalıyız
+    [b]%s[/b] satışları için tebrikler,[b]%% %d[/b] bonusa ulaşmalıyız.
   LABEL_CONVENTION_INCOMING: |
     Sayın %s,
 

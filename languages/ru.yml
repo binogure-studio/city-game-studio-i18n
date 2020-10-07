@@ -76,6 +76,30 @@ ru:
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
 
   # Labels, descriptive
+  LABEL_MOD_BANNED: Мод запрещен
+  LABEL_MOD_AGREEMENT: |
+    Отправляя предмет в Мастерскую, вы принимаете условия [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]использования Мастерской Steam[/url]
+  LABEL_MOD_VERSION: Версия
+  LABEL_MOD_CREATE: Создать модную версию
+  LABEL_MOD_LIST: Списочные моды
+  LABEL_MOD_NAME: Имя
+  LABEL_MOD_DESCRIPTION: Описание
+  LABEL_MOD_LANGUAGE: Язык
+  LABEL_MOD_VISIBILITY: Видимость
+  LABEL_MOD_VISIBILITY_PUBLIC: Общественный
+  LABEL_MOD_VISIBILITY_FRIENDS: Только друзья
+  LABEL_MOD_VISIBILITY_PRIVATE: Частный
+  LABEL_MOD_IMAGE_PREVIEW: Предварительное изображение
+  LABEL_MOD_VIDEO_PREVIEW: Предварительное видео
+  LABEL_MOD_PATH: Абсолютный путь
+  LABEL_MOD_PUBLISHED_DATE: Дата публикации
+  LABEL_MOD_UPDATE: Обновление
+  LABEL_MOD_VALIDATE: Проверить
+  LABEL_MOD_NOT_VALID: Недействительный
+  LABEL_MOD_CREATED: Мод созданный
+  LABEL_MOD_UPDATED: Мод обновлён
+  TOOLTIP_HOLD_TO_CLICK: |
+    Удерживайте нажатой кнопку , чтобы нажать
   LABEL_GAME_EXCLUSIVITY: >
     Эта игра эксклюзивно для %s
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
@@ -617,23 +641,19 @@ ru:
     Искренне
     Binogure
   LABEL_SALES_HITS_0: >
-    Продажи [b]%s[/b] идут хорошо, по моим оценкам, это позволит увеличить
-    продажи на [b]%d%%[/b].
+    Продажи [b]%s[/b] идут хорошо, это должно принести бонус [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] не так уж и плохо в этом месяце, по моим оценкам, это позволит
-    увеличить продажи на [b]%d%%[/b].
+    [b]%s[/b] не так уж плох в этом месяце, по моим оценкам, продажи получат бонус [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    Давай поговорим о [b]%s[/b]. 
-    Продажи превосходны, и я думаю, что мы можем ожидать [b]%d%%[/b] роста продаж.
+    Хорошо, давайте поговорим о [b]%s[/b]. Продажи отличные, и я думаю, что можно ожидать [b]%d%%[/b] бонуса.
   LABEL_SALES_HITS_3: >
-    У [b]%s[/b] я думаю, что продажи должны увеличиться на [b]%d%%[/b].
+    С [b]%s[/b] мы сможем думать по-крупному, продажи должны получить бонус [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
-    Сегодня отличный день! [b]%s[/b] Должен увидеть [b]%d%%[/b] увеличение популярности.
+    Сегодня великий день, [b]%s[/b] должен получить бонус [b]%d%%[/b].
   LABEL_SALES_HITS_5: >
-    Ожидается, что продажи [b]%s[/b] вырастут на [b]%d%%[/b].
+    Следует ожидать, что [b]%s[/b] получит бонус [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Поздравляем с продажей [b]%s[/b], мы должны достичь [b]%d%%[/b]-го
-    увеличения.
+    Поздравляем с продажами [b]%s[/b], мы должны получить бонус [b]%d%%[/b].
   LABEL_CONVENTION_INCOMING: |
     Дорогой %s,
 

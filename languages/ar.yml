@@ -75,6 +75,30 @@ ar:
   BUTTON_VIEW_SEQUEL: عرض التكملة
 
   # Labels, descriptive
+  LABEL_MOD_BANNED: وزارة الدفاع محظورة
+  LABEL_MOD_AGREEMENT: |
+    By submitting this item, you agree to the [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]workshop terms of service[/url]
+  LABEL_MOD_VERSION: الإصدار
+  LABEL_MOD_CREATE: إنشاء تعديل
+  LABEL_MOD_LIST: تعديل القائمة
+  LABEL_MOD_NAME: اسم
+  LABEL_MOD_DESCRIPTION: وصف
+  LABEL_MOD_LANGUAGE: لغة
+  LABEL_MOD_VISIBILITY: الرؤية
+  LABEL_MOD_VISIBILITY_PUBLIC: عامة
+  LABEL_MOD_VISIBILITY_FRIENDS: الأصدقاء فقط
+  LABEL_MOD_VISIBILITY_PRIVATE: نشر
+  LABEL_MOD_IMAGE_PREVIEW: صورة المعاينة
+  LABEL_MOD_VIDEO_PREVIEW: معاينة الفيديو
+  LABEL_MOD_PATH: المسار المطلق
+  LABEL_MOD_PUBLISHED_DATE: تاريخ النشر
+  LABEL_MOD_UPDATE: تحديث
+  LABEL_MOD_VALIDATE: تحقق
+  LABEL_MOD_NOT_VALID: غير صالحة
+  LABEL_MOD_CREATED: خلقت وزارة الدفاع
+  LABEL_MOD_UPDATED: تحديث وزارة الدفاع
+  TOOLTIP_HOLD_TO_CLICK: |
+    اضغط مع الاستمرار للضغط
   LABEL_GAME_EXCLUSIVITY: >
     هذه اللعبة حصرية لـ %s
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
@@ -602,23 +626,20 @@ ar:
     بإخلاص
 
     Binogure
-  LABEL_SALES_HITS_0: |
-    [b]%s[/b]  المبيعات جيدة ، وأعتقد أن هذا سوف يحسن المبيعات بنسبة [b]%d%%[/b]
+  LABEL_SALES_HITS_0: >
+    مبيعات [b]%s[/b] تبلي بلاءً حسناً ، وهذا من شأنه أن يجلب مكافأة [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    [b]%s[/b]  ليست سيئة جدا هذا الشهر ، وفقا لتقديراتي سوف تحسن المبيعات بنسبة
-    [b]%d%%[/b]
+    [b]%s[/b] ليس سيئًا للغاية هذا الشهر ، وفقًا لتقديراتي ، ستحصل المبيعات على مكافأة بنسبة [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    حسنا ، دعنا نتحدث عن [b]%s[/b]. المبيعات ممتازة ، وأعتقد أننا يمكن أن نتوقع
-    [b]%d%%[/b] زيادة في المبيعات
+    حسنًا ، لنتحدث عن [b]%s[/b]. المبيعات ممتازة ، وأعتقد أنه يمكننا توقع مكافأة بنسبة [b]%d%%[/b].
   LABEL_SALES_HITS_3: >
-    مع [b]%s[/b] سنكون قادرين على التفكير بشكل كبير ، المبيعات يجب أن تزيد بنسبة
-    [b]%d%%[/b]
-  LABEL_SALES_HITS_4: |
-    اليوم يوم عظيم, [b]%s[/b] يجب أن ترى [b]%d%%[/b] زيادة
-  LABEL_SALES_HITS_5: |
-    ومن المتوقع أن يزيد  [b]%s[/b]بنسبة [b]%d%%[/b]
-  LABEL_SALES_HITS_6: |
-    تهانينا بمبيعات [b]%s[/b], يجب أن نصل إلى زيادة [b]%d%%[/b]
+    مع [b]%s[/b] سنكون قادرين على التفكير بشكل كبير ، يجب أن تحصل المبيعات على مكافأة بنسبة [b]%d%%[/b].
+  LABEL_SALES_HITS_4: >
+    اليوم هو يوم عظيم ، يجب أن تحصل [b]%s[/b] على مكافأة بنسبة [b]%d%%[/b].
+  LABEL_SALES_HITS_5: >
+    من المتوقع أن تحصل [b]%s[/b] على مكافأة بنسبة [b]%d%%[/b].
+  LABEL_SALES_HITS_6: >
+    تهانينا بمبيعات [b]%s[/b] ، يجب أن نصل إلى [b]%d%%[/b] علاوة.
   LABEL_CONVENTION_INCOMING: |
     عزيزي %s,
 

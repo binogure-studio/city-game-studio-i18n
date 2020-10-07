@@ -76,6 +76,30 @@ pt-br:
   BUTTON_VIEW_SEQUEL: Ver sequência
 
   # Labels, descriptive
+  LABEL_MOD_BANNED: O Mod é banido
+  LABEL_MOD_AGREEMENT: |
+    Ao enviar o item, você estará aceitando os [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]Termos de Serviço da Oficina[/url]
+  LABEL_MOD_VERSION: Versão
+  LABEL_MOD_CREATE: Maak een mod
+  LABEL_MOD_LIST: Lijst mods
+  LABEL_MOD_NAME: Naam
+  LABEL_MOD_DESCRIPTION: Beschrijving
+  LABEL_MOD_LANGUAGE: Taal
+  LABEL_MOD_VISIBILITY: Zichtbaarheid
+  LABEL_MOD_VISIBILITY_PUBLIC: Publiek
+  LABEL_MOD_VISIBILITY_FRIENDS: Alleen voor vrienden
+  LABEL_MOD_VISIBILITY_PRIVATE: Privé
+  LABEL_MOD_IMAGE_PREVIEW: Voorbeeldfoto
+  LABEL_MOD_VIDEO_PREVIEW: Voorbeeldvideo
+  LABEL_MOD_PATH: Absoluut pad
+  LABEL_MOD_PUBLISHED_DATE: Publicatiedatum
+  LABEL_MOD_UPDATE: Update
+  LABEL_MOD_VALIDATE: Valideer
+  LABEL_MOD_NOT_VALID: Ongeldige
+  LABEL_MOD_CREATED: Mod. gemaakt
+  LABEL_MOD_UPDATED: Mod bijgewerkt
+  TOOLTIP_HOLD_TO_CLICK: |
+    Segurar clique para pressionar
   LABEL_GAME_EXCLUSIVITY: >
     Este jogo é exclusivo da %s
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
@@ -621,20 +645,19 @@ pt-br:
     Atenciosamente
     Binogure
   LABEL_SALES_HITS_0: >
-    As vendas de [b]%s[/b] estão indo bem, eu calculo que teremos uma melhora
-    das vendas em [b]%d%%[/b].
+    As vendas da [b]%s[/b] estão indo bem, isto deve trazer um bônus de [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] não foi muito ruim este mês, de acordo com minhas estimativas, ele vai melhorar as vendas em [b]%d%%[/b].
+    A [b]%s[/b] não está muito ruim este mês, de acordo com minhas estimativas, as vendas receberão um bônus de [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    Muito bem, vamos falar de [b]%s[/b]. As vendas são excelentes, e eu acho que podemos esperar um aumento de [b]%d%%[/b] nas vendas.
+    Muito bem, vamos falar sobre a [b]%s[/b]. As vendas são excelentes, e acho que podemos esperar um bônus de [b]%d%%[/b].
   LABEL_SALES_HITS_3: >
-    Com [b]%s[/b] seremos capazes de pensar grande, as vendas devem aumentar em [b]%d%%[/b].
+    Com a [b]%s[/b] poderemos pensar em grande, as vendas deverão receber um bônus de [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
-    Hoje é um grande dia, [b]%s[/b] deve ver um aumento de [b]%d%%[/b].
+    Hoje é um grande dia, a [b]%s[/b] deve receber um bônus de [b]%d%%[/b].
   LABEL_SALES_HITS_5: >
-    É de esperar que o [b]%s[/b] aumente [b]%d%%[/b].
+    É de se esperar que a [b]%s[/b] obtenha um bônus de [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Parabéns pelas vendas de [b]%s[/b] devemos ter um aumento de [b]%d%%[/b].
+    Parabéns com as vendas da [b]%s[/b], deveremos atingir um bônus de [b]%d%%[/b].
   LABEL_CONVENTION_INCOMING: >
     Caro %s,
 

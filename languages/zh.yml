@@ -76,6 +76,30 @@ zh:
   BUTTON_VIEW_SEQUEL: 查看续集
 
   # Labels, descriptive
+  LABEL_MOD_BANNED: Mod被禁止
+  LABEL_MOD_AGREEMENT: |
+    提交此物品即表明您同意了[url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]创意工坊服务条款[/url]
+  LABEL_MOD_VERSION: 版本
+  LABEL_MOD_CREATE: 创建一个模式
+  LABEL_MOD_LIST: 列表模式
+  LABEL_MOD_NAME: 名称
+  LABEL_MOD_DESCRIPTION: 说明
+  LABEL_MOD_LANGUAGE: 语种
+  LABEL_MOD_VISIBILITY: 可见度
+  LABEL_MOD_VISIBILITY_PUBLIC: 公众
+  LABEL_MOD_VISIBILITY_FRIENDS: 仅限朋友
+  LABEL_MOD_VISIBILITY_PRIVATE: 私人
+  LABEL_MOD_IMAGE_PREVIEW: 预览图片
+  LABEL_MOD_VIDEO_PREVIEW: 视频预览
+  LABEL_MOD_PATH: 绝对路径
+  LABEL_MOD_PUBLISHED_DATE: 出版日期
+  LABEL_MOD_UPDATE: 更新
+  LABEL_MOD_VALIDATE: 验证
+  LABEL_MOD_NOT_VALID: 无效
+  LABEL_MOD_CREATED: 创建模式
+  LABEL_MOD_UPDATED: 更新了model
+  TOOLTIP_HOLD_TO_CLICK: |
+    按住点击预设
   LABEL_GAME_EXCLUSIVITY: >
     这款游戏是%s独有的
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
@@ -590,19 +614,19 @@ zh:
     此致
     Binogure
   LABEL_SALES_HITS_0: >
-    [b]%s[/b]的发售情况很好，我相信这会通过[b]%d%%[/b]提高销售额
+    [b]%s[/b]销售情况不错，这个应该会带来[b]%d%%[/b]的奖金。
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] 在本月的表现也不算太差，根据我的估计，它会提高销售额至[b]%d%%[/b]
+    [b]%s[/b]这个月的业绩还不错，据小编估计销量会有[b]%d%%[/b]的奖金。
   LABEL_SALES_HITS_2: >
-    好吧，我们来谈谈 [b]%s[/b]。 发售情况非常好，我认为我们可以预期销售额会增加[b]%d%%[/b]
+    好了，我们来说说[b]%s[/b]。销售情况很好，我想我们可以期待[b]%d%%[/b]的奖金。
   LABEL_SALES_HITS_3: >
-    有了 [b]%s[/b] ，我们就能发展更大，销售额应该可以增加至[b]%d%%[/b]
+    有了[b]%s[/b]，我们就可以大展拳脚了，销售应该可以得到[b]%d%%[/b]的奖金。
   LABEL_SALES_HITS_4: >
-    今天是美好的一天，[b]%s[/b]应该看到 [b]%d%%[/b] 增加
+    今天是个好日子，[b]%s[/b]应该可以看到[b]%d%%[/b]的奖金。
   LABEL_SALES_HITS_5: >
-    可以预期[b]%s[/b] 将增加[b]%d%%[/b]
+    [b]%s[/b]能获得[b]%d%%[/b]的奖金是可以期待的。
   LABEL_SALES_HITS_6: >
-    恭喜获得[b]%s[/b]的销售额，我们的销售应该可以再增加[b]%d%%[/b]
+    恭喜[b]%s[/b]的销售，应该可以达到[b]%d%%[/b]的奖金。
   LABEL_CONVENTION_INCOMING: |
     亲爱的%s，
 
