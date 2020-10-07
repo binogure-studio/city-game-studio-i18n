@@ -25,7 +25,7 @@ de:
   BUTTON_START: Start
   BUTTON_NEED_STUDIO: Keine verfügbaren Büros
   BUTTON_CLEAR_EVENTS: Leeren
-  BUTTON_TOO_BAD: Mist!
+  BUTTON_TOO_BAD: Schade!
   BUTTON_BUY_ANOTHER_ONE: Erneut kaufen
   BUTTON_ADOPT: Adoptieren
   BUTTON_ABANDON: Abbrechen
@@ -53,7 +53,7 @@ de:
   BUTTON_BUGREPORT: Fehlerbericht
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
-  BUTTON_CRACK_GAME: Dieses Spiel hacken
+  BUTTON_CRACK_GAME: Dieses Spiel cracken
   BUTTON_FORCE_STUDIO_SELL: Erzwinge den Verkauf des Büros
   BUTTON_SPY: Spionage
   BUTTON_HIRE_THEIR_EMPLOYE: Mitarbeiter abwerben
@@ -70,7 +70,7 @@ de:
   BUTTON_PAY: Bezahlen
   BUTTON_UPDATE: Aktualisieren
   BUTTON_EDIT: Bearbeiten
-  BUTTON_CONFINE_MOUSE: Mauscursor einsperren
+  BUTTON_CONFINE_MOUSE: Mauscursor einfangen
   BUTTON_SHOW_STUDIO: Das Studio zeigen
   BUTTON_CANCEL_GAME: Das Spiel abbrechen
   BUTTON_VIEW_SEQUEL: Fortsetzung ansehen
@@ -105,8 +105,8 @@ de:
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
     Hallo [b]%s[/b],
 
-    Ich freue mich, dass Ihr Studio Qualitätsspiele veröffentlicht. Ich bin hier, um über [b]%s[/b] zu sprechen, dieses Spiel sieht vielversprechend aus, und ich möchte Ihnen helfen, seine Veröffentlichung zu einem weltweiten Erfolg zu machen! [b]%s[/b] wird vorgestellt werden, und wir werden Ihr Spiel mit unserer Konsole verpacken. Im Gegenzug wollen wir, dass dieses Spiel exklusiv bei [b]%s[/b] erscheint.  [i](Alle Portierungen auf Nicht-[b]%s[/b]-Konsolen werden storniert).[/i]
-    Zusätzlich zur Präsentation Ihres Spiels bieten wir Ihnen [b]%s$[/b]. Haben wir eine Abmachung?
+    Ich freue mich, dass Ihr Studio Qualitätsspiele veröffentlicht. Ich bin hier, um über [b]%s[/b] zu sprechen, dieses Spiel sieht vielversprechend aus, und ich möchte Ihnen helfen, seine Veröffentlichung zu einem weltweiten Erfolg zu machen! Wir möchten [b]%s[/b] exklusiv auf unseren Konsolen veröffentlichen.  [i](Alle Portierungen auf Nicht-[b]%s[/b]-Konsolen werden storniert).[/i]
+    Zusätzlich zur Präsentation Ihres Spiels bieten wir Ihnen [b]%s$[/b]. Sind Sie einverstanden?
   LABEL_CLOUDS: Wolken auf der Karte anzeigen
   LABEL_AUTOSAVE: Automatisches Speichern
   LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
@@ -120,7 +120,7 @@ de:
   LABEL_PLATFORM_MONEY_OFFER: |
     Geldangebot: [b]%s$[/b]
   LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
-    Dauer der Exklusivität: [b]%s[/b] Monate
+    Dauer des Exklusivvertrages: [b]%s[/b] Monate
   LABEL_GAMEENGINE_DELETE_TITLE: Spiel-Engine löschen?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     Sie sind dabei, [b]%s[/b] zu entfernen.
@@ -131,7 +131,7 @@ de:
     Verschwenden Sie nicht meine Zeit!
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
     Sie können keine Spiele auf dieser Plattform veröffentlichen,
-    weil Sie verhandeln müssen, um sie freizuschalten.
+    weil Sie nicht die nötige Berechtigung haben. Verhandeln sie mit dem Vertreiber der Plattform.
   LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
     Sie können keine Spiele auf dieser Plattform veröffentlichen,
     da Sie einen Exklusivvertrag mit %s haben.
@@ -139,9 +139,9 @@ de:
     Sie können noch keine neuen Verträge unterzeichnen, da Sie einen
     Exklusivvertrag mit %s haben.
   LABEL_PLATFORM_EXCLUSIVE_DURATION: |
-    Verbleibende Zeit der Exklusivität bei %s: %d Monate
+    Verbleibende Dauer des Exklusivvertrages bei %s: %d Monate
   LABEL_PLATFORM_MANUFACTURER_CALL: |
-    %s zur Verhandlung aufzurufen
+    %s zur Verhandlung anrufen
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     Hallo
 
@@ -171,15 +171,15 @@ de:
   LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
     Ich danke Ihnen für Ihre Zeit.
   LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
-    Nach den schlechten Ergebnissen im letzten Quartal 1982 und Anfang 1983 gibt Wataggi
-    rückläufige Ergebnisse auf dem Konsolenmarkt bekannt. Der Marktführer im Bereich der
+    Nach den schlechten Verkaufszahlen im letzten Quartal 1982 und Anfang 1983 gibt Wataggi
+    rückläufige Anteile an dem Konsolenmarkt bekannt. Der Marktführer im Bereich der
     Videospiele ist weit davon entfernt, seine Ziele zu erreichen, indem er einige hundert
-    Konsolen und knapp 2500 Kassetten verkauft. Der Gesundheitsbericht ist auch in Bezug auf
-    Heimcomputer weitgehend negativ, was die Unsicherheiten bestätigt, die diesen Markt heute
+    Konsolen und knapp 2500 Spieleinheiten verkauft. Der Wirtschaftsbericht ist auch in Bezug auf
+    Heimcomputer weitgehend negativ, was die Unsicherheiten verstärkt, die diesen Markt heute
     kennzeichnen.
 
     Die Hauptakteure der Videospielindustrie rechnen mit schwierigen Monaten, und es gibt
-    heute keine Anzeichen dafür, dass sich die Lage verbessern wird.
+    noch keine Anzeichen dafür, dass sich die Lage verbessern wird.
   LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
     Der Markt bricht zusammen
   LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
@@ -237,7 +237,7 @@ de:
   LABEL_IAP_TYPE_POWER_BOOST: Kraftschub
   LABEL_IAP_POWER: Kraft
   LABEL_IAP_TYPE_COSMETIC: Kosmetik
-  LABEL_IAP_TYPE_LOOTBOX: Beutebox
+  LABEL_IAP_TYPE_LOOTBOX: Lootbox
   LABEL_IAP_LIST: Liste von Gegenständen
   LABEL_IAP_RARITY: Seltenheit
   LABEL_IAP_RARITY_UNCOMMON: Ungewöhnlich
@@ -255,7 +255,7 @@ de:
   LABEL_CONVENTION_MESSAGE: Konventionen
   LABEL_NO_FILTER: Kein Filter
   LABEL_GAME_UPDATE_EXPECTED: Warten auf ein Update
-  LABEL_GAME_UPDATE_NOTEXPECTED: Nicht in Erwartung eines Updates
+  LABEL_GAME_UPDATE_NOTEXPECTED: Update nicht erwartet
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Aktive Marketing-Kampagne
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Keine aktive Marketingkampagne
   LABEL_FANBASE_GAIN: Wachsende Fanbasis
@@ -272,7 +272,7 @@ de:
   LABEL_DISCOUNT: Machen Sie einen Rabatt
   LABEL_ORGANIZE_YEARLY: Organisieren Sie eine jährliche Messe
   LABEL_YEARLY: Jährlich
-  LABEL_GAME_UPDATE_REQUIREMENTS: Spieler Erwartungen an das Update
+  LABEL_GAME_UPDATE_REQUIREMENTS: Erwartungen der Spieler an das Update
   LABEL_GAME_UPDATE_HYPE: Spiel-Update-Hype
   LABEL_GAME_UPDATE: Veröffentlichen Sie ein Update
   LABEL_GAME_FREE_UPDATE: Kostenloses Update
@@ -285,7 +285,7 @@ de:
   LABEL_NOT_AVAILABLE: Nicht verfügbar
   LABEL_REQUIRED: Erforderlich
   LABEL_REVIEW_GAMEENGINE_BAD: >
-    Sie hätten mehr aus der Engine holen müssen
+    Sie hätten weitaus mehr aus der Engine holen können
   LABEL_REVIEW_GAMEENGINE_GOOD: >
     Sie konnten das Beste aus der Engine herausholen
   LABEL_GAME_ENGINE: Spiel-Engine
