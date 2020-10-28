@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","$id":"http://example.com/add.indie.json","title":"Indie","description":"Add an indie company","type":"object","properties":{"name":{"description":"New indie name","type":"string"}},"required":["name"]}

@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","$id":"http://example.com/rename.platform.json","title":"Platform","description":"Rename a platform","type":"object","properties":{"name":{"description":"Platform's name","type":"string"},"id":{"description":"Platform to rename","type":"integer","minimum":1}},"required":["name","id"]}
