@@ -1,10 +1,10 @@
-# Untitled string in Concurrent Schema
+# Untitled string in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties/name
+http://www.city-game-studio.com/add.concurrent.json#/properties/name
 ```
 
-Concurrent's name
+Concurrent's name (Ubisoft, Bethesda...)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                               |

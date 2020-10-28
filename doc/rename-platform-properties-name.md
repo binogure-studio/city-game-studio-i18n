@@ -1,7 +1,7 @@
-# Untitled string in Platform Schema
+# Untitled string in Rename a Platform Schema
 
 ```txt
-http://example.com/rename.platform.json#/properties/name
+http://www.city-game-studio.com/rename.platform.json#/properties/name
 ```
 
 Platform's name

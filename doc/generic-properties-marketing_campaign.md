@@ -1,10 +1,10 @@
-# Untitled object in Mod Schema
+# Untitled object in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/marketing_campaign
+http://www.city-game-studio.com/mod.json#/properties/marketing_campaign
 ```
 
-To manipulate marketing campaign
+To manipulate marketing campaign (NOT IMPLEMENTED YET)
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |
@@ -17,13 +17,13 @@ To manipulate marketing campaign
 
 # undefined Properties
 
-| Property    | Type    | Required | Nullable       | Defined by                                                                                                                                      |
-| :---------- | ------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [add](#add) | `array` | Optional | cannot be null | [Mod](generic-properties-marketing_campaign-properties-add.md "http&#x3A;//example.com/mod.json#/properties/marketing_campaign/properties/add") |
+| Property    | Type    | Required | Nullable       | Defined by                                                                                                                                                            |
+| :---------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [add](#add) | `array` | Optional | cannot be null | [Create a mod](generic-properties-marketing_campaign-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add") |
 
 ## add
 
-Add a new item
+Add a new marketing campaign
 
 
 `add`
@@ -31,7 +31,7 @@ Add a new item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-marketing_campaign-properties-add-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-marketing_campaign-properties-add.md "http&#x3A;//example.com/mod.json#/properties/marketing_campaign/properties/add")
+-   defined in: [Create a mod](generic-properties-marketing_campaign-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add")
 
 ### add Type
 

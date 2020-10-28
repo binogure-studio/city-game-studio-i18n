@@ -1,7 +1,7 @@
-# Untitled undefined type in Concurrent Schema
+# Untitled undefined type in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties
+http://www.city-game-studio.com/add.concurrent.json#/properties
 ```
 
 

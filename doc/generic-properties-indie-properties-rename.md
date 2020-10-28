@@ -1,10 +1,10 @@
-# Untitled array in Mod Schema
+# Untitled array in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/indie/properties/rename
+http://www.city-game-studio.com/mod.json#/properties/indie/properties/rename
 ```
 
-Rename an item
+Rename a indie company
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |

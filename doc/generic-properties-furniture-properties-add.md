@@ -1,7 +1,7 @@
-# Untitled array in Mod Schema
+# Untitled array in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/furniture/properties/add
+http://www.city-game-studio.com/mod.json#/properties/furniture/properties/add
 ```
 
 Add a new item

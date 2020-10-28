@@ -1,7 +1,7 @@
-# Untitled object in Concurrent Schema
+# Untitled object in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties/engine
+http://www.city-game-studio.com/add.concurrent.json#/properties/engine
 ```
 
 
@@ -17,10 +17,10 @@ http://example.com/add.concurrent.json#/properties/engine
 
 # undefined Properties
 
-| Property                | Type      | Required | Nullable       | Defined by                                                                                                                                                   |
-| :---------------------- | --------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [interval](#interval)   | `integer` | Required | cannot be null | [Concurrent](add-concurrent-properties-engine-properties-interval.md "http&#x3A;//example.com/add.concurrent.json#/properties/engine/properties/interval")   |
-| [royalties](#royalties) | `array`   | Required | cannot be null | [Concurrent](add-concurrent-properties-engine-properties-royalties.md "http&#x3A;//example.com/add.concurrent.json#/properties/engine/properties/royalties") |
+| Property                | Type      | Required | Nullable       | Defined by                                                                                                                                                                      |
+| :---------------------- | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [interval](#interval)   | `integer` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-engine-properties-interval.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/interval")   |
+| [royalties](#royalties) | `array`   | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-engine-properties-royalties.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/royalties") |
 
 ## interval
 
@@ -32,7 +32,7 @@ Interval between concurrent's engine update (week)
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-engine-properties-interval.md "http&#x3A;//example.com/add.concurrent.json#/properties/engine/properties/interval")
+-   defined in: [Add a Concurrent](add-concurrent-properties-engine-properties-interval.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/interval")
 
 ### interval Type
 
@@ -54,7 +54,7 @@ Range for the concurrent engine royalties
 -   is required
 -   Type: `integer[]`
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-engine-properties-royalties.md "http&#x3A;//example.com/add.concurrent.json#/properties/engine/properties/royalties")
+-   defined in: [Add a Concurrent](add-concurrent-properties-engine-properties-royalties.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/royalties")
 
 ### royalties Type
 

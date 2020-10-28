@@ -1,7 +1,7 @@
-# Indie Schema
+# Add an Indie company Schema
 
 ```txt
-http://example.com/add.indie.json
+http://www.city-game-studio.com/add.indie.json
 ```
 
 Add an indie company
@@ -11,19 +11,19 @@ Add an indie company
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------- |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-indie.schema.json](../out/add-indie.schema.json "open original schema") |
 
-## Indie Type
+## Add an Indie company Type
 
-`object` ([Indie](add-indie.md))
+`object` ([Add an Indie company](add-indie.md))
 
-# Indie Properties
+# Add an Indie company Properties
 
-| Property      | Type     | Required | Nullable       | Defined by                                                                                      |
-| :------------ | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------- |
-| [name](#name) | `string` | Required | cannot be null | [Indie](add-indie-properties-name.md "http&#x3A;//example.com/add.indie.json#/properties/name") |
+| Property      | Type     | Required | Nullable       | Defined by                                                                                                                  |
+| :------------ | -------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| [name](#name) | `string` | Required | cannot be null | [Add an Indie company](add-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/add.indie.json#/properties/name") |
 
 ## name
 
-New indie name
+Indie company name
 
 
 `name`
@@ -31,7 +31,7 @@ New indie name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Indie](add-indie-properties-name.md "http&#x3A;//example.com/add.indie.json#/properties/name")
+-   defined in: [Add an Indie company](add-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/add.indie.json#/properties/name")
 
 ### name Type
 

@@ -1,7 +1,7 @@
-# Untitled integer in Platform Schema
+# Untitled integer in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/total_amount_of_published_games
+http://www.city-game-studio.com/add.platform.json#/properties/total_amount_of_published_games
 ```
 
 Total number of published game

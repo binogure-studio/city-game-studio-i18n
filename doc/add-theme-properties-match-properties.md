@@ -1,7 +1,7 @@
-# Untitled undefined type in Theme Schema
+# Untitled undefined type in Add a new theme Schema
 
 ```txt
-http://example.com/add.theme.json#/properties/match/properties
+http://www.city-game-studio.com/add.theme.json#/properties/match/properties
 ```
 
 

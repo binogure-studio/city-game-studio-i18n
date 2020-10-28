@@ -1,10 +1,10 @@
-# Untitled image in Theme Schema
+# Untitled image in Add a new theme Schema
 
 ```txt
-http://example.com/add.theme.json#/properties/icon
+http://www.city-game-studio.com/add.theme.json#/properties/icon
 ```
 
-Theme icon with transparent background
+Theme icon with transparent background (Size: 512x512, Format: PNG/JPEG)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

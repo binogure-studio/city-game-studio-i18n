@@ -1,7 +1,7 @@
-# Concurrent Schema
+# Rename a concurrent Schema
 
 ```txt
-http://example.com/rename.concurrent.json
+http://www.city-game-studio.com/rename.concurrent.json
 ```
 
 Rename a concurrent
@@ -11,21 +11,21 @@ Rename a concurrent
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------------------------- |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [rename-concurrent.schema.json](../out/rename-concurrent.schema.json "open original schema") |
 
-## Concurrent Type
+## Rename a concurrent Type
 
-`object` ([Concurrent](rename-concurrent.md))
+`object` ([Rename a concurrent](rename-concurrent.md))
 
-# Concurrent Properties
+# Rename a concurrent Properties
 
-| Property      | Type     | Required | Nullable       | Defined by                                                                                                           |
-| :------------ | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------- |
-| [id](#id)     | `string` | Required | cannot be null | [Concurrent](rename-concurrent-properties-id.md "http&#x3A;//example.com/rename.concurrent.json#/properties/id")     |
-| [name](#name) | `string` | Required | cannot be null | [Concurrent](rename-concurrent-properties-name.md "http&#x3A;//example.com/rename.concurrent.json#/properties/name") |
-| [logo](#logo) | `image`  | Optional | cannot be null | [Concurrent](rename-concurrent-properties-logo.md "http&#x3A;//example.com/rename.concurrent.json#/properties/logo") |
+| Property      | Type     | Required | Nullable       | Defined by                                                                                                                                 |
+| :------------ | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| [id](#id)     | `string` | Required | cannot be null | [Rename a concurrent](rename-concurrent-properties-id.md "http&#x3A;//www.city-game-studio.com/rename.concurrent.json#/properties/id")     |
+| [name](#name) | `string` | Required | cannot be null | [Rename a concurrent](rename-concurrent-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.concurrent.json#/properties/name") |
+| [logo](#logo) | `image`  | Optional | cannot be null | [Rename a concurrent](rename-concurrent-properties-logo.md "http&#x3A;//www.city-game-studio.com/rename.concurrent.json#/properties/logo") |
 
 ## id
 
-Concurrent to rename
+Concurrent's id to rename
 
 
 `id`
@@ -33,7 +33,7 @@ Concurrent to rename
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Concurrent](rename-concurrent-properties-id.md "http&#x3A;//example.com/rename.concurrent.json#/properties/id")
+-   defined in: [Rename a concurrent](rename-concurrent-properties-id.md "http&#x3A;//www.city-game-studio.com/rename.concurrent.json#/properties/id")
 
 ### id Type
 
@@ -49,7 +49,7 @@ Concurrent's name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Concurrent](rename-concurrent-properties-name.md "http&#x3A;//example.com/rename.concurrent.json#/properties/name")
+-   defined in: [Rename a concurrent](rename-concurrent-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.concurrent.json#/properties/name")
 
 ### name Type
 
@@ -57,7 +57,7 @@ Concurrent's name
 
 ## logo
 
-Conccurent logo's
+Conccurent logo's (Size: 128x128, Format: PNG/JPEG)
 
 
 `logo`
@@ -65,7 +65,7 @@ Conccurent logo's
 -   is optional
 -   Type: `image`
 -   cannot be null
--   defined in: [Concurrent](rename-concurrent-properties-logo.md "http&#x3A;//example.com/rename.concurrent.json#/properties/logo")
+-   defined in: [Rename a concurrent](rename-concurrent-properties-logo.md "http&#x3A;//www.city-game-studio.com/rename.concurrent.json#/properties/logo")
 
 ### logo Type
 

@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/duration
+http://www.city-game-studio.com/add.platform.json#/properties/duration
 ```
 
 
@@ -17,10 +17,10 @@ http://example.com/add.platform.json#/properties/duration
 
 # undefined Properties
 
-| Property        | Type     | Required | Nullable       | Defined by                                                                                                                                         |
-| :-------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [start](#start) | `object` | Required | cannot be null | [Platform](add-platform-properties-duration-properties-start.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/start") |
-| [end](#end)     | `object` | Required | cannot be null | [Platform](add-platform-properties-duration-properties-end.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/end")     |
+| Property        | Type     | Required | Nullable       | Defined by                                                                                                                                                                |
+| :-------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [start](#start) | `object` | Required | cannot be null | [Add a new platform](add-platform-properties-duration-properties-start.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/start") |
+| [end](#end)     | `object` | Required | cannot be null | [Add a new platform](add-platform-properties-duration-properties-end.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/end")     |
 
 ## start
 
@@ -32,7 +32,7 @@ Release date of the platform
 -   is required
 -   Type: `object` ([Details](add-platform-properties-duration-properties-start.md))
 -   cannot be null
--   defined in: [Platform](add-platform-properties-duration-properties-start.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/start")
+-   defined in: [Add a new platform](add-platform-properties-duration-properties-start.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/start")
 
 ### start Type
 
@@ -48,7 +48,7 @@ Discontinuation date of the platform
 -   is required
 -   Type: `object` ([Details](add-platform-properties-duration-properties-end.md))
 -   cannot be null
--   defined in: [Platform](add-platform-properties-duration-properties-end.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/end")
+-   defined in: [Add a new platform](add-platform-properties-duration-properties-end.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/end")
 
 ### end Type
 

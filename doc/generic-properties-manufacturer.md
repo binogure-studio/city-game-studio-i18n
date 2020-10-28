@@ -1,7 +1,7 @@
-# Untitled object in Mod Schema
+# Untitled object in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/manufacturer
+http://www.city-game-studio.com/mod.json#/properties/manufacturer
 ```
 
 To manipulate manufacturers
@@ -17,14 +17,14 @@ To manipulate manufacturers
 
 # undefined Properties
 
-| Property          | Type    | Required | Nullable       | Defined by                                                                                                                                |
-| :---------------- | ------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| [add](#add)       | `array` | Optional | cannot be null | [Mod](generic-properties-manufacturer-properties-add.md "http&#x3A;//example.com/mod.json#/properties/manufacturer/properties/add")       |
-| [rename](#rename) | `array` | Optional | cannot be null | [Mod](generic-properties-manufacturer-properties-rename.md "http&#x3A;//example.com/mod.json#/properties/manufacturer/properties/rename") |
+| Property          | Type    | Required | Nullable       | Defined by                                                                                                                                                      |
+| :---------------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [add](#add)       | `array` | Optional | cannot be null | [Create a mod](generic-properties-manufacturer-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/manufacturer/properties/add")       |
+| [rename](#rename) | `array` | Optional | cannot be null | [Create a mod](generic-properties-manufacturer-properties-rename.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/manufacturer/properties/rename") |
 
 ## add
 
-Add a new item
+Add a new manufacturer
 
 
 `add`
@@ -32,7 +32,7 @@ Add a new item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-manufacturer-properties-add-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-manufacturer-properties-add.md "http&#x3A;//example.com/mod.json#/properties/manufacturer/properties/add")
+-   defined in: [Create a mod](generic-properties-manufacturer-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/manufacturer/properties/add")
 
 ### add Type
 
@@ -40,7 +40,7 @@ Add a new item
 
 ## rename
 
-Rename an item
+Rename a manufacturer
 
 
 `rename`
@@ -48,7 +48,7 @@ Rename an item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-manufacturer-properties-rename-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-manufacturer-properties-rename.md "http&#x3A;//example.com/mod.json#/properties/manufacturer/properties/rename")
+-   defined in: [Create a mod](generic-properties-manufacturer-properties-rename.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/manufacturer/properties/rename")
 
 ### rename Type
 

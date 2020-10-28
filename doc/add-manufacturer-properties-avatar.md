@@ -1,10 +1,10 @@
-# Untitled image in Manufacturer Schema
+# Untitled image in Add a platform manufacturer Schema
 
 ```txt
-http://example.com/add.manufacturer.json#/properties/avatar
+http://www.city-game-studio.com/add.manufacturer.json#/properties/avatar
 ```
 
-Founder's avatar
+Founder's avatar (Size: 370x412, Format: PNG/JPEG
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                   |

@@ -1,7 +1,7 @@
-# Untitled integer in Concurrent Schema
+# Untitled integer in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties/engine/properties/royalties/items
+http://www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/royalties/items
 ```
 
 

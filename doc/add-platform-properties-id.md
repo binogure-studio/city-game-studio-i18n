@@ -1,10 +1,10 @@
-# Untitled string in Platform Schema
+# Untitled string in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/id
+http://www.city-game-studio.com/add.platform.json#/properties/id
 ```
 
-Platform's id (UUID v4)
+UUID v4 (use <https://www.uuidgenerator.net/> to generate one)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                           |

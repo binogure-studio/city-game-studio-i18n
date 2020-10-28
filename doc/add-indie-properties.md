@@ -1,7 +1,7 @@
-# Untitled undefined type in Indie Schema
+# Untitled undefined type in Add an Indie company Schema
 
 ```txt
-http://example.com/add.indie.json#/properties
+http://www.city-game-studio.com/add.indie.json#/properties
 ```
 
 

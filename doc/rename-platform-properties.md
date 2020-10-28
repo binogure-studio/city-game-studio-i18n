@@ -1,7 +1,7 @@
-# Untitled undefined type in Platform Schema
+# Untitled undefined type in Rename a Platform Schema
 
 ```txt
-http://example.com/rename.platform.json#/properties
+http://www.city-game-studio.com/rename.platform.json#/properties
 ```
 
 

@@ -1,7 +1,7 @@
-# Untitled string in Theme Schema
+# Untitled string in Add a new theme Schema
 
 ```txt
-http://example.com/add.theme.json#/properties/match/properties/poor/items
+http://www.city-game-studio.com/add.theme.json#/properties/match/properties/poor/items
 ```
 
 

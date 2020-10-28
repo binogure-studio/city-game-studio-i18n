@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/age
+http://www.city-game-studio.com/add.platform.json#/properties/age
 ```
 
 
@@ -17,11 +17,11 @@ http://example.com/add.platform.json#/properties/age
 
 # undefined Properties
 
-| Property          | Type     | Required | Nullable       | Defined by                                                                                                                                 |
-| :---------------- | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| [all](#all)       | `string` | Required | cannot be null | [Platform](add-platform-properties-age-properties-all.md "http&#x3A;//example.com/add.platform.json#/properties/age/properties/all")       |
-| [mature](#mature) | `string` | Required | cannot be null | [Platform](add-platform-properties-age-properties-mature.md "http&#x3A;//example.com/add.platform.json#/properties/age/properties/mature") |
-| [young](#young)   | `string` | Required | cannot be null | [Platform](add-platform-properties-age-properties-young.md "http&#x3A;//example.com/add.platform.json#/properties/age/properties/young")   |
+| Property          | Type     | Required | Nullable       | Defined by                                                                                                                                                        |
+| :---------------- | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [all](#all)       | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-age-properties-all.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/all")       |
+| [mature](#mature) | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-age-properties-mature.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/mature") |
+| [young](#young)   | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-age-properties-young.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/young")   |
 
 ## all
 
@@ -33,7 +33,7 @@ Match the platform with the targetted consumers
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-age-properties-all.md "http&#x3A;//example.com/add.platform.json#/properties/age/properties/all")
+-   defined in: [Add a new platform](add-platform-properties-age-properties-all.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/all")
 
 ### all Type
 
@@ -59,7 +59,7 @@ Match the platform with the targetted consumers
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-age-properties-mature.md "http&#x3A;//example.com/add.platform.json#/properties/age/properties/mature")
+-   defined in: [Add a new platform](add-platform-properties-age-properties-mature.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/mature")
 
 ### mature Type
 
@@ -85,7 +85,7 @@ Match the platform with the targetted consumers
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-age-properties-young.md "http&#x3A;//example.com/add.platform.json#/properties/age/properties/young")
+-   defined in: [Add a new platform](add-platform-properties-age-properties-young.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/young")
 
 ### young Type
 

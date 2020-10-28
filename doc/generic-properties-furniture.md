@@ -1,10 +1,10 @@
-# Untitled object in Mod Schema
+# Untitled object in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/furniture
+http://www.city-game-studio.com/mod.json#/properties/furniture
 ```
 
-To manipulate furnitures
+To manipulate furnitures (NOT IMPLEMENTED YET)
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |
@@ -17,9 +17,9 @@ To manipulate furnitures
 
 # undefined Properties
 
-| Property    | Type    | Required | Nullable       | Defined by                                                                                                                    |
-| :---------- | ------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------- |
-| [add](#add) | `array` | Optional | cannot be null | [Mod](generic-properties-furniture-properties-add.md "http&#x3A;//example.com/mod.json#/properties/furniture/properties/add") |
+| Property    | Type    | Required | Nullable       | Defined by                                                                                                                                          |
+| :---------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [add](#add) | `array` | Optional | cannot be null | [Create a mod](generic-properties-furniture-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/furniture/properties/add") |
 
 ## add
 
@@ -31,7 +31,7 @@ Add a new item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-furniture-properties-add-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-furniture-properties-add.md "http&#x3A;//example.com/mod.json#/properties/furniture/properties/add")
+-   defined in: [Create a mod](generic-properties-furniture-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/furniture/properties/add")
 
 ### add Type
 

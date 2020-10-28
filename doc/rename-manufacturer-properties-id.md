@@ -1,10 +1,10 @@
-# Untitled string in Manufacturer Schema
+# Untitled string in Rename a Manufacturer Schema
 
 ```txt
-http://example.com/rename.manufacturer.json#/properties/id
+http://www.city-game-studio.com/rename.manufacturer.json#/properties/id
 ```
 
-Manufacturer's default name
+Manufacturer's id to rename
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                         |

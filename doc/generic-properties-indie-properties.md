@@ -1,7 +1,7 @@
-# Untitled undefined type in Mod Schema
+# Untitled undefined type in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/indie/properties
+http://www.city-game-studio.com/mod.json#/properties/indie/properties
 ```
 
 

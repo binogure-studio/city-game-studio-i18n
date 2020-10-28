@@ -1,7 +1,7 @@
-# Untitled integer in Platform Schema
+# Untitled integer in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/power/properties/gpu
+http://www.city-game-studio.com/add.platform.json#/properties/power/properties/gpu
 ```
 
 Platform's GPU power

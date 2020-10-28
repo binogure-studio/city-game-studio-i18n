@@ -1,7 +1,7 @@
-# Untitled string in Manufacturer Schema
+# Untitled string in Rename a Manufacturer Schema
 
 ```txt
-http://example.com/rename.manufacturer.json#/properties/name
+http://www.city-game-studio.com/rename.manufacturer.json#/properties/name
 ```
 
 Owner's name

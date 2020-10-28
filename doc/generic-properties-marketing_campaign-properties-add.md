@@ -1,10 +1,10 @@
-# Untitled array in Mod Schema
+# Untitled array in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/marketing_campaign/properties/add
+http://www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add
 ```
 
-Add a new item
+Add a new marketing campaign
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |

@@ -1,7 +1,7 @@
-# Untitled string in Indie Schema
+# Untitled string in Rename an Indie company Schema
 
 ```txt
-http://example.com/rename.indie.json#/properties/name
+http://www.city-game-studio.com/rename.indie.json#/properties/name
 ```
 
 New indie name

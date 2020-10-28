@@ -1,7 +1,7 @@
-# Untitled undefined type in Manufacturer Schema
+# Untitled undefined type in Add a platform manufacturer Schema
 
 ```txt
-http://example.com/add.manufacturer.json#/properties
+http://www.city-game-studio.com/add.manufacturer.json#/properties
 ```
 
 

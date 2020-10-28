@@ -1,36 +1,36 @@
-# Mod Schema
+# Create a mod Schema
 
 ```txt
-http://example.com/mod.json
+http://www.city-game-studio.com/mod.json
 ```
 
-Declare a mod
+Generic structure of a mod
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                               |
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------ |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [generic.schema.json](../out/generic.schema.json "open original schema") |
 
-## Mod Type
+## Create a mod Type
 
-`object` ([Mod](generic.md))
+`object` ([Create a mod](generic.md))
 
-# Mod Properties
+# Create a mod Properties
 
-| Property                                  | Type     | Required | Nullable       | Defined by                                                                                                        |
-| :---------------------------------------- | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------- |
-| [platform](#platform)                     | `object` | Optional | cannot be null | [Mod](generic-properties-platform.md "http&#x3A;//example.com/mod.json#/properties/platform")                     |
-| [concurrent](#concurrent)                 | `object` | Optional | cannot be null | [Mod](generic-properties-concurrent.md "http&#x3A;//example.com/mod.json#/properties/concurrent")                 |
-| [manufacturer](#manufacturer)             | `object` | Optional | cannot be null | [Mod](generic-properties-manufacturer.md "http&#x3A;//example.com/mod.json#/properties/manufacturer")             |
-| [theme](#theme)                           | `object` | Optional | cannot be null | [Mod](generic-properties-theme.md "http&#x3A;//example.com/mod.json#/properties/theme")                           |
-| [translation](#translation)               | `object` | Optional | cannot be null | [Mod](generic-properties-translation.md "http&#x3A;//example.com/mod.json#/properties/translation")               |
-| [indie](#indie)                           | `object` | Optional | cannot be null | [Mod](generic-properties-indie.md "http&#x3A;//example.com/mod.json#/properties/indie")                           |
-| [iap](#iap)                               | `object` | Optional | cannot be null | [Mod](generic-properties-iap.md "http&#x3A;//example.com/mod.json#/properties/iap")                               |
-| [marketing_campaign](#marketing_campaign) | `object` | Optional | cannot be null | [Mod](generic-properties-marketing_campaign.md "http&#x3A;//example.com/mod.json#/properties/marketing_campaign") |
-| [furniture](#furniture)                   | `object` | Optional | cannot be null | [Mod](generic-properties-furniture.md "http&#x3A;//example.com/mod.json#/properties/furniture")                   |
-| [difficulty](#difficulty)                 | `object` | Optional | cannot be null | [Mod](generic-properties-difficulty.md "http&#x3A;//example.com/mod.json#/properties/difficulty")                 |
-| [digital_store](#digital_store)           | `object` | Optional | cannot be null | [Mod](generic-properties-digital_store.md "http&#x3A;//example.com/mod.json#/properties/digital_store")           |
-| [game_engine](#game_engine)               | `object` | Optional | cannot be null | [Mod](generic-properties-game_engine.md "http&#x3A;//example.com/mod.json#/properties/game_engine")               |
+| Property                                  | Type     | Required | Nullable       | Defined by                                                                                                                              |
+| :---------------------------------------- | -------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| [platform](#platform)                     | `object` | Optional | cannot be null | [Create a mod](generic-properties-platform.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform")                     |
+| [concurrent](#concurrent)                 | `object` | Optional | cannot be null | [Create a mod](generic-properties-concurrent.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/concurrent")                 |
+| [manufacturer](#manufacturer)             | `object` | Optional | cannot be null | [Create a mod](generic-properties-manufacturer.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/manufacturer")             |
+| [theme](#theme)                           | `object` | Optional | cannot be null | [Create a mod](generic-properties-theme.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme")                           |
+| [translation](#translation)               | `object` | Optional | cannot be null | [Create a mod](generic-properties-translation.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/translation")               |
+| [indie](#indie)                           | `object` | Optional | cannot be null | [Create a mod](generic-properties-indie.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/indie")                           |
+| [iap](#iap)                               | `object` | Optional | cannot be null | [Create a mod](generic-properties-iap.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/iap")                               |
+| [marketing_campaign](#marketing_campaign) | `object` | Optional | cannot be null | [Create a mod](generic-properties-marketing_campaign.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/marketing_campaign") |
+| [furniture](#furniture)                   | `object` | Optional | cannot be null | [Create a mod](generic-properties-furniture.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/furniture")                   |
+| [difficulty](#difficulty)                 | `object` | Optional | cannot be null | [Create a mod](generic-properties-difficulty.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/difficulty")                 |
+| [digital_store](#digital_store)           | `object` | Optional | cannot be null | [Create a mod](generic-properties-digital_store.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/digital_store")           |
+| [game_engine](#game_engine)               | `object` | Optional | cannot be null | [Create a mod](generic-properties-game_engine.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/game_engine")               |
 
 ## platform
 
@@ -42,7 +42,7 @@ To manipulate platforms
 -   is optional
 -   Type: `object` ([Details](generic-properties-platform.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-platform.md "http&#x3A;//example.com/mod.json#/properties/platform")
+-   defined in: [Create a mod](generic-properties-platform.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform")
 
 ### platform Type
 
@@ -58,7 +58,7 @@ To manipulate concurrents
 -   is optional
 -   Type: `object` ([Details](generic-properties-concurrent.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-concurrent.md "http&#x3A;//example.com/mod.json#/properties/concurrent")
+-   defined in: [Create a mod](generic-properties-concurrent.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/concurrent")
 
 ### concurrent Type
 
@@ -74,7 +74,7 @@ To manipulate manufacturers
 -   is optional
 -   Type: `object` ([Details](generic-properties-manufacturer.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-manufacturer.md "http&#x3A;//example.com/mod.json#/properties/manufacturer")
+-   defined in: [Create a mod](generic-properties-manufacturer.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/manufacturer")
 
 ### manufacturer Type
 
@@ -90,7 +90,7 @@ To manipulate themes
 -   is optional
 -   Type: `object` ([Details](generic-properties-theme.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-theme.md "http&#x3A;//example.com/mod.json#/properties/theme")
+-   defined in: [Create a mod](generic-properties-theme.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme")
 
 ### theme Type
 
@@ -106,7 +106,7 @@ To manipulate translations
 -   is optional
 -   Type: `object` ([Details](generic-properties-translation.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-translation.md "http&#x3A;//example.com/mod.json#/properties/translation")
+-   defined in: [Create a mod](generic-properties-translation.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/translation")
 
 ### translation Type
 
@@ -122,7 +122,7 @@ To manipulate indie companies
 -   is optional
 -   Type: `object` ([Details](generic-properties-indie.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-indie.md "http&#x3A;//example.com/mod.json#/properties/indie")
+-   defined in: [Create a mod](generic-properties-indie.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/indie")
 
 ### indie Type
 
@@ -130,7 +130,7 @@ To manipulate indie companies
 
 ## iap
 
-To manipulate IAP
+To manipulate IAP (NOT IMPLEMENTED YET)
 
 
 `iap`
@@ -138,7 +138,7 @@ To manipulate IAP
 -   is optional
 -   Type: `object` ([Details](generic-properties-iap.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-iap.md "http&#x3A;//example.com/mod.json#/properties/iap")
+-   defined in: [Create a mod](generic-properties-iap.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/iap")
 
 ### iap Type
 
@@ -146,7 +146,7 @@ To manipulate IAP
 
 ## marketing_campaign
 
-To manipulate marketing campaign
+To manipulate marketing campaign (NOT IMPLEMENTED YET)
 
 
 `marketing_campaign`
@@ -154,7 +154,7 @@ To manipulate marketing campaign
 -   is optional
 -   Type: `object` ([Details](generic-properties-marketing_campaign.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-marketing_campaign.md "http&#x3A;//example.com/mod.json#/properties/marketing_campaign")
+-   defined in: [Create a mod](generic-properties-marketing_campaign.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/marketing_campaign")
 
 ### marketing_campaign Type
 
@@ -162,7 +162,7 @@ To manipulate marketing campaign
 
 ## furniture
 
-To manipulate furnitures
+To manipulate furnitures (NOT IMPLEMENTED YET)
 
 
 `furniture`
@@ -170,7 +170,7 @@ To manipulate furnitures
 -   is optional
 -   Type: `object` ([Details](generic-properties-furniture.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-furniture.md "http&#x3A;//example.com/mod.json#/properties/furniture")
+-   defined in: [Create a mod](generic-properties-furniture.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/furniture")
 
 ### furniture Type
 
@@ -178,7 +178,7 @@ To manipulate furnitures
 
 ## difficulty
 
-To manipulate custom difficulties
+To manipulate custom difficulties (NOT IMPLEMENTED YET)
 
 
 `difficulty`
@@ -186,7 +186,7 @@ To manipulate custom difficulties
 -   is optional
 -   Type: `object` ([Details](generic-properties-difficulty.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-difficulty.md "http&#x3A;//example.com/mod.json#/properties/difficulty")
+-   defined in: [Create a mod](generic-properties-difficulty.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/difficulty")
 
 ### difficulty Type
 
@@ -194,7 +194,7 @@ To manipulate custom difficulties
 
 ## digital_store
 
-To manipulate digital store
+To manipulate digital store (NOT IMPLEMENTED YET)
 
 
 `digital_store`
@@ -202,7 +202,7 @@ To manipulate digital store
 -   is optional
 -   Type: `object` ([Details](generic-properties-digital_store.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-digital_store.md "http&#x3A;//example.com/mod.json#/properties/digital_store")
+-   defined in: [Create a mod](generic-properties-digital_store.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/digital_store")
 
 ### digital_store Type
 
@@ -210,7 +210,7 @@ To manipulate digital store
 
 ## game_engine
 
-To manipulate game engine
+To manipulate game engine (NOT IMPLEMENTED YET)
 
 
 `game_engine`
@@ -218,7 +218,7 @@ To manipulate game engine
 -   is optional
 -   Type: `object` ([Details](generic-properties-game_engine.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-game_engine.md "http&#x3A;//example.com/mod.json#/properties/game_engine")
+-   defined in: [Create a mod](generic-properties-game_engine.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/game_engine")
 
 ### game_engine Type
 

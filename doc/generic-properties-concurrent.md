@@ -1,7 +1,7 @@
-# Untitled object in Mod Schema
+# Untitled object in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/concurrent
+http://www.city-game-studio.com/mod.json#/properties/concurrent
 ```
 
 To manipulate concurrents
@@ -17,14 +17,14 @@ To manipulate concurrents
 
 # undefined Properties
 
-| Property          | Type    | Required | Nullable       | Defined by                                                                                                                            |
-| :---------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
-| [add](#add)       | `array` | Optional | cannot be null | [Mod](generic-properties-concurrent-properties-add.md "http&#x3A;//example.com/mod.json#/properties/concurrent/properties/add")       |
-| [rename](#rename) | `array` | Optional | cannot be null | [Mod](generic-properties-concurrent-properties-rename.md "http&#x3A;//example.com/mod.json#/properties/concurrent/properties/rename") |
+| Property          | Type    | Required | Nullable       | Defined by                                                                                                                                                  |
+| :---------------- | ------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [add](#add)       | `array` | Optional | cannot be null | [Create a mod](generic-properties-concurrent-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/concurrent/properties/add")       |
+| [rename](#rename) | `array` | Optional | cannot be null | [Create a mod](generic-properties-concurrent-properties-rename.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/concurrent/properties/rename") |
 
 ## add
 
-Add a new item
+Add a new concurrent
 
 
 `add`
@@ -32,7 +32,7 @@ Add a new item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-concurrent-properties-add-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-concurrent-properties-add.md "http&#x3A;//example.com/mod.json#/properties/concurrent/properties/add")
+-   defined in: [Create a mod](generic-properties-concurrent-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/concurrent/properties/add")
 
 ### add Type
 
@@ -40,7 +40,7 @@ Add a new item
 
 ## rename
 
-Rename an item
+Rename a concurrent
 
 
 `rename`
@@ -48,7 +48,7 @@ Rename an item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-concurrent-properties-rename-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-concurrent-properties-rename.md "http&#x3A;//example.com/mod.json#/properties/concurrent/properties/rename")
+-   defined in: [Create a mod](generic-properties-concurrent-properties-rename.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/concurrent/properties/rename")
 
 ### rename Type
 

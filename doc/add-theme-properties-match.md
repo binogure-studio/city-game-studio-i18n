@@ -1,7 +1,7 @@
-# Untitled object in Theme Schema
+# Untitled object in Add a new theme Schema
 
 ```txt
-http://example.com/add.theme.json#/properties/match
+http://www.city-game-studio.com/add.theme.json#/properties/match
 ```
 
 Theme/genre matches
@@ -17,12 +17,12 @@ Theme/genre matches
 
 # undefined Properties
 
-| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                  |
-| :---------------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| [excellent](#excellent) | `array` | Required | cannot be null | [Theme](add-theme-properties-match-properties-excellent.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/excellent") |
-| [good](#good)           | `array` | Required | cannot be null | [Theme](add-theme-properties-match-properties-good.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/good")           |
-| [ok](#ok)               | `array` | Required | cannot be null | [Theme](add-theme-properties-match-properties-ok.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/ok")               |
-| [poor](#poor)           | `array` | Required | cannot be null | [Theme](add-theme-properties-match-properties-poor.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/poor")           |
+| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                         |
+| :---------------------- | ------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [excellent](#excellent) | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-match-properties-excellent.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/excellent") |
+| [good](#good)           | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-match-properties-good.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/good")           |
+| [ok](#ok)               | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-match-properties-ok.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/ok")               |
+| [poor](#poor)           | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-match-properties-poor.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/poor")           |
 
 ## excellent
 
@@ -34,7 +34,7 @@ Theme/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Theme](add-theme-properties-match-properties-excellent.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/excellent")
+-   defined in: [Add a new theme](add-theme-properties-match-properties-excellent.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/excellent")
 
 ### excellent Type
 
@@ -56,7 +56,7 @@ Theme/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Theme](add-theme-properties-match-properties-good.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/good")
+-   defined in: [Add a new theme](add-theme-properties-match-properties-good.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/good")
 
 ### good Type
 
@@ -78,7 +78,7 @@ Theme/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Theme](add-theme-properties-match-properties-ok.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/ok")
+-   defined in: [Add a new theme](add-theme-properties-match-properties-ok.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/ok")
 
 ### ok Type
 
@@ -100,7 +100,7 @@ Theme/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Theme](add-theme-properties-match-properties-poor.md "http&#x3A;//example.com/add.theme.json#/properties/match/properties/poor")
+-   defined in: [Add a new theme](add-theme-properties-match-properties-poor.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/poor")
 
 ### poor Type
 

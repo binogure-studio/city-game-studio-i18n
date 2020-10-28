@@ -1,7 +1,7 @@
-# Untitled object in Mod Schema
+# Untitled object in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/theme
+http://www.city-game-studio.com/mod.json#/properties/theme
 ```
 
 To manipulate themes
@@ -17,13 +17,13 @@ To manipulate themes
 
 # undefined Properties
 
-| Property    | Type    | Required | Nullable       | Defined by                                                                                                            |
-| :---------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| [add](#add) | `array` | Optional | cannot be null | [Mod](generic-properties-theme-properties-add.md "http&#x3A;//example.com/mod.json#/properties/theme/properties/add") |
+| Property    | Type    | Required | Nullable       | Defined by                                                                                                                                  |
+| :---------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| [add](#add) | `array` | Optional | cannot be null | [Create a mod](generic-properties-theme-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme/properties/add") |
 
 ## add
 
-Add a new item
+Add a new themes
 
 
 `add`
@@ -31,7 +31,7 @@ Add a new item
 -   is optional
 -   Type: `object[]` ([Details](generic-properties-theme-properties-add-items.md))
 -   cannot be null
--   defined in: [Mod](generic-properties-theme-properties-add.md "http&#x3A;//example.com/mod.json#/properties/theme/properties/add")
+-   defined in: [Create a mod](generic-properties-theme-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme/properties/add")
 
 ### add Type
 

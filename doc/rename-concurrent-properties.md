@@ -1,7 +1,7 @@
-# Untitled undefined type in Concurrent Schema
+# Untitled undefined type in Rename a concurrent Schema
 
 ```txt
-http://example.com/rename.concurrent.json#/properties
+http://www.city-game-studio.com/rename.concurrent.json#/properties
 ```
 
 

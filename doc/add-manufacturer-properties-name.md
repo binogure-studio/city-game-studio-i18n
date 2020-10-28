@@ -1,7 +1,7 @@
-# Untitled string in Manufacturer Schema
+# Untitled string in Add a platform manufacturer Schema
 
 ```txt
-http://example.com/add.manufacturer.json#/properties/name
+http://www.city-game-studio.com/add.manufacturer.json#/properties/name
 ```
 
 Manufacturer founder's name

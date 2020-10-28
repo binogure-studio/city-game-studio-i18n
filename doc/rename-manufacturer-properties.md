@@ -1,7 +1,7 @@
-# Untitled undefined type in Manufacturer Schema
+# Untitled undefined type in Rename a Manufacturer Schema
 
 ```txt
-http://example.com/rename.manufacturer.json#/properties
+http://www.city-game-studio.com/rename.manufacturer.json#/properties
 ```
 
 

@@ -1,7 +1,7 @@
-# Untitled undefined type in Translation Schema
+# Untitled undefined type in Add a translation Schema
 
 ```txt
-http://example.com/add.translation.json#/properties
+http://www.city-game-studio.com/add.translation.json#/properties
 ```
 
 

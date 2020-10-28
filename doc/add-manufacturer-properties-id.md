@@ -1,10 +1,10 @@
-# Untitled string in Manufacturer Schema
+# Untitled string in Add a platform manufacturer Schema
 
 ```txt
-http://example.com/add.manufacturer.json#/properties/id
+http://www.city-game-studio.com/add.manufacturer.json#/properties/id
 ```
 
-UUID v4 (use <https://www.uuidgenerator.net/> to make one)
+UUID v4 (use <https://www.uuidgenerator.net/> to generate one)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                   |

@@ -1,7 +1,7 @@
-# Untitled object in Mod Schema
+# Untitled object in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/game_engine/properties/add/items
+http://www.city-game-studio.com/mod.json#/properties/game_engine/properties/add/items
 ```
 
 

@@ -1,10 +1,10 @@
-# Untitled string in Indie Schema
+# Untitled string in Add an Indie company Schema
 
 ```txt
-http://example.com/add.indie.json#/properties/name
+http://www.city-game-studio.com/add.indie.json#/properties/name
 ```
 
-New indie name
+Indie company name
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

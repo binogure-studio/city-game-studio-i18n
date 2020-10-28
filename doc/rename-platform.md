@@ -1,7 +1,7 @@
-# Platform Schema
+# Rename a Platform Schema
 
 ```txt
-http://example.com/rename.platform.json
+http://www.city-game-studio.com/rename.platform.json
 ```
 
 Rename a platform
@@ -11,16 +11,16 @@ Rename a platform
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------------- |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [rename-platform.schema.json](../out/rename-platform.schema.json "open original schema") |
 
-## Platform Type
+## Rename a Platform Type
 
-`object` ([Platform](rename-platform.md))
+`object` ([Rename a Platform](rename-platform.md))
 
-# Platform Properties
+# Rename a Platform Properties
 
-| Property      | Type      | Required | Nullable       | Defined by                                                                                                     |
-| :------------ | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------- |
-| [name](#name) | `string`  | Required | cannot be null | [Platform](rename-platform-properties-name.md "http&#x3A;//example.com/rename.platform.json#/properties/name") |
-| [id](#id)     | `integer` | Required | cannot be null | [Platform](rename-platform-properties-id.md "http&#x3A;//example.com/rename.platform.json#/properties/id")     |
+| Property      | Type      | Required | Nullable       | Defined by                                                                                                                           |
+| :------------ | --------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| [name](#name) | `string`  | Required | cannot be null | [Rename a Platform](rename-platform-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.platform.json#/properties/name") |
+| [id](#id)     | `integer` | Required | cannot be null | [Rename a Platform](rename-platform-properties-id.md "http&#x3A;//www.city-game-studio.com/rename.platform.json#/properties/id")     |
 
 ## name
 
@@ -32,7 +32,7 @@ Platform's name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Platform](rename-platform-properties-name.md "http&#x3A;//example.com/rename.platform.json#/properties/name")
+-   defined in: [Rename a Platform](rename-platform-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.platform.json#/properties/name")
 
 ### name Type
 
@@ -40,7 +40,7 @@ Platform's name
 
 ## id
 
-Platform to rename
+Platform's id to rename (integer)'
 
 
 `id`
@@ -48,7 +48,7 @@ Platform to rename
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Platform](rename-platform-properties-id.md "http&#x3A;//example.com/rename.platform.json#/properties/id")
+-   defined in: [Rename a Platform](rename-platform-properties-id.md "http&#x3A;//www.city-game-studio.com/rename.platform.json#/properties/id")
 
 ### id Type
 

@@ -1,10 +1,10 @@
-# Untitled image in Concurrent Schema
+# Untitled image in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties/logo
+http://www.city-game-studio.com/add.concurrent.json#/properties/logo
 ```
 
-Concurrent logo's
+Concurrent logo's (Size: 128x128, Format: PNG/JPEG)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                               |

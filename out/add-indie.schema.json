@@ -1,1 +1,1 @@
-{"$schema":"http://json-schema.org/draft-07/schema#","$id":"http://example.com/add.indie.json","title":"Indie","description":"Add an indie company","type":"object","properties":{"name":{"description":"New indie name","type":"string"}},"required":["name"]}
+{"$schema":"http://json-schema.org/draft-07/schema#","$id":"http://www.city-game-studio.com/add.indie.json","title":"Add an Indie company","description":"Add an indie company","type":"object","properties":{"name":{"description":"Indie company name","type":"string"}},"required":["name"]}

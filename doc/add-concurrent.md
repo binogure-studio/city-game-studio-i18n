@@ -1,33 +1,33 @@
-# Concurrent Schema
+# Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json
+http://www.city-game-studio.com/add.concurrent.json
 ```
 
-Add a concurrent
+Add a new competitor.
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                             |
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------------------- |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-concurrent.schema.json](../out/add-concurrent.schema.json "open original schema") |
 
-## Concurrent Type
+## Add a Concurrent Type
 
-`object` ([Concurrent](add-concurrent.md))
+`object` ([Add a Concurrent](add-concurrent.md))
 
-# Concurrent Properties
+# Add a Concurrent Properties
 
-| Property                | Type     | Required | Nullable       | Defined by                                                                                                               |
-| :---------------------- | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| [id](#id)               | `string` | Required | cannot be null | [Concurrent](add-concurrent-properties-id.md "http&#x3A;//example.com/add.concurrent.json#/properties/id")               |
-| [name](#name)           | `string` | Required | cannot be null | [Concurrent](add-concurrent-properties-name.md "http&#x3A;//example.com/add.concurrent.json#/properties/name")           |
-| [logo](#logo)           | `image`  | Required | cannot be null | [Concurrent](add-concurrent-properties-logo.md "http&#x3A;//example.com/add.concurrent.json#/properties/logo")           |
-| [specialty](#specialty) | `string` | Required | cannot be null | [Concurrent](add-concurrent-properties-specialty.md "http&#x3A;//example.com/add.concurrent.json#/properties/specialty") |
-| [engine](#engine)       | `object` | Required | cannot be null | [Concurrent](add-concurrent-properties-engine.md "http&#x3A;//example.com/add.concurrent.json#/properties/engine")       |
+| Property                | Type     | Required | Nullable       | Defined by                                                                                                                                  |
+| :---------------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| [id](#id)               | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-id.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/id")               |
+| [name](#name)           | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-name.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/name")           |
+| [logo](#logo)           | `image`  | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-logo.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/logo")           |
+| [specialty](#specialty) | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-specialty.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/specialty") |
+| [engine](#engine)       | `object` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine")       |
 
 ## id
 
-Concurrent's id (Generate a uuid)
+UUID v4 (use <https://www.uuidgenerator.net/> to generate one)
 
 
 `id`
@@ -35,7 +35,7 @@ Concurrent's id (Generate a uuid)
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-id.md "http&#x3A;//example.com/add.concurrent.json#/properties/id")
+-   defined in: [Add a Concurrent](add-concurrent-properties-id.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/id")
 
 ### id Type
 
@@ -43,7 +43,7 @@ Concurrent's id (Generate a uuid)
 
 ## name
 
-Concurrent's name
+Concurrent's name (Ubisoft, Bethesda...)
 
 
 `name`
@@ -51,7 +51,7 @@ Concurrent's name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-name.md "http&#x3A;//example.com/add.concurrent.json#/properties/name")
+-   defined in: [Add a Concurrent](add-concurrent-properties-name.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/name")
 
 ### name Type
 
@@ -59,7 +59,7 @@ Concurrent's name
 
 ## logo
 
-Concurrent logo's
+Concurrent logo's (Size: 128x128, Format: PNG/JPEG)
 
 
 `logo`
@@ -67,7 +67,7 @@ Concurrent logo's
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-logo.md "http&#x3A;//example.com/add.concurrent.json#/properties/logo")
+-   defined in: [Add a Concurrent](add-concurrent-properties-logo.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/logo")
 
 ### logo Type
 
@@ -75,7 +75,7 @@ Concurrent logo's
 
 ## specialty
 
-Conccurent specialty
+Concurrent specialty (action, aventure, casual, reflexion, strategy, simulation, rpg)
 
 
 `specialty`
@@ -83,11 +83,21 @@ Conccurent specialty
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-specialty.md "http&#x3A;//example.com/add.concurrent.json#/properties/specialty")
+-   defined in: [Add a Concurrent](add-concurrent-properties-specialty.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/specialty")
 
 ### specialty Type
 
 `string`
+
+### specialty Constraints
+
+**pattern**: the string must match the following regular expression: 
+
+```regexp
+(action|aventure|casual|reflexion|strategy|simulation|rpg)
+```
+
+[try pattern](https://regexr.com/?expression=(action%7Caventure%7Ccasual%7Creflexion%7Cstrategy%7Csimulation%7Crpg) "try regular expression with regexr.com")
 
 ## engine
 
@@ -99,7 +109,7 @@ Conccurent specialty
 -   is required
 -   Type: `object` ([Details](add-concurrent-properties-engine.md))
 -   cannot be null
--   defined in: [Concurrent](add-concurrent-properties-engine.md "http&#x3A;//example.com/add.concurrent.json#/properties/engine")
+-   defined in: [Add a Concurrent](add-concurrent-properties-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine")
 
 ### engine Type
 

@@ -1,7 +1,7 @@
-# Untitled array in Theme Schema
+# Untitled array in Add a new theme Schema
 
 ```txt
-http://example.com/add.theme.json#/properties/match/properties/good
+http://www.city-game-studio.com/add.theme.json#/properties/match/properties/good
 ```
 
 

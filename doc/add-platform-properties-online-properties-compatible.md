@@ -1,7 +1,7 @@
-# Untitled boolean in Platform Schema
+# Untitled boolean in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/online/properties/compatible
+http://www.city-game-studio.com/add.platform.json#/properties/online/properties/compatible
 ```
 
 True if the platform is online, false otherwise

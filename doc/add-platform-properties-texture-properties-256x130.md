@@ -1,10 +1,10 @@
-# Untitled image in Platform Schema
+# Untitled image in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/texture/properties/256x130
+http://www.city-game-studio.com/add.platform.json#/properties/texture/properties/256x130
 ```
 
-Platform's texture
+Platform's texture (Size: 256x130, Format: PNG/JPG)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                           |

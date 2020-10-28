@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/duration/properties/end
+http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/end
 ```
 
 Discontinuation date of the platform
@@ -17,10 +17,10 @@ Discontinuation date of the platform
 
 # undefined Properties
 
-| Property        | Type      | Required | Nullable       | Defined by                                                                                                                                                                       |
-| :-------------- | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [year](#year)   | `integer` | Required | cannot be null | [Platform](add-platform-properties-duration-properties-end-properties-year.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/end/properties/year")   |
-| [month](#month) | `integer` | Required | cannot be null | [Platform](add-platform-properties-duration-properties-end-properties-month.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/end/properties/month") |
+| Property        | Type      | Required | Nullable       | Defined by                                                                                                                                                                                              |
+| :-------------- | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [year](#year)   | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-duration-properties-end-properties-year.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/end/properties/year")   |
+| [month](#month) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-duration-properties-end-properties-month.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/end/properties/month") |
 
 ## year
 
@@ -32,7 +32,7 @@ Year
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-duration-properties-end-properties-year.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/end/properties/year")
+-   defined in: [Add a new platform](add-platform-properties-duration-properties-end-properties-year.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/end/properties/year")
 
 ### year Type
 
@@ -54,7 +54,7 @@ Month
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-duration-properties-end-properties-month.md "http&#x3A;//example.com/add.platform.json#/properties/duration/properties/end/properties/month")
+-   defined in: [Add a new platform](add-platform-properties-duration-properties-end-properties-month.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration/properties/end/properties/month")
 
 ### month Type
 

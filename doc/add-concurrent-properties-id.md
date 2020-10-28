@@ -1,10 +1,10 @@
-# Untitled string in Concurrent Schema
+# Untitled string in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties/id
+http://www.city-game-studio.com/add.concurrent.json#/properties/id
 ```
 
-Concurrent's id (Generate a uuid)
+UUID v4 (use <https://www.uuidgenerator.net/> to generate one)
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                               |

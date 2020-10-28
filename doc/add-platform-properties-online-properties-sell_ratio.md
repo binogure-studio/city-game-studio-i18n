@@ -1,7 +1,7 @@
-# Untitled number in Platform Schema
+# Untitled number in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/online/properties/sell_ratio
+http://www.city-game-studio.com/add.platform.json#/properties/online/properties/sell_ratio
 ```
 
 Sell ratio of the platform (never above 1)

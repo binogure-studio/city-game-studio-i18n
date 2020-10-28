@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/online
+http://www.city-game-studio.com/add.platform.json#/properties/online
 ```
 
 
@@ -17,10 +17,10 @@ http://example.com/add.platform.json#/properties/online
 
 # undefined Properties
 
-| Property                  | Type      | Required | Nullable       | Defined by                                                                                                                                               |
-| :------------------------ | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [compatible](#compatible) | `boolean` | Required | cannot be null | [Platform](add-platform-properties-online-properties-compatible.md "http&#x3A;//example.com/add.platform.json#/properties/online/properties/compatible") |
-| [sell_ratio](#sell_ratio) | `number`  | Required | cannot be null | [Platform](add-platform-properties-online-properties-sell_ratio.md "http&#x3A;//example.com/add.platform.json#/properties/online/properties/sell_ratio") |
+| Property                  | Type      | Required | Nullable       | Defined by                                                                                                                                                                      |
+| :------------------------ | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [compatible](#compatible) | `boolean` | Required | cannot be null | [Add a new platform](add-platform-properties-online-properties-compatible.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online/properties/compatible") |
+| [sell_ratio](#sell_ratio) | `number`  | Required | cannot be null | [Add a new platform](add-platform-properties-online-properties-sell_ratio.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online/properties/sell_ratio") |
 
 ## compatible
 
@@ -32,7 +32,7 @@ True if the platform is online, false otherwise
 -   is required
 -   Type: `boolean`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-online-properties-compatible.md "http&#x3A;//example.com/add.platform.json#/properties/online/properties/compatible")
+-   defined in: [Add a new platform](add-platform-properties-online-properties-compatible.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online/properties/compatible")
 
 ### compatible Type
 
@@ -48,7 +48,7 @@ Sell ratio of the platform (never above 1)
 -   is required
 -   Type: `number`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-online-properties-sell_ratio.md "http&#x3A;//example.com/add.platform.json#/properties/online/properties/sell_ratio")
+-   defined in: [Add a new platform](add-platform-properties-online-properties-sell_ratio.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online/properties/sell_ratio")
 
 ### sell_ratio Type
 

@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/cost
+http://www.city-game-studio.com/add.platform.json#/properties/cost
 ```
 
 Development and license costs
@@ -17,10 +17,10 @@ Development and license costs
 
 # undefined Properties
 
-| Property            | Type      | Required | Nullable       | Defined by                                                                                                                                     |
-| :------------------ | --------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| [license](#license) | `integer` | Required | cannot be null | [Platform](add-platform-properties-cost-properties-license.md "http&#x3A;//example.com/add.platform.json#/properties/cost/properties/license") |
-| [dev](#dev)         | `integer` | Required | cannot be null | [Platform](add-platform-properties-cost-properties-dev.md "http&#x3A;//example.com/add.platform.json#/properties/cost/properties/dev")         |
+| Property            | Type      | Required | Nullable       | Defined by                                                                                                                                                            |
+| :------------------ | --------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [license](#license) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-cost-properties-license.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/license") |
+| [dev](#dev)         | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-cost-properties-dev.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/dev")         |
 
 ## license
 
@@ -32,7 +32,7 @@ License costs of the platform
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-cost-properties-license.md "http&#x3A;//example.com/add.platform.json#/properties/cost/properties/license")
+-   defined in: [Add a new platform](add-platform-properties-cost-properties-license.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/license")
 
 ### license Type
 
@@ -54,7 +54,7 @@ Development costs of the platform
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-cost-properties-dev.md "http&#x3A;//example.com/add.platform.json#/properties/cost/properties/dev")
+-   defined in: [Add a new platform](add-platform-properties-cost-properties-dev.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/dev")
 
 ### dev Type
 

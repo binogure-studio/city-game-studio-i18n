@@ -1,7 +1,7 @@
-# Translation Schema
+# Add a translation Schema
 
 ```txt
-http://example.com/add.translation.json
+http://www.city-game-studio.com/add.translation.json
 ```
 
 Add a translation
@@ -11,17 +11,17 @@ Add a translation
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------------- |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-translation.schema.json](../out/add-translation.schema.json "open original schema") |
 
-## Translation Type
+## Add a translation Type
 
-`object` ([Translation](add-translation.md))
+`object` ([Add a translation](add-translation.md))
 
-# Translation Properties
+# Add a translation Properties
 
-| Property              | Type     | Required | Nullable       | Defined by                                                                                                                |
-| :-------------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------ |
-| [name](#name)         | `string` | Required | cannot be null | [Translation](add-translation-properties-name.md "http&#x3A;//example.com/add.translation.json#/properties/name")         |
-| [locale](#locale)     | `string` | Required | cannot be null | [Translation](add-translation-properties-locale.md "http&#x3A;//example.com/add.translation.json#/properties/locale")     |
-| [messages](#messages) | `object` | Required | cannot be null | [Translation](add-translation-properties-messages.md "http&#x3A;//example.com/add.translation.json#/properties/messages") |
+| Property              | Type     | Required | Nullable       | Defined by                                                                                                                                   |
+| :-------------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| [name](#name)         | `string` | Required | cannot be null | [Add a translation](add-translation-properties-name.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/name")         |
+| [locale](#locale)     | `string` | Required | cannot be null | [Add a translation](add-translation-properties-locale.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/locale")     |
+| [messages](#messages) | `object` | Required | cannot be null | [Add a translation](add-translation-properties-messages.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages") |
 
 ## name
 
@@ -33,7 +33,7 @@ Locale names (shown onto the main menu)
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Translation](add-translation-properties-name.md "http&#x3A;//example.com/add.translation.json#/properties/name")
+-   defined in: [Add a translation](add-translation-properties-name.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/name")
 
 ### name Type
 
@@ -49,7 +49,7 @@ Locale code (en, es, fr, zh, ru, pt...)
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Translation](add-translation-properties-locale.md "http&#x3A;//example.com/add.translation.json#/properties/locale")
+-   defined in: [Add a translation](add-translation-properties-locale.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/locale")
 
 ### locale Type
 
@@ -57,7 +57,7 @@ Locale code (en, es, fr, zh, ru, pt...)
 
 ## messages
 
-
+KEY: VALUE. Example: LABEL_THEME_SCHOOL: School
 
 
 `messages`
@@ -65,7 +65,7 @@ Locale code (en, es, fr, zh, ru, pt...)
 -   is required
 -   Type: `object` ([Details](add-translation-properties-messages.md))
 -   cannot be null
--   defined in: [Translation](add-translation-properties-messages.md "http&#x3A;//example.com/add.translation.json#/properties/messages")
+-   defined in: [Add a translation](add-translation-properties-messages.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages")
 
 ### messages Type
 

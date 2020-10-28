@@ -1,7 +1,7 @@
-# Indie Schema
+# Rename an Indie company Schema
 
 ```txt
-http://example.com/rename.indie.json
+http://www.city-game-studio.com/rename.indie.json
 ```
 
 Rename an indie company
@@ -11,16 +11,16 @@ Rename an indie company
 | :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------- |
 | Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [rename-indie.schema.json](../out/rename-indie.schema.json "open original schema") |
 
-## Indie Type
+## Rename an Indie company Type
 
-`object` ([Indie](rename-indie.md))
+`object` ([Rename an Indie company](rename-indie.md))
 
-# Indie Properties
+# Rename an Indie company Properties
 
-| Property                        | Type     | Required | Nullable       | Defined by                                                                                                              |
-| :------------------------------ | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| [name](#name)                   | `string` | Required | cannot be null | [Indie](rename-indie-properties-name.md "http&#x3A;//example.com/rename.indie.json#/properties/name")                   |
-| [original_name](#original_name) | `string` | Required | cannot be null | [Indie](rename-indie-properties-original_name.md "http&#x3A;//example.com/rename.indie.json#/properties/original_name") |
+| Property                        | Type     | Required | Nullable       | Defined by                                                                                                                                             |
+| :------------------------------ | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [name](#name)                   | `string` | Required | cannot be null | [Rename an Indie company](rename-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/name")                   |
+| [original_name](#original_name) | `string` | Required | cannot be null | [Rename an Indie company](rename-indie-properties-original_name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/original_name") |
 
 ## name
 
@@ -32,7 +32,7 @@ New indie name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Indie](rename-indie-properties-name.md "http&#x3A;//example.com/rename.indie.json#/properties/name")
+-   defined in: [Rename an Indie company](rename-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/name")
 
 ### name Type
 
@@ -48,7 +48,7 @@ Original indie name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Indie](rename-indie-properties-original_name.md "http&#x3A;//example.com/rename.indie.json#/properties/original_name")
+-   defined in: [Rename an Indie company](rename-indie-properties-original_name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/original_name")
 
 ### original_name Type
 

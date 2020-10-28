@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/texture
+http://www.city-game-studio.com/add.platform.json#/properties/texture
 ```
 
 Platform's textures
@@ -17,15 +17,15 @@ Platform's textures
 
 # undefined Properties
 
-| Property            | Type    | Required | Nullable       | Defined by                                                                                                                                           |
-| :------------------ | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [512x261](#512x261) | `image` | Required | cannot be null | [Platform](add-platform-properties-texture-properties-512x261.md "http&#x3A;//example.com/add.platform.json#/properties/texture/properties/512x261") |
-| [256x130](#256x130) | `image` | Required | cannot be null | [Platform](add-platform-properties-texture-properties-256x130.md "http&#x3A;//example.com/add.platform.json#/properties/texture/properties/256x130") |
-| [128x65](#128x65)   | `image` | Required | cannot be null | [Platform](add-platform-properties-texture-properties-128x65.md "http&#x3A;//example.com/add.platform.json#/properties/texture/properties/128x65")   |
+| Property            | Type    | Required | Nullable       | Defined by                                                                                                                                                                  |
+| :------------------ | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [512x261](#512x261) | `image` | Required | cannot be null | [Add a new platform](add-platform-properties-texture-properties-512x261.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture/properties/512x261") |
+| [256x130](#256x130) | `image` | Required | cannot be null | [Add a new platform](add-platform-properties-texture-properties-256x130.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture/properties/256x130") |
+| [128x65](#128x65)   | `image` | Required | cannot be null | [Add a new platform](add-platform-properties-texture-properties-128x65.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture/properties/128x65")   |
 
 ## 512x261
 
-Platform's texture
+Platform's texture (Size: 512x261, Format: PNG/JPG)
 
 
 `512x261`
@@ -33,7 +33,7 @@ Platform's texture
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-texture-properties-512x261.md "http&#x3A;//example.com/add.platform.json#/properties/texture/properties/512x261")
+-   defined in: [Add a new platform](add-platform-properties-texture-properties-512x261.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture/properties/512x261")
 
 ### 512x261 Type
 
@@ -41,7 +41,7 @@ Platform's texture
 
 ## 256x130
 
-Platform's texture
+Platform's texture (Size: 256x130, Format: PNG/JPG)
 
 
 `256x130`
@@ -49,7 +49,7 @@ Platform's texture
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-texture-properties-256x130.md "http&#x3A;//example.com/add.platform.json#/properties/texture/properties/256x130")
+-   defined in: [Add a new platform](add-platform-properties-texture-properties-256x130.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture/properties/256x130")
 
 ### 256x130 Type
 
@@ -57,7 +57,7 @@ Platform's texture
 
 ## 128x65
 
-Platform's texture
+Platform's texture (Size: 128x65, Format: PNG/JPG)
 
 
 `128x65`
@@ -65,7 +65,7 @@ Platform's texture
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-texture-properties-128x65.md "http&#x3A;//example.com/add.platform.json#/properties/texture/properties/128x65")
+-   defined in: [Add a new platform](add-platform-properties-texture-properties-128x65.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture/properties/128x65")
 
 ### 128x65 Type
 

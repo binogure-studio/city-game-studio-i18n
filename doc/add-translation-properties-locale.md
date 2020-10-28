@@ -1,7 +1,7 @@
-# Untitled string in Translation Schema
+# Untitled string in Add a translation Schema
 
 ```txt
-http://example.com/add.translation.json#/properties/locale
+http://www.city-game-studio.com/add.translation.json#/properties/locale
 ```
 
 Locale code (en, es, fr, zh, ru, pt...)

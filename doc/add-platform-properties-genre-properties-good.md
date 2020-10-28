@@ -1,7 +1,7 @@
-# Untitled array in Platform Schema
+# Untitled array in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/genre/properties/good
+http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/good
 ```
 
 

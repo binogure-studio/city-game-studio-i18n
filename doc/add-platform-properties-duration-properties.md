@@ -1,7 +1,7 @@
-# Untitled undefined type in Platform Schema
+# Untitled undefined type in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/duration/properties
+http://www.city-game-studio.com/add.platform.json#/properties/duration/properties
 ```
 
 

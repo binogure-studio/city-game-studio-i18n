@@ -1,7 +1,7 @@
-# Untitled string in Concurrent Schema
+# Untitled string in Rename a concurrent Schema
 
 ```txt
-http://example.com/rename.concurrent.json#/properties/name
+http://www.city-game-studio.com/rename.concurrent.json#/properties/name
 ```
 
 Concurrent's name

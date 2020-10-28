@@ -1,7 +1,7 @@
-# Untitled array in Concurrent Schema
+# Untitled array in Add a Concurrent Schema
 
 ```txt
-http://example.com/add.concurrent.json#/properties/engine/properties/royalties
+http://www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/royalties
 ```
 
 Range for the concurrent engine royalties

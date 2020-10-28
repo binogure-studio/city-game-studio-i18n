@@ -1,10 +1,10 @@
-# Untitled integer in Platform Schema
+# Untitled integer in Rename a Platform Schema
 
 ```txt
-http://example.com/rename.platform.json#/properties/id
+http://www.city-game-studio.com/rename.platform.json#/properties/id
 ```
 
-Platform to rename
+Platform's id to rename (integer)'
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                 |

@@ -1,10 +1,10 @@
-# Untitled object in Translation Schema
+# Untitled object in Add a translation Schema
 
 ```txt
-http://example.com/add.translation.json#/properties/messages
+http://www.city-game-studio.com/add.translation.json#/properties/messages
 ```
 
-
+KEY: VALUE. Example: LABEL_THEME_SCHOOL: School
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                 |

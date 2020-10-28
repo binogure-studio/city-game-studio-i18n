@@ -1,7 +1,7 @@
-# Untitled object in Platform Schema
+# Untitled object in Add a new platform Schema
 
 ```txt
-http://example.com/add.platform.json#/properties/genre
+http://www.city-game-studio.com/add.platform.json#/properties/genre
 ```
 
 Platform/genre matches
@@ -17,12 +17,12 @@ Platform/genre matches
 
 # undefined Properties
 
-| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                           |
-| :---------------------- | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [excellent](#excellent) | `array` | Required | cannot be null | [Platform](add-platform-properties-genre-properties-excellent.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/excellent") |
-| [good](#good)           | `array` | Required | cannot be null | [Platform](add-platform-properties-genre-properties-good.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/good")           |
-| [ok](#ok)               | `array` | Required | cannot be null | [Platform](add-platform-properties-genre-properties-ok.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/ok")               |
-| [poor](#poor)           | `array` | Required | cannot be null | [Platform](add-platform-properties-genre-properties-poor.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/poor")           |
+| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                                  |
+| :---------------------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [excellent](#excellent) | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-genre-properties-excellent.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/excellent") |
+| [good](#good)           | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-genre-properties-good.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/good")           |
+| [ok](#ok)               | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-genre-properties-ok.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/ok")               |
+| [poor](#poor)           | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-genre-properties-poor.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/poor")           |
 
 ## excellent
 
@@ -34,7 +34,7 @@ Platform/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-genre-properties-excellent.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/excellent")
+-   defined in: [Add a new platform](add-platform-properties-genre-properties-excellent.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/excellent")
 
 ### excellent Type
 
@@ -56,7 +56,7 @@ Platform/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-genre-properties-good.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/good")
+-   defined in: [Add a new platform](add-platform-properties-genre-properties-good.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/good")
 
 ### good Type
 
@@ -78,7 +78,7 @@ Platform/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-genre-properties-ok.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/ok")
+-   defined in: [Add a new platform](add-platform-properties-genre-properties-ok.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/ok")
 
 ### ok Type
 
@@ -100,7 +100,7 @@ Platform/genre matches
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Platform](add-platform-properties-genre-properties-poor.md "http&#x3A;//example.com/add.platform.json#/properties/genre/properties/poor")
+-   defined in: [Add a new platform](add-platform-properties-genre-properties-poor.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/poor")
 
 ### poor Type
 

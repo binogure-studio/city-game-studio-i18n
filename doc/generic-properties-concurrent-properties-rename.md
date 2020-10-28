@@ -1,10 +1,10 @@
-# Untitled array in Mod Schema
+# Untitled array in Create a mod Schema
 
 ```txt
-http://example.com/mod.json#/properties/concurrent/properties/rename
+http://www.city-game-studio.com/mod.json#/properties/concurrent/properties/rename
 ```
 
-Rename an item
+Rename a concurrent
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |
