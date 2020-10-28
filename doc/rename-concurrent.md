@@ -1,16 +1,3 @@
-# Rename a concurrent Schema
-
-```txt
-http://www.city-game-studio.com/rename.concurrent.json
-```
-
-Rename a concurrent
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                   |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [rename-concurrent.schema.json](../out/rename-concurrent.schema.json "open original schema") |
-
 ## Rename a concurrent Type
 
 `object` ([Rename a concurrent](rename-concurrent.md))

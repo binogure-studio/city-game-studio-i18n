@@ -1,16 +1,3 @@
-# Add a new platform Schema
-
-```txt
-http://www.city-game-studio.com/add.platform.json
-```
-
-Add a new platform
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                         |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-platform.schema.json](../out/add-platform.schema.json "open original schema") |
-
 ## Add a new platform Type
 
 `object` ([Add a new platform](add-platform.md))

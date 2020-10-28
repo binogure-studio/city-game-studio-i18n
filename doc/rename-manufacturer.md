@@ -1,16 +1,3 @@
-# Rename a Manufacturer Schema
-
-```txt
-http://www.city-game-studio.com/rename.manufacturer.json
-```
-
-Rename a manufacturer
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                       |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [rename-manufacturer.schema.json](../out/rename-manufacturer.schema.json "open original schema") |
-
 ## Rename a Manufacturer Type
 
 `object` ([Rename a Manufacturer](rename-manufacturer.md))

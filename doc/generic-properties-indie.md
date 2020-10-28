@@ -1,16 +1,3 @@
-# Untitled object in Create a mod Schema
-
-```txt
-http://www.city-game-studio.com/mod.json#/properties/indie
-```
-
-To manipulate indie companies
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [generic.schema.json\*](../out/generic.schema.json "open original schema") |
-
 ## indie Type
 
 `object` ([Details](generic-properties-indie.md))

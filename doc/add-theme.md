@@ -1,16 +1,3 @@
-# Add a new theme Schema
-
-```txt
-http://www.city-game-studio.com/add.theme.json
-```
-
-Add a theme
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                   |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-theme.schema.json](../out/add-theme.schema.json "open original schema") |
-
 ## Add a new theme Type
 
 `object` ([Add a new theme](add-theme.md))

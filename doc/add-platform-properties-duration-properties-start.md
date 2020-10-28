@@ -1,16 +1,3 @@
-# Untitled object in Add a new platform Schema
-
-```txt
-http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/start
-```
-
-Release date of the platform
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                           |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-platform.schema.json\*](../out/add-platform.schema.json "open original schema") |
-
 ## start Type
 
 `object` ([Details](add-platform-properties-duration-properties-start.md))

@@ -1,16 +1,3 @@
-# Add a translation Schema
-
-```txt
-http://www.city-game-studio.com/add.translation.json
-```
-
-Add a translation
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                               |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-translation.schema.json](../out/add-translation.schema.json "open original schema") |
-
 ## Add a translation Type
 
 `object` ([Add a translation](add-translation.md))

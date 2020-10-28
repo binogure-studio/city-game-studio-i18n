@@ -1,16 +1,3 @@
-# Rename an Indie company Schema
-
-```txt
-http://www.city-game-studio.com/rename.indie.json
-```
-
-Rename an indie company
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                         |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [rename-indie.schema.json](../out/rename-indie.schema.json "open original schema") |
-
 ## Rename an Indie company Type
 
 `object` ([Rename an Indie company](rename-indie.md))

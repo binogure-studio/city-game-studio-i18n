@@ -1,16 +1,3 @@
-# Untitled object in Add a new platform Schema
-
-```txt
-http://www.city-game-studio.com/add.platform.json#/properties/texture
-```
-
-Platform's textures
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                           |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-platform.schema.json\*](../out/add-platform.schema.json "open original schema") |
-
 ## texture Type
 
 `object` ([Details](add-platform-properties-texture.md))

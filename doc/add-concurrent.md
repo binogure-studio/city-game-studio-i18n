@@ -1,16 +1,3 @@
-# Add a Concurrent Schema
-
-```txt
-http://www.city-game-studio.com/add.concurrent.json
-```
-
-Add a new competitor.
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                             |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-concurrent.schema.json](../out/add-concurrent.schema.json "open original schema") |
-
 ## Add a Concurrent Type
 
 `object` ([Add a Concurrent](add-concurrent.md))

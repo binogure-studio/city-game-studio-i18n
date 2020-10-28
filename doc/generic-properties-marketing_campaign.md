@@ -1,16 +1,3 @@
-# Untitled object in Create a mod Schema
-
-```txt
-http://www.city-game-studio.com/mod.json#/properties/marketing_campaign
-```
-
-To manipulate marketing campaign (NOT IMPLEMENTED YET)
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                 |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | -------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [generic.schema.json\*](../out/generic.schema.json "open original schema") |
-
 ## marketing_campaign Type
 
 `object` ([Details](generic-properties-marketing_campaign.md))

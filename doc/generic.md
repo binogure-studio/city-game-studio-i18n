@@ -1,16 +1,3 @@
-# Create a mod Schema
-
-```txt
-http://www.city-game-studio.com/mod.json
-```
-
-Generic structure of a mod
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                               |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [generic.schema.json](../out/generic.schema.json "open original schema") |
-
 ## Create a mod Type
 
 `object` ([Create a mod](generic.md))

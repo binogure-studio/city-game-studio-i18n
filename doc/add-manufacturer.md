@@ -1,16 +1,3 @@
-# Add a platform manufacturer Schema
-
-```txt
-http://www.city-game-studio.com/add.manufacturer.json
-```
-
-Add a manufacturer
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                                 |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ------------------------------------------------------------------------------------------ |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-manufacturer.schema.json](../out/add-manufacturer.schema.json "open original schema") |
-
 ## Add a platform manufacturer Type
 
 `object` ([Add a platform manufacturer](add-manufacturer.md))

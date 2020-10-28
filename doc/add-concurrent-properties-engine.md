@@ -1,16 +1,3 @@
-# Untitled object in Add a Concurrent Schema
-
-```txt
-http://www.city-game-studio.com/add.concurrent.json#/properties/engine
-```
-
-
-
-
-| Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                               |
-| :------------------ | ---------- | -------------- | ------------ | :---------------- | --------------------- | ------------------- | ---------------------------------------------------------------------------------------- |
-| Can be instantiated | No         | Unknown status | No           | Forbidden         | Allowed               | none                | [add-concurrent.schema.json\*](../out/add-concurrent.schema.json "open original schema") |
-
 ## engine Type
 
 `object` ([Details](add-concurrent-properties-engine.md))
