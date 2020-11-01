@@ -1,8 +1,8 @@
 ## online Type
 
-`object` ([Details](add-platform-properties-online.md))
+`object` ([Online](add-platform-properties-online.md))
 
-# undefined Properties
+# Online Properties
 
 | Property                  | Type      | Required | Nullable       | Defined by                                                                                                                                                                      |
 | :------------------------ | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

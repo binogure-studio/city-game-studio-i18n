@@ -4,11 +4,11 @@
 
 # Add a translation Properties
 
-| Property              | Type     | Required | Nullable       | Defined by                                                                                                                                   |
-| :-------------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| [name](#name)         | `string` | Required | cannot be null | [Add a translation](add-translation-properties-name.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/name")         |
-| [locale](#locale)     | `string` | Required | cannot be null | [Add a translation](add-translation-properties-locale.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/locale")     |
-| [messages](#messages) | `object` | Required | cannot be null | [Add a translation](add-translation-properties-messages.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages") |
+| Property              | Type     | Required | Nullable       | Defined by                                                                                                                                            |
+| :-------------------- | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [name](#name)         | `string` | Required | cannot be null | [Add a translation](add-translation-properties-name.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/name")                  |
+| [locale](#locale)     | `string` | Required | cannot be null | [Add a translation](add-translation-properties-locale.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/locale")              |
+| [messages](#messages) | `object` | Required | cannot be null | [Add a translation](add-translation-properties-translations-list.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages") |
 
 ## name
 
@@ -50,10 +50,10 @@ KEY: VALUE. Example: LABEL_THEME_SCHOOL: School
 `messages`
 
 -   is required
--   Type: `object` ([Details](add-translation-properties-messages.md))
+-   Type: `object` ([Translations list](add-translation-properties-translations-list.md))
 -   cannot be null
--   defined in: [Add a translation](add-translation-properties-messages.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages")
+-   defined in: [Add a translation](add-translation-properties-translations-list.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages")
 
 ### messages Type
 
-`object` ([Details](add-translation-properties-messages.md))
+`object` ([Translations list](add-translation-properties-translations-list.md))

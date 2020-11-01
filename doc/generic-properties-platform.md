@@ -1,8 +1,8 @@
 ## platform Type
 
-`object` ([Details](generic-properties-platform.md))
+`object` ([Platform](generic-properties-platform.md))
 
-# undefined Properties
+# Platform Properties
 
 | Property          | Type    | Required | Nullable       | Defined by                                                                                                                                              |
 | :---------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |

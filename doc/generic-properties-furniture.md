@@ -1,8 +1,8 @@
 ## furniture Type
 
-`object` ([Details](generic-properties-furniture.md))
+`object` ([Furniture](generic-properties-furniture.md))
 
-# undefined Properties
+# Furniture Properties
 
 | Property    | Type    | Required | Nullable       | Defined by                                                                                                                                          |
 | :---------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |

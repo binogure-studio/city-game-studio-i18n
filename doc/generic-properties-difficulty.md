@@ -1,8 +1,8 @@
 ## difficulty Type
 
-`object` ([Details](generic-properties-difficulty.md))
+`object` ([Difficulty](generic-properties-difficulty.md))
 
-# undefined Properties
+# Difficulty Properties
 
 | Property    | Type    | Required | Nullable       | Defined by                                                                                                                                            |
 | :---------- | ------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
