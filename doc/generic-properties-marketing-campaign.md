@@ -16,10 +16,10 @@ Add a new marketing campaign
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-marketing-campaign-properties-add-marketing-campaign-items.md))
+-   Type: `object[]` ([Add marketing campaign (NOT YET IMPLEMENTED)](generic-properties-marketing-campaign-properties-add-marketing-campaign-add-marketing-campaign-not-yet-implemented.md))
 -   cannot be null
 -   defined in: [Create a mod](generic-properties-marketing-campaign-properties-add-marketing-campaign.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-marketing-campaign-properties-add-marketing-campaign-items.md))
+`object[]` ([Add marketing campaign (NOT YET IMPLEMENTED)](generic-properties-marketing-campaign-properties-add-marketing-campaign-add-marketing-campaign-not-yet-implemented.md))

@@ -16,10 +16,10 @@ Add a new IAP
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-in-app-purchase-properties-add-iap-items.md))
+-   Type: `object[]` ([Add IAP (NOT YET IMPLEMENTED)](generic-properties-in-app-purchase-properties-add-iap-add-iap-not-yet-implemented.md))
 -   cannot be null
 -   defined in: [Create a mod](generic-properties-in-app-purchase-properties-add-iap.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/iap/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-in-app-purchase-properties-add-iap-items.md))
+`object[]` ([Add IAP (NOT YET IMPLEMENTED)](generic-properties-in-app-purchase-properties-add-iap-add-iap-not-yet-implemented.md))

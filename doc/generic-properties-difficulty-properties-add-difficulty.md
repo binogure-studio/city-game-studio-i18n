@@ -1,3 +1,3 @@
 ## add Type
 
-`object[]` ([Details](generic-properties-difficulty-properties-add-difficulty-items.md))
+`object[]` ([Add difficulty (NOT YET IMPLEMENTED)](generic-properties-difficulty-properties-add-difficulty-add-difficulty-not-yet-implemented.md))

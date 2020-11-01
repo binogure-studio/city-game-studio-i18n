@@ -16,10 +16,10 @@ Add a new difficulty
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-difficulty-properties-add-difficulty-items.md))
+-   Type: `object[]` ([Add difficulty (NOT YET IMPLEMENTED)](generic-properties-difficulty-properties-add-difficulty-add-difficulty-not-yet-implemented.md))
 -   cannot be null
 -   defined in: [Create a mod](generic-properties-difficulty-properties-add-difficulty.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/difficulty/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-difficulty-properties-add-difficulty-items.md))
+`object[]` ([Add difficulty (NOT YET IMPLEMENTED)](generic-properties-difficulty-properties-add-difficulty-add-difficulty-not-yet-implemented.md))

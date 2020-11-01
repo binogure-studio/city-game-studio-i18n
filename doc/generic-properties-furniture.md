@@ -16,10 +16,10 @@ Add a new item
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-furniture-properties-add-furniture-items.md))
+-   Type: `object[]` ([Add furniture (NOT YET IMPLEMENTED)](generic-properties-furniture-properties-add-furniture-add-furniture-not-yet-implemented.md))
 -   cannot be null
 -   defined in: [Create a mod](generic-properties-furniture-properties-add-furniture.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/furniture/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-furniture-properties-add-furniture-items.md))
+`object[]` ([Add furniture (NOT YET IMPLEMENTED)](generic-properties-furniture-properties-add-furniture-add-furniture-not-yet-implemented.md))

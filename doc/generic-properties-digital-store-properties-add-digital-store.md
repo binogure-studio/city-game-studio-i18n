@@ -1,3 +1,3 @@
 ## add Type
 
-`object[]` ([Details](generic-properties-digital-store-properties-add-digital-store-items.md))
+`object[]` ([Add digital store feature (NOT YET IMPLEMENTED)](generic-properties-digital-store-properties-add-digital-store-add-digital-store-feature-not-yet-implemented.md))

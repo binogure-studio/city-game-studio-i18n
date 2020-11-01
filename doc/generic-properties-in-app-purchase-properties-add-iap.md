@@ -1,3 +1,3 @@
 ## add Type
 
-`object[]` ([Details](generic-properties-in-app-purchase-properties-add-iap-items.md))
+`object[]` ([Add IAP (NOT YET IMPLEMENTED)](generic-properties-in-app-purchase-properties-add-iap-add-iap-not-yet-implemented.md))

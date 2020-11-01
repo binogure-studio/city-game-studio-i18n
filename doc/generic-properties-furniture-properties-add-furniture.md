@@ -1,3 +1,3 @@
 ## add Type
 
-`object[]` ([Details](generic-properties-furniture-properties-add-furniture-items.md))
+`object[]` ([Add furniture (NOT YET IMPLEMENTED)](generic-properties-furniture-properties-add-furniture-add-furniture-not-yet-implemented.md))

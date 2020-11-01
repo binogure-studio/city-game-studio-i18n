@@ -16,10 +16,10 @@ Add a new feature
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-game-engine-properties-add-engine-feature-items.md))
+-   Type: `object[]` ([Add engine feature (NOT YET IMPLEMENTED)](generic-properties-game-engine-properties-add-engine-feature-add-engine-feature-not-yet-implemented.md))
 -   cannot be null
 -   defined in: [Create a mod](generic-properties-game-engine-properties-add-engine-feature.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/game_engine/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-game-engine-properties-add-engine-feature-items.md))
+`object[]` ([Add engine feature (NOT YET IMPLEMENTED)](generic-properties-game-engine-properties-add-engine-feature-add-engine-feature-not-yet-implemented.md))

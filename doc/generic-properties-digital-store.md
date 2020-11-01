@@ -16,10 +16,10 @@ Add a new feature
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-digital-store-properties-add-digital-store-items.md))
+-   Type: `object[]` ([Add digital store feature (NOT YET IMPLEMENTED)](generic-properties-digital-store-properties-add-digital-store-add-digital-store-feature-not-yet-implemented.md))
 -   cannot be null
 -   defined in: [Create a mod](generic-properties-digital-store-properties-add-digital-store.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/digital_store/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-digital-store-properties-add-digital-store-items.md))
+`object[]` ([Add digital store feature (NOT YET IMPLEMENTED)](generic-properties-digital-store-properties-add-digital-store-add-digital-store-feature-not-yet-implemented.md))

@@ -19,6 +19,12 @@
 ### Objects
 
 -   [Add Competitor: Game engine](./add-concurrent-properties-add-competitor-game-engine.md) – `http://www.city-game-studio.com/add.concurrent.json#/properties/engine`
+-   [Add IAP (NOT YET IMPLEMENTED)](./generic-properties-in-app-purchase-properties-add-iap-add-iap-not-yet-implemented.md) – `http://www.city-game-studio.com/mod.json#/properties/iap/properties/add/items`
+-   [Add difficulty (NOT YET IMPLEMENTED)](./generic-properties-difficulty-properties-add-difficulty-add-difficulty-not-yet-implemented.md) – `http://www.city-game-studio.com/mod.json#/properties/difficulty/properties/add/items`
+-   [Add digital store feature (NOT YET IMPLEMENTED)](./generic-properties-digital-store-properties-add-digital-store-add-digital-store-feature-not-yet-implemented.md) – `http://www.city-game-studio.com/mod.json#/properties/digital_store/properties/add/items`
+-   [Add engine feature (NOT YET IMPLEMENTED)](./generic-properties-game-engine-properties-add-engine-feature-add-engine-feature-not-yet-implemented.md) – `http://www.city-game-studio.com/mod.json#/properties/game_engine/properties/add/items`
+-   [Add furniture (NOT YET IMPLEMENTED)](./generic-properties-furniture-properties-add-furniture-add-furniture-not-yet-implemented.md) – `http://www.city-game-studio.com/mod.json#/properties/furniture/properties/add/items`
+-   [Add marketing campaign (NOT YET IMPLEMENTED)](./generic-properties-marketing-campaign-properties-add-marketing-campaign-add-marketing-campaign-not-yet-implemented.md) – `http://www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add/items`
 -   [Add platform - lifecycle: Ending date](./add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-ending-date.md "Discontinuation date of the platform") – `http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/end`
 -   [Add platform - lifecycle: Starting date](./add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-starting-date.md "Release date of the platform") – `http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/start`
 -   [Add platform: Costs](./add-platform-properties-add-platform-costs.md "Development and license costs") – `http://www.city-game-studio.com/add.platform.json#/properties/cost`
@@ -45,12 +51,6 @@
 -   [Rename a concurrent](./generic-properties-competitors-properties-rename-competitor-rename-a-concurrent.md "Rename a concurrent") – `http://www.city-game-studio.com/rename.concurrent.json#/properties/concurrent/properties/rename/items`
 -   [Rename an Indie company](./generic-properties-indie-company-properties-rename-an-indie-company-rename-an-indie-company.md "Rename an indie company") – `http://www.city-game-studio.com/rename.indie.json#/properties/indie/properties/rename/items`
 -   [Topics](./generic-properties-topics.md "To manipulate themes") – `http://www.city-game-studio.com/mod.json#/properties/theme`
--   [Untitled object in Create a mod](./generic-properties-furniture-properties-add-furniture-items.md) – `http://www.city-game-studio.com/mod.json#/properties/furniture/properties/add/items`
--   [Untitled object in Create a mod](./generic-properties-marketing-campaign-properties-add-marketing-campaign-items.md) – `http://www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add/items`
--   [Untitled object in Create a mod](./generic-properties-difficulty-properties-add-difficulty-items.md) – `http://www.city-game-studio.com/mod.json#/properties/difficulty/properties/add/items`
--   [Untitled object in Create a mod](./generic-properties-in-app-purchase-properties-add-iap-items.md) – `http://www.city-game-studio.com/mod.json#/properties/iap/properties/add/items`
--   [Untitled object in Create a mod](./generic-properties-digital-store-properties-add-digital-store-items.md) – `http://www.city-game-studio.com/mod.json#/properties/digital_store/properties/add/items`
--   [Untitled object in Create a mod](./generic-properties-game-engine-properties-add-engine-feature-items.md) – `http://www.city-game-studio.com/mod.json#/properties/game_engine/properties/add/items`
 -   [internationalization](./generic-properties-internationalization.md "To manipulate translations") – `http://www.city-game-studio.com/mod.json#/properties/translation`
 
 ### Arrays
