@@ -4,11 +4,11 @@
 
 # Add platform: Target audience Properties
 
-| Property          | Type     | Required | Nullable       | Defined by                                                                                                                                                                                 |
-| :---------------- | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [all](#all)       | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience-properties-all.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/all")       |
-| [mature](#mature) | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience-properties-mature.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/mature") |
-| [young](#young)   | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience-properties-young.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/young")   |
+| Property          | Type     | Required | Nullable       | Defined by                                                                                                                                            |
+| :---------------- | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [all](#all)       | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience-properties-all.md "add-platform.json#/properties/age/properties/all")       |
+| [mature](#mature) | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience-properties-mature.md "add-platform.json#/properties/age/properties/mature") |
+| [young](#young)   | `string` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience-properties-young.md "add-platform.json#/properties/age/properties/young")   |
 
 ## all
 
@@ -20,7 +20,7 @@ Match the platform with the targetted consumers
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience-properties-all.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/all")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience-properties-all.md "add-platform.json#/properties/age/properties/all")
 
 ### all Type
 
@@ -46,7 +46,7 @@ Match the platform with the targetted consumers
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience-properties-mature.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/mature")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience-properties-mature.md "add-platform.json#/properties/age/properties/mature")
 
 ### mature Type
 
@@ -72,7 +72,7 @@ Match the platform with the targetted consumers
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience-properties-young.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age/properties/young")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience-properties-young.md "add-platform.json#/properties/age/properties/young")
 
 ### young Type
 

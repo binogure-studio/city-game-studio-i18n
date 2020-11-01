@@ -4,12 +4,12 @@
 
 # Add platform: Genre Properties
 
-| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                                                                          |
-| :---------------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [excellent](#excellent) | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-excellent-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/excellent") |
-| [good](#good)           | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-good-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/good")           |
-| [ok](#ok)               | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-ok-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/ok")               |
-| [poor](#poor)           | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-poor-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/poor")           |
+| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                                     |
+| :---------------------- | ------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [excellent](#excellent) | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-excellent-match.md "add-platform.json#/properties/genre/properties/excellent") |
+| [good](#good)           | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-good-match.md "add-platform.json#/properties/genre/properties/good")           |
+| [ok](#ok)               | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-ok-match.md "add-platform.json#/properties/genre/properties/ok")               |
+| [poor](#poor)           | `array` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-poor-match.md "add-platform.json#/properties/genre/properties/poor")           |
 
 ## excellent
 
@@ -21,7 +21,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-excellent-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/excellent")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-excellent-match.md "add-platform.json#/properties/genre/properties/excellent")
 
 ### excellent Type
 
@@ -43,7 +43,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-good-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/good")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-good-match.md "add-platform.json#/properties/genre/properties/good")
 
 ### good Type
 
@@ -65,7 +65,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-ok-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/ok")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-ok-match.md "add-platform.json#/properties/genre/properties/ok")
 
 ### ok Type
 
@@ -87,7 +87,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-poor-match.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre/properties/poor")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-genre-properties-add-platform---genre-poor-match.md "add-platform.json#/properties/genre/properties/poor")
 
 ### poor Type
 

@@ -4,10 +4,10 @@
 
 # Add platform: Power Properties
 
-| Property    | Type      | Required | Nullable       | Defined by                                                                                                                                                                   |
-| :---------- | --------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [cpu](#cpu) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-power-properties-cpu.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power/properties/cpu") |
-| [gpu](#gpu) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-power-properties-gpu.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power/properties/gpu") |
+| Property    | Type      | Required | Nullable       | Defined by                                                                                                                              |
+| :---------- | --------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| [cpu](#cpu) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-power-properties-cpu.md "add-platform.json#/properties/power/properties/cpu") |
+| [gpu](#gpu) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-power-properties-gpu.md "add-platform.json#/properties/power/properties/gpu") |
 
 ## cpu
 
@@ -19,7 +19,7 @@ Platform's CPU power
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-power-properties-cpu.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power/properties/cpu")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-power-properties-cpu.md "add-platform.json#/properties/power/properties/cpu")
 
 ### cpu Type
 
@@ -41,7 +41,7 @@ Platform's GPU power
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-power-properties-gpu.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power/properties/gpu")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-power-properties-gpu.md "add-platform.json#/properties/power/properties/gpu")
 
 ### gpu Type
 

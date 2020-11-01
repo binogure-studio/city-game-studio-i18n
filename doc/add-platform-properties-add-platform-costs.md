@@ -4,10 +4,10 @@
 
 # Add platform: Costs Properties
 
-| Property            | Type      | Required | Nullable       | Defined by                                                                                                                                                                          |
-| :------------------ | --------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [license](#license) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-costs-properties-license.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/license") |
-| [dev](#dev)         | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-costs-properties-dev.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/dev")         |
+| Property            | Type      | Required | Nullable       | Defined by                                                                                                                                     |
+| :------------------ | --------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| [license](#license) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-costs-properties-license.md "add-platform.json#/properties/cost/properties/license") |
+| [dev](#dev)         | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-costs-properties-dev.md "add-platform.json#/properties/cost/properties/dev")         |
 
 ## license
 
@@ -19,7 +19,7 @@ License costs of the platform
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-costs-properties-license.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/license")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-costs-properties-license.md "add-platform.json#/properties/cost/properties/license")
 
 ### license Type
 
@@ -41,7 +41,7 @@ Development costs of the platform
 -   is required
 -   Type: `integer`
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-add-platform-costs-properties-dev.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost/properties/dev")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-costs-properties-dev.md "add-platform.json#/properties/cost/properties/dev")
 
 ### dev Type
 

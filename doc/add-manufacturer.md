@@ -4,12 +4,12 @@
 
 # Add a platform manufacturer Properties
 
-| Property            | Type     | Required | Nullable       | Defined by                                                                                                                                             |
-| :------------------ | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [id](#id)           | `string` | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-id.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/id")           |
-| [company](#company) | `string` | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-company.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/company") |
-| [name](#name)       | `string` | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-name.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/name")       |
-| [avatar](#avatar)   | `image`  | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-avatar.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/avatar")   |
+| Property            | Type     | Required | Nullable       | Defined by                                                                                                        |
+| :------------------ | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------- |
+| [id](#id)           | `string` | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-id.md "add-manufacturer.json#/properties/id")           |
+| [company](#company) | `string` | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-company.md "add-manufacturer.json#/properties/company") |
+| [name](#name)       | `string` | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-name.md "add-manufacturer.json#/properties/name")       |
+| [avatar](#avatar)   | `image`  | Required | cannot be null | [Add a platform manufacturer](add-manufacturer-properties-avatar.md "add-manufacturer.json#/properties/avatar")   |
 
 ## id
 
@@ -21,7 +21,7 @@ UUID v4 (use <https://www.uuidgenerator.net/> to generate one)
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a platform manufacturer](add-manufacturer-properties-id.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/id")
+-   defined in: [Add a platform manufacturer](add-manufacturer-properties-id.md "add-manufacturer.json#/properties/id")
 
 ### id Type
 
@@ -37,7 +37,7 @@ Manufacturer's name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a platform manufacturer](add-manufacturer-properties-company.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/company")
+-   defined in: [Add a platform manufacturer](add-manufacturer-properties-company.md "add-manufacturer.json#/properties/company")
 
 ### company Type
 
@@ -53,7 +53,7 @@ Manufacturer founder's name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a platform manufacturer](add-manufacturer-properties-name.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/name")
+-   defined in: [Add a platform manufacturer](add-manufacturer-properties-name.md "add-manufacturer.json#/properties/name")
 
 ### name Type
 
@@ -69,7 +69,7 @@ Founder's avatar (Size: 370x412, Format: PNG/JPEG
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Add a platform manufacturer](add-manufacturer-properties-avatar.md "http&#x3A;//www.city-game-studio.com/add.manufacturer.json#/properties/avatar")
+-   defined in: [Add a platform manufacturer](add-manufacturer-properties-avatar.md "add-manufacturer.json#/properties/avatar")
 
 ### avatar Type
 

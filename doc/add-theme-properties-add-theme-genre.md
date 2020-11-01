@@ -4,12 +4,12 @@
 
 # Add theme: Genre Properties
 
-| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                                                           |
-| :---------------------- | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [excellent](#excellent) | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-excellent-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/excellent") |
-| [good](#good)           | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-good-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/good")           |
-| [ok](#ok)               | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-ok-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/ok")               |
-| [poor](#poor)           | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-poor-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/poor")           |
+| Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                      |
+| :---------------------- | ------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [excellent](#excellent) | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-excellent-match.md "add-theme.json#/properties/match/properties/excellent") |
+| [good](#good)           | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-good-match.md "add-theme.json#/properties/match/properties/good")           |
+| [ok](#ok)               | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-ok-match.md "add-theme.json#/properties/match/properties/ok")               |
+| [poor](#poor)           | `array` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-poor-match.md "add-theme.json#/properties/match/properties/poor")           |
 
 ## excellent
 
@@ -21,7 +21,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-excellent-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/excellent")
+-   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-excellent-match.md "add-theme.json#/properties/match/properties/excellent")
 
 ### excellent Type
 
@@ -43,7 +43,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-good-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/good")
+-   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-good-match.md "add-theme.json#/properties/match/properties/good")
 
 ### good Type
 
@@ -65,7 +65,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-ok-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/ok")
+-   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-ok-match.md "add-theme.json#/properties/match/properties/ok")
 
 ### ok Type
 
@@ -87,7 +87,7 @@
 -   is required
 -   Type: `string[]`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-poor-match.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match/properties/poor")
+-   defined in: [Add a new theme](add-theme-properties-add-theme-genre-properties-add-theme---genre-poor-match.md "add-theme.json#/properties/match/properties/poor")
 
 ### poor Type
 

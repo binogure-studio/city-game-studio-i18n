@@ -4,10 +4,10 @@
 
 # Rename an Indie company Properties
 
-| Property                        | Type     | Required | Nullable       | Defined by                                                                                                                                             |
-| :------------------------------ | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [name](#name)                   | `string` | Required | cannot be null | [Rename an Indie company](rename-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/name")                   |
-| [original_name](#original_name) | `string` | Required | cannot be null | [Rename an Indie company](rename-indie-properties-original_name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/original_name") |
+| Property                        | Type     | Required | Nullable       | Defined by                                                                                                        |
+| :------------------------------ | -------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------- |
+| [name](#name)                   | `string` | Required | cannot be null | [Rename an Indie company](rename-indie-properties-name.md "rename-indie.json#/properties/name")                   |
+| [original_name](#original_name) | `string` | Required | cannot be null | [Rename an Indie company](rename-indie-properties-original_name.md "rename-indie.json#/properties/original_name") |
 
 ## name
 
@@ -19,7 +19,7 @@ New indie name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Rename an Indie company](rename-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/name")
+-   defined in: [Rename an Indie company](rename-indie-properties-name.md "rename-indie.json#/properties/name")
 
 ### name Type
 
@@ -35,7 +35,7 @@ Original indie name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Rename an Indie company](rename-indie-properties-original_name.md "http&#x3A;//www.city-game-studio.com/rename.indie.json#/properties/original_name")
+-   defined in: [Rename an Indie company](rename-indie-properties-original_name.md "rename-indie.json#/properties/original_name")
 
 ### original_name Type
 

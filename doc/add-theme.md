@@ -4,13 +4,13 @@
 
 # Add a new theme Properties
 
-| Property                  | Type     | Required | Nullable       | Defined by                                                                                                                         |
-| :------------------------ | -------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
-| [icon](#icon)             | `image`  | Required | cannot be null | [Add a new theme](add-theme-properties-icon.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/icon")             |
-| [icon-white](#icon-white) | `image`  | Required | cannot be null | [Add a new theme](add-theme-properties-icon-white.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/icon-white") |
-| [name](#name)             | `string` | Required | cannot be null | [Add a new theme](add-theme-properties-name.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/name")             |
-| [label](#label)           | `string` | Required | cannot be null | [Add a new theme](add-theme-properties-label.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/label")           |
-| [match](#match)           | `object` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match") |
+| Property                  | Type     | Required | Nullable       | Defined by                                                                                    |
+| :------------------------ | -------- | -------- | -------------- | :-------------------------------------------------------------------------------------------- |
+| [icon](#icon)             | `image`  | Required | cannot be null | [Add a new theme](add-theme-properties-icon.md "add-theme.json#/properties/icon")             |
+| [icon-white](#icon-white) | `image`  | Required | cannot be null | [Add a new theme](add-theme-properties-icon-white.md "add-theme.json#/properties/icon-white") |
+| [name](#name)             | `string` | Required | cannot be null | [Add a new theme](add-theme-properties-name.md "add-theme.json#/properties/name")             |
+| [label](#label)           | `string` | Required | cannot be null | [Add a new theme](add-theme-properties-label.md "add-theme.json#/properties/label")           |
+| [match](#match)           | `object` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre.md "add-theme.json#/properties/match") |
 
 ## icon
 
@@ -22,7 +22,7 @@ Theme icon with transparent background (Size: 512x512, Format: PNG/JPEG)
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-icon.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/icon")
+-   defined in: [Add a new theme](add-theme-properties-icon.md "add-theme.json#/properties/icon")
 
 ### icon Type
 
@@ -38,7 +38,7 @@ Theme icon with black background (Size: 512x512, Format: PNG/JPEG)
 -   is required
 -   Type: `image`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-icon-white.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/icon-white")
+-   defined in: [Add a new theme](add-theme-properties-icon-white.md "add-theme.json#/properties/icon-white")
 
 ### icon-white Type
 
@@ -54,7 +54,7 @@ Theme name (must be unique, used to match with new genre)
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-name.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/name")
+-   defined in: [Add a new theme](add-theme-properties-name.md "add-theme.json#/properties/name")
 
 ### name Type
 
@@ -70,7 +70,7 @@ Theme label (localized, used for translations)
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-label.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/label")
+-   defined in: [Add a new theme](add-theme-properties-label.md "add-theme.json#/properties/label")
 
 ### label Type
 
@@ -86,7 +86,7 @@ Theme/genre matches
 -   is required
 -   Type: `object` ([Add theme: Genre](add-theme-properties-add-theme-genre.md))
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-add-theme-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match")
+-   defined in: [Add a new theme](add-theme-properties-add-theme-genre.md "add-theme.json#/properties/match")
 
 ### match Type
 

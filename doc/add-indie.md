@@ -4,9 +4,9 @@
 
 # Add an Indie company Properties
 
-| Property      | Type     | Required | Nullable       | Defined by                                                                                                                  |
-| :------------ | -------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| [name](#name) | `string` | Required | cannot be null | [Add an Indie company](add-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/add.indie.json#/properties/name") |
+| Property      | Type     | Required | Nullable       | Defined by                                                                             |
+| :------------ | -------- | -------- | -------------- | :------------------------------------------------------------------------------------- |
+| [name](#name) | `string` | Required | cannot be null | [Add an Indie company](add-indie-properties-name.md "add-indie.json#/properties/name") |
 
 ## name
 
@@ -18,7 +18,7 @@ Indie company name
 -   is required
 -   Type: `string`
 -   cannot be null
--   defined in: [Add an Indie company](add-indie-properties-name.md "http&#x3A;//www.city-game-studio.com/add.indie.json#/properties/name")
+-   defined in: [Add an Indie company](add-indie-properties-name.md "add-indie.json#/properties/name")
 
 ### name Type
 
