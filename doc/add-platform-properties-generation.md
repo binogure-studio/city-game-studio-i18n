@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## generation Type
 
 `integer`

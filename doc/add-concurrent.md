@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Add a Concurrent Type
 
 `object` ([Add a Concurrent](add-concurrent.md))

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## interval Type
 
 `integer`

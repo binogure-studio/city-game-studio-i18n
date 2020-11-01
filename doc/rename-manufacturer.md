@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Rename a Manufacturer Type
 
 `object` ([Rename a Manufacturer](rename-manufacturer.md))

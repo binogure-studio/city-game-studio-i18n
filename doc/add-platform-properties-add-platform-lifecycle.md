@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## duration Type
 
 `object` ([Add platform: Lifecycle](add-platform-properties-add-platform-lifecycle.md))

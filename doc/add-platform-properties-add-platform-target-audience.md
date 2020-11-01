@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## age Type
 
 `object` ([Add platform: Target audience](add-platform-properties-add-platform-target-audience.md))

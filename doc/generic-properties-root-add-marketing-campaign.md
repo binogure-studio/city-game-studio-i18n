@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## marketing_campaign Type
 
 `object` ([Root: Add marketing campaign](generic-properties-root-add-marketing-campaign.md))

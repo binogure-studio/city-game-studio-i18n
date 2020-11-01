@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## match Type
 
 `object` ([Add theme: Genre](add-theme-properties-add-theme-genre.md))

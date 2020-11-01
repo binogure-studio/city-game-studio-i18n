@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 # README
 
 ## Top-level Schemas

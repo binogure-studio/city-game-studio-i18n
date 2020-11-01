@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## game_engine Type
 
 `object` ([Root: Add game engine feature](generic-properties-root-add-game-engine-feature.md))

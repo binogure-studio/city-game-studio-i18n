@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## total_amount_of_published_games Type
 
 `integer`

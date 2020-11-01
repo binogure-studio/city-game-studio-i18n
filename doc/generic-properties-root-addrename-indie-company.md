@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## indie Type
 
 `object` ([Root: Add/rename Indie company](generic-properties-root-addrename-indie-company.md))

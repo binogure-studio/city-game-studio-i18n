@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Rename a Platform Type
 
 `object` ([Rename a Platform](rename-platform.md))

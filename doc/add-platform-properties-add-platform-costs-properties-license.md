@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## license Type
 
 `integer`

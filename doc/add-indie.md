@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Add an Indie company Type
 
 `object` ([Add an Indie company](add-indie.md))

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## start Type
 
 `object` ([Add platform - lifecycle: Starting date](add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-starting-date.md))

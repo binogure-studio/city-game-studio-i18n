@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## all Type
 
 `string`

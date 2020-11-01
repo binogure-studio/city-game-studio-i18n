@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Rename an Indie company Type
 
 `object` ([Rename an Indie company](rename-indie.md))

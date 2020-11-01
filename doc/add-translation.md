@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Add a translation Type
 
 `object` ([Add a translation](add-translation.md))

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## texture Type
 
 `object` ([Add platform: Textures](add-platform-properties-add-platform-textures.md))

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## poor Type
 
 `string[]`

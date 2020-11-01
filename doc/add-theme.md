@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Add a new theme Type
 
 `object` ([Add a new theme](add-theme.md))

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## theme Type
 
 `object` ([Root: Add themes](generic-properties-root-add-themes.md))

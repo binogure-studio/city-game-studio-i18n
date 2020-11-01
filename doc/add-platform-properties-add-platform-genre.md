@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## genre Type
 
 `object` ([Add platform: Genre](add-platform-properties-add-platform-genre.md))

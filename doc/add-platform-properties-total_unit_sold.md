@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## total_unit_sold Type
 
 `integer`

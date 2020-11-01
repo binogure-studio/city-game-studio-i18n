@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## online Type
 
 `object` ([Add platform: Online](add-platform-properties-add-platform-online.md))

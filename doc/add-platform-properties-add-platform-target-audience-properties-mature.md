@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## mature Type
 
 `string`

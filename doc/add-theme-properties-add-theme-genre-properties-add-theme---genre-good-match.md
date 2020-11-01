@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## good Type
 
 `string[]`

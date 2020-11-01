@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## Add a new platform Type
 
 `object` ([Add a new platform](add-platform.md))

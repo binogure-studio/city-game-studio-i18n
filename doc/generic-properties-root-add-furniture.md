@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## furniture Type
 
 `object` ([Root: Add furniture](generic-properties-root-add-furniture.md))

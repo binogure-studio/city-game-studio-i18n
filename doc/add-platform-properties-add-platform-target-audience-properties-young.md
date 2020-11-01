@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## young Type
 
 `string`

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## id Type
 
 `integer`

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## royalties Type
 
 `integer[]`

@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## cost Type
 
 `object` ([Add platform: Costs](add-platform-properties-add-platform-costs.md))

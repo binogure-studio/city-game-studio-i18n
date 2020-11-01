@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## dev Type
 
 `integer`

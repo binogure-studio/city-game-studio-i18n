@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## cpu Type
 
 `integer`

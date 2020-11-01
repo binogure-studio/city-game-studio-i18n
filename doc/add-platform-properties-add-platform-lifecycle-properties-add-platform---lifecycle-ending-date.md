@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## end Type
 
 `object` ([Add platform - lifecycle: Ending date](add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-ending-date.md))

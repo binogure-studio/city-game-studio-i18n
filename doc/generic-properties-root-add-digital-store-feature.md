@@ -1,3 +1,7 @@
+---
+template: description
+---
+
 ## digital_store Type
 
 `object` ([Root: Add digital store feature](generic-properties-root-add-digital-store-feature.md))
