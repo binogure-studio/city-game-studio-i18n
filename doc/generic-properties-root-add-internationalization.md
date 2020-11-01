@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## translation Type
 
 `object` ([Root: Add internationalization](generic-properties-root-add-internationalization.md))

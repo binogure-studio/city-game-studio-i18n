@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## excellent Type
 
 `string[]`

@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## platform Type
 
 `object` ([Root: Add/rename platform](generic-properties-root-addrename-platform.md))

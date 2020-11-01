@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## gpu Type
 
 `integer`

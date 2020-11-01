@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## specialty Type
 
 `string`

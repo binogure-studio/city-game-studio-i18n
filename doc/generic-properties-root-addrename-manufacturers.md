@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## manufacturer Type
 
 `object` ([Root: Add/rename manufacturers](generic-properties-root-addrename-manufacturers.md))

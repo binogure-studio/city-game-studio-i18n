@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## items Type
 
 `integer`

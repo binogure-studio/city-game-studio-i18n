@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## iap Type
 
 `object` ([Root: Add In-App Purchase](generic-properties-root-add-in-app-purchase.md))

@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## concurrent Type
 
 `object` ([Root: Add/rename competitors](generic-properties-root-addrename-competitors.md))

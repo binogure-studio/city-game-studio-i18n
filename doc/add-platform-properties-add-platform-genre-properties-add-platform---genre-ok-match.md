@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## ok Type
 
 `string[]`

@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## Create a mod Type
 
 `object` ([Create a mod](generic.md))

@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## Add a platform manufacturer Type
 
 `object` ([Add a platform manufacturer](add-manufacturer.md))

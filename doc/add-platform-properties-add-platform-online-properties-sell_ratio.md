@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## sell_ratio Type
 
 `number`

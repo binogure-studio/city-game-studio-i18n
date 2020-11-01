@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## month Type
 
 `integer`

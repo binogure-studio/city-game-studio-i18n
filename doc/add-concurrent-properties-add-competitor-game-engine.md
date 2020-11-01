@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## engine Type
 
 `object` ([Add Competitor: Game engine](add-concurrent-properties-add-competitor-game-engine.md))

@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## Rename a concurrent Type
 
 `object` ([Rename a concurrent](rename-concurrent.md))

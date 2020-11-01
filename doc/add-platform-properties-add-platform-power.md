@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## power Type
 
 `object` ([Add platform: Power](add-platform-properties-add-platform-power.md))

@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## year Type
 
 `integer`

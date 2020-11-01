@@ -1,7 +1,3 @@
----
-template: description
----
-
 ## difficulty Type
 
 `object` ([Root: Add difficulty](generic-properties-root-add-difficulty.md))
