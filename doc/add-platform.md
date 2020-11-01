@@ -7,19 +7,19 @@
 | Property                                                            | Type      | Required | Nullable       | Defined by                                                                                                                                                                            |
 | :------------------------------------------------------------------ | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [generation](#generation)                                           | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-generation.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/generation")                                           |
-| [power](#power)                                                     | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-power.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power")                                                     |
-| [online](#online)                                                   | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-online.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online")                                                   |
+| [power](#power)                                                     | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-power.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power")                                        |
+| [online](#online)                                                   | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-online.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online")                                      |
 | [type](#type)                                                       | `string`  | Required | cannot be null | [Add a new platform](add-platform-properties-type.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/type")                                                       |
 | [fabriquant](#fabriquant)                                           | `string`  | Required | cannot be null | [Add a new platform](add-platform-properties-fabriquant.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/fabriquant")                                           |
 | [total_amount_of_published_games](#total_amount_of_published_games) | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-total_amount_of_published_games.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/total_amount_of_published_games") |
 | [id](#id)                                                           | `string`  | Required | cannot be null | [Add a new platform](add-platform-properties-id.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/id")                                                           |
 | [name](#name)                                                       | `string`  | Required | cannot be null | [Add a new platform](add-platform-properties-name.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/name")                                                       |
-| [duration](#duration)                                               | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-lifecycle.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration")                                              |
+| [duration](#duration)                                               | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-lifecycle.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration")                                 |
 | [total_unit_sold](#total_unit_sold)                                 | `integer` | Required | cannot be null | [Add a new platform](add-platform-properties-total_unit_sold.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/total_unit_sold")                                 |
-| [cost](#cost)                                                       | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-costs.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost")                                                      |
-| [age](#age)                                                         | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-target-audience.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age")                                             |
-| [texture](#texture)                                                 | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-textures.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture")                                                |
-| [genre](#genre)                                                     | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-genre.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre")                                                     |
+| [cost](#cost)                                                       | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-costs.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost")                                         |
+| [age](#age)                                                         | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-target-audience.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age")                                |
+| [texture](#texture)                                                 | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-textures.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture")                                   |
+| [genre](#genre)                                                     | `object`  | Required | cannot be null | [Add a new platform](add-platform-properties-add-platform-genre.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre")                                        |
 
 ## generation
 
@@ -51,13 +51,13 @@ Platform's generation (Please use: <https://en.wikipedia.org/wiki/Home_video_gam
 `power`
 
 -   is required
--   Type: `object` ([Power](add-platform-properties-power.md))
+-   Type: `object` ([(Add platform) Power](add-platform-properties-add-platform-power.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-power.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-power.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/power")
 
 ### power Type
 
-`object` ([Power](add-platform-properties-power.md))
+`object` ([(Add platform) Power](add-platform-properties-add-platform-power.md))
 
 ## online
 
@@ -67,13 +67,13 @@ Platform's generation (Please use: <https://en.wikipedia.org/wiki/Home_video_gam
 `online`
 
 -   is required
--   Type: `object` ([Online](add-platform-properties-online.md))
+-   Type: `object` ([(Add platform) Online](add-platform-properties-add-platform-online.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-online.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-online.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/online")
 
 ### online Type
 
-`object` ([Online](add-platform-properties-online.md))
+`object` ([(Add platform) Online](add-platform-properties-add-platform-online.md))
 
 ## type
 
@@ -177,13 +177,13 @@ Platform's name
 `duration`
 
 -   is required
--   Type: `object` ([Lifecycle](add-platform-properties-lifecycle.md))
+-   Type: `object` ([(Add platform) Lifecycle](add-platform-properties-add-platform-lifecycle.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-lifecycle.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-lifecycle.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/duration")
 
 ### duration Type
 
-`object` ([Lifecycle](add-platform-properties-lifecycle.md))
+`object` ([(Add platform) Lifecycle](add-platform-properties-add-platform-lifecycle.md))
 
 ## total_unit_sold
 
@@ -215,13 +215,13 @@ Development and license costs
 `cost`
 
 -   is required
--   Type: `object` ([Costs](add-platform-properties-costs.md))
+-   Type: `object` ([(Add platform) Costs](add-platform-properties-add-platform-costs.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-costs.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-costs.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/cost")
 
 ### cost Type
 
-`object` ([Costs](add-platform-properties-costs.md))
+`object` ([(Add platform) Costs](add-platform-properties-add-platform-costs.md))
 
 ## age
 
@@ -231,13 +231,13 @@ Development and license costs
 `age`
 
 -   is required
--   Type: `object` ([Target audience](add-platform-properties-target-audience.md))
+-   Type: `object` ([(Add platform) Target audience](add-platform-properties-add-platform-target-audience.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-target-audience.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-target-audience.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/age")
 
 ### age Type
 
-`object` ([Target audience](add-platform-properties-target-audience.md))
+`object` ([(Add platform) Target audience](add-platform-properties-add-platform-target-audience.md))
 
 ## texture
 
@@ -247,13 +247,13 @@ Platform's textures
 `texture`
 
 -   is required
--   Type: `object` ([Textures](add-platform-properties-textures.md))
+-   Type: `object` ([(Add platform) Textures](add-platform-properties-add-platform-textures.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-textures.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-textures.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/texture")
 
 ### texture Type
 
-`object` ([Textures](add-platform-properties-textures.md))
+`object` ([(Add platform) Textures](add-platform-properties-add-platform-textures.md))
 
 ## genre
 
@@ -263,10 +263,10 @@ Platform/genre matches
 `genre`
 
 -   is required
--   Type: `object` ([Genre](add-platform-properties-genre.md))
+-   Type: `object` ([(Add platform) Genre](add-platform-properties-add-platform-genre.md))
 -   cannot be null
--   defined in: [Add a new platform](add-platform-properties-genre.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre")
+-   defined in: [Add a new platform](add-platform-properties-add-platform-genre.md "http&#x3A;//www.city-game-studio.com/add.platform.json#/properties/genre")
 
 ### genre Type
 
-`object` ([Genre](add-platform-properties-genre.md))
+`object` ([(Add platform) Genre](add-platform-properties-add-platform-genre.md))

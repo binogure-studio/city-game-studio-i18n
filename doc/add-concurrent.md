@@ -4,13 +4,13 @@
 
 # Add a Concurrent Properties
 
-| Property                | Type     | Required | Nullable       | Defined by                                                                                                                                  |
-| :---------------------- | -------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| [id](#id)               | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-id.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/id")               |
-| [name](#name)           | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-name.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/name")           |
-| [logo](#logo)           | `image`  | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-logo.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/logo")           |
-| [specialty](#specialty) | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-specialty.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/specialty") |
-| [engine](#engine)       | `object` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-game-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine")  |
+| Property                | Type     | Required | Nullable       | Defined by                                                                                                                                                |
+| :---------------------- | -------- | -------- | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [id](#id)               | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-id.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/id")                             |
+| [name](#name)           | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-name.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/name")                         |
+| [logo](#logo)           | `image`  | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-logo.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/logo")                         |
+| [specialty](#specialty) | `string` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-specialty.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/specialty")               |
+| [engine](#engine)       | `object` | Required | cannot be null | [Add a Concurrent](add-concurrent-properties-add-competitor-game-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine") |
 
 ## id
 
@@ -94,10 +94,10 @@ Concurrent specialty (action, aventure, casual, reflexion, strategy, simulation,
 `engine`
 
 -   is required
--   Type: `object` ([Game engine](add-concurrent-properties-game-engine.md))
+-   Type: `object` ([(Add Competitor) Game engine](add-concurrent-properties-add-competitor-game-engine.md))
 -   cannot be null
--   defined in: [Add a Concurrent](add-concurrent-properties-game-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine")
+-   defined in: [Add a Concurrent](add-concurrent-properties-add-competitor-game-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine")
 
 ### engine Type
 
-`object` ([Game engine](add-concurrent-properties-game-engine.md))
+`object` ([(Add Competitor) Game engine](add-concurrent-properties-add-competitor-game-engine.md))

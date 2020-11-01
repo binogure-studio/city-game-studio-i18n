@@ -10,7 +10,7 @@
 | [icon-white](#icon-white) | `image`  | Required | cannot be null | [Add a new theme](add-theme-properties-icon-white.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/icon-white") |
 | [name](#name)             | `string` | Required | cannot be null | [Add a new theme](add-theme-properties-name.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/name")             |
 | [label](#label)           | `string` | Required | cannot be null | [Add a new theme](add-theme-properties-label.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/label")           |
-| [match](#match)           | `object` | Required | cannot be null | [Add a new theme](add-theme-properties-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match")           |
+| [match](#match)           | `object` | Required | cannot be null | [Add a new theme](add-theme-properties-add-theme-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match") |
 
 ## icon
 
@@ -84,10 +84,10 @@ Theme/genre matches
 `match`
 
 -   is required
--   Type: `object` ([Genre](add-theme-properties-genre.md))
+-   Type: `object` ([(Add theme) Genre](add-theme-properties-add-theme-genre.md))
 -   cannot be null
--   defined in: [Add a new theme](add-theme-properties-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match")
+-   defined in: [Add a new theme](add-theme-properties-add-theme-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match")
 
 ### match Type
 
-`object` ([Genre](add-theme-properties-genre.md))
+`object` ([(Add theme) Genre](add-theme-properties-add-theme-genre.md))
