@@ -1,8 +1,8 @@
 ## end Type
 
-`object` ([(Add platform - lifecycle) Ending date](add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-ending-date.md))
+`object` ([Add platform - lifecycle: Ending date](add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-ending-date.md))
 
-# (Add platform - lifecycle) Ending date Properties
+# Add platform - lifecycle: Ending date Properties
 
 | Property        | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                                             |
 | :-------------- | --------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

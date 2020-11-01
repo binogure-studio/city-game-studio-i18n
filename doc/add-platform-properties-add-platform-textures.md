@@ -1,8 +1,8 @@
 ## texture Type
 
-`object` ([(Add platform) Textures](add-platform-properties-add-platform-textures.md))
+`object` ([Add platform: Textures](add-platform-properties-add-platform-textures.md))
 
-# (Add platform) Textures Properties
+# Add platform: Textures Properties
 
 | Property            | Type    | Required | Nullable       | Defined by                                                                                                                                                                                |
 | :------------------ | ------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

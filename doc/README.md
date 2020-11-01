@@ -18,18 +18,18 @@
 
 ### Objects
 
--   [(Add Competitor) Game engine](./add-concurrent-properties-add-competitor-game-engine.md) – `http://www.city-game-studio.com/add.concurrent.json#/properties/engine`
--   [(Add platform - lifecycle) Ending date](./add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-ending-date.md "Discontinuation date of the platform") – `http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/end`
--   [(Add platform - lifecycle) Starting date](./add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-starting-date.md "Release date of the platform") – `http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/start`
--   [(Add platform) Costs](./add-platform-properties-add-platform-costs.md "Development and license costs") – `http://www.city-game-studio.com/add.platform.json#/properties/cost`
--   [(Add platform) Genre](./add-platform-properties-add-platform-genre.md "Platform/genre matches") – `http://www.city-game-studio.com/add.platform.json#/properties/genre`
--   [(Add platform) Lifecycle](./add-platform-properties-add-platform-lifecycle.md) – `http://www.city-game-studio.com/add.platform.json#/properties/duration`
--   [(Add platform) Online](./add-platform-properties-add-platform-online.md) – `http://www.city-game-studio.com/add.platform.json#/properties/online`
--   [(Add platform) Power](./add-platform-properties-add-platform-power.md) – `http://www.city-game-studio.com/add.platform.json#/properties/power`
--   [(Add platform) Target audience](./add-platform-properties-add-platform-target-audience.md) – `http://www.city-game-studio.com/add.platform.json#/properties/age`
--   [(Add platform) Textures](./add-platform-properties-add-platform-textures.md "Platform's textures") – `http://www.city-game-studio.com/add.platform.json#/properties/texture`
--   [(Add theme) Genre](./add-theme-properties-add-theme-genre.md "Theme/genre matches") – `http://www.city-game-studio.com/add.theme.json#/properties/match`
--   [(Add translation) Translations list](./add-translation-properties-add-translation-translations-list.md "KEY: VALUE") – `http://www.city-game-studio.com/add.translation.json#/properties/messages`
+-   [Add Competitor: Game engine](./add-concurrent-properties-add-competitor-game-engine.md) – `http://www.city-game-studio.com/add.concurrent.json#/properties/engine`
+-   [Add platform - lifecycle: Ending date](./add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-ending-date.md "Discontinuation date of the platform") – `http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/end`
+-   [Add platform - lifecycle: Starting date](./add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-starting-date.md "Release date of the platform") – `http://www.city-game-studio.com/add.platform.json#/properties/duration/properties/start`
+-   [Add platform: Costs](./add-platform-properties-add-platform-costs.md "Development and license costs") – `http://www.city-game-studio.com/add.platform.json#/properties/cost`
+-   [Add platform: Genre](./add-platform-properties-add-platform-genre.md "Platform/genre matches") – `http://www.city-game-studio.com/add.platform.json#/properties/genre`
+-   [Add platform: Lifecycle](./add-platform-properties-add-platform-lifecycle.md) – `http://www.city-game-studio.com/add.platform.json#/properties/duration`
+-   [Add platform: Online](./add-platform-properties-add-platform-online.md) – `http://www.city-game-studio.com/add.platform.json#/properties/online`
+-   [Add platform: Power](./add-platform-properties-add-platform-power.md) – `http://www.city-game-studio.com/add.platform.json#/properties/power`
+-   [Add platform: Target audience](./add-platform-properties-add-platform-target-audience.md) – `http://www.city-game-studio.com/add.platform.json#/properties/age`
+-   [Add platform: Textures](./add-platform-properties-add-platform-textures.md "Platform's textures") – `http://www.city-game-studio.com/add.platform.json#/properties/texture`
+-   [Add theme: Genre](./add-theme-properties-add-theme-genre.md "Theme/genre matches") – `http://www.city-game-studio.com/add.theme.json#/properties/match`
+-   [Add translation: Translations list](./add-translation-properties-add-translation-translations-list.md "KEY: VALUE") – `http://www.city-game-studio.com/add.translation.json#/properties/messages`
 -   [Competitors](./generic-properties-competitors.md "To manipulate concurrents") – `http://www.city-game-studio.com/mod.json#/properties/concurrent`
 -   [Difficulty](./generic-properties-difficulty.md "To manipulate custom difficulties (NOT IMPLEMENTED YET)") – `http://www.city-game-studio.com/mod.json#/properties/difficulty`
 -   [Digital store](./generic-properties-digital-store.md "To manipulate digital store (NOT IMPLEMENTED YET)") – `http://www.city-game-studio.com/mod.json#/properties/digital_store`
@@ -55,15 +55,7 @@
 
 ### Arrays
 
--   [(Add Competitor) Game engine royalties](./add-concurrent-properties-add-competitor-game-engine-properties-add-competitor-game-engine-royalties.md "Range for the concurrent engine royalties") – `http://www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/royalties`
--   [(Add platform - genre) Excellent match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-excellent-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/excellent`
--   [(Add platform - genre) Good match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-good-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/good`
--   [(Add platform - genre) Ok match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-ok-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/ok`
--   [(Add platform - genre) Poor match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-poor-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/poor`
--   [(Add theme - genre) Excellent match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-excellent-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/excellent`
--   [(Add theme - genre) Good match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-good-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/good`
--   [(Add theme - genre) Ok match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-ok-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/ok`
--   [(Add theme - genre) Poor match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-poor-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/poor`
+-   [Add Competitor: Game engine royalties](./add-concurrent-properties-add-competitor-game-engine-properties-add-competitor-game-engine-royalties.md "Range for the concurrent engine royalties") – `http://www.city-game-studio.com/add.concurrent.json#/properties/engine/properties/royalties`
 -   [Add IAP](./generic-properties-in-app-purchase-properties-add-iap.md "Add a new IAP") – `http://www.city-game-studio.com/mod.json#/properties/iap/properties/add`
 -   [Add competitor](./generic-properties-competitors-properties-add-competitor.md "Add a new concurrent") – `http://www.city-game-studio.com/mod.json#/properties/concurrent/properties/add`
 -   [Add difficulty](./generic-properties-difficulty-properties-add-difficulty.md "Add a new difficulty") – `http://www.city-game-studio.com/mod.json#/properties/difficulty/properties/add`
@@ -74,7 +66,15 @@
 -   [Add manufacturer](./generic-properties-manufacturers-properties-add-manufacturer.md "Add a new manufacturer") – `http://www.city-game-studio.com/mod.json#/properties/manufacturer/properties/add`
 -   [Add marketing campaign](./generic-properties-marketing-campaign-properties-add-marketing-campaign.md "Add a new marketing campaign") – `http://www.city-game-studio.com/mod.json#/properties/marketing_campaign/properties/add`
 -   [Add platform](./generic-properties-platform-properties-add-platform.md "Add a new platform") – `http://www.city-game-studio.com/mod.json#/properties/platform/properties/add`
--   [Add topic](./generic-properties-topics-properties-add-topic.md "Add a new themes") – `http://www.city-game-studio.com/mod.json#/properties/theme/properties/add`
+-   [Add platform - genre: Excellent match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-excellent-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/excellent`
+-   [Add platform - genre: Good match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-good-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/good`
+-   [Add platform - genre: Ok match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-ok-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/ok`
+-   [Add platform - genre: Poor match](./add-platform-properties-add-platform-genre-properties-add-platform---genre-poor-match.md) – `http://www.city-game-studio.com/add.platform.json#/properties/genre/properties/poor`
+-   [Add theme](./generic-properties-topics-properties-add-theme.md "Add a new themes") – `http://www.city-game-studio.com/mod.json#/properties/theme/properties/add`
+-   [Add theme - genre: Excellent match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-excellent-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/excellent`
+-   [Add theme - genre: Good match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-good-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/good`
+-   [Add theme - genre: Ok match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-ok-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/ok`
+-   [Add theme - genre: Poor match](./add-theme-properties-add-theme-genre-properties-add-theme---genre-poor-match.md) – `http://www.city-game-studio.com/add.theme.json#/properties/match/properties/poor`
 -   [Add translations](./generic-properties-internationalization-properties-add-translations.md "Add a new translation") – `http://www.city-game-studio.com/mod.json#/properties/translation/properties/add`
 -   [Rename an indie company](./generic-properties-indie-company-properties-rename-an-indie-company.md "Rename a indie company") – `http://www.city-game-studio.com/mod.json#/properties/indie/properties/rename`
 -   [Rename competitor](./generic-properties-competitors-properties-rename-competitor.md "Rename a concurrent") – `http://www.city-game-studio.com/mod.json#/properties/concurrent/properties/rename`

@@ -1,8 +1,8 @@
 ## start Type
 
-`object` ([(Add platform - lifecycle) Starting date](add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-starting-date.md))
+`object` ([Add platform - lifecycle: Starting date](add-platform-properties-add-platform-lifecycle-properties-add-platform---lifecycle-starting-date.md))
 
-# (Add platform - lifecycle) Starting date Properties
+# Add platform - lifecycle: Starting date Properties
 
 | Property        | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                                                 |
 | :-------------- | --------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

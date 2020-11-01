@@ -1,8 +1,8 @@
 ## power Type
 
-`object` ([(Add platform) Power](add-platform-properties-add-platform-power.md))
+`object` ([Add platform: Power](add-platform-properties-add-platform-power.md))
 
-# (Add platform) Power Properties
+# Add platform: Power Properties
 
 | Property    | Type      | Required | Nullable       | Defined by                                                                                                                                                                   |
 | :---------- | --------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

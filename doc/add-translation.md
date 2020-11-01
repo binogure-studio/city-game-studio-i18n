@@ -50,10 +50,10 @@ KEY: VALUE. Example: LABEL_THEME_SCHOOL: School
 `messages`
 
 -   is required
--   Type: `object` ([(Add translation) Translations list](add-translation-properties-add-translation-translations-list.md))
+-   Type: `object` ([Add translation: Translations list](add-translation-properties-add-translation-translations-list.md))
 -   cannot be null
 -   defined in: [Add a translation](add-translation-properties-add-translation-translations-list.md "http&#x3A;//www.city-game-studio.com/add.translation.json#/properties/messages")
 
 ### messages Type
 
-`object` ([(Add translation) Translations list](add-translation-properties-add-translation-translations-list.md))
+`object` ([Add translation: Translations list](add-translation-properties-add-translation-translations-list.md))

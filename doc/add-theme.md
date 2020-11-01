@@ -84,10 +84,10 @@ Theme/genre matches
 `match`
 
 -   is required
--   Type: `object` ([(Add theme) Genre](add-theme-properties-add-theme-genre.md))
+-   Type: `object` ([Add theme: Genre](add-theme-properties-add-theme-genre.md))
 -   cannot be null
 -   defined in: [Add a new theme](add-theme-properties-add-theme-genre.md "http&#x3A;//www.city-game-studio.com/add.theme.json#/properties/match")
 
 ### match Type
 
-`object` ([(Add theme) Genre](add-theme-properties-add-theme-genre.md))
+`object` ([Add theme: Genre](add-theme-properties-add-theme-genre.md))

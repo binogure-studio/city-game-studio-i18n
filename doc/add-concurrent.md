@@ -94,10 +94,10 @@ Concurrent specialty (action, aventure, casual, reflexion, strategy, simulation,
 `engine`
 
 -   is required
--   Type: `object` ([(Add Competitor) Game engine](add-concurrent-properties-add-competitor-game-engine.md))
+-   Type: `object` ([Add Competitor: Game engine](add-concurrent-properties-add-competitor-game-engine.md))
 -   cannot be null
 -   defined in: [Add a Concurrent](add-concurrent-properties-add-competitor-game-engine.md "http&#x3A;//www.city-game-studio.com/add.concurrent.json#/properties/engine")
 
 ### engine Type
 
-`object` ([(Add Competitor) Game engine](add-concurrent-properties-add-competitor-game-engine.md))
+`object` ([Add Competitor: Game engine](add-concurrent-properties-add-competitor-game-engine.md))

@@ -1,8 +1,8 @@
 ## cost Type
 
-`object` ([(Add platform) Costs](add-platform-properties-add-platform-costs.md))
+`object` ([Add platform: Costs](add-platform-properties-add-platform-costs.md))
 
-# (Add platform) Costs Properties
+# Add platform: Costs Properties
 
 | Property            | Type      | Required | Nullable       | Defined by                                                                                                                                                                          |
 | :------------------ | --------- | -------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

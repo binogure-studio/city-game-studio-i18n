@@ -1,8 +1,8 @@
 ## online Type
 
-`object` ([(Add platform) Online](add-platform-properties-add-platform-online.md))
+`object` ([Add platform: Online](add-platform-properties-add-platform-online.md))
 
-# (Add platform) Online Properties
+# Add platform: Online Properties
 
 | Property                  | Type      | Required | Nullable       | Defined by                                                                                                                                                                                   |
 | :------------------------ | --------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

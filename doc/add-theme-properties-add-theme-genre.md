@@ -1,8 +1,8 @@
 ## match Type
 
-`object` ([(Add theme) Genre](add-theme-properties-add-theme-genre.md))
+`object` ([Add theme: Genre](add-theme-properties-add-theme-genre.md))
 
-# (Add theme) Genre Properties
+# Add theme: Genre Properties
 
 | Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                                                           |
 | :---------------------- | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,8 +1,8 @@
 ## engine Type
 
-`object` ([(Add Competitor) Game engine](add-concurrent-properties-add-competitor-game-engine.md))
+`object` ([Add Competitor: Game engine](add-concurrent-properties-add-competitor-game-engine.md))
 
-# (Add Competitor) Game engine Properties
+# Add Competitor: Game engine Properties
 
 | Property                | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                     |
 | :---------------------- | --------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

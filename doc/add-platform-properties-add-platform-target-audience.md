@@ -1,8 +1,8 @@
 ## age Type
 
-`object` ([(Add platform) Target audience](add-platform-properties-add-platform-target-audience.md))
+`object` ([Add platform: Target audience](add-platform-properties-add-platform-target-audience.md))
 
-# (Add platform) Target audience Properties
+# Add platform: Target audience Properties
 
 | Property          | Type     | Required | Nullable       | Defined by                                                                                                                                                                                 |
 | :---------------- | -------- | -------- | -------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

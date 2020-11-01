@@ -1,8 +1,8 @@
 ## genre Type
 
-`object` ([(Add platform) Genre](add-platform-properties-add-platform-genre.md))
+`object` ([Add platform: Genre](add-platform-properties-add-platform-genre.md))
 
-# (Add platform) Genre Properties
+# Add platform: Genre Properties
 
 | Property                | Type    | Required | Nullable       | Defined by                                                                                                                                                                                                          |
 | :---------------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
