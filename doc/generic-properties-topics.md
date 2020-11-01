@@ -4,9 +4,9 @@
 
 # Topics Properties
 
-| Property    | Type    | Required | Nullable       | Defined by                                                                                                                                   |
-| :---------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| [add](#add) | `array` | Optional | cannot be null | [Create a mod](generic-properties-topics-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme/properties/add") |
+| Property    | Type    | Required | Nullable       | Defined by                                                                                                                                         |
+| :---------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [add](#add) | `array` | Optional | cannot be null | [Create a mod](generic-properties-topics-properties-add-topic.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme/properties/add") |
 
 ## add
 
@@ -16,10 +16,10 @@ Add a new themes
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-topics-properties-add-items.md))
+-   Type: `object[]` ([Add a new theme](generic-properties-topics-properties-add-topic-add-a-new-theme.md))
 -   cannot be null
--   defined in: [Create a mod](generic-properties-topics-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme/properties/add")
+-   defined in: [Create a mod](generic-properties-topics-properties-add-topic.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/theme/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-topics-properties-add-items.md))
+`object[]` ([Add a new theme](generic-properties-topics-properties-add-topic-add-a-new-theme.md))

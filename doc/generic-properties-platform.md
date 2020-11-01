@@ -4,10 +4,10 @@
 
 # Platform Properties
 
-| Property          | Type    | Required | Nullable       | Defined by                                                                                                                                              |
-| :---------------- | ------- | -------- | -------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [add](#add)       | `array` | Optional | cannot be null | [Create a mod](generic-properties-platform-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/add")       |
-| [rename](#rename) | `array` | Optional | cannot be null | [Create a mod](generic-properties-platform-properties-rename.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/rename") |
+| Property          | Type    | Required | Nullable       | Defined by                                                                                                                                                       |
+| :---------------- | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [add](#add)       | `array` | Optional | cannot be null | [Create a mod](generic-properties-platform-properties-add-platform.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/add")       |
+| [rename](#rename) | `array` | Optional | cannot be null | [Create a mod](generic-properties-platform-properties-rename-platform.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/rename") |
 
 ## add
 
@@ -17,13 +17,13 @@ Add a new platform
 `add`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-platform-properties-add-items.md))
+-   Type: `object[]` ([Add a new platform](generic-properties-platform-properties-add-platform-add-a-new-platform.md))
 -   cannot be null
--   defined in: [Create a mod](generic-properties-platform-properties-add.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/add")
+-   defined in: [Create a mod](generic-properties-platform-properties-add-platform.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/add")
 
 ### add Type
 
-`object[]` ([Details](generic-properties-platform-properties-add-items.md))
+`object[]` ([Add a new platform](generic-properties-platform-properties-add-platform-add-a-new-platform.md))
 
 ## rename
 
@@ -33,10 +33,10 @@ Rename a platform
 `rename`
 
 -   is optional
--   Type: `object[]` ([Details](generic-properties-platform-properties-rename-items.md))
+-   Type: `object[]` ([Rename a Platform](generic-properties-platform-properties-rename-platform-rename-a-platform.md))
 -   cannot be null
--   defined in: [Create a mod](generic-properties-platform-properties-rename.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/rename")
+-   defined in: [Create a mod](generic-properties-platform-properties-rename-platform.md "http&#x3A;//www.city-game-studio.com/mod.json#/properties/platform/properties/rename")
 
 ### rename Type
 
-`object[]` ([Details](generic-properties-platform-properties-rename-items.md))
+`object[]` ([Rename a Platform](generic-properties-platform-properties-rename-platform-rename-a-platform.md))
