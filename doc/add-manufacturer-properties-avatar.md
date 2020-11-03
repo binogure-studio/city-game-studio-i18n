@@ -1,3 +1,0 @@
-## avatar Type
-
-`image`

@@ -1,3 +1,0 @@
-## logo Type
-
-`image`

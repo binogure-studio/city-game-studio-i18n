@@ -1,3 +1,0 @@
-## fabriquant Type
-
-`string`

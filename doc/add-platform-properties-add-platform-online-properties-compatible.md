@@ -1,3 +1,0 @@
-## compatible Type
-
-`boolean`

@@ -1,3 +1,0 @@
-## company Type
-
-`string`
