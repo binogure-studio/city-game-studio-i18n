@@ -74,8 +74,28 @@ ru:
   BUTTON_SHOW_STUDIO: Показать студию
   BUTTON_CANCEL_GAME: Отменить разработку
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
+  BUTTON_COPY: Скопировать
+  BUTTON_HIRE_ALL: Принять на работу всех
+  BUTTON_HIRE_AND_ASSIGN: Нанять и назначить
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    Лучше всего оставить эту коробку незамеченной, если это ваша первая игра.
+
+    Расширенный запуск разблокирует все функции с самого начала игры.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Количество произведенных очков
+  LABEL_REQUIRE_FANBASE: Требуется %s вентиляторов для увеличения продаж.
+  LABEL_MAINTENANCE: Техническое обслуживание
+  LABEL_PLATFORM_COMPATIBILITY: Совместимость
+  LABEL_DETAILS_MAIN: Игровые подробности
+  LABEL_DETAILS_SHOWN: Показать все графики и детали
+  LABEL_DETAILS_HIDDEN: Скрыть все диаграммы и детали
+  LABEL_AUTO_ADJUST: Автоматическая настройка
+  LABEL_MISC_SETTINGS: Ошибки в настройках
+  LABEL_MOD_BRANCH: Филиалы Steam
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Установите этот флажок, если хотите управлять несколькими ветвями Steam.
+    Вам нужно будет создать папку для каждой ветки Steam (default, unstable или oldstable)
   LABEL_MOD_MISSING: >
     Пропущенные моды, savegame нельзя загрузить.
   LABEL_MOD_BANNED: Мод запрещен

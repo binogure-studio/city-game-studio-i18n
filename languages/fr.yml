@@ -74,8 +74,28 @@ fr:
   BUTTON_SHOW_STUDIO: Montrer le studio
   BUTTON_CANCEL_GAME: Annuler le jeu
   BUTTON_VIEW_SEQUEL: Voir la suite
+  BUTTON_COPY: Copier
+  BUTTON_HIRE_ALL: Embaucher tout le monde
+  BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    Il est préférable de laisser cette case décochée si c'est votre première partie.
+
+    Le départ avancé débloque toutes les fonctionnalités dès le débuts de la partie.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Nombre de points produits
+  LABEL_REQUIRE_FANBASE: Nécessite %s fans pour stimuler les ventes
+  LABEL_MAINTENANCE: Maintenance
+  LABEL_PLATFORM_COMPATIBILITY: Compatibilité
+  LABEL_DETAILS_MAIN: Détails des jeux
+  LABEL_DETAILS_SHOWN: Afficher tous les graphiques et détails
+  LABEL_DETAILS_HIDDEN: Cacher tous les graphiques et détails
+  LABEL_AUTO_ADJUST: Ajustement automatique
+  LABEL_MISC_SETTINGS: Paramètres divers
+  LABEL_MOD_BRANCH: Multi-branches
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Veuillez cocher cette option dans le cas ou le mod gère plusieurs branches Steam.
+    Vous devrez alors créer un répertoire par branche Steam (default, unstable ou oldstable)
   LABEL_MOD_MISSING: >
     Mods manquants, la sauvegarde ne peut être chargée
   LABEL_MOD_BANNED: Mod banni
@@ -107,7 +127,7 @@ fr:
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
     Bonjour [b]%s[/b],
 
-    Je suis ravi de voir que votre studio publie des jeux de qualité. Je viens pour parler de [b]%s[/b], ce jeu me semble prometteur, et je voudrais vous aider à faire de sa sortie un succès mondial! [b]%s[/b] sera mis en avant, et nous allons faire pack de votre jeu avec notre console. En contrepartie, nous voulons que ce jeu soit une exclusivité [b]%s[/b]. [i](Tous les ports vers des consoles qui n'appartiennent pas à [b]%s[/b] seront annulés)[/i]
+    Je suis ravi de voir que votre studio publie des jeux de qualité. Je viens pour parler de [b]%s[/b], ce jeu me semble prometteur, et je voudrais vous aider à faire de sa sortie un succès mondial! [b]%s[/b] sera mis en avant, et nous allons faire un pack de votre jeu avec notre console. En contrepartie, nous voulons que ce jeu soit une exclusivité [b]%s[/b]. [i](Tous les ports vers des consoles qui n'appartiennent pas à [b]%s[/b] seront annulés)[/i]
     En plus de mettre votre jeu en avant, nous vous offrons la coquette somme de [b]%s$[/b]. C'est une affaire qui roule?
   LABEL_CLOUDS: Afficher les nuages sur la carte
   LABEL_AUTOSAVE: Sauvegarde automatique
@@ -567,7 +587,7 @@ fr:
   LABEL_TAXES: Impôts et taxes
   LABEL_FIXED_COSTS: Coûts fixes
   LABEL_OVERVIEW: Vue d'ensemble
-  LABEL_LOW_CONFIGURATION: Mode grille pain
+  LABEL_LOW_CONFIGURATION: Basse définition
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
     Bouger l'écran avec la souris
   LABEL_WEEK: Semaines

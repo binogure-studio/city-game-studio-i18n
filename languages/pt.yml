@@ -74,8 +74,28 @@ pt:
   BUTTON_SHOW_STUDIO: Mostrar o estúdio
   BUTTON_CANCEL_GAME: Cancelar o jogo
   BUTTON_VIEW_SEQUEL: Ver sequência
+  BUTTON_COPY: Cópia
+  BUTTON_HIRE_ALL: Contrate todos
+  BUTTON_HIRE_AND_ASSIGN: Alugue e atribua
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    É melhor deixar esta caixa desmarcada se este for o seu primeiro jogo.
+
+    O início avançado desbloqueia todas as características desde o início do jogo.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Número de pontos produzidos
+  LABEL_REQUIRE_FANBASE: Requer %s fãs para aumentar as vendas
+  LABEL_MAINTENANCE: Manutenção
+  LABEL_PLATFORM_COMPATIBILITY: Compatibilidade
+  LABEL_DETAILS_MAIN: Detalhes dos jogos
+  LABEL_DETAILS_SHOWN: Mostrar todos os gráficos e detalhes
+  LABEL_DETAILS_HIDDEN: Ocultar todos os gráficos e detalhes
+  LABEL_AUTO_ADJUST: Ajuste automático
+  LABEL_MISC_SETTINGS: Outros ajustes
+  LABEL_MOD_BRANCH: Ramos Steam
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Marque esta caixa se você deseja gerenciar vários ramos do Steam.
+    Você precisará criar uma pasta por branch Steam (default, unstable ou oldstable)
   LABEL_MOD_MISSING: >
     Mods em falta, o savegame não pode ser carregado
   LABEL_MOD_BANNED: O Mod é banido

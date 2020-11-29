@@ -74,8 +74,28 @@ tr:
   BUTTON_SHOW_STUDIO: Stüdyoyu göster
   BUTTON_CANCEL_GAME: Oyunu iptal et
   BUTTON_VIEW_SEQUEL: Devam filmi görüntüle
+  BUTTON_COPY: Kopyalamak
+  BUTTON_HIRE_ALL: Herkesi işe alın
+  BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    Bu ilk oyununuzsa, bu kutuyu işaretlemeden bırakmak en iyisidir.
+
+    Gelişmiş başlangıç, oyunun en başından itibaren tüm özelliklerin kilidini açar.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Üretilen nokta sayısı
+  LABEL_REQUIRE_FANBASE: Satışları artırmak için %s hayran gerektirir
+  LABEL_MAINTENANCE: Bakım
+  LABEL_PLATFORM_COMPATIBILITY: Uyumluluk
+  LABEL_DETAILS_MAIN: Oyun ayrıntıları
+  LABEL_DETAILS_SHOWN: Tüm grafikleri ve ayrıntıları göster
+  LABEL_DETAILS_HIDDEN: Tüm grafikleri ve ayrıntıları gizle
+  LABEL_AUTO_ADJUST: Otomatik olarak ayarla
+  LABEL_MISC_SETTINGS: Diğer ayarlar
+  LABEL_MOD_BRANCH: Steam şubeleri
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Birden fazla Steam şubesini yönetmek istiyorsanız bu kutuyu işaretleyin.
+    Steam dalı başına bir klasör oluşturmanız gerekecektir (default, unstable veya oldstable)
   LABEL_MOD_MISSING: >
     Eksik modlar, savegame yüklenemiyor
   LABEL_MOD_BANNED: Mod yasaklandı
@@ -403,7 +423,7 @@ tr:
     Yüzlerce sunucuyu barındıracak daha büyük binalar yok
   LABEL_RENT_SERVERS: Kiralık sunucu
   LABEL_ENABLED: Etkin
-  LABEL_DISABLED: Engelli
+  LABEL_DISABLED: Devre Dışı
   LABEL_TOTAL_UNIT_SOLD: Satılan toplam birim
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: Bu oyun platformu dijital mağazanız tarafından desteklenmiyor
   LABEL_DISCONTINUE_PLATFORM_TITLE: Durdurma platformu

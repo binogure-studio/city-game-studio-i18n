@@ -74,8 +74,28 @@ it:
   BUTTON_SHOW_STUDIO: Mostra lo studio
   BUTTON_CANCEL_GAME: Annulla il gioco
   BUTTON_VIEW_SEQUEL: Vedi il seguito
+  BUTTON_COPY: Copia
+  BUTTON_HIRE_ALL: Assumere tutti
+  BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    È meglio lasciare questa casella non spuntata se questa è la vostra prima partita.
+
+    L'avvio avanzato sblocca tutte le caratteristiche fin dall'inizio del gioco.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Numero di punti prodotti
+  LABEL_REQUIRE_FANBASE: Richiede %s fan per aumentare le vendite
+  LABEL_MAINTENANCE: Manutenzione
+  LABEL_PLATFORM_COMPATIBILITY: Compatibilità
+  LABEL_DETAILS_MAIN: Dettagli dei giochi
+  LABEL_DETAILS_SHOWN: Mostra tutti i grafici e i dettagli
+  LABEL_DETAILS_HIDDEN: Nascondi tutti i grafici e i dettagli
+  LABEL_AUTO_ADJUST: Regolazione automatica
+  LABEL_MISC_SETTINGS: Impostazioni diverse
+  LABEL_MOD_BRANCH: Rami Steam
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Seleziona questa casella se desideri gestire più rami Steam.
+    Dovrai creare una cartella per ogni ramo Steam (default, unstable o oldstable)
   LABEL_MOD_MISSING: >
     Mods mancanti, savegame non può essere caricato
   LABEL_MOD_BANNED: Il mod è vietato

@@ -74,8 +74,28 @@ zh:
   BUTTON_SHOW_STUDIO: 显示工作室
   BUTTON_CANCEL_GAME: 取消游戏
   BUTTON_VIEW_SEQUEL: 查看续集
+  BUTTON_COPY: 复制
+  BUTTON_HIRE_ALL: 雇用所有人
+  BUTTON_HIRE_AND_ASSIGN: 雇用和分配
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    如果这是你的第一场比赛，最好不要勾选此框。
+
+    高级开始从游戏一开始就解锁所有功能。
+  LABEL_NUMBER_OF_PRODUCED_POINTS: 生产点数量
+  LABEL_REQUIRE_FANBASE: 需要%s个粉丝来促进销售
+  LABEL_MAINTENANCE: 维护
+  LABEL_PLATFORM_COMPATIBILITY: 兼容性
+  LABEL_DETAILS_MAIN: 游戏详情
+  LABEL_DETAILS_SHOWN: 显示所有图表和细节
+  LABEL_DETAILS_HIDDEN: 隐藏所有图表和细节
+  LABEL_AUTO_ADJUST: 自动调节
+  LABEL_MISC_SETTINGS: 其他设置
+  LABEL_MOD_BRANCH: Steam分支
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    如果您想管理多个 Steam 分支，请选中此框。
+    您需要为每个Steam分支创建一个文件夹(default,unstable或oldstable).
   LABEL_MOD_MISSING: >
     缺少模式，无法加载保存游戏
   LABEL_MOD_BANNED: Mod被禁止

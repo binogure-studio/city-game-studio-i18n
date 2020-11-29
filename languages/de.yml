@@ -74,8 +74,28 @@ de:
   BUTTON_SHOW_STUDIO: Das Studio zeigen
   BUTTON_CANCEL_GAME: Das Spiel abbrechen
   BUTTON_VIEW_SEQUEL: Fortsetzung ansehen
+  BUTTON_COPY: Kopie
+  BUTTON_HIRE_ALL: Alle einstellen
+  BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    Es ist am besten, dieses Kästchen nicht anzukreuzen, wenn dies Ihr erstes Spiel ist.
+
+    Der fortgeschrittene Start schaltet alle Funktionen von Beginn des Spiels an frei.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Anzahl der produzierten Punkte
+  LABEL_REQUIRE_FANBASE: Benötigt %s Fans zur Verkaufsförderung
+  LABEL_MAINTENANCE: Wartung
+  LABEL_PLATFORM_COMPATIBILITY: Kompatibilität
+  LABEL_DETAILS_MAIN: Details zu den Spielen
+  LABEL_DETAILS_SHOWN: Alle Diagramme und Details anzeigen
+  LABEL_DETAILS_HIDDEN: Alle Diagramme und Details ausblenden
+  LABEL_AUTO_ADJUST: Automatische Anpassung
+  LABEL_MISC_SETTINGS: Diverse Einstellungen
+  LABEL_MOD_BRANCH: Steam-Zweige
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Aktivieren Sie dieses Kontrollkästchen, wenn Sie mehrere Steam-Zweige verwalten möchten.
+    Sie müssen einen Ordner pro Steam-Zweig erstellen (default, unstable oder oldstable).
   LABEL_MOD_MISSING: >
     Fehlende Mods, Savegame kann nicht geladen werden
   LABEL_MOD_BANNED: Mod ist verboten

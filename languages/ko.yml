@@ -74,8 +74,28 @@ ko:
   BUTTON_SHOW_STUDIO: 스튜디오 보여주기
   BUTTON_CANCEL_GAME: 게임 취소
   BUTTON_VIEW_SEQUEL: 속편보기
+  BUTTON_COPY: 복사하려면
+  BUTTON_HIRE_ALL: 모두 고용
+  BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    첫 번째 게임 인 경우이 상자를 선택하지 않는 것이 가장 좋습니다.
+
+    고급 시작은 게임 초반부터 모든 기능을 잠금 해제합니다.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: 생성 포인트 수
+  LABEL_REQUIRE_FANBASE: 판매를 늘리려면 %s 명의 팬이 필요합니다.
+  LABEL_MAINTENANCE: 유지
+  LABEL_PLATFORM_COMPATIBILITY: 적합성
+  LABEL_DETAILS_MAIN: 게임 세부 정보
+  LABEL_DETAILS_SHOWN: 모든 차트 및 세부 정보 표시
+  LABEL_DETAILS_HIDDEN: 모든 차트 및 세부 정보 숨기기
+  LABEL_AUTO_ADJUST: 자동으로 조정
+  LABEL_MISC_SETTINGS: 기타 설정
+  LABEL_MOD_BRANCH: Steam 지점
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    여러 Steam 분기를 관리하려면이 상자를 선택하십시오.
+    Steam 분기 (default, unstable 또는 oldstable)별로 폴더를 만들어야합니다.
   LABEL_MOD_MISSING: >
     모드 누락, 게임 저장을로드 할 수 없음
   LABEL_MOD_BANNED: 모드가 금지되었습니다.

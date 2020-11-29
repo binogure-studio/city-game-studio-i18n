@@ -73,8 +73,28 @@ ar:
   BUTTON_SHOW_STUDIO: اعرض الاستوديو
   BUTTON_CANCEL_GAME: قم بإلغاء اللعبة
   BUTTON_VIEW_SEQUEL: عرض التكملة
+  BUTTON_COPY: لنسخ
+  BUTTON_HIRE_ALL: وظف الجميع
+  BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
 
   # Labels, descriptive
+  LABEL_ADVANCED_START_TOOLTIP: |
+    من الأفضل ترك هذا المربع بدون تحديد إذا كانت هذه هي لعبتك الأولى.
+
+    تعمل البداية المتقدمة على فتح جميع الميزات من بداية اللعبة.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: عدد النقاط المنتجة
+  LABEL_REQUIRE_FANBASE: يتطلب %s معجبًا لزيادة المبيعات
+  LABEL_MAINTENANCE: اعمال صيانة
+  LABEL_PLATFORM_COMPATIBILITY: التوافق
+  LABEL_DETAILS_MAIN: تفاصيل الألعاب
+  LABEL_DETAILS_SHOWN: عرض كل الرسوم البيانية والتفاصيل
+  LABEL_DETAILS_HIDDEN: إخفاء كل الرسوم البيانية والتفاصيل
+  LABEL_AUTO_ADJUST: ضبط تلقائيا
+  LABEL_MISC_SETTINGS: إعدادات متنوعة
+  LABEL_MOD_BRANCH: فروع Steam
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    حدد هذا المربع إذا كنت تريد إدارة عدة فروع Steam.
+    ستحتاج إلى إنشاء مجلد لكل فرع Steam (default, unstable, oldstable)
   LABEL_MOD_MISSING: >
     تعديل مفقود ، لا يمكن تحميل لعبة الحفظ
   LABEL_MOD_BANNED: وزارة الدفاع محظورة

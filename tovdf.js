@@ -8,7 +8,8 @@ const langMatch = {
   es: 'spanish',
   pt: 'portuguese',
   fr: 'french',
-  ru: 'russian'
+  ru: 'russian',
+  tr: 'turkish'
 }
 const language_directory = path.resolve('achievements')
 const encoding = {
