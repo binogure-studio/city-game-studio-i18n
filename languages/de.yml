@@ -79,6 +79,37 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_INTERVIEW_INDIE: |
+    Hallo,
+    Ich bin Bruno Trigger. Jeden Mittwoch moderiere ich die Sendung [i]3615 Dorian[/i] über unabhängige Videospiele. 
+    Als großer Fan von [b]%s[/b] möchte ich Ihnen ein paar Fragen für unseren großen Spieleabend von [b]%s[/b] stellen.
+    Haben Sie 5 Minuten Zeit?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    Ich träume davon, mich auf das Abenteuer der unabhängigen Spieleentwicklung einzulassen! Mein eigener Chef zu sein und auf eine liebevolle und fürsorgliche Gemeinschaft zu reagieren, was für ein Traum!
+    Da unsere kleine Gemeinschaft Fans von [b]%s[/b]-Spielen ist, worauf sollten wir uns Ihrer Meinung nach konzentrieren, wenn wir ein Spiel entwickeln wollen?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Unser Experte Dorian stimmt dem zu, ebenso wie die [i]3615 Dorian[/i]-Gemeinschaft. [b]%s[/b] ist das Nugget, auf das wir alle gewartet haben!
+  LABEL_INTERVIEW_BIG: |
+    Hallo,
+    Gio Tard, ich arbeite für die [i]Rock Paper Pistol[/i]. [b]%s[/b] scheint vielversprechend, ich möchte Ihnen einige Fragen für einen Artikel stellen.
+    Haben Sie 5 Minuten Zeit für mich?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    Nach [b]%d[/b] Jahren des Bestehens veröffentlichen Sie Ihr erstes AAA. Mit [b]%s[/b] steigen Sie in die große Liga der Branche ein.
+    Wir würden gerne wissen, wird [b]%s[/b] zum Spiel des Jahres [b]%d[/b] ernannt?
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] muss eine Kristallkugel haben! Im Voraus zu sagen, wer zum Spiel des Jahres nominiert wird, ist nicht einfach!
+    Um so weitsichtig zu sein, müssen sie das Innenleben der Branche kennen!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Jeder kann sich irren, Sie, ich, jeder. Eines ist jedoch sicher: [b]%s[/b] hat die Zukunft nicht vorhersagen können!
+    Die Menschen lernen mehr aus ihren Fehlern als aus ihren Erfolgen. Jedenfalls ist dies etwas, was wir bei [b]%s[/b] wahrscheinlich sehr oft hören.
+  LABEL_INTERVIEW_BIG_YES: |
+    Nun, nach viel harter Arbeit ist es sicher.
+  LABEL_INTERVIEW_BIG_NO: |
+    Wir wären die ersten, die überrascht wären, wenn dies der Fall wäre!
+  LABEL_INTERVIEW_REFUSAL: |
+    Entschuldigen Sie, dass ich Ihre Zeit verschwendet habe.
+  LABEL_INTERVIEW_ACCEPT: |
+    Aber natürlich.
   LABEL_ADVANCED_START_TOOLTIP: |
     Es ist am besten, dieses Kästchen nicht anzukreuzen, wenn dies Ihr erstes Spiel ist.
 
@@ -1509,6 +1540,13 @@ de:
   LABEL_STUDIO_SOLD: DU hast %s verkauft.
 
   # Tooltips
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    Zeigt die Arbeitslast an, die auf Ihre Mitarbeiter verteilt ist.
+    Eine zu hohe oder zu niedrige Arbeitsbelastung wirkt sich auf die
+    Qualität der produzierten Spiele aus.
+    
+    Um ein ausgezeichnetes Ergebnis zu erzielen, muss die Arbeitsbelastung
+    innerhalb des weißen Bereichs liegen.
   TOOLTIP_GAME_UPDATE: |
     Wenn Sie ein kostenloses Update veröffentlichen, wird der
     Umsatz eines Spiels gesteigert. Ein kostenpflichtiges

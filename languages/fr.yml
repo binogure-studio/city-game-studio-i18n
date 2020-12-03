@@ -79,6 +79,39 @@ fr:
   BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
 
   # Labels, descriptive
+  LABEL_INTERVIEW_INDIE: |
+    Salut,
+    Je suis Bruno Trigger. Tous les mercredis j'anime l'émission [i]3615 Dorian[/i] qui aborde des jeux vidéo indépendants. 
+    Étant un grand fan de [b]%s[/b] j'aimerais vous poser quelques questions pour notre grande soirée "Jeux de [b]%s[/b]".
+    Est-ce que vous avez 5 petites minutes à m'accorder?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    Je rêve de me lancer dans l'aventure du développement de jeux indépendants! Être mon propre boss, ne répondre qu'à une communauté aimante et bienveillante, quel rêve!
+    Notre petite communauté étant fans de jeux de [b]%s[/b], d'après-vous sur quoi devrions-nous nous concentrer si nous voulions faire un jeu?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Notre expert Dorian est bien d'accord, et la communauté de [i]3615 Dorian[/i] l'est également.
+    [b]%s[/b] est la pépite que nous attendions tous!
+  LABEL_INTERVIEW_BIG: |
+    Bonjour,
+    Gio Tard, je travaille pour le [i]Rock Paper Pistol[/i]. [b]%s[/b] semble prometteur,
+    j'aimerai vous poser quelques questions pour un article.
+    Est-ce que vous avez 5 minutes a m'accorder?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    Après [b]%d[/b] années d'existence vous publiez votre premier AAA. Avec [b]%s[/b], vous entrez dans la cour des grands de l'industrie. 
+    Nous aimerions savoir, est-ce que [b]%s[/b] va être nommé Jeu de l'année [b]%d[/b]?
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] doivent avoir une boule de cristal! Pouvoir prédire a l'avance qui va être nominé Jeu de l'année n'est pas facile!
+    Pour être aussi clairvoyant, ils doivent bien connaître les rouages de l'industrie!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Tout le monde peut se tromper, vous, moi, tout le monde. Mais ce qui est sûr c'est que [b]%s[/b] n'a pas su prédire l'avenir!
+    On apprend plus de nos erreurs que de nos succès. En tout cas, on doit entendre ça souvent chez [b]%s[/b].
+  LABEL_INTERVIEW_BIG_YES: |
+    Après temps d'efforts, c'est sûr que oui
+  LABEL_INTERVIEW_BIG_NO: |
+    Nous serions les premiers surpris si c'était le cas!
+  LABEL_INTERVIEW_REFUSAL: |
+    Désolé de vous avoir fait perdre votre temps
+  LABEL_INTERVIEW_ACCEPT: |
+    Bien sûr.
   LABEL_ADVANCED_START_TOOLTIP: |
     Il est préférable de laisser cette case décochée si c'est votre première partie.
 
@@ -1494,6 +1527,13 @@ fr:
   LABEL_STUDIO_SOLD: Ils ont vendu %s
 
   # Tooltips
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    Ce compteur illustre la charge de travail distribuée à vos employés.
+    Une charge de travail trop élevée ou trop faible nuira à la qualité des jeux
+    produits.
+
+    Pour obtenir une note optimale il faut conserver la charge de travail
+    dans la zone blanche.
   TOOLTIP_GAME_UPDATE: |
     Publier une mise à jour gratuite permet de relancer les ventes d'un jeu.
     Une mise à jour payante va générer des revenus par rapport

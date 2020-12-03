@@ -79,6 +79,37 @@ ko:
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
 
   # Labels, descriptive
+  LABEL_INTERVIEW_INDIE: |
+    안녕하세요,
+    저는 브루노 트리거입니다. 매주 수요일에는 독립 비디오 게임에 대한 [i]3615 Dorian[/i] 쇼를 개최합니다.
+    [b]%s[/b]의 거물로서, [b]%s[/b]의 큰 경기의 밤에 몇 가지 질문을하고 싶습니다.
+    5 분 있어요?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    독립 게임 개발의 모험을 꿈꾼다! 내 자신의 상사가되고 사랑스럽고 배려하는 커뮤니티에 반응하는 것은 정말 꿈입니다!
+    우리의 작은 커뮤니티는 [b]%s[/b] 게임의 팬입니다. 게임을 만들고 싶다면 무엇에 집중해야한다고 생각하십니까?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    우리 전문가 Dorian은 이에 동의하며 [i]3615 Dorian[/i] 커뮤니티도 동의합니다. [b]%s[/b]은 우리 모두가 기다려온 너겟입니다!
+  LABEL_INTERVIEW_BIG: |
+    여보세요,
+    Gio Tard, 저는 [i]Rock Paper Pistol[/i]에서 일합니다. [b]%s[/b]은 유망한 것 같습니다. 기사에 대해 몇 가지 질문을하고 싶습니다.
+    5 분 있어요?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    [b]%d[/b] 년이 지나면 첫 번째 AAA를 게시합니다. [b]%s[/b]과 함께 당신은 업계의 큰 리그에 진입합니다.
+    [b]%s[/b]이 [b]%d[/b] 년 올해의 게임으로 선정 될 수 있는지 알고 싶습니다.
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b]은 수정 구슬이 있어야합니다! 올해의 게임 후보에 누가 올지를 예상하는 것은 쉽지 않습니다!
+    그렇게 원시적이기 위해서는 업계의 내부 작동 방식을 알아야합니다!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    누구든지 틀릴 수 있습니다, 당신, 나, 모두 한 가지는 확실하지만, [b]%s[/b]은 미래를 예측할 수 없었습니다!
+    사람들은 성공보다는 실수에서 더 많은 것을 배웁니다. 어쨌든 이것은 우리가 [b]%s[/b]에서 많이 듣는 것입니다.
+  LABEL_INTERVIEW_BIG_YES: |
+    글쎄요, 많은 노력 끝에 확실합니다.
+  LABEL_INTERVIEW_BIG_NO: |
+    만약 그렇다면 우리는 처음으로 놀라게 될 것입니다!
+  LABEL_INTERVIEW_REFUSAL: |
+    시간을 낭비해서 죄송합니다.
+  LABEL_INTERVIEW_ACCEPT: |
+    물론이야.
   LABEL_ADVANCED_START_TOOLTIP: |
     첫 번째 게임 인 경우이 상자를 선택하지 않는 것이 가장 좋습니다.
 
@@ -1489,6 +1520,11 @@ ko:
   LABEL_STUDIO_SOLD: "%s를 팔았습니다."
 
   # Tooltips
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    직원에게 분배 된 워크로드를 표시합니다.
+    너무 높거나 너무 낮은 작업량은 제작 된 게임의 품질에 영향을 미칩니다.
+
+    우수한 점수를 얻으려면 작업 부하가 흰색 영역 내에 있어야합니다.
   TOOLTIP_GAME_UPDATE: |
     무료 업데이트를 게시하면 게임 판매가 늘어납니다.
     유료 업데이트는 원래 게임에서 판매 된 사본 수에 비례하여 수익을 창출합니다.

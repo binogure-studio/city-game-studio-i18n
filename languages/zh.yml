@@ -79,6 +79,37 @@ zh:
   BUTTON_HIRE_AND_ASSIGN: 雇用和分配
 
   # Labels, descriptive
+  LABEL_INTERVIEW_INDIE: |
+    嗨，我的天
+    我是布鲁诺-特里格。每周三我都会主持关于独立游戏的节目[i]3615 Dorian[/i]。
+    作为[b]%s[/b]的忠实粉丝，我想在[b]%s[/b]的游戏之夜问你几个问题。
+    你有5分钟的时间吗？
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    我梦想踏上独立游戏开发的冒险之旅! 做自己的老板，响应一个充满爱心和关怀的社区，这是多么大的梦想啊!
+    我们的小社区是[b]%s[/b]游戏的粉丝，你觉得如果我们想做游戏，应该关注什么？
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    我们的专家Dorian同意，[i]3615 Dorian[/i]社区也同意。[b]%s[/b]是我们一直在等待的金块!
+  LABEL_INTERVIEW_BIG: |
+    你好啊
+    Gio Tard，我在[i]Rock Paper Pistol[/i]工作。[b]%s[/b]似乎很有前途，我想问你一些问题的文章。
+    你有5分钟的时间给我吗？
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    成立[b]%d[/b]年后，你出版了你的第一个AAA。随着《[b]%s[/b]》的问世，你进入了业界的大联盟。
+    我们想知道，[b]%s[/b]会被评为[b]%d[/b]年年度游戏吗？
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b]要有一个水晶球! 预测谁会被提名为年度最佳游戏并不容易!
+    要有那么高的远见，他们必须了解行业的内部运作!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    任何人都有可能出错，你，我，每个人都有可能出错.然而有一点是肯定的，[b]%s[/b]一直无法预测未来!
+    人们从错误中学到的东西比从成功中学到的东西更多。无论如何，这句话我们可能在[b]%s[/b]经常听到。
+  LABEL_INTERVIEW_BIG_YES: |
+    好吧，经过一番努力，这是肯定的。
+  LABEL_INTERVIEW_BIG_NO: |
+    如果是这样的话，我们将是第一个惊讶的人!
+  LABEL_INTERVIEW_REFUSAL: |
+    对不起，浪费了你的时间。
+  LABEL_INTERVIEW_ACCEPT: |
+    当然了
   LABEL_ADVANCED_START_TOOLTIP: |
     如果这是你的第一场比赛，最好不要勾选此框。
 
@@ -1432,6 +1463,10 @@ zh:
   LABEL_STUDIO_SOLD: 他们卖掉了%s
 
   # Tooltips
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    显示分配给员工的工作量。工作量过高或过低都会影响游戏的制作质量。
+
+    要想获得优秀的成绩，工作量必须在白色区域内。
   TOOLTIP_GAME_UPDATE: |
     发布免费更新将促进游戏销量。
     付费更新将产生与原始游戏售出的副本数量相关的收入。

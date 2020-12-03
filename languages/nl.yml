@@ -79,6 +79,37 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_INTERVIEW_INDIE: |
+    Hoi,
+    Ik ben Bruno Trigger. Elke woensdag organiseer ik de show [i]3615 Dorian[/i] over onafhankelijke videogames. 
+    Als grote fan van [b]%s[/b] wil ik je graag een paar vragen stellen voor onze big game avond van [b]%s[/b].
+    Heb je 5 minuten?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    Ik droom ervan om het avontuur van onafhankelijke spelontwikkeling aan te gaan! Mijn eigen baas zijn en reageren op een liefdevolle en zorgzame gemeenschap, wat een droom!
+    Onze kleine gemeenschap is fan van [b]%s[/b] spellen, waar denk je dat we ons op moeten richten als we een spel willen maken?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Onze deskundige Dorian is het daarmee eens, en de [i]3615 Dorian[/i]-gemeenschap ook. [b]%s[/b] is het klompje waar we allemaal op hebben gewacht!
+  LABEL_INTERVIEW_BIG: |
+    Hallo,
+    Gio Tard, ik werk voor de [i]Rock Paper Pistol[/i]. [b]%s[/b] lijkt veelbelovend, ik wil u graag wat vragen stellen voor een artikel.
+    Heb je 5 minuten om me te geven?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    Na [b]%d[/b] jaar bestaan publiceert u uw eerste AAA. Met [b]%s[/b] treedt u toe tot de hoofdklasse van de industrie.
+    We willen graag weten of [b]%s[/b] wordt uitgeroepen tot Spel van het Jaar [b]%d[/b].
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] moet een kristallen bol hebben! Voorspellen wie er genomineerd wordt is niet eenvoudig!
+    Om zo vooruitziend te zijn, moeten ze de innerlijke werking van de industrie kennen!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Iedereen kan het mis hebben, jij, ik, iedereen. Een ding is echter zeker, [b]%s[/b] heeft de toekomst niet kunnen voorspellen!
+    Mensen leren meer van hun fouten dan van hun successen. In ieder geval is dit iets wat we waarschijnlijk veel horen bij [b]%s[/b].
+  LABEL_INTERVIEW_BIG_YES: |
+    Nou, na veel hard werken, is het zeker.
+  LABEL_INTERVIEW_BIG_NO: |
+    We zouden de eerste verrast zijn als dat het geval was!
+  LABEL_INTERVIEW_REFUSAL: |
+    Sorry dat ik je tijd heb verspild.
+  LABEL_INTERVIEW_ACCEPT: |
+    Natuurlijk.
   LABEL_ADVANCED_START_TOOLTIP: |
     Het is het beste om dit vakje niet aan te vinken als dit je eerste spel is.
 
@@ -1492,6 +1523,12 @@ nl:
   LABEL_STUDIO_SOLD: Ze hebben %s verkocht
 
   # Tooltips
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    Geeft de werklast weer die onder uw medewerkers wordt verdeeld.
+    Een te hoge of te lage werklast heeft invloed op de kwaliteit van
+    de geproduceerde spellen.
+
+    Om een uitstekende score te behalen, moet de werklast binnen het witte vlak liggen.
   TOOLTIP_GAME_UPDATE: |
     Het plaatsen van een gratis update zal de verkoop van een game stimuleren.
     Een betaalde update genereert inkomsten in verhouding tot het aantal

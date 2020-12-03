@@ -79,6 +79,37 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_INTERVIEW_INDIE: |
+    Selam,
+    Ben Bruno Trigger'ım. Her Çarşamba [i]3615 Dorian[/i] adlı bağımsız video oyunlarına ev sahipliği yapıyorum.
+    Büyük bir [b]%s[/b] olarak sizlere [b]%s[/b]'deki büyük oyun gecemiz için birkaç soru sormak istiyorum.
+    5 dakikan var mı?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    Bağımsız oyun geliştirme macerasına atılmayı hayal ediyorum! Kendi patronum olmak ve sevgi dolu ve şefkatli bir topluluğa karşılık vermek, ne rüya!
+    Küçük topluluğumuz [b]%s[/b] oyunlarının hayranı, sizce bir oyun yapmak istiyorsak neye odaklanmalıyız?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Uzmanımız Dorian ve [i]3615 Dorian[/i] topluluğu kabul ediyor. [b]%s[/b] hepimizin beklediği külçe!
+  LABEL_INTERVIEW_BIG: |
+    Merhaba,
+    Gio Tard, [i]Rock Paper Pistol[/i] için çalışıyorum. [b]%s[/b] umut verici görünüyor, size bir makale için bazı sorular sormak istiyorum.
+    5 dakikan var mı?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    [b]%d[/b] yıllık varlığın ardından ilk AAA'nızı yayınlıyorsunuz. [b]%s[/b] ile sektörün büyük ligine girersiniz.
+    Bilmek isteriz, [b]%s[/b] [b]%d[/b] Yılın Oyunu seçilecek mi?
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] kristal bir küreye sahip olmalı! Kimin Yılın Oyunu olarak aday gösterileceğini tahmin etmek kolay değil!
+    Bu kadar ileri görüşlü olmak için, endüstrinin iç işleyişini bilmeleri gerekiyor!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Herkes yanılıyor olabilir, siz, ben, herkes. Kesin olan bir şey var, ancak [b]%s[/b] geleceği tahmin edemedi!
+    İnsanlar, başarılarından çok hatalarından daha fazlasını öğrenirler. Her durumda, bu [b]%s[/b]'de muhtemelen çok duyduğumuz bir şeydir.
+  LABEL_INTERVIEW_BIG_YES: |
+    Pek çok sıkı çalışmadan sonra kesin.
+  LABEL_INTERVIEW_BIG_NO: |
+    Durum böyle olsaydı ilk şaşırırdık!
+  LABEL_INTERVIEW_REFUSAL: |
+    Zamanınızı boşa harcadığım için üzgünüm.
+  LABEL_INTERVIEW_ACCEPT: |
+    Elbette.
   LABEL_ADVANCED_START_TOOLTIP: |
     Bu ilk oyununuzsa, bu kutuyu işaretlemeden bırakmak en iyisidir.
 
@@ -1486,6 +1517,11 @@ tr:
   LABEL_STUDIO_SOLD: "%s sattılar"
 
   # Tooltips
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    Çalışanlarınıza dağıtılan iş yükünü görüntüler.
+    Çok yüksek veya çok düşük bir iş yükü, üretilen oyunların kalitesini etkileyecektir.
+
+    Mükemmel bir puan elde etmek için iş yükünün beyaz alan içinde olması gerekir.
   TOOLTIP_GAME_UPDATE: |
     Ücretsiz güncelleme yayınlamak oyun satışlarını artıracaktır.
     Ücretli bir güncelleme, orijinal oyundan satılan kopya sayısına
