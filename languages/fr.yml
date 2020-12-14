@@ -79,6 +79,17 @@ fr:
   BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: Jeu annulé
+  LABEL_EMPLOYEE_FIRED: Employé licencié
+  LABEL_ASSIGN_SPECIALIST: Assigner des spécialistes
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Assigner un comptable pour réduire les taxes à payer
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Assigner un responsable marketing pour augmenter la popularité d'un jeu
+  LABEL_PRODUCER_TOOLTIP: |
+    Assigner un producteur permet de faire de plus gros jeux et augmente la productivité de vos employés
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Assigner un administrateur réseau vous permet d'optimiser la charge serveur nécessaire par joueur.
   LABEL_INTERVIEW_INDIE: |
     Salut,
     Je suis Bruno Trigger. Tous les mercredis j'anime l'émission [i]3615 Dorian[/i] qui aborde des jeux vidéo indépendants. 
@@ -168,7 +179,7 @@ fr:
     Un concurrent utilise votre moteur de jeu.
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b] a publié un jeu qui utilise votre moteur de jeu ([b]%s[/b]).
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     Grâce à [b]%s[/b], vous allez toucher [b]%d%%[/b] de royalties.
   LABEL_PLATFORM_SELECT_OFFER: |
     Personnaliser l'offre
@@ -312,8 +323,8 @@ fr:
   LABEL_GAME_UPDATE_NOTEXPECTED: N'attendant pas de mise à jour
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Campagne de marketing active
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Aucune campagne de marketing active
-  LABEL_FANBASE_GAIN: Base de fans grandissante
-  LABEL_FANBASE_LOSS: Base de fans en déclin
+  LABEL_FANBASE_GAIN: Nombre de fans grandissant
+  LABEL_FANBASE_LOSS: Nombre de fans en déclin
   LABEL_MONEY_MAKER: Rentable
   LABEL_MONEY_LOSER: Pas rentable
   LABEL_SELECT_ALL: Tout sélectionner
@@ -1290,7 +1301,9 @@ fr:
   LABEL_PAYLOAN_DESCRIPTION: L'échéancier arrive à son terme. Vous devez rembourser la totalité des sommes empruntées, soit [b]%s$[/b]
   LABEL_SELL_STUDIO_TITLE: Vendre un studio
   LABEL_SELL_STUDIO_DESCRIPTION: Vous êtes sur le point de vendre le studio [b]%s[/b], êtes-vous sûr de vouloir continuer?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Vous ne pouvez pas vendre le studio [b]%s[/b], il est soit votre dernier studio, soit occupé sur un projet
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Vous ne pouvez pas vendre le studio %s, il est soit votre
+    dernier studio, soit occupé sur un projet
   LABEL_BUILDING_AREA: Surface %sm2
   LABEL_BUILDING_BUY: Prix
   LABEL_BUILDING_RENT: Loyer

@@ -79,6 +79,20 @@ ru:
   BUTTON_HIRE_AND_ASSIGN: Нанять и назначить
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: Игра отменена
+  LABEL_EMPLOYEE_FIRED: Сотрудник уволен
+  LABEL_ASSIGN_SPECIALIST: Назначьте специалистов.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Назначить бухгалтера для уменьшения налоговых обязательств.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Назначить менеджера по маркетингу для повышения
+    популярности игры.
+  LABEL_PRODUCER_TOOLTIP: |
+    Назначение производителя для создания больших игр и
+    повышения производительности ваших сотрудников.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Назначение сетевого администратора для оптимизации
+    нагрузки на сервер, необходимой для каждого игрока.
   LABEL_INTERVIEW_INDIE: |
     Привет,
     Я Бруно Триггер. Каждую среду я веду шоу [i]3615 Dorian[/i] о независимых видеоиграх. 
@@ -166,7 +180,7 @@ ru:
     Конкурент использует ваш игровой движок
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b] выпустила игру, которая использует ваш игровой движок ([b]%s[/b]).
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     Благодаря [b]%s[/b] вы получите [b]%d%%[/b] гонорара.
   LABEL_PLATFORM_SELECT_OFFER: |
     Индивидуальное предложение
@@ -1276,8 +1290,8 @@ ru:
   LABEL_PAYLOAN_DESCRIPTION: "Запланированный срок погашения подошел к концу, вы должны заплатить [b]%s$[/b]."
   LABEL_SELL_STUDIO_TITLE: Продажа студии
   LABEL_SELL_STUDIO_DESCRIPTION: "Вы продаете студию [b]%s[/b], вы хотите продолжить?"
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
-    Поскольку [b]%s[/b] является вашей последней студией или она занята работой
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Поскольку %s является вашей последней студией или она занята работой
     над проектом, вы не можете ее продать
   LABEL_BUILDING_AREA: Площадь %sm²
   LABEL_BUILDING_BUY: Цена

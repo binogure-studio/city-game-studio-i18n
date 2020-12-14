@@ -79,6 +79,19 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: Game canceled
+  LABEL_EMPLOYEE_FIRED: Employee fired
+  LABEL_ASSIGN_SPECIALIST: Assign specialists.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Assign an accountant to reduce taxes liability.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Assign a marketing manager to boost a game's popularity.
+  LABEL_PRODUCER_TOOLTIP: |
+    Assigning a producer to create large games and increase
+    the productivity of your employees.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Assigning a network administrator to optimize the server
+    load needed per player.
   LABEL_INTERVIEW_INDIE: |
     Hi,
     I am Bruno Trigger. Every Wednesday I host the show [i]3615 Dorian[/i] about independent video games. 
@@ -166,7 +179,7 @@ en:
     A competitor is using your game engine
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b] has released a game that uses your game engine ([b]%s[/b]).
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     Thanks to [b]%s[/b], you're gonna get [b]%d%%[/b] royalties.
   LABEL_PLATFORM_SELECT_OFFER: |
     Customize offer
@@ -1265,7 +1278,9 @@ en:
   LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, and you have to pay [b]%s$[/b].
   LABEL_SELL_STUDIO_TITLE: Selling a studio
   LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio [b]%s[/b], do you want to continue?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Since [b]%s[/b] is your last studio or it is busy to work on a project, you cannot sell it.
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Since %s is your last studio or it is busy
+    to work on a project, you cannot sell it.
   LABEL_BUILDING_AREA: Area %s m²
   LABEL_BUILDING_BUY: Price
   LABEL_BUILDING_RENT: Rent
@@ -1350,7 +1365,7 @@ en:
   LABEL_WORLDMAP: >
     You look up, there is a whole world waiting for you outside.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
-    The first video game magazines appear, do you want to advertise one of your game in it?
+    The very first video game magazines are popping up, would you like to promote one of your games?
   LABEL_MARKETING_CAMPAIGN_TV: >
     It is time to make your games known through television ads.
   LABEL_MARKETING_CAMPAIGN_INTERNET: >

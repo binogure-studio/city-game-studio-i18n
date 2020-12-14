@@ -79,6 +79,17 @@ zh:
   BUTTON_HIRE_AND_ASSIGN: 雇用和分配
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: 游戏取消
+  LABEL_EMPLOYEE_FIRED: 被解雇的员工
+  LABEL_ASSIGN_SPECIALIST: 指派专家。
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    指派会计，以减少税负。
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    指派市场经理，提升游戏的知名度。
+  LABEL_PRODUCER_TOOLTIP: |
+    指派一名制作人，制作大型游戏，提高员工的工作效率。
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    指派网络管理员，优化每个玩家所需的服务器负载。
   LABEL_INTERVIEW_INDIE: |
     嗨，我的天
     我是布鲁诺-特里格。每周三我都会主持关于独立游戏的节目[i]3615 Dorian[/i]。
@@ -166,7 +177,7 @@ zh:
     竞争对手正在使用你的游戏引擎
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b]发布了一款使用你的游戏引擎（[b]%s[/b]）的游戏。
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     感谢[b]%s[/b]，你会得到[b]%d%%[/b]的版税。
   LABEL_PLATFORM_SELECT_OFFER: |
     自定义报价
@@ -1218,7 +1229,8 @@ zh:
   LABEL_PAYLOAN_DESCRIPTION: "预定的还款日期现在已经结束，你必须支付[b]%s$[/b]。"
   LABEL_SELL_STUDIO_TITLE: 售卖工作室
   LABEL_SELL_STUDIO_DESCRIPTION: "你在售卖工作室[b]%s[/b]，你想继续吗？"
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: "由于[b]%s[/b]是你的最后一个工作室，或者工作室正在忙于处理一个项目，所以你不能出售。"
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    由于[b]%s[/b]是你的最后一个工作室，或者工作室正在忙于处理一个项目，所以你不能出售。
   LABEL_BUILDING_AREA: 面积%s m²
   LABEL_BUILDING_BUY: 价格
   LABEL_BUILDING_RENT: 租

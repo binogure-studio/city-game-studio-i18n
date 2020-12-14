@@ -78,6 +78,17 @@ ar:
   BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: تم إلغاء اللعبة
+  LABEL_EMPLOYEE_FIRED: طرد الموظف
+  LABEL_ASSIGN_SPECIALIST: تعيين المتخصصين.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    تعيين محاسب لتقليل المسؤولية الضريبية.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    تعيين مدير تسويق لزيادة شعبية اللعبة.
+  LABEL_PRODUCER_TOOLTIP: |
+    تعيين منتج لإنشاء ألعاب كبيرة وزيادة إنتاجية موظفيك.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    تعيين مسؤول الشبكة لتحسين حمل الخادم المطلوب لكل لاعب.
   LABEL_INTERVIEW_INDIE: |
     مرحبا،
     أنا برونو تريجر. أقوم كل يوم أربعاء باستضافة العرض [i]3615 Dorian[/i] حول ألعاب الفيديو المستقلة.
@@ -165,7 +176,7 @@ ar:
     يستخدم أحد المنافسين محرك لعبتك
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     أصدرت [b]%s[/b] لعبة تستخدم محرك لعبتك ([b]%s[/b]).
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     بفضل [b]%s[/b] ، ستحصل على [b]%d%%[/b] من الإتاوات.
   LABEL_PLATFORM_SELECT_OFFER: |
     تخصيص العرض
@@ -1255,8 +1266,8 @@ ar:
   LABEL_PAYLOAN_DESCRIPTION: "لقد انتهى الآن السداد المجدول ، عليك أن تدفع [b]%s$[/b]."
   LABEL_SELL_STUDIO_TITLE: بيع استوديو
   LABEL_SELL_STUDIO_DESCRIPTION: "أنت تبيع الاستوديو [b]%s[/b] ، هل تريد المتابعة ؟"
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
-    نظرًا لأن [b]%s[/b] هو الاستوديو الأخير أو أنه مشغول بالعمل في مشروع ، لا
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    نظرًا لأن %s هو الاستوديو الأخير أو أنه مشغول بالعمل في مشروع ، لا
     يمكنك بيعه
   LABEL_BUILDING_AREA: المساحة%s m²
   LABEL_BUILDING_BUY: السعر

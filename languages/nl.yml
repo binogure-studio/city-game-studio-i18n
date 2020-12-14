@@ -79,6 +79,20 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: Gioco annullato
+  LABEL_EMPLOYEE_FIRED: Dipendente licenziato
+  LABEL_ASSIGN_SPECIALIST: Wijs specialisten aan.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Wijs een accountant aan om de belastingschuld te verminderen.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Wijs een marketingmanager aan om de populariteit van een spel
+    te vergroten.
+  LABEL_PRODUCER_TOOLTIP: |
+    Wijs een producent toe om grote spellen te creëren en de
+    productiviteit van uw medewerkers te verhogen.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Het toewijzen van een netwerkbeheerder om de benodigde
+    serverbelasting per speler te optimaliseren.
   LABEL_INTERVIEW_INDIE: |
     Hoi,
     Ik ben Bruno Trigger. Elke woensdag organiseer ik de show [i]3615 Dorian[/i] over onafhankelijke videogames. 
@@ -166,7 +180,7 @@ nl:
     Een concurrent gebruikt uw game engine
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b] heeft een spel uitgebracht dat gebruik maakt van uw game engine ([b]%s[/b]).
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     Dankzij [b]%s[/b] krijg je [b]%d%%[/b] royalties.
   LABEL_PLATFORM_SELECT_OFFER: |
     Aanbod op maat
@@ -1257,7 +1271,9 @@ nl:
   LABEL_PAYLOAN_DESCRIPTION: De terugbetaling termijn is nu ten einde, Je moet [b]%s$[/b] betalen.
   LABEL_SELL_STUDIO_TITLE: Een studio verkopen
   LABEL_SELL_STUDIO_DESCRIPTION: Je bent de studio [b]%s[/b] aan het verkopen, wil je verder gaan?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Omdat [b]%s[/b] je laatste studio is of het is bezig met een project kan je deze niet verkopen
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Omdat %s je laatste studio is of het is bezig met
+    een project kan je deze niet verkopen
   LABEL_BUILDING_AREA: Oppervlakte %s m²
   LABEL_BUILDING_BUY: Prijs
   LABEL_BUILDING_RENT: Huur

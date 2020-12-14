@@ -79,6 +79,21 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: Spiel abgebrochen
+  LABEL_EMPLOYEE_FIRED: Angestellter entlassen
+  LABEL_ASSIGN_SPECIALIST: Spezialisten zuweisen.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Ordnen Sie einen Buchhalter zu, um die Steuerpflicht zu
+    reduzieren.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Setzen Sie einen Marketing-Manager ein, um die Popularität
+    eines Spiels zu steigern.
+  LABEL_PRODUCER_TOOLTIP: |
+    Beauftragen Sie einen Produzenten, um große Spiele zu
+    entwickeln und die Produktivität Ihrer Mitarbeiter zu steigern.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Zuweisung eines Netzwerkadministrators, um die pro Spieler
+    benötigte Serverlast zu optimieren.
   LABEL_INTERVIEW_INDIE: |
     Hallo,
     Ich bin Bruno Trigger. Jeden Mittwoch moderiere ich die Sendung [i]3615 Dorian[/i] über unabhängige Videospiele. 
@@ -166,7 +181,7 @@ de:
     Ein Konkurrent benutzt Ihre Spiel-Engine.
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b] hat ein Spiel veröffentlicht, das Ihre Spiel-Engine ([b]%s[/b]) verwendet.
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     Dank [b]%s[/b] erhalten Sie [b]%d%%[/b] Tantiemen.
   LABEL_PLATFORM_SELECT_OFFER: |
     Angebot anpassen
@@ -1270,8 +1285,9 @@ de:
   LABEL_PAYLOAN_DESCRIPTION: Die geplante Rückzahlung ist nun fällig, du musst [b]%s$[/b] bezahlen.
   LABEL_SELL_STUDIO_TITLE: Büro verkaufen
   LABEL_SELL_STUDIO_DESCRIPTION: Du verkaufst das Büro [b]%s[/b]. Bist du dir sicher?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: >
-    Da [b]%s[/b] dein letztes Büro ist oder es an einem Projekt arbeitet, kannst du es nicht verkaufen
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Da %s dein letztes Büro ist oder es an einem
+    Projekt arbeitet, kannst du es nicht verkaufen
   LABEL_BUILDING_AREA: "Fläche: %s m²"
   LABEL_BUILDING_BUY: Preis
   LABEL_BUILDING_RENT: Mietpreis

@@ -79,6 +79,21 @@ es:
   BUTTON_HIRE_AND_ASSIGN: Contratar y asignar
   
   # Etiquetas, descripciones
+  LABEL_GAME_CANCELED: Juego cancelado
+  LABEL_EMPLOYEE_FIRED: Empleado despedido
+  LABEL_ASSIGN_SPECIALIST: Asignar especialistas.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Asignar un contador para reducir la responsabilidad
+    de los impuestos.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Asignar un gerente de marketing para aumentar la
+    popularidad de un juego.
+  LABEL_PRODUCER_TOOLTIP: |
+    Asignar un productor para crear grandes juegos y aumentar
+    la productividad de sus empleados.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Asignar un administrador de red para optimizar la carga
+    del servidor necesaria por jugador.
   LABEL_INTERVIEW_INDIE: |
     Hola,
     Soy Bruno Trigger. Todos los miércoles presento el programa [i]3615 Dorian[/i] sobre videojuegos independientes. 
@@ -166,7 +181,7 @@ es:
     Un competidor está usando tu motor de juego
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b] ha lanzado un juego que utiliza su motor de juego ([b]%s[/b]).
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     Gracias a [b]%s[/b], obtendrás un [b]%d%%[/b] de regalías.
   LABEL_PLATFORM_SELECT_OFFER: |
     Personalizar la oferta
@@ -1274,7 +1289,9 @@ es:
   LABEL_PAYLOAN_DESCRIPTION: El pago programado ha llegado a su fin, tienes que pagar [b]%s$[/b].
   LABEL_SELL_STUDIO_TITLE: Vendiendo un estudio
   LABEL_SELL_STUDIO_DESCRIPTION: Estás vendiendo el estudio [b]%s[/b], ¿quieres continuar?
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: Ya que [b]%s[/b] es tu último estudio o está ocupado trabajando en un proyecto, no puedes venderlo
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Ya que %s es tu último estudio o está ocupado
+    trabajando en un proyecto, no puedes venderlo
   LABEL_BUILDING_AREA: Superficie %sm²
   LABEL_BUILDING_BUY: Precio
   LABEL_BUILDING_RENT: Alquilar

@@ -79,6 +79,20 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_GAME_CANCELED: Oyun iptal edildi
+  LABEL_EMPLOYEE_FIRED: Çalışan kovuldu
+  LABEL_ASSIGN_SPECIALIST: Uzman atayın.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Vergi yükümlülüğünü azaltmak için bir muhasebeci atayın.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Bir oyunun popülerliğini artırmak için bir pazarlama
+    müdürü atayın.
+  LABEL_PRODUCER_TOOLTIP: |
+    Büyük oyunlar yaratmak ve çalışanlarınızın üretkenliğini
+    artırmak için bir yapımcı atamak.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Oynatıcı başına gereken sunucu yükünü optimize etmek için
+    bir ağ yöneticisi atamak.
   LABEL_INTERVIEW_INDIE: |
     Selam,
     Ben Bruno Trigger'ım. Her Çarşamba [i]3615 Dorian[/i] adlı bağımsız video oyunlarına ev sahipliği yapıyorum.
@@ -167,7 +181,7 @@ tr:
     Bir rakip oyun motorunuzu kullanıyor
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b], oyun motorunuzu ([b]%s[/b]) kullanan bir oyun yayınladı.
-
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     [b]%s[/b] sayesinde [b]%d%%[/b] telif ücreti alacaksınız.
   LABEL_PLATFORM_SELECT_OFFER: |
     Teklifi özelleştir
@@ -1251,7 +1265,9 @@ tr:
   LABEL_PAYLOAN_DESCRIPTION: Planlanan geri ödeme artık sona ermiştir, [b]%s$[/b] ödemek zorundasınız.
   LABEL_SELL_STUDIO_TITLE: Stüdyo sat
   LABEL_SELL_STUDIO_DESCRIPTION: "[b]%s[/b] adlı stüdyoyu satıyorsunuz, devam etmek istiyor musunuz?"
-  LABEL_CANT_SELL_STUDIO_DESCRIPTION: "[b]%s[/b] son stüdyonuz veya bir proje üzerinde çalışmakla meşgul olduğu için satış yapamazsınız"
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    %s son stüdyonuz veya bir proje üzerinde çalışmakla
+    meşgul olduğu için satış yapamazsınız
   LABEL_BUILDING_AREA: "%s m² alanı"
   LABEL_BUILDING_BUY: Fiyat
   LABEL_BUILDING_RENT: Kira
