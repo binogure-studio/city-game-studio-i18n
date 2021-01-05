@@ -43,12 +43,12 @@ pt-br:
   BUTTON_CONFIRM: Confirmar
   BUTTON_BANKRUPTCY: Falência
   BUTTON_RESTORE: Restaurar
-  BUTTON_DELETE: Eliminar
-  BUTTON_DELETE_ALL: Eliminar tudo
+  BUTTON_DELETE: Deletar
+  BUTTON_DELETE_ALL: Deletar tudo
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Não é spam
   BUTTON_HOLIDAY: Dar folga para o estúdio
-  BUTTON_HOLIDAY_SOLO: Enviar para férias
+  BUTTON_HOLIDAY_SOLO: Enviar de férias
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Relatório de erros
   BUTTON_FEEDBACK: Feedback
@@ -56,7 +56,7 @@ pt-br:
   BUTTON_CRACK_GAME: Crackear este jogo
   BUTTON_FORCE_STUDIO_SELL: Forçar venda de estúdio
   BUTTON_SPY: Espie um concorrente
-  BUTTON_HIRE_THEIR_EMPLOYE: Contratar funcionário deles
+  BUTTON_HIRE_THEIR_EMPLOYE: Contratar um funcionário deles
   BUTTON_SELECT: Selecione
   BUTTON_SAVEGAME: Salvar jogo
   BUTTON_SELL_ITEMS: Vender os móveis
@@ -331,14 +331,14 @@ pt-br:
   LABEL_FANBASE_GAIN: Crescente base de fãs
   LABEL_FANBASE_LOSS: Base de fãs em declínio
   LABEL_MONEY_MAKER: Rentável
-  LABEL_MONEY_LOSER: Prejuizo
+  LABEL_MONEY_LOSER: Prejuízo
   LABEL_SELECT_ALL: Selecionar tudo
   LABEL_FREE_GAME: Gratuito
   LABEL_SUBSCRIPTION_PRICE: Preço de assinatura
   LABEL_GAME_PRICE: Preço do jogo
   LABEL_UPDATE_PRICE: Preço de atualização do jogo
   LABEL_X_STUDIOS: "%d estúdios"
-  LABEL_RANDOM_SLIDER: Randomize os controles deslizantes dos jogos
+  LABEL_RANDOM_SLIDER: Aleatorize os controles deslizantes dos jogos
   LABEL_DISCOUNT: Faça um desconto
   LABEL_ORGANIZE_YEARLY: Organize uma convenção anual
   LABEL_YEARLY: Anual
@@ -367,7 +367,7 @@ pt-br:
   LABEL_GAMEENGINE_PENALITY: >
     Por causa do código legado, atualizar um mecanismo de jogo custa um pouco mais.
   LABEL_GAMEENGINE_READY: Motor de jogo pronto
-  LABEL_GAMEENGINE_UPDATE: Actualizar este motor de jogo
+  LABEL_GAMEENGINE_UPDATE: Atualizar este motor de jogo
   LABEL_GAMEENGINE_LIST: >
     Lista de motores de jogos disponíveis no mercado
   LABEL_FOSS: Software Livre e de Código Aberto
@@ -376,7 +376,7 @@ pt-br:
   LABEL_PLATFORM_GPU_CAPABILITY: Capacidades gráficas
   LABEL_PLATFORM_CPU_CAPABILITY: Capacidades de computação
   LABEL_PLATFORM_GPU_COSTS: Custos gráficos
-  LABEL_PLATFORM_CPU_COSTS: Custos dos cálculos
+  LABEL_PLATFORM_CPU_COSTS: Custos computacionais
   LABEL_GAMEENGINE_DONATION_TITLE: Você recebeu uma doação
   LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
     Olá,
@@ -400,19 +400,19 @@ pt-br:
     Uma nova tecnologia está pronta para ser adicionada ao seu motor de jogo:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Pode agora criar os seus próprios motores de jogo.
-    Os motores de jogo aumentam a quantidade de pontos gerados pela sua equipa.
+    Os motores de jogo aumentam a quantidade de pontos gerados pela sua equipe.
   LABEL_GAME_ENGINE_ADS: Módulo de anúncio
   LABEL_GAME_ENGINE_IAP: Módulo de microtransacções
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "Gráficos 2D Monocromático"
-  LABEL_GAME_ENGINE_2D_8BITCOLOR: "Gráficos 2D 8 Bits cores"
-  LABEL_GAME_ENGINE_2D_16BITCOLOR: "Gráficos 2D 16 Bits cores"
-  LABEL_GAME_ENGINE_2D_24BITCOLOR: "Gráficos 2D 24 Bits cores"
-  LABEL_GAME_ENGINE_2D_32BITCOLOR: "Gráficos 2D 32 Bits cores"
-  LABEL_GAME_ENGINE_3D_1BITCOLOR: "Gráficos 3D Cor monocromática"
-  LABEL_GAME_ENGINE_3D_8BITCOLOR: "Gráficos 3D 8 Bits cores"
-  LABEL_GAME_ENGINE_3D_16BITCOLOR: "Gráficos 3D 16 Bits cores"
-  LABEL_GAME_ENGINE_3D_24BITCOLOR: "Gráficos 3D 24 Bits cores"
-  LABEL_GAME_ENGINE_3D_32BITCOLOR: "Gráficos 3D 32 Bits cores"
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: "Gráficos 2D 8 cores Bits"
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: "Gráficos 2D 16 cores Bits"
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: "Gráficos 2D 24 cores Bits"
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: "Gráficos 2D 32 cores Bits"
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: "Gráficos 3D cor monocromática"
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: "Gráficos 3D 8 cores Bits"
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: "Gráficos 3D 16 cores Bits"
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: "Gráficos 3D 24 cores Bits"
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: "Gráficos 3D 32 cores Bits"
   LABEL_GAME_ENGINE_VR_32BITCOLOR: "Gráficos VR"
   LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "Gráficos de Voxel"
   LABEL_GAME_ENGINE_BASIC_DIALOG: "Diálogo básico"
@@ -420,7 +420,7 @@ pt-br:
   LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "Diálogo gerado por IA"
   LABEL_GAME_ENGINE_JOYSTICK: "Suporte a Joystick"
   LABEL_GAME_ENGINE_GAMEPAD: "Suporte a Gamepad"
-  LABEL_GAME_ENGINE_MOUSE: "Suporte do mouse"
+  LABEL_GAME_ENGINE_MOUSE: "Suporte a mouse"
   LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "Caracteres pré-construídos"
   LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "Caracteres personalizáveis"
   LABEL_GAME_ENGINE_DIFFICULTY: "Dificuldade"
@@ -453,10 +453,10 @@ pt-br:
   LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "Cinemática avançada"
   LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "Cinemática realista"
   LABEL_GAME_ENGINE_LEADERBOARD: "Tabelas de liderança"
-  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "Líderes em nuvem"
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "Tabelas de liderança em nuvem"
   LABEL_BUSY: Ocupado
   LABEL_AVAILABLE: Disponível
-  LABEL_AUTOATTEND_CONVENTION: Participar automaticamente em todas as convenções.
+  LABEL_AUTOATTEND_CONVENTION: Participar automaticamente de todas as convenções.
   LABEL_SERVER_CAPACITY: Capacidade dos servidores
   LABEL_SERVER_RENT_CAPACITY: Capacidade de servidores alugados
   LABEL_TOTAL_COST: Custos totais
@@ -479,7 +479,7 @@ pt-br:
   LABEL_DISABLED: Desativado
   LABEL_TOTAL_UNIT_SOLD: Total de unidades vendidas
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: Esta plataforma de jogos não é suportada pela sua loja digital
-  LABEL_DISCONTINUE_PLATFORM_TITLE: Plataforma de descontinuação
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Descontinuar plataforma
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
     Você ainda está vendendo pelo menos um jogo no '%s' através da loja digital.
 
@@ -576,7 +576,7 @@ pt-br:
   LABEL_OPEN_FILE: Abrir um arquivo
   LABEL_KEEP_HINTS: Mantenha as dicas
   LABEL_SELECT_GAME_OF_THE_YEAR: Selecione o jogo para exibir
-  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publica a versão do Jogo do Ano
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publicar a versão do Jogo do Ano
   LABEL_GAME_OF_THE_YEAR: >
     Durante anos, as revistas publicaram a sua própria lista. Ultimamente um
     desses parece descolar, é o Game Of The Year
@@ -811,7 +811,7 @@ pt-br:
   LABEL_MARKETING_GLOBAL_ITEM: Marketing em geral
   LABEL_MARKETING_MAGAZINE_ITEM: Revista
   LABEL_MARKETING_TV_ITEM: Televisão
-  LABEL_MARKETING_WEBSITE_ITEM: Local na rede Internet
+  LABEL_MARKETING_WEBSITE_ITEM: Website
   LABEL_MARKETING_ONLINEAD_ITEM: Publicidade on-line
   LABEL_MARKETING_BILLBOARD_ITEM: Painel publicitário
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Redes sociais
@@ -881,7 +881,7 @@ pt-br:
   LABEL_NO_CONVENTION: Nenhuma convenção planejada
   LABEL_CONVENTION_LAST_DATE: Última convenção
   LABEL_DATE: Data de Vencimento
-  LABEL_STANDSIZE: Tamanho do carrinho
+  LABEL_STANDSIZE: Tamanho do estande
   LABEL_CONVENTION_NAME: Nome do contrato
   LABEL_ATTEND: Comparecer
   LABEL_ORGANIZE: Organizar
@@ -957,7 +957,7 @@ pt-br:
   LABEL_THEME_PREHISTORY: Pré-história
   LABEL_THEME_ARCHEOLOGY: Arqueologia
   LABEL_THEME_POSTAPOCALYPTIC: Pós apocalíptico
-  LABEL_THEME_ATLANTIS: Atlantis
+  LABEL_THEME_ATLANTIS: Atlântida
   LABEL_THEME_RELIGIOUS: Religioso
   LABEL_THEME_ORGANIZED_CRIME: Crime organizado
   LABEL_THEME_CROSSOVER: Crossover
@@ -988,10 +988,10 @@ pt-br:
   LABEL_THEME_HACK: Hacking
   LABEL_THEME_HUNT: Caça
   LABEL_THEME_ANIME: Anime
-  LABEL_THEME_MILITARY: Militares
+  LABEL_THEME_MILITARY: Militar
   LABEL_THEME_INDUSTRIALIZATION: Industrialização
   LABEL_THEME_PET: Animal de estimação
-  LABEL_THEME_FOOTBALL: Futebol
+  LABEL_THEME_FOOTBALL: Futebol americano
   LABEL_THEME_SOCCER: Futebol
   LABEL_THEME_CARTOON: Desenho animado
   LABEL_THEME_COOK: Cozinheiro
@@ -1002,13 +1002,13 @@ pt-br:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Transporte
   LABEL_THEME_MUSIC: Música
-  LABEL_TYPE_RTT: RTT
+  LABEL_TYPE_RTT: Tática em tempo real
   LABEL_TYPE_4X: 4X
-  LABEL_TYPE_ACTION_ADVENTURE: Açao-aventura
-  LABEL_TYPE_ACTION: Açao
+  LABEL_TYPE_ACTION_ADVENTURE: Ação-aventura
+  LABEL_TYPE_ACTION: Ação
   LABEL_TYPE_BEAT_THEM_ALL: Beat'em Up
   LABEL_TYPE_VERSUS_FIGHTING: Luta
-  LABEL_TYPE_PLATFORMS: Plataformas
+  LABEL_TYPE_PLATFORMS: Plataforma
   LABEL_TYPE_SHOOT: Tiro
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
   LABEL_TYPE_FPS: FPS
@@ -1145,7 +1145,7 @@ pt-br:
   LABEL_CATCHPHRASE_2_3: Uma experiência decepcionante
   LABEL_CATCHPHRASE_2_4: "Uma palavra: vazio"
   LABEL_CATCHPHRASE_2_5: Deveria ter sido cancelado
-  LABEL_CATCHPHRASE_3_0: Formula do desastre
+  LABEL_CATCHPHRASE_3_0: Fórmula do desastre
   LABEL_CATCHPHRASE_3_1: Uma decepção que corresponde às suas ambições
   LABEL_CATCHPHRASE_3_2: "Eles colocaram tudo, mas não tinham muito"
   LABEL_CATCHPHRASE_3_3: Se ao menos tivessem feito um jogo
