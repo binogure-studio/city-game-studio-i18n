@@ -79,6 +79,11 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Console development
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Create your own video game console.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Cannot open save because it was created with newer version of the game
   LABEL_GAME_CANCELED: Game canceled
   LABEL_EMPLOYEE_FIRED: Employee fired
   LABEL_ASSIGN_SPECIALIST: Assign specialists.
@@ -1076,11 +1081,11 @@ en:
   LABEL_MAP_SIZE_MEDIUM: Medium
   LABEL_MAP_SIZE_LARGE: Large
   LABEL_MAP_SIZE_HUGE: Huge
-  LABEL_DIFFICULTY_VERY_EASY: Very easy
-  LABEL_DIFFICULTY_EASY: Easy
-  LABEL_DIFFICULTY_NORMAL: Normal
-  LABEL_DIFFICULTY_HARD: Hard
-  LABEL_DIFFICULTY_INSANE: Insane
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA tester (easiest)
+  LABEL_DIFFICULTY_EASY: 2. Game developer
+  LABEL_DIFFICULTY_NORMAL: 3. Engine developer
+  LABEL_DIFFICULTY_HARD: 4. Producer
+  LABEL_DIFFICULTY_INSANE: 5. CEO (hardest)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: |
     [b]%s[/b] has released a new platform: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |

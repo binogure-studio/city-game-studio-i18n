@@ -79,6 +79,11 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Konsolenentwicklung
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Erstellen Sie Ihre eigene Videospielkonsole.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Speichern kann nicht geöffnet werden, da es mit einer neueren Version des Spiels erstellt wurde
   LABEL_GAME_CANCELED: Spiel abgebrochen
   LABEL_EMPLOYEE_FIRED: Angestellter entlassen
   LABEL_ASSIGN_SPECIALIST: Spezialisten zuweisen.
@@ -1076,11 +1081,11 @@ de:
   LABEL_MAP_SIZE_MEDIUM: Mittel
   LABEL_MAP_SIZE_LARGE: Groß
   LABEL_MAP_SIZE_HUGE: Enorm
-  LABEL_DIFFICULTY_VERY_EASY: Sehr leicht
-  LABEL_DIFFICULTY_EASY: Einfach
-  LABEL_DIFFICULTY_NORMAL: Normal
-  LABEL_DIFFICULTY_HARD: Schwer
-  LABEL_DIFFICULTY_INSANE: Verrückt
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA-Tester (am einfachsten)
+  LABEL_DIFFICULTY_EASY: 2. Spiele-Entwickler
+  LABEL_DIFFICULTY_NORMAL: 3. Engine-Entwickler
+  LABEL_DIFFICULTY_HARD: 4. Produzent
+  LABEL_DIFFICULTY_INSANE: 5. CEO (am härtesten)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] hat eine neue Plattform veröffentlicht:
     [b]%s[/b]

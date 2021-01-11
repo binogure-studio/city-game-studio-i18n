@@ -79,6 +79,11 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Konsol geliştirme
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Kendi video oyun konsolunuzu oluşturun.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Oyunun daha yeni sürümüyle oluşturulduğu için kaydetme açılamıyor
   LABEL_GAME_CANCELED: Oyun iptal edildi
   LABEL_EMPLOYEE_FIRED: Çalışan kovuldu
   LABEL_ASSIGN_SPECIALIST: Uzman atayın.
@@ -1070,11 +1075,11 @@ tr:
   LABEL_MAP_SIZE_MEDIUM: Orta
   LABEL_MAP_SIZE_LARGE: Büyük
   LABEL_MAP_SIZE_HUGE: Devasa
-  LABEL_DIFFICULTY_VERY_EASY: Çok kolay
-  LABEL_DIFFICULTY_EASY: Kolay
-  LABEL_DIFFICULTY_NORMAL: Normal
-  LABEL_DIFFICULTY_HARD: Zor
-  LABEL_DIFFICULTY_INSANE: Çok zor
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA test cihazı (en kolay)
+  LABEL_DIFFICULTY_EASY: 2. Oyun geliştiricisi
+  LABEL_DIFFICULTY_NORMAL: 3. Motor geliştiricisi
+  LABEL_DIFFICULTY_HARD: 4. Yapımcı
+  LABEL_DIFFICULTY_INSANE: 5. CEO (en zor)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] yeni bir platform yayınladı: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] o kadar iyi emekli oldu ki [b]%s[/b], hayranları ağlıyor"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] birkaç ay içinde yeni bir platform çıkaracak [b]%s[/b] yıllarca sürmesi bekleniyor"

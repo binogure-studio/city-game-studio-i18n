@@ -78,6 +78,11 @@ ar:
   BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: تطوير وحدة التحكم
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    قم بإنشاء وحدة تحكم ألعاب الفيديو الخاصة بك.
+  LABEL_INCOMPATIBLE_VERSION: >
+    لا يمكن فتح الحفظ لأنه تم إنشاؤه بإصدار أحدث من اللعبة
   LABEL_GAME_CANCELED: تم إلغاء اللعبة
   LABEL_EMPLOYEE_FIRED: طرد الموظف
   LABEL_ASSIGN_SPECIALIST: تعيين المتخصصين.
@@ -1071,11 +1076,11 @@ ar:
   LABEL_MAP_SIZE_MEDIUM: متوسط
   LABEL_MAP_SIZE_LARGE: كبير
   LABEL_MAP_SIZE_HUGE: ضخم
-  LABEL_DIFFICULTY_VERY_EASY: سهل جدا
-  LABEL_DIFFICULTY_EASY: سهل
-  LABEL_DIFFICULTY_NORMAL: عادي
-  LABEL_DIFFICULTY_HARD: صعب
-  LABEL_DIFFICULTY_INSANE: مجنون
+  LABEL_DIFFICULTY_VERY_EASY: 1. اختبار ضمان الجودة (أسهل)
+  LABEL_DIFFICULTY_EASY: 2. مطور اللعبة
+  LABEL_DIFFICULTY_NORMAL: 3. مطور المحرك
+  LABEL_DIFFICULTY_HARD: 4. منتج
+  LABEL_DIFFICULTY_INSANE: 5. المدير التنفيذي (الأصعب)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] أصدر منصة جديدة: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] تقاعد المعروف [b]%s[/b], تبكي الجماهير"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] ستصدر منصة جديدة في غضون بضعة أشهر [b]%s[/b] يجب أن تستمر لسنوات"

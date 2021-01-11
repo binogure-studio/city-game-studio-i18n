@@ -79,6 +79,11 @@ fr:
   BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Développement de consoles
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Créez votre propre console de jeu vidéo.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Impossible d'ouvrir la sauvegarde car elle a été créée avec une version plus récente du jeu
   LABEL_GAME_CANCELED: Jeu annulé
   LABEL_EMPLOYEE_FIRED: Employé licencié
   LABEL_ASSIGN_SPECIALIST: Assigner des spécialistes
@@ -1098,11 +1103,11 @@ fr:
   LABEL_MAP_SIZE_MEDIUM: Moyenne
   LABEL_MAP_SIZE_LARGE: Grande
   LABEL_MAP_SIZE_HUGE: Énorme
-  LABEL_DIFFICULTY_VERY_EASY: Très facile
-  LABEL_DIFFICULTY_EASY: Facile
-  LABEL_DIFFICULTY_NORMAL: Normale
-  LABEL_DIFFICULTY_HARD: Difficile
-  LABEL_DIFFICULTY_INSANE: Impossible
+  LABEL_DIFFICULTY_VERY_EASY: 1. Testeur d'assurance qualité (le plus facile)
+  LABEL_DIFFICULTY_EASY: 2. Développeur de jeux
+  LABEL_DIFFICULTY_NORMAL: 3. Développeur de moteurs
+  LABEL_DIFFICULTY_HARD: 4. Producteur
+  LABEL_DIFFICULTY_INSANE: 5. PDG (le plus difficile)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] sort une nouvelle plateforme: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >

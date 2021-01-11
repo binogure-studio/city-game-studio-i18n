@@ -79,6 +79,11 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Sviluppo di console
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Crea la tua console per videogiochi.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Non può aprire il salvataggio perché è stato creato con una versione più recente del gioco
   LABEL_GAME_CANCELED: Gioco annullato
   LABEL_EMPLOYEE_FIRED: Dipendente licenziato
   LABEL_ASSIGN_SPECIALIST: Assegnare gli specialisti.
@@ -1074,11 +1079,11 @@ it:
   LABEL_MAP_SIZE_MEDIUM: Media
   LABEL_MAP_SIZE_LARGE: Grande
   LABEL_MAP_SIZE_HUGE: Enorme
-  LABEL_DIFFICULTY_VERY_EASY: Molto facile
-  LABEL_DIFFICULTY_EASY: Facile
-  LABEL_DIFFICULTY_NORMAL: Normale
-  LABEL_DIFFICULTY_HARD: Difficile
-  LABEL_DIFFICULTY_INSANE: Impossibile
+  LABEL_DIFFICULTY_VERY_EASY: 1. Tester QA (il più semplice)
+  LABEL_DIFFICULTY_EASY: 2. Sviluppatore del gioco
+  LABEL_DIFFICULTY_NORMAL: 3. Sviluppatore di motori
+  LABEL_DIFFICULTY_HARD: 4. Produttore
+  LABEL_DIFFICULTY_INSANE: 5. CEO (il più difficile)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] ha rilasciato una nuova piattaforma: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] ha interrotto il supporto per il famoso [b]%s[/b], i fans stanno piangendo"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] rilascierà una nuova piattaforma nei prossimi mesi. [b]%s[/b] dovrebbe durare anni"

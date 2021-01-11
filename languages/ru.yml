@@ -79,6 +79,11 @@ ru:
   BUTTON_HIRE_AND_ASSIGN: Нанять и назначить
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Разработка консоли
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Создайте свою собственную игровую консоль.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Невозможно открыть сохранение, потому что оно было создано с более новой версией игры.
   LABEL_GAME_CANCELED: Игра отменена
   LABEL_EMPLOYEE_FIRED: Сотрудник уволен
   LABEL_ASSIGN_SPECIALIST: Назначьте специалистов.
@@ -1093,11 +1098,11 @@ ru:
   LABEL_MAP_SIZE_MEDIUM: Средний
   LABEL_MAP_SIZE_LARGE: Большой
   LABEL_MAP_SIZE_HUGE: Огромный
-  LABEL_DIFFICULTY_VERY_EASY: Очень легко
-  LABEL_DIFFICULTY_EASY: Легкий
-  LABEL_DIFFICULTY_NORMAL: Нормальный
-  LABEL_DIFFICULTY_HARD: Сложный
-  LABEL_DIFFICULTY_INSANE: Безумный
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA-тестер (самый простой)
+  LABEL_DIFFICULTY_EASY: 2. Разработчик игр
+  LABEL_DIFFICULTY_NORMAL: 3. Разработчик двигателя
+  LABEL_DIFFICULTY_HARD: 4. Продюсер
+  LABEL_DIFFICULTY_INSANE: 5. генеральный директор (самый жёсткий)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] выпустила новую платформу: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] убирают хорошо известную платформу [b]%s[/b], фанаты огорчены"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >

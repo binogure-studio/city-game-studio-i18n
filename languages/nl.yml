@@ -79,6 +79,11 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Console-ontwikkeling
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Maak uw eigen videogameconsole.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Kan niet openen save omdat het is gemaakt met een nieuwere versie van het spel
   LABEL_GAME_CANCELED: Gioco annullato
   LABEL_EMPLOYEE_FIRED: Dipendente licenziato
   LABEL_ASSIGN_SPECIALIST: Wijs specialisten aan.
@@ -1075,11 +1080,11 @@ nl:
   LABEL_MAP_SIZE_MEDIUM: Medium
   LABEL_MAP_SIZE_LARGE: Groot
   LABEL_MAP_SIZE_HUGE: Huge
-  LABEL_DIFFICULTY_VERY_EASY: Zeer eenvoudig
-  LABEL_DIFFICULTY_EASY: Makkelijk
-  LABEL_DIFFICULTY_NORMAL: Normaal
-  LABEL_DIFFICULTY_HARD: Moeilijk
-  LABEL_DIFFICULTY_INSANE: Insane
+  LABEL_DIFFICULTY_VERY_EASY: 2. QA tester (eenvoudigste)
+  LABEL_DIFFICULTY_EASY: 2. Spelontwikkelaar
+  LABEL_DIFFICULTY_NORMAL: 3. Motorontwikkelaar
+  LABEL_DIFFICULTY_HARD: 4. Producent
+  LABEL_DIFFICULTY_INSANE: 5. CEO (hardst)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] Heeft een nieuw platform uitgebracht: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] zal stoppen met de ondersteuning van [b]%s[/b], fans betreuren het nieuws"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] zal een nieuw platform binnen enkele maanden uitbrengen [b]%s[/b] het zou jaren moeten meegaan"

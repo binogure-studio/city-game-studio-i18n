@@ -79,6 +79,11 @@ pt:
   BUTTON_HIRE_AND_ASSIGN: Alugue e atribua
 
   # Labels, descriptive
+  LABEL_CUSTOM_CONSOLE: Desenvolvimento de consolas
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Crie a sua própria consola de jogos de vídeo.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Não pode abrir guardar porque foi criado com uma versão mais recente do jogo
   LABEL_GAME_CANCELED: Jogo cancelado
   LABEL_EMPLOYEE_FIRED: Empregado despedido
   LABEL_ASSIGN_SPECIALIST: Designar especialistas.
@@ -1078,11 +1083,11 @@ pt:
   LABEL_MAP_SIZE_MEDIUM: Médio
   LABEL_MAP_SIZE_LARGE: Grande
   LABEL_MAP_SIZE_HUGE: Imenso
-  LABEL_DIFFICULTY_VERY_EASY: Muito fácil
-  LABEL_DIFFICULTY_EASY: Fácil
-  LABEL_DIFFICULTY_NORMAL: Normal
-  LABEL_DIFFICULTY_HARD: Difícil
-  LABEL_DIFFICULTY_INSANE: Insano
+  LABEL_DIFFICULTY_VERY_EASY: 1. Testador de GQ (o mais fácil)
+  LABEL_DIFFICULTY_EASY: 2. Criador de jogos
+  LABEL_DIFFICULTY_NORMAL: 3. Motor de desenvolvimento
+  LABEL_DIFFICULTY_HARD: 4. Produtor
+  LABEL_DIFFICULTY_INSANE: 5. CEO (o mais difícil)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: >
     [b]%s[/b] lançou uma nova plataforma: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: >
