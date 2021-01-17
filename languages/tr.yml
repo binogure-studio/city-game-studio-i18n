@@ -79,6 +79,8 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    Bir uzman tutmak için bir masanız olmalıdır.
   LABEL_CUSTOM_CONSOLE: Konsol geliştirme
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Kendi video oyun konsolunuzu oluşturun.
@@ -1540,6 +1542,12 @@ tr:
   LABEL_STUDIO_SOLD: "%s sattılar"
 
   # Tooltips
+  TOOLTIP_MENU_CREATE_GAME: |
+    Yeni bir oyun, oyun motoru, sözleşme,
+    oyun raporu veya bir oyun oluşturun
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Bir dijital mağaza oluşturun ve yönetin
+    veya yeni bir konsol oluşturun
   TOOLTIP_GAME_CREATION_BALANCING: |
     Çalışanlarınıza dağıtılan iş yükünü görüntüler.
     Çok yüksek veya çok düşük bir iş yükü, üretilen oyunların kalitesini etkileyecektir.

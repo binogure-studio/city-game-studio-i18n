@@ -79,6 +79,8 @@ ko:
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
 
   # Labels, descriptive
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    전문가를 고용 할 수있는 책상이 있어야합니다.
   LABEL_CUSTOM_CONSOLE: 콘솔 개발
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     나만의 비디오 게임 콘솔을 만드십시오.
@@ -1538,6 +1540,11 @@ ko:
   LABEL_STUDIO_SOLD: "%s를 팔았습니다."
 
   # Tooltips
+  TOOLTIP_MENU_CREATE_GAME: |
+    새 게임, 게임 엔진, 계약, 게임 보고서를
+    생성하거나 게임을 이식합니다.
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    디지털 스토어 생성 및 관리 또는 새 콘솔 생성
   TOOLTIP_GAME_CREATION_BALANCING: |
     직원에게 분배 된 워크로드를 표시합니다.
     너무 높거나 너무 낮은 작업량은 제작 된 게임의 품질에 영향을 미칩니다.

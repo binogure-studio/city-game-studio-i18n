@@ -79,6 +79,8 @@ es:
   BUTTON_HIRE_AND_ASSIGN: Contratar y asignar
   
   # Etiquetas, descripciones
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    Debe tener un escritorio disponible para contratar a un especialista.
   LABEL_CUSTOM_CONSOLE: Desarrollo de consolas
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Crea tu propia consola de videojuegos.
@@ -1564,6 +1566,12 @@ es:
   LABEL_STUDIO_SOLD: Han vendido %s
 
   # Información
+  TOOLTIP_MENU_CREATE_GAME: |
+    Crear un nuevo juego, un motor de juego, un contrato,
+    un informe de juego o para transportar un juego
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Crear y gestionar una tienda digital o
+    crear una nueva consola
   TOOLTIP_GAME_CREATION_BALANCING: |
     Muestra la carga de trabajo que se distribuye a sus empleados.
     Una carga de trabajo demasiado alta o demasiado baja afectará a la

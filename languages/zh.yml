@@ -79,6 +79,8 @@ zh:
   BUTTON_HIRE_AND_ASSIGN: 雇用和分配
 
   # Labels, descriptive
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    你必须要有一个办公桌，才能聘请专家。
   LABEL_CUSTOM_CONSOLE: 控制台开发
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     创建自己的视频游戏机。
@@ -1482,6 +1484,11 @@ zh:
   LABEL_STUDIO_SOLD: 他们卖掉了%s
 
   # Tooltips
+  TOOLTIP_MENU_CREATE_GAME: |
+    创建一个新的游戏，一个游戏引擎，一个合同，
+    一个游戏报告或移植一个游戏。
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    创建和管理一个数字商店或创建一个新的控制台。
   TOOLTIP_GAME_CREATION_BALANCING: |
     显示分配给员工的工作量。工作量过高或过低都会影响游戏的制作质量。
 

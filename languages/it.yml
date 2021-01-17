@@ -79,6 +79,8 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    È necessario disporre di una scrivania per assumere uno specialista.
   LABEL_CUSTOM_CONSOLE: Sviluppo di console
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Crea la tua console per videogiochi.
@@ -1539,6 +1541,12 @@ it:
   LABEL_STUDIO_SOLD: Hanno venduto %s
 
   # Tooltips
+  TOOLTIP_MENU_CREATE_GAME: |
+    Creare un nuovo gioco, un motore di gioco, un contratto,
+    un rapporto di gioco o per trasferire un gioco
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Creare e gestire un negozio digitale o
+    creare una nuova console
   TOOLTIP_GAME_CREATION_BALANCING: |
     Visualizza il carico di lavoro che viene distribuito ai vostri dipendenti.
     Un carico di lavoro troppo alto o troppo basso influisce sulla qualità dei

@@ -79,6 +79,8 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    Sie müssen einen Schreibtisch zur Verfügung haben, um eine Fachkraft zu beauftragen.
   LABEL_CUSTOM_CONSOLE: Konsolenentwicklung
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Erstellen Sie Ihre eigene Videospielkonsole.
@@ -1563,6 +1565,12 @@ de:
   LABEL_STUDIO_SOLD: DU hast %s verkauft.
 
   # Tooltips
+  TOOLTIP_MENU_CREATE_GAME: |
+    Ein neues Spiel, eine Spiele-Engine, einen Vertrag,
+    einen Spielbericht erstellen oder ein Spiel portieren
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Erstellen und Verwalten eines digitalen Stores oder
+    Erstellen einer neuen Konsole
   TOOLTIP_GAME_CREATION_BALANCING: |
     Zeigt die Arbeitslast an, die auf Ihre Mitarbeiter verteilt ist.
     Eine zu hohe oder zu niedrige Arbeitsbelastung wirkt sich auf die

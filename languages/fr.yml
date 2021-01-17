@@ -79,6 +79,8 @@ fr:
   BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
 
   # Labels, descriptive
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    Vous devez avoir un bureau de libre pour pouvoir assigner un spécialiste.
   LABEL_CUSTOM_CONSOLE: Développement de consoles
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Créez votre propre console de jeu vidéo.
@@ -1546,6 +1548,12 @@ fr:
   LABEL_STUDIO_SOLD: Ils ont vendu %s
 
   # Tooltips
+  TOOLTIP_MENU_CREATE_GAME: |
+    Créer un nouveau jeu, un moteur de jeu, un contrat,
+    un rapport de jeu ou pour porter un jeu
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Créer et gérer un magasin numérique ou
+    créer une nouvelle console
   TOOLTIP_GAME_CREATION_BALANCING: |
     Ce compteur illustre la charge de travail distribuée à vos employés.
     Une charge de travail trop élevée ou trop faible nuira à la qualité des jeux
