@@ -79,6 +79,35 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_FILTER_PLATFORM_RELEASED: Veröffentlichte Plattformen
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Gestoppte Plattformen
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Stellt die Qualität der Konsole ein.
+    
+    Es ist zu erwarten, dass eine schlecht gefertigte Konsole häufiger ausfällt.
+    Kunden, die eine fehlerhafte Konsole gekauft haben,
+    haben immer Anspruch auf eine Rückerstattung.
+  LABEL_PLATFORM_DISCONTINUE: Produktion anhalten
+  LABEL_PLATFORM_CHANGE_PRICE: Den Preis modifizieren
+  LABEL_PLATFORM_UNIT_RETURNED: Zurückgegebene Einheiten 
+  LABEL_PLATFORM_COST_RATIO: Kostenquote
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Regler
+  LABEL_PLATFORM_COMPONENT_CPU: Prozessor
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Patrone
+  LABEL_PLATFORM_COMPONENT_MEMORY: Erinnerung
+  LABEL_PLATFORM_COMPONENT_GPU: Grafikkarte
+  LABEL_PLATFORM_COMPONENT_SCREEN: Bildschirm
+  LABEL_PLATFORM_COMPONENT_BOX: Konsolengehäuse
+  LABEL_PLATFORM_MAKING_COSTS: Herstellungskosten
+  LABEL_PLATFORM_UNLOCK_COSTS: Kosten freischalten
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Entwicklungskosten
+  LABEL_PLATFORM_QUALITY: Qualität
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Geschätzte Herstellungskosten
+  LABEL_PLATFORM_UNIT_PROFIT: Gewinn pro Einheit
+  LABEL_PLATFORM_NAME: Name der Plattform
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    Dieses Verlagsangebot ist mit einem Zuschuss von %s$ unterlegt.
+    Eine %s$ Strafe gilt, wenn Sie nicht eine Mindestpunktzahl von %d%% erreichen.
   LABEL_CANNOT_HIRE_NO_DESK: |
     Sie müssen einen Schreibtisch zur Verfügung haben, um eine Fachkraft zu beauftragen.
   LABEL_CUSTOM_CONSOLE: Konsolenentwicklung

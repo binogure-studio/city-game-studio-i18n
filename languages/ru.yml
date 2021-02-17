@@ -79,6 +79,34 @@ ru:
   BUTTON_HIRE_AND_ASSIGN: Нанять и назначить
 
   # Labels, descriptive
+  LABEL_FILTER_PLATFORM_RELEASED: Опубликованные платформы
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Остановленные платформы
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Регулирует качество консоли.
+    
+    Плохо изготовленная консоль, как ожидается, будет чаще выходить из строя.
+    Покупатели, купившие неисправную консоль, всегда имеют право на возврат денег.
+  LABEL_PLATFORM_DISCONTINUE: производство вольфрама
+  LABEL_PLATFORM_CHANGE_PRICE: Изменить цену
+  LABEL_PLATFORM_UNIT_RETURNED: Единицы возвращенные
+  LABEL_PLATFORM_COST_RATIO: Соотношение затрат
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Контроллер
+  LABEL_PLATFORM_COMPONENT_CPU: Процессор
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Картридж
+  LABEL_PLATFORM_COMPONENT_MEMORY: объем памяти
+  LABEL_PLATFORM_COMPONENT_GPU: Графическая карта
+  LABEL_PLATFORM_COMPONENT_SCREEN: Экран
+  LABEL_PLATFORM_COMPONENT_BOX: Корпус консоли
+  LABEL_PLATFORM_MAKING_COSTS: Затраты на производство
+  LABEL_PLATFORM_UNLOCK_COSTS: Стоимость разблокировки
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Затраты на разработку
+  LABEL_PLATFORM_QUALITY: Качественный
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Ориентировочная стоимость производства
+  LABEL_PLATFORM_UNIT_PROFIT: Прибыль на единицу
+  LABEL_PLATFORM_NAME: Название платформы
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    Это издательское предложение подкреплено грантом в размере %s долларов.
+    Пенальти в размере %s$ применяется, если вы не достигнете минимального балла в %d%%.
   LABEL_CANNOT_HIRE_NO_DESK: |
     У вас должен быть письменный стол, чтобы нанять специалиста.
   LABEL_CUSTOM_CONSOLE: Разработка консоли

@@ -79,6 +79,34 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
 
   # Labels, descriptive
+  LABEL_FILTER_PLATFORM_RELEASED: Released platforms
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Stopped Platforms
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Adjusts console quality.
+    
+    A poorly manufactured console is expected to fail more often.
+    Customers who purchased a faulty console are always entitled to a refund.
+  LABEL_PLATFORM_DISCONTINUE: Halt production
+  LABEL_PLATFORM_CHANGE_PRICE: Modify the price
+  LABEL_PLATFORM_UNIT_RETURNED: Units returned 
+  LABEL_PLATFORM_COST_RATIO: Costs' ratio
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
+  LABEL_PLATFORM_COMPONENT_CPU: Processor
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartridge
+  LABEL_PLATFORM_COMPONENT_MEMORY: Memory
+  LABEL_PLATFORM_COMPONENT_GPU: Graphic card
+  LABEL_PLATFORM_COMPONENT_SCREEN: Screen
+  LABEL_PLATFORM_COMPONENT_BOX: Console case
+  LABEL_PLATFORM_MAKING_COSTS: Manufacturing costs
+  LABEL_PLATFORM_UNLOCK_COSTS: Unlocking costs
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Development costs
+  LABEL_PLATFORM_QUALITY: Quality
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Estimated manufacturing costs
+  LABEL_PLATFORM_UNIT_PROFIT: Profit per unit
+  LABEL_PLATFORM_NAME: "Platform's name"
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    This publishing offer is backed by a $%s grant.
+    A %s$ penality applies if you do not achieve a minimum score of %d%%.
   LABEL_CANNOT_HIRE_NO_DESK: |
     You must have a desk available to hire a specialist.
   LABEL_CUSTOM_CONSOLE: Console development

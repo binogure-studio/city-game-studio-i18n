@@ -79,6 +79,35 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_FILTER_PLATFORM_RELEASED: Piattaforme pubblicate
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Piattaforme ferme
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Regola la qualità della console.
+    
+    Ci si aspetta che una console mal prodotta si guasti più spesso.
+    I clienti che hanno acquistato una console difettosa hanno
+    sempre diritto a un rimborso.
+  LABEL_PLATFORM_DISCONTINUE: Fermare la produzione
+  LABEL_PLATFORM_CHANGE_PRICE: Modificare il prezzo
+  LABEL_PLATFORM_UNIT_RETURNED: Unità restituite
+  LABEL_PLATFORM_COST_RATIO: Rapporto costi
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
+  LABEL_PLATFORM_COMPONENT_CPU: Processore
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartuccia
+  LABEL_PLATFORM_COMPONENT_MEMORY: Memoria
+  LABEL_PLATFORM_COMPONENT_GPU: Carta grafica
+  LABEL_PLATFORM_COMPONENT_SCREEN: Schermo
+  LABEL_PLATFORM_COMPONENT_BOX: Custodia per console
+  LABEL_PLATFORM_MAKING_COSTS: Costi di produzione
+  LABEL_PLATFORM_UNLOCK_COSTS: Sbloccare i costi
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Costi di sviluppo
+  LABEL_PLATFORM_QUALITY: Qualità
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Costi di produzione stimati
+  LABEL_PLATFORM_UNIT_PROFIT: Utile per unità
+  LABEL_PLATFORM_NAME: Nome della piattaforma
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    Questa offerta editoriale è sostenuta da una sovvenzione di %s$.
+    Una penalità di %s$ si applica se non si raggiunge un punteggio minimo del %d%%.
   LABEL_CANNOT_HIRE_NO_DESK: |
     È necessario disporre di una scrivania per assumere uno specialista.
   LABEL_CUSTOM_CONSOLE: Sviluppo di console

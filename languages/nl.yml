@@ -79,6 +79,35 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_FILTER_PLATFORM_RELEASED: Gepubliceerde platforms
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Gestopte platforms
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Regelt de kwaliteit van de console.
+    
+    Een slecht gefabriceerde console zal naar verwachting vaker defect raken.
+    Klanten die een defecte console hebben gekocht, hebben altijd
+    recht op terugbetaling.
+  LABEL_PLATFORM_DISCONTINUE: De productie stopzetten
+  LABEL_PLATFORM_CHANGE_PRICE: De prijs wijzigen
+  LABEL_PLATFORM_UNIT_RETURNED: Teruggegeven eenheden
+  LABEL_PLATFORM_COST_RATIO: Kostenverhouding
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
+  LABEL_PLATFORM_COMPONENT_CPU: Processor
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Patroon
+  LABEL_PLATFORM_COMPONENT_MEMORY: Geheugen
+  LABEL_PLATFORM_COMPONENT_GPU: Grafische kaart
+  LABEL_PLATFORM_COMPONENT_SCREEN: Scherm
+  LABEL_PLATFORM_COMPONENT_BOX: Console koffer
+  LABEL_PLATFORM_MAKING_COSTS: Productiekosten
+  LABEL_PLATFORM_UNLOCK_COSTS: Kosten ontgrendelen
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Ontwikkelingskosten
+  LABEL_PLATFORM_QUALITY: Kwaliteit
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Geschatte productiekosten
+  LABEL_PLATFORM_UNIT_PROFIT: Winst per eenheid
+  LABEL_PLATFORM_NAME: Platform naam
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    Dit uitgeversaanbod wordt ondersteund door een toelage van $%s.
+    Een straf van %s$ is van toepassing als je geen minimumscore van %d%% haalt.
   LABEL_CANNOT_HIRE_NO_DESK: |
     U moet een bureau beschikbaar hebben om een specialist in te huren.
   LABEL_CUSTOM_CONSOLE: Console-ontwikkeling
