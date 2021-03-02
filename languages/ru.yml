@@ -650,7 +650,7 @@ ru:
   LABEL_VENDING_MACHINE: Торговый автомат
   LABEL_GAME_SPEED: Скорость игры
   LABEL_SPEED_NORMAL: Нормальный
-  LABEL_SPEED_SLOW: Медленно
+  LABEL_SPEED_SLOW: Медленный
   LABEL_SPEED_SLOWEST: Самый медленный
   LABEL_FIRE_UNASSIGNED_EMPLOYEE: Уволить неназначенных сотрудников
   LABEL_FURNISH_MOD: Режим авто-меблировки
@@ -680,7 +680,7 @@ ru:
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     Невозможно опубликовать новую игру.
-  LABEL_EDIT_GAME: Игровое предложение
+  LABEL_EDIT_GAME: Игровые предложения
   LABEL_EDIT_GAME_ANNOUNCE: |
     %s будет работать над следующей игрой %s.
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
@@ -862,7 +862,7 @@ ru:
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Социальные сети
   LABEL_MARKETING_MAILINGLIST_ITEM: Новостная рассылка
   LABEL_SELF_PUBLISH: Создать игру
-  LABEL_TRADE_PUBLISH: Принять издательство
+  LABEL_TRADE_PUBLISH: Игровые издатели
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Привет,
 
@@ -1128,11 +1128,11 @@ ru:
   LABEL_MAP_SIZE_MEDIUM: Средний
   LABEL_MAP_SIZE_LARGE: Большой
   LABEL_MAP_SIZE_HUGE: Огромный
-  LABEL_DIFFICULTY_VERY_EASY: 1. QA-тестер (самый простой)
-  LABEL_DIFFICULTY_EASY: 2. Разработчик игр
-  LABEL_DIFFICULTY_NORMAL: 3. Разработчик двигателя
-  LABEL_DIFFICULTY_HARD: 4. Продюсер
-  LABEL_DIFFICULTY_INSANE: 5. генеральный директор (самый жёсткий)
+  LABEL_DIFFICULTY_VERY_EASY: 1. Тестер (Самый легкий режим)
+  LABEL_DIFFICULTY_EASY: 2. Разработчик игр (Легкий режим)
+  LABEL_DIFFICULTY_NORMAL: 3. Разработчик движков (Нормальный режим)
+  LABEL_DIFFICULTY_HARD: 4. Игровой продюсер (Сложный режим)
+  LABEL_DIFFICULTY_INSANE: 5. Генеральный директор (Очень сложный рекжим)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] выпустила новую платформу: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] убирают хорошо известную платформу [b]%s[/b], фанаты огорчены"
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: >
