@@ -78,6 +78,35 @@ ar:
   BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: قائمة ألعاب الفيديو
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: عنصر جديد متاح
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    مرحبًا %s ،
+
+    يسعدني جدًا أن أعلن عن إصدار مكون جديد تمامًا. إنها العلامة التجارية الجديدة [b]%s[/b].
+    المهندسين الذين صمموها فخورون بتقديمها هنا.
+
+    [img]%s[/img]
+
+    أتمنى لك يومًا سعيدًا ،
+
+    بإخلاص
+    ثنائي
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: وحدة تحكم تقرير المبيعات
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    مرحبًا %s ،
+
+    بريد إلكتروني آخر لملء صندوق البريد الخاص بك. لكنها لسبب وجيه.
+    أنا هنا لأخبركم عن خفض تكاليف التصنيع.
+
+    %s
+
+    طاب يومك.
+    ثنائي
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    خفضت تكاليف تصنيع [b]%s[/b] بنسبة [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s ليست متاحة بعد
   LABEL_PLATFORM_NO_COMPONENT: |
     لا توجد مكونات محددة
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: تخفيض تكاليف التصنيع

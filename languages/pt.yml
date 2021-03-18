@@ -79,6 +79,36 @@ pt:
   BUTTON_HIRE_AND_ASSIGN: Alugue e atribua
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: Listar jogos de vídeo
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Um novo componente está disponível
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Olá %s,
+
+    Tenho muito prazer em anunciar o lançamento de um componente novinho em folha. É o novíssimo [b]%s[/b].
+    Os engenheiros que o conceberam orgulham-se de o apresentar aqui.
+
+    [img]%s[/img]
+
+    Desejo-lhe um dia agradável,
+
+    Atenciosamente
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Relatório de vendas da consola
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Olá %s,
+
+    Outro e-mail para preencher a sua caixa de correio. Mas é por uma boa causa.
+    Estou aqui para vos falar de uma redução nos custos de fabrico.
+
+    %s
+
+    Isso é tudo,
+    Tenha um bom dia.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    Os custos de fabrico da [b]%s[/b] foram reduzidos em [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    A %s ainda não está disponível
   LABEL_PLATFORM_NO_COMPONENT: |
     Nenhum componente seleccionado
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Redução dos custos de fabrico

@@ -79,6 +79,35 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: Video oyunlarını listeleyin
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Yeni bir bileşen mevcut
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Merhaba %s,
+
+    Yepyeni bir bileşenin piyasaya sürüldüğünü duyurmaktan çok memnunum. Yepyeni [b]%s[/b].
+    Onu tasarlayan mühendisler burada sunmaktan gurur duyuyor.
+
+    [img]%s[/img]
+
+    İyi günler dilerim,
+
+    İçtenlikle
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Satış raporu konsolu
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Merhaba %s,
+
+    Posta kutunuzu dolduracak başka bir e-posta. Ama bu iyi bir amaç için.
+    Size üretim maliyetlerindeki düşüşten bahsetmek için buradayım.
+
+    %s
+
+    İyi günler dilerim.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b]'ın üretim maliyetleri [b]%%%s[/b] azaldı.
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s henüz mevcut değil
   LABEL_PLATFORM_NO_COMPONENT: |
     Seçili bileşen yok
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Üretim maliyetlerinde azalma

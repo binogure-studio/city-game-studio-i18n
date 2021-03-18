@@ -79,6 +79,36 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: Elenca i videogiochi
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: È disponibile un nuovo componente
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Ciao %s,
+
+    Sono molto lieto di annunciare il rilascio di un componente nuovo di zecca. Si tratta del nuovissimo [b]%s[/b].
+    Gli ingegneri che lo hanno progettato sono orgogliosi di presentarlo qui.
+
+    [img]%s[/img]
+
+    Augurandovi una piacevole giornata,
+
+    Cordialmente
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Rapporto sulle vendite della console
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Ciao %s,
+
+    Un'altra email per riempire la tua casella di posta. Ma è per una buona causa.
+    Sono qui per parlarti di una riduzione dei costi di produzione.
+
+    %s
+
+    Questo è tutto,
+    Buona giornata.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    I costi di produzione della [b]%s[/b] sono stati ridotti del [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s non è ancora disponibile
   LABEL_PLATFORM_NO_COMPONENT: |
     Nessun componente selezionato
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Riduzione dei costi di produzione

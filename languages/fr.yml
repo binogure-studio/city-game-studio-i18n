@@ -79,6 +79,36 @@ fr:
   BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: Lister les jeux vidéo
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Un nouveau composant est disponible
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Bonjour %s,
+
+    J'ai l'immense plaisir de vous annoncer la sortie d'un tout nouveau composant.
+    Il s'agit du tout nouveau [b]%s[/b]. Les ingénieurs qui l'ont conçu sont fiers de vous le présenter ici.
+
+    [img]%s[/img]
+
+    En vous souhaitant un agréable journée,
+
+    Cordialement
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Rapport de vente des consoles
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Bonjour %s,
+
+    Encore un courriel qui vient remplir ta boîte aux lettres. Mais c'est pour la bonne cause.
+    Je viens t'annoncer une réduction des coûts de fabrication.
+
+    %s
+
+    Ce sera tout,
+    Bonne journée
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b] voit son coût de fabrication réduit de [b]%s%%[/b]
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s n'est pas encore disponible
   LABEL_PLATFORM_NO_COMPONENT: |
     Pas de composant sélectionné
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Réduction des coûts de fabrication

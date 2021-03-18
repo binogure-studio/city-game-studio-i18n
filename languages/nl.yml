@@ -79,6 +79,36 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: Lijst videospelletjes
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Een nieuw onderdeel is beschikbaar
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Hallo %s,
+
+    Ik ben erg blij om de release van een gloednieuw onderdeel aan te kondigen. Het is de gloednieuwe [b]%s[/b].
+    De ingenieurs die het ontworpen hebben zijn trots om het hier te presenteren.
+
+    [img]%s[/img]
+
+    Ik wens u een prettige dag,
+
+    Hoogachtend
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Console verkoop rapport
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Hallo %s,
+
+    Weer een e-mail om je mailbox te vullen. Maar het is voor een goed doel.
+    Ik ben hier om je te vertellen over een verlaging van de productiekosten.
+
+    %s
+
+    Dat is alles,
+    Nog een prettige dag.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    De productiekosten van [b]%s[/b] zijn met [b]%s%%[/b] gedaald.
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s is nog niet beschikbaar
   LABEL_PLATFORM_NO_COMPONENT: |
     Geen geselecteerde onderdelen
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Verlaging van de productiekosten

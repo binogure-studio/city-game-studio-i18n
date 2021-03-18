@@ -79,6 +79,36 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: List video games
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: A new component is available
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Hello %s,
+
+    I am very pleased to announce the release of a brand new component.
+    It is the brand new [b]%s[/b]. The engineers who designed it are proud to present it here.
+
+    [img]%s[/img]
+
+    Wishing you a pleasant day,
+
+    Sincerely
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Console sales report
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Hello %s,
+
+    Another email to fill your mailbox. But it's for a good cause.
+    I'm here to tell you about a reduction in manufacturing costs.
+
+    %s
+
+    That will be all,
+    Have a nice day.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b]'s manufacturing costs reduced by [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s is not yet available
   LABEL_PLATFORM_NO_COMPONENT: |
     No selected components
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Manufacturing costs reduction

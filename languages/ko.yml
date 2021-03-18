@@ -79,6 +79,35 @@ ko:
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: 비디오 게임 나열
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 새 구성 요소를 사용할 수 있습니다.
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    안녕하세요 %s,
+
+    새로운 구성 요소의 출시를 발표하게되어 매우 기쁘게 생각합니다. 새로운 [b]%s[/b]입니다.
+    그것을 디자인 한 엔지니어들이 여기에 발표하게 된 것을 자랑스럽게 생각합니다.
+
+    [img]%s[/img]
+
+    즐거운 하루 되세요.
+
+    진정으로
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: 판매 보고서 콘솔
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    안녕하세요 %s,
+
+    사서함을 채울 다른 이메일입니다. 그러나 그것은 좋은 이유입니다.
+    제조 비용 절감에 대해 말씀 드리겠습니다.
+
+    %s
+
+    좋은 하루 되세요.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b]의 제조 비용이 [b]%s%%[/b] 감소했습니다.
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s는 아직 사용할 수 없습니다.
   LABEL_PLATFORM_NO_COMPONENT: |
     선택한 구성 요소가 없습니다.
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 제조 비용 절감

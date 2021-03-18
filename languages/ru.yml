@@ -79,6 +79,36 @@ ru:
   BUTTON_HIRE_AND_ASSIGN: Нанять и назначить
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: Список видеоигр
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Доступен новый компонент
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Здравствуйте %s,
+
+    Я очень рад объявить о выпуске совершенно нового компонента. Это совершенно новый [b]%s[/b].
+    Инженеры, разработавшие его, с гордостью представляют его здесь.
+
+    [img]%s[/img]
+
+    Желаю вам приятного дня,
+
+    Искренне
+    Биногур
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Отчет о продажах консоли
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Здравствуйте %s,
+
+    Еще одно письмо для заполнения вашего почтового ящика. Но это на благое дело.
+    Я здесь, чтобы рассказать вам о снижении стоимости производства.
+
+    %s
+
+    Это все,
+    Хорошего дня.
+    Биногур
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    Затраты на производство [b]%s[/b] снижены на [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s nu este încă disponibil
   LABEL_PLATFORM_NO_COMPONENT: |
     Нет выбранных компонентов
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Сокращение производственных издержек

@@ -79,6 +79,35 @@ zh:
   BUTTON_HIRE_AND_ASSIGN: 雇用和分配
 
   # Labels, descriptive
+  LABEL_PLATFORM_LIST_GAME: 列表视频游戏
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 一个新的组件已经推出
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    %s你好。
+
+    我很高兴地宣布一个全新的组件的发布。它就是全新的[b]%s[/b]。
+    设计它的工程师们很骄傲地在这里介绍它。
+
+    [img]%s[/img]
+
+    祝你有愉快的一天。
+
+    真诚的
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: 控制台销售报告
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    你好%s。
+
+    又是一封填满你邮箱的邮件。但这是为了一个好的原因。
+    我是来告诉你关于降低生产成本的事情的
+
+    %s
+
+    祝你有愉快的一天。
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b]的制造成本降低了[b]%s%%[/b]。
+  LABEL_PLATFORM_NOT_RELEASED: |
+    暂时还没有%s的信息。
   LABEL_PLATFORM_NO_COMPONENT: |
     没有选定部件
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 降低制造成本
