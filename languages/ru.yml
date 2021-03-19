@@ -59,7 +59,7 @@ ru:
   BUTTON_HIRE_THEIR_EMPLOYE: Нанять их сотрудника
   BUTTON_SELECT: Выбрать
   BUTTON_SAVEGAME: Сохранить игру
-  BUTTON_SELL_ITEMS: Продаю мебель
+  BUTTON_SELL_ITEMS: Продать мебель
   BUTTON_CONTINUE: Продолжить
   BUTTON_DETAILS: Подробности
   BUTTON_CHARTS: Диаграмма
@@ -111,7 +111,7 @@ ru:
     Нет выбранных компонентов
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Сокращение производственных издержек
   LABEL_FILTER_PLATFORM_RELEASED: Опубликованные платформы
-  LABEL_FILTER_PLATFORM_DISCONTINUED: Остановленные платформы
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Снятые с производства консоли
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     Регулирует качество консоли.
     
@@ -124,14 +124,14 @@ ru:
   LABEL_PLATFORM_COMPONENT_CONTROLLER: Контроллер
   LABEL_PLATFORM_COMPONENT_CPU: Процессор
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: Картридж
-  LABEL_PLATFORM_COMPONENT_MEMORY: объем памяти
-  LABEL_PLATFORM_COMPONENT_GPU: Графическая карта
+  LABEL_PLATFORM_COMPONENT_MEMORY: Объем памяти
+  LABEL_PLATFORM_COMPONENT_GPU: Видеокарта
   LABEL_PLATFORM_COMPONENT_SCREEN: Экран
   LABEL_PLATFORM_COMPONENT_BOX: Корпус консоли
   LABEL_PLATFORM_MAKING_COSTS: Затраты на производство
   LABEL_PLATFORM_UNLOCK_COSTS: Стоимость разблокировки
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Затраты на разработку
-  LABEL_PLATFORM_QUALITY: Качественный
+  LABEL_PLATFORM_QUALITY: Качество
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Ориентировочная стоимость производства
   LABEL_PLATFORM_UNIT_PROFIT: Прибыль на единицу
   LABEL_PLATFORM_NAME: Название платформы
@@ -215,7 +215,7 @@ ru:
   LABEL_MOD_VERSION: Версия
   LABEL_MOD_CREATE: Создать модную версию
   LABEL_MOD_LIST: Списочные моды
-  LABEL_MOD_NAME: Имя
+  LABEL_MOD_NAME: Название
   LABEL_MOD_DESCRIPTION: Описание
   LABEL_MOD_LANGUAGE: Язык
   LABEL_MOD_VISIBILITY: Видимость
@@ -352,7 +352,7 @@ ru:
     Добавьте микротранзакцию, нажав на синюю кнопку.
   LABEL_NUMBER_OF_NEW_PLAYERS: Количество новых игроков
   LABEL_NUMBER_OF_RETURNING_PLAYERS: Количество возвращающихся игроков
-  LABEL_NUMBER_OF_PLAYER_LOST: Количество потерянных игроков
+  LABEL_NUMBER_OF_PLAYER_LOST: Количество ушедших игроков
   LABEL_FEATURE_REQUIRED: >
     Эта функция требует наличия следующих модулей игрового движка:
   LABEL_ESTIMATED_INCOME: Сметный доход
@@ -369,7 +369,7 @@ ru:
   LABEL_IAP_TYPE_COSMETIC: Косметика
   LABEL_IAP_TYPE_LOOTBOX: Лутбокс
   LABEL_IAP_LIST: Перечень пунктов
-  LABEL_IAP_RARITY: Раритет
+  LABEL_IAP_RARITY: Редкость
   LABEL_IAP_RARITY_UNCOMMON: Необычный
   LABEL_IAP_RARITY_RARE: Редкий сайт
   LABEL_IAP_RARITY_EPIC: Epic
@@ -390,7 +390,7 @@ ru:
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Нет активной маркетинговой кампании
   LABEL_FANBASE_GAIN: Растущая база фанатов
   LABEL_FANBASE_LOSS: Снижение фанатов
-  LABEL_MONEY_MAKER: рентабельный
+  LABEL_MONEY_MAKER: Рентабельный
   LABEL_MONEY_LOSER: Не выгодно
   LABEL_SELECT_ALL: Выбрать все
   LABEL_FREE_GAME: Бесплатно
@@ -420,9 +420,9 @@ ru:
     Они смогли получить максимальную отдачу от консоли
   LABEL_GAME_ENGINE: Игровой движок
   LABEL_FEATURE_LIST: Список возможностей
-  LABEL_DESIGN_CAPACITY: Возможность создания проектных точек
-  LABEL_DEVELOPMENT_CAPACITY: Способность создавать точки развития
-  LABEL_POLISH_CAPACITY: Возможность изготовления полировальных точек
+  LABEL_DESIGN_CAPACITY: Возможность создания проектных очков
+  LABEL_DEVELOPMENT_CAPACITY: Способность создавать очки развития
+  LABEL_POLISH_CAPACITY: Возможность создания очков полировки
   LABEL_GAMEENGINE_MAKEFOSS: Освободите его
   LABEL_GAMEENGINE_PENALITY: >
     Из-за унаследованного кода, обновление игрового движка стоит немного дороже.
@@ -516,7 +516,7 @@ ru:
   LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "Таблицы лидеров на основе облачного ИИ"
   LABEL_BUSY: Занят
   LABEL_AVAILABLE: Свободен
-  LABEL_AUTOATTEND_CONVENTION: Автоматически участвовать во всех съездах.
+  LABEL_AUTOATTEND_CONVENTION: Автоматически участвовать во всех выставках.
   LABEL_SERVER_CAPACITY: Мощность серверов
   LABEL_SERVER_RENT_CAPACITY: Мощность арендуемых серверов
   LABEL_TOTAL_COST: Общие затраты
@@ -537,7 +537,7 @@ ru:
   LABEL_RENT_SERVERS: Аренда сервера
   LABEL_ENABLED: Присутствует
   LABEL_DISABLED: Отсутствует
-  LABEL_TOTAL_UNIT_SOLD: Всего продано единиц
+  LABEL_TOTAL_UNIT_SOLD: Всего продано копий
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: Эта игровая платформа не поддерживается вашим цифровым магазином.
   LABEL_DISCONTINUE_PLATFORM_TITLE: Прекратить работу платформы
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
@@ -628,7 +628,7 @@ ru:
     В разработке нет игр.
   LABEL_ALREADY_REGISTERED: Зарегистрированный
   LABEL_NET_PROFITS: Чистая прибыль
-  LABEL_ENERGY: энергии
+  LABEL_ENERGY: Энергия
   LABEL_LOSE: Ты провалился
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
     Чтобы взломать игру, необходимо декомпилировать двоичный код с помощью кнопок в нижней части экрана.
@@ -643,7 +643,7 @@ ru:
   LABEL_STARTING_YEAR: Начальный год
   LABEL_CURRENCY_UNLIMITED: Неограниченная валюта
   LABEL_ADVANCED_START: Расширенный старт
-  LABEL_WORKING: Pабо́тать
+  LABEL_WORKING: Pаботать
   LABEL_DEFAULT: По умолчанию
   LABEL_DEVELOPER: Разработчик
   LABEL_GAME_CAPACITY: Емкость игры
@@ -656,8 +656,8 @@ ru:
   LABEL_BONUS_SERVER: Бонус загрузки сервера
   LABEL_HUMAN_RESOURCE: Отдел кадров
   LABEL_BONUS_HAPPINESS: Бонус счастья
-  LABEL_AMOUNT_OF_TIPS: Количество улик
-  LABEL_REQUIRED_POINTS: Необходимые пункты
+  LABEL_AMOUNT_OF_TIPS: Количество подсказок
+  LABEL_REQUIRED_POINTS: Необходимо очков
   LABEL_STEP: Шаг
   LABEL_CONTRACT: Контракт
   LABEL_BEST_GAME: Лучшая игра
@@ -959,11 +959,11 @@ ru:
   LABEL_ATTENDANCE: Посещаемость
   LABEL_NONE: Пусто
   LABEL_NO_BUILDING: Нет доступных зданий
-  LABEL_NO_CONVENTION: Hет запланированых съездов
-  LABEL_CONVENTION_LAST_DATE: Последний съезд
+  LABEL_NO_CONVENTION: Hет запланированых выставок
+  LABEL_CONVENTION_LAST_DATE: Последняя выставка
   LABEL_DATE: Срок оплаты
   LABEL_STANDSIZE: Размер стенда
-  LABEL_CONVENTION_NAME: Название съезда
+  LABEL_CONVENTION_NAME: Название выставки
   LABEL_ATTEND: Посетить
   LABEL_ORGANIZE: Организовать
   LABEL_INFORMATIONS: Подробнее
@@ -986,7 +986,7 @@ ru:
   LABEL_DEVELOPMENT: Разработка
   LABEL_DIFFICULTY: Сложность
   LABEL_EVENT_TYPE: Тип события
-  LABEL_UNIT_SOLD: Единиц продано
+  LABEL_UNIT_SOLD: Копий продано
   LABEL_FANBASE: Фан-база
   LABEL_FULLSCREEN: Полноэкранный режим
   LABEL_GAME_GENRE: Тип
@@ -1025,7 +1025,7 @@ ru:
   LABEL_SCRIPTING: Скрипты
   LABEL_SOUND: Звук
   LABEL_SOUND_SETTINGS: Настройки звука
-  LABEL_SOUNDFX: Громкость Спецэффектов
+  LABEL_SOUNDFX: Громкость спецэффектов
   LABEL_SQUARE_FOOTAGE: Площадь
   LABEL_STAFF: Сотрудники
   LABEL_STORY: История
@@ -1035,7 +1035,7 @@ ru:
   LABEL_TUTORIEL: Туториал
   LABEL_USERINTERFACE: Пользовательский интерфейс
   LABEL_THEME_MOVIE_ADAPTATION: Адаптация фильма
-  LABEL_THEME_PREHISTORY: Предыстория
+  LABEL_THEME_PREHISTORY: Доисторическая
   LABEL_THEME_ARCHEOLOGY: Археология
   LABEL_THEME_POSTAPOCALYPTIC: Постапокалипсис
   LABEL_THEME_ATLANTIS: Атлантида
@@ -1048,7 +1048,7 @@ ru:
   LABEL_THEME_EROTIC: Эротическая
   LABEL_THEME_SPY: Шпионская
   LABEL_THEME_FANTASY: Фэнтези
-  LABEL_THEME_GHOST: Привидение
+  LABEL_THEME_GHOST: Привидения
   LABEL_THEME_HISTORY: История
   LABEL_THEME_HORROR: Хоррор
   LABEL_THEME_MEDICAL: Медицина
@@ -1059,8 +1059,8 @@ ru:
   LABEL_THEME_PARK: Парк
   LABEL_THEME_PIRATES: Пираты
   LABEL_THEME_SCIENCE_FICTION: Научная фантастика
-  LABEL_THEME_SUPER_HEROS: Супер герой
-  LABEL_THEME_VAMPIRE: Вампир
+  LABEL_THEME_SUPER_HEROS: Супергерои
+  LABEL_THEME_VAMPIRE: Вампиры
   LABEL_THEME_TIME_TRAVEL: Путешествие во времени
   LABEL_THEME_WESTERN: Вестерн
   LABEL_THEME_ZOMBIE: Зомби
@@ -1071,9 +1071,9 @@ ru:
   LABEL_THEME_ANIME: Анимэ
   LABEL_THEME_MILITARY: Военные
   LABEL_THEME_INDUSTRIALIZATION: Индустриализация
-  LABEL_THEME_PET: Животное
-  LABEL_THEME_FOOTBALL: Футбол
-  LABEL_THEME_SOCCER: Регби
+  LABEL_THEME_PET: Животные
+  LABEL_THEME_FOOTBALL: Регби
+  LABEL_THEME_SOCCER: Футбол
   LABEL_THEME_CARTOON: Мультфильм
   LABEL_THEME_COOK: Повар
   LABEL_THEME_URBAN: Городской
@@ -1085,7 +1085,7 @@ ru:
   LABEL_THEME_MUSIC: Музыка
   LABEL_TYPE_RTT: Стратегия в реальном времени
   LABEL_TYPE_4X: 4X
-  LABEL_TYPE_ACTION_ADVENTURE: Экшн Приключение
+  LABEL_TYPE_ACTION_ADVENTURE: Экшн-приключение
   LABEL_TYPE_ACTION: Экшн
   LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
   LABEL_TYPE_VERSUS_FIGHTING: Драки
@@ -1101,7 +1101,7 @@ ru:
   LABEL_TYPE_SURVIVAL: Выживание
   LABEL_TYPE_HORROR: Хоррор
   LABEL_TYPE_ADVENTURE: Приключение
-  LABEL_TYPE_INTERACTIVE_FICTION: Художественная литература
+  LABEL_TYPE_INTERACTIVE_FICTION: Интерактивная история
   LABEL_TYPE_INTERACTIVE_MOVIE: Интерактивный фильм
   LABEL_TYPE_CHAT: Чат
   LABEL_TYPE_BISHOJO: Бисёдзё
@@ -1126,7 +1126,7 @@ ru:
   LABEL_TYPE_FARMING: Фермерство
   LABEL_TYPE_LIVING_ORGANISM: Живой организм
   LABEL_TYPE_SPORT: Спорт
-  LABEL_TYPE_MANAGEMENT: Управление
+  LABEL_TYPE_MANAGEMENT: Менеджмент
   LABEL_TYPE_ECONOMY: Экономика
   LABEL_TYPE_CITY_BUILDER: Строительство городов
   LABEL_TYPE_GOVERNMENT: Правительство
@@ -1287,7 +1287,7 @@ ru:
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Вот что мы узнали из [b]%s[/b]: [b]%s[/b]"
   LABEL_POSTMORTEM_MATCH: "[ul] - Совпадение между [i]%s[/i] и [i]%s[/i] является [b]%s[/b][/ul]"
   LABEL_POSTMORTEM_CAPACITY: "[ul] - [b]%s[/b] - это [b]%s[/b] для игрового жанра [b]%s[/b][/ul]"
-  LABEL_POSTMORTEM_MARGINAL: предельный этап разработки
+  LABEL_POSTMORTEM_MARGINAL: неважный этап разработки
   LABEL_POSTMORTEM_INSIGNIFICANT: незначительный этап разработки
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: относительно важно во время разработки 
   LABEL_POSTMORTEM_VERY_IMPORTANT: очень важный этап разработки
@@ -1439,7 +1439,7 @@ ru:
     Публикуйте обновления и создавайте новый контент для своих игр. Бесплатные обновления или платные обновления? Это зависит от вас.
   LABEL_GAMEEDITION_SUBMIT: >
     У вас много поклонников! 
-    Вы достаточно много знаете, чтобы редактировать игры.
+    Вы достаточно много знаете, чтобы издавать игры.
   LABEL_GAMEEDITION_RECEIVE: >
     После вашего недавнего успеха издатели свяжутся с вами в кратчайшие сроки!
     Ожидайте хорошие предложения от них.
@@ -1458,10 +1458,10 @@ ru:
     Но сначала вам нужно нанять людей.
   LABEL_STUDIO_RENT: >
     Сейчас вы чувствуете себя замкнутым в своей маленькой студии.
-    Нужно переехать в следующую студию.
+    Нужно переехать в новую студию.
   LABEL_STUDIO_BUILD: Ваш успех позволяет вам создавать собственные студии.
   LABEL_CONVENTION_ORGANIZE: >
-    У вас более 100 тысяч фанатов, которые вас поддерживают! Вы можете создавать собственные выставки!
+    У вас более 100 тысяч фанатов, которые вас поддерживают! Вы можете организовывать собственные выставки!
   LABEL_CONVENTION_PARTICIPATE: >
     Ваш игровой каталог заслуживает внимания, участие в конференциях может помочь вам улучшить заметность вашей игры.
   LABEL_STUDIO_CUSTOMIZE: Ваши скучные стены подрывают вашу производительность? Время поменять это!
@@ -1492,12 +1492,12 @@ ru:
     Играть в видеоигру, это потрясающе, однако играть с друзьями еще лучше! 
     Вам нужно управлять сетью для своих игр.
   LABEL_CAPACITY_MODDING_FEATURE: >
-    Некоторые из ваших игр уже были изменены игроками,благодаря чему вы продаете
+    Некоторые из ваших игр уже были изменены игроками, благодаря чему вы продаете
     больше игр. Пришло время помочь этим хакерам и работать над правильным
     API-интерфейсом для ваших игр
   LABEL_CAPACITY_CUTSCENES_FEATURE: >
     Фильмы влияют на видеоигры, нам нужно управлять роликами при создании новой
-    игры
+    игры.
   LABEL_CAPACITY_TUTORIEL_FEATURE: >
     Игра в новую игру - это как обучение. Это непросто, поэтому вы решили
     создать учебник для своих новых игр.
@@ -1525,7 +1525,7 @@ ru:
     Позволяет арендовать рекламные щиты для размещения плакатов с вашими играми.
     Это так-же повысит популярность ваших игр.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
-    Теперь вы можете нанять менеджера по маркетингу. Он усилит ваш маркетинг кампании!
+    Теперь вы можете нанять менеджера по маркетингу. Он усилит ваши рекламные кампании!
   LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
     Позволяет организовывать телевизионные рекламные кампании. Это дорого, но
     кто не смотрит телевизор в наши дни?!
@@ -1577,7 +1577,7 @@ ru:
     Вы можете создавать онлайн игры. Обычно они дешевле, но игроки должны
     платить ежемесячную подписку.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    Вы можете создать дематериализованный игровой магазин и, наконец, первую
+    Вы можете создать цифровой игровой магазин и, наконец, первую
     альфа-версию, которая нуждается в доработке.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     Выступайте в качестве издателя и нанимайте компании для создания вашей игры.
@@ -1590,17 +1590,17 @@ ru:
     При создании игры теперь можно выбирать целевую аудиторию, это оказывает
     влияние на итоговый счет и продажи игры.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    У вас есть новый дизайн датчика при создании игры
+    У вас есть новый показатель дизайна при создании игры
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    У вас есть новый дизайн датчика при создании игры
+    У вас есть новый показатель дизайна при создании игры
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    У вас есть новый датчик разработки при создании игры
+    У вас есть новый показатель разработки при создании игры
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    У вас есть новый датчик разработки при создании игры
+    У вас есть новый показатель разработки при создании игры
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    У вас есть новый датчик полировки при создании игры
+    У вас есть новый покзаатель полировки при создании игры
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    У вас есть новый датчик полировки при создании игры
+    У вас есть новый показатель полировки при создании игры
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
     Вы можете размещать рекламу в социальных сетях, это очень целенаправленная,
     дорогостоящая и очень эффективная реклама.
