@@ -23,20 +23,20 @@ ru:
   BUTTON_RESET: Сброс
   BUTTON_SKIP: Пропустить
   BUTTON_START: Старт
-  BUTTON_NEED_STUDIO: Нет доступной студии
+  BUTTON_NEED_STUDIO: Нет свободной студии
   BUTTON_CLEAR_EVENTS: Очистить
   BUTTON_TOO_BAD: Очень плохо
   BUTTON_BUY_ANOTHER_ONE: Купить ещё один
   BUTTON_ADOPT: Принять
   BUTTON_ABANDON: Отказаться
   BUTTON_ASSIGN_EMPLOYEE: Назначить
-  BUTTON_WITHDRAW_SPECIALISTS: Вывести всех специалистов
+  BUTTON_WITHDRAW_SPECIALISTS: Отозвать всех специалистов
   BUTTON_KEEP_PLAYING: Продолжить играть
   BUTTON_LEADERBOARD: Статистика
   BUTTON_GIVEUP: Сдаться
   BUTTON_LOAN: Займ
   BUTTON_REPAY: Погасить
-  BUTTON_ZOOM: Увеличить
+  BUTTON_ZOOM: Приблизить
   BUTTON_BUY: Купить
   BUTTON_SELL: Продать
   BUTTON_RENT: Аренда
@@ -75,8 +75,8 @@ ru:
   BUTTON_CANCEL_GAME: Отменить разработку
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
   BUTTON_COPY: Скопировать
-  BUTTON_HIRE_ALL: Принять на работу всех
-  BUTTON_HIRE_AND_ASSIGN: Нанять и назначить
+  BUTTON_HIRE_ALL: Нанять на работу всех
+  BUTTON_HIRE_AND_ASSIGN: Нанять и разместить
 
   # Labels, descriptive
   LABEL_LOSING_MONEY_DESCRIPTION: |
@@ -100,7 +100,7 @@ ru:
     Эта платформа недостаточно мощная
   BUTTON_RELEASE_ALL: Опубликовать все
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    Публикуйте все игры, контракты и приставки,
+    Опубликовать все игры, контракты и приставки,
     готовые к публикации.    
   LABEL_PLATFORM_LIST_GAME: Список видеоигр
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Доступен новый компонент
@@ -496,7 +496,7 @@ ru:
   LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D-графика 16-Битные цвета"
   LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D-графика 24-Битные цвета"
   LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D-графика 32-Битные цвета"
-  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR/AR графика"
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR графика"
   LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "Воксельная графика"
   LABEL_GAME_ENGINE_BASIC_DIALOG: "Простые диалоги"
   LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "Интерактивный диалог"
@@ -504,23 +504,23 @@ ru:
   LABEL_GAME_ENGINE_JOYSTICK: "Поддержка Джойстика"
   LABEL_GAME_ENGINE_GAMEPAD: "Поддержка Геймпада"
   LABEL_GAME_ENGINE_MOUSE: "Поддержка Мыши"
-  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "Готовые игровые персонажи"
+  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "Преднастройка персонажей"
   LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "Кастомизация персонажей"
-  LABEL_GAME_ENGINE_DIFFICULTY: "Простое усложнение геймплея"
-  LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "Динамическое уложнение геймплея"
+  LABEL_GAME_ENGINE_DIFFICULTY: "Выбор сложности"
+  LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "Динамическая сложность игры"
   LABEL_GAME_ENGINE_MAP_EDITOR: "Редактор карт"
   LABEL_GAME_ENGINE_MOD_SUPPORT: "Поддержка модов"
   LABEL_GAME_ENGINE_MONO_SOUND: "MONO звук"
   LABEL_GAME_ENGINE_MIDI_SOUND: "MIDI звук"
   LABEL_GAME_ENGINE_STEREO_SOUND: "STEREO звук"
   LABEL_GAME_ENGINE_51_SOUND: "Объёмный звук"
-  LABEL_GAME_ENGINE_BASIC_MUSIC: "Базовый саундтрек"
-  LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "Оркестровый саундтрек"
-  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "Интерактивный саундтрек"
-  LABEL_GAME_ENGINE_PASSWORD_SAVE: "Сохранение на основе пароля"
-  LABEL_GAME_ENGINE_BASIC_SAVE: "Классические сохранения"
+  LABEL_GAME_ENGINE_BASIC_MUSIC: "Простая музыка"
+  LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "Оркестровая музыка"
+  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "Интерактивная музыка"
+  LABEL_GAME_ENGINE_PASSWORD_SAVE: "Коды для чекпоинтов"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "Обычные сохранения"
   LABEL_GAME_ENGINE_CLOUD_SAVE: "Облачные сохранения"
-  LABEL_GAME_ENGINE_BASIC_PHYSICS: "Базовая физика"
+  LABEL_GAME_ENGINE_BASIC_PHYSICS: "Начальная физика"
   LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "Продвинутая физика"
   LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "Реалистичная физика"
   LABEL_GAME_ENGINE_DEDICATED_SERVER: "Выделенный сервер"
@@ -528,15 +528,15 @@ ru:
   LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "Простая анимация"
   LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: "Динамическая анимация"
   LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "Анимация на основе ИИ"
-  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "Базовый туториал"
-  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "Интерактивный туториал"
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "Базовое руководство"
+  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "Интерактивное руководство"
   LABEL_GAME_ENGINE_LOADING_SCREEN: "Экран загрузки"
   LABEL_GAME_ENGINE_BACKGROUND_LOADING: "Загрузка в фоновом режиме"
-  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "Простая кинематография"
-  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "Передовая кинематография"
-  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "Реалистичная кинематография"
-  LABEL_GAME_ENGINE_LEADERBOARD: "Базовая таблица лидеров"
-  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "Таблицы лидеров на основе облачного ИИ"
+  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "Простые катсцены"
+  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "Улучшенные катсцены"
+  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "Реалистичные катсцены"
+  LABEL_GAME_ENGINE_LEADERBOARD: "Таблица лидеров"
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "Сетевая таблица лидеров"
   LABEL_BUSY: Занят
   LABEL_AVAILABLE: Свободен
   LABEL_AUTOATTEND_CONVENTION: Автоматически участвовать во всех выставках.
@@ -1055,7 +1055,7 @@ ru:
   LABEL_STUDIO: Студия
   LABEL_TARGETTED_AUDIENCE: Целевая аудитория
   LABEL_THEME: Тема
-  LABEL_TUTORIEL: Туториал
+  LABEL_TUTORIEL: Руководство
   LABEL_USERINTERFACE: Пользовательский интерфейс
   LABEL_THEME_MOVIE_ADAPTATION: Адаптация фильма
   LABEL_THEME_PREHISTORY: Доисторическая
@@ -1063,15 +1063,15 @@ ru:
   LABEL_THEME_POSTAPOCALYPTIC: Постапокалипсис
   LABEL_THEME_ATLANTIS: Атлантида
   LABEL_THEME_RELIGIOUS: Религиозная
-  LABEL_THEME_ORGANIZED_CRIME: Преступники
+  LABEL_THEME_ORGANIZED_CRIME: Криминал
   LABEL_THEME_CROSSOVER: Кроссовер
   LABEL_THEME_DESERT: Пустыня
   LABEL_THEME_COMEDY: Комедия
   LABEL_THEME_DRAGON: Дракон
-  LABEL_THEME_EROTIC: Эротическая
-  LABEL_THEME_SPY: Шпионская
+  LABEL_THEME_EROTIC: Эротика
+  LABEL_THEME_SPY: Шпион
   LABEL_THEME_FANTASY: Фэнтези
-  LABEL_THEME_GHOST: Привидения
+  LABEL_THEME_GHOST: Привидение
   LABEL_THEME_HISTORY: История
   LABEL_THEME_HORROR: Хоррор
   LABEL_THEME_MEDICAL: Медицина
@@ -1083,77 +1083,77 @@ ru:
   LABEL_THEME_PIRATES: Пираты
   LABEL_THEME_SCIENCE_FICTION: Научная фантастика
   LABEL_THEME_SUPER_HEROS: Супергерои
-  LABEL_THEME_VAMPIRE: Вампиры
+  LABEL_THEME_VAMPIRE: Вампир
   LABEL_THEME_TIME_TRAVEL: Путешествие во времени
   LABEL_THEME_WESTERN: Вестерн
   LABEL_THEME_ZOMBIE: Зомби
-  LABEL_THEME_MEDIEVAL: Средневековый
-  LABEL_THEME_GAMEDEV: Разработка
+  LABEL_THEME_MEDIEVAL: Средневековье
+  LABEL_THEME_GAMEDEV: Разработка Игр
   LABEL_THEME_HACK: Взлом
   LABEL_THEME_HUNT: Охота
   LABEL_THEME_ANIME: Анимэ
   LABEL_THEME_MILITARY: Военные
   LABEL_THEME_INDUSTRIALIZATION: Индустриализация
-  LABEL_THEME_PET: Животные
+  LABEL_THEME_PET: Домашний питомец
   LABEL_THEME_FOOTBALL: Регби
   LABEL_THEME_SOCCER: Футбол
   LABEL_THEME_CARTOON: Мультфильм
-  LABEL_THEME_COOK: Повар
-  LABEL_THEME_URBAN: Городской
+  LABEL_THEME_COOK: Готовка
+  LABEL_THEME_URBAN: Урбанизм
   LABEL_THEME_KAIJU: Монстр
   LABEL_THEME_EVOLUTION: Эволюция
   LABEL_THEME_CYBERPUNK: Киберпанк
   LABEL_THEME_STEAMPUNK: Стимпанк
-  LABEL_THEME_TRANSPORTATION: Транспортировка
+  LABEL_THEME_TRANSPORTATION: Транспорт
   LABEL_THEME_MUSIC: Музыка
-  LABEL_TYPE_RTT: Стратегия в реальном времени
+  LABEL_TYPE_RTT: Тактика в реальном времени
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Экшн-приключение
   LABEL_TYPE_ACTION: Экшн
-  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
-  LABEL_TYPE_VERSUS_FIGHTING: Драки
+  LABEL_TYPE_BEAT_THEM_ALL: Избей их всех
+  LABEL_TYPE_VERSUS_FIGHTING: Файтинг
   LABEL_TYPE_PLATFORMS: Платформер
   LABEL_TYPE_SHOOT: Стрелялка
-  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_SHOOT_EM_UP: Перестреляй их всех
   LABEL_TYPE_FPS: Шутер от 1-го лица
   LABEL_TYPE_TPS: Шутер от 3-го лица
-  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_HACK_N_SLASH: Слэшер
   LABEL_TYPE_OPEN_WORLD: Открытый мир
-  LABEL_TYPE_HTA_LIKE: HTA
+  LABEL_TYPE_HTA_LIKE: HTA-подобная игра
   LABEL_TYPE_INFILTRATION: Внедрение
   LABEL_TYPE_SURVIVAL: Выживание
   LABEL_TYPE_HORROR: Хоррор
-  LABEL_TYPE_ADVENTURE: Приключение
-  LABEL_TYPE_INTERACTIVE_FICTION: Интерактивная история
+  LABEL_TYPE_ADVENTURE: Квест
+  LABEL_TYPE_INTERACTIVE_FICTION: Интерактивная литература
   LABEL_TYPE_INTERACTIVE_MOVIE: Интерактивный фильм
   LABEL_TYPE_CHAT: Чат
   LABEL_TYPE_BISHOJO: Бисёдзё
   LABEL_TYPE_EROGE: Хентай
   LABEL_TYPE_OTOME: Otome
   LABEL_TYPE_VISUAL_NOVEL: Визуальная новелла
-  LABEL_TYPE_MYSTERY_LIKE: Мистика
+  LABEL_TYPE_MYSTERY_LIKE: Квест от 1-го лица
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: Экшн RPG
   LABEL_TYPE_DUNGEON_CRAWLER: Подземелье
   LABEL_TYPE_MMORPG: MMORPG
   LABEL_TYPE_DUNGEON: Данжи
-  LABEL_TYPE_CROOK_LIKE: Crook
+  LABEL_TYPE_CROOK_LIKE: Crook-подобная игра
   LABEL_TYPE_TACTICAL_RPG: Тактическая RPG
   LABEL_TYPE_REFLEXION: Классическая головоломка
   LABEL_TYPE_MAZE: Лабиринт
   LABEL_TYPE_HIDDEN_OBJECT: Скрытые объекты
   LABEL_TYPE_PUZZLE: Головоломка
-  LABEL_TYPE_SIMULATION: Симуляторы
+  LABEL_TYPE_SIMULATION: Симулятор
   LABEL_TYPE_ANIMALS: Животные
-  LABEL_TYPE_GOD_GAME: Игра про Бога
-  LABEL_TYPE_FARMING: Фермерство
+  LABEL_TYPE_GOD_GAME: Симулятор Бога
+  LABEL_TYPE_FARMING: Ферма
   LABEL_TYPE_LIVING_ORGANISM: Живой организм
   LABEL_TYPE_SPORT: Спорт
   LABEL_TYPE_MANAGEMENT: Менеджмент
   LABEL_TYPE_ECONOMY: Экономика
   LABEL_TYPE_CITY_BUILDER: Строительство городов
   LABEL_TYPE_GOVERNMENT: Правительство
-  LABEL_TYPE_VEHICLE: Транспортное средство
+  LABEL_TYPE_VEHICLE: Транспорт
   LABEL_TYPE_RACING: Гонки
   LABEL_TYPE_DRIVE: Симулятор вождения
   LABEL_TYPE_FLY: Авиасимулятор
@@ -1164,10 +1164,10 @@ ru:
   LABEL_TYPE_RTS: RTS
   LABEL_TYPE_MOBA_LIKE: Moba
   LABEL_TYPE_TOWER_DEFENSE: Tower Defense
-  LABEL_TYPE_TURN_BASED: Пошаговая
+  LABEL_TYPE_TURN_BASED: Пошаговая стратегия
   LABEL_TYPE_ARTILLERY: Артиллерия
   LABEL_TYPE_CASUAL: Казуальная
-  LABEL_TYPE_BREAKOUT: Побег
+  LABEL_TYPE_BREAKOUT: Арканоид
   LABEL_TYPE_RYTHM: Ритм
   LABEL_TYPE_CLICKER_GAME: Кликер
   LABEL_TARGETTED_AUDIENCE_YOUNG: Дети
@@ -1826,8 +1826,8 @@ ru:
   USERINTERFACE: Пользовательский интерфейс
   NETWORK: Сеть
   MODDING: Моддинг
-  CUTSCENES: Кат-сцены
-  TUTORIEL: Туториал
+  CUTSCENES: Катсцены
+  TUTORIEL: Руководство
   MARKETING_CAMPAIGN_SOCIALNETWORK: Целевая рекламная кампания
   MARKETING_CAMPAIGN_MAILINGLIST: Рекламная кампания по электронной почте
   GAMEPORT: Портировать игру
