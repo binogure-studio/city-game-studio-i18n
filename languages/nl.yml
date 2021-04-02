@@ -79,6 +79,23 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Hier zijn uw financiële resultaten. Het toont al uw operationele uitgaven en inkomsten.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Huurkosten zijn een belangrijke kostenpost. U zou de gebouwen kunnen kopen of kleinere huren en de gebouwen sluiten die u het meest kosten.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    De loonkosten zijn een grote kostenpost. U moet overwegen personeel te ontslaan.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    U hebt veel koffiemachines/automaten, en dit drukt op uw budget
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Servers zijn duur. Als u ongebruikte servers hebt, moet u ze verkopen.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    U geeft veel uit aan marketingcampagnes. Misschien moet u stoppen met sommige marketingcampagnes of conventies.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    Het lijkt erop dat uw hypotheken duur zijn. Als u kunt, betaal ze dan af met een grotere hypotheek op lange termijn.
+  LABEL_LOSING_MONEY_HARD: >
+    U geeft meer uit dan u verdient. Als u wilt weten wat u het meeste kost, raadpleeg dan uw financiële gegevens.
+  LABEL_SUBSCRIPTION: Abonnement
   LABEL_PLATFORM_NOT_POWERFULL: >
     Dit platform is niet krachtig genoeg
   BUTTON_RELEASE_ALL: Alles publiceren
@@ -1614,6 +1631,9 @@ nl:
   LABEL_STUDIO_SOLD: Ze hebben %s verkocht
 
   # Tooltips
+  TOOLTIP_PLATFORM_MARKETING: |
+    Zodra de console is geactiveerd,
+    zal de marketingcampagne van start gaan.
   TOOLTIP_MENU_CREATE_GAME: |
     Maak een nieuw spel, een game engine, een contract,
     een spelrapport of om een spel te porten

@@ -79,6 +79,23 @@ es:
   BUTTON_HIRE_AND_ASSIGN: Contratar y asignar
   
   # Etiquetas, descripciones
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Aquí están sus resultados financieros. Muestra todos tus gastos e ingresos de explotación.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Los costes de alquiler son un gasto importante. Podrías comprar los edificios o alquilar otros más pequeños y cerrar los que más te cuestan.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    Las nóminas son un gasto importante. Deberías considerar el despido de personal.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    Tienes muchas máquinas de café/ máquinas expendedoras, y esto supone una carga para tu presupuesto
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Los servidores son caros. Si tiene servidores sin utilizar, debería venderlos.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    Gastas mucho en campañas de marketing. Tal vez deberías dejar de hacer algunas campañas de marketing o convenciones.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    Parece que tus hipotecas son caras. Si puedes, págalas con una hipoteca más grande y a largo plazo.
+  LABEL_LOSING_MONEY_HARD: >
+    Gastas más de lo que ganas. Si quieres averiguar qué te cuesta más, consulta tus datos financieros.
+  LABEL_SUBSCRIPTION: Suscripción
   LABEL_PLATFORM_NOT_POWERFULL: >
     Esta plataforma no es lo suficientemente potente
   BUTTON_RELEASE_ALL: Publicar todo
@@ -1632,6 +1649,9 @@ es:
   LABEL_STUDIO_SOLD: Han vendido %s
 
   # Información
+  TOOLTIP_PLATFORM_MARKETING: |
+    Una vez activada, la campaña de marketing
+    comenzará en cuanto la consola salga a la venta.
   TOOLTIP_MENU_CREATE_GAME: |
     Crear un nuevo juego, un motor de juego, un contrato,
     un informe de juego o para transportar un juego

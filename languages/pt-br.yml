@@ -79,6 +79,23 @@ pt-br:
   BUTTON_HIRE_AND_ASSIGN: Alugar e atribuir
   
   # Labels, descriptive
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Aqui estão seus resultados financeiros. Ele mostra todas as suas despesas e receitas operacionais.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Os custos de aluguel são uma despesa significativa. Você poderia comprar os edifícios ou alugar os menores e fechar aqueles que lhe custam mais.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    A folha de pagamento é uma despesa importante. Você deve considerar o despedimento de pessoal.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    Você tem muitas máquinas de café/máquinas de venda automática, e isto é uma tensão em seu orçamento.
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Os servidores são caros. Se você tem servidores não utilizados, você deve vendê-los.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    Você gasta muito em campanhas de marketing. Talvez você devesse parar algumas campanhas de marketing ou convenções.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    Parece que suas hipotecas são caras. Se você puder, pague-as com uma hipoteca maior e de longo prazo.
+  LABEL_LOSING_MONEY_HARD: >
+    Você gasta mais do que ganha. Se você quiser descobrir qual é o que lhe custa mais, consulte seus detalhes financeiros.
+  LABEL_SUBSCRIPTION: Assinatura
   LABEL_PLATFORM_NOT_POWERFULL: >
     Esta plataforma não é suficientemente poderosa
   BUTTON_RELEASE_ALL: Publicar tudo
@@ -1634,6 +1651,9 @@ pt-br:
   LABEL_STUDIO_SOLD: Eles venderam %s
 
   # Tooltips
+  TOOLTIP_PLATFORM_MARKETING: |
+    Uma vez ativada, a campanha de marketing
+    começará assim que o console for lançado.
   TOOLTIP_MENU_CREATE_GAME: |
     Criar um novo jogo, um motor de jogo, um contrato,
     um relatório de jogo ou para portar um jogo

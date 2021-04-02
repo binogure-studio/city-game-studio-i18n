@@ -79,6 +79,23 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    İşte finansal sonuçlarınız. Tüm işletme giderlerinizi ve gelirlerinizi gösterir.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Kiralama maliyetleri önemli bir gider. Binaları satın alabilir ya da daha küçük olanları satın alıp size en çok mal olanları kapatabilirsiniz.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    Bordro büyük bir masraftır. Personelden vazgeçmeyi düşünmelisin.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    Çok fazla kahve makinesi / otomatınız var ve bu bütçenizdeki bir zorlanma
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Sunucular pahalıdır. Kullanılmayan sunucularınız varsa, onları satmalısınız.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    Pazarlama kampanyalarına çok fazla harcıyorsunuz. Belki bazı pazarlama kampanyaları veya sözleşmeleri durdurmalısınız.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    İpotekleriniz pahalı görünüyor. Yapabiliyorsanız, daha büyük, uzun vadeli bir ipotek ile ödeme yapın.
+  LABEL_LOSING_MONEY_HARD: >
+    Sen kazandığından daha fazla harcıyorsun. Size en çok hangi maliyeti bulmak istiyorsanız, finansal bilgilerinize danışın.
+  LABEL_SUBSCRIPTION: Abonelik
   LABEL_PLATFORM_NOT_POWERFULL: >
     Bu platform yeterince güçlü değil
   BUTTON_RELEASE_ALL: Her şeyi yayınlayın
@@ -1607,6 +1624,9 @@ tr:
   LABEL_STUDIO_SOLD: "%s sattılar"
 
   # Tooltips
+  TOOLTIP_PLATFORM_MARKETING: |
+    Etkinleştirildiğinde, pazarlama kampanyası konsol
+    piyasaya çıkar çıkmaz başlayacaktır.
   TOOLTIP_MENU_CREATE_GAME: |
     Yeni bir oyun, oyun motoru, sözleşme,
     oyun raporu veya bir oyun oluşturun

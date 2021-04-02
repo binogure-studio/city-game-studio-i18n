@@ -79,6 +79,23 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
 
   # Labels, descriptive
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Here are your financial results. It shows all your operating expenses and revenues.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Rental costs are a significant expense. You could buy the buildings or rent smaller ones and close those that cost you the most.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    Payroll is a major expense. You should consider laying off staff.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    You have a lot of coffee machines/vending machines, and this is a strain on your budget
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Servers are expensive. If you have unused servers, you should sell them.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    You spend a lot on marketing campaigns. Maybe you should stop some marketing campaigns or conventions.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    It seems that your mortgages are expensive. If you can, pay them off with a larger, long-term mortgage.
+  LABEL_LOSING_MONEY_HARD: >
+    You spend more than you earn. If you want to figure out which costs you the most, consult your financial details.
+  LABEL_SUBSCRIPTION: Subscription
   LABEL_PLATFORM_NOT_POWERFULL: >
     This platform is not powerful enough
   BUTTON_RELEASE_ALL: Release everything
@@ -1620,6 +1637,9 @@ en:
   LABEL_STUDIO_SOLD: They've sold %s
 
   # Tooltips
+  TOOLTIP_PLATFORM_MARKETING: |
+    Once activated, the marketing campaign will begin
+    as soon as the console is released.
   TOOLTIP_MENU_CREATE_GAME: |
     Create a new game, a game engine, a contract,
     a game report or to port a game

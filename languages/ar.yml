@@ -78,6 +78,23 @@ ar:
   BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
 
   # Labels, descriptive
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    وهنا النتائج المالية الخاصة بك. إنه يظهر جميع مصاريف التشغيل والإيرادات الخاصة بك.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    تكاليف الإيجار هي حساب مهم. يمكنك شراء المباني أو الإيجار أصغر منها وإغلاق تلك التي كلفتك أكثر.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    كشوف المرتبات هي حساب كبير. يجب أن تفكر في وضع الموظفين.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    لديك الكثير من آلات صنع القهوة / آلات البيع، وهذا هو الضغط على ميزانيتك
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    الخوادم مكلفة. إذا كان لديك خوادم غير مستخدم، يجب عليك بيعها.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    تقضي الكثير في حملات التسويق. ربما يجب عليك إيقاف بعض الحملات التسويقية أو الاتفاقيات.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    يبدو أن القروض العقارية الخاصة بك مكلفة. إذا استطعت، دفعها مع الرهن العقاري الأكبر، على المدى الطويل.
+  LABEL_LOSING_MONEY_HARD: >
+    تقضي أكثر مما تكسب. إذا كنت ترغب في معرفة أي تكاليفك أكثر، استشر التفاصيل المالية الخاصة بك.
+  LABEL_SUBSCRIPTION: اشتراك
   LABEL_PLATFORM_NOT_POWERFULL: >
     هذه المنصة ليست قوية بما فيه الكفاية
   BUTTON_RELEASE_ALL: انشر كل شيء
@@ -1618,6 +1635,8 @@ ar:
   LABEL_GENRE_STOLEN: لقد تعلمت%s
   LABEL_STUDIO_SOLD: لقد باعوا%s
 
+  TOOLTIP_PLATFORM_MARKETING: |
+    بمجرد التنشيط ، ستبدأ الحملة التسويقية بمجرد إصدار وحدة التحكم.
   TOOLTIP_MENU_CREATE_GAME: |
     قم بإنشاء لعبة جديدة أو محرك لعبة أو عقد أو تقرير لعبة أو تشغيل لعبة
   TOOLTIP_MENU_CREATE_CONSOLE: |
