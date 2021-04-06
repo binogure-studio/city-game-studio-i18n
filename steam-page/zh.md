@@ -35,8 +35,8 @@
 [*] 微交易[/list]
 
 [h2]City Game Studio的灵感来自于出色的游戏，例如[/h2]
-[list][*] Game Dev Story
-[*] Game Dev Tycoon
+[list][*] 游戏发展国
+[*] 游戏开发大亨
 [*] Software Inc
-[*] Sim City
+[*] 模拟城市
 [*] Mad Games Tycoon[/list]
