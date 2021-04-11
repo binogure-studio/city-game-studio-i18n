@@ -79,6 +79,19 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_GAME_INDUSTRY_NEWS: Notizie sull'industria dei giochi
+  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s acquisisce %s per %s"
+  LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
+    Lo sviluppatore ed editore di videogiochi dietro [b]%s[/b] è stato acquisito da [b]%s[/b] per un'offerta valutata a [b]%s[/b].
+
+    [b]%s[/b] ha pubblicato un comunicato dicendo che pagherà [b]%s[/b] per azione per la società e che l'affare dovrebbe chiudersi nel primo trimestre dell'anno.
+    L'acquisizione aumenterà il catalogo di giochi sotto la bandiera [b]%s[/b].
+    Il CEO di [b]%s[/b], ha commentato l'acquisizione, dicendo:
+    [indent]La nostra industria sta crescendo, e insieme saremo posizionati per guidare in una nuova era di intrattenimento[/indent]
+  LABEL_GAMEENGINE_NOT_ENOUGH: >
+    Questo gioco non ha sfruttato appieno le capacità della console.
+  LABEL_MARKETSHARE_KRASHING: >
+    Questa console soffre di una pessima reputazione che porta a basse vendite. Si raccomanda di starne alla larga d'ora in poi.
   LABEL_LOSING_MONEY_DESCRIPTION: |
     Qui ci sono i vostri risultati finanziari. Mostra tutte le vostre spese operative e le entrate.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
