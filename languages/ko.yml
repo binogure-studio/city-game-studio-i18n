@@ -79,19 +79,19 @@ ko:
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
 
   # Labels, descriptive
-  LABEL_GAME_INDUSTRY_NEWS: 게임 산업 뉴스
+  LABEL_GAME_INDUSTRY_NEWS: 게임 업계 뉴스
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s는 %s $에 %s를 인수했습니다."
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
-    [b]%s[/b] 배후의 비디오 게임 개발자 및 배급사는 [b]%s[/b]가 [b]%s[/b]의 가격으로 인수했습니다.
+    [b]%s[/b] 의 게임 개발자 및 퍼블리셔는 [b]%s[/b]가 [b]%s[/b]의 가격으로 인수했습니다.
 
     [b]%s[/b]는 회사에 주당 [b]%s[/b]을 지불 할 것이며 올해 1 분기에 거래가 성사 될 것이라고 발표했다.
-    바이 아웃은 [b]%s[/b] 배너 아래 게임 카탈로그를 증가시킬 것입니다.
-    [b]%s[/b]의 CEO는 인수에 대해
-    [indent]우리 산업은 성장하고 있으며 우리는 함께 새로운 엔터테인먼트 시대를 선도 할 수있을 것 이라고 말했다.[/indent]
+    이 인수는 [b]%s[/b] 이름으로 된 게임 카탈로그를 증가시킬 것입니다.
+    [b]%s[/b]의 CEO는 인수에 대해 다음과 같이 말합니다
+    [indent]우리 업계는 성장하고 있으며, 우리는 함께 새로운 엔터테인먼트 시대를 열어나가겠습니다.[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
     이 게임은 콘솔의 기능을 최대한 활용하지 못했습니다.
   LABEL_MARKETSHARE_KRASHING: >
-    이 콘솔은 낮은 판매로 이어지는 끔찍한 평판에 시달립니다. 지금부터는 멀리하는 것이 좋습니다.
+    이 콘솔은 낮은 판매로 이어지는 끔찍한 평판에 시달립니다. 놓아줄 때가 되었네요.
   LABEL_LOSING_MONEY_DESCRIPTION: |
     귀하의 재무 보고서입니다. 모든 운영 비용과 수익을 확인하세요.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
@@ -485,18 +485,18 @@ ko:
   LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D 그래픽 16 비트 색상"
   LABEL_GAME_ENGINE_2D_24BITCOLOR: "2D 그래픽 24 비트 색상"
   LABEL_GAME_ENGINE_2D_32BITCOLOR: "2D 그래픽 32 비트 색상"
-  LABEL_GAME_ENGINE_3D_1BITCOLOR: "3D 그래프 단색"
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: "3D 그래픽 단색"
   LABEL_GAME_ENGINE_3D_8BITCOLOR: "3D 그래픽 8 비트 색상"
   LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D 그래픽 16 비트 색상"
   LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D 그래픽 24 비트 색상"
   LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D 그래픽 32 비트 색상"
-  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR 그라픽"
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR 그래픽"
   LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "복셀 그래픽"
-  LABEL_GAME_ENGINE_BASIC_DIALOG: "기본 대화상자"
-  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "상호작용식 대화 상자"
-  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "AI 생성 대화 상자"
+  LABEL_GAME_ENGINE_BASIC_DIALOG: "기본 인터페이스"
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "상호작용식 인터페이스"
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "AI 생성 인터페이스"
   LABEL_GAME_ENGINE_JOYSTICK: "조이스틱 지원"
-  LABEL_GAME_ENGINE_GAMEPAD: "게임 패드 지원"
+  LABEL_GAME_ENGINE_GAMEPAD: "게임패드 지원"
   LABEL_GAME_ENGINE_MOUSE: "마우스 지원"
   LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "캐릭터 사전제작"
   LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "캐릭터 커스터마이징"
@@ -721,7 +721,7 @@ ko:
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
     [b]%s[/b]께,
 
-    [b]%s[/b]가 예상된 성공률을 달성하지 못했기 때문에, 우리는 곧바로 [b]%s$[/b]의 벌금을 청구합니다.
+    [b]%s[/b]가 예상된 목표치를 달성하지 못했기 때문에, 우리는 곧바로 [b]%s$[/b]의 벌금을 청구드립니다.
     우리는 이 난관이 미래의 협력에 해를 끼치지 않기를 바랍니다.
 
     존경하는,
@@ -764,9 +764,9 @@ ko:
   LABEL_REVIEW_GAME_BAD: |
     [b]%s[/b] 는 그들의 명성에 맞지 않습니다. 우리는 특히 [b]%s[/b] 이후에 그들에게 많은 것을 기대했습니다.
   LABEL_REVIEW_COMBO_GOOD: |
-    [b]%s[/b] 는 새로운 콤보를 시도했고, 그것은 효과적이었습니다. 그것은 훌륭한 [b]%s[/b] 게임입니다.
+    [b]%s[/b] 는 새로운 조합을 시도했고, 그것은 효과적이었습니다. 그것은 훌륭한 [b]%s[/b] 게임입니다.
   LABEL_REVIEW_COMBO_BAD: |
-    그저 또다른 [b]%s[/b] 게임입니다. 그들은 [b]%s[/b] 에서 새로움을 찾아야 합니다.
+    그저 또다른 [b]%s[/b] 게임일 뿐입니다. 그들은 [b]%s[/b] 에서 새로움을 찾아야 합니다.
   LABEL_CRACKED: 크랙됨
   LABEL_SELECT_COMPANY_SPECIALIZATION: 게임 장르 전문화
   LABEL_DISCORD_COMMUNITY: 디스코드 커뮤니티
@@ -778,7 +778,7 @@ ko:
     안녕하세요 %s,
 
     당신이 저의 이메일를 얼마나 사랑하는지 알고있습니다.
-    좋은 매출에 따라 계산을 해보았고, %s 의 판매에 대해서 이야기하려고 합니다.
+    좋은 매출액을 보이고 있네요, %s 의 판매에 대해서 이야기하려고 합니다.
 
     %s
 
@@ -915,7 +915,7 @@ ko:
     안녕하십니까,
 
     저는 [b]%s[/b]에서 사직함을 알려드립니다. 이 사직은 이 순간부터 즉시 유효합니다.
-    이 회사에서 저에게 제공해준 기회들에 대해 감사드립니다. 저는 많은 것을 배울 수 있었고, 회사에서의 추억을 잊지 못할것입니다.
+    이 회사에서 저에게 제공해준 기회들에 대해 감사드립니다. 많은 것을 배울 수 있었고, 회사에서의 추억을 잊지 못할것입니다.
 
     사직 절차에 있어서 도와드릴 일이 있다면 알려주세요.
 
@@ -1113,7 +1113,7 @@ ko:
   LABEL_TYPE_EROGE: 에로게임
   LABEL_TYPE_OTOME: 여성향 연애 게임
   LABEL_TYPE_VISUAL_NOVEL: 비쥬얼 노벨
-  LABEL_TYPE_MYSTERY_LIKE: 수수께끼
+  LABEL_TYPE_MYSTERY_LIKE: 미스터리 류
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: 액션 RPG
   LABEL_TYPE_DUNGEON_CRAWLER: 던전 크롤러
@@ -1151,8 +1151,8 @@ ko:
   LABEL_TYPE_CASUAL: 캐쥬얼
   LABEL_TYPE_BREAKOUT: 벽돌 깨기
   LABEL_TYPE_RYTHM: 리듬
-  LABEL_TYPE_CLICKER_GAME: 클릭류
-  LABEL_TARGETTED_AUDIENCE_YOUNG: 젊은 층
+  LABEL_TYPE_CLICKER_GAME: 클리커
+  LABEL_TARGETTED_AUDIENCE_YOUNG: 어린 층
   LABEL_TARGETTED_AUDIENCE_ALL: 전체
   LABEL_TARGETTED_AUDIENCE_MATURE: 성숙한 층
   LABEL_GAME_SIZE_INDIE: 작음
