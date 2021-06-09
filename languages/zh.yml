@@ -79,6 +79,7 @@ zh:
   BUTTON_HIRE_AND_ASSIGN: 雇用和分配
 
   # Labels, descriptive
+  LABEL_MINUTES: 纪要
   LABEL_VIEW_MORE: 查看更多...
   LABEL_GAME_INDUSTRY_NEWS: 游戏行业新闻
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s将以%s收购%s。"
@@ -178,6 +179,9 @@ zh:
   LABEL_CUSTOM_CONSOLE: 控制台开发
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     创建自己的视频游戏机。
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    挑选零件，组装控制台，为营销活动做好准备!
+    为了使效益最大化，考虑聘请一名营销经理和一名会计。
   LABEL_INCOMPATIBLE_VERSION: >
     无法打开保存，因为它是用较新版本的游戏创建的。
   LABEL_GAME_CANCELED: 游戏取消
@@ -408,6 +412,7 @@ zh:
   LABEL_MONEY_MAKER: 有利可图
   LABEL_MONEY_LOSER: 不盈利
   LABEL_SELECT_ALL: 全选
+  LABEL_SELECT_NONE: 什么都不选
   LABEL_FREE_GAME: 免费的
   LABEL_SUBSCRIPTION_PRICE: 认购价
   LABEL_GAME_PRICE: 游戏价格
@@ -1576,6 +1581,28 @@ zh:
     就不再与您的视频游戏竞争。
   LABEL_GENRE_STOLEN: 你已经学会了%s
   LABEL_STUDIO_SOLD: 他们卖掉了%s
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    这种类型不再是独特的，因为它已经被其他一些公司创造了。
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    点击这个按钮，打开游戏创建面板。
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    升级这个游戏引擎所涉及的成本较高。事实上，这个游戏引擎正在老化，所以开发成本会急剧上升。
+
+    你应该创建一个新的，而不更新这个，这样你就不会面临这样的惩罚。
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    请注意，该控制台的制造成本高于其价格。如果销量猛增，公司可能会破产。
+
+    因此，你应该提高控制台的价格以避免亏损。
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    其他游戏发行商未能在这个游戏机上销售他们的游戏。你也很可能无法在这个游戏机上卖出足够的游戏拷贝。
+
+    你应该选择另一个控制台，否则你可能会感到失望。
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    由于你没有足够的粉丝，所以你必须要有90%以上的分数，才能卖得好。
+
+    你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

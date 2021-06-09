@@ -79,6 +79,7 @@ pt:
   BUTTON_HIRE_AND_ASSIGN: Alugue e atribua
 
   # Labels, descriptive
+  LABEL_MINUTES: acta
   LABEL_VIEW_MORE: Veja mais...
   LABEL_GAME_INDUSTRY_NEWS: Notícias da indústria dos jogos
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s para adquirir a %s por %s"
@@ -181,6 +182,9 @@ pt:
   LABEL_CUSTOM_CONSOLE: Desenvolvimento de consolas
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Crie a sua própria consola de jogos de vídeo.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Escolha as peças, monte a consola e prepare-se para a campanha de marketing!
+    Para maximizar o benefício, considere contratar um gestor de marketing e um contabilista.
   LABEL_INCOMPATIBLE_VERSION: >
     Não pode abrir guardar porque foi criado com uma versão mais recente do jogo
   LABEL_GAME_CANCELED: Jogo cancelado
@@ -437,6 +441,7 @@ pt:
   LABEL_MONEY_MAKER: Rentável
   LABEL_MONEY_LOSER: Não lucrativo
   LABEL_SELECT_ALL: Selecionar tudo
+  LABEL_SELECT_NONE: Não seleccionar nada
   LABEL_FREE_GAME: Gratuito
   LABEL_SUBSCRIPTION_PRICE: Preço de assinatura
   LABEL_GAME_PRICE: Preço do jogo
@@ -1663,6 +1668,33 @@ pt:
     e não está mais em competição com seus videogames.
   LABEL_GENRE_STOLEN: Você aprendeu %s
   LABEL_STUDIO_SOLD: Eles venderam %s
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Este género já não é único porque já foi criado por alguma outra empresa.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    Clique neste botão para abrir o painel de criação do jogo.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    Os custos envolvidos na actualização deste motor de jogo são mais elevados.
+    De facto, o motor de jogo está a envelhecer, pelo que os custos de desenvolvimento podem disparar.
+
+    Deve-se criar um novo, sem actualizar este, para não se enfrentar uma tal penalização.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Note-se que os custos de fabrico da consola são mais elevados do que o seu preço.
+    Se as vendas dispararem, a empresa poderá ir à falência.
+
+    Por conseguinte, deve aumentar o preço da consola para não perder dinheiro.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Outras editoras de jogos não estão a conseguir vender o seu jogo nesta consola.
+    É provável que você também não consiga vender cópias suficientes do seu jogo nesta consola.
+
+    Deverá escolher outra consola ou poderá ficar desapontado.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Uma vez que não tem fãs suficientes para poder vender um jogo deste tamanho,
+    vai ter de ter uma pontuação acima dos 90% para que venda bem.
+
+    Pode querer tornar o jogo um pouco mais pequeno para vender melhor.
+    Para aumentar o seu número de adeptos, poderá também querer aceitar ofertas para publicações de outras empresas.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

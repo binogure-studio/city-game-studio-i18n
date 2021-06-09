@@ -79,6 +79,7 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
 
   # Labels, descriptive
+  LABEL_MINUTES: minuti
   LABEL_VIEW_MORE: Vedi più...
   LABEL_GAME_INDUSTRY_NEWS: Notizie sull'industria dei giochi
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s acquisisce %s per %s"
@@ -181,6 +182,9 @@ it:
   LABEL_CUSTOM_CONSOLE: Sviluppo di console
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Crea la tua console per videogiochi.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Scegliete i pezzi, assemblate la console e preparatevi per la campagna di marketing!
+    Per massimizzare il beneficio, considera l'assunzione di un marketing manager e di un contabile.
   LABEL_INCOMPATIBLE_VERSION: >
     Non può aprire il salvataggio perché è stato creato con una versione più recente del gioco
   LABEL_GAME_CANCELED: Gioco annullato
@@ -433,6 +437,7 @@ it:
   LABEL_MONEY_MAKER: Profittoso
   LABEL_MONEY_LOSER: Non redditizio
   LABEL_SELECT_ALL: Seleziona tutto
+  LABEL_SELECT_NONE: Non selezionare nulla
   LABEL_FREE_GAME: Gratuito
   LABEL_SUBSCRIPTION_PRICE: Prezzo di abbonamento
   LABEL_GAME_PRICE: Prezzo del gioco
@@ -1636,6 +1641,34 @@ it:
     e non sono più in concorrenza con i tuoi videogiochi.
   LABEL_GENRE_STOLEN: Hai imparato %s
   LABEL_STUDIO_SOLD: Hanno venduto %s
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Questo genere non è più unico perché è già
+    stato creato da qualche altra azienda.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    Clicca su questo pulsante per aprire il pannello di creazione del gioco.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    I costi coinvolti nell'aggiornamento di questo motore di gioco sono più alti.
+    Infatti, il motore di gioco sta invecchiando, quindi i costi di sviluppo possono salire alle stelle.
+
+    Dovreste crearne uno nuovo, senza aggiornare questo, in modo da non affrontare una tale penalizzazione.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Si noti che i costi di fabbricazione della console sono superiori al suo prezzo.
+    Se le vendite salgono alle stelle, l'azienda potrebbe andare in bancarotta.
+
+    Pertanto, si dovrebbe aumentare il prezzo della console per non perdere denaro.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Altri editori di giochi non riescono a vendere il loro gioco su questa console.
+    È probabile che anche voi non riuscirete a vendere abbastanza copie del vostro gioco su questa console.
+
+    Dovreste scegliere un'altra console o potreste rimanere delusi.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Dato che non hai abbastanza fan per riuscire a vendere un gioco di queste dimensioni,
+    dovrai avere un punteggio superiore al 90% per venderlo bene.
+
+    Potresti voler rendere il gioco un po' più piccolo per vendere meglio.
+    Per far crescere il tuo numero di fan, potresti anche accettare offerte per pubblicazioni da altre compagnie.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

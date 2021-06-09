@@ -79,6 +79,7 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
 
   # Labels, descriptive
+  LABEL_MINUTES: minuten
   LABEL_VIEW_MORE: Bekijk meer...
   LABEL_GAME_INDUSTRY_NEWS: Games industrie nieuws
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s neemt %s over voor %s"
@@ -181,6 +182,9 @@ nl:
   LABEL_CUSTOM_CONSOLE: Console-ontwikkeling
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Maak uw eigen videogameconsole.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Kies onderdelen, zet de console in elkaar en maak je klaar voor de marketingcampagne!
+    Overweeg om een marketingmanager en een boekhouder in te huren om het voordeel te maximaliseren.
   LABEL_INCOMPATIBLE_VERSION: >
     Kan niet openen save omdat het is gemaakt met een nieuwere versie van het spel
   LABEL_GAME_CANCELED: Gioco annullato
@@ -433,6 +437,7 @@ nl:
   LABEL_MONEY_MAKER: Winstgevend
   LABEL_MONEY_LOSER: Niet winstgevend
   LABEL_SELECT_ALL: Selecteer alles
+  LABEL_SELECT_NONE: Kies niets
   LABEL_FREE_GAME: Gratis
   LABEL_SUBSCRIPTION_PRICE: Abonnements prijs
   LABEL_GAME_PRICE: Game prijs
@@ -1643,6 +1648,34 @@ nl:
     en concurreren niet langer met uw videogames.
   LABEL_GENRE_STOLEN: Je hebt %s geleerd
   LABEL_STUDIO_SOLD: Ze hebben %s verkocht
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Dit genre is niet langer uniek omdat het reeds door
+    een ander bedrijf is gecreëerd.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    Klik op deze knop om het paneel voor het maken van spellen te openen.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    De kosten voor het upgraden van deze game engine zijn hoger.
+    In feite is de game engine aan het verouderen, dus de ontwikkelingskosten kunnen de pan uit rijzen.
+
+    Je zou een nieuwe moeten maken, zonder deze te updaten, zodat je niet met zo'n boete wordt geconfronteerd.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Merk op dat de fabricagekosten van de console hoger zijn dan de prijs.
+    Als de verkoop zo sterk stijgt, kan het bedrijf failliet gaan.
+
+    Daarom moet je de prijs van de console verhogen om geen geld te verliezen.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Andere uitgevers van spellen slagen er niet in hun spel op deze console te verkopen.
+    Het is waarschijnlijk dat ook u er niet in zult slagen voldoende exemplaren van uw spel op deze console te verkopen.
+
+    U kunt beter een andere console kiezen, anders zult u misschien teleurgesteld worden.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Aangezien je niet genoeg fans hebt om een spel van deze grootte te verkopen,
+    moet je een score van meer dan 90% hebben om het goed te laten verkopen.
+
+    Misschien wil je het spel een beetje kleiner maken om beter te verkopen.
+    Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

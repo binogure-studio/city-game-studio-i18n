@@ -79,6 +79,7 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
 
   # Labels, descriptive
+  LABEL_MINUTES: minutes
   LABEL_VIEW_MORE: View more...
   LABEL_GAME_INDUSTRY_NEWS: Games industry news
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s to acquire %s for %s"
@@ -180,6 +181,9 @@ en:
   LABEL_CUSTOM_CONSOLE: Console development
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Create your own video game console.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Pick parts, assemble the console and get ready for the marketing campaign!
+    To maximize the benefit, consider hiring a marketing manager and an accountant.
   LABEL_INCOMPATIBLE_VERSION: >
     Cannot open save because it was created with newer version of the game
   LABEL_GAME_CANCELED: Game canceled
@@ -425,6 +429,7 @@ en:
   LABEL_MONEY_MAKER: Profitable
   LABEL_MONEY_LOSER: Not profitable
   LABEL_SELECT_ALL: Select all
+  LABEL_SELECT_NONE: Select nothing
   LABEL_FREE_GAME: Free of charge
   LABEL_SUBSCRIPTION_PRICE: Subscription price
   LABEL_GAME_PRICE: Game price
@@ -1165,7 +1170,7 @@ en:
   LABEL_TYPE_ARTILLERY: Artillery
   LABEL_TYPE_CASUAL: Casual
   LABEL_TYPE_BREAKOUT: Break-out
-  LABEL_TYPE_RYTHM: Rythm
+  LABEL_TYPE_RYTHM: Rhythm
   LABEL_TYPE_CLICKER_GAME: Clicker-game
   LABEL_TARGETTED_AUDIENCE_YOUNG: Young
   LABEL_TARGETTED_AUDIENCE_ALL: Everybody
@@ -1189,7 +1194,7 @@ en:
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] retire the so well known [b]%s[/b], fans are crying.
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    [b]%s[/b] will release a new platform within a few months [b]%s[/b] it should last for years.
+    [b]%s[/b] will release a new platform names [b]%s[/b] within a few months. It should last for years.
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] announces the end of life of the so well known [b]%s[/b]
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
@@ -1649,6 +1654,34 @@ en:
     and it is no longer in competition with your video games.
   LABEL_GENRE_STOLEN: You've learnt %s
   LABEL_STUDIO_SOLD: They've sold %s
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    This genre is no longer unique because it has already
+    been created by some other company.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    Click on this button to open the game creation panel.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    Costs involved in upgrading this game engine are higher. In fact, the game engine is aging,
+    so the development costs can skyrocket.
+
+    You should create a new one, without updating this one, so you don't face such a penalty.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Note that the manufacture costs of the console are higher than its price.
+    If the sales soar, the company could go bankrupt.
+
+    Therefore, you should raise the console's price to not lose money.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Other publishers of games are failing to sell their game on this console.
+    It is likely that you too will fail to sell enough copies of your game on this console.
+
+    You should pick another console or you might be disappointed.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Since you don't have enough fans to be able to sell games of this size,
+    you will need to have a rating above 90% to be successful.
+
+    You should make the game slightly smaller to sell it better.
+    To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

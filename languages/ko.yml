@@ -79,6 +79,7 @@ ko:
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
 
   # Labels, descriptive
+  LABEL_MINUTES: 의사록
   LABEL_VIEW_MORE: 더보기...
   LABEL_GAME_INDUSTRY_NEWS: 게임 업계 뉴스
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s는 %s $에 %s를 인수했습니다."
@@ -178,6 +179,9 @@ ko:
   LABEL_CUSTOM_CONSOLE: 콘솔 개발
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     직접 비디오 게임 콘솔을 만드십시오.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    부품을 선택하고 콘솔을 조립하고 마케팅 캠페인을 준비하십시오!
+    혜택을 극대화하려면 마케팅 관리자와 회계사를 고용하는 것이 좋습니다.
   LABEL_INCOMPATIBLE_VERSION: >
     새 버전의 게임으로 생성 되었기 때문에 저장 파일을 열 수 없습니다.
   LABEL_GAME_CANCELED: 게임 취소
@@ -411,6 +415,7 @@ ko:
   LABEL_MONEY_MAKER: 수익성이 있다
   LABEL_MONEY_LOSER: 수익성이 없다
   LABEL_SELECT_ALL: 모두 선택
+  LABEL_SELECT_NONE: 아무것도 선택하지 않음
   LABEL_FREE_GAME: 무료
   LABEL_SUBSCRIPTION_PRICE: 구독 가격
   LABEL_GAME_PRICE: 게임 가격
@@ -1632,6 +1637,31 @@ ko:
     더 이상 비디오 게임과 경쟁하지 않습니다.
   LABEL_GENRE_STOLEN: "%s을 배웠습니다."
   LABEL_STUDIO_SOLD: "%s를 팔았습니다."
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    이 장르는 이미 다른 회사에서 만들어 졌기 때문에 더 이상 고유하지 않습니다.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    이 버튼을 클릭하면 게임 생성 패널이 열립니다.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    이 게임 엔진을 업그레이드하는 데 드는 비용은 더 높습니다.
+    실제로 게임 엔진이 노후화되어 개발 비용이 치 솟을 수 있습니다.
+
+    이 항목을 업데이트하지 않고 새 항목을 만들어야하므로 이러한 불이익이 발생하지 않습니다.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    콘솔의 제조 비용은 가격보다 높습니다. 매출이 급증하면 회사는 파산 할 수 있습니다.
+
+    따라서 돈을 잃지 않도록 콘솔의 가격을 올려야합니다.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    다른 게임 퍼블리셔는이 콘솔에서 게임을 판매하지 못하고 있습니다.
+    이 콘솔에서 게임의 충분한 사본을 판매하지 못할 가능성이 있습니다.
+
+    다른 콘솔을 선택하지 않으면 실망 할 수 있습니다.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    이 정도 크기의 게임을 팔 수있는 팔로워가 충분하지 않기 때문에 잘 팔리려면 90 % 이상의 점수를 받아야합니다.
+
+    더 잘 팔기 위해 게임을 조금 더 작게 만드는 것이 좋습니다.
+    팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

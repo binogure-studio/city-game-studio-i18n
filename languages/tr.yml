@@ -79,6 +79,7 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
 
   # Labels, descriptive
+  LABEL_MINUTES: dakika
   LABEL_VIEW_MORE: Daha fazla göster...
   LABEL_GAME_INDUSTRY_NEWS: Oyun sektörü haberleri
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s, %s'ı %s 'a satın alacak."
@@ -180,6 +181,9 @@ tr:
   LABEL_CUSTOM_CONSOLE: Konsol geliştirme
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Kendi video oyun konsolunuzu oluşturun.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Parçaları seçin, konsolu monte edin ve pazarlama kampanyasına hazırlanın!
+    Avantajı en üst düzeye çıkarmak için, bir pazarlama müdürü ve bir muhasebeci tutmayı düşünün.
   LABEL_INCOMPATIBLE_VERSION: >
     Oyunun daha yeni sürümüyle oluşturulduğu için kaydetme açılamıyor
   LABEL_GAME_CANCELED: Oyun iptal edildi
@@ -428,6 +432,7 @@ tr:
   LABEL_MONEY_MAKER: kârlı
   LABEL_MONEY_LOSER: Kârlı değil
   LABEL_SELECT_ALL: Hepsini seç
+  LABEL_SELECT_NONE: Hiçbir şey seçme
   LABEL_FREE_GAME: Ücretsiz
   LABEL_SUBSCRIPTION_PRICE: Abonelik ücreti
   LABEL_GAME_PRICE: Oyun fiyatı
@@ -1636,6 +1641,33 @@ tr:
     artık video oyunlarınızla rekabet halinde değildir.
   LABEL_GENRE_STOLEN: "%s öğrendin"
   LABEL_STUDIO_SOLD: "%s sattılar"
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Bu tür artık başka bir şirket tarafından yaratıldığı için benzersiz değil.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    Oyun oluşturma panelini açmak için bu düğmeye tıklayın.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    Bu oyun motorunu yükseltmenin maliyeti daha yüksektir.
+    Aslında, oyun motoru yaşlanıyor, bu nedenle geliştirme maliyetleri fırlayabilir.
+
+    Bunu güncellemeden yeni bir tane oluşturmalısınız ki böyle bir ceza ile karşılaşmayın.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Konsolun üretim maliyetlerinin fiyatından daha yüksek olduğunu unutmayın.
+    Satışlar yükselirse, şirket iflas edebilir.
+
+    Bu nedenle para kaybetmemek için konsolun fiyatını yükseltmelisiniz.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Diğer oyun yayıncıları oyunlarını bu konsolda satamıyor.
+    Muhtemelen siz de bu konsolda oyununuzun yeterince kopyasını satamayacaksınız.
+
+    Başka bir konsol seçmelisin yoksa hayal kırıklığına uğrayabilirsin.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Bu büyüklükteki bir oyunu satacak kadar takipçiniz olmadığı için,
+    iyi satması için %90'ın üzerinde bir puana sahip olmanız gerekecek.
+
+    Daha iyi satmak için oyunu biraz küçültmek isteyebilirsiniz.
+    Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |

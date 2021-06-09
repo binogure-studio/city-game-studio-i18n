@@ -79,6 +79,7 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
 
   # Labels, descriptive
+  LABEL_MINUTES: minuten
   LABEL_VIEW_MORE: Mehr sehen...
   LABEL_GAME_INDUSTRY_NEWS: Nachrichten aus der Spieleindustrie
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s übernimmt %s für %s"
@@ -182,6 +183,9 @@ de:
   LABEL_CUSTOM_CONSOLE: Konsolenentwicklung
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Entwickeln Sie Ihre eigene Videospielkonsole.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Wählen Sie Teile aus, bauen Sie die Konsole zusammen und machen Sie sich bereit für die Marketingkampagne!
+    Um den Nutzen zu maximieren, erwägen Sie die Einstellung eines Marketingmanagers und eines Buchhalters.
   LABEL_INCOMPATIBLE_VERSION: >
     Speichern kann nicht geöffnet werden, da es mit einer neueren Version des Spiels erstellt wurde
   LABEL_GAME_CANCELED: Spiel abgebrochen
@@ -436,6 +440,7 @@ de:
   LABEL_MONEY_MAKER: Profitabel
   LABEL_MONEY_LOSER: Nicht profitabel
   LABEL_SELECT_ALL: Wählen Sie Alle
+  LABEL_SELECT_NONE: Nichts auswählen
   LABEL_FREE_GAME: Kostenlos
   LABEL_SUBSCRIPTION_PRICE: Abo-Preis
   LABEL_GAME_PRICE: Spielpreis
@@ -1661,6 +1666,37 @@ de:
     geteilt und steht nicht mehr in Konkurrenz zu Ihren Videospielen.
   LABEL_GENRE_STOLEN: Du hast gelernt, dass %s
   LABEL_STUDIO_SOLD: DU hast %s verkauft.
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Dieses Genre ist nicht mehr einzigartig,
+    weil es bereits von einem anderen Unternehmen geschaffen wurde.
+
+  # Tutoriel labels
+  TUTORIEL_CREATE_GAME: |
+    Klicken Sie auf diese Schaltfläche,
+    um das Bedienfeld für die Spielerstellung zu öffnen.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    Die Kosten für die Aktualisierung dieser Spiel-Engine sind höher.
+    In der Tat ist die Spiel-Engine veraltet,
+    so dass die Entwicklungskosten in die Höhe schnellen können.
+
+    Sie sollten eine neue erstellen, ohne diese zu aktualisieren,
+    damit Sie nicht mit einer solchen Strafe konfrontiert werden.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Beachten Sie, dass die Herstellungskosten der Konsole höher sind als ihr Preis.
+    Wenn die Verkäufe in die Höhe schnellen, könnte das Unternehmen in Konkurs gehen.
+
+    Daher sollten Sie den Preis der Konsole anheben, um kein Geld zu verlieren.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Andere Herausgeber von Spielen scheitern daran, ihr Spiel auf dieser Konsole zu verkaufen.
+    Es ist wahrscheinlich, dass auch Sie nicht genügend Kopien Ihres Spiels auf dieser Konsole verkaufen können.
+
+    Sie sollten eine andere Konsole wählen, sonst könnten Sie enttäuscht werden.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Da Sie nicht genug Fans haben, um ein Spiel dieser Größe zu verkaufen,
+    müssen Sie eine Punktzahl von über 90 % haben, damit es sich gut verkauft.
+
+    Vielleicht sollten Sie das Spiel etwas kleiner machen, um es besser zu verkaufen.
+    Um Ihre Fangemeinde zu vergrößern, sollten Sie vielleicht auch Angebote für Veröffentlichungen von anderen Firmen annehmen.
 
   # Tooltips
   TOOLTIP_PLATFORM_MARKETING: |
