@@ -1,7 +1,7 @@
 zh:
   # Buttons actions verbs
   BUTTON_READ: 阅读
-  BUTTON_ANNOUNCE: 宣布新游
+  BUTTON_ANNOUNCE: 宣布该游戏
   BUTTON_NEW_GAME: 新游戏
   BUTTON_HIRE: 雇佣
   BUTTON_APPLY: 应用
@@ -9,7 +9,7 @@ zh:
   BUTTON_BUILD_MODE: 建造模式
   BUTTON_BUILDING_RENT: 租赁
   BUTTON_CANCEL: 取消
-  BUTTON_CANCEL_ALL: 取消
+  BUTTON_CANCEL_ALL: 全部取消
   BUTTON_CLOSE: 关闭
   BUTTON_CREDITS: 制作人名单
   BUTTON_EXIT: 退出
@@ -39,7 +39,7 @@ zh:
   BUTTON_ZOOM: 缩放
   BUTTON_BUY: 购买
   BUTTON_SELL: 售卖
-  BUTTON_RENT: 租
+  BUTTON_RENT: 租赁
   BUTTON_CONFIRM: 确认
   BUTTON_BANKRUPTCY: 破产
   BUTTON_RESTORE: 恢复
@@ -48,7 +48,7 @@ zh:
   BUTTON_SPAM: 垃圾邮件
   BUTTON_UNSPAM: 不是垃圾邮件
   BUTTON_HOLIDAY: 让工作室去度假
-  BUTTON_HOLIDAY_SOLO: 发送假期
+  BUTTON_HOLIDAY_SOLO: 放假
   BUTTON_MODS: 模组
   BUTTON_BUGREPORT: 错误报告
   BUTTON_FEEDBACK: 反馈
@@ -72,11 +72,11 @@ zh:
   BUTTON_EDIT: 编辑
   BUTTON_CONFINE_MOUSE: 限制鼠标在窗口区域
   BUTTON_SHOW_STUDIO: 显示工作室
-  BUTTON_CANCEL_GAME: 取消游戏
+  BUTTON_CANCEL_GAME: 取消该游戏
   BUTTON_VIEW_SEQUEL: 查看续集
   BUTTON_COPY: 复制
   BUTTON_HIRE_ALL: 雇用所有人
-  BUTTON_HIRE_AND_ASSIGN: 雇用和分配
+  BUTTON_HIRE_AND_ASSIGN: 雇用并分配
 
   # Labels, descriptive
   LABEL_MINUTES: 纪要
@@ -84,152 +84,152 @@ zh:
   LABEL_GAME_INDUSTRY_NEWS: 游戏行业新闻
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s将以%s收购%s。"
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
-    [b]%s[/b]》背后的视频游戏开发商和发行商已被[b]%s[/b]收购，收购价为[b]%s[/b]。
+    《[b]%s[/b]》背后的视频游戏开发商和发行商已被[b]%s[/b]收购，收购价为[b]%s[/b]。
 
-    [b]%s[/b]发表声明称，将为该公司支付每股[b]%s[/b]，预计交易将在今年第一季度完成。
+    [b]%s[/b]发表声明称，将以每股[b]%s[/b]的价格收购该公司，预计交易将在今年第一季度完成。
     此次收购将增加[b]%s[/b]旗下的游戏目录。
     [b]%s[/b]首席执行官对此次收购发表评论称：
     [indent]我们的行业正在不断发展，我们将共同引领一个新的娱乐时代。[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
-    Эта игра не в полной мере использовала возможности консоли.
+    该游戏没有完全发挥这台主机的性能优势。
   LABEL_MARKETSHARE_KRASHING: >
-    Эта консоль страдает от ужасной репутации, что приводит к низким продажам. Отныне рекомендуется держаться от нее подальше.
+    该主机收获了较差的口碑并导致了其销量低迷，建议你远离它。
   LABEL_LOSING_MONEY_DESCRIPTION: |
-    这是你的财务结果。它显示了你所有的经营费用和收入。
+    这是你的财务报表。它显示了你所有的经营费用和收入。
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    租金成本是一项重要的支出。你可以购买建筑物或租用较小的建筑物，并关闭那些成本最高的建筑物。
+    租金成本是一项显著的支出。你可以购买建筑物或租用较小的建筑物，并关闭那些成本最高的建筑物。
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    工资是一项重要的开支。你应该考虑裁员。
+    工资是一项主要的开支。你应该考虑裁员。
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    你有很多咖啡机/自动售货机，这对你的预算是个压力。
+    你有很多咖啡机/自动售货机，这对于你的预算来说是个压力。
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    服务器很贵。如果你有闲置的服务器，你应该卖掉它们。
+    服务器很贵。如果你有闲置的服务器的话，你应该把它们卖掉。
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
-    你在营销活动上花了很多钱。也许你应该停止一些营销活动或公约。
+    你在营销活动上花了很多钱。也许你应该停止一些营销活动或展会。
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
-    你的抵押贷款似乎很贵。如果可以的话，用更大的、长期的抵押贷款来偿还它们。
+    你的抵押贷款似乎很贵。你可以在你能力允许的情况下，用更大的、长期的抵押贷款来偿还它们。
   LABEL_LOSING_MONEY_HARD: >
-    你花的钱比你赚的钱多。如果你想知道哪种成本最高，请咨询你的财务细节。
+    你已经入不敷出了。如果你想知道哪些方面的支出占了大头，请查看你的财务细节。
   LABEL_SUBSCRIPTION: 订阅
   LABEL_PLATFORM_NOT_POWERFULL: >
-    这个主机不够强大
-  BUTTON_RELEASE_ALL: 发布一切
+    该主机性能不够强大
+  BUTTON_RELEASE_ALL: 全部发布
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    发布所有准备发布的游戏、合同和游戏机。    
+    发布所有可以发布的游戏、合同与游戏机。    
   LABEL_PLATFORM_LIST_GAME: 列表视频游戏
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 一个新的组件已经推出
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 一个全新的组件已发布
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
     %s你好。
 
-    我很高兴地宣布一个全新的组件的发布。它就是全新的[b]%s[/b]。
-    设计它的工程师们很骄傲地在这里介绍它。
+    我很高兴地宣布一个全新的组件的发布，它就是全新的[b]%s[/b]。
+    设计它的工程师们很骄傲地宣布了它。
     [center][img]%s[/img][/center]
     祝你有愉快的一天。
 
-    真诚的
+    此致，
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_TITLE: 主机销售报告
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
     你好%s。
 
-    又是一封填满你邮箱的邮件。但这是为了一个好的原因。
-    我是来告诉你关于降低生产成本的事情的
+    又是一封来填满你邮箱的邮件。但这次是好事。
+    我是来告诉你生产成本降低了这件事的。
 
     %s
-
+    此致，
     祝你有愉快的一天。
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
-    [b]%s[/b]的制造成本降低了[b]%s%%[/b]。
+    [b]%s[/b]的生产成本降低了[b]%s%%[/b]。
   LABEL_PLATFORM_NOT_RELEASED: |
-    暂时还没有%s的信息。
+    尚不支持%s
   LABEL_PLATFORM_NO_COMPONENT: |
-    没有选定部件
+    没有选定的部件
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 降低制造成本
   LABEL_FILTER_PLATFORM_RELEASED: 发布主机
   LABEL_FILTER_PLATFORM_DISCONTINUED: 停止的主机
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     调整主机的质量。
     
-    一个劣质的主机预计会更经常出现故障。
-    购买了有问题的主机的客户总是有权获得退款。
+    一个劣质的主机会更频繁地出现故障。
+    购买了有问题的主机的客户将有权获得退款。
   LABEL_PLATFORM_DISCONTINUE: 停止生产
   LABEL_PLATFORM_CHANGE_PRICE: 修改价格
-  LABEL_PLATFORM_UNIT_RETURNED: 返厂的单位
+  LABEL_PLATFORM_UNIT_RETURNED: 返厂数量
   LABEL_PLATFORM_COST_RATIO: 成本率
-  LABEL_PLATFORM_COMPONENT_CONTROLLER: 手柄
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: 控制器
   LABEL_PLATFORM_COMPONENT_CPU: 处理器
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: 卡带
-  LABEL_PLATFORM_COMPONENT_MEMORY: 记忆
+  LABEL_PLATFORM_COMPONENT_MEMORY: 存储
   LABEL_PLATFORM_COMPONENT_GPU: 图形处理器
   LABEL_PLATFORM_COMPONENT_SCREEN: 屏幕
-  LABEL_PLATFORM_COMPONENT_BOX: 主机盒
-  LABEL_PLATFORM_MAKING_COSTS: 制造成本
+  LABEL_PLATFORM_COMPONENT_BOX: 外壳
+  LABEL_PLATFORM_MAKING_COSTS: 生产成本
   LABEL_PLATFORM_UNLOCK_COSTS: 解锁费用
   LABEL_PLATFORM_DEVELOPMENT_POINTS: 开发费用
   LABEL_PLATFORM_QUALITY: 质量
-  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: 估算制造成本
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: 预估制造成本
   LABEL_PLATFORM_UNIT_PROFIT: 单位利润
-  LABEL_PLATFORM_NAME: 主机名称
+  LABEL_PLATFORM_NAME: “主机名称”
   LABEL_TRADE_PUBLISH_TOOLTIP: |
     这个出版提议是由%s美元的补助金支持的。
     如果您没有达到%d%%的最低分数，将被处以%s美元的罚款。
   LABEL_CANNOT_HIRE_NO_DESK: |
-    你必须要有一个办公桌，才能聘请专家。
-  LABEL_CUSTOM_CONSOLE: 控制台开发
+    你必须要有一个办公桌才能聘请专家。
+  LABEL_CUSTOM_CONSOLE: 主机开发
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
-    创建自己的视频游戏机。
+    创建自己的游戏主机。
   LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
     挑选零件，组装控制台，为营销活动做好准备!
-    为了使效益最大化，考虑聘请一名营销经理和一名会计。
+    你应该考虑聘请一名营销总监和一名会计来使利益最大化。
   LABEL_INCOMPATIBLE_VERSION: >
     无法打开保存，因为它是用较新版本的游戏创建的。
   LABEL_GAME_CANCELED: 游戏取消
   LABEL_EMPLOYEE_FIRED: 被解雇的员工
   LABEL_ASSIGN_SPECIALIST: 指派专家。
   LABEL_ACCOUNTANT_TOOLTIP: |
-    指派会计，以减少税负。
+    指派一名会计以减少税收负担。
   LABEL_MARKETING_MANAGER_TOOLTIP: |
-    指派市场经理，提升游戏的知名度。
+    指派一名营销总监以提升游戏的知名度。
   LABEL_PRODUCER_TOOLTIP: |
-    指派一名制作人，制作大型游戏，提高员工的工作效率。
+    指派一名制作人来制作大型游戏，并提升员工的工作效率。
   LABEL_NETWORK_ADMIN_TOOLTIP: |
-    指派网络管理员，优化每个玩家所需的服务器负载。
+    指派一名网络管理员以优化每个玩家所需的服务器负载。
   LABEL_INTERVIEW_INDIE: |
-    嗨，我的天
-    我是布鲁诺-特里格。每周三我都会主持关于独立游戏的节目[i]3615 Dorian[/i]。
+    你好，
+    我是布鲁诺-特里格。每周三我都会主持一档关于独立游戏的节目 [i]3615 Dorian[/i] 。
     作为[b]%s[/b]的忠实粉丝，我想在[b]%s[/b]的游戏之夜问你几个问题。
     你有5分钟的时间吗？
   LABEL_INTERVIEW_INDIE_QUESTION: |
     我梦想踏上独立游戏开发的冒险之旅! 做自己的老板，响应一个充满爱心和关怀的社区，这是多么大的梦想啊!
     我们的小社区是[b]%s[/b]游戏的粉丝，你觉得如果我们想做游戏，应该关注什么？
   LABEL_INTERVIEW_INDIE_RIGHT: |
-    我们的专家Dorian同意，[i]3615 Dorian[/i]社区也同意。[b]%s[/b]是我们一直在等待的金块!
+    我们的专家 Dorian 以及 [i]3615 Dorian[/i] 社区都认同这一点。[b]%s[/b]就是我们一直在等待的宝藏!
   LABEL_INTERVIEW_BIG: |
     你好啊
-    Gio Tard，我在[i]Rock Paper Pistol[/i]工作。[b]%s[/b]似乎很有前途，我想问你一些问题的文章。
-    你有5分钟的时间给我吗？
+    Gio Tard，我在 [i]Rock Paper Pistol[/i] 工作。[b]%s[/b]似乎很有前途，我想采访你一些问题并整理成文章。
+    你有5分钟的时间吗？
   LABEL_INTERVIEW_BIG_QUESTION: |
-    成立[b]%d[/b]年后，你出版了你的第一个AAA。随着《[b]%s[/b]》的问世，你进入了业界的大联盟。
-    我们想知道，[b]%s[/b]会被评为[b]%d[/b]年年度游戏吗？
+    在成立[b]%d[/b]年后，你推出了你的第一款3A游戏。随着《[b]%s[/b]》的问世，你进入了业界的巨头联盟。
+    我们想知道，[b]%s[/b]会被评为[b]%d[/b]年的年度游戏吗？
   LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
-    [b]%s[/b]要有一个水晶球! 预测谁会被提名为年度最佳游戏并不容易!
-    要有那么高的远见，他们必须了解行业的内部运作!
+    [b]%s[/b]一定是有一个水晶球! 预测谁会被提名为年度最佳游戏并不是件容易的事!
+    要有那么高的远见，他们必须了解行业的内部运作方式!
   LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
-    任何人都有可能出错，你，我，每个人都有可能出错.然而有一点是肯定的，[b]%s[/b]一直无法预测未来!
+    任何人都有可能出错，你，我，每个人都有可能出错。然而有一点是肯定的，[b]%s[/b]还无法预测未来!
     人们从错误中学到的东西比从成功中学到的东西更多。无论如何，这句话我们可能在[b]%s[/b]经常听到。
   LABEL_INTERVIEW_BIG_YES: |
     好吧，经过一番努力，这是肯定的。
   LABEL_INTERVIEW_BIG_NO: |
-    如果是这样的话，我们将是第一个惊讶的人!
+    如果是这样的话，我们将是第一个感到惊讶的人!
   LABEL_INTERVIEW_REFUSAL: |
     对不起，浪费了你的时间。
   LABEL_INTERVIEW_ACCEPT: |
-    当然了
+    当然了。
   LABEL_ADVANCED_START_TOOLTIP: |
-    如果这是你的第一场比赛，最好不要勾选此框。
+    如果这是你的第一游戏，最好不要勾选此框。
 
-    高级开始从游戏一开始就解锁所有功能。
+    高级模式从游戏一开始就将解锁所有功能。
   LABEL_NUMBER_OF_PRODUCED_POINTS: 生产点数量
   LABEL_REQUIRE_FANBASE: 需要%s个粉丝来促进销售
   LABEL_MAINTENANCE: 维护
@@ -244,29 +244,29 @@ zh:
     如果您想管理多个 Steam 分支，请选中此框。
     您需要为每个Steam分支创建一个文件夹(default,unstable或oldstable).
   LABEL_MOD_MISSING: >
-    缺少模式，无法加载保存游戏
+    缺少模组，无法加载保存游戏
   LABEL_MOD_BANNED: Mod被禁止
   LABEL_MOD_AGREEMENT: |
     提交此物品即表明您同意了[url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]创意工坊服务条款[/url]
   LABEL_MOD_VERSION: 版本
-  LABEL_MOD_CREATE: 创建一个模式
-  LABEL_MOD_LIST: 列表模式
+  LABEL_MOD_CREATE: 创建一个模组
+  LABEL_MOD_LIST: 模组列表
   LABEL_MOD_NAME: 名称
-  LABEL_MOD_DESCRIPTION: 说明
-  LABEL_MOD_LANGUAGE: 语种
-  LABEL_MOD_VISIBILITY: 可见度
+  LABEL_MOD_DESCRIPTION: 描述
+  LABEL_MOD_LANGUAGE: 语言
+  LABEL_MOD_VISIBILITY: 可见性
   LABEL_MOD_VISIBILITY_PUBLIC: 公众
   LABEL_MOD_VISIBILITY_FRIENDS: 仅限朋友
   LABEL_MOD_VISIBILITY_PRIVATE: 私人
   LABEL_MOD_IMAGE_PREVIEW: 预览图片
-  LABEL_MOD_VIDEO_PREVIEW: 视频预览
+  LABEL_MOD_VIDEO_PREVIEW: 预览视频
   LABEL_MOD_PATH: 绝对路径
   LABEL_MOD_PUBLISHED_DATE: 出版日期
   LABEL_MOD_UPDATE: 更新
   LABEL_MOD_VALIDATE: 验证
   LABEL_MOD_NOT_VALID: 无效
-  LABEL_MOD_CREATED: 创建模式
-  LABEL_MOD_UPDATED: 更新了model
+  LABEL_MOD_CREATED: 模组已创建
+  LABEL_MOD_UPDATED: 模组已发布
   TOOLTIP_HOLD_TO_CLICK: |
     按住点击预设
   LABEL_GAME_EXCLUSIVITY: >
@@ -274,7 +274,7 @@ zh:
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
     你好，[b]%s[/b]。
 
-    我很高兴看到你们工作室出版了高质量的游戏。 我是来谈《[b]%s[/b]》的，这款游戏看起来很有前途，我想帮助你们让它的发行在全球范围内取得成功! [b]%s[/b]会在游戏中出现 我们会将您的游戏和我们的游戏机一起打包。 作为回报，我们希望这款游戏是[b]%s[/b]独占的。 [i](所有移植到非[b]%s[/b]游戏机上的游戏将被取消)[/i]
+    我很高兴看到你们工作室出版了高质量的游戏。 我是来谈《[b]%s[/b]》的，这款游戏看起来很有前途，我想帮助你们让它在全球范围内取得成功! [b]%s[/b]会在游戏中出现 我们会将您的游戏和我们的游戏机一起打包。 作为回报，我们希望这款游戏是[b]%s[/b]独占的。 [i](所有移植到非[b]%s[/b]游戏机上的游戏将被取消)[/i]
     除了展示您的游戏外，我们还将为您提供[b]%s美元[/b]。 成交？
   LABEL_CLOUDS: 在地图上显示云层
   LABEL_AUTOSAVE: 自动保存
@@ -283,23 +283,23 @@ zh:
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
     [b]%s[/b]发布了一款使用你的游戏引擎（[b]%s[/b]）的游戏。
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
-    感谢[b]%s[/b]，你会得到[b]%d%%[/b]的版税。
+    多亏[b]%s[/b]，你会得到[b]%d%%[/b]的版税。
   LABEL_PLATFORM_SELECT_OFFER: |
     自定义报价
   LABEL_PLATFORM_MONEY_OFFER: |
-    钱的报价。[b]%s$[/b]
+    报价：[b]%s$[/b]
   LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
-    专属期： [b]%s[/b]个月
+    专属期：[b]%s[/b]个月
   LABEL_GAMEENGINE_DELETE_TITLE: 删除游戏引擎？
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
-    您即将删除[b]%s[/b]。
+    你正在删除[b]%s[/b]。
     你想继续吗？
   LABEL_PLATFORM_MANUFACTURER_MAIN: |
     有什么可以帮你的？
   LABEL_PLATFORM_MANUFACTURER_ANGRY: |
     别浪费我的时间，小子！
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
-    你不能在这个平台上发布游戏，因为你必须协商解锁。
+    你不能在这个平台上发布游戏，因为你必须先协商解锁。
   LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
     您不能在这个平台上发布游戏，因为您与%s有独家合同。
   LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
@@ -314,9 +314,9 @@ zh:
     我是[b]%s[/b]，我在[b]%s[/b]工作。
     我能为你做什么？
   LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
-    我们花了很多年时间来开发[b]%s[/b]。我很乐意与你们合作，然而不知道贵公司为精彩的[b]%s[/b]带来什么。
+    我们花了很多年时间来开发[b]%s[/b]。我很乐意与你们合作，然而不知道贵公司能为我们美妙的[b]%s[/b]带来什么。
   LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
-    预计销售套数。[b]%s[/b]
+    预计销售套数：[b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     我想在[b]%s[/b]上发布游戏。
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
@@ -335,27 +335,26 @@ zh:
   LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
     谢谢你的时间。
   LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
-    在1982年最后一个季度和1983年初的糟糕业绩之后，Wataggi宣布游戏机市场的业绩下降。电子游戏领域的领军人物远没有达到目标
-    只卖出几百台游戏机，勉强卖出一些2500盒磁带。就家用电脑而言，健康报告也基本是负面的，这也印证了如今这个市场的不确定性。
+    在1982年最后一个季度和1983年初的糟糕表现之后，Wataggi公布了在游戏机市场中的下滑的业绩。电子游戏领域的领军人物远没有达到他们的目标。
+    他们只卖出了几百台游戏机，并且勉强卖出了2500盒磁带。就家用电脑这方面来说，这方面的市场健康报告也大多是负面的，这也印证了这个市场近期的不确定性。
 
-    电子游戏行业的主要玩家预计未来几个月会很困难，如今没有迹象表明情况会有所改善。
-
+    电子游戏行业的主要玩家预计未来几个月会很困难，且如今没有迹象表明情况将会有所改善。
   LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
     市场正在崩溃
   LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
     仲夏时节，电子游戏市场的领导者Wataggi宣布亏损3.56亿美元。Plastics遇到了非常严重的困难，正在退出市场。坊间传言：
-    电子游戏市场正在崩溃，为微电脑让路。
+    电子游戏市场正在崩溃，为微型电脑让路。
 
-    事实上，Wataggi和Plastics的亏损，由纽约证券交易所的股票下跌转述，造成了无端的恐慌。在美国，电子游戏的年销售额为20亿美元，
-    仍然是一个稳固的产业。但近两年的惊人增长已经有所回落。市场正在向高端市场发展，罗伯托工业公司的RobertoVision控制台与家用微型计算机竞争，
+    事实上，Wataggi和Plastics的亏损，由纽约证券交易所的股票下跌转述，造成了无端的恐慌。在美国，电子游戏的年销售额能达到20亿美元，
+    这表明其仍然是一个稳固的产业。但近两年的惊人增长已经开始有所回落。市场正在向高端化发展，与此同时罗伯托工业公司的RobertoVision主机与家用微型计算机竞争，
     同时也在向低端市场发展，即具有令人满意的价格/性能比的设备。
   LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
     市场趋于稳定
   LABEL_PLATFORM_TYPE: 平台类型
   LABEL_PLATFORM_OS: 个人电脑
-  LABEL_PLATFORM_CONSOLE: 控制台
-  LABEL_PLATFORM_HANDLED: 便携式控制台
-  LABEL_WITHDRAW_EMPLOYEE: 提取员工
+  LABEL_PLATFORM_CONSOLE: 主机
+  LABEL_PLATFORM_HANDLED: 掌机
+  LABEL_WITHDRAW_EMPLOYEE: 撤出员工
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
     选择要更新的功能，以满足玩家的期望。
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
