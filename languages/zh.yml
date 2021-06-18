@@ -116,7 +116,7 @@ zh:
   BUTTON_RELEASE_ALL: 全部发布
   TOOLTIP_RELEASE_ALL_BUTTON: |
     发布所有可以发布的游戏、合同与游戏机。    
-  LABEL_PLATFORM_LIST_GAME: 列表视频游戏
+  LABEL_PLATFORM_LIST_GAME: 游戏列表
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 一个全新的组件已发布
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
     %s你好。
@@ -145,17 +145,17 @@ zh:
     尚不支持%s
   LABEL_PLATFORM_NO_COMPONENT: |
     没有选定的部件
-  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 降低制造成本
-  LABEL_FILTER_PLATFORM_RELEASED: 发布主机
-  LABEL_FILTER_PLATFORM_DISCONTINUED: 停止的主机
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 制造成本降低
+  LABEL_FILTER_PLATFORM_RELEASED: 在售的主机
+  LABEL_FILTER_PLATFORM_DISCONTINUED: 退市的主机
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     调整主机的质量。
     
-    一个劣质的主机会更频繁地出现故障。
+    一个劣质的主机预计会更频繁地出现故障。
     购买了有问题的主机的客户将有权获得退款。
   LABEL_PLATFORM_DISCONTINUE: 停止生产
   LABEL_PLATFORM_CHANGE_PRICE: 修改价格
-  LABEL_PLATFORM_UNIT_RETURNED: 返厂数量
+  LABEL_PLATFORM_UNIT_RETURNED: 退货数量
   LABEL_PLATFORM_COST_RATIO: 成本率
   LABEL_PLATFORM_COMPONENT_CONTROLLER: 控制器
   LABEL_PLATFORM_COMPONENT_CPU: 处理器
@@ -172,7 +172,7 @@ zh:
   LABEL_PLATFORM_UNIT_PROFIT: 单位利润
   LABEL_PLATFORM_NAME: “主机名称”
   LABEL_TRADE_PUBLISH_TOOLTIP: |
-    这个出版提议是由%s美元的补助金支持的。
+    这个出版提议是由%s美元的补助金所支持的。
     如果您没有达到%d%%的最低分数，将被处以%s美元的罚款。
   LABEL_CANNOT_HIRE_NO_DESK: |
     你必须要有一个办公桌才能聘请专家。
@@ -356,9 +356,9 @@ zh:
   LABEL_PLATFORM_HANDLED: 掌机
   LABEL_WITHDRAW_EMPLOYEE: 撤出员工
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
-    选择要更新的功能，以满足玩家的期望。
+    选择要改进的方面以达到玩家的期待。
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
-    更新游戏引擎时，会有惩罚。只会影响产生的点数。
+    更新游戏引擎会有一定坏处，会使得所需点数增加。
   LABEL_TOO_MUCH_TIME_SPENT: |
     要么你的开发团队不够平衡，
     要么你在%s上花费的时间比其他开发阶段多了很多。
@@ -368,7 +368,7 @@ zh:
   LABEL_WARNING_THEME_MISSING: 请选择一个主题
   LABEL_BUYABLE: 可买的
   LABEL_IAP_ADD_MICROTRANSATION: >
-    通过单击蓝色按钮添加微交易。
+    通过单击蓝色按钮来添加微交易。
   LABEL_NUMBER_OF_NEW_PLAYERS: 新玩家人数
   LABEL_NUMBER_OF_RETURNING_PLAYERS: 回归玩家数
   LABEL_NUMBER_OF_PLAYER_LOST: 流失的玩家人数
@@ -376,11 +376,11 @@ zh:
     此功能需要以下游戏引擎模块：
   LABEL_ESTIMATED_INCOME: 预计收益
   LABEL_ADS_WARNING: >
-    使用广告时要小心。
-    广告会影响用户保留率。
+    添加广告时要小心。
+    广告会影响用户留存率。
   LABEL_IAP_WARNING: >
-    购买游戏的玩家不喜欢看到广告或在微交易上花钱。
-  LABEL_IAP_NAME: 在应用程序内购买
+    购买游戏的玩家不喜欢看到广告或者在微交易上花钱。
+  LABEL_IAP_NAME: 微交易
   LABEL_IAP_PACK: "包 #%d"
   LABEL_IAP_TYPE_POWER_BOOST: 能力强化
   LABEL_IAP_POWER: 强化等级
@@ -394,26 +394,26 @@ zh:
   LABEL_IAP_RARITY_LEGENDARY: SSR
   LABEL_FINANCIAL_DETAILS: 财务细节
   LABEL_AD_NAME: 广告
-  LABEL_AD_POPUP: 广告弹出窗口
-  LABEL_AD_BANNER: 广告横幅
+  LABEL_AD_POPUP: 弹出窗口广告
+  LABEL_AD_BANNER: 横幅广告
   LABEL_NUMBER_OF_PLAYER: 玩家人数
   LABEL_GAME_ENGINE_LIST: 游戏引擎清单
   LABEL_THEME_LIST: 主题清单
   LABEL_GAME_ANNOUNCEMENT: 游戏公告
-  LABEL_CONVENTION_MESSAGE: 游戏惯例
-  LABEL_NO_FILTER: 没有过滤器
+  LABEL_CONVENTION_MESSAGE: 游戏宣布
+  LABEL_NO_FILTER: 不过滤
   LABEL_GAME_UPDATE_EXPECTED: 等待更新
-  LABEL_GAME_UPDATE_NOTEXPECTED: 不等待更新
+  LABEL_GAME_UPDATE_NOTEXPECTED: 无需更新
   LABEL_MARKETING_CAMPAIGN_ACTIVE: 积极的营销活动
   LABEL_MARKETING_CAMPAIGN_INACTIVE: 没有有效的营销活动
   LABEL_FANBASE_GAIN: 不断增长的粉丝群
   LABEL_FANBASE_LOSS: 粉丝人数下降
   LABEL_MONEY_MAKER: 有利可图
-  LABEL_MONEY_LOSER: 不盈利
+  LABEL_MONEY_LOSER: 无利可图
   LABEL_SELECT_ALL: 全选
-  LABEL_SELECT_NONE: 什么都不选
+  LABEL_SELECT_NONE: 全不选
   LABEL_FREE_GAME: 免费的
-  LABEL_SUBSCRIPTION_PRICE: 认购价
+  LABEL_SUBSCRIPTION_PRICE: 订阅价
   LABEL_GAME_PRICE: 游戏价格
   LABEL_UPDATE_PRICE: 游戏更新价格
   LABEL_X_STUDIOS: "%d间工作室"
@@ -421,7 +421,7 @@ zh:
   LABEL_DISCOUNT: 打折
   LABEL_ORGANIZE_YEARLY: 组织一次展会
   LABEL_YEARLY: 每年
-  LABEL_GAME_UPDATE_REQUIREMENTS: 玩家对更新的请求
+  LABEL_GAME_UPDATE_REQUIREMENTS: 玩家对更新的期待
   LABEL_GAME_UPDATE_HYPE: 游戏更新炒作
   LABEL_GAME_UPDATE: 发布更新
   LABEL_GAME_FREE_UPDATE: 免费更新
@@ -429,78 +429,78 @@ zh:
   LABEL_REPAIR_ALL: 修复所有问题
   LABEL_UNIQUE: 独特
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
-    要激活数字商店，
     您需要至少支持一个平台
-  LABEL_NOT_AVAILABLE: 无法使用
+    才能激活数字商店。
+  LABEL_NOT_AVAILABLE: 不支持
   LABEL_REQUIRED: 需要的
   LABEL_REVIEW_GAMEENGINE_BAD: >
-    他们应该利用控制台的功能
+    他们应该充分利用主机的功能
   LABEL_REVIEW_GAMEENGINE_GOOD: >
-    他们能够充分利用控制台
+    他们能够充分利用主机
   LABEL_GAME_ENGINE: 游戏引擎
   LABEL_FEATURE_LIST: 功能列表
   LABEL_DESIGN_CAPACITY: 产生设计点的能力
-  LABEL_DEVELOPMENT_CAPACITY: 产生发展点的能力
-  LABEL_POLISH_CAPACITY: 产生抛光点的能力
-  LABEL_GAMEENGINE_MAKEFOSS: 免费
+  LABEL_DEVELOPMENT_CAPACITY: 产生开发点的能力
+  LABEL_POLISH_CAPACITY: 产生润色点的能力
+  LABEL_GAMEENGINE_MAKEFOSS: 使其免费
   LABEL_GAMEENGINE_PENALITY: >
-    由于已有代码，升级游戏引擎的费用要高一些。
+    由于历史遗留代码，升级游戏引擎的费用要高一些。
   LABEL_GAMEENGINE_READY: 游戏引擎准备就绪
   LABEL_GAMEENGINE_UPDATE: 更新这个游戏引擎
   LABEL_GAMEENGINE_LIST: >
     市场上可用的游戏引擎列表
-  LABEL_FOSS: 免费开源的自由软件
+  LABEL_FOSS: 免费开源软件
   LABEL_PROPRIETARY: 商业软件
   LABEL_OWNER: 纯私有软件
-  LABEL_PLATFORM_GPU_CAPABILITY: 图形功能
+  LABEL_PLATFORM_GPU_CAPABILITY: 图形能力
   LABEL_PLATFORM_CPU_CAPABILITY: 计算能力
-  LABEL_PLATFORM_GPU_COSTS: 图形力消耗
-  LABEL_PLATFORM_CPU_COSTS: 计算力消耗
+  LABEL_PLATFORM_GPU_COSTS: 图形能力使用
+  LABEL_PLATFORM_CPU_COSTS: 计算能力使用
   LABEL_GAMEENGINE_DONATION_TITLE: 您收到了捐款
   LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
     你好，
 
-    这封电子邮件确认您已收到[b]%s[/b]美元的捐款
+    这封电子邮件用于确认您已收到[b]%s[/b]美元的捐款
     用于游戏引擎[b]%s[/b]
 
-    问候，
+    此致，
     BinoPal
   LABEL_GAMEENGINE_FEATURE_TITLE: 实施新功能
   LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
     你好，
 
-    [b]%s[/b]位于一个快速成长的社区。
+    [b]%s[/b]位于一个快速成长的社群。
     他们实现了一项新功能：
     [b]%s[/b]
 
-    这个是免费的！
+    这是免费的！
   LABEL_GAME_ENGINE_TITLE: 可用的新技术
   LABEL_GAME_ENGINE_DESCRIPTION: >
     准备将新技术添加到您的游戏引擎中：
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     您现在可以创建自己的游戏引擎。
-    游戏引擎可提高员工产生的积分数量。
+    游戏引擎可提高员工产生的点数数量。
   LABEL_GAME_ENGINE_ADS: 广告模块
   LABEL_GAME_ENGINE_IAP: 微交易模块
-  LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D图形学单色"
-  LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D图形学8位色"
-  LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D图形学16位色"
-  LABEL_GAME_ENGINE_2D_24BITCOLOR: "2D图形学24位色"
-  LABEL_GAME_ENGINE_2D_32BITCOLOR: "2D图形学32位色"
-  LABEL_GAME_ENGINE_3D_1BITCOLOR: "3D图形学单色"
-  LABEL_GAME_ENGINE_3D_8BITCOLOR: "3D图形学8位色"
-  LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D图形学16位色"
-  LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D图形学24位色"
-  LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D图形学32位色"
-  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR图形学"
-  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "体素图像"
+  LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D图形单色"
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D图形8位色"
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D图形16位色"
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: "2D图形24位色"
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: "2D图形32位色"
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: "3D图形单色"
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: "3D图形8位色"
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D图形16位色"
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D图形24位色"
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D图形32位色"
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR图形"
+  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "体素图形"
   LABEL_GAME_ENGINE_BASIC_DIALOG: "基本对话"
-  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "交互对话"
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "交互式对话"
   LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "AI生成对话"
-  LABEL_GAME_ENGINE_JOYSTICK: "操纵杆支持"
-  LABEL_GAME_ENGINE_GAMEPAD: "游戏手柄支持"
-  LABEL_GAME_ENGINE_MOUSE: "滑鼠支援"
-  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "预建角色"
+  LABEL_GAME_ENGINE_JOYSTICK: "摇杆支持"
+  LABEL_GAME_ENGINE_GAMEPAD: "手柄支持"
+  LABEL_GAME_ENGINE_MOUSE: "鼠标支持"
+  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "预生成角色"
   LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "可自定义角色"
   LABEL_GAME_ENGINE_DIFFICULTY: "难度"
   LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "动态难度"
@@ -512,27 +512,27 @@ zh:
   LABEL_GAME_ENGINE_51_SOUND: "环绕声"
   LABEL_GAME_ENGINE_BASIC_MUSIC: "基本音乐"
   LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "管弦乐"
-  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "互动音乐"
-  LABEL_GAME_ENGINE_PASSWORD_SAVE: "基于密码的保存"
-  LABEL_GAME_ENGINE_BASIC_SAVE: "存档"
+  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "交互式音乐"
+  LABEL_GAME_ENGINE_PASSWORD_SAVE: "密码存档"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "基础存档"
   LABEL_GAME_ENGINE_CLOUD_SAVE: "云存档"
   LABEL_GAME_ENGINE_BASIC_PHYSICS: "基本物理"
-  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "先进物理"
-  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "现实物理"
+  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "改良物理"
+  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "逼真的物理"
   LABEL_GAME_ENGINE_DEDICATED_SERVER: "专用服务器"
   LABEL_GAME_ENGINE_SOCIAL_NETWORK_INTEGRATION: "集成社交网络"
-  LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "简单的动画"
+  LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "简单动画"
   LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: "动态动画"
-  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "AI生成的动画"
+  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "AI生成动画"
   LABEL_GAME_ENGINE_BASIC_TUTORIEL: "基本教程"
   LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "交互式教程"
   LABEL_GAME_ENGINE_LOADING_SCREEN: "加载画面"
   LABEL_GAME_ENGINE_BACKGROUND_LOADING: "后台加载"
-  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "简单的过场动画"
+  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "简单过场动画"
   LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "先进过场动画"
   LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "逼真的过场动画"
   LABEL_GAME_ENGINE_LEADERBOARD: "本机排行榜"
-  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "联网排行榜"
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "云端排行榜"
   LABEL_BUSY: 忙碌
   LABEL_AVAILABLE: 可用的
   LABEL_AUTOATTEND_CONVENTION: 自动参加所有展会。
@@ -541,33 +541,32 @@ zh:
   LABEL_TOTAL_COST: 总费用
   LABEL_RENT_SERVER_COST: 服务器租赁费用
   LABEL_SERVER_USAGE_THRESHOLD: >
-    一旦服务器负载达到此阈值，请租用新服务器：
+    当服务器负载达到此阈值时租用新服务器：
   LABEL_STEAM_NOT_DETECTED: |
     无法连接至Steam。
 
     请重新启动Steam。
     如果问题仍然存在，请与我们联系：
     contact@binogure-studio.com
-  LABEL_ONLINE_GAMES: 网游
+  LABEL_ONLINE_GAMES: 在线游戏
   LABEL_CLOUD_SERVER: >
-    云计算是计算机系统资源的按需可用性
+    云计算可以按需分配计算机资源
   TOOLTIP_CLOUD_SERVERS: |
-    不再需要容纳数百台服务器的大型建筑物
+    不再需要大型建筑物以容纳数百台服务器
   LABEL_RENT_SERVERS: 租用服务器
   LABEL_ENABLED: 启用
   LABEL_DISABLED: 停用
-  LABEL_TOTAL_UNIT_SOLD: 总销售量
+  LABEL_TOTAL_UNIT_SOLD: 总销量
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: 您的数字商店不支持此游戏平台
-  LABEL_DISCONTINUE_PLATFORM_TITLE: 停产平台
+  LABEL_DISCONTINUE_PLATFORM_TITLE: 停产游戏平台
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
     您仍然通过数字商店在'%s'上至少销售一款游戏。
 
     您确定要停止支持平台'%s'吗？
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
-    为了支持多个平台，
-    您需要为数字商店开发跨平台功能。
-  LABEL_DS_SUPPORT_ALL_PLATFORMS: 支持所有游戏机
-  LABEL_NUMBER_OF_PLATFORMS: 游戏机数量
+    您需要为数字商店开发跨平台功能以支持多于一个平台
+  LABEL_DS_SUPPORT_ALL_PLATFORMS: 支持所有游戏平台
+  LABEL_NUMBER_OF_PLATFORMS: 游戏平台数量
   LABEL_SERVER_LOAD: 服务器负载
   LABEL_SALES_BONUS: 促进销售
   LABEL_SERVER_COST: 服务器费用
@@ -576,26 +575,26 @@ zh:
   LABEL_DS_CCU: 平台用户
   LABEL_DS_CHAT_TITLE: 聊天
   LABEL_DS_CHAT_DESCRIPTION: |
-    允许用户立即彼此聊天。
+    允许用户间进行实时聊天。
   LABEL_DS_FORUM_TITLE: 论坛
   LABEL_DS_FORUM_DESCRIPTION: |
-    允许用户在数字商店上发布消息。
+    允许用户在数字商店上发布信息。
   LABEL_DS_CROSSPLATFORM_TITLE: 跨平台的
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     添加跨平台支持。
-  LABEL_DS_BOTPROTECTION_TITLE: 机器人保护
+  LABEL_DS_BOTPROTECTION_TITLE: 防机器人
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
     缓解机器人攻击。
   LABEL_DS_WORKSHOP_TITLE: 创意工坊
   LABEL_DS_WORKSHOP_DESCRIPTION: |
-    允许用户共享他们创建的mod。
-  LABEL_DS_SUPPORT_TITLE: 支持
+    允许用户共享他们创建的Mod。
+  LABEL_DS_SUPPORT_TITLE: 技术支持
   LABEL_DS_SUPPORT_DESCRIPTION: |
     向数字商店添加技术支持。
-  LABEL_DS_REVIEW_TITLE: 评论
+  LABEL_DS_REVIEW_TITLE: 评测
   LABEL_DS_REVIEW_DESCRIPTION: |
     允许用户查看游戏。
-  LABEL_DS_STORE_TITLE: 商店
+  LABEL_DS_STORE_TITLE: 销售
   LABEL_DS_STORE_DESCRIPTION: |
     允许竞争对手在您的数字商店上销售游戏。
   LABEL_DS_ANALYTICS_TITLE: 分析
@@ -604,10 +603,10 @@ zh:
   LABEL_DS_INVENTORY_TITLE: 库存
   LABEL_DS_INVENTORY_DESCRIPTION: |
     允许用户拥有，交换和转售物品。
-  LABEL_DS_WISHLIST_TITLE: 收藏
+  LABEL_DS_WISHLIST_TITLE: 愿望清单
   LABEL_DS_WISHLIST_DESCRIPTION: |
     允许用户愿望清单游戏。
-  LABEL_DS_ACHIEVEMENTS_TITLE: 成就成就
+  LABEL_DS_ACHIEVEMENTS_TITLE: 成就
   LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
     允许用户跟踪他们在游戏中的进度。
   LABEL_DS_GIFTCARDS_TITLE: 礼品卡
@@ -616,9 +615,9 @@ zh:
   LABEL_DS_MARKETPLACE_TITLE: 市场
   LABEL_DS_MARKETPLACE_DESCRIPTION: |
     允许用户转售他们的游戏。
-  LABEL_DS_SALES_TITLE: 天平
+  LABEL_DS_SALES_TITLE: 折扣
   LABEL_DS_SALES_DESCRIPTION: |
-    允许您为游戏创建余额。
+    允许您为游戏创建折扣。
   LABEL_HIRING_COSTS: 招聘费用
   LABEL_COMPLETE: 完成
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -633,16 +632,16 @@ zh:
     恭喜！
   LABEL_HACKING_INTRODUCTION: |
     欢迎使用黑客模拟器。
-    要破解，请点击“开始”
+    请点击“开始”以开始破解。
   LABEL_OPEN_CONSOLE: 点击“开始”进行入侵
-  LABEL_DOWNLOADING: 下载
+  LABEL_DOWNLOADING: 正在下载
   LABEL_TARGET_LOCALIZING: 检测到入侵
   LABEL_CONNECTION_LOST: 连接丢失
   LABEL_ACCESS_GRANTED: 授予访问权限
-  LABEL_CLICK_FOR_ACTION: 点击
+  LABEL_CLICK_FOR_ACTION: 点击以打开菜单
   LABEL_NO_GAME_INDEV: |
-    没有正在开发的游戏
-  LABEL_ALREADY_REGISTERED: 注册
+    目前没有正在开发的游戏
+  LABEL_ALREADY_REGISTERED: 已加入
   LABEL_NET_PROFITS: 净利润
   LABEL_ENERGY: 活力
   LABEL_LOSE: 你失败了
@@ -654,12 +653,12 @@ zh:
   LABEL_SELECT_GAME_OF_THE_YEAR: 选择要给玩家看的游戏演示
   LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: 发布年度游戏纪念版
   LABEL_GAME_OF_THE_YEAR: >
-    最近这几年，游戏杂志都将会推出它们专属的游戏排名名单。
+    最近这些年，游戏杂志都会推出它们自己的游戏排名名单。
     最近的一次排行似乎已经公示，这就是年度游戏排行。
   LABEL_RIGHT_CLICK_TO_CLOSE: 按鼠标右键关闭
   LABEL_STARTING_YEAR: 从某年开始
   LABEL_CURRENCY_UNLIMITED: 无限金钱
-  LABEL_ADVANCED_START: 正常开局
+  LABEL_ADVANCED_START: 自定义开局
   LABEL_WORKING: 工作
   LABEL_DEFAULT: 预设的
   LABEL_DEVELOPER: 开发人员
@@ -688,13 +687,13 @@ zh:
   LABEL_THANKYOU_PURCHASING: |
     您好，希望你能玩得开心
 
-    您能购买CityGameStudio来支持支持我吗？
-    没有你的支持，我真的无法继续努力地改进City Game Studio。
+    您能购买CityGameStudio来支持我吗？
+    没有你的支持，我将无法继续努力改进City Game Studio。
 
     因此，如果您喜欢玩City Game Studio，如果您喜欢独立游戏，请支持一下我。在此向您鞠躬。
 
     Binogure
-  LABEL_CREATE_POSTMORTEM: 游戏报告
+  LABEL_CREATE_POSTMORTEM: 制作游戏报告
   LABEL_VENDING_MACHINE: 售货机
   LABEL_GAME_SPEED: 游戏速度
   LABEL_SPEED_NORMAL: 正常
@@ -702,7 +701,7 @@ zh:
   LABEL_SPEED_SLOWEST: 最慢
   LABEL_FIRE_UNASSIGNED_EMPLOYEE: 炒掉未分配的员工
   LABEL_FURNISH_MOD: 自动装修模式
-  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: 只有空空如也的工作室可以自动装修
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: 只有空的工作室可以自动装修
   LABEL_HAPPINESS: 满意
   LABEL_FILTER_BY: 过滤
   LABEL_DOOR: 门
@@ -726,10 +725,10 @@ zh:
     此致，
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
-    暂时无法发布新游戏
-  LABEL_EDIT_GAME: 发布游戏价格
+    目前无法发布新游戏
+  LABEL_EDIT_GAME: 发布游戏邀约
   LABEL_EDIT_GAME_ANNOUNCE: |
-    %s将在下一个游戏%s上运行
+    %s将在%s上运行
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     有谣言流传说似乎%s对他们与%s做的交易不满意
   LABEL_REQUIRE_EMPLOYEE: |
@@ -755,20 +754,20 @@ zh:
   LABEL_POINTRATIO_GOOD: |
     在[b]%s[/b]，他们知道如何管理[b]%s[/b]
   LABEL_POINTRATIO_BAD: |
-    [b]%s[/b] 是他们的死门。他们的制作团队的能力不够平均。
+    [b]%s[/b] 是他们的死穴。他们的制作团队的能力不够平均。
   LABEL_REVIEW_PLATFORM_GOOD: |
     [b]%s[/b]拥有一支优秀的团队，他们在各个方面都很无敌。
   LABEL_REVIEW_PLATFORM_BAD: |
-    现在是 [b]%s[/b]雇用更多员工的时候了。他们没有足够的人力在[b]%s[/b]上发布[b]%s[/b]游戏。
+    现在是[b]%s[/b]雇用更多员工的时候了。他们没有足够的人力在[b]%s[/b]上发布[b]%s[/b]游戏。
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b]不符合他们的声誉。 我们对他们有更高的期待，尤其是在他们的游戏评测之后[b]%s[/b]
+    [b]%s[/b]不符合他们的声誉。 我们对他们有更高的期待，尤其是在他们的[b]%s[/b]之后。
   LABEL_REVIEW_COMBO_GOOD: |
     [b]%s[/b] 尝试了新的组合，結果十分适合他们。 这是一款出色的[b]%s[/b]游戏
   LABEL_REVIEW_COMBO_BAD: |
-    这只是另一个[b]%s[/b]游戏。 他们必须在[b]%s[/b]学会更新
+    这只是另一个[b]%s[/b]游戏。 他们必须在[b]%s[/b]学会自我更新。
   LABEL_CRACKED: 破解
   LABEL_SELECT_COMPANY_SPECIALIZATION: 主打的游戏类型
-  LABEL_DISCORD_COMMUNITY: Discord社区
+  LABEL_DISCORD_COMMUNITY: Discord 社区
   LABEL_LAST_MONTH: 将持续%s个月
   LABEL_SUCCESS_RATE: 成功概率
   LABEL_RISKS: 涉及的风险
@@ -801,7 +800,7 @@ zh:
 
     我们很高兴地宣布由[b]%s[/b]举行在[b]%s[/b]。
 
-    展会将持续3天，我们正在等待[b]%s[/b]位访客。
+    展会将持续3天，我们预计会有[b]%s[/b]位访客。
     你現在可以租一个展台来展示你优秀的作品。请提早申请，展位有限。
 
     此致
@@ -858,15 +857,16 @@ zh:
   LABEL_COMPANY_WIDE: 公司范围
   LABEL_STUDIO_WIDE: 此工作室
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    你必须至少有5人工作才能对发行商的开价作出申请。
+    你必须至少有5人工作才能对发行商达成交易。
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s已取消"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
-    对于 [b]%s[/b] (%s)，
+    致 [b]%s[/b] (%s)，
     
-    我们非常失望地知道你取消了[b]%s[/b]的开发。
-    根据正式签署的合同条款中的第453页，第72d段，W段，粉红页，你必须支付违约金[b]%s$[/b] ，请尽快将款项交付与我们。  此致，  诚实的律师事务所。
-
-    [b]%s[/b]
+    我们对于你们取消了[b]%s[/b]的开发感到非常失望。
+    根据正式签署的合同条款中的第453页，第72d段，W段，粉红页，你必须支付违约金[b]%s$[/b] ，请尽快将款项交付与我们。  
+    
+    此致， 
+    诚实的律师事务所，[b]%s[/b]
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: 终止合同
   LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
     对于[b]%s[/b] (%s)，
@@ -879,7 +879,7 @@ zh:
   LABEL_SELECT_GAME_PRESENT: 选择要给玩家们展示的游戏
   LABEL_ROYALTIES: 版税
   LABEL_PENALITY: 违约金
-  LABEL_NOTE_MIN: 最小得分
+  LABEL_NOTE_MIN: 最低得分
   LABEL_MARKETING_GLOBAL_ITEM: 全面营销
   LABEL_MARKETING_MAGAZINE_ITEM: 杂志
   LABEL_MARKETING_TV_ITEM: 电视
@@ -927,12 +927,12 @@ zh:
   LABEL_CAMPAIGN_DEMO: 发布演示
   LABEL_CAMPAIGN_FULL: 投放广告
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
-    [b]%s[/b] 刚刚公布了他们的下一款游戏：[b]%s[/b]
+    [b]%s[/b] 刚刚公开了他们的下一款游戏：[b]%s[/b]
     它将在[b]%s[/b]上发布
 
     %s
 
-    祝一切顺利
+    祝一切顺利！
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     粉丝们非常兴奋，我们同样也HIGH起来了！
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
@@ -946,10 +946,10 @@ zh:
   LABEL_COMMUNITY_MANAGER: 社区经理
   LABEL_SOUND_COMPOSER: 音乐作曲者
   LABEL_SPECIAL_THANKS: 特别鸣谢
-  LABEL_VISITORS: "%d访客"
+  LABEL_VISITORS: "%d 访客"
   LABEL_ATTENDANCE: 展会到场人数
-  LABEL_NONE: 无
-  LABEL_NO_BUILDING: 没有可用的建筑物
+  LABEL_NONE: 空
+  LABEL_NO_BUILDING: 无可用建筑物
   LABEL_NO_CONVENTION: 没有展会计划
   LABEL_CONVENTION_LAST_DATE: 上一次展会
   LABEL_DATE: 截止日期
@@ -1295,7 +1295,7 @@ zh:
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     两兄弟刚刚在Blue Studio发布了一款新游戏。
     它改变了游戏界，推出了一种新的游戏类型：神秘类型。
-  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: 发明了神秘
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: 发明了神秘类型
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar刚刚发布了一款彻底改变游戏界的新游戏。它创造了新的游戏类型：侠盗类。
   LABEL_UNLOCK_HTA_LIKE_TITLE: 已发明侠盗类
@@ -1576,8 +1576,8 @@ zh:
   LABEL_PENALTY_COST: 司法已裁定，你必须支付%s$
   LABEL_EMPLOYEE_HIRED: 你雇用了%s
   LABEL_GAME_CRACKED: |
-    %s产生的收入除以3
-    就不再与您的视频游戏竞争。
+    %s产生的收入将只有原本的三分之一
+    且将不再与您的视频游戏竞争。
   LABEL_GENRE_STOLEN: 你已经学会了%s
   LABEL_STUDIO_SOLD: 他们卖掉了%s
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
@@ -1735,8 +1735,8 @@ zh:
 
   GAME_UPDATE: 游戏更新
   GAMEENGINE: 游戏引擎
-  GAMEEDITION_SUBMIT: 发布发行价
-  GAMEEDITION_RECEIVE: 接受发行价
+  GAMEEDITION_SUBMIT: 发布报价
+  GAMEEDITION_RECEIVE: 接受报价
   WORLDMAP: 城市地图
   MARKETING_CAMPAIGN_MAGAZINE: 媒体宣传活动
   MARKETING_CAMPAIGN_TV: 电视广告活动
