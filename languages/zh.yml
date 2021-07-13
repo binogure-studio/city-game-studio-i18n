@@ -77,8 +77,18 @@ zh:
   BUTTON_COPY: 复制
   BUTTON_HIRE_ALL: 雇用所有人
   BUTTON_HIRE_AND_ASSIGN: 雇用并分配
+  BUTTON_TRAINING_START: 开始训练
+  BUTTON_TRAINING_STOP: 停止训练
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: 大学
+  LABEL_UNIVERSITY_TRAINING_TYPE: 培训类型
+  LABEL_UNIVERSITY_LECTURE_HALL: 报告厅的数量
+  LABEL_UNIVERSITY_AUTOTRAINING: 自动培训
+  LABEL_UNIVERSITY_ABANDON: 放弃建筑
+  LABEL_UNIVERSITY_DESTROY: 毁坏建筑
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: 一般培训
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: 特定培训
   LABEL_SOFA: 沙发
   LABEL_MISC: 杂项
   LABEL_MINUTES: 纪要
@@ -1606,6 +1616,14 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    训练你的员工，直到他们变得完美，或在固定的时间内。
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    会自动将员工送去培训，直到他们变得完美或有工作要做为止。需要人力资源。
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    对员工进行视频游戏开发各方面的培训。
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    对员工进行视频游戏开发的某一特定方面的培训。
   TOOLTIP_PLATFORM_MARKETING: |
     激活后，一旦平台发布，营销活动就会开始。
   TOOLTIP_MENU_CREATE_GAME: |

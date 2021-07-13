@@ -76,8 +76,18 @@ ar:
   BUTTON_COPY: لنسخ
   BUTTON_HIRE_ALL: وظف الجميع
   BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
+  BUTTON_TRAINING_START: ابدأ التدريب
+  BUTTON_TRAINING_STOP: توقف عن التدريب
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: جامعة
+  LABEL_UNIVERSITY_TRAINING_TYPE: نوع التدريب
+  LABEL_UNIVERSITY_LECTURE_HALL: عدد قاعات المحاضرات
+  LABEL_UNIVERSITY_AUTOTRAINING: التدريب التلقائي
+  LABEL_UNIVERSITY_ABANDON: التخلي عن المبنى
+  LABEL_UNIVERSITY_DESTROY: دمر المبنى
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: التدريب العام
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: تدريب محدد
   LABEL_SOFA: كنبة
   LABEL_MISC: متفرقات
   LABEL_MINUTES: الدقائق
@@ -1682,6 +1692,16 @@ ar:
     قد ترغب في جعل اللعبة أصغر قليلاً لبيعها بشكل أفضل. لزيادة عدد متابعيك ،
     قد ترغب أيضًا في تلقي عروض لمنشورات من شركات أخرى.
 
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    قم بتدريب موظفيك حتى يصبحوا مثاليين أو لفترة محددة من الوقت.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    سيرسل الموظفين تلقائيًا إلى التدريب حتى يصبحوا مثاليين أو حتى تكون هناك مهمة يجب القيام بها.
+
+    يتطلب موارد بشرية.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    تدريب الموظفين في كل جانب من جوانب تطوير ألعاب الفيديو.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    تدريب الموظفين على جانب معين من تطوير ألعاب الفيديو.
   TOOLTIP_PLATFORM_MARKETING: |
     بمجرد التنشيط ، ستبدأ الحملة التسويقية بمجرد إصدار وحدة التحكم.
   TOOLTIP_MENU_CREATE_GAME: |

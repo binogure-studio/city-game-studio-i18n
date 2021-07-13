@@ -77,8 +77,18 @@ ko:
   BUTTON_COPY: 복사
   BUTTON_HIRE_ALL: 모두 고용
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
+  BUTTON_TRAINING_START: 훈련 시작
+  BUTTON_TRAINING_STOP: 훈련 중지
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: 대학
+  LABEL_UNIVERSITY_TRAINING_TYPE: 훈련 유형
+  LABEL_UNIVERSITY_LECTURE_HALL: 강의실 수
+  LABEL_UNIVERSITY_AUTOTRAINING: 자동 훈련
+  LABEL_UNIVERSITY_ABANDON: 건물 포기
+  LABEL_UNIVERSITY_DESTROY: 건물 파괴
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: 일반 교육
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: 특정 교육
   LABEL_SOFA: 소파
   LABEL_MISC: 여러 가지 잡다한
   LABEL_MINUTES: 의사록
@@ -1666,6 +1676,16 @@ ko:
     팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    직원이 완벽해질 때까지 또는 일정 시간 동안 교육하십시오.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    그들은 완벽하거나해야 할 일이있을 때까지 때까지 의지가 자동으로 훈련에 직원을 보냅니다.
+
+    인적 자원이 필요합니다. 
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    비디오 게임 개발의 모든 측면에서 직원을 교육합니다.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    비디오 게임 개발의 특정 측면에서 직원을 교육합니다.
   TOOLTIP_PLATFORM_MARKETING: |
     활성화되면 콘솔이 출시되는 즉시 마케팅 캠페인이 시작됩니다.
   TOOLTIP_MENU_CREATE_GAME: |

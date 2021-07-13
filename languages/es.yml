@@ -77,8 +77,18 @@ es:
   BUTTON_COPY: Copia
   BUTTON_HIRE_ALL: Contratar a todo el mundo
   BUTTON_HIRE_AND_ASSIGN: Contratar y asignar
+  BUTTON_TRAINING_START: Empezar a entrenar
+  BUTTON_TRAINING_STOP: Detener el entrenamiento
   
   # Etiquetas, descripciones
+  LABEL_UNIVERSITY: Universidad
+  LABEL_UNIVERSITY_TRAINING_TYPE: Tipo de formación
+  LABEL_UNIVERSITY_LECTURE_HALL: Número de aulas
+  LABEL_UNIVERSITY_AUTOTRAINING: Autoformación
+  LABEL_UNIVERSITY_ABANDON: Abandonar el edificio
+  LABEL_UNIVERSITY_DESTROY: Destruir el edificio
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Formación general
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Formación específica
   LABEL_SOFA: Sofá
   LABEL_MISC: Varios
   LABEL_MINUTES: minutos
@@ -1696,6 +1706,18 @@ es:
     Para aumentar tu número de fans, también puedes aceptar ofertas de publicaciones de otras empresas.
 
   # Información
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Entrena a tus empleados hasta que sean perfectos
+    o durante un tiempo determinado.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Enviará automáticamente a los empleados a la formación hasta que sean perfectos
+    o hasta que haya un trabajo que hacer.
+
+    Requiere un recurso humano.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Forma al personal en todos los aspectos del desarrollo de videojuegos.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Forma al personal en un aspecto específico del desarrollo de videojuegos.
   TOOLTIP_PLATFORM_MARKETING: |
     Una vez activada, la campaña de marketing
     comenzará en cuanto la consola salga a la venta.

@@ -77,8 +77,18 @@ pt:
   BUTTON_COPY: Cópia
   BUTTON_HIRE_ALL: Contrate todos
   BUTTON_HIRE_AND_ASSIGN: Alugue e atribua
+  BUTTON_TRAINING_START: Começar a formação
+  BUTTON_TRAINING_STOP: Parar a formação
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: Universidade
+  LABEL_UNIVERSITY_TRAINING_TYPE: Tipo de formação
+  LABEL_UNIVERSITY_LECTURE_HALL: Número de salas de conferências
+  LABEL_UNIVERSITY_AUTOTRAINING: Auto-formação
+  LABEL_UNIVERSITY_ABANDON: Abandonar o edifício
+  LABEL_UNIVERSITY_DESTROY: Destruir o edifício
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Formação geral
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Formação específica
   LABEL_SOFA: Sofá
   LABEL_MISC: Diversos
   LABEL_MINUTES: acta
@@ -1699,6 +1709,18 @@ pt:
     Para aumentar o seu número de adeptos, poderá também querer aceitar ofertas para publicações de outras empresas.
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Treine os seus empregados até se tornarem perfeitos
+    ou por um período fixo de tempo.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Enviará automaticamente os seus empregados para formação até estarem perfeitos
+    ou até haver um trabalho a fazer.
+
+    Requer recursos humanos.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Treina o pessoal em todos os aspectos do desenvolvimento de jogos de vídeo.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Treina o pessoal num aspecto específico do desenvolvimento de jogos de vídeo.
   TOOLTIP_PLATFORM_MARKETING: |
     Uma vez activada, a campanha de marketing
     terá início assim que a consola for lançada.

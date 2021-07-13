@@ -77,8 +77,18 @@ en:
   BUTTON_COPY: Copy
   BUTTON_HIRE_ALL: Hire everybody
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
+  BUTTON_TRAINING_START: Start training
+  BUTTON_TRAINING_STOP: Stop training
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: University
+  LABEL_UNIVERSITY_TRAINING_TYPE: Training type
+  LABEL_UNIVERSITY_LECTURE_HALL: Number of lecture hall
+  LABEL_UNIVERSITY_AUTOTRAINING: Auto-training
+  LABEL_UNIVERSITY_ABANDON: Abandon the building
+  LABEL_UNIVERSITY_DESTROY: Destroy the building
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: General training
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specific training
   LABEL_SOFA: Sofa
   LABEL_MISC: Miscellaneous
   LABEL_MINUTES: minutes
@@ -1686,6 +1696,16 @@ en:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Train your employees till they become perfect or for a fixed
+    amount of time.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Will automatically sends employees to training until they're perfect
+    or until there is a job to do. Requires a HR.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Trains staff in every aspect of video game development.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Trains staff in a specific aspect of video game development.
   TOOLTIP_PLATFORM_MARKETING: |
     Once activated, the marketing campaign will begin
     as soon as the console is released.

@@ -77,8 +77,18 @@ ru:
   BUTTON_COPY: Скопировать
   BUTTON_HIRE_ALL: Нанять на работу всех
   BUTTON_HIRE_AND_ASSIGN: Нанять и разместить
+  BUTTON_TRAINING_START: Начать обучение
+  BUTTON_TRAINING_STOP: Остановить обучение
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: Университет
+  LABEL_UNIVERSITY_TRAINING_TYPE: Тип обучения
+  LABEL_UNIVERSITY_LECTURE_HALL: Количество лекционных аудиторий
+  LABEL_UNIVERSITY_AUTOTRAINING: Автотренинг
+  LABEL_UNIVERSITY_ABANDON: Бросить здание
+  LABEL_UNIVERSITY_DESTROY: Разрушить здание
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Общее обучение
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Специальное обучение
   LABEL_SOFA: Диван
   LABEL_MISC: Разное
   LABEL_MINUTES: минут
@@ -1713,6 +1723,18 @@ ru:
     Чтобы увеличить число своих поклонников, вы также можете принимать предложения о публикации от других компаний.
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Обучайте своих сотрудников, пока они не станут совершенными
+    или в течение определенного времени.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Автоматически отправляет сотрудников на обучение, пока они не станут
+    совершенными или пока не появится работа.
+
+    Требует наличия человеческих ресурсов.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Обучает персонал всем аспектам разработки видеоигр.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Обучает персонал определенному аспекту разработки видеоигр.
   TOOLTIP_PLATFORM_MARKETING: |
     После активации, маркетинговая кампания начнется,
     как только консоль будет выпущена.

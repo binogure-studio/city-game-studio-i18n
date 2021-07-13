@@ -77,8 +77,18 @@ tr:
   BUTTON_COPY: Kopyalamak
   BUTTON_HIRE_ALL: Herkesi işe alın
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
+  BUTTON_TRAINING_START: Antrenmana başla
+  BUTTON_TRAINING_STOP: Eğitimi durdur
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: Üniversite
+  LABEL_UNIVERSITY_TRAINING_TYPE: Eğitim türü
+  LABEL_UNIVERSITY_LECTURE_HALL: Konferans salonu sayısı
+  LABEL_UNIVERSITY_AUTOTRAINING: Otomatik eğitim
+  LABEL_UNIVERSITY_ABANDON: binayı terk et
+  LABEL_UNIVERSITY_DESTROY: binayı yok et
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Genel Eğitim
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Özel eğitim
   LABEL_SOFA: Kanepe
   LABEL_MISC: Çeşitli
   LABEL_MINUTES: dakika
@@ -1672,6 +1682,16 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Çalışanlarınızı mükemmel hale gelene kadar veya belirli bir süre için eğitin.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Çalışanları mükemmel olana veya yapacak bir iş olana kadar otomatik olarak eğitime gönderir.
+
+    Bir insan kaynağı gerektirir. 
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Personeli video oyunu geliştirmenin her alanında eğitir.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Personeli video oyunu geliştirmenin belirli bir yönü konusunda eğitir.
   TOOLTIP_PLATFORM_MARKETING: |
     Etkinleştirildiğinde, pazarlama kampanyası konsol
     piyasaya çıkar çıkmaz başlayacaktır.

@@ -77,8 +77,18 @@ nl:
   BUTTON_COPY: Kopieer
   BUTTON_HIRE_ALL: Huur iedereen in
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
+  BUTTON_TRAINING_START: Start training
+  BUTTON_TRAINING_STOP: Stop de opleiding
 
   # Labels, descriptive
+  LABEL_UNIVERSITY: Universiteit
+  LABEL_UNIVERSITY_TRAINING_TYPE: Type opleiding
+  LABEL_UNIVERSITY_LECTURE_HALL: Aantal collegezalen
+  LABEL_UNIVERSITY_AUTOTRAINING: Auto-opleiding
+  LABEL_UNIVERSITY_ABANDON: Verlaat het gebouw
+  LABEL_UNIVERSITY_DESTROY: Vernietig het gebouw
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Algemene opleiding
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specifieke opleiding
   LABEL_SOFA: Sofa
   LABEL_MISC: Diversen
   LABEL_MINUTES: minuten
@@ -1680,6 +1690,17 @@ nl:
     Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Train je werknemers tot ze perfect zijn of voor een bepaalde tijd.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Stuurt automatisch werknemers naar training tot ze perfect zijn
+    of tot er een job te doen is.
+
+    Vereist een personeelsafdeling.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Traint het personeel in elk aspect van de ontwikkeling van videospelletjes.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Traint personeel in een specifiek aspect van de ontwikkeling van videospellen.
   TOOLTIP_PLATFORM_MARKETING: |
     Zodra de console is geactiveerd,
     zal de marketingcampagne van start gaan.
