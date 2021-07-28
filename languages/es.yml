@@ -81,7 +81,23 @@ es:
   BUTTON_TRAINING_STOP: Detener el entrenamiento
   
   # Etiquetas, descripciones
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Se necesita un director de marketing.
+    Cuanto mejor sea el gestor de marketing, más rápido será el estudio de mercado.
+  LABEL_MARKET_RESEARCH: Estudio de mercado
+  LABEL_MARKET_RESEARCH_TYPE: Tipo de estudio de mercado
+  LABEL_GAME_TYPE_LIST: Lista de géneros de juegos
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analizar el público objetivo
+  LABEL_MARKET_RESEARCH_NONE: Ningún estudio de mercado activo
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Un aula queda disponible.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Enhorabuena, acaba de terminar una sesión de formación.
+    Tiene al menos un aula libre si quiere organizar una nueva sesión de formación.
+  LABEL_UNIVERSITY_TRAINING: Formación
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Aula de formación
+  LABEL_UNIVERSITY_SIT: Número de plazas
   LABEL_UNIVERSITY: Universidad
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Gestionar la formación
   LABEL_UNIVERSITY_TRAINING_TYPE: Tipo de formación
   LABEL_UNIVERSITY_LECTURE_HALL: Número de aulas
   LABEL_UNIVERSITY_AUTOTRAINING: Autoformación
@@ -89,6 +105,8 @@ es:
   LABEL_UNIVERSITY_DESTROY: Destruir el edificio
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Formación general
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Formación específica
+  LABEL_UNIVERSITY_TRAINING_LIST: Lista de formaciones
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: No hay formación
   LABEL_SOFA: Sofá
   LABEL_MISC: Varios
   LABEL_MINUTES: minutos
@@ -1435,6 +1453,7 @@ es:
   LABEL_BUILDING_PIZZERIA: Pizzería
   LABEL_BUILDING_GYM: Gimnasio
   LABEL_BUILDING_OFFICE: Oficina
+  LABEL_BUILDING_UNIVERSITY: Universidad
   LABEL_NO_GAME_AVAILABLE: No hay juego disponible
   LABEL_NO_MONEY: Muy caro
   LABEL_COMPUTER: Ordenador
@@ -1611,6 +1630,8 @@ es:
     Te permite construir nuevos estudios. Es caro, es una de las pocas maneras de seguir creciendo sin límites.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Además de poder construir estudios, también puedes construir centros de conferencias, lo que es necesario para organizar conferencias.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Construir universidades para formar al personal. ¡Van a alcanzar la perfección!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Si necesitas tener centros de conferencias, puede organizar conferencias.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

@@ -80,7 +80,23 @@ ar:
   BUTTON_TRAINING_STOP: توقف عن التدريب
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    مطلوب مدير تسويق.
+    كلما كان مدير التسويق أفضل ، كانت أبحاث السوق أسرع.
+  LABEL_MARKET_RESEARCH: البحث عن المتجر
+  LABEL_MARKET_RESEARCH_TYPE: نوع بحث السوق
+  LABEL_GAME_TYPE_LIST: قائمة أنواع الألعاب
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: تحليل الجماهير المستهدفة
+  LABEL_MARKET_RESEARCH_NONE: لا توجد أبحاث سوق نشطة
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: يصبح الفصل الدراسي متاحًا.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    تهانينا ، لقد انتهت للتو جلسة تدريبية.
+    لديك فصل دراسي مجاني واحد على الأقل إذا كنت ترغب في تنظيم جلسة تدريبية جديدة.
+  LABEL_UNIVERSITY_TRAINING: تمرين
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: غرفة التدريب
+  LABEL_UNIVERSITY_SIT: عدد المقاعد
   LABEL_UNIVERSITY: جامعة
+  LABEL_UNIVERSITY_MANAGE_TRAINING: إدارة التدريبات
   LABEL_UNIVERSITY_TRAINING_TYPE: نوع التدريب
   LABEL_UNIVERSITY_LECTURE_HALL: عدد قاعات المحاضرات
   LABEL_UNIVERSITY_AUTOTRAINING: التدريب التلقائي
@@ -88,6 +104,8 @@ ar:
   LABEL_UNIVERSITY_DESTROY: دمر المبنى
   LABEL_UNIVERSITY_GLOBAL_TRAINING: التدريب العام
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: تدريب محدد
+  LABEL_UNIVERSITY_TRAINING_LIST: قائمة التدريبات
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: لا تمطر
   LABEL_SOFA: كنبة
   LABEL_MISC: متفرقات
   LABEL_MINUTES: الدقائق
@@ -1409,7 +1427,8 @@ ar:
   LABEL_BUILDING_RESTAURANT: مطعم
   LABEL_BUILDING_PIZZERIA: بيتزا
   LABEL_BUILDING_GYM: صالة الألعاب الرياضية
-  LABEL_BUILDING_OFFICE: Office
+  LABEL_BUILDING_OFFICE: مكتب
+  LABEL_BUILDING_UNIVERSITY: جامعة
   LABEL_NO_GAME_AVAILABLE: لا توجد لعبة متاحة
   LABEL_NO_MONEY: غالي جدًا
   LABEL_COMPUTER: الكمبيوتر
@@ -1593,6 +1612,8 @@ ar:
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     بالإضافة إلى القدرة على إنشاء استوديوهات ، يمكنك أيضًا إنشاء مراكز مؤتمرات ،
     وهو أمر ضروري لتنظيم المؤتمرات.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    بناء الجامعات لتدريب الموظفين. سوف يصلون إلى الكمال!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     إذا كنت بحاجة إلى مراكز مؤتمرات ، فيمكنك تنظيم مؤتمرات.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

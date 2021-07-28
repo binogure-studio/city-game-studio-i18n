@@ -81,7 +81,23 @@ ru:
   BUTTON_TRAINING_STOP: Остановить обучение
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Требуется менеджер по маркетингу.
+    Чем лучше менеджер по маркетингу, тем быстрее будет проведено исследование рынка.
+  LABEL_MARKET_RESEARCH: Исследование рынка
+  LABEL_MARKET_RESEARCH_TYPE: Тип маркетингового исследования
+  LABEL_GAME_TYPE_LIST: Список жанров игр
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Анализ целевой аудитории
+  LABEL_MARKET_RESEARCH_NONE: Нет активных маркетинговых исследований
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Класс становится доступным.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Поздравляем, учебная сессия только что закончилась.
+    У вас есть как минимум один свободный класс, если вы хотите организовать новый тренинг.
+  LABEL_UNIVERSITY_TRAINING: Тренинг
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Учебная комната
+  LABEL_UNIVERSITY_SIT: Количество мест
   LABEL_UNIVERSITY: Университет
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Управление тренингами
   LABEL_UNIVERSITY_TRAINING_TYPE: Тип обучения
   LABEL_UNIVERSITY_LECTURE_HALL: Количество лекционных аудиторий
   LABEL_UNIVERSITY_AUTOTRAINING: Автотренинг
@@ -89,6 +105,8 @@ ru:
   LABEL_UNIVERSITY_DESTROY: Разрушить здание
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Общее обучение
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Специальное обучение
+  LABEL_UNIVERSITY_TRAINING_LIST: Список тренингов
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Нет тренинга
   LABEL_SOFA: Диван
   LABEL_MISC: Разное
   LABEL_MINUTES: минут
@@ -1436,6 +1454,7 @@ ru:
   LABEL_BUILDING_PIZZERIA: Пиццерия
   LABEL_BUILDING_GYM: Спортзал
   LABEL_BUILDING_OFFICE: Офис
+  LABEL_BUILDING_UNIVERSITY: Университет
   LABEL_NO_GAME_AVAILABLE: Нет доступных игр
   LABEL_NO_MONEY: Слишком дорого
   LABEL_COMPUTER: Компьютер
@@ -1617,6 +1636,8 @@ ru:
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Помимо строительства студий, можно строить и конференц-центры, которые
     необходимы для организации конференций.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Стройте университеты для подготовки кадров. Они достигнут совершенства!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Если вам нужны конференц-центры, вы можете организовать конференции.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

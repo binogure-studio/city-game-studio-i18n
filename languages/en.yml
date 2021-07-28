@@ -81,7 +81,23 @@ en:
   BUTTON_TRAINING_STOP: Stop training
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    A marketing manager is required.
+    The better the marketing manager the faster the market research.
+  LABEL_MARKET_RESEARCH: Market research
+  LABEL_MARKET_RESEARCH_TYPE: Market research type
+  LABEL_GAME_TYPE_LIST: Game genre list
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analyze target audience
+  LABEL_MARKET_RESEARCH_NONE: No active market research
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: A classroom becomes available.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Congratulations, a training session has just ended.
+    You have at least one free classroom if you want to organize a new training session.
+  LABEL_UNIVERSITY_TRAINING: Training
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Lecture Hall
+  LABEL_UNIVERSITY_SIT: Number of seats
   LABEL_UNIVERSITY: University
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Manage trainings
   LABEL_UNIVERSITY_TRAINING_TYPE: Training type
   LABEL_UNIVERSITY_LECTURE_HALL: Number of lecture hall
   LABEL_UNIVERSITY_AUTOTRAINING: Auto-training
@@ -89,6 +105,8 @@ en:
   LABEL_UNIVERSITY_DESTROY: Destroy the building
   LABEL_UNIVERSITY_GLOBAL_TRAINING: General training
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specific training
+  LABEL_UNIVERSITY_TRAINING_LIST: List of trainings
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: No training
   LABEL_SOFA: Sofa
   LABEL_MISC: Miscellaneous
   LABEL_MINUTES: minutes
@@ -1424,6 +1442,7 @@ en:
   LABEL_BUILDING_PIZZERIA: Pizzeria
   LABEL_BUILDING_GYM: Gym
   LABEL_BUILDING_OFFICE: Office
+  LABEL_BUILDING_UNIVERSITY: University
   LABEL_NO_GAME_AVAILABLE: No game available
   LABEL_NO_MONEY: Too expensive
   LABEL_COMPUTER: Computer
@@ -1600,6 +1619,8 @@ en:
     Allows building new studios. It's expensive, it's one of the only ways to keep growing without limit.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     In addition to being able to build studios, you can also build conference centres, which is necessary to organize conferences.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Construct universities to train staff. They are going to reach perfection!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     If you need to have conference centres then you can organize conferences.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

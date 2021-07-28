@@ -81,7 +81,23 @@ tr:
   BUTTON_TRAINING_STOP: Eğitimi durdur
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Pazarlama müdürü aranmaktadır.
+    Pazarlama yöneticisi ne kadar iyi olursa, pazar araştırması o kadar hızlı olur.
+  LABEL_MARKET_RESEARCH: Pazar araştırması
+  LABEL_MARKET_RESEARCH_TYPE: Pazar araştırması türü
+  LABEL_GAME_TYPE_LIST: Oyun türleri listesi
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Hedef kitleleri analiz edin
+  LABEL_MARKET_RESEARCH_NONE: Aktif pazar araştırması yok
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Bir sınıf kullanılabilir hale gelir.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Tebrikler, bir eğitim oturumu yeni sona erdi.
+    Yeni bir eğitim oturumu düzenlemek istiyorsanız en az bir boş sınıfınız var.
+  LABEL_UNIVERSITY_TRAINING: Eğitim
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Çalışma odası
+  LABEL_UNIVERSITY_SIT: koltukların sayısı
   LABEL_UNIVERSITY: Üniversite
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Eğitimleri yönet
   LABEL_UNIVERSITY_TRAINING_TYPE: Eğitim türü
   LABEL_UNIVERSITY_LECTURE_HALL: Konferans salonu sayısı
   LABEL_UNIVERSITY_AUTOTRAINING: Otomatik eğitim
@@ -89,6 +105,8 @@ tr:
   LABEL_UNIVERSITY_DESTROY: binayı yok et
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Genel Eğitim
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Özel eğitim
+  LABEL_UNIVERSITY_TRAINING_LIST: Eğitim listesi
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Yağmıyor
   LABEL_SOFA: Kanepe
   LABEL_MISC: Çeşitli
   LABEL_MINUTES: dakika
@@ -1411,6 +1429,7 @@ tr:
   LABEL_BUILDING_PIZZERIA: Pizzacı
   LABEL_BUILDING_GYM: Spor Salonu
   LABEL_BUILDING_OFFICE: Ofis
+  LABEL_BUILDING_UNIVERSITY: Üniversite
   LABEL_NO_GAME_AVAILABLE: Oyun mevcut değil
   LABEL_NO_MONEY: Çok pahalı
   LABEL_COMPUTER: Bilgisayar
@@ -1587,6 +1606,8 @@ tr:
     Yeni stüdyolar inşa etmeni sağlar. Pahalıdır, sınırsız büyümeye devam etmenin tek yollarından biridir.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Stüdyolar üretmenin yanı sıra, konferans düzenlemek için gerekli olan konferans merkezlerini de oluşturabilirsiniz.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Personel yetiştirmek için üniversiteler inşa edin. Mükemmelliğe ulaşacaklar!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Konferans merkezleriniz olması durumunda konferanslar düzenleyebilirsiniz.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

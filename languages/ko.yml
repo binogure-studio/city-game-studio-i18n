@@ -81,7 +81,23 @@ ko:
   BUTTON_TRAINING_STOP: 훈련 중지
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    마케팅 담당자가 필요합니다.
+    마케팅 관리자가 좋을수록 시장 조사가 빨라집니다.
+  LABEL_MARKET_RESEARCH: 시장 조사
+  LABEL_MARKET_RESEARCH_TYPE: 시장 조사 유형
+  LABEL_GAME_TYPE_LIST: 게임 장르 목록
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: 타겟 고객 분석
+  LABEL_MARKET_RESEARCH_NONE: 활성 시장 조사 없음
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: 강의실이 나옵니다.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    축하합니다.
+    교육 세션이 막 종료되었습니다. 새 교육 세션을 구성하려는 경우 최소 하나의 무료 강의실이 있습니다.
+  LABEL_UNIVERSITY_TRAINING: 훈련
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: 연습실
+  LABEL_UNIVERSITY_SIT: 좌석 수
   LABEL_UNIVERSITY: 대학
+  LABEL_UNIVERSITY_MANAGE_TRAINING: 교육 관리
   LABEL_UNIVERSITY_TRAINING_TYPE: 훈련 유형
   LABEL_UNIVERSITY_LECTURE_HALL: 강의실 수
   LABEL_UNIVERSITY_AUTOTRAINING: 자동 훈련
@@ -89,6 +105,8 @@ ko:
   LABEL_UNIVERSITY_DESTROY: 건물 파괴
   LABEL_UNIVERSITY_GLOBAL_TRAINING: 일반 교육
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: 특정 교육
+  LABEL_UNIVERSITY_TRAINING_LIST: 교육 목록
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: 훈련 없음
   LABEL_SOFA: 소파
   LABEL_MISC: 여러 가지 잡다한
   LABEL_MINUTES: 의사록
@@ -1409,6 +1427,7 @@ ko:
   LABEL_BUILDING_PIZZERIA: 피자집
   LABEL_BUILDING_GYM: 체육관
   LABEL_BUILDING_OFFICE: 사무실
+  LABEL_BUILDING_UNIVERSITY: 대학
   LABEL_NO_GAME_AVAILABLE: 이용 가능한 게임이 없습니다.
   LABEL_NO_MONEY: 너무 비쌉니다.
   LABEL_COMPUTER: 컴퓨터
@@ -1583,6 +1602,8 @@ ko:
     새 스튜디오를 만들 수도 있는데 , 그것은 비싸지만 제약없이 성장하는 거의 없는 방법 중 하나입니다.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     스튜디오를 지을 수 있는 것 외에 컨퍼런스 센터도 지을 수 있는데, 컨퍼런스 조직에 꼭 필요합니다.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    직원을 양성하기 위해 대학을 건설하십시오. 그들은 완벽에 도달할 것입니다!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     만약 당신이 컨퍼런스 센터를 갖는게 필요하다면 컨퍼런스를 조직할 수 있습니다.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

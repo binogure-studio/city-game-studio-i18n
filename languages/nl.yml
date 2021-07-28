@@ -81,7 +81,23 @@ nl:
   BUTTON_TRAINING_STOP: Stop de opleiding
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Er is een marketingmanager nodig.
+    Hoe beter de marketingmanager, hoe sneller het marktonderzoek.
+  LABEL_MARKET_RESEARCH: Marktonderzoek
+  LABEL_MARKET_RESEARCH_TYPE: Type marktonderzoek
+  LABEL_GAME_TYPE_LIST: Spel genres lijst
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Doelgroepen analyseren
+  LABEL_MARKET_RESEARCH_NONE: Geen actief marktonderzoek
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Er komt een klaslokaal vrij.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Gefeliciteerd, een trainingssessie is net afgelopen.
+    U heeft nog minstens één klaslokaal vrij als u een nieuwe trainingssessie wilt organiseren.
+  LABEL_UNIVERSITY_TRAINING: Training
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Trainingsruimte
+  LABEL_UNIVERSITY_SIT: Aantal plaatsen
   LABEL_UNIVERSITY: Universiteit
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Beheer opleidingen
   LABEL_UNIVERSITY_TRAINING_TYPE: Type opleiding
   LABEL_UNIVERSITY_LECTURE_HALL: Aantal collegezalen
   LABEL_UNIVERSITY_AUTOTRAINING: Auto-opleiding
@@ -89,6 +105,8 @@ nl:
   LABEL_UNIVERSITY_DESTROY: Vernietig het gebouw
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Algemene opleiding
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specifieke opleiding
+  LABEL_UNIVERSITY_TRAINING_LIST: Lijst van opleidingen
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Geen opleiding
   LABEL_SOFA: Sofa
   LABEL_MISC: Diversen
   LABEL_MINUTES: minuten
@@ -1418,6 +1436,7 @@ nl:
   LABEL_BUILDING_PIZZERIA: Pizzeria
   LABEL_BUILDING_GYM: Gym
   LABEL_BUILDING_OFFICE: Kantoor
+  LABEL_BUILDING_UNIVERSITY: Universiteit
   LABEL_NO_GAME_AVAILABLE: Geen game beschikbaar
   LABEL_NO_MONEY: Te duur
   LABEL_COMPUTER: Computer
@@ -1594,6 +1613,8 @@ nl:
     Laat je toe om nieuwe studios de bouwen. Het is duurn maar de enige manier om ongelimiteerd te blijven groeien.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Naast studios bouwen kan je ook expositie centers bouwen. Welke nodig zijn om exposities te organiseren.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Universiteiten bouwen om personeel op te leiden. Ze zullen de perfectie bereiken!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Als je expositie centers nodig hebt kan je exposities organiseren.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >

@@ -81,7 +81,23 @@ de:
   BUTTON_TRAINING_STOP: Training beenden
 
   # Labels, descriptive
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Es wird ein Marketingmanager benötigt.
+    Je besser der Marketingmanager, desto schneller die Marktforschung.
+  LABEL_MARKET_RESEARCH: Marktforschung
+  LABEL_MARKET_RESEARCH_TYPE: Art der Marktforschung
+  LABEL_GAME_TYPE_LIST: Liste der Spielgenres
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analysieren Sie die Zielgruppen
+  LABEL_MARKET_RESEARCH_NONE: Keine aktive Marktforschung
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Ein Klassenzimmer wird frei.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Herzlichen Glückwunsch, eine Schulungssitzung wurde gerade beendet.
+    Sie haben mindestens ein Klassenzimmer frei, wenn Sie eine neue Schulungssitzung organisieren möchten.
+  LABEL_UNIVERSITY_TRAINING: Schulung
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Schulungsraum
+  LABEL_UNIVERSITY_SIT: Anzahl der Plätze
   LABEL_UNIVERSITY: Universität
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Schulungen verwalten
   LABEL_UNIVERSITY_TRAINING_TYPE: Art der Ausbildung
   LABEL_UNIVERSITY_LECTURE_HALL: Anzahl der Hörsäle
   LABEL_UNIVERSITY_AUTOTRAINING: Auto-Schulung
@@ -89,6 +105,8 @@ de:
   LABEL_UNIVERSITY_DESTROY: Das Gebäude zerstören
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Allgemeine Ausbildung
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Spezifische Schulung
+  LABEL_UNIVERSITY_TRAINING_LIST: Liste der Schulungen
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Keine Schulung
   LABEL_SOFA: Sofa
   LABEL_MISC: Sonstiges
   LABEL_MINUTES: minuten
@@ -1433,6 +1451,7 @@ de:
   LABEL_BUILDING_PIZZERIA: Pizzeria
   LABEL_BUILDING_GYM: Fitnessstudio
   LABEL_BUILDING_OFFICE: Büro
+  LABEL_BUILDING_UNIVERSITY: Universität
   LABEL_NO_GAME_AVAILABLE: Kein Spiel verfügbar
   LABEL_NO_MONEY: Nicht genug Geld
   LABEL_COMPUTER: Computer
@@ -1612,6 +1631,8 @@ de:
     Ermöglicht es dir, neue Büros zu bauen. Es ist teuer, aber es ist eine der wenigen Möglichkeiten unbegrenzt zu wachsen.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
     Neben der Möglichkeit, Büros zu bauen, kannst du auch Messezentren bauen, die für die Organisation von Messen notwendig sind.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Bauen Sie Universitäten auf, um Mitarbeiter auszubilden. Sie werden die Perfektion erreichen!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
     Wenn du mindestens ein Messezentrum hast, dann kannst du eigene Messen veranstalten.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
