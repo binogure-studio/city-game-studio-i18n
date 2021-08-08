@@ -81,6 +81,7 @@ ko:
   BUTTON_TRAINING_STOP: 훈련 중지
 
   # Labels, descriptive
+  LABEL_MARKET_RESEARCH_NEW: 새로운 시장 조사
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     마케팅 담당자가 필요합니다.
     마케팅 관리자가 좋을수록 시장 조사가 빨라집니다.
@@ -1697,6 +1698,16 @@ ko:
     팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Illud의 테마 / 플랫폼을 선택하세요
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    연구에서 게임 장르를 선택하세요
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Illud에서 게임 장르 / 타겟으로 관객를 선택하세요
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    연구에서 플랫폼을 선택하세요
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    이미 해당 항목을 공부 한 이후, Illud 그것에 필요는 다시 없다.
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
     직원이 완벽해질 때까지 또는 일정 시간 동안 교육하십시오.
   TOOLTIP_UNIVERSITY_AUTOTRAINING: |

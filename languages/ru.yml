@@ -81,6 +81,7 @@ ru:
   BUTTON_TRAINING_STOP: Остановить обучение
 
   # Labels, descriptive
+  LABEL_MARKET_RESEARCH_NEW: Новые исследования рынка
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Требуется менеджер по маркетингу.
     Чем лучше менеджер по маркетингу, тем быстрее будет проведено исследование рынка.
@@ -1744,6 +1745,16 @@ ru:
     Чтобы увеличить число своих поклонников, вы также можете принимать предложения о публикации от других компаний.
 
   # Tooltips
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Пожалуйста, выберите темы/платформы для анализа
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Пожалуйста, выберите жанр игры для изучения
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Пожалуйста, выберите игровые жанры/целевую аудиторию для анализа
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Выберите платформу для изучения
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Поскольку вы уже изучили этот пункт, нет необходимости анализировать его снова.
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
     Обучайте своих сотрудников, пока они не станут совершенными
     или в течение определенного времени.

@@ -81,6 +81,7 @@ pt-br:
   BUTTON_TRAINING_STOP: Parar o treinamento
   
   # Labels, descriptive
+  LABEL_MARKET_RESEARCH_NEW: Nova pesquisa de mercado
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     É necessário um gerente de marketing.
     Quanto melhor o gerente de marketing, mais rápido será a pesquisa de mercado.
@@ -1730,6 +1731,16 @@ pt-br:
     Para aumentar o seu número de fãs, você também pode querer aceitar ofertas para publicações de outras empresas.
 
   # Tooltips
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Favor selecionar temas/plataformas a analisar
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Por favor, selecione o gênero de jogo a estudar
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Por favor, selecione os gêneros de jogo/público alvo para analisar
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Por favor, selecione a plataforma a estudar
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Como você já estudou esse item, não há necessidade de analisá-lo novamente.
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
     Treine seus funcionários até que eles se tornem
     perfeitos ou por um período fixo de tempo.

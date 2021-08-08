@@ -81,6 +81,7 @@ en:
   BUTTON_TRAINING_STOP: Stop training
 
   # Labels, descriptive
+  LABEL_MARKET_RESEARCH_NEW: New market research
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     A marketing manager is required.
     The better the marketing manager the faster the market research.
@@ -1717,6 +1718,16 @@ en:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Please select themes/platforms to analyze
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Please select the game genre to study
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Please select the game genres/targetted audiences to analyze
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Please select the platform to study
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Since you've already studied that item, there is no need to analyze it again.
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
     Train your employees till they become perfect or for a fixed
     amount of time.

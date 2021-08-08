@@ -51,7 +51,7 @@ fr:
   BUTTON_HOLIDAY_SOLO: Envoyer en vacances
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Rapport de bug
-  BUTTON_FEEDBACK: Suggestions
+  BUTTON_FEEDBACK: Donner votre avis
   BUTTON_SELECT: Sélectionner
   DROPDOWN_LANGUAGE: Langues
   BUTTON_CRACK_GAME: Pirater ce jeu
@@ -81,6 +81,7 @@ fr:
   BUTTON_TRAINING_STOP: Arrêter la formation
 
   # Labels, descriptive
+  LABEL_MARKET_RESEARCH_NEW: Nouvelle étude de marché
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Un responsable du marketing est nécessaire.
     Plus le responsable marketing est compétent, plus l'étude de marché sera rapide.
@@ -1717,6 +1718,16 @@ fr:
     des autres studios.
 
   # Tooltips
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Veuillez sélectionner thèmes/plateformes pour l'étude de marché
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Veuillez sélectionner le genre qui sera étudié dans l'étude de marché
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Veuillez sélectionner genres/audience cibles pour l'étude de marché
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Veuillez sélectionner la plateforme qui sera étudiée dans l'étude de marché
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Cet élément est déjà connu, il n'est pas nécessaire de l'intégrer dans l'étude de marché
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
     Formez vos employés jusqu'à ce qu'ils deviennent parfaits
     ou pour une durée déterminée.
