@@ -1399,12 +1399,12 @@ nl:
     Je hebt wat extra geld nodig, wij kunnen u helpen. Je kan jezelf uitkopen met een loon van [b]%s$[/b].
     Onze interestvoet is zo laag als [b]%s%%[/b] en je hebt [b]%s[/b] weken om ons terug te betalen.
     Het is zoals een geheel leven voor een bedrijf zoals het jouwe. We zijn uw laatste optie, laat u zelf verleid zijn deze te nemen.
-  LABEL_BURNING_SERVER_DESCRIPTION: >
+  LABEL_BURNING_SERVER_DESCRIPTION: |
     Ruikt het zoals vuur?!
     Jouw servers hebben de maximale capaciteit bereikt.
     Het is tijd om nieuwe servers te kopen of een online game te sluiten!
   LABEL_BURNING_SERVER_TITLE: Dit is prima
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
     Je maakt een goede online game en je verkoopt ze heel goed.
     Hoewel je servers de maximale capaciteit gaan bereiken. De meeste worden al voor 90% of meer gebruikt.
     Je zal nieuwe servers moeten kopen.
@@ -1712,6 +1712,9 @@ nl:
     Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
 
   # Tooltips
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Uw werknemers willen graag nieuwe spelgenres uitproberen,
+    ze zijn het beu om steeds dezelfde spelgenres te maken: 
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Selecteer de te analyseren thema's/platforms
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |

@@ -1405,12 +1405,12 @@ en:
     You need some extra money, and we can help you. You can refund yourself with a loan of [b]%s$[/b].
     Our interest rates are as low as only [b]%s%%[/b], and you have [b]%s[/b] weeks to repay.
     Its like a whole life for a company like yours. We are your last option, let yourself be tempted.
-  LABEL_BURNING_SERVER_DESCRIPTION: >
+  LABEL_BURNING_SERVER_DESCRIPTION: |
     Does it smell like fire?!
     Your servers have reached their maximum capacity.
     It is time to buy new servers or to close an online game!
   LABEL_BURNING_SERVER_TITLE: This is fine
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
     You are making very good online game, and you are selling them very well.
     However your servers are reaching their maximum capacity, most of them are used at 90%% or more.
     You should buy new servers.
@@ -1718,6 +1718,9 @@ en:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Your employees are eager to try new game genres,
+    they are getting tired of making the same game genres: 
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Please select themes/platforms to analyze
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |

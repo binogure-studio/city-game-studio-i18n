@@ -1357,11 +1357,15 @@ zh:
   LABEL_LOAN_DESCRIPTION: >
     你需要一些额外的钱，我们可以帮助你。 你可以使用[b]%s$[/b]的贷款。 我们的利率只有 [b]%s%%[/b]，并且你有
     [b]%s%%[/b]周的时间偿还。 对于你这种一生都为了公司的人。我们是你的最后一个选择，快选吧。
-  LABEL_BURNING_SERVER_DESCRIPTION: >
-    它闻起来像着火吗？！ 你的服务器已达到其最大容量。 是时候购买新服务器或关闭在线游戏了！
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    它闻起来像着火吗？！
+    你的服务器已达到其最大容量。
+    是时候购买新服务器或关闭在线游戏了！
   LABEL_BURNING_SERVER_TITLE: 这是可以的
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
-    你正在制作相当不赖的在线游戏，而且它们的销量很好。 但是，你的服务器已达到其最大容量，其中大多数使用率为90 %%或更高。 你应该买新的服务器。
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    你正在制作相当不赖的在线游戏，而且它们的销量很好。
+    但是，你的服务器已达到其最大容量，其中大多数使用率为90 %%或更高。
+    你应该买新的服务器。
   LABEL_SMOKING_SERVER_TITLE: 服务器容量警告
   LABEL_PAYLOAN_TITLE: 偿还贷款
   LABEL_PAYLOAN_DESCRIPTION: "预定的还款日期现在已经结束，你必须支付[b]%s$[/b]。"
@@ -1638,6 +1642,9 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_TIRED_GAME_GENRE: >
+    你的员工渴望尝试新的游戏类型，
+    他们已经厌倦了制作相同的游戏类型。
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     请选择要分析的主题/平台
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |

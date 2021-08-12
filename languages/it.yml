@@ -1398,11 +1398,15 @@ it:
     Ci risulta che lei abbia bisogno di soldi extra, possiamo aiutarla. Possiamo offrirle un prestito di [b]%s$[/b].
     I nostri tassi d'interesse sono pari al [b]%s%%[/b] ed avrà [b]%s[/b] per sdebitarsi.
     È una vita per una compagnia come la sua. Siamo la vostra ultima speranza, lasciatevi tentare.
-  LABEL_BURNING_SERVER_DESCRIPTION: >
-    Puzza di fuoco?! Sì, i server hanno raggiunto la loro capacità massima. È tempo di comprare nuovi server o chiudere un gioco online!
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Puzza di fuoco?!
+    Sì, i server hanno raggiunto la loro capacità massima.
+    È tempo di comprare nuovi server o chiudere un gioco online!
   LABEL_BURNING_SERVER_TITLE: I server stanno bruciando
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
-    Stai creando ottimi giochi online e li stai vendendo molto bene. Tuttavia, i tuoi server stanno raggiungendo la loro capacità massima. Dovresti comprare nuovi server.
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Stai creando ottimi giochi online e li stai vendendo molto bene.
+    Tuttavia, i tuoi server stanno raggiungendo la loro capacità massima.
+    Dovresti comprare nuovi server.
   LABEL_SMOKING_SERVER_TITLE: Avviso sulla capacità dei server
   LABEL_PAYLOAN_TITLE: Ripaga un prestito
   LABEL_PAYLOAN_DESCRIPTION: Il tempo previsto per ripagare il prestito è terminato, devi pagare [b]%s$[/b].
@@ -1705,6 +1709,9 @@ it:
     Per far crescere il tuo numero di fan, potresti anche accettare offerte per pubblicazioni da altre compagnie.
 
   # Tooltips
+  TOOLTIP_TIRED_GAME_GENRE: |
+    I vostri dipendenti sono desiderosi di provare nuovi generi di gioco,
+    si stanno stancando di fare gli stessi generi di gioco: 
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Seleziona i temi/le piattaforme da analizzare
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |

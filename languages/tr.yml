@@ -1393,11 +1393,11 @@ tr:
     Biraz ekstra paraya ihtiyacın var, sana yardım edebiliriz. [b]%s$[/b] krediyle geri ödeme yapabilirsiniz.
     Faiz oranlarımız, yalnızca [b]%s %%[/b] kadar düşük ve geri ödemeniz için [b]%s[/b] haftalarınız var.
     Seninki gibi bir şirket için bütün bir hayat gibi. Biz son seçeneğiniziz, kendinize özendirin.
-  LABEL_BURNING_SERVER_DESCRIPTION: >
+  LABEL_BURNING_SERVER_DESCRIPTION: |
     yanık kokusumu bu ?
     Sunucularınız maksimum kapasitelerine ulaştı!
   LABEL_BURNING_SERVER_TITLE: Bu iyi
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
     Çok iyi bir online oyun yapıyorsunuz ve çok iyi satıyorsunuz.
     Ancak sunucularınız maksimum kapasitelerine ulaşıyor, çoğu %90 veya daha fazla kullanılıyor.
     Yeni sunucular satın almalısın.
@@ -1704,6 +1704,9 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Çalışanlarınız yeni oyun türlerini denemek için can atıyor,
+    aynı oyun türlerini yapmaktan bıkıyorlar:
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Illud temalar / platformları seçiniz
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |

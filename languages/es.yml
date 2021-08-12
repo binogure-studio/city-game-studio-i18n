@@ -1416,12 +1416,12 @@ es:
     Necesitas algo de dinero extra, podemos ayudarte. Puedes volver a financiarte con un préstamo de [b]%s[/b]$. 
     Nuestras tasas de interés son tan bajas que solo serán de [b]%s%%[/b] y tienes [b]%s[/b] semanas para pagar. 
     Es como toda una vida para una empresa como la tuya. Somos tu última opción, déjate tentar.
-  LABEL_BURNING_SERVER_DESCRIPTION: >
+  LABEL_BURNING_SERVER_DESCRIPTION: |
     ¿Huele a fuego? 
     Sí, los servidores han alcanzado su capacidad máxima. 
     ¡Es hora de comprar nuevos servidores, alquilarlos, o cerrar un juego en línea!
   LABEL_BURNING_SERVER_TITLE: Los servidores están ardiendo
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
     Estás haciendo muy buenos juegos online y los estás vendiendo muy bien. 
     Sin embargo, los servidores están alcanzando su capacidad máxima, la mayoría de ellos se utilizan al 90%% o más. 
     Deberías comprar nuevos servidores.
@@ -1728,6 +1728,9 @@ es:
     Para aumentar tu número de fans, también puedes aceptar ofertas de publicaciones de otras empresas.
 
   # Información
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Sus empleados están deseando probar nuevos géneros de juego,
+    se están cansando de hacer los mismos géneros de juego: 
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Por favor, seleccione los temas/plataformas a analizar
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |

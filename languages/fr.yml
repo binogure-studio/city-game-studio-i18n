@@ -1434,11 +1434,11 @@ fr:
     Votre compagnie semble être en difficulté. Nous vous offrons l'opportunité de contracter un prêt à hauteur de [b]%s$[/b] pour le taux modique de [b]%s%%[/b].
     De plus, vous aurez [b]%s[/b] semaines pour nous rembourser, soit une vie entière pour une compagnie de votre envergure!
     Nous sommes votre dernier recours, laissez-vous tenter!
-  LABEL_BURNING_SERVER_DESCRIPTION: >
+  LABEL_BURNING_SERVER_DESCRIPTION: |
     Les serveurs sont utilisés à pleine capacité. De nombreux joueurs sont mécontents et quittent le navire.
     Il est urgent d'acheter de nouveaux serveurs, le manque à gagner est important.
   LABEL_BURNING_SERVER_TITLE: Les serveurs sont surchargés!
-  LABEL_SMOKING_SERVER_DESCRIPTION: >
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
     Vos jeux ont du succès et ça se voit. La plupart de vos serveurs
     sont utilisés à plus de 90%% de leur capacité.
     Il faudrait envisager de monter plus de serveurs
@@ -1718,6 +1718,9 @@ fr:
     des autres studios.
 
   # Tooltips
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Vos employés veulent essayer de nouveaux genre de jeu,
+    ils sont fatigués des faire des jeux de type: 
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Veuillez sélectionner thèmes/plateformes pour l'étude de marché
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
