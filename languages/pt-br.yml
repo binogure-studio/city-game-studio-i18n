@@ -79,8 +79,16 @@ pt-br:
   BUTTON_HIRE_AND_ASSIGN: Alugar e atribuir
   BUTTON_TRAINING_START: Comece o treinamento
   BUTTON_TRAINING_STOP: Parar o treinamento
+  BUTTON_CANCEL_CONTRACT: Cancelar o contrato
+  BUTTON_CANCEL_GAMEPORT: Cancelar a porta do jogo
+  BUTTON_CANCEL_FEATURE: Cancelar funcionalidade
+  BUTTON_CANCEL_GAMEENGINE: Cancelar o motor do jogo
+  BUTTON_CANCEL_GAMEUPDATE: Cancelar atualização gratuita
+  BUTTON_CANCEL_DLC: Cancelar atualização paga
   
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Preço de venda
+  LABEL_EMPLOYEE: Empregado
   LABEL_MARKET_RESEARCH_NEW: Nova pesquisa de mercado
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     É necessário um gerente de marketing.
@@ -1733,6 +1741,19 @@ pt-br:
     Para aumentar o seu número de fãs, você também pode querer aceitar ofertas para publicações de outras empresas.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    Chegou a hora de ser mais razoável.
+
+    Em outras palavras, você tem que cortar suas despesas para continuar a sobreviver.
+    Neste momento, a empresa precisa ser socorrida.
+
+    Sua melhor aposta é contrair uma hipoteca que seja tão substancial e de tão longo prazo quanto possível.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Clique aqui para atualizar seus jogos, criar DLC ou visualizar detalhes financeiros
+  TOOLTIP_GAMECREATION_HELP: >
+    Relaciona os jogos do mesmo gênero que você criou. Útil para afinar as bitolas.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Escolha quais características você quer colocar em seu motor de jogo
   TOOLTIP_TIRED_GAME_GENRE: >
     Seus funcionários estão ansiosos para experimentar novos gêneros de jogo,
     eles estão ficando cansados de fazer os mesmos gêneros de jogo: 
@@ -1897,6 +1918,8 @@ pt-br:
     Adotar um gato adiciona um pequeno bônus aos seus estúdios.
   LOADING_SCREEN_TIP_20: >
     Se o seu estúdio tiver um nível de habilidade desigual, a qualidade geral de seus jogos pode ser afetada.
+  LOADING_SCREEN_TIP_21: >
+    Pressione F1 para abrir o console dentro do jogo
 
   GAME_UPDATE: Atualização do jogo
   GAMEENGINE: Motores de jogos

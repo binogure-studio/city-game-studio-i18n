@@ -79,8 +79,16 @@ zh:
   BUTTON_HIRE_AND_ASSIGN: 雇用并分配
   BUTTON_TRAINING_START: 开始训练
   BUTTON_TRAINING_STOP: 停止训练
+  BUTTON_CANCEL_CONTRACT: 取消合同
+  BUTTON_CANCEL_GAMEPORT: 取消游戏端口
+  BUTTON_CANCEL_FEATURE: 取消功能
+  BUTTON_CANCEL_GAMEENGINE: 取消游戏引擎
+  BUTTON_CANCEL_GAMEUPDATE: 取消免费更新
+  BUTTON_CANCEL_DLC: 取消付费更新
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: 销售价格
+  LABEL_EMPLOYEE: 雇员
   LABEL_MARKET_RESEARCH_NEW: 新的市场研究
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     需要一个营销经理。
@@ -1642,6 +1650,19 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    现在是更加合理的时候了。
+
+    换句话说，你必须削减开支以继续生存。
+    现在，公司需要被拯救出来。
+
+    你最好的选择是办理尽可能多的、长期的抵押贷款。
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    点击这里更新你的游戏，创建DLC或查看财务细节
+  TOOLTIP_GAMECREATION_HELP: >
+    列出你所创建的同一类型的游戏。有助于调整仪表。
+  TOOLTIP_GAMEENGINE_CREATE: >
+    挑选你想放在你的游戏引擎中的功能
   TOOLTIP_TIRED_GAME_GENRE: >
     你的员工渴望尝试新的游戏类型，
     他们已经厌倦了制作相同的游戏类型。
@@ -1791,6 +1812,8 @@ zh:
     领养一只猫可以你的工作室增加一点点奖金。
   LOADING_SCREEN_TIP_20: >
     如果你的工作室技能水平不平均将会影响游戏的整体质量。
+  LOADING_SCREEN_TIP_21: >
+    按F1键打开游戏中的控制台
 
   GAME_UPDATE: 游戏更新
   GAMEENGINE: 游戏引擎

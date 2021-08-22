@@ -79,8 +79,16 @@ de:
   BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
   BUTTON_TRAINING_START: Training starten
   BUTTON_TRAINING_STOP: Training beenden
+  BUTTON_CANCEL_CONTRACT: Den Vertrag kündigen
+  BUTTON_CANCEL_GAMEPORT: Stornieren der Spieleportierung
+  BUTTON_CANCEL_FEATURE: Abbrechen der Funktionalität
+  BUTTON_CANCEL_GAMEENGINE: Spiel-Engine stornieren
+  BUTTON_CANCEL_GAMEUPDATE: Kostenloses Update stornieren
+  BUTTON_CANCEL_DLC: Bezahltes Update stornieren
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Verkaufspreis
+  LABEL_EMPLOYEE: Mitarbeiter
   LABEL_MARKET_RESEARCH_NEW: Neue Marktforschung
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Es wird ein Marketingmanager benötigt.
@@ -1733,6 +1741,19 @@ de:
     Um Ihre Fangemeinde zu vergrößern, sollten Sie vielleicht auch Angebote für Veröffentlichungen von anderen Firmen annehmen.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    Es ist an der Zeit, vernünftiger zu werden.
+
+    Mit anderen Worten: Sie müssen Ihre Ausgaben kürzen, um weiter überleben zu können.
+    Im Moment muss das Unternehmen gerettet werden.
+
+    Am besten ist es, wenn Sie eine möglichst hohe und langfristige Hypothek aufnehmen.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Klicken Sie hier, um Ihre Spiele zu aktualisieren, DLC zu erstellen oder finanzielle Details einzusehen
+  TOOLTIP_GAMECREATION_HELP: >
+    Listet die Spiele desselben Genres auf, die Sie erstellt haben. Nützlich zum Abstimmen der Anzeigen.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Wählen Sie aus, welche Funktionen Sie in Ihre Spiel-Engine einbauen möchten
   TOOLTIP_TIRED_GAME_GENRE: >
     Ihre Mitarbeiter sind begierig darauf, neue Spielgenres auszuprobieren,
     denn sie sind es leid, immer die gleichen Spiele zu spielen: 
@@ -1892,6 +1913,8 @@ de:
     Die Adoption einer Katze bringt einen kleinen Bonus für dein Studio.
   LOADING_SCREEN_TIP_20: >
     Wenn dein Studio ein ungleiches Qualifikationsniveau hat, kann das die Gesamtqualität eines Spiels negativ beeinflussen.
+  LOADING_SCREEN_TIP_21: >
+    Drücken Sie F1, um die Konsole im Spiel zu öffnen.
 
   GAME_UPDATE: Spiel Update
   GAMEENGINE: Spiel-Engine

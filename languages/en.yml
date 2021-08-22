@@ -79,8 +79,17 @@ en:
   BUTTON_HIRE_AND_ASSIGN: Hire and assign
   BUTTON_TRAINING_START: Start training
   BUTTON_TRAINING_STOP: Stop training
+  BUTTON_CANCEL_CONTRACT: Cancel the contract
+  BUTTON_CANCEL_GAMEPORT: Cancel the game port
+  BUTTON_CANCEL_FEATURE: Cancel functionality
+  BUTTON_CANCEL_GAMEENGINE: Cancel game engine
+  BUTTON_CANCEL_GAMEUPDATE: Cancel free update
+  BUTTON_CANCEL_DLC: Cancel paid update
+
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Selling price
+  LABEL_EMPLOYEE: Employee
   LABEL_MARKET_RESEARCH_NEW: New market research
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     A marketing manager is required.
@@ -1718,6 +1727,19 @@ en:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    It is time to be more reasonable.
+
+    In other words, you have to cut back on your expenses to continue to survive.
+    Right now, the company needs to be bailed out.
+
+    Your best bet is to take out a mortgage that is as substantial and as long-term as possible.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Click here to update your games, create DLC or view financial details
+  TOOLTIP_GAMECREATION_HELP: >
+    Lists the games of the same genre that you have created. Useful to to tune the gauges.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Pick which features you want to put in your game engine
   TOOLTIP_TIRED_GAME_GENRE: >
     Your employees are eager to try new game genres,
     they are getting tired of making the same game genres: 
@@ -1878,6 +1900,8 @@ en:
     Adopting a cat adds a tiny bonus to your studios.
   LOADING_SCREEN_TIP_20: >
     If your studio has a uneven skill level, it can effect overall quality of a game.
+  LOADING_SCREEN_TIP_21: >
+    Press F1 to open the in-game console
 
   GAME_UPDATE: Game update
   GAMEENGINE: Game engines

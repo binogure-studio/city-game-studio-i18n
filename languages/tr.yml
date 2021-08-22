@@ -79,8 +79,16 @@ tr:
   BUTTON_HIRE_AND_ASSIGN: İşe al ve ata
   BUTTON_TRAINING_START: Antrenmana başla
   BUTTON_TRAINING_STOP: Eğitimi durdur
+  BUTTON_CANCEL_CONTRACT: Sözleşme iptal
+  BUTTON_CANCEL_GAMEPORT: Oyun portu İptal
+  BUTTON_CANCEL_FEATURE: Işlevselliği İptal
+  BUTTON_CANCEL_GAMEENGINE: Oyun motorunu İptal
+  BUTTON_CANCEL_GAMEUPDATE: Ücretsiz güncelleme İptal
+  BUTTON_CANCEL_DLC: Ödenen güncelleştirmeyi iptal
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Satış fiyatı
+  LABEL_EMPLOYEE: Çalışan
   LABEL_MARKET_RESEARCH_NEW: Yeni pazar araştırması
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Pazarlama müdürü aranmaktadır.
@@ -1704,6 +1712,19 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    Daha mantıklı olmanın zamanı geldi.
+
+    Başka bir deyişle, hayatta kalmaya devam etmek için harcamalarınızı kısmanız gerekir.
+    Şu anda, şirketin kurtarılması gerekiyor.
+
+    En iyi seçeneğiniz, mümkün olduğu kadar önemli ve uzun vadeli bir ipotek almaktır.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Senin oyun güncellemek DLC oluşturmak veya mali ayrıntıları görüntülemek için buraya tıklayın
+  TOOLTIP_GAMECREATION_HELP: >
+    Listeler Oluşturduğunuz aynı türün oyunlar. ölçer ayarlamak için kullanışlıdır.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Eğer oyun motorunu koymak istediğiniz özellikleri seçin
   TOOLTIP_TIRED_GAME_GENRE: >
     Çalışanlarınız yeni oyun türlerini denemek için can atıyor,
     aynı oyun türlerini yapmaktan bıkıyorlar:
@@ -1864,6 +1885,8 @@ tr:
     Bir kedinin benimsenmesi stüdyolarınıza küçük bir bonus kazandırır.
   LOADING_SCREEN_TIP_20: >
     Stüdyonuzun düzensiz bir beceri seviyesi varsa, oyunun genel kalitesini etkileyebilir.
+  LOADING_SCREEN_TIP_21: >
+    Oyun içi konsolu açmak için F1'e basın
 
   GAME_UPDATE: Oyun güncelleme
   GAMEENGINE: Oyun motorları

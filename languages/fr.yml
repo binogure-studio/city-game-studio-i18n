@@ -79,8 +79,16 @@ fr:
   BUTTON_HIRE_AND_ASSIGN: Embaucher et affecter
   BUTTON_TRAINING_START: Commencer la formation
   BUTTON_TRAINING_STOP: Arrêter la formation
+  BUTTON_CANCEL_CONTRACT: Annuler le contrat
+  BUTTON_CANCEL_GAMEPORT: Annuler le port du jeu
+  BUTTON_CANCEL_FEATURE: Annuler la fonctionnalité
+  BUTTON_CANCEL_GAMEENGINE: Annuler le moteur de jeu
+  BUTTON_CANCEL_GAMEUPDATE: Annuler la mise à jour gratuite
+  BUTTON_CANCEL_DLC: Annuler la mise à jour payante
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Prix à la revente
+  LABEL_EMPLOYEE: Employé
   LABEL_MARKET_RESEARCH_NEW: Nouvelle étude de marché
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Un responsable du marketing est nécessaire.
@@ -954,7 +962,7 @@ fr:
   LABEL_PENALITY: Pénalité
   LABEL_NOTE_MIN: Note min.
   LABEL_MARKETING_GLOBAL_ITEM: Global
-  LABEL_MARKETING_MAGAZINE_ITEM: Magasine
+  LABEL_MARKETING_MAGAZINE_ITEM: Magazine
   LABEL_MARKETING_TV_ITEM: Télévision
   LABEL_MARKETING_WEBSITE_ITEM: Site web
   LABEL_MARKETING_ONLINEAD_ITEM: Publicité en ligne
@@ -1533,7 +1541,7 @@ fr:
   LABEL_WORLDMAP: >
     Vous relevez la tête, il y a un monde qui vous attend dehors
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
-    Les premiers magasines de jeux vidéo paraissent, voulez-vous y faire de la publicité pour un de vos jeux?
+    Les premiers magazines de jeux vidéo paraissent, voulez-vous y faire de la publicité pour un de vos jeux?
   LABEL_MARKETING_CAMPAIGN_TV: >
     Il est temps de faire connaître vos jeux via des publicités télévisuelles
   LABEL_MARKETING_CAMPAIGN_INTERNET: >
@@ -1718,6 +1726,19 @@ fr:
     des autres studios.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    Les caisses sont vides.
+
+    Pour pouvoir continuer a subsister, vous devriez revoir vos dépenses à la baisse.
+    Mais à l'heure actuelle il vous faut de quoi renflouer la compagnie.
+
+    Le mieux reste de contracter une hypothèque la plus importante et la plus longue possible.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Cliquez là pour mettre à jour vos jeux, créer des DLC ou consulter les détails financiers
+  TOOLTIP_GAMECREATION_HELP: >
+    Liste les jeux du même genre que vous avez créé. C'est fort utile pour ajuster les jauges
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Choisissez les fonctionnalités a ajouter à votre moteur de jeu
   TOOLTIP_TIRED_GAME_GENRE: >
     Vos employés veulent essayer de nouveaux genre de jeu,
     ils sont fatigués des faire des jeux de type: 
@@ -1889,6 +1910,8 @@ fr:
     Ne laissez jamais un chat dans une gouttière, adoptez-le ! Votre équipe vous le rendra.
   LOADING_SCREEN_TIP_20: >
     Si les compétences d'un studio ne sont pas équivalentes, alors les jeux qu'ils produiront seront de moins bonnes qualités
+  LOADING_SCREEN_TIP_21: >
+    Appuyez sur F1 pour ouvrir la console du jeu
 
   GAME_UPDATE: Mise à jour de jeu
   GAMEENGINE: Moteurs de jeu

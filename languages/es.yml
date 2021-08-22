@@ -79,8 +79,16 @@ es:
   BUTTON_HIRE_AND_ASSIGN: Contratar y asignar
   BUTTON_TRAINING_START: Empezar a entrenar
   BUTTON_TRAINING_STOP: Detener el entrenamiento
+  BUTTON_CANCEL_CONTRACT: Cancelar el contrato
+  BUTTON_CANCEL_GAMEPORT: Cancelar el puerto del juego
+  BUTTON_CANCEL_FEATURE: Cancelar la funcionalidad
+  BUTTON_CANCEL_GAMEENGINE: Cancelar el motor del juego
+  BUTTON_CANCEL_GAMEUPDATE: Cancelar la actualización gratuita
+  BUTTON_CANCEL_DLC: Cancelar la actualización de pago
   
   # Etiquetas, descripciones
+  LABEL_SELLING_PRICE: Precio de venta
+  LABEL_EMPLOYEE: Empleado
   LABEL_MARKET_RESEARCH_NEW: Nuevos estudios de mercado
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Se necesita un director de marketing.
@@ -1728,6 +1736,19 @@ es:
     Para aumentar tu número de fans, también puedes aceptar ofertas de publicaciones de otras empresas.
 
   # Información
+  TOOLTIP_NO_MONEY: |
+    Ha llegado el momento de ser más razonable.
+
+    En otras palabras, hay que recortar los gastos para seguir sobreviviendo.
+    En este momento, la empresa necesita ser rescatada.
+
+    Su mejor opción es contratar una hipoteca lo más sustancial y a largo plazo posible.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Haga clic aquí para actualizar sus juegos, crear DLC o ver los detalles financieros
+  TOOLTIP_GAMECREATION_HELP: >
+    Enumera los juegos del mismo género que has creado. Útil para afinar los indicadores.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Elige qué características quieres poner en el motor de tu juego
   TOOLTIP_TIRED_GAME_GENRE: >
     Sus empleados están deseando probar nuevos géneros de juego,
     se están cansando de hacer los mismos géneros de juego: 
@@ -1892,6 +1913,8 @@ es:
     Adoptar un gato añade una pequeña bonificación a sus estudios.
   LOADING_SCREEN_TIP_20: >
     Si su estudio tiene un nivel de habilidad desigual, puede afectar la calidad general de un juego.
+  LOADING_SCREEN_TIP_21: >
+    Pulsa F1 para abrir la consola del juego
   
   GAME_UPDATE: Actualización del juego
   GAMEENGINE: Motores de juego

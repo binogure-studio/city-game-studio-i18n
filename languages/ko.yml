@@ -79,8 +79,16 @@ ko:
   BUTTON_HIRE_AND_ASSIGN: 고용 및 배정
   BUTTON_TRAINING_START: 훈련 시작
   BUTTON_TRAINING_STOP: 훈련 중지
+  BUTTON_CANCEL_CONTRACT: 계약 취소
+  BUTTON_CANCEL_GAMEPORT: 게임 포트 취소
+  BUTTON_CANCEL_FEATURE: 기능을 취소
+  BUTTON_CANCEL_GAMEENGINE: 게임 엔진 취소
+  BUTTON_CANCEL_GAMEUPDATE: 무료 업데이트 취소
+  BUTTON_CANCEL_DLC: 지불 갱신 취소
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: 판매 가격
+  LABEL_EMPLOYEE: 직원
   LABEL_MARKET_RESEARCH_NEW: 새로운 시장 조사
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     마케팅 담당자가 필요합니다.
@@ -1694,6 +1702,19 @@ ko:
     팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    더 합리적이어야 할 때입니다.
+
+    즉, 계속해서 생존하려면 지출을 줄여야 합니다.
+    지금 당장은 회사를 구제해야 합니다.
+
+    가장 좋은 방법은 가능한 한 상당하고 장기적인 모기지를 받는 것입니다.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    , 게임을 업데이트 DLC를 만들거나 금융 세부 사항을 보려면 여기를 클릭하십시오
+  TOOLTIP_GAMECREATION_HELP: >
+    리스트가 만든 것과 같은 장르의 게임. 게이지 조정에 유용합니다.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    당신이 당신의 게임 엔진에 넣어하고자하는 기능을 선택
   TOOLTIP_TIRED_GAME_GENRE: >
     직원들은 새로운 게임 장르에 도전하고 싶어하지만
     같은 게임 장르를 만드는 데 지쳐 있습니다.
@@ -1845,6 +1866,8 @@ ko:
     고양이를 입양하는 것은 스튜디오에 작은 보너스가 더해집니다.
   LOADING_SCREEN_TIP_20: >
     만약 당신의 스튜디오가 수준이 떨어지는 기술을 보유했다면, 그건 게임의 전반적인 질에 영향을 미칠 수 있습니다.
+  LOADING_SCREEN_TIP_21: >
+    F1 키를 눌러 게임 내 콘솔을 엽니다.
 
   GAME_UPDATE: 게임 업데이트
   GAMEENGINE: 게임 엔진

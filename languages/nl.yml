@@ -79,8 +79,16 @@ nl:
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
   BUTTON_TRAINING_START: Start training
   BUTTON_TRAINING_STOP: Stop de opleiding
+  BUTTON_CANCEL_CONTRACT: Annullare il contratto
+  BUTTON_CANCEL_GAMEPORT: Annullare la porta del gioco
+  BUTTON_CANCEL_FEATURE: Annullare la funzionalità
+  BUTTON_CANCEL_GAMEENGINE: Annulla il motore di gioco
+  BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
+  BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Verkoopprijs
+  LABEL_EMPLOYEE: Werknemer
   LABEL_MARKET_RESEARCH_NEW: Nieuw marktonderzoek
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Er is een marketingmanager nodig.
@@ -1712,6 +1720,19 @@ nl:
     Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    Het is tijd om redelijker te worden.
+
+    Met andere woorden, je moet bezuinigen op je uitgaven om te blijven overleven.
+    Op dit moment moet het bedrijf gered worden.
+
+    Je beste kans is om een hypotheek af te sluiten die zo substantieel en zo lang mogelijk is.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Klik hier om uw games bij te werken, DLC te creëren of financiële details te bekijken
+  TOOLTIP_GAMECREATION_HELP: >
+    Toont de spellen van hetzelfde genre die je hebt gemaakt. Handig om de meters af te stellen.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Kies welke functies je in je game engine wilt stoppen
   TOOLTIP_TIRED_GAME_GENRE: >
     Uw werknemers willen graag nieuwe spelgenres uitproberen,
     ze zijn het beu om steeds dezelfde spelgenres te maken: 
@@ -1874,6 +1895,8 @@ nl:
     Het adopteren van een kat voegt een kleine bonus toe aan uw studio's.
   LOADING_SCREEN_TIP_20: >
     Als uw studio een ongelijkmatig vaardigheidsniveau heeft, kan het de algemene kwaliteit van een spel beïnvloeden.
+  LOADING_SCREEN_TIP_21: >
+    Druk op F1 om de in-game console te openen
 
   GAME_UPDATE: Spel update
   GAMEENGINE: Spel motoren

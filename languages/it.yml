@@ -79,8 +79,16 @@ it:
   BUTTON_HIRE_AND_ASSIGN: Assumere e assegnare
   BUTTON_TRAINING_START: Iniziare l'allenamento
   BUTTON_TRAINING_STOP: Fermare l'allenamento
+  BUTTON_CANCEL_CONTRACT: Annullare il contratto
+  BUTTON_CANCEL_GAMEPORT: Annullare la porta del gioco
+  BUTTON_CANCEL_FEATURE: Annullare la funzionalità
+  BUTTON_CANCEL_GAMEENGINE: Annulla il motore di gioco
+  BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
+  BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: Prezzo di vendita
+  LABEL_EMPLOYEE: Dipendente
   LABEL_MARKET_RESEARCH_NEW: Nuove ricerche di mercato
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     È necessario un marketing manager.
@@ -1709,6 +1717,19 @@ it:
     Per far crescere il tuo numero di fan, potresti anche accettare offerte per pubblicazioni da altre compagnie.
 
   # Tooltips
+  TOOLTIP_NO_MONEY: |
+    È il momento di essere più ragionevoli.
+
+    In altre parole, bisogna tagliare le spese per continuare a sopravvivere.
+    In questo momento, l'azienda ha bisogno di essere salvata.
+
+    La vostra migliore scommessa è quella di prendere un mutuo che sia il più sostanzioso e il più a lungo possibile.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Clicca qui per aggiornare i tuoi giochi, creare DLC o visualizzare i dettagli finanziari
+  TOOLTIP_GAMECREATION_HELP: >
+    Elenca i giochi dello stesso genere che hai creato. Utile per mettere a punto gli indicatori.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Scegli quali caratteristiche vuoi mettere nel tuo motore di gioco
   TOOLTIP_TIRED_GAME_GENRE: |
     I vostri dipendenti sono desiderosi di provare nuovi generi di gioco,
     si stanno stancando di fare gli stessi generi di gioco: 
@@ -1871,6 +1892,8 @@ it:
     Adottare un gatto aggiunge un piccolo bonus ai tuoi studi.
   LOADING_SCREEN_TIP_20: >
     Se il tuo studio ha un livello di abilità non uniforme, può influire sulla qualità complessiva di un gioco.
+  LOADING_SCREEN_TIP_21: >
+    Premi F1 per aprire la console di gioco
 
   GAME_UPDATE: Aggiornamento del gioco
   GAMEENGINE: Motori di gioco

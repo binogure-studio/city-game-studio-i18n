@@ -78,8 +78,16 @@ ar:
   BUTTON_HIRE_AND_ASSIGN: توظيف وتعيين
   BUTTON_TRAINING_START: ابدأ التدريب
   BUTTON_TRAINING_STOP: توقف عن التدريب
+  BUTTON_CANCEL_CONTRACT: إلغاء العقد
+  BUTTON_CANCEL_GAMEPORT: إلغاء منفذ الألعاب
+  BUTTON_CANCEL_FEATURE: إلغاء وظائف
+  BUTTON_CANCEL_GAMEENGINE: إلغاء محرك اللعبة
+  BUTTON_CANCEL_GAMEUPDATE: إلغاء التحديث مجانا
+  BUTTON_CANCEL_DLC: إلغاء التحديث المدفوعة
 
   # Labels, descriptive
+  LABEL_SELLING_PRICE: سعر البيع
+  LABEL_EMPLOYEE: الموظف
   LABEL_MARKET_RESEARCH_NEW: أبحاث السوق الجديدة
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     مطلوب مدير تسويق.
@@ -1714,6 +1722,19 @@ ar:
     قد ترغب في جعل اللعبة أصغر قليلاً لبيعها بشكل أفضل. لزيادة عدد متابعيك ،
     قد ترغب أيضًا في تلقي عروض لمنشورات من شركات أخرى.
 
+  TOOLTIP_NO_MONEY: |
+    حان الوقت لتكون أكثر عقلانية.
+
+    بمعنى آخر ، عليك تقليص نفقاتك للاستمرار في البقاء على قيد الحياة.
+    في الوقت الحالي ، تحتاج الشركة إلى الإنقاذ.
+
+    أفضل رهان لك هو الحصول على رهن عقاري كبير وطويل الأجل قدر الإمكان.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    انقر هنا لتحديث الألعاب، وخلق DLC أو عرض التفاصيل المالية
+  TOOLTIP_GAMECREATION_HELP: >
+    قوائم الألعاب من نفس النوع التي قمت بإنشائها. مفيدة لضبط أجهزة القياس.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    اختيار الميزات التي تريد وضعها في محرك اللعبة
   TOOLTIP_TIRED_GAME_GENRE: >
     موظفوك متحمسون لتجربة أنواع ألعاب جديدة ،
     لقد سئموا من صنع نفس أنواع الألعاب:
@@ -1876,6 +1897,8 @@ ar:
   LOADING_SCREEN_TIP_20: >
     إذا كان لدى الاستوديو الخاص بك مستوى مهارة غير متساو ، فيمكن أن يؤثر على
     الجودة الإجمالية للعبة.
+  LOADING_SCREEN_TIP_21: >
+    اضغط على F1 لفتح وحدة التحكم في اللعبة
 
   GAME_UPDATE: تحديث اللعبة
   GAMEENGINE: محركات اللعبة
