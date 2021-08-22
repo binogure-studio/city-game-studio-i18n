@@ -197,9 +197,9 @@ pt-br:
   LABEL_PLATFORM_COMPONENT_MEMORY: Memória
   LABEL_PLATFORM_COMPONENT_GPU: Placa gráfica
   LABEL_PLATFORM_COMPONENT_SCREEN: Tela
-  LABEL_PLATFORM_COMPONENT_BOX: Estojo de console
+  LABEL_PLATFORM_COMPONENT_BOX: Carcaça de console
   LABEL_PLATFORM_MAKING_COSTS: Custos de produção
-  LABEL_PLATFORM_UNLOCK_COSTS: Desbloquear custos
+  LABEL_PLATFORM_UNLOCK_COSTS: Custo de desbloqueio
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Custos do desenvolvimento
   LABEL_PLATFORM_QUALITY: Qualidade
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Custos de fabricação estimados
@@ -281,7 +281,7 @@ pt-br:
     Marque esta caixa se você deseja gerenciar vários ramos do Steam.
     Você precisará criar uma pasta por branch Steam (default, unstable ou oldstable)
   LABEL_MOD_MISSING: >
-    Mods em falta, savegame não pode ser carregado
+    Mods em falta, o jogo salvo não pode ser carregado
   LABEL_MOD_BANNED: O Mod foi banido
   LABEL_MOD_AGREEMENT: |
     Ao enviar o item, você estará aceitando os [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]Termos de Serviço da Oficina[/url]
@@ -418,11 +418,11 @@ pt-br:
     Ao atualizar um motor de jogo aplica-se uma penalização,
     que afeta apenas o número de pontos necessários.
   LABEL_TOO_MUCH_TIME_SPENT: |
-    Ou a sua equipa de desenvolvimento não está suficientemente equilibrada,ou
+    Ou a sua equipe de desenvolvimento não está suficientemente equilibrada,ou
     passou muito mais tempo no %s em comparação com outras fases de
     desenvolvimento
   LABEL_NOT_ENOUGH_TIME_SPENT: |
-    Ou a sua equipa de desenvolvimento não está suficientemente equilibrada,ou
+    Ou a sua equipe de desenvolvimento não está suficientemente equilibrada,ou
     não gastou tempo suficiente no %s em comparação com as outras fases de
     desenvolvimento
   LABEL_WARNING_THEME_MISSING: Por favor, selecione um tema
@@ -505,7 +505,7 @@ pt-br:
   LABEL_POLISH_CAPACITY: Capacidade de produzir pontos de polimento
   LABEL_GAMEENGINE_MAKEFOSS: Faça de graça
   LABEL_GAMEENGINE_PENALITY: >
-    Por causa do código legado, atualizar um mecanismo de jogo custa um pouco mais.
+    Por causa do código legado, atualizar um motor de jogo custa um pouco mais.
   LABEL_GAMEENGINE_READY: Motor de jogo pronto
   LABEL_GAMEENGINE_UPDATE: Atualizar este motor de jogo
   LABEL_GAMEENGINE_LIST: >
@@ -539,7 +539,7 @@ pt-br:
   LABEL_GAME_ENGINE_DESCRIPTION: >
     Uma nova tecnologia está pronta para ser adicionada ao seu motor de jogo:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
-    Pode agora criar os seus próprios motores de jogo.
+    Você agora pode criar os seus próprios motores de jogo.
     Os motores de jogo aumentam a quantidade de pontos gerados pela sua equipe.
   LABEL_GAME_ENGINE_ADS: Módulo de anúncio
   LABEL_GAME_ENGINE_IAP: Módulo de microtransacções
@@ -600,7 +600,7 @@ pt-br:
   LABEL_SERVER_CAPACITY: Capacidade dos servidores
   LABEL_SERVER_RENT_CAPACITY: Capacidade de servidores alugados
   LABEL_TOTAL_COST: Custos totais
-  LABEL_RENT_SERVER_COST: Custos de aluguer de servidores
+  LABEL_RENT_SERVER_COST: Custos de aluguel de servidores
   LABEL_SERVER_USAGE_THRESHOLD: >
     Alugar novos servidores assim que a carga de servidores atingir este limite:
   LABEL_STEAM_NOT_DETECTED: |
@@ -677,7 +677,7 @@ pt-br:
     Adicionando um novo método de pagamento.
   LABEL_DS_MARKETPLACE_TITLE: Mercado
   LABEL_DS_MARKETPLACE_DESCRIPTION: |
-    Permite aos usuários revender seu jogo.
+    Permite aos usuários revender seus jogos.
   LABEL_DS_SALES_TITLE: Vendas
   LABEL_DS_SALES_DESCRIPTION: |
     Permite-lhe criar saldos para um jogo.
@@ -719,10 +719,10 @@ pt-br:
   LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publicar a versão do Jogo do Ano
   LABEL_GAME_OF_THE_YEAR: >
     Durante anos, as revistas publicaram a sua própria lista. Ultimamente um
-    desses parece descolar, é o Game Of The Year
+    desses parece ter decolado, é o Game Of The Year
   LABEL_RIGHT_CLICK_TO_CLOSE: Clique com o botão direito para fechar
   LABEL_STARTING_YEAR: Ano de início
-  LABEL_CURRENCY_UNLIMITED: Moeda Ilimitada
+  LABEL_CURRENCY_UNLIMITED: Dinheiro ilimitado
   LABEL_ADVANCED_START: Início avançado
   LABEL_WORKING: Trabalhar
   LABEL_DEFAULT: Padrão
@@ -759,7 +759,7 @@ pt-br:
 
     Binogure
   LABEL_CREATE_POSTMORTEM: Faça o relatório do jogo
-  LABEL_VENDING_MACHINE: Maquina de vendas
+  LABEL_VENDING_MACHINE: Máquina de vendas
   LABEL_GAME_SPEED: Velocidade do jogo
   LABEL_SPEED_NORMAL: Normal
   LABEL_SPEED_SLOW: Lento
@@ -925,7 +925,7 @@ pt-br:
   LABEL_COMPANY_WIDE: Toda a empresa
   LABEL_STUDIO_WIDE: Este estúdio
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
-    Você deve ter pelo menos 5 funcionários para lidar com um editor.
+    Você deve ter pelo menos 5 funcionários para assinar com uma publicadora.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelado"
   LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
     Para [b]%s[/b] (%s),
@@ -1207,7 +1207,7 @@ pt-br:
   LABEL_TYPE_RYTHM: Ritmo
   LABEL_TYPE_CLICKER_GAME: Jogo de Clicker
   LABEL_TARGETTED_AUDIENCE_YOUNG: Jovem
-  LABEL_TARGETTED_AUDIENCE_ALL: Todo o mundo
+  LABEL_TARGETTED_AUDIENCE_ALL: Todo mundo
   LABEL_TARGETTED_AUDIENCE_MATURE: Adulto
   LABEL_GAME_SIZE_INDIE: Indie
   LABEL_GAME_SIZE_NORMAL: Normal
@@ -1477,7 +1477,7 @@ pt-br:
   LABEL_EMPLOYEE_TOOLTIP: A produtividade (Prod.) Aumenta a eficiência do empregado
   LABEL_STUDIO_TOOLTIP: A produtividade (Prod.) Aumenta a eficiência do estúdio
   LABEL_BUILD_STUDIO: Editar estúdio
-  LABEL_WALL: parede
+  LABEL_WALL: Parede
   LABEL_PILLAR: Pilar
   LABEL_FLOOR: Chão
   LABEL_HIRING_DATE: Data da contratação
@@ -1505,12 +1505,12 @@ pt-br:
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: Janela sem bordas
   LABEL_GAME_UPDATE_FEATURE: >
-    Publique actualizações e crie novos conteúdos para os seus jogos. Actualizações gratuitas, ou actualizações pagas? A decisão é sua.
+    Publique atualizações e crie novos conteúdos para os seus jogos. Atualizações gratuitas, ou atualizações pagas? A decisão é sua.
   LABEL_GAMEEDITION_SUBMIT: >
     Você tem muitos fãs.
     Você é conhecido suficientemente para publicar jogos.
   LABEL_GAMEEDITION_RECEIVE: >
-    Após seu sucesso recente, em breve, os editores entrarão em contato
+    Após seu sucesso recente, em breve, publicadoras entrarão em contato
     com você para fazer ofertas.
   LABEL_WORLDMAP: Você olha a janela, e percebe que há um mundo inteiro esperando por você lá fora.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
@@ -1649,7 +1649,7 @@ pt-br:
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
     Você pode criar uma loja de jogos desmaterializados e, finalmente, uma primeira versão alfa que precisará ser melhorada.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    Agir como um editor, e contratar empresas para fazer o seu jogo.
+    Opere como uma publicadora, e contrate empresas para fazer o seu jogo.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
     Um post-mortem é um relatório do que deu certo e do que não deu certo durante o desenvolvimento do jogo, ele te dá pistas.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
@@ -1721,7 +1721,7 @@ pt-br:
 
     Portanto, você deve aumentar o preço do console para não perder dinheiro.
   TUTORIEL_CREATE_GAME_OBSOLETE: |
-    Outras editoras de jogos estão falhando em vender seu jogo neste console.
+    Outras publicadoras de jogos estão falhando em vender seu jogo neste console.
     É provável que você também não consiga vender cópias suficientes de seu jogo neste console.
 
     Você deve escolher outro console ou pode ficar desapontado.
