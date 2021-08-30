@@ -85,6 +85,7 @@ de:
   BUTTON_CANCEL_GAMEENGINE: Spiel-Engine stornieren
   BUTTON_CANCEL_GAMEUPDATE: Kostenloses Update stornieren
   BUTTON_CANCEL_DLC: Bezahltes Update stornieren
+  BUTTON_UNASSIGN: Annullierung des Auftrags
 
   # Labels, descriptive
   BUTTON_CLICK_ME: Klick mich
@@ -1750,6 +1751,16 @@ de:
     Um Ihre Fangemeinde zu vergrößern, sollten Sie vielleicht auch Angebote für Veröffentlichungen von anderen Firmen annehmen.
 
   # Tooltips
+  TOOLTIP_TOO_HARD: |
+    Dieser Schwierigkeitsgrad ist eine Herausforderung.
+    Es ist besser, das Spiel in Schwierigkeitsgrad 1 oder 2 abgeschlossen zu haben, bevor Sie dies tun.
+
+    Der Versuch, einen zu schwierigen Modus zu spielen, kann dazu führen, dass Sie das Spiel nicht genießen oder das Gefühl haben, dass etwas unfair oder unausgewogen ist.
+  TOOLTIP_REQUIRED_POINTS: |
+    Anzahl der erforderlichen Punkte für ein gutes Spiel.
+
+    Je größer das Spiel ist, desto mehr Punkte werden benötigt.
+    Es werden auch ähnliche Spiele aus den letzten 4 Jahren verwendet.
   TOOLTIP_NO_MONEY: |
     Es ist an der Zeit, vernünftiger zu werden.
 

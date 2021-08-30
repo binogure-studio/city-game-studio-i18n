@@ -45,7 +45,7 @@ en:
   BUTTON_RESTORE: Restore
   BUTTON_DELETE: Delete
   BUTTON_DELETE_ALL: Delete all
-  BUTTON_SPAM: Spam
+  BUTTON_SPAM: Mark as spam
   BUTTON_UNSPAM: Not spam
   BUTTON_HOLIDAY: Send the studio on holiday
   BUTTON_HOLIDAY_SOLO: Send on holiday
@@ -85,7 +85,7 @@ en:
   BUTTON_CANCEL_GAMEENGINE: Cancel game engine
   BUTTON_CANCEL_GAMEUPDATE: Cancel free update
   BUTTON_CANCEL_DLC: Cancel paid update
-
+  BUTTON_UNASSIGN: Unassign
 
   # Labels, descriptive
   BUTTON_CLICK_ME: Click me
@@ -1736,6 +1736,16 @@ en:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_TOO_HARD: |
+    This level of difficulty is challenging.
+    It is better to have completed the game in difficulty 1 or 2 before doing so.
+
+    Attempting a mode that is too difficult may result in you not enjoying the game, or feeling something is unfair or unbalanced.
+  TOOLTIP_REQUIRED_POINTS: |
+    Number of required point to make a good game.
+
+    The bigger the game size the bigger the required points.
+    It also uses similar games made in the last 4 years.
   TOOLTIP_NO_MONEY: |
     It is time to be more reasonable.
 

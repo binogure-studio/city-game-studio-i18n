@@ -85,6 +85,7 @@ fr:
   BUTTON_CANCEL_GAMEENGINE: Annuler le moteur de jeu
   BUTTON_CANCEL_GAMEUPDATE: Annuler la mise à jour gratuite
   BUTTON_CANCEL_DLC: Annuler la mise à jour payante
+  BUTTON_UNASSIGN: Détacher
 
   # Labels, descriptive
   BUTTON_CLICK_ME: Cliquez sur moi
@@ -1735,6 +1736,16 @@ fr:
     des autres studios.
 
   # Tooltips
+  TOOLTIP_TOO_HARD: |
+    Ce mode de difficulté est challengeant.
+    Il est préférable d'avoir terminé le jeu en difficulté 1 ou 2 avant. 
+
+    En essayant un mode trop difficile vous prenez le risque de ne pas apprécier le jeu, voir de penser que ce qui vous arrive est injuste ou qu'il n'est pas bien équilibré.
+  TOOLTIP_REQUIRED_POINTS: |
+    Ceci représente le nombre de point a produire pour faire un bon jeu.
+
+    Plus la taille du jeu est grande, plus le nombre de points requis est élevé.
+    Cela prend aussi en compte les autres jeux similaires qui ont été faits durant les 4 dernières années.
   TOOLTIP_NO_MONEY: |
     Les caisses sont vides.
 

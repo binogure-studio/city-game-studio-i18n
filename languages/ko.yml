@@ -85,6 +85,7 @@ ko:
   BUTTON_CANCEL_GAMEENGINE: 게임 엔진 취소
   BUTTON_CANCEL_GAMEUPDATE: 무료 업데이트 취소
   BUTTON_CANCEL_DLC: 지불 갱신 취소
+  BUTTON_UNASSIGN: 할당 해제
 
   # Labels, descriptive
   BUTTON_CLICK_ME: 클릭 해주세요
@@ -1711,6 +1712,16 @@ ko:
     팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
+  TOOLTIP_TOO_HARD: |
+    이 수준의 난이도는 어렵습니다.
+    그렇게 하기 전에 난이도 1 또는 2에서 게임을 완료하는 것이 좋습니다.
+
+    너무 어려운 모드를 시도하면 게임을 즐기지 못하거나 뭔가 불공평하거나 불균형하다고 느낄 수 있습니다.
+  TOOLTIP_REQUIRED_POINTS: |
+    좋은 게임을 만들기 위해 필요한 점수입니다.
+
+    게임 크기가 클수록 필요한 포인트가 커집니다.
+    또한 지난 4년 동안 만들어진 유사한 게임을 사용합니다.
   TOOLTIP_NO_MONEY: |
     더 합리적이어야 할 때입니다.
 

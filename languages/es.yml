@@ -85,6 +85,7 @@ es:
   BUTTON_CANCEL_GAMEENGINE: Cancelar el motor del juego
   BUTTON_CANCEL_GAMEUPDATE: Cancelar la actualización gratuita
   BUTTON_CANCEL_DLC: Cancelar la actualización de pago
+  BUTTON_UNASSIGN: Desasignar
   
   # Etiquetas, descripciones
   BUTTON_CLICK_ME: Haz clic en mí
@@ -1745,6 +1746,16 @@ es:
     Para aumentar tu número de fans, también puedes aceptar ofertas de publicaciones de otras empresas.
 
   # Información
+  TOOLTIP_TOO_HARD: |
+    Este nivel de dificultad es un reto.
+    Es mejor haber completado el juego en dificultad 1 o 2 antes de hacerlo.
+
+    Intentar un modo demasiado difícil puede hacer que no disfrutes del juego, o que sientas que algo es injusto o desequilibrado.
+  TOOLTIP_REQUIRED_POINTS: |
+    Número de puntos necesarios para hacer un buen juego.
+
+    Cuanto mayor sea el tamaño del juego, mayores serán los puntos necesarios.
+    También utiliza juegos similares realizados en los últimos 4 años.
   TOOLTIP_NO_MONEY: |
     Ha llegado el momento de ser más razonable.
 

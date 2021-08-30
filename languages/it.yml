@@ -85,6 +85,7 @@ it:
   BUTTON_CANCEL_GAMEENGINE: Annulla il motore di gioco
   BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
   BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
+  BUTTON_UNASSIGN: Disassegnare
 
   # Labels, descriptive
   BUTTON_CLICK_ME: Clicca su di me
@@ -1726,6 +1727,16 @@ it:
     Per far crescere il tuo numero di fan, potresti anche accettare offerte per pubblicazioni da altre compagnie.
 
   # Tooltips
+  TOOLTIP_TOO_HARD: |
+    Questo livello di difficoltà è impegnativo.
+    È meglio aver completato il gioco a difficoltà 1 o 2 prima di farlo.
+
+    Tentare una modalità troppo difficile può portarvi a non godervi il gioco, o a sentire che qualcosa è ingiusto o sbilanciato.
+  TOOLTIP_REQUIRED_POINTS: |
+    Numero di punti richiesti per fare un buon gioco.
+
+    Più grande è la dimensione del gioco, più grandi sono i punti richiesti.
+    Usa anche giochi simili fatti negli ultimi 4 anni.
   TOOLTIP_NO_MONEY: |
     È il momento di essere più ragionevoli.
 

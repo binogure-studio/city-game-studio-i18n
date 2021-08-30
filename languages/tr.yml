@@ -85,6 +85,7 @@ tr:
   BUTTON_CANCEL_GAMEENGINE: Oyun motorunu İptal
   BUTTON_CANCEL_GAMEUPDATE: Ücretsiz güncelleme İptal
   BUTTON_CANCEL_DLC: Ödenen güncelleştirmeyi iptal
+  BUTTON_UNASSIGN: Atamayı kaldır
 
   # Labels, descriptive
   BUTTON_CLICK_ME: Beni tıkla
@@ -1721,6 +1722,16 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_TOO_HARD: |
+    Bu zorluk seviyesi zorludur.
+    Bunu yapmadan önce oyunu zorluk 1 veya 2'de tamamlamış olmak daha iyidir.
+
+    Çok zor bir modu denemek, oyundan zevk almamanıza veya bir şeylerin haksız veya dengesiz olduğunu hissetmenize neden olabilir.
+  TOOLTIP_REQUIRED_POINTS: |
+    İyi bir oyun yapmak için gereken puan sayısı.
+
+    Oyun boyutu ne kadar büyük olursa, gerekli puanlar o kadar büyük olur.
+    Ayrıca son 4 yılda yapılan benzer oyunları da kullanıyor.
   TOOLTIP_NO_MONEY: |
     Daha mantıklı olmanın zamanı geldi.
 
