@@ -9,7 +9,7 @@ ru:
   BUTTON_BUILD_MODE: Режим строительства
   BUTTON_BUILDING_RENT: Аренда
   BUTTON_CANCEL: Отменить
-  BUTTON_CANCEL_ALL: Отменить все
+  BUTTON_CANCEL_ALL: Отменить всё
   BUTTON_CLOSE: Закрыть
   BUTTON_CREDITS: Титры
   BUTTON_EXIT: Выход
@@ -23,7 +23,7 @@ ru:
   BUTTON_RESET: Сброс
   BUTTON_SKIP: Пропустить
   BUTTON_START: Старт
-  BUTTON_NEED_STUDIO: Нет свободной студии
+  BUTTON_NEED_STUDIO: Нет доступных студий
   BUTTON_CLEAR_EVENTS: Очистить
   BUTTON_TOO_BAD: Очень плохо
   BUTTON_BUY_ANOTHER_ONE: Купить ещё один
@@ -32,9 +32,9 @@ ru:
   BUTTON_ASSIGN_EMPLOYEE: Назначить
   BUTTON_WITHDRAW_SPECIALISTS: Отозвать всех специалистов
   BUTTON_KEEP_PLAYING: Продолжить играть
-  BUTTON_LEADERBOARD: Статистика
+  BUTTON_LEADERBOARD: Таблица лидеров
   BUTTON_GIVEUP: Сдаться
-  BUTTON_LOAN: Займ
+  BUTTON_LOAN: Заём
   BUTTON_REPAY: Погасить
   BUTTON_ZOOM: Приблизить
   BUTTON_BUY: Купить
@@ -45,7 +45,7 @@ ru:
   BUTTON_RESTORE: Восстановить
   BUTTON_DELETE: Удалить
   BUTTON_DELETE_ALL: Удалить все
-  BUTTON_SPAM: Спам
+  BUTTON_SPAM: Пометить как спам
   BUTTON_UNSPAM: Не спам
   BUTTON_HOLIDAY: Отправить студию в отпуск
   BUTTON_HOLIDAY_SOLO: Отправить в отпуск
@@ -53,7 +53,7 @@ ru:
   BUTTON_BUGREPORT: Сообщить об ошибке
   BUTTON_FEEDBACK: Обратная связь
   DROPDOWN_LANGUAGE: Языки
-  BUTTON_CRACK_GAME: Взлом игры
+  BUTTON_CRACK_GAME: Взломать эту игру
   BUTTON_FORCE_STUDIO_SELL: Принудительная продажа студии
   BUTTON_SPY: Шпионить за конкурентом
   BUTTON_HIRE_THEIR_EMPLOYE: Нанять их сотрудника
@@ -70,7 +70,7 @@ ru:
   BUTTON_PAY: Оплатить
   BUTTON_UPDATE: Обновить
   BUTTON_EDIT: Редактировать
-  BUTTON_CONFINE_MOUSE: Конфинировать курсор мыши
+  BUTTON_CONFINE_MOUSE: Ограничить курсор мыши в окне игры
   BUTTON_SHOW_STUDIO: Показать студию
   BUTTON_CANCEL_GAME: Отменить разработку
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
@@ -80,12 +80,12 @@ ru:
   BUTTON_TRAINING_START: Начать обучение
   BUTTON_TRAINING_STOP: Остановить обучение
   BUTTON_CANCEL_CONTRACT: Отменить контракт
-  BUTTON_CANCEL_GAMEPORT: Отменить порт игры
+  BUTTON_CANCEL_GAMEPORT: Отменить портирование игры
   BUTTON_CANCEL_FEATURE: Отменить функциональность
   BUTTON_CANCEL_GAMEENGINE: Отменить игровой движок
   BUTTON_CANCEL_GAMEUPDATE: Отменить бесплатное обновление
   BUTTON_CANCEL_DLC: Отменить платное обновление
-  BUTTON_UNASSIGN: Разместить
+  BUTTON_UNASSIGN: Отменить назначение
 
   # Labels, descriptive
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
@@ -101,81 +101,81 @@ ru:
     Продажи будут стремительными.
   LABEL_MINIGAME_DEFEND_WIN: |
     Поздравляем, у вас все получилось!
-  BUTTON_CLICK_ME: Нажми меня
-  LABEL_FIREWALL_SIMULATOR_TITLE: Симулятор взлома
+   BUTTON_CLICK_ME: Нажми меня
+  LABEL_FIREWALL_SIMULATOR_TITLE: Симулятор контр-взлома
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
     Ваша цель - защитить свою игру, иначе ее взломают.
-    Чтобы достичь этой цели, нажимайте на синие кнопки, чтобы они достигли 0, чтобы защитить сеть.
+    Для защиты сети, нажимайте на синие кнопки, пока показатель не достигнет 0.
 
     Это просто, но вы должны действовать быстро!
   LABEL_GAME_UPDATE_NB: Количество обновлений
   LABEL_GAME_UPDATE_LAST: Последний раз, когда игра была обновлена
-  LABEL_SELLING_PRICE: Продажная цена
+  LABEL_SELLING_PRICE: Цена продажи
   LABEL_EMPLOYEE: Сотрудник
   LABEL_MARKET_RESEARCH_NEW: Новые исследования рынка
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     Требуется менеджер по маркетингу.
     Чем лучше менеджер по маркетингу, тем быстрее будет проведено исследование рынка.
   LABEL_MARKET_RESEARCH: Исследование рынка
-  LABEL_MARKET_RESEARCH_TYPE: Тип маркетингового исследования
+  LABEL_MARKET_RESEARCH_TYPE: Тип рыночного исследования
   LABEL_GAME_TYPE_LIST: Список жанров игр
   LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Анализ целевой аудитории
-  LABEL_MARKET_RESEARCH_NONE: Нет активных маркетинговых исследований
-  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Класс становится доступным.
+  LABEL_MARKET_RESEARCH_NONE: Нет активных рыночных исследований
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Лекционная аудитория становится доступной.
   LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
     Поздравляем, учебная сессия только что закончилась.
-    У вас есть как минимум один свободный класс, если вы хотите организовать новый тренинг.
-  LABEL_UNIVERSITY_TRAINING: Тренинг
-  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Учебная комната
+    У вас есть как минимум одна свободная леционная аудитория, доступная для организии новой обучающей сессии.
+  LABEL_UNIVERSITY_TRAINING: Обучение
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Лекционная аудитория
   LABEL_UNIVERSITY_SIT: Количество мест
   LABEL_UNIVERSITY: Университет
-  LABEL_UNIVERSITY_MANAGE_TRAINING: Управление тренингами
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Управление обучением
   LABEL_UNIVERSITY_TRAINING_TYPE: Тип обучения
   LABEL_UNIVERSITY_LECTURE_HALL: Количество лекционных аудиторий
-  LABEL_UNIVERSITY_AUTOTRAINING: Автотренинг
-  LABEL_UNIVERSITY_ABANDON: Бросить здание
+  LABEL_UNIVERSITY_AUTOTRAINING: Автообучение
+  LABEL_UNIVERSITY_ABANDON: Покинуть здание
   LABEL_UNIVERSITY_DESTROY: Разрушить здание
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Общее обучение
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Специальное обучение
-  LABEL_UNIVERSITY_TRAINING_LIST: Список тренингов
-  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Нет тренинга
+  LABEL_UNIVERSITY_TRAINING_LIST: Список доступных обучений
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Нет обучения
   LABEL_SOFA: Диван
   LABEL_MISC: Разное
   LABEL_MINUTES: минут
-  LABEL_VIEW_MORE: Посмотреть больше...
+  LABEL_VIEW_MORE: Показать больше...
   LABEL_GAME_INDUSTRY_NEWS: Новости индустрии игр
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s приобретет компанию %s за %s."
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
-    Разработчик и издатель видеоигр [b]%s[/b] был приобретен [b]%s[/b] за предложение за [b]%s[/b].
+    Разработчик и издатель видеоигр, стоящий за [b]%s[/b], был приобретён [b]%s[/b] по предложению оценённым в [b]%s[/b].
 
-    [b]%s[/b] опубликовало заявление о том, что она заплатит [b]%s[/b] за акцию компании и что сделка, как ожидается, будет закрыта в первом квартале года. 
+    Представитель [b]%s[/b] опубликовал заявление о том, что будет проведена оплата в размере [b]%s[/b] за акцию компании и что сделка, как ожидается, будет закрыта в первом квартале года. 
     Выкуп увеличит каталог игр под баннером [b]%s[/b].
-    Генеральный директор [b]%s[/b], прокомментировав покупку, сказал:
-    [indent]Наша индустрия развивается, и вместе мы сможем возглавить новую эру развлечений[/indent]
+    Генеральный директор [b]%s[/b], так прокомментировал приобретение:
+    [indent]Наша отрасль растёт, и вместе мы сможем стать лидерами в новую эру развлечений[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
     Эта игра не в полной мере использовала возможности консоли.
   LABEL_MARKETSHARE_KRASHING: >
-    Эта консоль страдает от ужасной репутации, что приводит к низким продажам. Отныне рекомендуется держаться от нее подальше.
+    Эта консоль страдает от ужасной репутации, что приводит к низким продажам. Отныне рекомендуется держаться от неё подальше.
   LABEL_LOSING_MONEY_DESCRIPTION: |
-    Вот ваши финансовые результаты. Он показывает все ваши операционные расходы и доходы.
+    Вот ваши финансовые результаты. Здесь представлены все ваши операционные расходы и доходы.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    Расходы на аренду являются существенными расходами. Вы можете купить здания или взять в аренду меньшие по размеру и закрыть те, которые стоят вам дороже всего.
+    Затраты на аренду являются значительными расходами. Вы можете купить здания или арендовать здания поменьше и закрыть те, которые обходятся вам дороже всего.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
     Зарплата - это большие расходы. Вам следует подумать об увольнении персонала.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    У вас много кофе-машин/автоматов, и это увеличивает ваш бюджет.
+    У вас много кофе-машин/автоматов, и это увеличивает нагрузку на ваш бюджет.
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
     Серверы дорогие. Если у вас есть неиспользуемые серверы, вы должны их продать.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
     Вы много тратите на маркетинговые кампании. Может быть, вам стоит остановить некоторые маркетинговые кампании или конвенции.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
-    Похоже, что ваша ипотека дорогая. Если вы можете, выплатите их с помощью более крупной долгосрочной ипотеки.
+    Похоже, что ваша оплата ипотеки сдишком велика. Если вы можете, выплатите текущую ипотеку с помощью более крупной долгосрочной ипотеки.
   LABEL_LOSING_MONEY_HARD: >
-    Ты тратишь больше, чем зарабатываешь. Если вы хотите выяснить, что стоит вам больше всего, проконсультируйтесь с вашими финансовыми данными.
+    Ты тратишь больше, чем зарабатываешь. Если вы хотите выяснить, что обходится вам дороже всего, ознакомьтесь с вашими финансовыми данными.
   LABEL_SUBSCRIPTION: Подписка
   LABEL_PLATFORM_NOT_POWERFULL: >
     Эта платформа недостаточно мощная
-  BUTTON_RELEASE_ALL: Опубликовать все
+  BUTTON_RELEASE_ALL: Опубликовать всё
   TOOLTIP_RELEASE_ALL_BUTTON: |
     Опубликовать все игры, контракты и приставки,
     готовые к публикации.    
@@ -195,7 +195,7 @@ ru:
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
     Здравствуйте %s,
 
-    Еще одно письмо для заполнения вашего почтового ящика. Но это на благое дело.
+    Ещё одно письмо для заполнения вашего почтового ящика. Но это на благое дело.
     Я здесь, чтобы рассказать вам о снижении стоимости производства.
 
     %s
@@ -206,25 +206,25 @@ ru:
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
     Затраты на производство [b]%s[/b] снижены на [b]%s%%[/b].
   LABEL_PLATFORM_NOT_RELEASED: |
-    %s nu este încă disponibil
+    %s пока недоступен
   LABEL_PLATFORM_NO_COMPONENT: |
     Нет выбранных компонентов
-  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Сокращение производственных издержек
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Снижение производственных затрат
   LABEL_FILTER_PLATFORM_RELEASED: Опубликованные платформы
   LABEL_FILTER_PLATFORM_DISCONTINUED: Снятые с производства консоли
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     Регулирует качество консоли.
     
     Плохо изготовленная консоль, как ожидается, будет чаще выходить из строя.
-    Покупатели, купившие неисправную консоль, всегда имеют право на возврат денег.
+    Клиенты, купившие неисправную консоль, всегда имеют право на возмещение.
   LABEL_PLATFORM_DISCONTINUE: Остановить производство
   LABEL_PLATFORM_CHANGE_PRICE: Изменить цену
-  LABEL_PLATFORM_UNIT_RETURNED: Единицы возвращенные
+  LABEL_PLATFORM_UNIT_RETURNED: Возвращено единиц
   LABEL_PLATFORM_COST_RATIO: Соотношение затрат
   LABEL_PLATFORM_COMPONENT_CONTROLLER: Контроллер
   LABEL_PLATFORM_COMPONENT_CPU: Процессор
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: Картридж
-  LABEL_PLATFORM_COMPONENT_MEMORY: Объем памяти
+  LABEL_PLATFORM_COMPONENT_MEMORY: Модуль памяти
   LABEL_PLATFORM_COMPONENT_GPU: Видеокарта
   LABEL_PLATFORM_COMPONENT_SCREEN: Экран
   LABEL_PLATFORM_COMPONENT_BOX: Корпус консоли
@@ -237,9 +237,9 @@ ru:
   LABEL_PLATFORM_NAME: Название платформы
   LABEL_TRADE_PUBLISH_TOOLTIP: |
     Это издательское предложение подкреплено грантом в размере %s долларов.
-    Пенальти в размере %s$ применяется, если вы не достигнете минимального балла в %d%%.
+    Штраф в размере %s$ применяется, если вы не достигнете минимального балла в %d%%.
   LABEL_CANNOT_HIRE_NO_DESK: |
-    У вас должен быть письменный стол, чтобы нанять специалиста.
+    У вас должен быть рабочий стол, чтобы нанять специалиста.
   LABEL_CUSTOM_CONSOLE: Разработка консоли
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
     Создайте свою собственную игровую консоль.
@@ -247,21 +247,21 @@ ru:
     Выбирайте комплектующие, собирайте консоль и готовьтесь к маркетинговой кампании!
     Чтобы получить максимальную прибыль, рассмотрите найм менеджера по маркетингу и бухгалтера.
   LABEL_INCOMPATIBLE_VERSION: >
-    Невозможно открыть сохранение, потому что оно было создано с более новой версией игры.
+    Невозможно открыть сохранение, потому что оно было создано в более новой версии игры.
   LABEL_GAME_CANCELED: Игра отменена
   LABEL_EMPLOYEE_FIRED: Сотрудник уволен
   LABEL_ASSIGN_SPECIALIST: Назначьте специалистов.
   LABEL_ACCOUNTANT_TOOLTIP: |
-    Назначить бухгалтера для уменьшения налоговых обязательств.
+    Назначьте бухгалтера для уменьшения налоговых обязательств.
   LABEL_MARKETING_MANAGER_TOOLTIP: |
-    Назначить менеджера по маркетингу для повышения
+    Назначьте менеджера по маркетингу для повышения
     популярности игры.
   LABEL_PRODUCER_TOOLTIP: |
-    Назначение производителя для создания больших игр и
-    повышения производительности ваших сотрудников.
+    Назначение продюсера позволит вам создавать 
+    более масштабные игры и повысить продуктивность ваших сотрудников.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
-    Назначение сетевого администратора для оптимизации
-    нагрузки на сервер, необходимой для каждого игрока.
+    Назначьте сетевого администратора позволяет оптимизировать
+    требуемую нагрузку на сервер для каждого игрока.
   LABEL_INTERVIEW_INDIE: |
     Привет,
     Я Бруно Триггер. Каждую среду я веду шоу [i]3615 Dorian[/i] о независимых видеоиграх. 
@@ -275,28 +275,28 @@ ru:
   LABEL_INTERVIEW_BIG: |
     Здравствуйте,
     Джио Тард, я работаю на [i]Rock Paper Pistol[/i]. [b]%s[/b] кажется многообещающим, я хотел бы задать вам несколько вопросов для статьи.
-    У вас есть 5 минут?
+    У Вас есть 5 минут?
   LABEL_INTERVIEW_BIG_QUESTION: |
     После [b]%d[/b] лет существования вы публикуете свою первую ААА. С [b]%s[/b] вы вступаете в высшую лигу отрасли.
     Мы хотели бы знать, будет ли [b]%s[/b] названа Игрой [b]%d[/b] года?
   LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
-    [b]%s[/b] должен иметь хрустальный шар! Предсказать в предвкушении того, кто будет номинирован на Игру Года - нелегко!
-    Чтобы быть настолько дальновидными, они должны знать внутреннее устройство отрасли!
+    [b]%s[/b] должен иметь хрустальный шар! Прогнозировать в ожидании, кто будет номинирован на «Игру года», непросто!
+    Чтобы быть такими дальновидными, они должны знать, как устроена отрасль изнутри!
   LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
-    Кто угодно может ошибаться, ты, я, все. Одно можно сказать точно, однако, [b]%s[/b] не смог предсказать будущее!
-    Люди учатся больше на своих ошибках, чем на своих успехах. В любом случае, это то, что мы, вероятно, много слышим в [b]%s[/b].
+    Кто угодно может ошибаться, ты, я, все. Одно можно сказать точно, как бы там ни было, [b]%s[/b] не смог предсказать будущее!
+    Люди больше учатся на своих ошибках, чем на своих успехах. В любом случае, это то, что мы, вероятно, часто слышим на [b]%s[/ b].
   LABEL_INTERVIEW_BIG_YES: |
     Ну, после тяжелой работы, это точно.
   LABEL_INTERVIEW_BIG_NO: |
-    Мы были бы первыми удивлены, если бы это было так!
+    Если бы это было так, мы были бы первыми удивлены!
   LABEL_INTERVIEW_REFUSAL: |
     Простите, что потратил ваше время.
   LABEL_INTERVIEW_ACCEPT: |
     Конечно.
   LABEL_ADVANCED_START_TOOLTIP: |
-    Лучше всего оставить эту коробку незамеченной, если это ваша первая игра.
+    Лучше не ставить этот флажок, если это ваша первая игра.
 
-    Расширенный запуск разблокирует все функции с самого начала игры.
+    Расширенный запуск открывает все возможности с самого начала игры.
   LABEL_NUMBER_OF_PRODUCED_POINTS: Количество произведенных очков
   LABEL_REQUIRE_FANBASE: Требуется %s фанатов для увеличения продаж.
   LABEL_MAINTENANCE: Техническое обслуживание
@@ -305,19 +305,19 @@ ru:
   LABEL_DETAILS_SHOWN: Показать все графики и детали
   LABEL_DETAILS_HIDDEN: Скрыть все диаграммы и детали
   LABEL_AUTO_ADJUST: Автоматическая настройка
-  LABEL_MISC_SETTINGS: Ошибки в настройках
-  LABEL_MOD_BRANCH: Филиалы Steam
+  LABEL_MISC_SETTINGS: Прочие настройки
+  LABEL_MOD_BRANCH: Ответлвения Steam
   LABEL_MOD_BRANCH_TOOLTIP: |
     Установите этот флажок, если хотите управлять несколькими ветвями Steam.
     Вам нужно будет создать папку для каждой ветки Steam (default, unstable или oldstable)
   LABEL_MOD_MISSING: >
-    Пропущенные моды, savegame нельзя загрузить.
+    Отсутствуют моды, сохранение игры не может быть загружено.
   LABEL_MOD_BANNED: Мод запрещен
   LABEL_MOD_AGREEMENT: |
     Отправляя предмет в Мастерскую, вы принимаете условия [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]использования Мастерской Steam[/url]
   LABEL_MOD_VERSION: Версия
-  LABEL_MOD_CREATE: Создать модную версию
-  LABEL_MOD_LIST: Списочные моды
+  LABEL_MOD_CREATE: Создать мод
+  LABEL_MOD_LIST: Список модов
   LABEL_MOD_NAME: Название
   LABEL_MOD_DESCRIPTION: Описание
   LABEL_MOD_LANGUAGE: Язык
@@ -332,16 +332,16 @@ ru:
   LABEL_MOD_UPDATE: Обновление
   LABEL_MOD_VALIDATE: Проверить
   LABEL_MOD_NOT_VALID: Недействительный
-  LABEL_MOD_CREATED: Мод созданный
+  LABEL_MOD_CREATED: Мод создан
   LABEL_MOD_UPDATED: Мод обновлён
   TOOLTIP_HOLD_TO_CLICK: |
-    Удерживайте нажатой кнопку , чтобы нажать
+    Удерживайте нажатой кнопку, чтобы опубликовать
   LABEL_GAME_EXCLUSIVITY: >
     Эта игра эксклюзивно для %s
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
     Привет, [b]%s[/b],
 
-    Я рад видеть, что ваша студия издает качественные игры. Я здесь, чтобы поговорить о [b]%s[/b], эта игра выглядит многообещающе, и я хотел бы помочь вам сделать ее выпуск успешным во всем мире! Будет представлена игра [b]%s[/b], и мы упакуем вашу игру с нашей консолью. Взамен мы хотим, чтобы эта игра была эксклюзивной в [b]%s[/b]. [i](Все порты к приставкам, не входящим в [b]%s[/b], будут отменены)[/i]
+    Я рад видеть, что ваша студия издаёт качественные игры. Я здесь, чтобы поговорить о [b]%s[/b], эта игра выглядит многообещающе, и я хотел бы помочь вам сделать ее выпуск успешным во всем мире! Будет представлена игра [b]%s[/b], и мы упакуем вашу игру с нашей консолью. Взамен мы хотим, чтобы эта игра была эксклюзивной в [b]%s[/b]. [i](Все порты к приставкам, не входящим в [b]%s[/b], будут отменены)[/i]
     В дополнение к демонстрации Вашей игры, мы предлагаем Вам [b]%s$[/b]. Договорились?
   LABEL_CLOUDS: Показать облака на карте
   LABEL_AUTOSAVE: Автоматическое сохранение
@@ -364,10 +364,10 @@ ru:
   LABEL_PLATFORM_MANUFACTURER_MAIN: |
     Чем могу помочь?
   LABEL_PLATFORM_MANUFACTURER_ANGRY: |
-    Не трать мое время, малыш!
+    Не трать моё время, малыш!
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
-    Вы не можете публиковать игры на этой платформе,
-    потому что вы должны вести переговоры, чтобы разблокировать его.
+    Вы не можете публиковать игры на этой платформе, сначала требуется
+    провести переговоры о получении лицензии.
   LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
     Вы не можете публиковать игры на этой платформе,
     потому что у вас есть эксклюзивный контракт с %s.
@@ -394,7 +394,7 @@ ru:
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
     Мы не можем принять это предложение.
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
-    Как насчет этого вместо этого?
+    Что вы на это скажете?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
     Чек на [b]%s$[/b] за лицензию [b]%s[/b] и эксклюзивный контракт на [b]%s[/b] месяцев для [b]%s[/b].
     (Вы не сможете публиковать игры на приставках других производителей).
@@ -417,14 +417,14 @@ ru:
   LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
     Рынок рушится
   LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
-    В середине лета Wataggi, лидер на рынке видеоигр, объявил о потере 356 миллионов
+    В середине лета Wataggi, лидер на рынке видеоигр, объявил о убытках в размере 356 миллионов
     долларов. Plastics испытывал очень серьезные трудности и уходил с рынка. Ходят
-    слухи: рынок видеоигр рушится, чтобы освободить место для микрокомпьютеров.
+    слухи, что рынок видеоигр рушится, уступая место для микрокомпьютеров.
 
-    Фактически, потери Wataggi и Plastics, ретранслированные падением акций на
+    Фактически, убытки Wataggi и Plastics, вызванные падением акций на
     Нью-Йоркской фондовой бирже, создали необоснованную панику. С годовым объемом
     продаж в США, составляющим 2 миллиарда долларов, видеоигры остаются надежной
-    отраслью. Но впечатляющий рост последних двух лет несколько сравнялся. Рынок
+    отраслью. Но впечатляющий рост последних двух лет несколько выравнялся. Рынок
     движется как вверх по рынку, где консоль RobertoVision от Roberto Industries
     конкурирует с домашними микрокомпьютерами - так и вниз по рынку, за устройства
     с удовлетворительным соотношением цена/производительность.
@@ -434,12 +434,12 @@ ru:
   LABEL_PLATFORM_OS: ПК
   LABEL_PLATFORM_CONSOLE: Консоль
   LABEL_PLATFORM_HANDLED: Портативная консоль
-  LABEL_WITHDRAW_EMPLOYEE: Отзывной работник
+  LABEL_WITHDRAW_EMPLOYEE: Вывод сотрудника
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
-    Выберите функции для обновления
-    в соответствии с ожиданиями игроков.
+    Выберите функции, которые нужно обновить, 
+    чтобы оправдать ожидания игроков.
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
-    При обновлении игрового движка применяется пенальти,
+    При обновлении игрового движка применяется штраф,
     который влияет только на количество требуемых очков.
   LABEL_TOO_MUCH_TIME_SPENT: |
     Либо ваша команда разработчиков недостаточно сбалансирована,
@@ -454,49 +454,49 @@ ru:
   LABEL_IAP_ADD_MICROTRANSATION: >
     Добавьте микротранзакцию, нажав на синюю кнопку.
   LABEL_NUMBER_OF_NEW_PLAYERS: Количество новых игроков
-  LABEL_NUMBER_OF_RETURNING_PLAYERS: Количество возвращающихся игроков
+  LABEL_NUMBER_OF_RETURNING_PLAYERS: Количество вернувшихся игроков
   LABEL_NUMBER_OF_PLAYER_LOST: Количество ушедших игроков
   LABEL_FEATURE_REQUIRED: >
     Эта функция требует наличия следующих модулей игрового движка:
-  LABEL_ESTIMATED_INCOME: Сметный доход
+  LABEL_ESTIMATED_INCOME: Предполагаемый доход
   LABEL_ADS_WARNING: >
     Будьте осторожны при использовании рекламы.
-    Объявления влияют на удержание пользователей.
+    Реклама влияет на удержание пользователей.
   LABEL_IAP_WARNING: >
     Игроки, купившие игру, не любят смотреть рекламу
     или тратить деньги на микротранзакции.    
   LABEL_IAP_NAME: Микротранзакции
-  LABEL_IAP_PACK: "Пакет #%d"
-  LABEL_IAP_TYPE_POWER_BOOST: Повышение мощности
-  LABEL_IAP_POWER: Коэффициент мощности
+  LABEL_IAP_PACK: "Пак #%d"
+  LABEL_IAP_TYPE_POWER_BOOST: Ускорение
+  LABEL_IAP_POWER: Коэффициент ускорения
   LABEL_IAP_TYPE_COSMETIC: Косметика
   LABEL_IAP_TYPE_LOOTBOX: Лутбокс
   LABEL_IAP_LIST: Перечень пунктов
   LABEL_IAP_RARITY: Редкость
   LABEL_IAP_RARITY_UNCOMMON: Необычный
-  LABEL_IAP_RARITY_RARE: Редкий сайт
-  LABEL_IAP_RARITY_EPIC: Epic
+  LABEL_IAP_RARITY_RARE: Редкий
+  LABEL_IAP_RARITY_EPIC: Эпический
   LABEL_IAP_RARITY_LEGENDARY: Легендарный
   LABEL_FINANCIAL_DETAILS: Финансовые данные
-  LABEL_AD_NAME: Объявление
+  LABEL_AD_NAME: Реклама
   LABEL_AD_POPUP: Всплывающая реклама
   LABEL_AD_BANNER: Рекламный баннер
   LABEL_NUMBER_OF_PLAYER: Количество игроков
   LABEL_GAME_ENGINE_LIST: Список игровых движков
   LABEL_THEME_LIST: Тематический список
-  LABEL_GAME_ANNOUNCEMENT: Анонсы об играх
+  LABEL_GAME_ANNOUNCEMENT: Анонсы игр
   LABEL_CONVENTION_MESSAGE: Конвенции
   LABEL_NO_FILTER: Нет фильтра
   LABEL_GAME_UPDATE_EXPECTED: В ожидании обновления
-  LABEL_GAME_UPDATE_NOTEXPECTED: Не ожидая обновления
+  LABEL_GAME_UPDATE_NOTEXPECTED: Не ожидает обновления
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Активная маркетинговая кампания
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Нет активной маркетинговой кампании
-  LABEL_FANBASE_GAIN: Растущая база фанатов
+  LABEL_FANBASE_GAIN: Рост фанатов
   LABEL_FANBASE_LOSS: Снижение фанатов
   LABEL_MONEY_MAKER: Рентабельный
-  LABEL_MONEY_LOSER: Не выгодно
-  LABEL_SELECT_ALL: Выбрать все
-  LABEL_SELECT_NONE: Отменить все
+  LABEL_MONEY_LOSER: Нерентабельный
+  LABEL_SELECT_ALL: Выбрать всё
+  LABEL_SELECT_NONE: Ничего не выбирать
   LABEL_FREE_GAME: Бесплатно
   LABEL_SUBSCRIPTION_PRICE: Стоимость подписки
   LABEL_GAME_PRICE: Цена игры
@@ -504,14 +504,14 @@ ru:
   LABEL_X_STUDIOS: "%d студий"
   LABEL_RANDOM_SLIDER: Рандомизировать ползунки игр
   LABEL_DISCOUNT: Сделать скидку
-  LABEL_ORGANIZE_YEARLY: Организовать ежегодную конференцию
+  LABEL_ORGANIZE_YEARLY: Организовать ежегодную конвенцию
   LABEL_YEARLY: Каждый год
-  LABEL_GAME_UPDATE_REQUIREMENTS: Ожидания игроков от обновления
+  LABEL_GAME_UPDATE_REQUIREMENTS: Ожидания обновления игроками
   LABEL_GAME_UPDATE_HYPE: Шумиха об обновлении игры
   LABEL_GAME_UPDATE: Опубликовать обновление
   LABEL_GAME_FREE_UPDATE: Бесплатное обновление
   LABEL_GAME_PAID_UPDATE: Платное обновление
-  LABEL_REPAIR_ALL: Исправить все
+  LABEL_REPAIR_ALL: Починиь всё
   LABEL_UNIQUE: Уникальный
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
     Для активации цифрового магазина
