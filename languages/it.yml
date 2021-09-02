@@ -88,6 +88,19 @@ it:
   BUTTON_UNASSIGN: Disassegnare
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Capo, [b]%s[/b] è stato violato.
+    Dobbiamo fare qualcosa per fermarlo prima che sia troppo tardi!
+    Devi dire solo una parola!
+  LABEL_MINIGAME_DEFEND_START: |
+    Andiamo!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Lascia che accada!
+  LABEL_MINIGAME_LOSE: |
+    Il tuo gioco è disponibile gratuitamente sul mercato.
+    Le vendite saranno colpite.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Congratulazioni, hai fatto bene!
   BUTTON_CLICK_ME: Clicca su di me
   LABEL_FIREWALL_SIMULATOR_TITLE: Simulatore di counter-hacking
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1858,7 +1871,7 @@ it:
   TOOLTIP_SHOP: Compra mobili e oggetti per il tuo ufficio
   TOOLTIP_BUILDMOD: Dipingi e abbellisci il tuo ufficio
   TOOLTIP_ASSIGN: Assegnare un dipendente
-  TOOLTIP_STUDIO_SELECT: Lista dei tuoi studi
+  TOOLTIP_STUDIO_SELECT: Seleziona gli studi
   TOOLTIP_ANNOUNCE_GAME: |
     Annuncia il videogioco.
     Crea hype.

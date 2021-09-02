@@ -88,6 +88,19 @@ fr:
   BUTTON_UNASSIGN: Détacher
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Boss, [b]%s[/b] est en train de se faire pirater.
+    Il faut faire intervenir avant qu'il ne soit trop tard!
+    Vous n'avez qu'un seul mot à dire!
+  LABEL_MINIGAME_DEFEND_START: |
+    C'est parti
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Laissez les faire
+  LABEL_MINIGAME_LOSE: |
+    Votre jeu est maintenant disponible gratuitement sur le marché.
+    Les ventes vont être impactées.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Félicitations vous vous êtes bien défendu!
   BUTTON_CLICK_ME: Cliquez sur moi
   LABEL_FIREWALL_SIMULATOR_TITLE: Simulateur de contre-piratage
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1877,7 +1890,7 @@ fr:
     Refaire la peinture,
     les sols et embellir votre studio
   TOOLTIP_ASSIGN: Assigner un employé
-  TOOLTIP_STUDIO_SELECT: Lister vos studios
+  TOOLTIP_STUDIO_SELECT: Sélectionner des studios
   TOOLTIP_ANNOUNCE_GAME: |
     Annoncer le jeu au grand public.
     Génère de l'engouement.

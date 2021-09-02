@@ -88,6 +88,19 @@ en:
   BUTTON_UNASSIGN: Unassign
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Boss, [b]%s[/b] is being hacked.
+    We must do something to stop it before it's too late!
+    You only have to say one word!
+  LABEL_MINIGAME_DEFEND_START: |
+    Let's go!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Let it happen!
+  LABEL_MINIGAME_LOSE: |
+    Your game is available for free on the market.
+    Sales will be hit.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Congratulations, you've done well!
   BUTTON_CLICK_ME: Click me
   LABEL_FIREWALL_SIMULATOR_TITLE: Counter-hacking simulator
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1864,7 +1877,7 @@ en:
   TOOLTIP_SHOP: Buy furniture and stuff for your office
   TOOLTIP_BUILDMOD: Paint and beautify your office
   TOOLTIP_ASSIGN: Assign an employee
-  TOOLTIP_STUDIO_SELECT: List your studios
+  TOOLTIP_STUDIO_SELECT: Select studios
   TOOLTIP_ANNOUNCE_GAME: |
     Announce the video game.
     Generates hype.

@@ -88,6 +88,19 @@ pt:
   BUTTON_UNASSIGN: Desatribuir
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Chefe, [b]%s[/b] está a ser pirateado.
+    Temos de fazer algo para o impedir antes que seja demasiado tarde!
+    Só tem de dizer uma palavra!
+  LABEL_MINIGAME_DEFEND_START: |
+    Vamos!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Deixem-no acontecer!
+  LABEL_MINIGAME_LOSE: |
+    O seu jogo está disponível gratuitamente no mercado.
+    As vendas serão atingidas.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Parabéns, portou-se bem!
   BUTTON_CLICK_ME: Clique em mim
   LABEL_FIREWALL_SIMULATOR_TITLE: Simulador de contra pirataria informática
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1884,7 +1897,7 @@ pt:
     para o seu escritório
   TOOLTIP_BUILDMOD: Imprima e embeleze seu escritório
   TOOLTIP_ASSIGN: Atribuir um empregado
-  TOOLTIP_STUDIO_SELECT: Listar seus estúdios
+  TOOLTIP_STUDIO_SELECT: Seleccione os estúdios
   TOOLTIP_ANNOUNCE_GAME: |
     Anuncie o video game.
     Cria hype.

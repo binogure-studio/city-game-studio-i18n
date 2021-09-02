@@ -88,6 +88,19 @@ tr:
   BUTTON_UNASSIGN: Atamayı kaldır
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Patron, [b]%s[/b] saldırıya uğradı.
+    Çok geç olmadan onu durdurmak için bir şeyler yapmalıyız!
+    Sadece bir kelime söylemek zorundasın!
+  LABEL_MINIGAME_DEFEND_START: |
+    Hadi gidelim!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Hadi olsun!
+  LABEL_MINIGAME_LOSE: |
+    Oyununuz piyasada ücretsiz olarak mevcuttur.
+    Satışlar patlayacak.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Tebrikler, iyi iş çıkardınız!
   BUTTON_CLICK_ME: Beni tıkla
   LABEL_FIREWALL_SIMULATOR_TITLE: Karşı saldırı simülatörü
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1851,7 +1864,7 @@ tr:
   TOOLTIP_SHOP: Ofisiniz için mobilya ve eşya satın alın
   TOOLTIP_BUILDMOD: Ofisinizi Boyayın ve güzelleştirin
   TOOLTIP_ASSIGN: Bir çalışan atama
-  TOOLTIP_STUDIO_SELECT: Çalışanı masaya atayın
+  TOOLTIP_STUDIO_SELECT: Stüdyoları seçin
   TOOLTIP_ANNOUNCE_GAME: |
     Video oyununu duyurun.
     Aldatıcı reklam oluşturur.

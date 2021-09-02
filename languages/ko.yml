@@ -88,6 +88,19 @@ ko:
   BUTTON_UNASSIGN: 할당 해제
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    보스, [b]%s[/b]이 해킹당하고 있습니다.
+    너무 늦기 전에 그것을 막기 위해 뭔가를 해야 합니다!
+    한 마디만 하면 돼!
+  LABEL_MINIGAME_DEFEND_START: |
+    가자!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    그것이 일어나게하십시오!
+  LABEL_MINIGAME_LOSE: |
+    귀하의 게임은 시장에서 무료로 제공됩니다.
+    매출이 타격을 입을 것입니다.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    축하합니다, 수고하셨습니다!
   BUTTON_CLICK_ME: 클릭 해주세요
   LABEL_FIREWALL_SIMULATOR_TITLE: 해킹 방지 시뮬레이터
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1833,7 +1846,7 @@ ko:
   TOOLTIP_SHOP: 당신의 사무실을 위한 가구들이나 물건들 구매
   TOOLTIP_BUILDMOD: 당신의 사무실을 페인트칠하고 예쁘게 하기
   TOOLTIP_ASSIGN: 직원 할당
-  TOOLTIP_STUDIO_SELECT: 당신의 스튜디오들 목록
+  TOOLTIP_STUDIO_SELECT: 스튜디오 선택
   TOOLTIP_ANNOUNCE_GAME: |
     비디오 게임을 발표합니다.
     광고 생성.

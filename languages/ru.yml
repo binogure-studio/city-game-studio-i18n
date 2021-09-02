@@ -88,6 +88,19 @@ ru:
   BUTTON_UNASSIGN: Разместить
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Босс, [b]%s[/b] взламывают.
+    Мы должны сделать что-то, чтобы остановить это, пока не стало слишком поздно!
+    Тебе нужно сказать только одно слово!
+  LABEL_MINIGAME_DEFEND_START: |
+    Поехали!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Пусть это случится!
+  LABEL_MINIGAME_LOSE: |
+    Ваша игра доступна бесплатно на рынке.
+    Продажи будут стремительными.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Поздравляем, у вас все получилось!
   BUTTON_CLICK_ME: Нажми меня
   LABEL_FIREWALL_SIMULATOR_TITLE: Симулятор взлома
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1891,7 +1904,7 @@ ru:
   TOOLTIP_SHOP: Магазин мебели и прочей пренадлежности
   TOOLTIP_BUILDMOD: Покраска и украшение вашего офиса
   TOOLTIP_ASSIGN: Назначение сотрудника
-  TOOLTIP_STUDIO_SELECT: Список ваших студий
+  TOOLTIP_STUDIO_SELECT: Выберите студии
   TOOLTIP_ANNOUNCE_GAME: Создать анонс
   TOOLTIP_CONCURRENT: |
     Компании по видеоиграм

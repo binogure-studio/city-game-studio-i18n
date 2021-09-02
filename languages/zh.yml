@@ -88,6 +88,19 @@ zh:
   BUTTON_UNASSIGN: 取消分配
 
   # Labels, descriptive
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    老板，[b]%s[/b]被黑了。
+    我们必须想办法阻止它，否则就太晚了!
+    你只需要说一个字！
+  LABEL_MINIGAME_DEFEND_START: |
+    我们走吧！
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    让它发生吧！
+  LABEL_MINIGAME_LOSE: |
+    你的游戏现在可以在市场上免费使用。
+    销售将受到影响。
+  LABEL_MINIGAME_DEFEND_WIN: |
+    恭喜你，你做得很好!
   BUTTON_CLICK_ME: 点击我
   LABEL_FIREWALL_SIMULATOR_TITLE: 反黑客模拟器
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
@@ -1779,7 +1792,7 @@ zh:
   TOOLTIP_SHOP: 为你的办公室购买家具和物品
   TOOLTIP_BUILDMOD: 美化你的办公室
   TOOLTIP_ASSIGN: 分配员工
-  TOOLTIP_STUDIO_SELECT: 列出你的工作室
+  TOOLTIP_STUDIO_SELECT: 选择工作室
   TOOLTIP_ANNOUNCE_GAME: |
     发布游戏预告。
     炒作新游戏。
