@@ -88,6 +88,25 @@ pt-br:
   BUTTON_UNASSIGN: Desatribuir
   
   # Labels, descriptive
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    O pessoal de treinamento requeria uma universidade.
+
+    Não há universidade disponível, você precisa construir uma.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    Pelo menos um funcionário deve ser selecionado.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    Pelo menos uma capacidade deve ser selecionada.
+
+    (Projeto/Desenvolvimento ou Polimento)
+  LABEL_NEW_COMPETITOR_TITLE: Chega um novo concorrente
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    Foi anunciado esta manhã que o fundador da [b]%s[/b], que agora vale milhões, decidiu mudar-se para a grande cidade de City Game Studio.
+    O prefeito do City Game Studio está encantado:
+    [code]Um novo investidor aqui em casa! Isso prova que estamos fazendo bem o nosso trabalho. Atrair grandes empresas não é fácil...[/code]
+
+    Como isto impactará as empresas de videogame já presentes no City Game Studio ainda está para ser visto.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     Chefe, o [b]%s[/b] está sendo invadido.
     Devemos fazer algo para detê-lo antes que seja tarde demais!

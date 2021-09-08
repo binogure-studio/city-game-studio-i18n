@@ -88,6 +88,25 @@ nl:
   BUTTON_UNASSIGN: Unassign
 
   # Labels, descriptive
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    Voor de opleiding van personeel is een universiteit nodig.
+
+    Er is geen universiteit, je moet er een bouwen.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    Er moet ten minste één werknemer worden geselecteerd.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    Er moet ten minste één bekwaamheid worden geselecteerd.
+
+    (Ontwerp/Ontwikkeling of Polijsten)
+  LABEL_NEW_COMPETITOR_TITLE: Een nieuwe concurrent arriveert
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    Vanmorgen werd bekend dat de oprichter van [b]%s[/b], die nu miljoenen waard is, heeft besloten te verhuizen naar de grote stad City Game Studio.
+    De burgemeester van City Game Studio is opgetogen:
+    [code]Een nieuwe investeerder hier in huis! Het bewijst dat we ons werk goed doen. Grote bedrijven aantrekken is niet gemakkelijk...[/code]
+
+    Hoe dit de reeds in City Game Studio aanwezige videogamebedrijven zal beïnvloeden, valt nog te bezien.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     Baas, [b]%s[/b] wordt gehackt.
     We moeten iets doen om het te stoppen voor het te laat is.

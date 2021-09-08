@@ -88,6 +88,25 @@ tr:
   BUTTON_UNASSIGN: Atamayı kaldır
 
   # Labels, descriptive
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    Eğitim personeli bir üniversiteye ihtiyaç duyuyordu.
+
+    Mevcut üniversite yok, bir tane inşa etmeniz gerekiyor.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    En az bir çalışan seçilmelidir.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    En az bir yetenek seçilmelidir.
+
+    (Tasarım/Geliştirme veya Parlatma)
+  LABEL_NEW_COMPETITOR_TITLE: Yeni bir rakip geliyor
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    Bu sabah, şimdi milyonlar değerinde olan [b]%s[/b]'nun kurucusunun, büyük City Game Studio şehrine taşınmaya karar verdiği açıklandı.
+    City Game Studio'nun belediye başkanı çok memnun:
+    [code]Evde yeni bir yatırımcı! İşimizi iyi yaptığımızın kanıtıdır. Büyük şirketleri çekmek kolay değil...[/code]
+
+    Bunun City Game Studio'da halihazırda bulunan video oyunu şirketlerini nasıl etkileyeceği henüz belli değil.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     Patron, [b]%s[/b] saldırıya uğradı.
     Çok geç olmadan onu durdurmak için bir şeyler yapmalıyız!

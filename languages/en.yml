@@ -88,6 +88,25 @@ en:
   BUTTON_UNASSIGN: Unassign
 
   # Labels, descriptive
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    Training staff requires a university.
+
+    There is no university available, you need to build one.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    At least one employee must be selected.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    At least one capability must be selected.
+
+    (Design/Development or Polishing)
+  LABEL_NEW_COMPETITOR_TITLE: A new competitor arrives
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    It was announced this morning that the founder of [b]%s[/b], now worth millions, has decided to move to the great city of City Game Studio.
+    The mayor of City Game Studio is delighted:
+    [code]A new investor here at home! It proves that we are doing our job well. Attracting large companies is not easy...[/code]
+
+    How this will impact the video game companies already present in City Game Studio remains to be seen.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     Boss, [b]%s[/b] is being hacked.
     We must do something to stop it before it's too late!

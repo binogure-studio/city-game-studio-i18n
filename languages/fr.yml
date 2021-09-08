@@ -88,6 +88,26 @@ fr:
   BUTTON_UNASSIGN: Détacher
 
   # Labels, descriptive
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    Une université est nécessaire pour entrainer ses employés.
+
+    Aucune université n'est disponible actuellement, vous devez en construire une
+    pour pouvoir entrainer vos employés.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    Il faut sélectionner au minimum un employé.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    Il faut sélectionner au minimum une capacité.
+    (Design/Développement ou Polissage)
+  LABEL_NEW_COMPETITOR_TITLE: Un nouveau concurrent débarque
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    Ce matin nous avons appris que le fondateur désormais millionaire de [b]%s[/b] a décidé de venir s'établir dans la grande ville de City Game Studio.
+
+    Le maire de City Game Studio est ravis:
+    [code]Un nouvel investisseur ici chez nous! C'est la preuve que nous faisons bien notre travail. Attirer des grandes entreprises n'est pas chose aisée [...][/code]
+
+    Il reste à voir comment cela va impacter les entreprises de jeux vidéo déjà présentes dans City Game Studio.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     Boss, [b]%s[/b] est en train de se faire pirater.
     Il faut faire intervenir avant qu'il ne soit trop tard!
@@ -1452,7 +1472,7 @@ fr:
     Des experts ont découvert que les jeux pouvaient s'adresser à un certain public.
     Il se dégage trois genres de publics différents: public jeune, tout public, public mature
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
-    Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux-vidéos.
+    Un virus vient d'émerger. Il s'attaque uniquement aux machines des développeurs de jeux vidéo.
     Son effet est curieux, les pointeurs de souris sont ralentis et bougent tout seuls. Parfois la machine redémarre.
     Une chose est sûre, cela va impacter la productivité de vos employés. Un seul studio semble être touché [b]%s[/b]
   LABEL_VIRUS_UNLEASHED_TITLE: Virus détecté

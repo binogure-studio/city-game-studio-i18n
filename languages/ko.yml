@@ -88,6 +88,25 @@ ko:
   BUTTON_UNASSIGN: 할당 해제
 
   # Labels, descriptive
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    훈련 직원은 대학이 필요했습니다.
+
+    사용할 수 있는 대학이 없습니다. 대학을 지어야 합니다.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    직원을 한 명 이상 선택해야 합니다.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    기능을 하나 이상 선택해야 합니다.
+
+    (설계/개발 또는 연마)
+  LABEL_NEW_COMPETITOR_TITLE: 새로운 경쟁자가 온다
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    현재 수백만 달러의 가치를 지닌 [b]%s[/b]의 설립자가 대도시인 City Game Studio로 이사하기로 결정했다고 오늘 아침 발표되었습니다.
+    City Game Studio의 시장은 기뻐합니다.
+    [code]집에 새로운 투자자가 생겼습니다! 그것은 우리가 우리의 일을 잘하고 있다는 것을 증명합니다. 대기업 유치가 쉽지 않은데..[/code]
+
+    이미 시티게임스튜디오에 입점한 게임회사들에게 어떤 영향을 미칠지 두고 봐야 할 일이다.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     보스, [b]%s[/b]이 해킹당하고 있습니다.
     너무 늦기 전에 그것을 막기 위해 뭔가를 해야 합니다!
