@@ -1,7 +1,7 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Januar 1975, du gründest deine eigene Videospiel-Firma.
-Du mietest eine kleine Wohnung die dir erlaubt dein erstes Spiel zu entwickeln. Schnell werden deine Spiele erfolgreich, doch um weiter zu wachsen musst  du umziehen. Im nächsten Augenblick stellst du bereits Designer ein, um die Grafik deiner Spiele zu verbessern.
+Januar 1975: Du gründest deine eigene Videospiel-Firma.
+Du mietest eine kleine Garage die dir erlaubt dein erstes Spiel zu entwickeln. Schnell werden deine Spiele erfolgreich, doch um weiter zu wachsen musst  du umziehen. Im nächsten Augenblick stellst du bereits Designer ein, um die Grafik deiner Spiele zu verbessern.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
@@ -20,12 +20,12 @@ Nur eine Aneinanderkettung von Erfolgen ermöglicht dir von all den Publishern l
 [*] Die Konkurrenz ausspionieren
 [*] Personal einstellen
 [*] Marketingkampagnen organisieren
-[*] Organisation und Teilnahme an Kongressen
-[*] Unternehmen aufkaufen
-[*] Durchführung von Verträgen, die Ihre Mitarbeiter schulen
+[*] Organisation und Teilnahme an Messen
+[*] Konkurrenten aufkaufen
+[*] Durchführung von Aufträgen, die Ihre Mitarbeiter schulen
 [*] Portierung von Spielen auf mehrere Konsolen
 [*] Gestalten Sie Ihr Firmenlogo
-[*] Verwalten Sie die Zeitpläne Ihrer Mitarbeiter
+[*] Verwalten Sie die Schichtplanung Ihrer Mitarbeiter
 [*] Erhalten Sie die Auszeichnung Spiel des Jahres
 [*] Amüsieren Sie sich[/list]
 
