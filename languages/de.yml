@@ -76,16 +76,16 @@ de:
   BUTTON_VIEW_SEQUEL: Fortsetzung ansehen
   BUTTON_COPY: Kopie
   BUTTON_HIRE_ALL: Alle einstellen
-  BUTTON_HIRE_AND_ASSIGN: Mieten und zuweisen
+  BUTTON_HIRE_AND_ASSIGN: Einstellen und zuweisen
   BUTTON_TRAINING_START: Training starten
   BUTTON_TRAINING_STOP: Training beenden
   BUTTON_CANCEL_CONTRACT: Den Vertrag kündigen
-  BUTTON_CANCEL_GAMEPORT: Stornieren der Spieleportierung
-  BUTTON_CANCEL_FEATURE: Abbrechen der Funktionalität
-  BUTTON_CANCEL_GAMEENGINE: Spiel-Engine stornieren
-  BUTTON_CANCEL_GAMEUPDATE: Kostenloses Update stornieren
-  BUTTON_CANCEL_DLC: Bezahltes Update stornieren
-  BUTTON_UNASSIGN: Annullierung des Auftrags
+  BUTTON_CANCEL_GAMEPORT: Abbrechen der Spieleportierung
+  BUTTON_CANCEL_FEATURE: Abbrechen der Funktion
+  BUTTON_CANCEL_GAMEENGINE: Spiel-Engine abbrechen
+  BUTTON_CANCEL_GAMEUPDATE: Kostenloses Update abbrechen
+  BUTTON_CANCEL_DLC: Bezahltes Update abbrechen
+  BUTTON_UNASSIGN: Abbrechen des Auftrags
 
   # Labels, descriptive
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
@@ -97,7 +97,7 @@ de:
   LABEL_TRAINING_REQUIRE_CAPACITIES: |
     Mindestens eine Fähigkeit muss ausgewählt werden.
 
-    (Entwurf/Entwicklung oder Polieren)
+    (Entwurf/Entwicklung oder Perfektion)
   LABEL_NEW_COMPETITOR_TITLE: Ein neuer Konkurrent trifft ein
   LABEL_NEW_COMPETITOR_DESCRIPTION: |
     [center][img]%s[/img][/center]
@@ -182,7 +182,7 @@ de:
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
     Die Gehälter verursachen hohe Ausgaben. Sie sollten in Betracht ziehen, Personal zu entlassen.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    Der Betrieb von Kaffeemaschinen und Automaten belastet Ihr Budget
+    Der Betrieb von Kaffeemaschinen und Automaten belastet Ihr Budget.
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
     Server sind teuer. Wenn Sie ungenutzte Server haben, sollten Sie diese verkaufen.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
@@ -197,7 +197,7 @@ de:
   BUTTON_RELEASE_ALL: Alles veröffentlichen
   TOOLTIP_RELEASE_ALL_BUTTON: |
     Veröffentlichen Sie alle Spiele, Verträge und Konsolen,
-    die bereit sind, veröffentlicht zu werden.
+    die fertig entwickelt sind.
   LABEL_PLATFORM_LIST_GAME: Videospiele auflisten
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Eine neue Komponente ist verfügbar
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
@@ -255,10 +255,10 @@ de:
   LABEL_PLATFORM_QUALITY: Qualität
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Geschätzte Herstellungskosten
   LABEL_PLATFORM_UNIT_PROFIT: Gewinn pro Einheit
-  LABEL_PLATFORM_NAME: Name der Plattform
+  LABEL_PLATFORM_NAME: Name der Konsole
   LABEL_TRADE_PUBLISH_TOOLTIP: |
     Dieses Verlagsangebot ist mit einem Zuschuss von %s$ unterlegt.
-    Eine %s$ Strafe gilt, wenn Sie nicht eine Mindestpunktzahl von %d%% erreichen.
+    Eine %s$ Strafe wird fällig, wenn Sie nicht eine Mindestpunktzahl von %d%% erreichen.
   LABEL_CANNOT_HIRE_NO_DESK: |
     Sie müssen einen Schreibtisch zur Verfügung haben, um eine Fachkraft zu beauftragen.
   LABEL_CUSTOM_CONSOLE: Konsolenentwicklung
@@ -270,10 +270,10 @@ de:
   LABEL_INCOMPATIBLE_VERSION: >
     Speichern kann nicht geöffnet werden, da es mit einer neueren Version des Spiels erstellt wurde
   LABEL_GAME_CANCELED: Spiel abgebrochen
-  LABEL_EMPLOYEE_FIRED: Angestellter entlassen
+  LABEL_EMPLOYEE_FIRED: Angestellten entlassen
   LABEL_ASSIGN_SPECIALIST: Spezialisten zuweisen.
   LABEL_ACCOUNTANT_TOOLTIP: |
-    Ordnen Sie einen Buchhalter zu, um die Steuerpflicht zu
+    Ordnen Sie einen Buchhalter zu, um die Höhe der Steuern zu
     reduzieren.
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Setzen Sie einen Marketing-Manager ein, um die Popularität
@@ -328,17 +328,17 @@ de:
   LABEL_DETAILS_HIDDEN: Alle Diagramme und Details ausblenden
   LABEL_AUTO_ADJUST: Automatische Anpassung
   LABEL_MISC_SETTINGS: Diverse Einstellungen
-  LABEL_MOD_BRANCH: Steam-Zweige
+  LABEL_MOD_BRANCH: Speicherorte
   LABEL_MOD_BRANCH_TOOLTIP: |
-    Aktivieren Sie dieses Kontrollkästchen, wenn Sie mehrere Steam-Zweige verwalten möchten.
+    Aktivieren Sie dieses Kontrollkästchen, wenn Sie mehrere Speicherorte verwalten möchten.
     Sie müssen einen Ordner pro Steam-Zweig erstellen (default, unstable oder oldstable).
   LABEL_MOD_MISSING: >
     Fehlende Mods, Savegame kann nicht geladen werden
-  LABEL_MOD_BANNED: Mod ist verboten
+  LABEL_MOD_BANNED: Mod ist gesperrt.
   LABEL_MOD_AGREEMENT: |
     Durch Einreichen dieses Artikels erklären Sie sich mit den [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]Workshop-Nutzungsbedingungen einverstanden[/url]
   LABEL_MOD_VERSION: Version
-  LABEL_MOD_CREATE: Eine Mod erstellen
+  LABEL_MOD_CREATE: Einen Mod erstellen
   LABEL_MOD_LIST: Mods auflisten
   LABEL_MOD_NAME: Name
   LABEL_MOD_DESCRIPTION: Beschreibung
@@ -349,7 +349,7 @@ de:
   LABEL_MOD_VISIBILITY_PRIVATE: Privat
   LABEL_MOD_IMAGE_PREVIEW: Vorschau-Bild
   LABEL_MOD_VIDEO_PREVIEW: Video-Vorschau
-  LABEL_MOD_PATH: Absoluter Pfad
+  LABEL_MOD_PATH: Mod-Pfad
   LABEL_MOD_PUBLISHED_DATE: Datum der Veröffentlichung
   LABEL_MOD_UPDATE: Aktualisierung
   LABEL_MOD_VALIDATE: Validieren Sie
@@ -464,8 +464,8 @@ de:
     Wählen Sie die zu aktualisierenden Funktionen aus,
     um die Erwartungen der Spieler zu erfüllen.
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
-    Bei der Aktualisierung einer Spielengine wird eine Strafe verhängt,
-    die sich nur auf die Anzahl der erforderlichen Punkte auswirkt.
+    Bei der Aktualisierung einer Spielengine erhöht sich der Aufwand,
+    was sich auf die Anzahl der erforderlichen Punkte auswirkt.
   LABEL_TOO_MUCH_TIME_SPENT: |
     Entweder ist Ihr Entwicklungsteam nicht ausgewogen genug,
     oder Sie haben im Vergleich zu anderen Entwicklungsstadien
@@ -486,7 +486,7 @@ de:
   LABEL_ESTIMATED_INCOME: Geschätzte Einnahmen
   LABEL_ADS_WARNING: >
     Seien Sie vorsichtig bei der Verwendung von Anzeigen.
-    Anzeigen beeinflussen die Benutzerbindung.
+    Anzeigen beeinflussen die Spielerbindung.
   LABEL_IAP_WARNING: >
     Spieler, die ein Spiel gekauft haben, sehen nicht gerne Werbung
     oder geben Geld für Mikrotransaktionen aus.    
@@ -510,10 +510,10 @@ de:
   LABEL_GAME_ENGINE_LIST: Liste der Engines
   LABEL_THEME_LIST: Themenliste
   LABEL_GAME_ANNOUNCEMENT: Ankündigungen der Spiele
-  LABEL_CONVENTION_MESSAGE: Konventionen
+  LABEL_CONVENTION_MESSAGE: Messen
   LABEL_NO_FILTER: Kein Filter
   LABEL_GAME_UPDATE_EXPECTED: Warten auf ein Update
-  LABEL_GAME_UPDATE_NOTEXPECTED: Update nicht erwartet
+  LABEL_GAME_UPDATE_NOTEXPECTED: Kein Update erwartet
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Aktive Marketing-Kampagne
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Keine aktive Marketingkampagne
   LABEL_FANBASE_GAIN: Wachsende Fanbasis
@@ -667,7 +667,7 @@ de:
   LABEL_ENABLED: Aktiviert
   LABEL_DISABLED: Deaktiviert
   LABEL_TOTAL_UNIT_SOLD: Gesamtzahl der verkauften Einheiten
-  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Diese Gaming-Plattform wird von deinem digitalen Shop nicht unterstützt.
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Diese Gaming-Plattform wird von deinem Launcher nicht unterstützt.
   LABEL_DISCONTINUE_PLATFORM_TITLE: Plattform beenden
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
     Du verkaufst immer noch mindestens ein Spiel auf '%s' über den Launcher.
@@ -708,7 +708,7 @@ de:
     Ermöglicht es Benutzern, ein Spiel zu bewerten.
   LABEL_DS_STORE_TITLE: Shop
   LABEL_DS_STORE_DESCRIPTION: |
-    Ermöglicht es den Mitbewerbern, Spiele in Ihrem Digital Store zu verkaufen.
+    Ermöglicht es den Mitbewerbern, Spiele in Ihrem Launcher zu verkaufen.
   LABEL_DS_ANALYTICS_TITLE: Marktforschung
   LABEL_DS_ANALYTICS_DESCRIPTION: |
     Ermöglicht es, die Gewohnheiten der Benutzer zu erfassen.
@@ -1598,7 +1598,7 @@ de:
     Wird wohl Zeit, sie neu zu gestalten.
   LABEL_GAME_ONLINE: >
     Wie behält man Spieler vor ihrem Bildschirm?
-    Das INTERNET (auch Neuland genannt), entwickle Online-Spiele und die Leute werden süchtig!
+    Das INTERNET (auch Neuland genannt) - Entwickle Online-Spiele und die Leute werden süchtig!
   LABEL_FURNITURES_SERVERS_BUY: >
     Mehr Schreibtische, mehr Stühle, mehr Computer, mehr Whiteboards, mehr mehr!
   LABEL_DIGITAL_STORE: >
@@ -1757,7 +1757,7 @@ de:
   # Tutoriel labels
   TUTORIEL_CREATE_GAME: |
     Klicken Sie auf diese Schaltfläche,
-    um das Bedienfeld für die Spielerstellung zu öffnen.
+    um das Menü für die Spielerstellung zu öffnen.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
     Die Kosten für die Aktualisierung dieser Spiel-Engine sind höher.
     In der Tat ist die Spiel-Engine veraltet,
@@ -1767,7 +1767,7 @@ de:
     damit Sie nicht mit einer solchen Strafe konfrontiert werden.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Beachten Sie, dass die Herstellungskosten der Konsole höher sind als ihr Preis.
-    Wenn die Verkäufe in die Höhe schnellen, könnte das Unternehmen in Konkurs gehen.
+    Wenn die Verkäufe in die Höhe schnellen, könnte das Unternehmen Konkurs gehen.
 
     Daher sollten Sie den Preis der Konsole anheben, um kein Geld zu verlieren.
   TUTORIEL_CREATE_GAME_OBSOLETE: |
@@ -2003,7 +2003,7 @@ de:
   STUDIO_CUSTOMIZE: Renoviere dein Büro
   FURNITURES_SERVERS_BUY: Server kaufen
   GAME_ONLINE: Online-Spiele veröffentlichen
-  DIGITAL_STORE: Digitaler Vertrieb
+  DIGITAL_STORE: Launcher
   POSTMORTEM: Spielbericht
   NEW_GAME: Neues Spiel
   TARGETTED_AUDIENCE: Zielgruppe
