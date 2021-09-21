@@ -86,8 +86,37 @@ it:
   BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
   BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
   BUTTON_UNASSIGN: Disassegnare
+  BUTTON_REMAKE_CREATE: Creare il remake
 
   # Labels, descriptive
+  LABEL_REMAKE_ENGINE_BAD: >
+    Non c'è nulla di nuovo in questo remake. Sembra lo stesso gioco.
+  LABEL_REMAKE_ENGINE_OK: >
+    Sanno come sfruttare le ultime tecnologie, e sembra buono.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    Hanno sfruttato perfettamente le ultime tecnologie, e sembra fantastico!
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: Sfruttamento delle capacità della console da parte del gioco originale.
+  LABEL_REMAKE_CPU_USAGE: Utilizzo della CPU del gioco originale
+  LABEL_REMAKE_GPU_USAGE: Utilizzo della GPU del gioco originale
+  LABEL_REMAKE_TOOLTIP: |
+    Scegliete quali caratteristiche del motore di gioco volete aggiungere al remake.
+    Per un grande remake, usa le caratteristiche che sono più nuove del gioco originale.
+  LABEL_REMAKE_REVIEW: Recensioni globali
+  LABEL_DEVELOPPER_NAME: Sviluppatore
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Estremamente positiva
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Molto positiva
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Perlopiù positiva
+  LABEL_REMAKE_REVIEW_MIXED: Nella media
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Perlopiù negativa
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Molto negativa
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Estremamente negativa
+  LABEL_REMAKE: Remake
+  LABEL_REMAKE_DESCRIPTION_0: |
+    Guardando i tuoi primi giochi, decidi che qualcosa dovrebbe essere fatto.
+    Che ne dite di rifarli?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Ora puoi rifare i tuoi vecchi titoli.
+    Per rendere un remake di successo devi usare le ultime caratteristiche del tuo motore di gioco.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     La formazione del personale richiede un'università.
 
@@ -1734,6 +1763,23 @@ it:
     stato creato da qualche altra azienda.
 
   # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Questa funzione non è disponibile,
+    anche se era nel gioco originale.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Questa caratteristica non è disponibile,
+    ma è disponibile un'alternativa, si
+    raccomanda di usarla.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Questo remake non sfrutta le capacità
+    della console.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Alcune caratteristiche non sono supportate,
+    selezionane altre.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Il rapporto di gioco è già stato fatto.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Fai automaticamente il rapporto della partita.
   TUTORIEL_CREATE_GAME: |
     Clicca su questo pulsante per aprire il pannello di creazione del gioco.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -1998,3 +2044,4 @@ it:
   UNLOCK_HUMANRESOURCE: Risorse umane
   UNLOCK_GAME_OF_THE_YEAR: Gioco dell'anno
   UNLOCK_CLOUD_SERVER: Cloud computing
+  REMASTER_AND_REMAKE: Remake & Remaster

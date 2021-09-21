@@ -86,8 +86,37 @@ zh:
   BUTTON_CANCEL_GAMEUPDATE: 取消免费更新
   BUTTON_CANCEL_DLC: 取消付费更新
   BUTTON_UNASSIGN: 取消分配
+  BUTTON_REMAKE_CREATE: 创建重制
 
   # Labels, descriptive
+  LABEL_REMAKE_ENGINE_BAD: >
+    这个重制版没有什么新内容。感觉就是同一个游戏。
+  LABEL_REMAKE_ENGINE_OK: >
+    他们知道如何利用最新的技术，而且看起来不错。
+  LABEL_REMAKE_ENGINE_GOOD: >
+    他们完美地利用了最新的技术，而且看起来非常好！"。
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: 原始游戏对控制台能力的利用。
+  LABEL_REMAKE_CPU_USAGE: 原始游戏的CPU使用率
+  LABEL_REMAKE_GPU_USAGE: 原始游戏的GPU使用率
+  LABEL_REMAKE_TOOLTIP: |
+    选择你想添加到重制版中的游戏引擎的哪些功能。
+    对于一个伟大的重制版，要使用比原版游戏更新的功能。
+  LABEL_REMAKE_REVIEW: 总体评测
+  LABEL_DEVELOPPER_NAME: 开发商
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: 好评如潮
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: 特别好评
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: 多半好评
+  LABEL_REMAKE_REVIEW_MIXED: 褒贬不一
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: 多半差评
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: 特别差评
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: 差评如潮
+  LABEL_REMAKE: 重新制作
+  LABEL_REMAKE_DESCRIPTION_0: |
+    在看你的第一个游戏时，你决定应该做一些事情。
+    重新制作它们如何？
+  LABEL_REMAKE_DESCRIPTION_1: |
+    你现在可以重新制作你的旧游戏。
+    为了使翻拍成功，你必须使用你的游戏引擎的最新功能。
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     培训员工需要一所大学。
 
@@ -1672,6 +1701,18 @@ zh:
     这种类型不再是独特的，因为它已经被其他一些公司创造了。
 
   # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    这个功能是不可用的，尽管它是在原始游戏中。
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    此功能不可用，但有一个备用功能，建议使用它。
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    这个重制版没有利用控制台的功能。
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    有些功能不被支持，请选择其他功能。
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    游戏报告已经完成。
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    自动制作游戏报告。
   TUTORIEL_CREATE_GAME: |
     点击这个按钮，打开游戏创建面板。
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -1918,3 +1959,4 @@ zh:
   UNLOCK_HUMANRESOURCE: 人力资源
   UNLOCK_GAME_OF_THE_YEAR: 年度游戏纪念版
   UNLOCK_CLOUD_SERVER: 云服务器
+  REMASTER_AND_REMAKE: 翻拍与重制

@@ -86,8 +86,37 @@ tr:
   BUTTON_CANCEL_GAMEUPDATE: Ücretsiz güncelleme İptal
   BUTTON_CANCEL_DLC: Ödenen güncelleştirmeyi iptal
   BUTTON_UNASSIGN: Atamayı kaldır
+  BUTTON_REMAKE_CREATE: Yeniden yapım oluştur
 
   # Labels, descriptive
+  LABEL_REMAKE_ENGINE_BAD: >
+    Bu remake'de yeni bir şey yok. Aynı oyun gibi geliyor.
+  LABEL_REMAKE_ENGINE_OK: >
+    En son teknolojileri nasıl kullanacaklarını biliyorlar ve bu iyi görünüyor.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    En son teknolojileri mükemmel bir şekilde kullandılar ve harika görünüyor!
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: Orijinal oyun tarafından konsolun yeteneklerinin sömürülmesi.
+  LABEL_REMAKE_CPU_USAGE: Orijinal oyunun CPU kullanımı
+  LABEL_REMAKE_GPU_USAGE: Orijinal oyunun GPU kullanımı
+  LABEL_REMAKE_TOOLTIP: |
+    Oyun motorunun hangi özelliklerini remake'e eklemek istediğinizi seçin.
+    Harika bir yeniden çevrim için orijinal oyundan daha yeni olan özellikleri kullanın.
+  LABEL_REMAKE_REVIEW: Toplam İnceleme
+  LABEL_DEVELOPPER_NAME: Geliştirici
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Son Derece Olumlu
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Çok Olumlu 
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Çoğunlukla Olumlu
+  LABEL_REMAKE_REVIEW_MIXED: Karışık
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Çoğunlukla Olumsuz
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Çok Olumsuz
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Son Derece Olumsuz
+  LABEL_REMAKE: Yeniden
+  LABEL_REMAKE_DESCRIPTION_0: |
+    İlk maçlarınıza bakarken bir şeyler yapılması gerektiğine karar veriyorsunuz.
+    Onları yeniden yapmaya ne dersin?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Artık eski başlıklarınızı yeniden oluşturabilirsiniz.
+    Bir yeniden çevrimi başarılı kılmak için oyun motorunuzun en son özelliklerini kullanmanız gerekir.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     Eğitim personeli bir üniversiteye ihtiyaç duyuyordu.
 
@@ -1729,6 +1758,23 @@ tr:
     Bu tür artık başka bir şirket tarafından yaratıldığı için benzersiz değil.
 
   # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Bu özellik, orijinal oyunda olmasına
+    rağmen mevcut değildir.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Bu özellik mevcut değil, ancak
+    alternatifi mevcut, kullanılması
+    tavsiye edilir.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Bu yeniden yapım, konsolun
+    yeteneklerinden yararlanmıyor.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Bazı özellikler desteklenmiyor,
+    lütfen diğerlerini seçin.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Oyun raporu zaten yapıldı.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Oyun raporunu otomatik olarak yapın.
   TUTORIEL_CREATE_GAME: |
     Oyun oluşturma panelini açmak için bu düğmeye tıklayın.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -1992,3 +2038,4 @@ tr:
   UNLOCK_HUMANRESOURCE: İnsan kaynakları
   UNLOCK_GAME_OF_THE_YEAR: Yılın oyunu
   UNLOCK_CLOUD_SERVER: Bulut bilişim
+  REMASTER_AND_REMAKE: Yeniden Yapım ve Yeniden Yapım

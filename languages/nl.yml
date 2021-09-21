@@ -86,8 +86,37 @@ nl:
   BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
   BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
   BUTTON_UNASSIGN: Unassign
+  BUTTON_REMAKE_CREATE: Maak remake
 
   # Labels, descriptive
+  LABEL_REMAKE_ENGINE_BAD: >
+    Er is niets nieuws in deze remake. Het voelt als hetzelfde spel.
+  LABEL_REMAKE_ENGINE_OK: >
+    Ze weten hoe ze de laatste technologieën moeten uitbuiten, en het ziet er goed uit.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    Ze hebben de nieuwste technologieën perfect uitgebuit, en het ziet er fantastisch uit!
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: Uitbuiting van de mogelijkheden van de console door het originele spel.
+  LABEL_REMAKE_CPU_USAGE: CPU-gebruik van het originele spel
+  LABEL_REMAKE_GPU_USAGE: GPU gebruik van het originele spel
+  LABEL_REMAKE_TOOLTIP: |
+    Kies welke functies van de game engine je wilt toevoegen aan de remake.
+    Voor een goede remake moet je functies gebruiken die nieuwer zijn dan het originele spel.
+  LABEL_REMAKE_REVIEW: Alle recensies
+  LABEL_DEVELOPPER_NAME: Ontwikkelaar
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Overweldigend positief
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Erg positief
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Grotendeels positief
+  LABEL_REMAKE_REVIEW_MIXED: Verdeeld
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Grotendeels negatief
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Erg negatief
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Overweldigend negatief
+  LABEL_REMAKE: Remake
+  LABEL_REMAKE_DESCRIPTION_0: |
+    Terwijl je naar je eerste spellen kijkt, besluit je dat er iets moet gebeuren.
+    Wat dacht je ervan om ze te remaken?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Je kunt je oude titels nu remaken.
+    Om een remake succesvol te maken moet je de nieuwste functies van je game engine gebruiken.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     Voor de opleiding van personeel is een universiteit nodig.
 
@@ -1737,6 +1766,23 @@ nl:
     een ander bedrijf is gecreëerd.
 
   # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Deze functie is niet beschikbaar,
+    hoewel het in het originele spel was.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Deze functie is niet beschikbaar,
+    maar een alternatief is beschikbaar,
+    het is aanbevolen om het te gebruiken.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Deze remake maakt geen gebruik van de
+    mogelijkheden van de console.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Sommige functies worden niet ondersteund,
+    kies andere.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Het wedstrijdverslag is al gemaakt.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Maak automatisch het wedstrijdverslag.
   TUTORIEL_CREATE_GAME: |
     Klik op deze knop om het paneel voor het maken van spellen te openen.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -2001,3 +2047,4 @@ nl:
   UNLOCK_HUMANRESOURCE: Personeelszaken
   UNLOCK_GAME_OF_THE_YEAR: Spel van het jaar
   UNLOCK_CLOUD_SERVER: Cloud computing
+  REMASTER_AND_REMAKE: Remake & Remaster

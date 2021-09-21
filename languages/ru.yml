@@ -86,8 +86,37 @@ ru:
   BUTTON_CANCEL_GAMEUPDATE: Отменить бесплатное обновление
   BUTTON_CANCEL_DLC: Отменить платное обновление
   BUTTON_UNASSIGN: Отменить назначение
+  BUTTON_REMAKE_CREATE: Создать ремейк
 
   # Labels, descriptive
+  LABEL_REMAKE_ENGINE_BAD: >
+    В этом ремейке нет ничего нового. Такое ощущение, что это та же самая игра.
+  LABEL_REMAKE_ENGINE_OK: >
+    Они знают, как использовать новейшие технологии, и это выглядит хорошо.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    Они прекрасно использовали новейшие технологии, и это выглядит фантастически!
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: Эксплуатация возможностей консоли оригинальной игрой.
+  LABEL_REMAKE_CPU_USAGE: Использование CPU в оригинальной игре
+  LABEL_REMAKE_GPU_USAGE: Использование GPU в оригинальной игре
+  LABEL_REMAKE_TOOLTIP: |
+    Выберите, какие функции игрового движка вы хотите добавить в ремейк.
+    Для создания отличного ремейка используйте функции, которые являются более новыми, чем в оригинальной игре.
+  LABEL_REMAKE_REVIEW: Все обзоры
+  LABEL_DEVELOPPER_NAME: Разработчик
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Крайне положительные
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Очень положительные
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: В основном положительные
+  LABEL_REMAKE_REVIEW_MIXED: Смешанные
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: В основном отрицательные
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Очень отрицательные
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Крайне отрицательные
+  LABEL_REMAKE: Ремейк
+  LABEL_REMAKE_DESCRIPTION_0: |
+    Просматривая свои первые игры, вы решаете, что нужно что-то делать.
+    Как насчет их ремейка?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Теперь вы можете переделать свои старые игры.
+    Чтобы сделать ремейк успешным, вы должны использовать новейшие возможности вашего игрового движка.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     Для обучения персонала требуется университет.
 
@@ -1774,6 +1803,23 @@ ru:
     потому что он уже был создан какой-то другой компанией.
 
   # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Эта функция недоступна,
+    хотя она была в оригинальной игре.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Эта функция недоступна,
+    но доступна альтернативная,
+    рекомендуется использовать ее.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Этот ремейк не использует
+    возможности консоли.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Некоторые функции не поддерживаются,
+    выберите другие.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Отчет об игре уже сделан.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Автоматически сделайте отчет об игре.
   TUTORIEL_CREATE_GAME: |
     Нажмите на эту кнопку, чтобы открыть панель создания игры.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -2035,3 +2081,4 @@ ru:
   UNLOCK_HUMANRESOURCE: Отдел кадров
   UNLOCK_GAME_OF_THE_YEAR: Игра года
   UNLOCK_CLOUD_SERVER: Облачные вычисления
+  REMASTER_AND_REMAKE: Ремейк и ремастер

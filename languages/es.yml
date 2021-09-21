@@ -86,8 +86,37 @@ es:
   BUTTON_CANCEL_GAMEUPDATE: Cancelar la actualización gratuita
   BUTTON_CANCEL_DLC: Cancelar la actualización de pago
   BUTTON_UNASSIGN: Desasignar
-  
+  BUTTON_REMAKE_CREATE: Crear remake
+
   # Etiquetas, descripciones
+  LABEL_REMAKE_ENGINE_BAD: >
+    No hay nada nuevo en este remake. Parece el mismo juego.
+  LABEL_REMAKE_ENGINE_OK: >
+    Saben explotar perfectamente las últimas tecnologías, y se ve bien.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    Han sabido explotar perfectamente las últimas tecnologías, ¡y tiene un aspecto fantástico!
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: Explotación de las capacidades de la consola por el juego original.
+  LABEL_REMAKE_CPU_USAGE: Uso de la CPU del juego original
+  LABEL_REMAKE_GPU_USAGE: Uso de la GPU del juego original
+  LABEL_REMAKE_TOOLTIP: |
+    Elige qué características del motor del juego quieres añadir al remake.
+    Para un gran remake, utiliza características más nuevas que el juego original.
+  LABEL_REMAKE_REVIEW: Reseñas generales
+  LABEL_DEVELOPPER_NAME: Desarrollador
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Extremadamente positivas
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Muy positivas
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Mayormente positivas
+  LABEL_REMAKE_REVIEW_MIXED: Variadas
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Mayormente negativas
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Muy negativas
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Extremadamente negativas
+  LABEL_REMAKE: Remake
+  LABEL_REMAKE_DESCRIPTION_0: |
+    Al ver sus primeros juegos, decides que hay que hacer algo.
+    ¿Qué tal rehacerlos?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Ahora puedes rehacer tus antiguos títulos.
+    Para que un remake tenga éxito tienes que utilizar las últimas características de tu motor de juego.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     La formación del personal requiere una universidad.
 
@@ -1753,6 +1782,23 @@ es:
     Este género ya no es único porque ya ha sido creado por alguna otra empresa.
 
   # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Esta función no está disponible,
+    aunque estaba en el juego original.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Esta característica no está disponible,
+    pero hay una alternativa disponible,
+    se recomienda usarla.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Este remake no aprovecha las capacidades
+    de la consola.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Algunas características no son compatibles,
+    selecciona otras.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    El informe del juego ya está hecho.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Hacer automáticamente el informe del juego.
   TUTORIEL_CREATE_GAME: |
     Haga clic en este botón para abrir el panel de creación de juegos.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -2020,3 +2066,4 @@ es:
   UNLOCK_HUMANRESOURCE: Recursos humanos
   UNLOCK_GAME_OF_THE_YEAR: Juego del año
   UNLOCK_CLOUD_SERVER: Computación en la nube
+  REMASTER_AND_REMAKE: Remake y remasterización
