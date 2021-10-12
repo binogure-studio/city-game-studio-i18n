@@ -1,0 +1,2057 @@
+ja:
+  # Buttons actions verbs
+  BUTTON_READ: 読む
+  BUTTON_ANNOUNCE: アナウンス
+  BUTTON_NEW_GAME: ニューゲーム
+  BUTTON_HIRE: 雇う
+  BUTTON_APPLY: 適用
+  BUTTON_BACK: 戻る
+  BUTTON_BUILD_MODE: 建築モード
+  BUTTON_BUILDING_RENT: 借りる
+  BUTTON_CANCEL: キャンセル
+  BUTTON_CANCEL_ALL: 全てキャンセル
+  BUTTON_CLOSE: 閉じる
+  BUTTON_CREDITS: クレジット
+  BUTTON_EXIT: 終了
+  BUTTON_FIRE: クビ
+  BUTTON_LOAD: ローディング
+  BUTTON_LOAD_GAME: ロードする
+  BUTTON_MAIN_MENU: メインメニュー
+  BUTTON_NEXT: 次へ
+  BUTTON_OK: OK
+  BUTTON_OPTIONS: オプション
+  BUTTON_RESET: リセット
+  BUTTON_SKIP: スキップ
+  BUTTON_START: スタート
+  BUTTON_NEED_STUDIO: 利用できるスタジオがありません
+  BUTTON_CLEAR_EVENTS: クリア
+  BUTTON_TOO_BAD: ひどい
+  BUTTON_BUY_ANOTHER_ONE: 他のものを買う
+  BUTTON_ADOPT: 採用
+  BUTTON_ABANDON: 捨てる
+  BUTTON_ASSIGN_EMPLOYEE: 割り当てる
+  BUTTON_WITHDRAW_SPECIALISTS: 全スペシャリストを撤退
+  BUTTON_KEEP_PLAYING: プレイを続ける
+  BUTTON_LEADERBOARD: リーダーボード
+  BUTTON_GIVEUP: ギブアップ
+  BUTTON_LOAN: ローン
+  BUTTON_REPAY: 返済
+  BUTTON_ZOOM: ズーム
+  BUTTON_BUY: 購入
+  BUTTON_SELL: 売却
+  BUTTON_RENT: 借りる
+  BUTTON_CONFIRM: 確認
+  BUTTON_BANKRUPTCY: 倒産
+  BUTTON_RESTORE: リストア
+  BUTTON_DELETE: 削除
+  BUTTON_DELETE_ALL: 全て削除
+  BUTTON_SPAM: スパムとしてマーク
+  BUTTON_UNSPAM: スパムではない
+  BUTTON_HOLIDAY: スタジオを休みにする
+  BUTTON_HOLIDAY_SOLO: 休みにする
+  BUTTON_MODS: Mods
+  BUTTON_BUGREPORT: バグ報告
+  BUTTON_FEEDBACK: フィードバック
+  DROPDOWN_LANGUAGE: 言語
+  BUTTON_CRACK_GAME: ゲームの解析
+  BUTTON_FORCE_STUDIO_SELL: 強制的にスタジオを売る
+  BUTTON_SPY: 他社へのスパイ
+  BUTTON_HIRE_THEIR_EMPLOYE: 従業員の採用
+  BUTTON_SELECT: セレクト
+  BUTTON_SAVEGAME: セーブする
+  BUTTON_SELL_ITEMS: 家具の売却
+  BUTTON_CONTINUE: コンティニュー
+  BUTTON_DETAILS: 詳細
+  BUTTON_CHARTS: チャート
+  BUTTON_CREATE: 作成
+  BUTTON_GRID: グリッドを表示
+  BUTTON_EDIT_LOGO: ロゴのエディット
+  BUTTON_BUILD: ビルド
+  BUTTON_PAY: 支払い
+  BUTTON_UPDATE: アップデート
+  BUTTON_EDIT: エディット
+  BUTTON_CONFINE_MOUSE: マウスカーソルの固定
+  BUTTON_SHOW_STUDIO: スタジオを表示
+  BUTTON_CANCEL_GAME: ゲーム開発のキャンセル
+  BUTTON_VIEW_SEQUEL: 続きを見る
+  BUTTON_COPY: コピー
+  BUTTON_HIRE_ALL: 全員を採用
+  BUTTON_HIRE_AND_ASSIGN: 雇用と割り当て
+  BUTTON_TRAINING_START: トレーニング開始
+  BUTTON_TRAINING_STOP: トレーニングをキャンセル
+  BUTTON_CANCEL_CONTRACT: 契約解除
+  BUTTON_CANCEL_GAMEPORT: ゲームの移植をキャンセル
+  BUTTON_CANCEL_FEATURE: 機能をキャンセル
+  BUTTON_CANCEL_GAMEENGINE: エンジンの開発をキャンセル
+  BUTTON_CANCEL_GAMEUPDATE: 無料アップデートをキャンセル
+  BUTTON_CANCEL_DLC: 有料アップデートをキャンセル
+  BUTTON_UNASSIGN: 割り当て解除
+  BUTTON_REMAKE_CREATE: リメイク版の作成
+  BUTTON_VIEW_REMAKE: リメイク版を表示
+  BUTTON_VIEW_ORIGINAL_GAME: オリジナル版を表示
+
+  # Labels, descriptive
+  LABEL_DEVKITS: 開発キット
+  LABEL_NO_CONCURRENT_REMAINING: 競合他社がいません
+  LABEL_END_OF_EXCLUSIVITY: 独占期限
+  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: 推定ゲーム数
+  LABEL_NUMBER_OF_DEVKITS: 開発キットの数
+  LABEL_NUMBER_OF_DEVKITS_REMAINING: 残りの開発キットの数
+  LABEL_EXCLUSIVITY_DURATION: 独占期間
+  LABEL_FILTER_NONE: なし
+  LABEL_FILTER_ONLY_NO_CONTRACTS: 契約なし
+  LABEL_FILTER_ONLY_CONTRACTS: 契約済み
+  TOOLTIP_SELECT_DIFFICULTY: |
+    難易度を選択してください
+  LABEL_EASY: 簡単
+  LABEL_HARD: ハード
+  LABEL_REMAKE_ENGINE_BAD: >
+    このリメイクには目新しいところがありません。同じゲームのように感じます。
+  LABEL_REMAKE_ENGINE_OK: >
+    彼らは最新技術を利用する方法を知っており、うまくやっているように見えます。
+  LABEL_REMAKE_ENGINE_GOOD: >
+    最新技術を完璧に活用しており、素晴らしい仕上がりになっています。
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: オリジナルゲームを通して、ゲーム機の可能性を追求する。
+  LABEL_REMAKE_CPU_USAGE: オリジナルゲームのCPU使用率
+  LABEL_REMAKE_GPU_USAGE: オリジナルゲームのGPU使用率
+  LABEL_REMAKE_TOOLTIP: |
+    ゲームエンジンのどの機能をリメイク版に追加するかを選択します。
+    優れたリメイク作品を作るために、オリジナルゲームよりも新しい機能を使用してください。
+  LABEL_REMAKE_REVIEW: 総合評価
+  LABEL_DEVELOPPER_NAME: 開発者
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: 圧倒的に好評
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: 非常に好評
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: ほぼ好評
+  LABEL_REMAKE_REVIEW_MIXED: 賛否両論
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: ほぼ不評
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: 非常に不評
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: 圧倒的に不評
+  LABEL_REMAKE: リメイク
+  LABEL_REMAKE_DESCRIPTION_0: |
+    最初のゲームを見ていると、なにかをしなければならない気がしてきました。
+    リメイクしてみてはどうでしょうか?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    古いタイトルをリメイクできるようになりました。
+    リメイクを成功させるには、ゲームエンジンの最新機能を使用する必要があります。
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    従業員の育成には大学が必要です。
+
+    利用できる大学が無いので、大学を作る必要があります。
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    少なくとも1人の従業員を選択する必要があります。
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    少なくとも1つの能力を選択する必要があります。
+
+    (設計/開発または仕上げ)
+  LABEL_NEW_COMPETITOR_TITLE: 新たなライバルの登場
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    今や数百万ドルの価値を持つ [b]%s[/b] の創業者が、偉大な都市"City Game Studio"に移ることを決めたと今朝発表されました。
+    City Game Studio の市長は大喜びです。
+    [code]新たな投資家が誕生しました!これは我々がきちんと仕事をしている証拠です!大企業を誘致するのは簡単なことではありませんが……[/code]
+
+    これがCity Game Studioに入居している他のゲーム会社にどのような影響を与えるかは未知数です。
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    ボス! [b]%s[/b] がクラッキングされています!
+    手遅れになる前に止めなければなりません!
+    たった一言でいいのです!
+  LABEL_MINIGAME_DEFEND_START: |
+    よし、やろう!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    放っておけ!
+  LABEL_MINIGAME_LOSE: |
+    あなたのゲームはタダで市場に出回っています。
+    売上に響くでしょう。
+  LABEL_MINIGAME_DEFEND_WIN: |
+    おめでとう!よくやりました!
+  BUTTON_CLICK_ME: クリック
+  LABEL_FIREWALL_SIMULATOR_TITLE: クラッキング対策シミュレータ
+  LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
+    あなたの目的は、ゲームを攻撃から保護することです。
+    目的を達成するために、青いボタンをクリックして"0"にし、ネットワークを守ります。
+
+    シンプルですが、素早く行わなければなりません!
+  LABEL_GAME_UPDATE_NB: アップデートの回数
+  LABEL_GAME_UPDATE_LAST: ゲームの最終更新日時
+  LABEL_SELLING_PRICE: 販売価格
+  LABEL_EMPLOYEE: 従業員
+  LABEL_MARKET_RESEARCH_NEW: 新しい市場の調査
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    マーケティング担当者が必要です。
+    優秀なほど素早く調査が行われます。
+  LABEL_MARKET_RESEARCH: 市場調査
+  LABEL_MARKET_RESEARCH_TYPE: 市場調査の種類
+  LABEL_GAME_TYPE_LIST: ゲームジャンル一覧
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: ターゲット層の分析
+  LABEL_MARKET_RESEARCH_NONE: アクティブな市場調査なし
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: 教室が利用可能になりました。
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    おめでとうございます。トレーニングセッションが終了しました。
+    新しいトレーニングセッションを開催するには、少なくとも1つの空き教室が必要です。
+  LABEL_UNIVERSITY_TRAINING: トレーニング
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: 講義室
+  LABEL_UNIVERSITY_SIT: 席の数
+  LABEL_UNIVERSITY: 大学
+  LABEL_UNIVERSITY_MANAGE_TRAINING: トレーニング管理
+  LABEL_UNIVERSITY_TRAINING_TYPE: トレーニングの種類
+  LABEL_UNIVERSITY_LECTURE_HALL: 講義室の数
+  LABEL_UNIVERSITY_AUTOTRAINING: 自動トレーニング
+  LABEL_UNIVERSITY_ABANDON: 建物を放棄
+  LABEL_UNIVERSITY_DESTROY: 建物を壊す
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: 一般的なトレーニング
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: 特殊なトレーニング
+  LABEL_UNIVERSITY_TRAINING_LIST: トレーニングのリスト
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: トレーニングなし
+  LABEL_SOFA: ソファ
+  LABEL_MISC: その他
+  LABEL_MINUTES: 分
+  LABEL_VIEW_MORE: もっと見る...
+  LABEL_GAME_INDUSTRY_NEWS: ゲーム業界のニュース
+  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s は会社 %s を %s で買収しました"
+  LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
+    [b]%s[/b] の開発者及びパブリッシャーは [b]%s[/b] のオファーにより [b]%s[/b] で買収されました。
+
+    [b]%s[/b] は、1株あたり [b]%s[/b] を支払って同社を買収し、第1四半期中に取引を完了する予定であるとの声明を発表しました。
+    この買収により、[b]%s[/b] のバナーの下にあるゲームカタログが増えます。
+    [b]%s[/b] のCEOは以下のようにコメントしています。
+    [indent]私たちの業界は成長しており、共に新時代のエンターテインメントをリードする立場になるでしょう[/indent]
+  LABEL_GAMEENGINE_NOT_ENOUGH: >
+    このゲームはゲーム機の性能を十分に生かせていません。
+  LABEL_MARKETSHARE_KRASHING: >
+    このゲーム機は評判が悪く、販売数も少ないです。今後は手を出さないことをお勧めします。
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    ここにはあなたの財務状況があります。すべての営業費用と収入が表示されています。
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    レンタルが大きな出費になっています。建物を購入するか、小さな建物を借りてコストのかかる建物を閉鎖することもできます。
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    給料が大きな出費になっています。スタッフの解雇を検討すべきです。
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    コーヒーメーカー/自販機が多く、予算を圧迫しています。
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    サーバ費用が高くなっています。不要なサーバがあれば売るべきでしょう。
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    マーケティング費用が予算を圧迫しています。いくつかキャンペーンや大会を止めるべきかもしれません。
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    住宅ローンが高いようです。可能ならより長期のローンで返済を行ないましょう。
+  LABEL_LOSING_MONEY_HARD: >
+    収入より支出が多いです。何が問題かを把握するには財務状況を参考にしてください。
+  LABEL_SUBSCRIPTION: サブスクリプション
+  LABEL_PLATFORM_NOT_POWERFULL: >
+    このプラットフォームには十分な力がありません
+  BUTTON_RELEASE_ALL: 全てをリリースする
+  TOOLTIP_RELEASE_ALL_BUTTON: |
+    公開可能な全てのゲーム・契約・コンソールをリリースする。
+  LABEL_PLATFORM_LIST_GAME: ゲームのリスト
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 新しいコンポーネントが登場
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    こんにちは %s,
+
+    この度、新しいコンポーネントをリリースすることになりました。
+    新品の [b]%s[/b] です。 設計を担当したエンジニアが自信を持ってお届けします。
+    [center][img]%s[/img][/center]
+    楽しい一日になりますように。
+
+    敬具
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: ゲーム機販売レポート
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    こんにちは %s,
+
+    あなたのメールボックスを更に埋めてしまってすみません。ですが良いニュースです。
+    製造コストを削減したことについてお伝えしたいと思います。
+
+    %s
+
+    以上、よろしくお願いします。
+    それでは、良い一日をお過ごしください。
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b] の製造コストが [b]%s%%[/b] 減少しました。
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s はまだ利用できません。
+  LABEL_PLATFORM_NO_COMPONENT: |
+    コンポーネントが選択されていません
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 製造コスト削減
+  LABEL_FILTER_PLATFORM_RELEASED: 発売プラットフォーム
+  LABEL_FILTER_PLATFORM_DISCONTINUED: 撤退したプラットフォーム
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    ゲーム機の品質を調整します。
+
+    ゲーム機の品質が悪いと、故障が多くなるかもしれません。
+    欠陥のあるゲーム機を購入されたお客様には、必ず返金の権利があります。
+  LABEL_PLATFORM_DISCONTINUE: 生産中止
+  LABEL_PLATFORM_CHANGE_PRICE: 価格変更
+  LABEL_PLATFORM_UNIT_RETURNED: 返却されたユニット
+  LABEL_PLATFORM_COST_RATIO: コストの比率
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: コントローラ
+  LABEL_PLATFORM_COMPONENT_CPU: CPU
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: カートリッジ
+  LABEL_PLATFORM_COMPONENT_MEMORY: メモリ
+  LABEL_PLATFORM_COMPONENT_GPU: GPU
+  LABEL_PLATFORM_COMPONENT_SCREEN: スクリーン
+  LABEL_PLATFORM_COMPONENT_BOX: コンソールケース
+  LABEL_PLATFORM_MAKING_COSTS: 製造コスト
+  LABEL_PLATFORM_UNLOCK_COSTS: 起動コスト
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: 開発コスト
+  LABEL_PLATFORM_QUALITY: 品質
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: 製造コストの見積もり
+  LABEL_PLATFORM_UNIT_PROFIT: 1ユニットあたりの利益
+  LABEL_PLATFORM_NAME: "プラットフォームの名前"
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    この出版オファーには $%s の助成金がついています。
+    $%s のペナルティを受けないためには、最低でも %d%% のスコアを達成しなければなりません。
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    スペシャリストを雇用するには利用可能なデスクが必要です。
+  LABEL_CUSTOM_CONSOLE: コンソール開発
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    オリジナルのゲーム機を作成します。
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    部品を選んでゲーム機を組み立て、マーケティングキャンペーンの準備をしましょう。
+    最大限の利益を得るため、マーケティングマネージャと会計士の雇用を検討してください。
+  LABEL_INCOMPATIBLE_VERSION: >
+    新しいバージョンのゲームで作成されたため、セーブを開くことができません
+  LABEL_GAME_CANCELED: ゲームがキャンセルされました
+  LABEL_EMPLOYEE_FIRED: 従業員が解雇されました
+  LABEL_ASSIGN_SPECIALIST: スペシャリストを割り当てます
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    税額を軽減するため、会計士を配置します。
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    ゲームの人気を高めるために、マーケティングマネージャーを任命します。
+  LABEL_PRODUCER_TOOLTIP: |
+    プロデューサーを任命すると、素晴らしいゲームを作成し
+    社員の生産性を高めることができます。
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    ネットワーク管理者を配置し、1プレイヤーあたりのサーバー負荷を最適化できます。
+  LABEL_INTERVIEW_INDIE: |
+    こんにちは。
+    Bruno Trigger と申します。 毎週水曜日に放送されるインディーゲーム特集番組 [i]3615 Dorian[/i] のホストを務めています。
+    [b]%s[/b] の大ファンとして、ビッグなゲームナイト [b]%s[/b] のためいくつかインタビューをしたいです。
+    5分ほどお時間をいただけないでしょうか?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    私の夢はインディーゲーム開発の冒険に乗り出すことです! 自分の上司になり、愛と思いやりのあるコミュニティに応えるなんて夢のようです!
+    私たちの小さなコミュニティは [b]%s[/b] のゲームのファンでして、ゲームを開発する際にはどのような点に注目すべきだと思いますか?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    専門家の Dorian も、 [i]3615 Dorian[/i] コミュニティーも賛成しています。[b]%s[/b] は我々が待ち望んでいた金塊です!
+  LABEL_INTERVIEW_BIG: |
+    こんにちは。
+    Gio Tard と申します。 私は [i]Rock Paper Pistol[/i] に勤めているものです。
+     [b]%s[/b] の今後に期待しておりまして、記事のためにいくつかインタビューさせていただけないでしょうか。
+    5分程度で構いません。
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    設立から [b]%d[/b] 年を持って、初めてのAAAタイトルのゲームをリリースします。
+    [b]%s[/b] と共に、あなたは業界の第一線への仲間入りを果たしました。
+    我々は [b]%s[/b] が [b]%d[/b] のGOTY(ゲーム・オブ・ザ・イヤー)に選ばれるかを知りたいです。
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] は水晶玉を持っているのでは!?
+    業界の裏事情を知っていなければ、GOTYに誰がノミネートされるかを先読みするなんて簡単ではありません。
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    誰しもミスをすることはあります。 一つだけ確かなのは、 [b]%s[/b] は未来予知はできないということです!
+    人々は成功よりも失敗から学ぶことの方が多いのです。ともかくこういった話は [b]%s[/b] ではよく聞くことでしょう。
+  LABEL_INTERVIEW_BIG_YES: |
+    苦労の末、なんとか無事に完成しました。
+  LABEL_INTERVIEW_BIG_NO: |
+    もしそうだったら、私たちは真っ先に驚くでしょう!
+  LABEL_INTERVIEW_REFUSAL: |
+    時間を無駄にしてしまって申し訳ありません。
+  LABEL_INTERVIEW_ACCEPT: |
+    もちろん。
+  LABEL_ADVANCED_START_TOOLTIP: |
+    初めてのゲームの場合は、このボックスをチェックしない方がよいでしょう。
+
+    アドバンスモードでは、ゲームの最初からすべての機能がアンロックされます。
+  LABEL_NUMBER_OF_PRODUCED_POINTS: 制作したポイント数
+  LABEL_REQUIRE_FANBASE: 売上向上のためには %s のファンが必要
+  LABEL_MAINTENANCE: メンテナンス
+  LABEL_PLATFORM_COMPATIBILITY: 互換性
+  LABEL_DETAILS_MAIN: ゲーム詳細
+  LABEL_DETAILS_SHOWN: すべてのチャートと詳細を表示
+  LABEL_DETAILS_HIDDEN: すべてのチャートと詳細を隠す
+  LABEL_AUTO_ADJUST: 自動調整
+  LABEL_MISC_SETTINGS: 各種設定
+  LABEL_MOD_BRANCH: ブランチ(Steam)
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    複数のSteamブランチを管理したい場合は、このボックスをチェックしてください。
+    ブランチ(default, unstable, oldstable)ごとにフォルダを作成する必要があります。
+  LABEL_MOD_MISSING: >
+    不足しているMODがあり、セーブデータがロードできません。
+  LABEL_MOD_BANNED: MODはBANされています
+  LABEL_MOD_AGREEMENT: |
+    このアイテムを投稿することで、[url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]ワークショップの利用規約[/url]に同意したことになります。
+  LABEL_MOD_VERSION: バージョン
+  LABEL_MOD_CREATE: MOD作成
+  LABEL_MOD_LIST: MOD一覧
+  LABEL_MOD_NAME: 名前
+  LABEL_MOD_DESCRIPTION: 説明
+  LABEL_MOD_LANGUAGE: 言語
+  LABEL_MOD_VISIBILITY: 公開設定
+  LABEL_MOD_VISIBILITY_PUBLIC: 公開
+  LABEL_MOD_VISIBILITY_FRIENDS: フレンドのみ
+  LABEL_MOD_VISIBILITY_PRIVATE: プライベート
+  LABEL_MOD_IMAGE_PREVIEW: プレビュー画像
+  LABEL_MOD_VIDEO_PREVIEW: プレビュー動画
+  LABEL_MOD_PATH: 絶対パス
+  LABEL_MOD_PUBLISHED_DATE: 発行日
+  LABEL_MOD_UPDATE: アップデート
+  LABEL_MOD_VALIDATE: 検証
+  LABEL_MOD_NOT_VALID: 無効
+  LABEL_MOD_CREATED: MODが作成されました
+  LABEL_MOD_UPDATED: MODが更新されました
+  TOOLTIP_HOLD_TO_CLICK: |
+    長押し
+  LABEL_GAME_EXCLUSIVITY: >
+    このゲームは %s 専用です
+  LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
+    こんにちは、 [b]%s[/b]。
+
+    あなたのスタジオが質の高いゲームを出していることを嬉しく思います。[b]%s[/b] のゲームの話なのですがとても将来性が高いと考えているため、
+    世界的な成功を収められるように協力したいです。
+    [b]%s[/b] を特集し、あなたのゲームを私たちのコンソールと一緒に梱包するのです。
+    その代わり [b]%s[/b] を独占タイトルにしたいと考えています。[i](全ての非[b]%s[/b]ゲーム機への移植はキャンセルされます)[/i]
+    あなたのゲームの紹介に加えて、[b]$%s[/b] を提供します。 これで取引を成立できないでしょうか?
+  LABEL_CLOUDS: マップ上に雲を表示
+  LABEL_AUTOSAVE: 自動セーブ
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    競合他社があなたの会社のゲームエンジンを使用しています
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] があなたのゲームエンジン ([b]%s[/b]) を使ったゲームをリリースしました。
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
+    [b]%s[/b] のおかげで、あなたは [b]%d%%[/b] のロイヤリティを得られます。
+  LABEL_PLATFORM_SELECT_OFFER: |
+    オファーのカスタマイズ
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    独占期間: [b]%s[/b] ヶ月
+  LABEL_PLATFORM_MONEY_OFFER: |
+    資金提供: [b]$%s[/b]
+  LABEL_GAMEENGINE_DELETE_TITLE: ゲームエンジンを削除しますか?
+  LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
+    あなたは [b]%s[/b] を削除しようとしています。
+    削除を実行しますか?
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    なにかお役に立てることはありますか?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    私の時間を無駄にしないでくれ!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    このプラットフォームでゲームを公開する前に、
+    交渉をする必要があります。
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    このプラットフォームでゲームを公開できません。
+    %s と独占契約を結んでいます。
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    %s と独占契約を結んでいるため、まだ新しい契約はできません。
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    %s との独占契約: 残り %d ヶ月
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    交渉するため %s に電話をかける
+  LABEL_PLATFORM_MANUFACTURER_WELCOME: |
+    こんにちは。
+
+    [b]%s[/b] と申します。 [b]%s[/b] にて働いております。
+    何かご用でしょうか?
+  LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
+    私たちは長い年月をかけて [b]%s[/b] を開発してきました。ぜひ一緒に仕事をさせていただきたいと思っています。
+    しかし、あなたの会社がこの素晴らしい [b]%s[/b] にどのように貢献できるか疑問に思っています。
+  LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
+    予測販売台数: [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_CHOICE: |
+    [b]%s[/b] でゲームを発表したい
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
+    いい提案だと思います。それで手を打ちましょう!
+  LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
+    この提案は受け入れられません。
+  LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
+    その代わりになにか言うことはありますか?
+  LABEL_PLATFORM_MANUFACTURER_EXCLU: |
+    [b]$%s[/b] の小切手で [b]%s[/b] ライセンスと、 [b]%s[/b] ヶ月の独占契約を [b]%s[/b] と結ぶ
+    (他メーカーのゲーム機での販売はできません)
+  LABEL_PLATFORM_MANUFACTURER_LICENSE: |
+    [b]$%s[/b] の小切手で [b]%s[/b] ライセンスを得る
+  LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
+    気にしないでください。
+  LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
+    お忙しい中ありがとうございました。
+  LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
+    Wataggi は1982年の第4四半期から1983年の初めにかけて、コンソール市場での業績が低下している旨を発表しました
+    数百台のゲーム機に2500本程度のカセット販売だけでは、ゲーム市場のリーダーである同社としては全く話になりません。
+    また、家庭用コンピュータに対して健康面で否定的な報告がされており、
+    家庭用コンピュータ市場の特徴である不確実性が強まっています。
+
+    ゲーム業界の主要企業は、今後数ヶ月間は厳しい状況が続くと予想しており、
+    現在も状況が改善する兆しはありません。
+  LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
+    市場は崩壊しつつある
+  LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
+    夏の半ばに、ゲーム市場のリーダーである Wataggi が 3億5,600万ドルの赤字を発表しました。
+    また、Plastics 社は非常に深刻な問題を抱えており市場から撤退していました。
+    噂ではゲーム市場は崩壊しつつあり、マイクロコンピューターに移行していくのではないかと言われていました。
+
+    しかし実のところ、Wataggi 社と Plastics 社の損失はニューヨーク証券取引所の株の下落が主な原因であり、
+    これにより不要なパニックを引き起こしただけでした。
+    米国での年間売上高が20億ドルに達するゲームは、依然として堅調な産業です。
+    しかし、過去2年間の華々しい成長はやや横ばいになっています。
+    Roberto 工業のコンソール RobertoVision が家庭用マイコンと競合していたり、はたまた
+    価格性能比で満足できる機器が求められたりしていることで、マーケットは上向きにも下向きにも動いています。
+  LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
+    市場は安定している
+  LABEL_PLATFORM_TYPE: プラットフォームの種類
+  LABEL_PLATFORM_OS: PC
+  LABEL_PLATFORM_CONSOLE: 家庭用ゲーム機(コンソール)
+  LABEL_PLATFORM_HANDLED: 携帯型ゲーム機
+  LABEL_WITHDRAW_EMPLOYEE: 社員の退職
+  TOOLTIP_GAME_UPDATE_EXPECTATION: |
+    プレイヤーの期待に応えるため、アップデートすべき
+    機能を選択します。
+  TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
+    ゲームエンジンのアップデートには手間が掛かるため、
+    必要ポイント数への影響が出てきます。
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    開発チームのバランスが十分でない、もしくは
+    他に比べて %s の開発段階に多くの時間が掛かっています。
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    開発チームのバランスが十分でない、もしくは
+    他に比べて %s の開発段階で十分な時間が掛かっていません。
+  LABEL_WARNING_THEME_MISSING: テーマを選択してください
+  LABEL_BUYABLE: 購入可能
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    青いボタンをクリックして、アプリ内課金を追加します。
+  LABEL_NUMBER_OF_NEW_PLAYERS: 新入社員の数
+  LABEL_NUMBER_OF_RETURNING_PLAYERS: 復帰プレイヤーの数
+  LABEL_NUMBER_OF_PLAYER_LOST: 失ったプレイヤーの数
+  LABEL_FEATURE_REQUIRED: >
+    この機能を利用するには、以下のゲームエンジンモジュールが必要です:
+  LABEL_ESTIMATED_INCOME: 推定収入
+  LABEL_ADS_WARNING: >
+    広告の利用には注意が必要です。
+    広告はユーザの離反に影響します。
+  LABEL_IAP_WARNING: >
+    ゲームを購入したプレイヤーは、広告の閲覧や
+    アイテムに課金させられることを嫌います。
+  LABEL_IAP_NAME: アプリ内課金
+  LABEL_IAP_PACK: "パック #%d"
+  LABEL_IAP_TYPE_POWER_BOOST: パワーアップ
+  LABEL_IAP_POWER: パワー
+  LABEL_IAP_TYPE_COSMETIC: 衣装
+  LABEL_IAP_TYPE_LOOTBOX: ルートボックス
+  LABEL_IAP_LIST: アイテムリスト
+  LABEL_IAP_RARITY: レアリティ
+  LABEL_IAP_RARITY_UNCOMMON: アンコモン
+  LABEL_IAP_RARITY_RARE: レア
+  LABEL_IAP_RARITY_EPIC: エピック
+  LABEL_IAP_RARITY_LEGENDARY: レジェンダリ
+  LABEL_FINANCIAL_DETAILS: 財務詳細
+  LABEL_AD_NAME: 広告
+  LABEL_AD_POPUP: ポップアップ広告
+  LABEL_AD_BANNER: バナー広告
+  LABEL_NUMBER_OF_PLAYER: プレイヤー数
+  LABEL_GAME_ENGINE_LIST: ゲームエンジンリスト
+  LABEL_THEME_LIST: テーマリスト
+  LABEL_CONVENTION_MESSAGE: 大会
+  LABEL_GAME_ANNOUNCEMENT: ゲームの告知
+  LABEL_NO_FILTER: フィルターなし
+  LABEL_GAME_UPDATE_EXPECTED: アップデート待機中
+  LABEL_GAME_UPDATE_NOTEXPECTED: アップデート予定なし
+  LABEL_MARKETING_CAMPAIGN_ACTIVE: アクティブなマーケティング活動
+  LABEL_MARKETING_CAMPAIGN_INACTIVE: アクティブでないマーケティング活動
+  LABEL_FANBASE_GAIN: ファンの増加
+  LABEL_FANBASE_LOSS: ファンの減少
+  LABEL_MONEY_MAKER: 収益性が高い
+  LABEL_MONEY_LOSER: 収益性が低い
+  LABEL_SELECT_ALL: 全て選択
+  LABEL_SELECT_NONE: 何も選択しない
+  LABEL_FREE_GAME: 無料配布
+  LABEL_SUBSCRIPTION_PRICE: サブスクリプション価格
+  LABEL_GAME_PRICE: ゲーム価格
+  LABEL_UPDATE_PRICE: DLCの価格
+  LABEL_X_STUDIOS: "%d スタジオ"
+  LABEL_RANDOM_SLIDER: ゲームのランダムスライダー
+  LABEL_DISCOUNT: 割引する
+  LABEL_ORGANIZE_YEARLY: 年1回大会の開催
+  LABEL_YEARLY: 年間
+  LABEL_GAME_UPDATE_REQUIREMENTS: プレイヤーがアップデートに期待すること
+  LABEL_GAME_UPDATE_HYPE: ゲームアップデートの宣伝
+  LABEL_GAME_UPDATE: アップデートの公開
+  LABEL_GAME_FREE_UPDATE: 無料アップデート
+  LABEL_GAME_PAID_UPDATE: DLC
+  LABEL_REPAIR_ALL: すべてを修正
+  LABEL_UNIQUE: ユニーク
+  LABEL_DS_NO_PLATFORM_SUPPORTED: |
+    デジタルストアを有効にするには、
+    少なくとも1つのプラットフォームに対応する必要があります。
+  LABEL_NOT_AVAILABLE: 使用不可
+  LABEL_REQUIRED: 必須
+  LABEL_REVIEW_GAMEENGINE_BAD: >
+    もっとエンジンの性能を引き出すことができたはず。
+  LABEL_REVIEW_GAMEENGINE_GOOD: >
+    ゲーム機の性能を最大限に引き出すことができました。
+  LABEL_GAME_ENGINE: ゲームエンジン
+  LABEL_FEATURE_LIST: 機能一覧
+  LABEL_DESIGN_CAPACITY: デザインポイントの生産能力
+  LABEL_DEVELOPMENT_CAPACITY: 開発ポイントの生産能力
+  LABEL_POLISH_CAPACITY: 仕上げポイントの生産能力
+  LABEL_GAMEENGINE_MAKEFOSS: 無料にする
+  LABEL_GAMEENGINE_PENALITY: >
+    古いコードが使われているため、エンジンのアップデートには少しコストが掛かります。
+  LABEL_GAMEENGINE_READY: ゲームエンジンの準備完了
+  LABEL_GAMEENGINE_UPDATE: このゲームエンジンをアップデートする
+  LABEL_GAMEENGINE_LIST: >
+    市販されているゲームエンジンの一覧
+  LABEL_FOSS: フリーのオープンソースソフトウェア
+  LABEL_PROPRIETARY: プロプライエタリ(専有)
+  LABEL_OWNER: 内部のみ
+  LABEL_PLATFORM_GPU_CAPABILITY: GPU性能
+  LABEL_PLATFORM_CPU_CAPABILITY: CPU性能
+  LABEL_PLATFORM_GPU_COSTS: GPUコスト
+  LABEL_PLATFORM_CPU_COSTS: CPUコスト
+  LABEL_GAMEENGINE_DONATION_TITLE: 寄付金を受け取った
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    こんにちは。
+
+    このメールは、[b]$%s[/b] の寄付金をゲームエンジン [b]%s[/b] の
+    ために受け取ったことを確認するものです。
+
+    よろしくお願いします。
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: 新機能の実装
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    こんにちは。
+
+    [b]%s[/b] には今急成長を遂げているコミュニティがあります。
+    彼らは以下の新しい機能を実装しています。
+    [b]%s[/b]
+
+    しかも無料で提供されています!
+  LABEL_GAME_ENGINE_TITLE: 新技術の導入が可能
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    新しいテクノロジーの導入が可能になりました:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    オリジナルのゲームエンジンを作成できるようになりました。
+    ゲームエンジンは、従業員が生み出すポイントの量を増やしてくれます。
+  LABEL_GAME_ENGINE_ADS: 広告モジュール
+  LABEL_GAME_ENGINE_IAP: 課金モジュール
+  LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D モノクロ"
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: "2D 8bitカラー"
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: "2D 16bitカラー"
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: "2D 24bitカラー"
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: "2D 32bitカラー"
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: "3D モノクロ"
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: "3D 8bitカラー"
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: "3D 16bitカラー"
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: "3D 24bitカラー"
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: "3D 32bitカラー"
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: "VR"
+  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: "ボクセルグラフィック"
+  LABEL_GAME_ENGINE_BASIC_DIALOG: "普通のインターフェース"
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: "インタラクティブなインターフェース"
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: "AI型インターフェース"
+  LABEL_GAME_ENGINE_JOYSTICK: "ジョイスティック対応"
+  LABEL_GAME_ENGINE_GAMEPAD: "ゲームパッド対応"
+  LABEL_GAME_ENGINE_MOUSE: "マウス対応"
+  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: "既存のキャラクター"
+  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: "カスタマイズ可能なキャラクター"
+  LABEL_GAME_ENGINE_DIFFICULTY: "難易度"
+  LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "動的な難易度"
+  LABEL_GAME_ENGINE_MAP_EDITOR: "マップエディタ"
+  LABEL_GAME_ENGINE_MOD_SUPPORT: "MOD対応"
+  LABEL_GAME_ENGINE_MONO_SOUND: "モノラル音声"
+  LABEL_GAME_ENGINE_MIDI_SOUND: "MIDI音声"
+  LABEL_GAME_ENGINE_STEREO_SOUND: "ステレオ音声"
+  LABEL_GAME_ENGINE_51_SOUND: "5.1chサラウンド音声"
+  LABEL_GAME_ENGINE_BASIC_MUSIC: "普通の音楽"
+  LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: "オーケストラ音楽"
+  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: "インタラクティブな音楽"
+  LABEL_GAME_ENGINE_PASSWORD_SAVE: "パスワードでのセーブ"
+  LABEL_GAME_ENGINE_BASIC_SAVE: "普通のセーブ"
+  LABEL_GAME_ENGINE_CLOUD_SAVE: "クラウドにセーブ"
+  LABEL_GAME_ENGINE_BASIC_PHYSICS: "基本的な物理演算"
+  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: "高度な物理演算"
+  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: "リアルな物理演算"
+  LABEL_GAME_ENGINE_DEDICATED_SERVER: "専用サーバ"
+  LABEL_GAME_ENGINE_SOCIAL_NETWORK_INTEGRATION: "ソーシャルネットワークへの統合"
+  LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "普通のアニメーション"
+  LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: "ダイナミックなアニメーション"
+  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "AIを使ったアニメーション"
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "普通のチュートリアル"
+  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "インタラクティブなチュートリアル"
+  LABEL_GAME_ENGINE_LOADING_SCREEN: "ローディング画面"
+  LABEL_GAME_ENGINE_BACKGROUND_LOADING: "バックグラウンドでの読み込み"
+  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "普通のシネマティック"
+  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: "高度なシネマティック"
+  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: "リアルなシネマティック"
+  LABEL_GAME_ENGINE_LEADERBOARD: "スコアランキング"
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: "クラウドでのスコアランキング"
+  LABEL_BUSY: 忙しい
+  LABEL_AVAILABLE: 利用可能
+  LABEL_AUTOATTEND_CONVENTION: すべての大会に自動的に参加します。
+  LABEL_SERVER_CAPACITY: サーバ容量
+  LABEL_SERVER_RENT_CAPACITY: レンタルサーバ容量
+  LABEL_TOTAL_COST: 総コスト
+  LABEL_RENT_SERVER_COST: レンタルサーバ費用
+  LABEL_SERVER_USAGE_THRESHOLD: >
+    サーバの負荷がこのしきい値に達した場合、すぐに新しいサーバをレンタルします:
+  LABEL_STEAM_NOT_DETECTED: |
+    Steam に接続できません。
+
+    Steam を再起動してください。
+    それでも問題が解決しない場合は以下にお問い合わせください:
+    contact@binogure-studio.com
+  LABEL_ONLINE_GAMES: オンラインゲーム
+  LABEL_CLOUD_SERVER: >
+    クラウドコンピューティングとは、コンピュータシステムのリソースを要求に応じて利用することです。
+  TOOLTIP_CLOUD_SERVERS: |
+    数百台のサーバを置くための巨大なビルなんていらない
+  LABEL_RENT_SERVERS: レンタルサーバ
+  LABEL_ENABLED: 有効
+  LABEL_DISABLED: 無効
+  LABEL_TOTAL_UNIT_SOLD: 総販売台数
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: このプラットフォームはデジタルストアでサポートされていません。
+  LABEL_DISCONTINUE_PLATFORM_TITLE: 廃止されたプラットフォーム
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    今でもデジタルストア経由で '%s' のゲームは最低でも1本以上購入されています。
+
+    '%s' プラットフォームでのサポートを終了してもよろしいでしょうか?
+  TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
+    複数のプラットフォームに対応するためには、デジタルストアの
+    クロスプラットフォーム機能を開発する必要があります。
+  LABEL_DS_SUPPORT_ALL_PLATFORMS: 全てのプラットフォームに対応
+  LABEL_NUMBER_OF_PLATFORMS: プラットフォームの数
+  LABEL_SERVER_LOAD: サーバの負荷
+  LABEL_SALES_BONUS: 売上増加
+  LABEL_SERVER_COST: サーバコスト
+  LABEL_DS_SALES: ゲームの売上高
+  LABEL_DS_PLATFORMCUT: デジタルストアのシェア
+  LABEL_DS_CCU: 同時接続ユーザ数
+  LABEL_DS_CHAT_TITLE: チャット
+  LABEL_DS_CHAT_DESCRIPTION: |
+    瞬時にユーザ同士のチャットが可能です。
+  LABEL_DS_FORUM_TITLE: フォーラム
+  LABEL_DS_FORUM_DESCRIPTION: |
+    ユーザがデジタルストアにメッセージを書き込むことができます。
+  LABEL_DS_CROSSPLATFORM_TITLE: クロスプラットフォーム
+  LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
+    クロスプラットフォームに対応します。
+  LABEL_DS_BOTPROTECTION_TITLE: ボット対策
+  LABEL_DS_BOTPROTECTION_DESCRIPTION: |
+    ボット攻撃の対策を行ないます。
+  LABEL_DS_WORKSHOP_TITLE: ワークショップ
+  LABEL_DS_WORKSHOP_DESCRIPTION: |
+    ユーザが作成したMODを共有することができます。
+  LABEL_DS_SUPPORT_TITLE: サポート
+  LABEL_DS_SUPPORT_DESCRIPTION: |
+    デジタルストアにテクニカルサポートを追加します。
+  LABEL_DS_REVIEW_TITLE: レビュー
+  LABEL_DS_REVIEW_DESCRIPTION: |
+    ユーザがレビューを投稿できるようになります。
+  LABEL_DS_STORE_TITLE: ストア
+  LABEL_DS_STORE_DESCRIPTION: |
+    競合他社がデジタルストアでゲームを販売できるようになります。
+  LABEL_DS_ANALYTICS_TITLE: アナリティクス
+  LABEL_DS_ANALYTICS_DESCRIPTION: |
+    ユーザの傾向情報を収集することができます。
+  LABEL_DS_INVENTORY_TITLE: インベントリ
+  LABEL_DS_INVENTORY_DESCRIPTION: |
+    ユーザはアイテムを所持、交換、再販することができます。
+  LABEL_DS_WISHLIST_TITLE: ウィッシュリスト
+  LABEL_DS_WISHLIST_DESCRIPTION: |
+    ユーザがウィッシュリストを使えるようになります。
+  LABEL_DS_ACHIEVEMENTS_TITLE: 実績
+  LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
+    ユーザーがゲームの進捗を把握できるようになります。
+  LABEL_DS_GIFTCARDS_TITLE: ギフトカード
+  LABEL_DS_GIFTCARDS_DESCRIPTION: |
+    新たな支払い方法を追加します。
+  LABEL_DS_MARKETPLACE_TITLE: マーケットプレイス
+  LABEL_DS_MARKETPLACE_DESCRIPTION: |
+    ユーザーが自分のゲームを再販することができます。
+  LABEL_DS_SALES_TITLE: 割り引き
+  LABEL_DS_SALES_DESCRIPTION: |
+    ゲームの割り引きが行えるようになります。
+  LABEL_HIRING_COSTS: 雇用コスト
+  LABEL_COMPLETE: コンプリート
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    アイコンを選択してドラッグすると、ダウンロードが始まります。
+  LABEL_CLOSE_POPUP: ポップアップを閉じて続行
+  LABEL_CLOSE_CAT_POPUP: |
+    猫のポップアップを閉じて
+    ダウンロードを続ける
+  LABEL_SETTING_UP_FIREWALL: ファイアウォールの設定
+  LABEL_PRESS_ANY_KEY: いずれかのキーを押してクラッキング
+  LABEL_HACKED: |
+    クラッキング完了。
+    おめでとうございます!
+  LABEL_HACKING_INTRODUCTION: |
+    クラッカーシミュレータへようこそ。
+    クラックを開始するには「スタート」を押してください。
+  LABEL_OPEN_CONSOLE: 「スタート」を押してクラッキング
+  LABEL_DOWNLOADING: ダウンロード中
+  LABEL_TARGET_LOCALIZING: 侵入検知
+  LABEL_CONNECTION_LOST: 接続ロスト
+  LABEL_ACCESS_GRANTED: アクセス権限付与
+  LABEL_CLICK_FOR_ACTION: クリックしてメニューを開く
+  LABEL_NO_GAME_INDEV: |
+    開発中のゲームはありません
+  LABEL_ALREADY_REGISTERED: 参加中
+  LABEL_NET_PROFITS: 純利益
+  LABEL_ENERGY: エネルギー
+  LABEL_LOSE: GAME OVER
+  LABEL_MINIGAME_CRACK_DESCRIPTION: |
+    ゲームを解析するには、画面下のボタンを使ってバイナリをデコンパイルする必要があります。
+  LABEL_CANNOT_OPEN_FILE: ファイルが開けません
+  LABEL_OPEN_FILE: ファイルを開く
+  LABEL_KEEP_HINTS: ヒントを保持する
+  LABEL_SELECT_GAME_OF_THE_YEAR: 表示するゲームを選択
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: GOTY版の発行
+  LABEL_GAME_OF_THE_YEAR: >
+    何年もの間、雑誌は独自のリストを発表してきました。
+    最近ではそれらの一つ、「Game Of The Year」が流行しているようです。
+  LABEL_RIGHT_CLICK_TO_CLOSE: 右クリックで閉じる
+  LABEL_STARTING_YEAR: 元年
+  LABEL_CURRENCY_UNLIMITED: 無制限の通貨
+  LABEL_ADVANCED_START: アドバンスモード
+  LABEL_WORKING: 仕事
+  LABEL_DEFAULT: デフォルト
+  LABEL_DEVELOPER: 開発者
+  LABEL_GAME_CAPACITY: ゲーム容量
+  LABEL_BONUS_PRODUCTIVITY: 生産性向上ボーナス
+  LABEL_MARKETING_MANAGER: マーケティングマネージャー
+  LABEL_BONUS_HYPE: 広告ボーナス
+  LABEL_ACCOUNTANT: 会計士
+  LABEL_BONUS_TAXES: 税金の削減
+  LABEL_NETWORK_ADMINISTRATOR: ネットワーク管理者
+  LABEL_BONUS_SERVER: サーバー負荷ボーナス
+  LABEL_HUMAN_RESOURCE: 人的資源
+  LABEL_BONUS_HAPPINESS: 幸福度ボーナス
+  LABEL_AMOUNT_OF_TIPS: ヒントの数
+  LABEL_REQUIRED_POINTS: 必要なポイント
+  LABEL_STEP: ステップ
+  LABEL_CONTRACT: 契約
+  LABEL_BEST_GAME: 最高のゲーム
+  LABEL_AMOUNT_GAMEPORT: 所有しているゲームプラットフォームの数
+  LABEL_AMOUNT_EDITED_GAME: 出版されたゲームの数
+  LABEL_AMOUNT_STUDIO: スタジオの数
+  LABEL_AMOUNT_POSTMORTEM: ポストモーテムの数
+  LABEL_AMOUNT_ATTENDED_CONVENTION: 参加した大会の数
+  LABEL_AMOUNT_DESK: デスクの数
+  LABEL_MORTGAGE_NOT_INTERESTED: お金を借りられるだけの財産を持っていない場合
+  LABEL_THANKYOU_PURCHASING: |
+    ご挨拶
+
+    City Game Studio の購入にご協力いただきありがとうございました。
+    皆様のご支援がなければ、City Game Studio をより良いものにしていくことはできません。
+
+    もし City Game Studio のようなインディーゲームを楽しく遊んでいただけているなら、
+    これからも応援をよろしくお願いしたいです。
+
+    Binogure
+  LABEL_CREATE_POSTMORTEM: ゲームレポートの作成
+  LABEL_VENDING_MACHINE: 自動販売機
+  LABEL_GAME_SPEED: ゲーム速度
+  LABEL_SPEED_NORMAL: ノーマル
+  LABEL_SPEED_SLOW: 遅い
+  LABEL_SPEED_SLOWEST: とても遅い
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: 未配属社員の解雇
+  LABEL_FURNISH_MOD: 自動装飾モード
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: 空いているスタジオへ自動的に家具を設置することができます。
+  LABEL_HAPPINESS: 幸福度
+  LABEL_FILTER_BY: フィルター
+  LABEL_DOOR: ドア
+  LABEL_COGS: 商品販売にかかる費用
+  LABEL_TAXES: 税金
+  LABEL_FIXED_COSTS: 固定費
+  LABEL_OVERVIEW: 概要
+  LABEL_LOW_CONFIGURATION: 低い設定
+  LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
+    マウスで画面を動かす
+  LABEL_WEEK: 週
+  LABEL_TOOLS: 制作
+  LABEL_SANDBOX: サンドボックス
+  LABEL_SAVING: 進行中のゲームの保存
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: 補償金の支払い
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    親愛なる [b]%s[/b] へ。
+
+    [b]%s[/b] が期待された成果を上げられておりません。至急 [b]$%s[/b] のペナルティをお支払いください。
+    この問題が今後の協力関係に悪影響を及ぼさないことを願っています。
+
+    敬意を表して。
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    まだ新しいゲームを公開できません。
+  LABEL_EDIT_GAME: ゲームのオファーを出す
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    [b]%s[/b] は [b]%s[/b] の作業を始めました。
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    [b]%s[/b] が [b]%s[/b] と交わした取引に満足していないという噂が流れています。
+  LABEL_REQUIRE_EMPLOYEE: |
+    %d 人の従業員が必要です。
+    %d 人のプロデューサーが必要です。
+  LABEL_STUDIO_NOT_BALANCED: >
+    スタジオチームをチェックしてください。 デザインや開発、完成度のバランスが悪いようです。
+    このままでは制作されるゲームにも影響が出るでしょう。
+  LABEL_LAST_COMBO: "前回、同じテーマ・カテゴリの組み合わせで制作しました"
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] は [b]%s[/b] を欠いています。
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b] は [b]%s[/b] が多すぎます。
+  LABEL_PLATFORM_NOT_EXPLOITED: |
+    プラットフォームの機能をもっと活用すべきでした。
+  LABEL_MARKETING_CAMPAIGN: マーケティングキャンペーン
+  LABEL_CAMPAIGN_TYPE: キャンペーンの種類
+  LABEL_WORKLOAD: 作業量
+  LABEL_WORKLOAD_DISTRIBUTION: 仕事量の配分
+  LABEL_RELEASE_DATE: リリース日
+  LABEL_MANUFACTURER: メーカー
+  LABEL_EXPIRED: 期限切れ
+  LABEL_POINTRATIO_GOOD: |
+    [b]%s[/b] では、彼らは [b]%s[/b] を管理する方法を知っています。
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] は彼らの弱点です。従業員のバランスが十分ではありません。
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] には素晴らしいチームがあり、すべての面で輝いています。
+  LABEL_REVIEW_PLATFORM_BAD: |
+    人手不足のため、 [b]%s[/b] は素晴らしい [b]%s[/b] ゲームを [b]%s[/b] に掲載することができません。
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] は彼らに好かれていません。 特に [b]%s[/b] の後なので、もっと良いものを期待されていたようです。
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] は新たな組み合わせに挑戦しており、うまくいっているようです。 [b]%s[/b] は優れたゲームだと思います。
+  LABEL_REVIEW_COMBO_BAD: |
+    これは [b]%s[/b] ゲームと同じものです。 [b]%s[/b] で自分自身をアップデートすることを学ばなければなりません。
+  LABEL_CRACKED: クラックされた
+  LABEL_SELECT_COMPANY_SPECIALIZATION: ゲームジャンルの専門性
+  LABEL_DISCORD_COMMUNITY: Discordコミュニティ
+  LABEL_LAST_MONTH: 持続期間は %s ヶ月です
+  LABEL_SUCCESS_RATE: 成功率
+  LABEL_RISKS: 伴うリスク
+  LABEL_SALES_HITS_TITLE: 販売報告書
+  LABEL_SALES_HITS_DESCRIPTION: |
+    こんにちは %s 。
+
+    あなたがこのメールをどれだけ愛しているかは知っています。
+    売上は好調のようです。%s の売上について話し合いましょう。
+
+    %s
+
+    敬意を表して。
+    Binogure
+  LABEL_SALES_HITS_0: >
+    [b]%s[/b] の売上が好調なので、[b]%d%%[/b] のボーナスが出るでしょう。
+  LABEL_SALES_HITS_1: >
+    [b]%s[/b] は今月も悪くないですね。私の予想では、売上に [b]%d%%[/b] のボーナスがつくでしょう。
+  LABEL_SALES_HITS_2: >
+    よし、[b]%s[/b] について話しましょう。 売上は好調で [b]%d%%[/b] のボーナスが期待できそうです。
+  LABEL_SALES_HITS_3: >
+    [b]%s[/b] によって、我々は更にビッグなことを考えられるようになるでしょう。売上に [b]%d%%[/b] のボーナスが期待できます。
+  LABEL_SALES_HITS_4: >
+    最高の日です! [b]%s[/b] は [b]%d%%[/b] のボーナスを得られるでしょう。
+  LABEL_SALES_HITS_5: >
+    [b]%s[/b] が [b]%d%%[/b] のボーナスを得るのは間違いありません。
+  LABEL_SALES_HITS_6: >
+    おめでとうございます! [b]%s[/b] の売上で [b]%d%%[/b] のボーナスを達成できるでしょう。
+  LABEL_CONVENTION_INCOMING: |
+    親愛なる %s
+
+    [b]%s[/b] についてお知らせします。 [b]%s[/b] に予定されております。
+
+    このコンベンションは3日間開催される予定で [b]%s[/b] の来場者を見込んでいます。
+    あなたの最高のゲームを展示するため、スタンドを借りることができます。
+
+    スペースに限りがありますので、ご了承ください。
+
+    敬意を表して。
+    %s の主催者より
+  LABEL_REDCOUCH: 赤いソファ
+  LABEL_DARKCOUCH: ダークなソファ
+  LABEL_WHITECOUCH: 白いソファ
+  LABEL_REDARMCHAIR: 赤いアームチェア
+  LABEL_DARKARMCHAIR: ダークなアームチェア
+  LABEL_WHITEARMCHAIR: 白いアームチェア
+  LABEL_WHAT_WERE_YOU_DOING: バグが発生したとき、どう対処しましたか?
+  LABEL_VERSION: "バージョン: %s"
+  LABEL_NO_MESSAGE: メッセージなし
+  LABEL_INBOX: 受信箱
+  LABEL_SPAM: スパム
+  LABEL_TRASH: ゴミ箱
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]新しいゲームジャンルをアンロックする[/b].
+
+    新しいジャンルをアンロックするには [b] そのアイコンをクリックしてください [/b]。
+    十分なポイントがあれば、ゲームのジャンルがアンロックされることになります。
+
+    [b]リサーチポイント数[/b] は [b]画面右上[/b] に表示されます。
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINTS: リサーチポイント
+  LABEL_SKILL_POINT: "%s リサーチポイント"
+  LABEL_UNLOCKED: "アンロック済み"
+  LABEL_COST: コスト %s ポイント
+  LABEL_FANBASE_TRENDS: ファンのトレンド
+  LABEL_YEAR: 年
+  LABEL_GAMEOVER_CONFIRM: 倒産
+  LABEL_GAMEOVER_DESCRIPTION: >
+    倒産するとゲームオーバーになります。
+    本当に倒産させますか?
+  LABEL_EXPENSES: 経費
+  LABEL_RENT: レンタル
+  LABEL_MARKETING: マーケティング費用
+  LABEL_FINANCIAL_RESULT: 財務状況
+  LABEL_PROPERTY_VALUE: 不動産価値
+  LABEL_FURNITURE_VALUE: 家具の価値
+  LABEL_CATALOG_VALUE: ゲームカタログの価値
+  LABEL_TOTAL_VALUE: トータルの価値
+  LABEL_MORTGAGES: 住宅ローン
+  LABEL_MORTGAGE: 住宅ローン
+  LABEL_DURATION: 期間
+  LABEL_INTEREST: 金利
+  LABEL_MONTHLY: 月々の支払い
+  LABEL_AUTO_ASSIGN_STAFF: 社員の自動配属
+  LABEL_UPGRADE_COMPUTER: コンピュータの自動更新
+  LABEL_UPGRADE_SERVER: サーバの自動更新
+  LABEL_COMPANY_WIDE: 会社全体
+  LABEL_STUDIO_WIDE: このスタジオ
+  LABEL_NO_STUDIO_TRADE_CAPABLE: >
+    出版社と取引するには、最低でも5人の従業員が必要です。
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s はキャンセルされました"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    [b]%s[/b] (%s) へ
+
+    あなたが [b]%s[/b] の開発をキャンセルしたことを聞き、とても残念に思っています。
+    署名された契約書の453ページ72d項W項のピンクのシートに基づき、 [b]$%s[/b] の違約金を直ちにお支払いください。
+
+    敬意を表して。
+    誠実な法律事務所 [b]%s[/b]
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "契約終了"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    [b]%s[/b] (%s) へ
+
+    [b]%s[/b] が期待された成功を収められなかったため、 署名された契約を終了せざるを得なくなりました。
+    従って、5863ページ99z項のブラウンのシートに基づき、[b]$%s[/b] の違約金を直ちにお支払いください。
+
+    敬意を表して。
+    悪徳セールス対策部門 [b]%s[/b]
+  LABEL_SELECT_GAME_PRESENT: 発表するゲームを選択
+  LABEL_ROYALTIES: ロイヤリティ
+  LABEL_PENALITY: ペナルティ
+  LABEL_NOTE_MIN: 最低スコア
+  LABEL_MARKETING_GLOBAL_ITEM: 総合的なマーケティング
+  LABEL_MARKETING_MAGAZINE_ITEM: マガジン
+  LABEL_MARKETING_TV_ITEM: テレビ
+  LABEL_MARKETING_WEBSITE_ITEM: ウェブサイト
+  LABEL_MARKETING_ONLINEAD_ITEM: ネット広告
+  LABEL_MARKETING_BILLBOARD_ITEM: 広告看板
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: ソーシャルネットワーク
+  LABEL_MARKETING_MAILINGLIST_ITEM: メルマガ
+  LABEL_SELF_PUBLISH: 自費出版
+  LABEL_TRADE_PUBLISH: 出版社
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    こんにちは。
+
+    [b]%s[/b] と申します。 私は貴社のジョブポータルを拝見させていただき、自分にぴったりなポジションを見つけました。
+    求人内容、要件と自分の経験を照らし合わせた結果、私は貴社で役立つことができると確信しています。
+
+    私は最近、 Mars 大学にてコンピュータ・エンジニアリングの学士を取得しました。
+    [b]%s[/b] のような会社でこのスキルを活かしたいと考えております。
+    エンジニアとして、革新的で独創的な製品を設計するためにエンジニアリング・コンセプトを導入することができます。
+
+    御社でのこの素晴らしい機会についてもっと詳しくお話しさせていただきたいと思います。私の応募に関してお返事を頂ければ大変嬉しく思います。
+
+    よろしくお願いいたします。
+    [b]%s[/b]
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: 求人応募
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    こんにちは。
+
+    私はこの度、[b]%s[/b] を退職させていただくこととなりました。
+    この会社が私に与えてくれたすべての機会に感謝しています。多くのことを学ぶことができましたし、同僚の皆さんの優しさを決して忘れません。
+
+    皆様のご支援、ご鞭撻に改めて感謝いたします。
+
+    謹んで申し上げます。
+    [b]%s[/b]
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: 辞職のお知らせ
+  LABEL_NO_STUDIO_FOR_BIG_GAME: >
+    普通の規模以上のゲームを作れるスタジオがありません。
+  LABEL_NO_FAN_BIG_GAME: >
+    普通以上の規模のゲームを作るためには最低でも [b]%s[/b] のファンがいないと、売上に影響が出てしまいます。
+  LABEL_CONCURRENT_AMOUNT: 競合他社の数
+  LABEL_YES: Yes
+  LABEL_NO: No
+  LABEL_PRICE_MONTHLY: 月間コスト
+  LABEL_SERVER_MONITORING_REPORT: サーバの状況
+  LABEL_ONLINE_USAGE: オンラインプレイヤー数
+  LABEL_ONLINE_CAPACITY: 総プレーヤー数
+  LABEL_ONLINE_CAPACITY_TOOLTIP: オンライン同時接続プレーヤー数
+  LABEL_SERVER: サーバ
+  LABEL_CAMPAIGN_NO_COST: 記者会見
+  LABEL_CAMPAIGN_DEMO: デモ版の公開
+  LABEL_CAMPAIGN_FULL: 広告キャンペーンの実施
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    [b]%s[/b] は、次のゲームを公開しました: [b]%s[/b]
+    [b]%s[/b] で発売されます。
+
+    %s
+
+    ゲームの成功を祈っています。
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    ファンはもちろん、私たちも楽しみにしています。
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    ファンは怒っていますし、専門誌はこのゲームで憂さ晴らしをしたいようです。
+
+    少し前にも似たようなゲームを発売していたと言わざるを得ません。新しいことに挑戦してください。
+  LABEL_GAME_ANNOUNCED_TITLE: "%s が発表されました"
+  LABEL_TRENDING: トレンド
+  LABEL_CREATOR: 製作者
+  LABEL_PRODUCER: プロデューサー
+  LABEL_COMMUNITY_MANAGER: コミュニティ・マネージャー
+  LABEL_SOUND_COMPOSER: サウンドコンポーザー
+  LABEL_SPECIAL_THANKS: スペシャルサンクス
+  LABEL_VISITORS: "訪問者数 %d"
+  LABEL_ATTENDANCE: 展示会の参加者数
+  LABEL_NONE: なし
+  LABEL_NO_BUILDING: 利用できる建物がありません
+  LABEL_NO_CONVENTION: 大会の予定なし
+  LABEL_CONVENTION_LAST_DATE: 前回大会
+  LABEL_DATE: 期限
+  LABEL_STANDSIZE: スタンドのサイズ
+  LABEL_CONVENTION_NAME: 大会名
+  LABEL_ATTEND: 出席
+  LABEL_ORGANIZE: 整理
+  LABEL_INFORMATIONS: 詳細
+  LABEL_GAME: ゲーム
+  LABEL_GAMEPORT: ゲームの移植
+  LABEL_CONVENTION: 展示センター
+  LABEL_LAND_VALUE: 土地価格
+  LABEL_SURFACE: 外見
+  LABEL_HYPE: 誇大広告
+  LABEL_AI: 人工知能
+  LABEL_ANIMATION: アニメーション
+  LABEL_ANISOTROPIC_FILTER: 異方性フィルタリング
+  LABEL_BUILDING_LEASE: リース
+  LABEL_TYPE_BUILDING: 種類
+  LABEL_CHARACTERS: キャラクター
+  LABEL_COMPANY_NAME: 会社名
+  LABEL_CUTSCENES: カットシーン
+  LABEL_CURRENCY: 為替
+  LABEL_DESIGN: デザイン
+  LABEL_DEVELOPMENT: 開発
+  LABEL_DIFFICULTY: 難易度
+  LABEL_EVENT_TYPE: イベントタイプ
+  LABEL_UNIT_SOLD: 販売台数
+  LABEL_FANBASE: ファン層
+  LABEL_FULLSCREEN: フルスクリーン
+  LABEL_GAME_GENRE: 種類
+  LABEL_GAME_HISTORY: ゲームの歴史
+  LABEL_GAME_NAME: 名前
+  LABEL_GAME_SIZE: サイズ
+  LABEL_GAME_ONLINE_SHORT: オンラインマルチプレイヤー
+  LABEL_PLATFORM_NOT_ONLINE: >
+    このプラットフォームはオンラインマルチプレイヤーをサポートしていません
+  LABEL_GAMEPLAY: ゲームプレイ
+  LABEL_GRAPHIC_SETTINGS: グラフィック設定
+  LABEL_GRAPHISM: グラフィック
+  LABEL_INCOME: 収入
+  LABEL_INVALID_SAVE: 破損したセーブデータ
+  LABEL_KICKOFF: キックオフ
+  LABEL_LOAD_GAME: ゲームをロード
+  LABEL_MAP_SIZE: マップサイズ
+  LABEL_MARKETING_MATERIAL: マーケティング資料
+  LABEL_MUSIC: ミュージック
+  LABEL_NETWORK: ネットワーク
+  LABEL_GRADE: グレード
+  LABEL_OPTIMIZATION: 最適化
+  LABEL_OUTCOME: 経費
+  LABEL_PHYSICS: 物理演算
+  LABEL_GAME_FINISHED: おめでとうございます、City Game Studioをコンプリートしました。
+  LABEL_PLANNING: 企画
+  LABEL_NO_PLATFORM_AVAILABLE: >
+    利用できるプラットフォームがありません。
+  LABEL_PLATFORM: プラットフォーム
+  LABEL_PLAYER_NAME: プレイヤー名
+  LABEL_PROFITS: 利益
+  LABEL_POLISH: 仕上げ
+  LABEL_PRICE: 価格
+  LABEL_RELEASE: リリース
+  LABEL_RESOLUTION: 解像度
+  LABEL_SCRIPTING: プログラミング
+  LABEL_SOUND: サウンド
+  LABEL_SOUND_SETTINGS: サウンド設定
+  LABEL_SOUNDFX: サウンドFX
+  LABEL_SQUARE_FOOTAGE: エリア
+  LABEL_STAFF: スタッフ
+  LABEL_STORY: ストーリー
+  LABEL_STUDIO: スタジオ
+  LABEL_TARGETTED_AUDIENCE: 対象者
+  LABEL_THEME: テーマ
+  LABEL_TUTORIEL: チュートリアル
+  LABEL_USERINTERFACE: ユーザーインターフェース
+  LABEL_THEME_MOVIE_ADAPTATION: 映画化
+  LABEL_THEME_PREHISTORY: 先史時代
+  LABEL_THEME_ARCHEOLOGY: 考古学
+  LABEL_THEME_POSTAPOCALYPTIC: ポストアポカリプス
+  LABEL_THEME_ATLANTIS: アトランティス
+  LABEL_THEME_RELIGIOUS: 宗教
+  LABEL_THEME_ORGANIZED_CRIME: 組織犯罪
+  LABEL_THEME_CROSSOVER: クロスオーバー
+  LABEL_THEME_DESERT: 砂漠
+  LABEL_THEME_COMEDY: コメディ
+  LABEL_THEME_DRAGON: ドラゴン
+  LABEL_THEME_EROTIC: エロティック
+  LABEL_THEME_SPY: スパイ
+  LABEL_THEME_FANTASY: ファンタジー
+  LABEL_THEME_GHOST: 幽霊
+  LABEL_THEME_HISTORY: 歴史
+  LABEL_THEME_HORROR: ホラー
+  LABEL_THEME_MEDICAL: 医療
+  LABEL_THEME_OCEAN: 海
+  LABEL_THEME_ARABIAN_NIGHTS: アラビアンナイト
+  LABEL_THEME_MYTHOLOGY: 神話
+  LABEL_THEME_NINJA: ニンジャ
+  LABEL_THEME_PARK: 遊園地
+  LABEL_THEME_PIRATES: 海賊
+  LABEL_THEME_SCIENCE_FICTION: サイエンス・フィクション
+  LABEL_THEME_SUPER_HEROS: スーパーヒーロー
+  LABEL_THEME_VAMPIRE: ヴァンパイア
+  LABEL_THEME_TIME_TRAVEL: タイムトラベル
+  LABEL_THEME_WESTERN: ウェスタン
+  LABEL_THEME_ZOMBIE: ゾンビ
+  LABEL_THEME_MEDIEVAL: 中世
+  LABEL_THEME_GAMEDEV: ゲーム開発
+  LABEL_THEME_HACK: クラッキング
+  LABEL_THEME_HUNT: ハンティング
+  LABEL_THEME_ANIME: アニメ
+  LABEL_THEME_MILITARY: ミリタリー
+  LABEL_THEME_INDUSTRIALIZATION: 工業化
+  LABEL_THEME_PET: ペット
+  LABEL_THEME_FOOTBALL: フットボール
+  LABEL_THEME_SOCCER: サッカー
+  LABEL_THEME_CARTOON: カートゥーン
+  LABEL_THEME_COOK: クッキング
+  LABEL_THEME_URBAN: 都市
+  LABEL_THEME_KAIJU: 怪獣
+  LABEL_THEME_EVOLUTION: 進化
+  LABEL_THEME_CYBERPUNK: サイバーパンク
+  LABEL_THEME_STEAMPUNK: スチームパンク
+  LABEL_THEME_TRANSPORTATION: 交通
+  LABEL_THEME_MUSIC: 音楽
+  LABEL_TYPE_RTT: リアルタイムタクティクス
+  LABEL_TYPE_4X: 4Xストラテジー
+  LABEL_TYPE_ACTION_ADVENTURE: アクション・アドベンチャー
+  LABEL_TYPE_ACTION: アクション
+  LABEL_TYPE_BEAT_THEM_ALL: ベルトスクロールアクション
+  LABEL_TYPE_VERSUS_FIGHTING: 格闘ゲーム
+  LABEL_TYPE_PLATFORMS: プラットフォーム・ゲーム
+  LABEL_TYPE_SHOOT: 射撃
+  LABEL_TYPE_SHOOT_EM_UP: STG
+  LABEL_TYPE_FPS: FPS
+  LABEL_TYPE_TPS: TPS
+  LABEL_TYPE_HACK_N_SLASH: ハクスラ
+  LABEL_TYPE_OPEN_WORLD: オープンワールド
+  LABEL_TYPE_HTA_LIKE: Gr◯ndTheftAutoライク
+  LABEL_TYPE_INFILTRATION: 潜入
+  LABEL_TYPE_SURVIVAL: サバイバル
+  LABEL_TYPE_HORROR: ホラー
+  LABEL_TYPE_ADVENTURE: アドベンチャー
+  LABEL_TYPE_INTERACTIVE_FICTION: テキストアドベンチャー
+  LABEL_TYPE_INTERACTIVE_MOVIE: 映画のようなアドベンチャー
+  LABEL_TYPE_CHAT: チャット
+  LABEL_TYPE_BISHOJO: 美少女
+  LABEL_TYPE_EROGE: エロゲー
+  LABEL_TYPE_OTOME: 乙女
+  LABEL_TYPE_VISUAL_NOVEL: ビジュアルノベル
+  LABEL_TYPE_MYSTERY_LIKE: ミステリーライク
+  LABEL_TYPE_RPG: RPG
+  LABEL_TYPE_ACTION_RPG: アクションRPG
+  LABEL_TYPE_DUNGEON_CRAWLER: ダンジョン探索
+  LABEL_TYPE_MMORPG: MMORPG
+  LABEL_TYPE_DUNGEON: ダンジョン
+  LABEL_TYPE_CROOK_LIKE: ローグライク
+  LABEL_TYPE_TACTICAL_RPG: タクティカルRPG
+  LABEL_TYPE_REFLEXION: 古典的なパズル
+  LABEL_TYPE_MAZE: 迷路
+  LABEL_TYPE_HIDDEN_OBJECT: 探し物ゲーム
+  LABEL_TYPE_PUZZLE: パズル
+  LABEL_TYPE_SIMULATION: シミュレーション
+  LABEL_TYPE_ANIMALS: 動物
+  LABEL_TYPE_GOD_GAME: ゴッドゲーム
+  LABEL_TYPE_FARMING: 農業
+  LABEL_TYPE_LIVING_ORGANISM: 生命体
+  LABEL_TYPE_SPORT: スポーツ
+  LABEL_TYPE_MANAGEMENT: マネジメント
+  LABEL_TYPE_ECONOMY: 経済
+  LABEL_TYPE_CITY_BUILDER: 街づくり
+  LABEL_TYPE_GOVERNMENT: 政府
+  LABEL_TYPE_VEHICLE: 乗り物
+  LABEL_TYPE_RACING: レーシング
+  LABEL_TYPE_DRIVE: ドライビング
+  LABEL_TYPE_FLY: フライトシミュレータ
+  LABEL_TYPE_SPACE: 宇宙
+  LABEL_TYPE_SUBMARINE: 潜水
+  LABEL_TYPE_TRAIN: 列車
+  LABEL_TYPE_STRATEGY: ストラテジー
+  LABEL_TYPE_RTS: リアルタイムストラテジー
+  LABEL_TYPE_MOBA_LIKE: MOBAゲーム
+  LABEL_TYPE_TOWER_DEFENSE: タワーディフェンス
+  LABEL_TYPE_TURN_BASED: ターン制
+  LABEL_TYPE_ARTILLERY: 砲撃
+  LABEL_TYPE_CASUAL: カジュアルゲーム
+  LABEL_TYPE_BREAKOUT: ブロック崩し
+  LABEL_TYPE_RYTHM: リズムゲー
+  LABEL_TYPE_CLICKER_GAME: クリッカーゲーム
+  LABEL_TARGETTED_AUDIENCE_YOUNG: 若者向け
+  LABEL_TARGETTED_AUDIENCE_ALL: 全年齢対象
+  LABEL_TARGETTED_AUDIENCE_MATURE: 成人向け
+  LABEL_GAME_SIZE_INDIE: インディー
+  LABEL_GAME_SIZE_NORMAL: 普通
+  LABEL_GAME_SIZE_BIG: 大きめ
+  LABEL_GAME_SIZE_AAA: AAAクラス
+  LABEL_MAP_SIZE_TINY: 最小
+  LABEL_MAP_SIZE_SMALL: 小さめ
+  LABEL_MAP_SIZE_MEDIUM: 普通
+  LABEL_MAP_SIZE_LARGE: 大きめ
+  LABEL_MAP_SIZE_HUGE: 最大
+  LABEL_DIFFICULTY_VERY_EASY: 1. QAテスター(簡単)
+  LABEL_DIFFICULTY_EASY: 2. ゲーム開発者
+  LABEL_DIFFICULTY_NORMAL: 3. ゲームエンジン開発者
+  LABEL_DIFFICULTY_HARD: 4. プロデューサー
+  LABEL_DIFFICULTY_INSANE: 5. CEO(難しい)
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: |
+    [b]%s[/b] が新しいプラットフォームをリリースしました: [b]%s[/b]
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    [b]%s[/b] は、あまりにも有名な [b]%s[/b] を引退させてしまい、ファンはとても哀しんでいます……。
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+    [b]%s[/b] は、数ヶ月以内に新しいプラットフォーム [b]%s[/b] をリリースする予定です。何年も使われるプラットフォームになるでしょう。
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    [b]%s[/b] は、これまでよく知られていた [b]%s[/b] が退役することを発表しました。
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
+    [b]%s[/b] のライセンスを購入しました。
+    費用は [b]$%s[/b] です。
+  LABEL_PLATFORM_RELEASED_TITLE: 発売されたプラットフォーム
+  LABEL_PLATFORM_DISCONTINUED_TITLE: 生産終了したプラットフォーム
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: 今後のプラットフォーム
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: 今後退役予定のプラットフォーム
+  LABEL_PLATFORM_UNLOCKED_TITLE: 購入したプラットフォーム
+  LABEL_CLICK_TO_CLOSE: クリックで閉じる
+  LABEL_SHOP_UI: ショップ
+  LABEL_DESK: デスク
+  LABEL_BOOKSHELF: 本棚
+  LABEL_WASTEBASKET: ゴミ箱
+  LABEL_ASSIGN_EMPLOYEE: 従業員
+  LABEL_NEW_GAME: ニューゲーム
+  LABEL_MODDING: MOD
+  LABEL_ARTWORK: アートワーク
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: 経験値が貯まり、新しいジャンル [b]%s[/b] がアンロックされました
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "アンロックされたジャンル: %s"
+  LABEL_MAGAZINE_0: Fan Game
+  LABEL_MAGAZINE_1: PC Player
+  LABEL_MAGAZINE_2: Game Geek
+  LABEL_MAGAZINE_3: Game over Mag
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Game 2
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: Wiki Player
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: ゲームオーバー
+  LABEL_SCORE: スコア
+  LABEL_WAGE_INCREASES_TITLE: 昇給
+  LABEL_WAGE_INCREASES_DESCRIPTION: >
+    1つ、もしくはそれ以上の能力分野で少なくとも1レベル上がり、昇給した従業員のリスト:
+  LABEL_PRESS_KEY: 押す
+  LABEL_WORD_OR: または
+  LABEL_INPUT_ACTION_UI_ROTATE: アイテムを回転させる
+  LABEL_INPUT_ACTION_UI_DELETE: アイテムを売る
+  LABEL_INPUT_ACTION_UI_PAUSE: ゲームを一時停止/解除
+  LABEL_INPUT_ACTION_UI_CANCEL: キャンセル
+  LABEL_INPUT_ACTION_UI_REPEAT: 複数のアイテムを配置する
+  LABEL_CATCHPHRASE_1_0: 時間の無駄
+  LABEL_CATCHPHRASE_1_1: トレーラーにだけ全力を出している
+  LABEL_CATCHPHRASE_1_2: 買わない方がいい
+  LABEL_CATCHPHRASE_1_3: 明らかに創造性が欠如している
+  LABEL_CATCHPHRASE_1_4: 発作的な中庸主義
+  LABEL_CATCHPHRASE_1_5: 最低
+  LABEL_CATCHPHRASE_2_0: 予期せぬ失望感
+  LABEL_CATCHPHRASE_2_1: 誰か「凡庸」って言いました?
+  LABEL_CATCHPHRASE_2_2: 誰か「最悪」って言いました?
+  LABEL_CATCHPHRASE_2_3: 残念な体験
+  LABEL_CATCHPHRASE_2_4: "一言で言えば、空っぽ"
+  LABEL_CATCHPHRASE_2_5: 中止すべきだった
+  LABEL_CATCHPHRASE_3_0: 災厄へまっしぐら
+  LABEL_CATCHPHRASE_3_1: 意欲に反して期待はずれ
+  LABEL_CATCHPHRASE_3_2: 全てを投入しても、まだ足りなかった
+  LABEL_CATCHPHRASE_3_3: 彼らが「ゲーム」を作ってさえいれば……
+  LABEL_CATCHPHRASE_3_4: 悩ましい体験
+  LABEL_CATCHPHRASE_3_5: 最悪なところばかりだったが、良いところもあった!
+  LABEL_CATCHPHRASE_4_0: アイディアは良いのに何だかぎごちない
+  LABEL_CATCHPHRASE_4_1: このゲームは不要だ
+  LABEL_CATCHPHRASE_4_2: しょうもないアイディア
+  LABEL_CATCHPHRASE_4_3: 革新的……でありたかったゲーム
+  LABEL_CATCHPHRASE_4_4: 誤解を恐れずに言えば、もう一度プレイしてもいいかもしれない
+  LABEL_CATCHPHRASE_4_5: 最高の瞬間?ゲームが停止した時だね
+  LABEL_CATCHPHRASE_5_0: 最低限のサービスはできている
+  LABEL_CATCHPHRASE_5_1: うーん、味気なさ過ぎる
+  LABEL_CATCHPHRASE_5_2: 非常に複雑なレポート
+  LABEL_CATCHPHRASE_5_3: 良いところはあったけど、悪いところもまだ目につく
+  LABEL_CATCHPHRASE_5_4: まぁ、これはGOTYには選ばれないだろう
+  LABEL_CATCHPHRASE_5_5: 限られた時間だけ楽しめるゲーム
+  LABEL_CATCHPHRASE_6_0: 刺激がない
+  LABEL_CATCHPHRASE_6_1: 単純だが冗長
+  LABEL_CATCHPHRASE_6_2: 謙虚だが面白い
+  LABEL_CATCHPHRASE_6_3: 楽しいけど浅い
+  LABEL_CATCHPHRASE_6_4: 面白いコンセプトなのにランダム性のせいで台無し
+  LABEL_CATCHPHRASE_6_5: 楽しかった!
+  LABEL_CATCHPHRASE_7_0: シンプルで効率的
+  LABEL_CATCHPHRASE_7_1: 充実した内容だが、平凡な成果しか残せていない
+  LABEL_CATCHPHRASE_7_2: ビジュアルは優れているがメカニズムに難あり
+  LABEL_CATCHPHRASE_7_3: 優れたコンセプトなのに中身が少ない
+  LABEL_CATCHPHRASE_7_4: 満足度の高い集大成
+  LABEL_CATCHPHRASE_7_5: 傑作には近付いているよ!
+  LABEL_CATCHPHRASE_8_0: 純粋な状態での楽しさ
+  LABEL_CATCHPHRASE_8_1: 爽やかな風が吹いた
+  LABEL_CATCHPHRASE_8_2: 友達とのパーティーには欠かせないアイテム
+  LABEL_CATCHPHRASE_8_3: まさに別格の作品
+  LABEL_CATCHPHRASE_8_4: ヴェールに包まれた美しさ
+  LABEL_CATCHPHRASE_8_5: 心地よく、そして強烈に
+  LABEL_CATCHPHRASE_9_0: 今年のベストゲームの一つ
+  LABEL_CATCHPHRASE_9_1: 究極のゲームかも?
+  LABEL_CATCHPHRASE_9_2: 完璧なマシーン
+  LABEL_CATCHPHRASE_9_3: まさに「巨匠」
+  LABEL_CATCHPHRASE_9_4: 素晴らしい体験
+  LABEL_CATCHPHRASE_9_5: 素晴らしい作品
+  LABEL_CATCHPHRASE_10_0: 宝石のようなゲーム感覚
+  LABEL_CATCHPHRASE_10_1: 傑作な演出
+  LABEL_CATCHPHRASE_10_2: 必須アイテム
+  LABEL_CATCHPHRASE_10_3: 最近のベストゲームの一つ
+  LABEL_CATCHPHRASE_10_4: 何時間でも遊べるゲーム
+  LABEL_CATCHPHRASE_10_5: このゲームはみんなの心に刻まれる
+  LABEL_CATCHPHRASE_11_0: 芸術的なパンチ
+  LABEL_CATCHPHRASE_11_1: 稀に見る美しさの逸品
+  LABEL_CATCHPHRASE_11_2: ビデオゲームへの敬意
+  LABEL_CATCHPHRASE_11_3: ビデオゲームの威信を再確立する作品
+  LABEL_CATCHPHRASE_11_4: もしも「完璧」が「ゲーム」だったら
+  LABEL_CATCHPHRASE_11_5: 20世紀最大の不思議
+  LABEL_CREATE_SEQUEL: 続編の制作
+  LABEL_NEW_IP: 新しいIP
+  LABEL_POSTMORTEM: ポストモーテム
+  LABEL_EMPTY_STUDIO: このスタジオには、パソコンのある机がありません。
+  LABEL_MATCH_EXCELLENT: 優れた相性
+  LABEL_MATCH_GOOD: 良い相性
+  LABEL_MATCH_OK: ひとまずOKな相性
+  LABEL_MATCH_POOR: イマイチな相性
+  LABEL_POSTMORTEM_TITLE: ポストモーテム (%s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: 我々は [b]%s[/b] から何も学べていません。
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "我々は [b]%s[/b] から次の事を学べました:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i] と [i]%s[/i] の相性は [b]%s[/b][/ul]。"
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] は [b]%s[/b] です([b]%s[/b] ゲームにおいて)[/ul]."
+  LABEL_POSTMORTEM_MARGINAL: マージン
+  LABEL_POSTMORTEM_INSIGNIFICANT: 僅少
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: 比較的重要
+  LABEL_POSTMORTEM_VERY_IMPORTANT: とても重要
+  LABEL_POSTMORTEM_ESSENTIAL: 必須
+  LABEL_MARKET_SHARE: 市場シェア
+  LABEL_LICENSE_COST: ライセンス
+  LABEL_OWNED: 所有
+  LABEL_WEEK_COST: 開発コスト
+  LABEL_CATALOG_SIZE: ゲームカタログのサイズ
+  LABEL_PLATFORM_LIST: プラットフォームリスト
+  LABEL_IDLE: アイドリング
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    [b]%s[/b] のスタジオの従業員が、ゴミの後ろに隠れていた野良猫を見つけました。
+    この猫はとても可愛くて、スタッフはすでに名前をつけています。あなたはどうしますか?
+  LABEL_ADOPT_CAT_TITLE: 野良猫
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
+    ブルースタジオでは、2人の兄弟が新しいゲームをリリースしました。
+    彼らによって新たなゲームタイプが誕生しました。: ミステリーライク
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: ミステリーライクの発明
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
+    DustStar は、ゲーム業界に革命を起こす新たなゲームを発表し、
+    "Gr◯ndTheftAutoライク"というジャンルを生み出しました。
+  LABEL_UNLOCK_HTA_LIKE_TITLE: Gr◯ndTheftAutoライクの発明
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
+    ガレージで働いている3名のクリエイターが新鮮なゲームを生み出し、
+    "ローグライク"というジャンルが新たに作られるほど有名になりました。
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: ローグライクの発明
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
+    3人のデザイナーが有名なゲームのMODを作成し、
+    "MOBAゲーム"というジャンルが新たに作られました。
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: MOBAゲームの発明
+  LABEL_BROKEN_COFFEEMAKER_TITLE: コーヒーメーカーが故障
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    スタジオ [b]%s[/b] の従業員はコーヒー中毒になっています。
+    しかし、たった今コーヒーメーカーが最後の一杯を出し切ってしまったようです……。
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
+    ウサギ・ウサギ・ウサギだらけ。音を立ててあちこち走り回っています。
+    しかし、誰も気にすることなく仕事を続けています……
+  LABEL_RABBIT_INVASION_TITLE: ウサギがせめてきたぞっ
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
+    専門家は、ゲームが特定の観客をターゲットにできることを発見しました。
+    彼らは、若者向け・一般向け・成人向けという3つの異なる観客層についての論文を発表しました
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
+    ゲーム会社をターゲットにした未知のウイルスが解き放たれました。
+    一見変わった様子はないですが、時々カーソルの動きが遅くなったり、勝手にパソコンが再起動したりするようです。
+    これでは社員の生産性に影響が出てしまいます。
+    攻撃を受けているのは [b]%s[/b] だけです。
+  LABEL_VIRUS_UNLEASHED_TITLE: ウイルスがせめてきたぞっ
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
+    ゲームレビューで有名な The smitties が、新しいビデオを公開しました。
+    彼らはあなたの会社の [b]%s[/b] をレビューしました!売上に影響しそうです。
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 無料広告
+  LABEL_LOAN_TITLE: 最後の手段"ローン"
+  LABEL_LOAN_DESCRIPTION: >
+    さらなる資金が必要でしょうか?我々がお手伝いいたします。 あなたは [b]$%s[/b] のローンを組むことができます。
+    当社の金利はわずか [b]%s%%[/b] と低く、返済期間は [b]%s[/b] 週間です。
+    我々はあなたにとって最後の手段です。よく考えて選んでください。
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    火事でも起きているのか!?
+    サーバのデータが最大容量に達しました。
+    新しいサーバーを購入するか、オンラインゲームを終了しなければなりません。
+  LABEL_BURNING_SERVER_TITLE: これでいいのだ
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    あなたは非常に優れたオンラインゲームを作っており、売上も好調です。
+    しかしながらサーバの容量が限界に達しており、ほとんどのサーバの使用率が90%を超えています。
+    新しいサーバーを購入しなければなりません。
+  LABEL_SMOKING_SERVER_TITLE: サーバ容量警告
+  LABEL_PAYLOAN_TITLE: ローンの返済
+  LABEL_PAYLOAN_DESCRIPTION: 返済予定期間が終了したので、 [b]$%s[/b] を支払わなければなりません。
+  LABEL_SELL_STUDIO_TITLE: スタジオの売却
+  LABEL_SELL_STUDIO_DESCRIPTION: スタジオ [b]%s[/b] を売却します、よろしいですか?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    %s はあなたの最後のスタジオであるか、
+    プロジェクトに取り組んでいるため売ることはできません。
+  LABEL_BUILDING_AREA: エリア %s m²
+  LABEL_BUILDING_BUY: 価格
+  LABEL_BUILDING_RENT: レンタル
+  LABEL_BUILDING_CONVENTION: 展示会場
+  LABEL_BUILDING_TYPE: 建物
+  LABEL_BUILDING_ROAD: 道路
+  LABEL_BUILDING_STREET: 通り
+  LABEL_BUILDING_APARTMENT: マンション
+  LABEL_BUILDING_HOTEL: ホテル
+  LABEL_BUILDING_THEATER: 劇場
+  LABEL_BUILDING_TOWER: タワー
+  LABEL_BUILDING_STUDIO: スタジオ
+  LABEL_BUILDING_BIGSTUDIO: スタジオ
+  LABEL_BUILDING_BUILDING: 住宅
+  LABEL_BUILDING_GRASS: 芝生
+  LABEL_BUILDING_SQUARE: スクエア
+  LABEL_BUILDING_CAFE: カフェ
+  LABEL_BUILDING_RESTAURANT: レストラン
+  LABEL_BUILDING_PIZZERIA: ピザ
+  LABEL_BUILDING_GYM: ジム
+  LABEL_BUILDING_OFFICE: オフィス
+  LABEL_BUILDING_UNIVERSITY: 大学
+  LABEL_NO_GAME_AVAILABLE: 利用できるゲームがありません
+  LABEL_NO_MONEY: 高すぎます
+  LABEL_COMPUTER: コンピュータ
+  LABEL_PLANT: 工場
+  LABEL_TABLEPLANT: テーブル
+  LABEL_PRINTER: プリンタ
+  LABEL_COFFEEMACHINE: コーヒーメーカー
+  LABEL_DARKMETALTABLEDESK: ダークなメタルデスク
+  LABEL_METALDESK: メタルデスク
+  LABEL_METALLARGEDESK: 大きいメタルデスク
+  LABEL_METALTABLEDESK: メタルデスク
+  LABEL_WOODDESK: ウッドデスク
+  LABEL_WOODLARGEDESK: 大きいウッドデスク
+  LABEL_WOODTABLEDESK: ウッドデスク
+  LABEL_WATERTANK: 噴水
+  LABEL_WHITEBOARD: ホワイトボード
+  LABEL_WOODBOOKSHELF: 木製本棚
+  LABEL_METALBOOKSHELF: 金属本棚
+  LABEL_HOLIDAY: 休暇
+  LABEL_NO_COMPUTER: コンピュータなし
+  LABEL_NO_STUDIO: スタジオなし
+  LABEL_EMPLOYEE_CAPACITY: 生産性
+  LABEL_STUDIO_CAPACITY: スタジオの生産性
+  LABEL_EMPLOYEE_TOOLTIP: 「生産性」は従業員の効率を高めます。
+  LABEL_STUDIO_TOOLTIP: スタジオの「生産性」はスタジオの効率を高めます。
+  LABEL_BUILD_STUDIO: スタジオの編集
+  LABEL_WALL: 壁
+  LABEL_PILLAR: 柱
+  LABEL_FLOOR: 床
+  LABEL_HIRING_DATE: 採用日
+  LABEL_WORK: 状態
+  LABEL_NUMBER_OF_GAME_PRODUCED: プロデュースされたゲーム
+  LABEL_DESIGN_POINT_PRODUCED: 作られたデザインポイント数
+  LABEL_DEVELOPMENT_POINT_PRODUCED: 作られた開発ポイント数
+  LABEL_POLISH_POINT_PRODUCED: 作られた仕上げポイントの数
+  LABEL_PRODUCTIVITY: 生産性
+  LABEL_MONEY_EFFICIENCY: コストパフォーマンス
+  LABEL_SKILLS: スキル
+  LABEL_HOME: ホーム
+  LABEL_MONTH: 月
+  LABEL_ORDER_BY: 次でソート
+  LABEL_BUY_PRICE: 購入価格
+  LABEL_RENT_PRICE: レンタル価格
+  LABEL_NO_STUDIO_AVAILABLE: 利用できるスタジオがありません
+  LABEL_REAL_ESTATE: 不動産
+  LABEL_STAFF_SIZE: 従業員数
+  LABEL_CREATION_DATE: 作成日
+  LABEL_STUDIO_LIST: スタジオ一覧
+  LABEL_NO_STUDIO_FOUND: スタジオが見つかりません
+  LABEL_PRODUCTIVITY_BONUS: 生産性向上ボーナス
+  LABEL_SKILLS_AVERAGE: スキル(平均)
+  LABEL_VSYNC: VSync
+  LABEL_BORDERLESS_WINDOW: ボーダーレスウィンドウ
+  LABEL_GAME_UPDATE_FEATURE: >
+    ゲームのアップデートを公開し、新しいコンテンツを作成します。無料のアップデートか、有料DLCか。それはあなた次第です。
+  LABEL_GAMEEDITION_SUBMIT: >
+    あなたにはたくさんのファンがおり、
+    ゲームを編集するほどの知名度があります。
+  LABEL_GAMEEDITION_RECEIVE: >
+    最近の成功を受けて、出版社からすぐにオファーが来るようになりました。
+  LABEL_WORLDMAP: >
+    顔を上げれば、そこには世界が待っている。
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
+    ゲーム雑誌が続々と創刊されています、自分のゲームを宣伝してみませんか?
+  LABEL_MARKETING_CAMPAIGN_TV: >
+    テレビ広告で自分のゲームをアピールする時期です。
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
+    インターネットの時代が始まり、簡単なバナー広告で何百万人もの人にリーチできるようになりました。
+  LABEL_CONCURRENT_STUDIOS_LIST: >
+    あなたのスタジオが成長しているなら、市場を研究し、競争相手を覗き見るべきです。
+  LABEL_CONCURRENT_STUDIOS_BUY: >
+    儲かっていますし、そろそろライバルのスタジオを買ってもよいのではないでしょうか?
+  LABEL_FURNITURES_COMMON_BUY: >
+    今こそ、スタイリッシュなオフィスに模様替えをしましょう。
+  LABEL_EMPLOYEES_HIRE: >
+    あなたのスタジオは成長し、より多くのゲームを生産し、その品質を向上させています。しかしまずは人材を確保するべきでしょう。
+  LABEL_STUDIO_RENT: >
+    あなたは今、小さなスタジオに箱詰め状態です。次の場所を確保してください。
+  LABEL_STUDIO_BUILD: >
+    あなたの成功によって、自分のスタジオを作ることができます。
+  LABEL_CONVENTION_ORGANIZE: >
+    10万人の支援者があれば、自分で大会を開催することができます。
+  LABEL_CONVENTION_PARTICIPATE: >
+    あなたのゲームカタログは見てもらう価値があります。コンベンションに参加することで知名度を上げることができるかもしれません。
+  LABEL_STUDIO_CUSTOMIZE: >
+    殺風景な壁が生産性を低下させていませんか?
+    デザインを変えてみるとよいかもしれません。
+  LABEL_GAME_ONLINE: >
+    プレイヤーを画面に釘付けにするには?
+    インターネットです。オンラインゲームを作れば、彼らは夢中になるでしょう
+  LABEL_FURNITURES_SERVERS_BUY: >
+    机を増やし、椅子を増やし、コンピュータを増やし、ホワイトボードを増やし、もっともっと増やしましょう。
+  LABEL_DIGITAL_STORE: >
+    "デジタル化"! あなたも聞いたことがあるでしょう、未来の言葉です。
+  LABEL_POSTMORTEM_FEATURE: >
+    おめでとうございます、あなたは最初のゲームを作りました。これで、開発、デザイン、仕上げを評価するためのポストモーテムに進むことができます。
+  LABEL_NEW_GAME_FEATURE: >
+    ビデオゲームの壮大な歴史を、その始まりから追体験してみませんか?
+    City Game Studio へようこそ。あなたの初めてのゲームを作りましょう。
+  LABEL_LOADING: ローディング
+  LABEL_NAME: 名前
+  LABEL_SALARY: 給料
+  LABEL_NO_SCORE: まだスコアはアップロードされていません!
+  LABEL_CAPACITY_STORY_FEATURE: >
+    良いゲームは常に良いものですが、良いストーリーがあればさらに良いものになります。
+    ゲームの良さとストーリーの良さの融合はどうでしょうか?
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
+    そのボタンの目的は何ですか?
+    ゲームのユーザーインターフェースを管理する必要があります。
+  LABEL_CAPACITY_NETWORK_FEATURE: >
+    ビデオゲームをプレイするのは素晴らしいことですが、友達と一緒にプレイするのはもっと素晴らしいことです!
+    ゲームのためにネットワークを管理する必要があります。
+  LABEL_CAPACITY_MODDING_FEATURE: >
+    あなたのゲームの中に、プレイヤーによってMODが作成されたものがあります。
+    そのおかげでより多くゲームが売れています。
+    今こそMOD APIを整備し、MODの作者を助ける時です。
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
+    映画はビデオゲームに影響を与えます。新しいゲームを開発する際にはカットシーンにも気を配らなければなりません。
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
+    新しいゲームを遊べるようになるには、まず操作方法や仕組みを覚える必要があります。
+    これは簡単ではありません。そのため新しいゲームのチュートリアルを作ることにしました。
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
+    Rick と Paris が彼らのプライベートな生活を世界に発信しています。
+    ソーシャルネットワークはますます普及しており、ゲームの販売に利用することができます。
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
+    最近の研究では、迷惑メールを送信するとゲームの認知度が大幅に向上することがわかっています。
+    "スパム"はインターネットの世界では新しい言葉で、あなたのゲームを売り込むためその方法を使うことができます。
+  LABEL_GAMEPORT_FEATURE: >
+    ドリームズ・カム・トゥルー。新しいゲーム機が発売されました!
+    クロスプラットフォームのゲームをリリースすることができます。
+    さあ、試してみましょう!
+  LABEL_GAME_CREATION: 各ゲージを調整することで、ゲームの各部分の作業量を推定することができます。
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
+    出版社がどのようなサービスを提供しているかを見ることができます。ゲームを公開することは、人気が出て、より大きなゲームをリリースするための簡単な方法です。
+  LABEL_WORLDMAP_DESCRIPTION_0: >
+    街を訪れ、競合他社を見て、オフィスがどこにあるのかを確認する。
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
+    多くのゲーム雑誌を利用したマーケティングキャンペーンを行うことができます。これにより、ゲームの視認性が高まります。
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
+    販売中のゲームのポスターを貼ることができる広告板をレンタルすることができます。
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
+    マーケティングマネージャーを雇えるようになりました。あなたのマーケティングキャンペーンを後押ししてくれます。
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
+    テレビ広告キャンペーンの実施が可能。お金はかかりますが、近年テレビを見ない人なんていないでしょう。
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
+    Webサイトに広告インサートを表示できるようになりました。安い上にプレイヤーが増えるんです。
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
+    ウェブ上にショーケースを作り、自分のゲームを世界にアピールすることができるようになりました。
+  LABEL_GAME_ONLINE_DESCRIPTION_1: >
+    ネットワーク管理者はサーバーの能力を向上させ、同じ数のサーバーでより多くのプレイヤーをサポートできるようにします。
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
+    市街地の地図上で競合他社を見ることができましたが、今度は彼らを見ることができるのです。
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
+    ライバル会社を買収することは、多くのファンを獲得するだけでなく会社を拡大するための簡単な方法です。
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
+    スタジオの一つを見ている間に、新しい家具を買うことができるようになりました。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
+    最高のゲームは、デザイン、開発、仕上げに強いチームによって生み出されることを覚えておいてください。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
+    ビデオゲームプロデューサーは、社員の生産性を高めAAAクラスのゲームを作ることができます。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
+    人事部は社員の幸福度を高め、社員のスケジュールをカスタマイズできます。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
+    会計士を雇えば、税金の節約にもなります。
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
+    新しい建物のレンタルを可能にします。これにより、複数のプロジェクトを同時に進めることができるようになります。
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
+    新しいスタジオを作ることができます。お金はかかりますが、無制限に成長し続けるための唯一の方法なのです。
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
+    スタジオを作れるだけでなく、会議を開催するために必要なカンファレンスセンターも作ることができます。
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    スタッフを育成するために大学を建設します。完璧を目指せ!
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
+    少なくとも1つのカンファレンスセンターがあれば、独自のカンファレンスを開催することができます。
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
+    コンベンションに参加すれば、ゲームの知名度を上げることができます。
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
+    スタジオの壁を塗り替えたり、柱を変えたり、床を敷き直したりすることができます。
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
+    サーバーを購入すれば、オンラインゲームだけでなく、オンラインポータルも作ることができます。
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
+    オンラインでゲームを作ることができます。通常は安価ですが、プレイヤーは月額利用料を支払う必要があります。
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
+    デジタルプラットフォームを作ることができます。段階的に拡大し、最適化していくことができます。
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
+    パブリッシャーとして、ゲームを作る会社を雇えます。
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
+    ポストモーテムとは、ゲームの開発中に何が良かったか、何が悪かったかを報告するもので、開発のヒントを与えてくれます。
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
+    良いゲームを作ることで City Game Studio での活動が捗り、お金やファン、経験を得ることができます。
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
+    ゲームを制作する際に、ターゲット層を選べるようになりました。これがゲームの最終的なスコアや売り上げに影響してきます。
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
+    ゲームの開発では、新しいデザイン要素が用意されています。
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
+    ゲームの開発では、新しいデザイン要素が用意されています。
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
+    ゲームの開発には、新しい技術要素があります。
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
+    ゲームの開発には、新しい技術要素があります。
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
+    ゲームの開発には、新しい仕上げの要素があります。
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
+    ゲームの開発には、新しい仕上げの要素があります。
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
+    ソーシャルネットワーク上で広告を出すことができますが、とてもターゲットが絞られています。費用もかかりますが、非常に効果的です。
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
+    メールの送信にはほとんどコストがかかりませんし、ゲームの売り上げにも影響します。
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
+    あなたのゲームを新しいプラットフォームに移植することができます。簡単ですし、一人だけで開発できます。
+  LABEL_UNLOCK_GAMEGENRE: ゲーム制作の経験を積み、新しいゲームジャンルを開発する準備ができました。
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    新しいジャンルのゲームをアンロックできるようになりました。経験値を獲得するには、ゲームを公開する必要があります。
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
+    契約が可能になりました。契約を完了すると、特定のゲームジャンルでお金や経験値、ヒントが得られます。
+
+  # Placeholder used for forms
+  PLACEHOLDER_COMPANY_NAME: 会社名
+  PLACEHOLDER_GAME_GENRE: ゲームジャンル
+  PLACEHOLDER_GAME_NAME: ゲーム名
+  PLACEHOLDER_PLAYER_NAME: あなたの名前
+
+  LABEL_VERSION_BETA: ベータ版
+  LABEL_BREAK_LAW: |
+    あなたは法を犯そうとしています。
+
+    本当に続けますか?
+  LABEL_SUCCESS: 成功
+  LABEL_FAILURE: 失敗
+  LABEL_CANNOT_INTERACT: 「%s」とは %s まで話せません。
+  LABEL_FAN_LOST: これはあなたの人気に影響を与え、%s のファンを失います。
+  LABEL_PENALTY_COST: 正義の鉄槌が下されました。あなたは $%s を支払う必要があります。
+  LABEL_EMPLOYEE_HIRED: 「%s」を採用しました。
+  LABEL_GAME_CRACKED: |
+    %s が生み出す収入を3で割ると、
+    もはやあなたのゲーム機と競合することはありません。
+  LABEL_GENRE_STOLEN: あなたは %s を学びました
+  LABEL_STUDIO_SOLD: 彼らは %s を売りました
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    このジャンルはすでにどこかの会社が作ったものなので
+    独自性はありません。
+
+  # Tutoriel labels
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    この機能はオリジナルのゲームにはありましたが、
+    現在は使用できません。
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    この機能は利用できませんが、
+    代替機能がありますのでそちらを利用することをお勧めします。
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    今回のリメイクでは、ゲーム機の性能を活かしきれていません。
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    対応していない機能もありますので、他の機能を選択してください。
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    ゲームレポートはすでに行われています。
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    自動的にゲームレポートを作成します。
+  TUTORIEL_CREATE_GAME: |
+    このボタンをクリックすると、ゲーム作成パネルが表示されます。
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    このゲームエンジンをアップグレードするためのコストは高くなります。
+    実際、このゲームエンジンは老朽化しているので開発費が高騰する可能性があります。
+
+    このようなペナルティを受けないためにも、このエンジンを更新せずに新しいエンジンを作るべきです。
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    このゲーム機の製造コストは価格よりも高いです。
+    売り上げが急増すれば、会社が倒産する可能性もあります。
+
+    赤字にならないようにゲーム機の価格を上げる必要があります。
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    他のゲームメーカーはこのゲーム機でゲームを販売することに失敗しています。
+    あなたもこのゲーム機で十分な数のゲームを売ることができない可能性があります。
+
+    他のゲーム機を選ばないと悲惨な結果になるかもしれません。
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    このサイズのゲームが売れるほどのファンはいないので、
+    90％以上の評価がないと成功しないでしょう。
+
+    成功する為にはゲームのサイズを少し小さめにしたほうが良いでしょう。
+    また、ファンを増やすために他社からの出版のオファーを受けるのもいいでしょう。
+
+  # Tooltips
+  TOOLTIP_GAME_SIZE: |
+    ゲームのサイズは、必要ポイント数、ゲーム開発時間、制作費に影響します。
+
+    小さなゲームで90点以上のスコアを出すのは、大きなゲームよりも難しいです。
+  TOOLTIP_THEME_TREND: |
+    テーマのトレンドは売上に影響します。
+  TOOLTIP_EMPLOYEE_HAPPINESS: |
+    従業員の幸福度が高いほど休暇を取る頻度は少なくなり、
+    幸福度が低いほど休暇を取る頻度は高くなります。
+  TOOLTIP_EMPLOYEE_PRODUCTIVITY: |
+    社員の生産性が高ければ高いほど、より多くのポイントを獲得することができます。
+  TOOLTIP_GAME_PRICE: |
+    ゲームの価格が高ければ高いほど、利益は大きくなるでしょう。
+    しかし、ゲームの価格を下げるとより多くのファンを獲得することができます。
+  TOOLTIP_TOO_HARD: |
+    この難易度は"ハード"です。
+    もっと簡単な難易度をクリアしてから挑んだほうがよいでしょう。
+
+    いきなり難易度の高いモードに挑戦すると、ゲームを楽しめなかったり不公平感やバランスの悪さを感じたりすることがあります。
+  TOOLTIP_REQUIRED_POINTS: |
+    良いゲームを作るために必要なポイント数。
+
+    ゲームサイズが大きければ大きいほど、必要なポイントも大きくなります。
+    また、過去4年間に作られた類似のゲームも使用しています。
+  TOOLTIP_NO_MONEY: |
+    もっと合理的になるべきです。
+
+    つまるところ、生き残り続けるためには経費を削減しなければなりません。
+    今は会社を救済する必要があります。
+
+    あなたの最善の策は、できるだけ充実した長期の住宅ローンを組むことです。
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    ゲームの更新、DLCの作成、財務状況の確認はこちらから
+  TOOLTIP_GAMECREATION_HELP: >
+    自分が作成した同一ジャンルのゲームを一覧表示します。ゲージの調整に便利です。
+  TOOLTIP_GAMEENGINE_CREATE: >
+    ゲームエンジンに搭載したい機能を選ぶ
+  TOOLTIP_TIRED_GAME_GENRE: >
+    社員は新しいゲームジャンルに挑戦したい。
+    彼らは同じゲームジャンルを作ることに飽きています:
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    分析するテーマ／プラットフォームを選択してください
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    学びたいゲームジャンルを選んでください
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    分析するゲームジャンル/ターゲット層を選択してください
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    学習するプラットフォームを選択してください
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    その項目はすでに検討済みなので、改めて分析する必要はありません。
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    従業員が完璧になるまで、もしくは一定期間トレーニングを行う。
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    従業員が完璧になるまで、または仕事があるまで、自動的にトレーニングを受けさせることができます。
+    人事担当者が必要です。
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    ビデオゲーム開発のあらゆる面でスタッフを教育する。
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    ビデオゲーム開発の特定の側面におけるスタッフのトレーニング。
+  TOOLTIP_PLATFORM_MARKETING: |
+    活動開始後は、ゲーム機の発売と同時に
+    マーケティングキャンペーンを開始します。
+  TOOLTIP_MENU_CREATE_GAME: |
+    新規ゲームの作成、ゲームエンジンの作成、契約の作成、
+    ゲームレポートの作成、ゲームの移植
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    デジタルストアの作成・管理や
+    新しいコンソールの作成
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    従業員に配分されている作業量を表示します。
+    作業量が多すぎたり少なすぎたりすると、制作するゲームの品質に影響します。
+
+    優秀なスコアを獲得するためには、作業量が白い領域内に収まっている必要があります。
+  TOOLTIP_GAME_UPDATE: |
+    無料のアップデートを掲載すると、ゲームの売上が伸びます。
+    有料DLCは、元のゲームの販売数に応じて収益を上げることができます。
+  TOOLTIP_MATCH_EXCELLENT: 最高の相性
+  TOOLTIP_MATCH_GOOD: 良い相性
+  TOOLTIP_MATCH_OK: 普通の相性
+  TOOLTIP_MATCH_POOR: 悪い相性
+  TOOTIP_STUDIO_HAPPINESS: |
+    ベストセラーゲーム
+  TOOLTIP_TOPSALES: |
+    売れ筋ゲーム
+  TOOLTIP_CONVENTION_LIST: |
+    コンベンションへの参加
+  TOOLTIP_FORCE_STUDIO: |
+    強制的に売却したいスタジオを選択する必要があります。
+  TOOLTIP_CRACK_GAME: |
+    クラッキングしたいゲームを選択する必要があります。
+  TOOLTIP_HIRE_STAFF: |
+    採用したい社員を選択する必要があります。
+  TOOLTIP_CONCURRENT_LOCKED: |
+    %s に対する %s からのアクションを再試行できます。
+  TOOLTIP_TUTORIEL: |
+    %s から %s をアンロック
+  TOOLTIP_EMAIL: |
+    ニュースやメールを読む。
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    新しいタイプのゲームをアンロックすることができます。
+  TOOLTIP_MANAGE_STUDIO: |
+    スタジオの管理、コンピュータのアップグレード、従業員の配置...。
+  TOOLTIP_GAMEPORT: ビデオゲームを他のプラットフォームに移植する。
+  TOOLTIP_POSTMORTEM: |
+    ポストモーテムレポートを作成する。
+    ポストモーテムがあれば
+    より良いゲームを作ることができます。
+  TOOLTIP_CREATE_GAME: 新たなゲームを作成
+  TOOLTIP_STAFF: 従業員リスト
+  TOOLTIP_RECRUIT: 町で入手可能な採用候補者をリストアップします。
+  TOOLTIP_PORTFOLIO: これまでに作ったゲームをすべてリストアップします。
+  TOOLTIP_OPTION: パラメータとオプション
+  TOOLTIP_EXIT: デスクトップに戻る
+  TOOLTIP_STUDIOS: スタジオ一覧
+  TOOLTIP_STUDIOLIST: 街で利用できるオフィスをリストアップ
+  TOOLTIP_CONSTRUCT: |
+    オフィスやコンベンションを
+    開催するための、
+    新しい建物を作る。
+  TOOLTIP_CONFERENCE: コンベンションの管理
+  TOOLTIP_MARKETING: マーケティングキャンペーンの管理
+  TOOLTIP_SELL: オフィスを売る
+  TOOLTIP_SHOP: オフィス用の家具やグッズの購入
+  TOOLTIP_BUILDMOD: オフィスの塗装と美化
+  TOOLTIP_ASSIGN: 従業員のアサイン
+  TOOLTIP_STUDIO_SELECT: スタジオの選択
+  TOOLTIP_ANNOUNCE_GAME: |
+    ビデオゲームを発表する。
+    盛り上がりを生み出します。
+  TOOLTIP_CONCURRENT: |
+    ビデオゲーム会社の一覧
+  TOOLTIP_STUDIO_COST: |
+    スタジオの総費用。 家賃や機材の維持費(サーバーなど)も含む
+  TOOLTIP_MARKETING_COST: |
+    現在実施中のマーケティング・キャンペーンの費用
+  TOOLTIP_SALARY_COST: |
+    各社員の給与
+  TOOLTIP_STEAM_MODS: |
+    Steam ワークショップ
+  TOOLTIP_HUMANRESOURCE: |
+    人事担当者を配置し、
+    社員のスケジュールや昇給を管理する
+  TOOLTIP_GAME_OF_THE_YEAR: |
+    毎年、新しいゲームが「Game Of The Year」に選ばれます。
+  TOOLTIP_DESK_REPLACE: |
+    机の入れ替え、パソコンの更新
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    ゲームレポートは、ブルーゾーンを洗練させるのに役立てられます。
+    ブルーゾーンを出てしまうとバランスの悪いゲームを作ってしまい、
+    悪い評価を受けてしまうリスクがあります。
+
+  # Showd when game is loading
+  LOADING_SCREEN_TIP_0: >
+    あなたの会社は過去4年間に制作されたゲームのクオリティーに基づいて評価されます。
+  LOADING_SCREEN_TIP_1: >
+    パーフェクトな社員が自発的に応募し、生産チームを強化することができます。
+  LOADING_SCREEN_TIP_2: >
+    実はこのローディング画面は "sleep(random(0, 50))" でループを作りただ待たせているだけなんです……。
+  LOADING_SCREEN_TIP_3: >
+    新しいゲームジャンルを発見することは、競合他社に対して大きなアドバンテージとなります。
+  LOADING_SCREEN_TIP_4: >
+    有名になるには、パブリッシャーでゲームを作るのが一番です。
+  LOADING_SCREEN_TIP_5: >
+    自社ビルでフェアを開催することは可能ですが、年に1回程度にしておきましょう。
+  LOADING_SCREEN_TIP_6: >
+    駄目な営業部はいつも正しい。
+  LOADING_SCREEN_TIP_7: >
+    オンラインゲームをホストするためにはサーバーが必要です。サーバーは安価ですが、プレイヤーは継続してプレイするためには毎月お金を払わなければなりません。
+  LOADING_SCREEN_TIP_8: >
+    マスコットキャラクターの Einstein は、City Game Studioの開発中に65.13回吠えました。
+  LOADING_SCREEN_TIP_9: >
+    City Game Studioの開発では、クリスマスキャロルが12,654回聴かれました。
+  LOADING_SCREEN_TIP_10: >
+    マーケットシェアを見るのもいいですが、そのプラットフォームで発売されたゲームの数を見る必要があります。
+  LOADING_SCREEN_TIP_11: >
+    City Game Studioの翻訳に協力してみませんか?: https://discord.gg/citygamestudio
+  LOADING_SCREEN_TIP_12: >
+    サーバーのランプが赤くなっていたら、負荷がかかっているということです。
+  LOADING_SCREEN_TIP_13: >
+    コーヒーブレイクも忘れずに……あっ、またコーヒーメーカーが壊れた。
+  LOADING_SCREEN_TIP_14: >
+    "クランチタイム" は、コーンフレークのブランドではなく一般的なマネジメント手法です。
+  LOADING_SCREEN_TIP_15: >
+    新しいゲームをリリースすることは、お金を稼ぐための最良の方法です。
+  LOADING_SCREEN_TIP_16: >
+    ポストモーテムでは、公開したゲームの詳細を知ることができます。
+  LOADING_SCREEN_TIP_17: >
+    最近の調査によると、雨が降ると約625.3匹の犬のうち1匹が吠え、他の犬はそれを馬鹿にしています。
+  LOADING_SCREEN_TIP_18: >
+    ここに書かれていることを鵜呑みにしてはいけません。
+  LOADING_SCREEN_TIP_19: >
+    猫を飼うと、スタジオにちょっとしたボーナスがもたらされます。
+  LOADING_SCREEN_TIP_20: >
+    スタジオのスキルレベルにばらつきがあると、ゲーム全体のクオリティに悪影響を及ぼします。
+  LOADING_SCREEN_TIP_21: >
+    F1を押すと、ゲーム中にコンソールが表示されます。
+
+  GAME_UPDATE: ゲーム更新
+  GAMEENGINE: ゲームエンジン
+  GAMEEDITION_SUBMIT: 出版のオファーを出す
+  GAMEEDITION_RECEIVE: 出版社からのオファーを受ける
+  WORLDMAP: ワールドマップ
+  MARKETING_CAMPAIGN_MAGAZINE: 報道機関での広告キャンペーン
+  MARKETING_CAMPAIGN_TV: テレビ広告キャンペーン
+  MARKETING_CAMPAIGN_INTERNET: オンライン広告キャンペーン
+  CONCURRENT_STUDIOS_LIST: 競合他社のリスト
+  CONCURRENT_STUDIOS_BUY: 競合他社の買収
+  FURNITURES_COMMON_BUY: 家具の購入
+  EMPLOYEES_HIRE: 従業員を雇う
+  STUDIO_RENT: ワンルームマンションを借りる
+  STUDIO_BUILD: スタジオ建設
+  CONVENTION_ORGANIZE: コンベンションの開催
+  CONVENTION_PARTICIPATE: コンベンションに参加する
+  STUDIO_CUSTOMIZE: スタジオのリノベーション
+  FURNITURES_SERVERS_BUY: サーバの購入
+  GAME_ONLINE: オンラインゲームの公開
+  DIGITAL_STORE: デジタルストア
+  POSTMORTEM: ゲームレポート
+  NEW_GAME: ニューゲーム
+  TARGETTED_AUDIENCE: ターゲット層
+  STORY: 歴史
+  USERINTERFACE: ユーザーインターフェース
+  NETWORK: ネットワーク
+  MODDING: MOD
+  CUTSCENES: カットシーン
+  TUTORIEL: チュートリアル
+  MARKETING_CAMPAIGN_SOCIALNETWORK: ターゲットを絞った広告キャンペーン
+  MARKETING_CAMPAIGN_MAILINGLIST: メールの広告キャンペーン
+  GAMEPORT: ゲームの移植
+  UNLOCK_GAMEGENRE: ゲームジャンルのアンロック
+  UNLOCK_HUMANRESOURCE: ヒューマンリソース
+  UNLOCK_GAME_OF_THE_YEAR: Game of the year
+  UNLOCK_CLOUD_SERVER: クラウドコンピューティング
+  REMASTER_AND_REMAKE: リメイク&リマスター
