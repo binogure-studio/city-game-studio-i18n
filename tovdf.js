@@ -6,6 +6,7 @@ const langMatch = {
   de: 'german',
   en: 'english',
   es: 'spanish',
+  ja: 'japanese',
   ko: 'korean',
   pt: 'portuguese',
   fr: 'french',
