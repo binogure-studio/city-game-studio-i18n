@@ -91,6 +91,58 @@ pt:
   BUTTON_VIEW_ORIGINAL_GAME: Ver o jogo original
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Pagamento anual de dividendos
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Caro [b]%s[/b],
+
+    Como fazemos todos os anos nesta altura do ano,
+    é com grande prazer que pagamos dividendos aos accionistas.
+
+    %s
+
+    Juntamente com os dividendos vêm os impostos,
+    $[b]%s[/b] de impostos foram deduzidos dos seus dividendos,
+    pelo que receberá $[b]%s[/b] depois de impostos.
+
+    Tenha um bom dia.
+    Binogure
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: Como accionista, possui [b]%s[/b] acções, o que lhe rende [b]%s[/b] dólares.
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]Possui [b]%s[/b] acções de [b]%s[/b], pelo que recebe $[b]%s[/b],[/i]
+    [i]o que representa $[b]%s[/b] por acção.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s quer comprar %s!"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Caro [b]%s[/b],
+
+    Estamos interessados em comprar [b]%s[/b].
+    No entanto, detém actualmente mais de 50%% das acções da empresa.
+    Será impossível para nós adquiri-las sem o seu acordo prévio.
+
+    Saiba que estamos a oferecer-lhe um acordo generoso.
+    Hoje, as suas acções valem $[b]%s[/b], e nós estamos dispostos a dar-lhe $[b]%s[/b] pelas acções.
+    Ganharia muito dinheiro e tudo o que teríamos de fazer seria gerir [b]%s[/b].
+
+    Olhando para o lado positivo,
+    significa que tem um concorrente a menos com quem negociar.
+
+    No caso improvável de não estar disposto a vender,
+    estamos dispostos a ir a tribunal.
+    As taxas legais e de processamento custarão $[b]%s[/b].
+
+    [i]Esta é a nossa oferta final, não há qualquer negociação.[/i]
+    [i]Ainda tem $[b]%s[/b] no banco[/i]
+  BUTTON_ORDER_SENT: Ordem enviada
+  LABEL_STOCK_MARKET: Bolsa de Valores
+  LABEL_CONCURRENT_BUY_STOCK: Comprar acções de concorrentes
+  LABEL_TRADING_PANEL: Painel de negociação
+  LABEL_STOCKS_COSTS: Custo de uma acção
+  LABEL_STOCKS_OWNED: Número de acções detidas
+  LABEL_STOCKS_VALUE: Valor das acções
+  LABEL_STOCKS_QUANTITY: Quantidade de acções
+  LABEL_STOCKS_BUY_PRICE: Custo de uma acção para comprar
+  LABEL_STOCKS_SELL_PRICE: Custo de uma acção para vender
+  LABEL_TRADE_HELP: Ajuda
   LABEL_DEVKITS: Kits Dev
   LABEL_NO_CONCURRENT_REMAINING: Nenhum outro concorrente
   LABEL_END_OF_EXCLUSIVITY: Termo de exclusividade
@@ -1846,6 +1898,16 @@ pt:
     Para aumentar o seu número de adeptos, poderá também querer aceitar ofertas para publicações de outras empresas.
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Reúne ordens de compra e venda emitidas
+    durante este período de tempo.
+  TOOLTIP_TRADE_CHART: |
+    A operação é básica, cada vela pode ser vermelha ou azul,
+    é vermelha quando o preço de uma acção caiu, por outro lado
+    é azul se o preço tiver aumentado em comparação com o início
+    da mesma vela. O rectângulo é o corpo da vela, representa a
+    variação desde a abertura até ao fecho e uma linha fina que
+    a atravessa indica o máximo e o mínimo. 
   TOOLTIP_GAME_SIZE: |
     O tamanho do jogo tem impacto no número de pontos necessários,
     no tempo de desenvolvimento do jogo e nos custos de produção.

@@ -91,6 +91,56 @@ fr:
   BUTTON_VIEW_ORIGINAL_GAME: Voir le jeu original
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Versement des dividendes annuels
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Bonjour [b]%s[/b],
+
+    Comme tous les ans, à cette période de l'année c'est avec
+    un grand plaisir que nous reversons les dividendes aux actionnaires.    
+
+    %s
+
+    Avec les dividendes viennent les taxes,
+    soit [b]%s[/b]$ de taxes ont éte prélevés sur vos dividendes,
+    vous allez percevoir [b]%s[/b]$ net d'impôts.
+
+    En vous souhaitant une agréable journée.
+    Binogure
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: Vous possédez [b]%s[/b] parts, ce qui vous rapporte [b]%s[/b]$.
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]Comme vous possédez [b]%s[/b] parts de [b]%s[/b],[/i]
+    [i]vous percevez [b]%s[/b]$, soit [b]%s[/b]$ par part.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s souhaite racheter %s"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Bonjour [b]%s[/b],
+
+    Nous souhaitons racheter [b]%s[/b]. Mais voilà, vous possédez plus de 50%% des actions.
+    Il me sera impossible de le racheter sans votre accord préalable.
+
+    Sachez que nous sommes généreux, la valeur de vos actions s'élève aujourd'hui à [b]%s[/b]$,
+    et nous vous proposons de les racheter pour [b]%s[/b]$.
+    Ainsi vous gagneriez beaucoup d'argent et nous, nous n'aurions plus qu'à gérer [b]%s[/b].
+
+    Voyez le bon côté des choses, ça vous fait un concurrent en moins à gérer.
+
+    Dans le cas malencontreux où vous ne souhaiteriez pas vendre,
+    nous serions prêt à nous rendre au tribunal.
+    Les frais d'avocats et de traitement de dossier vont s'élever à [b]%s[/b]$.
+
+    [i]Ceci est une offre finale, vous ne pouvez pas négocier.[/i]
+    [i]Vous avez [b]%s[/b]$ à la banque[/i]
+  BUTTON_ORDER_SENT: Ordre envoyé
+  LABEL_STOCK_MARKET: Marché boursier
+  LABEL_CONCURRENT_BUY_STOCK: Acheter des actions de concurrents
+  LABEL_TRADING_PANEL: Panneau des négociations
+  LABEL_STOCKS_COSTS: Coûts d'une action
+  LABEL_STOCKS_OWNED: Nombre d'actions possédées
+  LABEL_STOCKS_VALUE: Valeur des actions
+  LABEL_STOCKS_QUANTITY: Quantité d'actions
+  LABEL_STOCKS_BUY_PRICE: Prix d'une action à l'achat
+  LABEL_STOCKS_SELL_PRICE: Prix d'une action à la vente
+  LABEL_TRADE_HELP: Aide
   LABEL_DEVKITS: Kits de développement
   LABEL_NO_CONCURRENT_REMAINING: Aucun concurrent restant
   LABEL_END_OF_EXCLUSIVITY: Fin de l'exclusivité
@@ -1831,6 +1881,17 @@ fr:
     des autres studios.
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Regroupe les ordres d'achats et de ventes
+    émit durant l'écoulement de ce minuteur.
+  TOOLTIP_TRADE_CHART: |
+    Le fonctionnement est basique, chaque bougie peut être rouge ou bleue,
+    elle sera rouge lorsque le prix d'une action a baissé, par contre elle
+    sera bleue si le prix a augmenté par rapport au début de la même bougie.
+
+    Le rectangle est le corps de la bougie, il indique la variation de
+    l'ouverture à la fermeture et une ligne qui le traverse indique
+    le maximum et le minimum. 
   TOOLTIP_GAME_SIZE: |
     La taille d'un jeu influence le nombre de point requis,
     la durée de developpement d'un jeu et son coûts de production.

@@ -91,6 +91,53 @@ ko:
   BUTTON_VIEW_ORIGINAL_GAME: 오리지널 게임 보기
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: 매년 배당금 지급
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    친애하는 [b]%s[/b]님,
+
+    매년 이맘때 하는 것처럼 주주들에게 배당금을 지급하게 되어 매우 기쁩니다.
+
+    %s
+
+    배당금은 세금과 함께 배당금에서 [b]%s[/b]달러의 세금이 공제되었으므로 세후 [b]%s[/b]달러를 받게 됩니다.
+
+    좋은 하루 되세요.
+    비노구어
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: 주주로서 귀하는 [b]%s[/b]주를 소유하여 $[b]%s[/b]를 가져옵니다.
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]귀하는 [b]%s[/b] 주식 [b]%s[/b]주를 보유하고 있으므로 주당[/i]
+    [i]$[b]%s[/b]에 해당하는 $[b]%s[/b]를 받습니다.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s이(가) %s를 사려고 합니다!"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    친애하는 [b]%s[/b]님,
+
+    우리는 [b]%s[/b] 매입에 관심이 있습니다.
+    그러나 현재 귀하는 회사 주식의 50%% 이상을 보유하고 있습니다.
+    귀하의 사전 동의 없이는 당사가 이를 취득하는 것이 불가능합니다.
+
+    푸짐한 혜택을 제공하고 있음을 알려드립니다.
+    오늘 귀하의 주식은 $[b]%s[/b]의 가치가 있으며 우리는 귀하에게 해당 주식에 대해 $[b]%s[/b]를 기꺼이 제공합니다.
+    당신은 많은 돈을 벌고 우리가 해야 할 일은 [b]%s[/b]를 관리하는 것뿐입니다.
+
+    밝은 면을 보면 상대해야 할 경쟁자가 한 명 적다는 의미입니다.
+
+    귀하가 판매를 원하지 않는 경우에는 법원에 갈 준비가 되어 있습니다.
+    법률 비용 및 처리 비용은 $[b]%s[/b]입니다.
+
+    [i]이것은 우리의 최종 제안이며 협상은 없습니다.[/i]
+    [i]은행에 [b]%s[/b]달러가 남아 있습니다.[/i]
+  BUTTON_ORDER_SENT: 주문 전송됨
+  LABEL_STOCK_MARKET: 주식 시장
+  LABEL_CONCURRENT_BUY_STOCK: 경쟁사의 주식을 사다
+  LABEL_TRADING_PANEL: 거래 패널
+  LABEL_STOCKS_COSTS: 주당 비용
+  LABEL_STOCKS_OWNED: 소유 주식 수
+  LABEL_STOCKS_VALUE: 주식 가치
+  LABEL_STOCKS_QUANTITY: 주식 수량
+  LABEL_STOCKS_BUY_PRICE: 주식 구매 비용
+  LABEL_STOCKS_SELL_PRICE: 매도할 주식의 비용
+  LABEL_TRADE_HELP: 돕다
   LABEL_DEVKITS: 개발 키트
   LABEL_NO_CONCURRENT_REMAINING: 남은 경쟁자 없음
   LABEL_END_OF_EXCLUSIVITY: 독점 기간
@@ -1801,6 +1848,15 @@ ko:
     팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    이 기간 동안 발행된 매수 및 매도 주문을 수집합니다.
+  TOOLTIP_TRADE_CHART: |
+    작업은 기본이며 각 양초는 빨간색 또는 파란색이 될 수
+    있으며 주식의 가격이 하락하면 빨간색이고 동일한 양초의
+    시작에 비해 가격이 상승한 경우 파란색입니다.
+    직사각형은 양초의 몸체이며 시작에서 마감까지의
+    변화를 나타내며 교차하는 가는 선은 최대값과
+    최소값을 나타냅니다.
   TOOLTIP_GAME_SIZE: |
     게임 크기는 필요한 포인트 수, 게임 개발 시간 및 제작 비용에 영향을 미칩니다.
 

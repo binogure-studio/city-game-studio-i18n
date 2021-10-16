@@ -91,6 +91,55 @@ en:
   BUTTON_VIEW_ORIGINAL_GAME: View the original game
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Yearly payout of dividends
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Dear [b]%s[/b],
+
+    As we do every year at this time of year it is our
+    great pleasure to pay out dividends to shareholders.
+
+    %s
+
+    Along with the dividends come taxes,
+    $[b]%s[/b] of taxes have been deducted from your dividends,
+    so you will receive $[b]%s[/b] after taxes.
+
+    Have a nice day.
+    Binogure    
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: As a shareholder, you own [b]%s[/b] shares, which brings you $[b]%s[/b].    
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]You hold [b]%s[/b] shares of [b]%s[/b], so you receive $[b]%s[/b],[/i]
+    [i]which represents $[b]%s[/b] per share.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s wants to buy out %s!"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Dear [b]%s[/b],
+
+    We are interested in buying out [b]%s[/b]. However, you currently hold more than 50%% of the company's shares.
+    It will be impossible for us to acquire them without your prior agreement.
+
+    Please know that we are offering you a generous deal.
+    Today, your shares are worth [b]%s[/b]$, and we are willing to give you [b]%s[/b]$ for the shares.
+    You would make a lot of money and all we would have to do is manage [b]%s[/b].
+
+    Looking on the bright side, it means you have one competitor less to deal with.
+
+    In the unlikely event that you are unwilling to sell, we are prepared to go to court.
+    Legal fees and processing fees will cost [b]%s[/b]$.
+
+    [i]This is our final offer, there is no negotiation.[/i]
+    [i]You have [b]%s[/b]$ left in the bank[/i]
+  BUTTON_ORDER_SENT: Order sent
+  LABEL_STOCK_MARKET: Stock market
+  LABEL_CONCURRENT_BUY_STOCK: Buy shares of competitors
+  LABEL_TRADING_PANEL: Trading panel
+  LABEL_STOCKS_COSTS: Cost of a share
+  LABEL_STOCKS_OWNED: Number of shares owned
+  LABEL_STOCKS_VALUE: Value of shares
+  LABEL_STOCKS_QUANTITY: Quantity of shares
+  LABEL_STOCKS_BUY_PRICE: Cost of a share to buy
+  LABEL_STOCKS_SELL_PRICE: Cost of a share to sell
+  LABEL_TRADE_HELP: Help
   LABEL_DEVKITS: Dev kits
   LABEL_NO_CONCURRENT_REMAINING: No remaining competitor
   LABEL_END_OF_EXCLUSIVITY: Term of exclusivity
@@ -1829,6 +1878,17 @@ en:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Gathers together orders to buy and sell
+    issued during this time frame.
+  TOOLTIP_TRADE_CHART: |
+    The operation is basic, each candle can be red or blue,
+    it's red when the price of a stock has fallen, on the
+    other hand it's blue if the price has increased compared
+    to the beginning of the same candle. The rectangle is
+    the body of the candle, it represents the variation
+    from the opening to the closing and a thin line that
+    crosses it indicates the maximum and minimum. 
   TOOLTIP_GAME_SIZE: |
     Game size impacts the number of points required,
     game development time and production costs.

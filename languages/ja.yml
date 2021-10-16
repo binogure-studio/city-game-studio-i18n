@@ -91,6 +91,58 @@ ja:
   BUTTON_VIEW_ORIGINAL_GAME: オリジナル版を表示
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: 配当金の年間推移
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    親愛なる[b]%s[/b]。
+
+    毎年この時期になると、
+    株主の皆様に配当金をお支払いできることを大変嬉しく思います。
+
+    %s
+
+    配当金には税金がかかりますが、
+    配当金から[b]%s[/b]ドルの税金が差し引かれていますので、
+    税金を差し引いた[b]%s[/b]ドルがあなたの手元に届きます。
+
+    それでは、良い一日をお過ごしください。
+    ビノグレ
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: 株主であるあなたは[b]%s[/b]株を所有しており、[b]%s[/b]ドルを手にしています。
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]あなたは[b]%s[/b]を[b]%s[/b]株保有しているので、[/i]
+    [i]1株あたり[b]%s[/b]円を表す[b]%s[/b]円を受け取ることになります。[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%sは%sを買収したい！？"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    [b]%s[/b]様。
+
+    当社は[b]%s[/b]を買収することに興味があります。
+    しかし、あなたは現在、会社の株式の50%%以上を保有しています。
+    あなたの事前の同意なしには、私たちが株式を取得することは不可能です。
+
+    私たちは、あなたに寛大な取引を提案していることをご理解ください。
+    今日、あなたの株は[b]%s[/b]ドルの価値がありますが、
+    当社はその株を[b]%s[/b]ドルでお譲りしたいと考えています。
+    あなたは大儲けし、私たちは[b]%s[/b]の管理をすればよいのです。
+
+    良い面を見れば、あなたが対処すべき競合他社が1社減るということです。
+
+    万が一、あなたが売却に応じない場合は、
+    裁判を起こす用意があります。
+    弁護士費用と手続き費用として[b]%s[/b]ドルかかります。
+
+    [i]これが最終提案で、交渉はできません。[/i]
+    [i]銀行に[b]%s[/b]ドル残っています[/i]
+  BUTTON_ORDER_SENT: 注文の送信
+  LABEL_STOCK_MARKET: 株式市場
+  LABEL_CONCURRENT_BUY_STOCK: 競合他社の株式購入
+  LABEL_TRADING_PANEL: 取引パネル
+  LABEL_STOCKS_COSTS: 1株あたりのコスト
+  LABEL_STOCKS_OWNED: 所有株式数
+  LABEL_STOCKS_VALUE: 株式の価値
+  LABEL_STOCKS_QUANTITY: 株式の数量
+  LABEL_STOCKS_BUY_PRICE: 買うための株式のコスト
+  LABEL_STOCKS_SELL_PRICE: 売却するためのコスト
+  LABEL_TRADE_HELP: ヘルプ
   LABEL_DEVKITS: 開発キット
   LABEL_NO_CONCURRENT_REMAINING: 競合他社がいません
   LABEL_END_OF_EXCLUSIVITY: 独占期限
@@ -1821,6 +1873,13 @@ ja:
     また、ファンを増やすために他社からの出版のオファーを受けるのもいいでしょう。
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    この時間帯に発行された売買注文をまとめています。
+  TOOLTIP_TRADE_CHART: |
+    操作は基本的で、それぞれのローソクは赤か青になり、株価が下がった場合は赤、
+    同じローソクの最初と比べて株価が上がった場合は青になります。
+    長方形はローソク足の本体で、始値から終値までの変動を表し、
+    それを横切る細い線は最大値と最小値を示します。
   TOOLTIP_GAME_SIZE: |
     ゲームのサイズは、必要ポイント数、ゲーム開発時間、制作費に影響します。
 

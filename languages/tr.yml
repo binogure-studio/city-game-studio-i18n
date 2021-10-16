@@ -91,6 +91,57 @@ tr:
   BUTTON_VIEW_ORIGINAL_GAME: Orijinal oyunu görüntüle
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Yıllık temettü ödemesi
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Sevgili [b]%s[/b],
+
+    Her yıl olduğu gibi,
+    yılın bu zamanında hissedarlara temettü dağıtmak bizim için büyük bir zevktir.
+
+    %s
+
+    Temettülerin vergileri ile birlikte,
+    temettülerinizden [b]%s[/b]$ vergi düşülmüştür,
+    bu nedenle vergilerden sonra [b]%s[/b]$ alacaksınız.
+
+    İyi günler.
+    Binogure
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: Bir hissedar olarak, size [b]%s[/b]$ kazandıran [b]%s[/b] hisseye sahipsiniz.
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i][b]%s[/b]'nin [b]%s[/b] hissesine sahip olursunuz,[/i]
+    [i]yani hisse başına [b]%s[/b]$'ı temsil eden [b]%s[/b]$ alırsınız.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s, %s'yi satın almak istiyor!"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Sevgili [b]%s[/b],
+
+    [b]%s[/b]'yi satın almakla ilgileniyoruz.
+    Ancak, şu anda şirketin hisselerinin %%50'sinden fazlasına sahipsiniz.
+    Önceden onayınız olmadan bunları edinmemiz imkansız olacaktır.
+
+    Size cömert bir anlaşma teklif ettiğimizi lütfen bilin.
+    Bugün hisseleriniz [b]%s[/b]$ değerinde ve hisseler için size [b]%s[/b]$ vermeye hazırız.
+    Çok para kazanırdın ve bizim yapmamız gereken tek şey [b]%s[/b]'yi yönetmek.
+
+    İyi tarafından bakıldığında,
+    uğraşmanız gereken bir rakibiniz daha az olduğu anlamına gelir.
+
+    Satmak istememeniz gibi olası bir durumda mahkemeye gitmeye hazırız.
+    Yasal ücretler ve işlem ücretleri [b]%s[/b] dolara mal olacak.
+
+    [i]Bu bizim son teklifimizdir, pazarlık yoktur.[/i]
+    [i]Bankada [b]%s[/b] dolarınız kaldı[/i]
+  BUTTON_ORDER_SENT: Sipariş gönderildi
+  LABEL_STOCK_MARKET: Borsa
+  LABEL_CONCURRENT_BUY_STOCK: Rakiplerin hisselerini satın alın
+  LABEL_TRADING_PANEL: Ticaret paneli
+  LABEL_STOCKS_COSTS: Bir hissenin maliyeti
+  LABEL_STOCKS_OWNED: Sahip olunan hisse sayısı
+  LABEL_STOCKS_VALUE: Hisselerin değeri
+  LABEL_STOCKS_QUANTITY: Hisse miktarı
+  LABEL_STOCKS_BUY_PRICE: Satın almak için bir hissenin maliyeti
+  LABEL_STOCKS_SELL_PRICE: Bir hissenin satılmasının maliyeti
+  LABEL_TRADE_HELP: Yardım
   LABEL_DEVKITS: Geliştirme kitleri
   LABEL_NO_CONCURRENT_REMAINING: Kalan rakip yok
   LABEL_END_OF_EXCLUSIVITY: Münhasırlık süresi
@@ -1816,6 +1867,14 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Bu zaman diliminde verilen alım ve satım emirlerini bir araya toplar.
+  TOOLTIP_TRADE_CHART: |
+    İşlem basittir, her mum kırmızı veya mavi olabilir, bir hisse senedinin
+    fiyatı düştüğünde kırmızıdır, diğer yandan aynı mumun başlangıcına
+    kıyasla fiyat artmışsa mavidir. Dikdörtgen mumun gövdesidir, açılıştan
+    kapanışa kadar olan değişimi temsil eder ve onu geçen ince bir çizgi
+    maksimum ve minimumu gösterir.
   TOOLTIP_GAME_SIZE: |
     Oyun boyutu, gereken puan sayısını,
     oyun geliştirme süresini ve üretim maliyetlerini etkiler.

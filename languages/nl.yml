@@ -91,6 +91,57 @@ nl:
   BUTTON_VIEW_ORIGINAL_GAME: Bekijk het originele spel
 
   # Labels, descriptive
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Jaarlijkse uitbetaling van dividenden
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Beste [b]%s[/b],
+
+    Zoals elk jaar rond deze tijd is het ons een groot genoegen
+    om dividend uit te keren aan de aandeelhouders.
+
+    %s
+
+    Samen met de dividenden komen belastingen, $[b]%s[/b] aan belastingen
+    zijn van uw dividenden afgetrokken,
+    dus u ontvangt $[b]%s[/b] na belastingen.
+
+    Nog een prettige dag.
+    Binogure
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: Als aandeelhouder bezit u [b]%s[/b] aandelen, wat u $[b]%s[/b] oplevert.
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]U bezit [b]%s[/b] aandelen van [b]%s[/b], dus u ontvangt $[b]%s[/b],[/i]
+    [i]wat neerkomt op $[b]%s[/b] per aandeel.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s wil %s uitkopen!"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Beste [b]%s[/b],
+
+    Wij zijn geïnteresseerd in het uitkopen van [b]%s[/b].
+    U bezit momenteel echter meer dan 50%% van de aandelen van de onderneming.
+    Het zal onmogelijk zijn voor ons om ze te verwerven zonder uw voorafgaande toestemming.
+
+    U moet weten dat wij u een royale deal aanbieden.
+    Vandaag zijn uw aandelen $[b]%s[/b] waard, en wij zijn bereid u $[b]%s[/b] voor de aandelen te geven.
+    U zou veel geld verdienen en wij zouden [b]%s[/b] alleen nog maar hoeven te beheren.
+
+    Bekijk het van de zonnige kant, het betekent dat u met een concurrent minder te maken heeft.
+
+    In het onwaarschijnlijke geval dat u niet wilt verkopen,
+    zijn we bereid naar de rechter te stappen.
+    Juridische kosten en verwerkingskosten zullen $[b]%s[/b] kosten.
+
+    [i]Dit is ons laatste bod, er is geen onderhandeling mogelijk.[/i]
+    [i]U heeft nog $[b]%s[/b] op de bank[/i]
+  BUTTON_ORDER_SENT: Verzonden order
+  LABEL_STOCK_MARKET: Beurs
+  LABEL_CONCURRENT_BUY_STOCK: Koop aandelen van concurrenten
+  LABEL_TRADING_PANEL: Handelspanel
+  LABEL_STOCKS_COSTS: Kosten van een aandeel
+  LABEL_STOCKS_OWNED: Aantal aandelen in bezit
+  LABEL_STOCKS_VALUE: Waarde van de aandelen
+  LABEL_STOCKS_QUANTITY: Hoeveelheid aandelen
+  LABEL_STOCKS_BUY_PRICE: Kosten van een aandeel om te kopen
+  LABEL_STOCKS_SELL_PRICE: Kosten van een aandeel om te verkopen
+  LABEL_TRADE_HELP: Help
   LABEL_DEVKITS: Ontwikkelingspakketten
   LABEL_NO_CONCURRENT_REMAINING: Geen overblijvende concurrent
   LABEL_END_OF_EXCLUSIVITY: Duur van de exclusiviteit
@@ -1824,6 +1875,17 @@ nl:
     Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
 
   # Tooltips
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Verzamelt koop- en verkooporders die gedurende
+    dit tijdsbestek zijn uitgegeven.
+  TOOLTIP_TRADE_CHART: |
+    De werking is eenvoudig, elke kaars kan rood of blauw zijn,
+    rood als de koers van een aandeel is gedaald, blauw als de
+    koers is gestegen ten opzichte van het begin van dezelfde
+    kaars. De rechthoek is het lichaam van de kaars, het
+    vertegenwoordigt de variatie van de opening tot de sluiting
+    en een dunne lijn die het kruist geeft het maximum en
+    minimum aan. 
   TOOLTIP_GAME_SIZE: |
     De grootte van het spel heeft gevolgen voor het aantal vereiste punten,
     de tijd die nodig is om het spel te ontwikkelen en de productiekosten.
