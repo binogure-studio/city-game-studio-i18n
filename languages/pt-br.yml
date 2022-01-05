@@ -687,6 +687,19 @@ pt-br:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Você agora pode criar os seus próprios motores de jogo.
     Os motores de jogo aumentam a quantidade de pontos gerados pela sua equipe.
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Detecção avançada de movimento
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Detecção simples de movimento
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Reconhecimento facial
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Anti-cheat simples
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: Anti-cheat gerenciado pela IA
+  LABEL_GAME_ENGINE_CROSS_PLAY: Plataforma cruzada
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Reconhecimento de voz
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Servidor de baixa latência
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Alta Definição
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Ultra Alta Definição
+  LABEL_GAME_ENGINE_AR_32BITS: Realidade aumentada
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: Dificuldade administrada pela IA
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: Personagens realistas
   LABEL_GAME_ENGINE_ADS: Módulo de anúncio
   LABEL_GAME_ENGINE_IAP: Módulo de microtransacções
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "Gráficos 2D Monocromático"
@@ -1896,6 +1909,20 @@ pt-br:
     Para aumentar o seu número de fãs, você também pode querer aceitar ofertas para publicações de outras empresas.
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Parabéns, você começou a trabalhar em seu primeiro console.
+
+    Para começar bem, você precisa de um grande catálogo de jogos.
+    O envio de devkits incentiva seus concorrentes a criar jogos
+    para seu console.
+
+    Clique nesse botão para enviar os devkits.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Alternar entre um jogo pago e um livre para jogar.
+
+    Para um jogo gratuito você deve fazer um jogo on-line
+    com uma assinatura mensal, ou ativar os módulos de
+    publicidade ou microtransação.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     Reúne os pedidos de compra e venda emitidos
     durante este período de tempo.

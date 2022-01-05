@@ -680,6 +680,19 @@ tr:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Artık kendi oyun motorlarınızı oluşturabilirsiniz.
     Oyun motorları, personeliniz tarafından oluşturulan puan miktarını arttırır.
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Gelişmiş hareket algılama
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Basit hareket algılama
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Yüz tanıma
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Basit hile karşıtı
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: AI tarafından yönetilen hile karşıtı
+  LABEL_GAME_ENGINE_CROSS_PLAY: Çapraz platform
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Ses tanıma
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Düşük gecikmeli sunucu
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Yüksek çözünürlük
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Ultra Yüksek Çözünürlük
+  LABEL_GAME_ENGINE_AR_32BITS: Arttırılmış gerçeklik
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: AI tarafından yönetilen zorluk
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: gerçekçi karakterler
   LABEL_GAME_ENGINE_ADS: Reklam modülü
   LABEL_GAME_ENGINE_IAP: Mikroişlemler modülü
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2B grafikler Tek renkli"
@@ -1869,6 +1882,19 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Tebrikler, ilk konsolunuz üzerinde çalışmaya başladınız.
+
+    İyi bir başlangıç yapmak için geniş bir oyun kataloğuna ihtiyacınız var.
+    Devkit'leri etrafa göndermek, rakiplerinizi konsolunuz için oyunlar yaratmaya teşvik eder.
+
+    Devkit göndermek için bu düğmeye tıklayın.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Ücretli ve oynaması ücretsiz oyun arasında geçiş yapın.
+
+    Ücretsiz bir oyun için ya aylık abonelikle çevrimiçi
+    bir oyun yapmalısınız ya da reklam veya mikroişlem
+    modüllerini etkinleştirmelisiniz.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     Bu zaman diliminde verilen alım ve satım emirlerini bir araya toplar.
   TOOLTIP_TRADE_CHART: |

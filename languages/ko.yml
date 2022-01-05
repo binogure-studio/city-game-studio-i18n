@@ -656,6 +656,19 @@ ko:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     이제 자신만의 게임 엔진을 만들 수 있습니다.
     게임 엔진은 직원이 생성한 점수를 높입니다.
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: 고급 모션 감지
+  LABEL_GAME_ENGINE_MOTION_CONTROL: 간단한 움직임 감지
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: 안면 인식
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: 간단한 안티 치트
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: AI 관리 치트 방지
+  LABEL_GAME_ENGINE_CROSS_PLAY: 크로스 플랫폼
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: 음성 인식
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: 저지연 서버
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: 고화질
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: 초고화질
+  LABEL_GAME_ENGINE_AR_32BITS: 증강 현실
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: AI 관리 난이도
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: 현실적인 캐릭터
   LABEL_GAME_ENGINE_ADS: 광고 모듈
   LABEL_GAME_ENGINE_IAP: 소액 결제 모듈
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D 그래픽 흑백"
@@ -1850,6 +1863,17 @@ ko:
     팔로워 수를 늘리기 위해 다른 회사의 출판물에 대한 제안을받을 수도 있습니다.
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    축하합니다. 첫 번째 콘솔 작업을 시작했습니다.
+
+    좋은 시작을 하려면 방대한 게임 카탈로그가 필요합니다.
+    주변에 devkit을 보내면 경쟁자가 콘솔용 게임을 만들 수 있습니다.
+
+    devkits를 보내려면 해당 버튼을 클릭하십시오.
+  TOOLTIP_GAME_PRICE_TAG: |
+    유료 게임과 무료 게임 사이를 전환합니다.
+
+    무료 게임의 경우 월간 구독으로 온라인 게임을 만들거나 광고 또는 소액 결제 모듈을 활성화해야 합니다.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     이 기간 동안 발행된 매수 및 매도 주문을 수집합니다.
   TOOLTIP_TRADE_CHART: |

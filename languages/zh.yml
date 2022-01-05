@@ -653,6 +653,19 @@ zh:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     您现在可以创建自己的游戏引擎。
     游戏引擎可提高员工产生的点数数量。
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: 高级运动检测
+  LABEL_GAME_ENGINE_MOTION_CONTROL: 简单运动检测
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: 面部识别
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: 简单的反作弊
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: AI管理的反作弊
+  LABEL_GAME_ENGINE_CROSS_PLAY: 跨平台
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: 语音识别
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: 低延迟的服务器
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: 高清晰度
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: 超高清晰度
+  LABEL_GAME_ENGINE_AR_32BITS: 增强现实
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: AI管理的难度
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: 逼真的人物
   LABEL_GAME_ENGINE_ADS: 广告模块
   LABEL_GAME_ENGINE_IAP: 微交易模块
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D图形单色"
@@ -1792,6 +1805,18 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    恭喜你，你已经开始研究你的第一个控制台。
+
+    为了有一个良好的开端，你需要一个庞大的游戏目录。
+    发送开发工具包可以鼓励你的竞争对手为你的游戏机创造游戏。
+
+    点击那个按钮，发送开发包。
+  TOOLTIP_GAME_PRICE_TAG: |
+    在付费游戏和免费游戏之间进行切换。
+
+    对于免费游戏，你必须做一个按月订阅的在线游戏，
+    或者激活广告或微交易模块。
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     收集在这个时间段内发出的买入和卖出指令。
   TOOLTIP_TRADE_CHART: |

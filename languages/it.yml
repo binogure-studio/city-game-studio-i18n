@@ -685,6 +685,19 @@ it:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Ora è possibile creare i propri motori di gioco.
     I motori di gioco aumentano la quantità di punti generati dal tuo staff. 
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Rilevamento avanzato del movimento
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Rilevamento del movimento semplice
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Riconoscimento facciale
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Semplice anti-cheat
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: Antitruffa gestita dall'AI
+  LABEL_GAME_ENGINE_CROSS_PLAY: Cross-platform
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Riconoscimento vocale
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Server a bassa latenza
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Alta definizione
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Ultra alta definizione
+  LABEL_GAME_ENGINE_AR_32BITS: Realtà aumentata
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: Difficoltà gestita dall'intelligenza artificiale
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: Personaggi realistici
   LABEL_GAME_ENGINE_ADS: Modulo di annuncio
   LABEL_GAME_ENGINE_IAP: Modulo microtransazioni
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "Grafismi 2D Monocromatico"
@@ -1874,6 +1887,20 @@ it:
     Per far crescere il tuo numero di fan, potresti anche accettare offerte per pubblicazioni da altre compagnie.
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Congratulazioni, avete iniziato a lavorare sulla vostra prima console.
+
+    Per iniziare bene, avete bisogno di un grande catalogo di giochi.
+    Inviare devkit in giro incoraggia i tuoi concorrenti a creare giochi
+    per la tua console.
+
+    Clicca su questo pulsante per inviare i devkit.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Passa da un gioco a pagamento a uno gratuito.
+
+    Per un gioco gratuito devi fare un gioco online
+    con un abbonamento mensile, o attivare i moduli
+    di pubblicità o microtransazioni.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     Raccoglie gli ordini di acquisto e di vendita
     emessi durante questo lasso di tempo.

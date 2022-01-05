@@ -690,6 +690,19 @@ de:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Du kannst nun deine eigenen Spiel-Engines erstellen.
     Spiel-Engines erhöhen die Anzahl der von Ihren Mitarbeitern generierten Punkte. 
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Erweiterte Bewegungserkennung
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Einfache Bewegungserkennung
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Gesichtserkennung
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Einfache Anti-Betrugsfunktion
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: KI-gesteuerter Anti-Cheat
+  LABEL_GAME_ENGINE_CROSS_PLAY: Plattformübergreifend
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Spracherkennung
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Server mit niedriger Latenzzeit
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Hohe Definition
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Ultrahochauflösend
+  LABEL_GAME_ENGINE_AR_32BITS: Erweiterte Realität
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: KI-gesteuerter Schwierigkeitsgrad
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: Realistische Charaktere
   LABEL_GAME_ENGINE_ADS: Anzeigen-Modul
   LABEL_GAME_ENGINE_IAP: Modul Mikrotransaktionen
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D-Grafiken Monochrom"
@@ -1855,6 +1868,21 @@ de:
     weil es bereits von einem anderen Unternehmen geschaffen wurde.
 
   # Tutoriel labels
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Herzlichen Glückwunsch, Sie haben mit der Arbeit an Ihrer ersten Konsole begonnen.
+
+    Um einen guten Start hinzulegen, brauchen Sie einen großen Katalog von Spielen.
+    Das Versenden von Devkits ermutigt Ihre Konkurrenten, Spiele für Ihre Konsole
+    zu entwickeln.
+
+    Klicken Sie auf diese Schaltfläche, um Devkits zu versenden.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Schalten Sie zwischen einem bezahlten und einem kostenlosen
+    Spiel um.
+
+    Für ein kostenloses Spiel müssen Sie entweder ein Online-Spiel
+    mit einem monatlichen Abonnement erstellen oder die Werbe-
+    oder Mikrotransaktionsmodule aktivieren.
   TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
     Diese Funktion ist nicht verfügbar,
     obwohl sie im Originalspiel enthalten war.

@@ -680,6 +680,19 @@ ja:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     オリジナルのゲームエンジンを作成できるようになりました。
     ゲームエンジンは、従業員が生み出すポイントの量を増やしてくれます。
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: 高度なモーションディテクション
+  LABEL_GAME_ENGINE_MOTION_CONTROL: 単純な動き検出
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: 顔認識
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: 簡易アンチチート
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: AIが管理するアンチチート
+  LABEL_GAME_ENGINE_CROSS_PLAY: クロスプラットフォーム
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: 音声認識
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: 低遅延サーバー
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: 高解像度
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: 超高精細
+  LABEL_GAME_ENGINE_AR_32BITS: オーグメンテッドリアリティ
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: AIが管理する難易度
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: リアルなキャラクター
   LABEL_GAME_ENGINE_ADS: 広告モジュール
   LABEL_GAME_ENGINE_IAP: 課金モジュール
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D モノクロ"
@@ -1875,6 +1888,18 @@ ja:
     また、ファンを増やすために他社からの出版のオファーを受けるのもいいでしょう。
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    おめでとうございます、あなたは最初のゲーム機に取り掛かり始めました。
+
+    良いスタートを切るには、多くのゲームカタログが必要です。
+    開発キットを送りつければ、競合他社があなたのゲーム機用のゲームを作るようになります。
+
+    開発キットを送るには、そのボタンをクリックしてください。
+  TOOLTIP_GAME_PRICE_TAG: |
+    有料ゲームと無料ゲームを切り替えることができます。
+
+    無料ゲームの場合、月額課金制のオンラインゲームを作るか、
+    広告モジュールまたはマイクロトランザクションモジュールを有効にする必要があります。
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     この時間帯に発行された売買注文をまとめています。
   TOOLTIP_TRADE_CHART: |

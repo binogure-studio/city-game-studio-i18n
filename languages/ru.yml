@@ -683,6 +683,19 @@ ru:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     Теперь вы можете создавать собственные игровые движки.
     Игровые движки увеличивают количество очков, генерируемых вашим персоналом. 
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Расширенное обнаружение движения
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Простое обнаружение движения
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Распознавание лиц
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Простая защита от мошенничества
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: Античит, управляемый искусственным интеллектом
+  LABEL_GAME_ENGINE_CROSS_PLAY: Кросс-платформенный
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Распознавание голоса
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Сервер с низкой задержкой
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Высокая четкость
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Сверхвысокая четкость
+  LABEL_GAME_ENGINE_AR_32BITS: Дополненная реальность
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: Сложность, управляемая искусственным интеллектом
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: Реалистичные персонажи
   LABEL_GAME_ENGINE_ADS: рекламный модуль
   LABEL_GAME_ENGINE_IAP: Модуль микротранзакций
   LABEL_GAME_ENGINE_2D_1BITCOLOR: "2D-графика Монохромный"
@@ -1915,6 +1928,20 @@ ru:
     Чтобы увеличить число своих поклонников, вы также можете принимать предложения о публикации от других компаний.
 
   # Tooltips
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Поздравляем, вы приступили к работе над своей первой консолью.
+
+    Для хорошего старта вам нужен большой каталог игр.
+    Рассылка девкитов побуждает ваших конкурентов создавать
+    игры для вашей консоли.
+
+    Нажмите на эту кнопку, чтобы отправить девкиты.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Переключение между платной и бесплатной игрой.
+
+    Для бесплатной игры вы должны либо сделать онлайн-игру
+    с ежемесячной подпиской, либо активировать рекламу или
+    модули микротранзакций.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
     Собирает вместе ордера на покупку и продажу,
     выпущенные в течение этого временного интервала.
