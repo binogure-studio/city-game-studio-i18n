@@ -277,11 +277,11 @@ pt-br:
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
     Os custos de aluguel são uma despesa significativa. Você poderia comprar os edifícios ou alugar os menores e fechar aqueles que lhe custam mais.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    A folha de pagamento é uma despesa importante. Você deve considerar o despedimento de pessoal.
+    A folha de pagamento é uma despesa importante. Você deve considerar o desligamento de funcionários.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
     Você tem muitas máquinas de café/máquinas de venda automática, e isto é uma tensão em seu orçamento.
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    Os servidores são caros. Se você tem servidores não utilizados, você deve vendê-los.
+    Os servidores são caros. Se você tem servidores não utilizados, você deveria vendê-los.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
     Você gasta muito em campanhas de marketing. Talvez você devesse parar algumas campanhas de marketing ou convenções.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
@@ -331,7 +331,7 @@ pt-br:
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     Ajusta a qualidade do console.
     
-    Espera-se que um console mal fabricado falhe com mais freqüência.
+    Espera-se que um console mal fabricado falhe com mais frequência.
     Os clientes que compraram um console defeituoso têm sempre
     direito a um reembolso.
   LABEL_PLATFORM_DISCONTINUE: Interromper a produção
@@ -342,7 +342,7 @@ pt-br:
   LABEL_PLATFORM_COMPONENT_CPU: Processador
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartucho
   LABEL_PLATFORM_COMPONENT_MEMORY: Memória
-  LABEL_PLATFORM_COMPONENT_GPU: Placa gráfica
+  LABEL_PLATFORM_COMPONENT_GPU: Placa de vídeo
   LABEL_PLATFORM_COMPONENT_SCREEN: Tela
   LABEL_PLATFORM_COMPONENT_BOX: Carcaça de console
   LABEL_PLATFORM_MAKING_COSTS: Custos de produção
@@ -557,7 +557,7 @@ pt-br:
   LABEL_PLATFORM_OS: PC
   LABEL_PLATFORM_CONSOLE: Console
   LABEL_PLATFORM_HANDLED: Console portátil
-  LABEL_WITHDRAW_EMPLOYEE: Retirar funcionário
+  LABEL_WITHDRAW_EMPLOYEE: Desligar funcionário
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
     Selecione os recursos a serem atualizados
     para atender às expectativas dos jogadores.
@@ -1217,7 +1217,7 @@ pt-br:
     Esta plataforma não suporta multijogador online
   LABEL_GAMEPLAY: Jogabilidade
   LABEL_GRAPHIC_SETTINGS: Configurações gráficas
-  LABEL_GRAPHISM: Grafismo
+  LABEL_GRAPHISM: Gráficos
   LABEL_INCOME: Renda
   LABEL_INVALID_SAVE: Jogo salvo corrompido
   LABEL_KICKOFF: Começo
@@ -1473,7 +1473,7 @@ pt-br:
   LABEL_CATCHPHRASE_7_1: Um conteúdo rico liderado por uma conquista medíocre
   LABEL_CATCHPHRASE_7_2: "Estética estonteante, mecânicas falhas"
   LABEL_CATCHPHRASE_7_3: Um excelente conceito com conteúdo limitado
-  LABEL_CATCHPHRASE_7_4: Um medley satisfatório?
+  LABEL_CATCHPHRASE_7_4: Uma mistura satisfatória?
   LABEL_CATCHPHRASE_7_5: Não está longe de ser uma obra-prima
   LABEL_CATCHPHRASE_8_0: Diversão no estado mais puro
   LABEL_CATCHPHRASE_8_1: Uma brisa fresca
@@ -1499,8 +1499,8 @@ pt-br:
   LABEL_CATCHPHRASE_11_3: Uma obra que restabelece o prestígio dos videogames
   LABEL_CATCHPHRASE_11_4: Se a perfeição fosse um jogo
   LABEL_CATCHPHRASE_11_5: A Vigésima Maravilha do Mundo
-  LABEL_CREATE_SEQUEL: Crie uma sequência
-  LABEL_NEW_IP: Nova IP
+  LABEL_CREATE_SEQUEL: Criar uma sequência
+  LABEL_NEW_IP: Nova franquia
   LABEL_POSTMORTEM: Post-mortem
   LABEL_EMPTY_STUDIO: Atenção este estúdio não contém nenhuma mesa com um computador!
   LABEL_MATCH_EXCELLENT: Combinação excelente
@@ -1850,9 +1850,9 @@ pt-br:
 
   LABEL_VERSION_BETA: Versão beta
   LABEL_BREAK_LAW: |
-    Esta prestes a infringir a lei.
+    Você está prestes a infringir a lei.
 
-    Você quer continuar?
+    Deseja continuar?
   LABEL_SUCCESS: Sucesso
   LABEL_FAILURE: Falha
   LABEL_CANNOT_INTERACT: Você não poderá mais se comunicar com %s até que %s
@@ -2020,9 +2020,9 @@ pt-br:
   TOOLTIP_MATCH_OK: Combinação mediana
   TOOLTIP_MATCH_POOR: Combinação ruim
   TOOTIP_STUDIO_HAPPINESS: |
-    Os jogos mais vendidos
-  TOOLTIP_TOPSALES: |
     De que género de jogo gosta o estúdio seleccionado
+  TOOLTIP_TOPSALES: |
+    Os jogos mais vendidos   
   TOOLTIP_CONVENTION_LIST: |
     Convenções que participou
   TOOLTIP_FORCE_STUDIO: |
