@@ -56,7 +56,7 @@ pt-br:
   BUTTON_CRACK_GAME: Crackear este jogo
   BUTTON_FORCE_STUDIO_SELL: Forçar venda de estúdio
   BUTTON_SPY: Espie um concorrente
-  BUTTON_HIRE_THEIR_EMPLOYE: Contratar um funcionário deles
+  BUTTON_HIRE_THEIR_EMPLOYE: Contratar um funcionário concorrente
   BUTTON_SELECT: Selecione
   BUTTON_SAVEGAME: Salvar jogo
   BUTTON_SELL_ITEMS: Vender os móveis
@@ -76,9 +76,9 @@ pt-br:
   BUTTON_VIEW_SEQUEL: Ver sequência
   BUTTON_COPY: Copiar
   BUTTON_HIRE_ALL: Contratar todos
-  BUTTON_HIRE_AND_ASSIGN: Alugar e atribuir
-  BUTTON_TRAINING_START: Comece o treinamento
-  BUTTON_TRAINING_STOP: Parar o treinamento
+  BUTTON_HIRE_AND_ASSIGN: Contratar e atribuir
+  BUTTON_TRAINING_START: Começar treinamento
+  BUTTON_TRAINING_STOP: Parar treinamento
   BUTTON_CANCEL_CONTRACT: Cancelar o contrato
   BUTTON_CANCEL_GAMEPORT: Cancelar a porta do jogo
   BUTTON_CANCEL_FEATURE: Cancelar funcionalidade
@@ -137,7 +137,7 @@ pt-br:
   LABEL_CONCURRENT_BUY_STOCK: Comprar ações de concorrentes
   LABEL_TRADING_PANEL: Painel de negociação
   LABEL_STOCKS_COSTS: Custo de uma ação
-  LABEL_STOCKS_OWNED: Número de ações de propriedade
+  LABEL_STOCKS_OWNED: Número de ações possuídas
   LABEL_STOCKS_VALUE: Valor das ações
   LABEL_STOCKS_QUANTITY: Quantidade de ações
   LABEL_STOCKS_BUY_PRICE: Custo de uma ação para comprar
@@ -156,7 +156,7 @@ pt-br:
   TOOLTIP_SELECT_DIFFICULTY: |
     Por favor, selecione um nível de dificuldade
   LABEL_EASY: Fácil
-  LABEL_HARD: Desafiando
+  LABEL_HARD: Desafiador
   LABEL_REMAKE_ENGINE_BAD: >
     Não há nada de novo neste remake. Parece o mesmo jogo.
   LABEL_REMAKE_ENGINE_OK: >
@@ -169,13 +169,13 @@ pt-br:
   LABEL_REMAKE_TOOLTIP: |
     Escolha quais características do motor do jogo você deseja adicionar ao remake.
     Para um grande remake, use recursos que sejam mais novos do que o jogo original.
-  LABEL_REMAKE_REVIEW: Análises no geral
-  LABEL_DEVELOPPER_NAME: Developer
+  LABEL_REMAKE_REVIEW: Média de Análises
+  LABEL_DEVELOPPER_NAME: Desenvolvedor
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Extremamente positivas
   LABEL_REMAKE_REVIEW_VERY_POSITIVE: Muito positivas
-  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Praticamente positivas
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Maioria positivas
   LABEL_REMAKE_REVIEW_MIXED: Neutras
-  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Praticamente negativas
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Maioria negativas
   LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Muito negativas
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Extremamente negativas
   LABEL_REMAKE: Remake
@@ -237,7 +237,7 @@ pt-br:
   LABEL_GAME_TYPE_LIST: Lista de gêneros de jogos
   LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analisar os públicos-alvo
   LABEL_MARKET_RESEARCH_NONE: Nenhuma pesquisa de mercado ativa
-  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Uma sala de aula se torna disponível.
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Uma sala de aula torna-se disponível.
   LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
     Parabéns, uma sessão de treinamento acaba de terminar.
     Você tem pelo menos uma sala de aula gratuita se quiser organizar uma nova sessão de treinamento.
@@ -257,7 +257,7 @@ pt-br:
   LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Sem treinamento
   LABEL_SOFA: Sofá
   LABEL_MISC: Diversos
-  LABEL_MINUTES: atas
+  LABEL_MINUTES: minutos
   LABEL_VIEW_MORE: Veja mais...
   LABEL_GAME_INDUSTRY_NEWS: Notícias da indústria de jogos
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s para adquirir a %s por %s"
@@ -291,9 +291,9 @@ pt-br:
   LABEL_SUBSCRIPTION: Assinatura
   LABEL_PLATFORM_NOT_POWERFULL: >
     Esta plataforma não é suficientemente poderosa
-  BUTTON_RELEASE_ALL: Publicar tudo
+  BUTTON_RELEASE_ALL: Lançar tudo
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    Publicar todos os jogos, contratos e consoles
+    Lança todos os jogos, contratos e consoles
     que estão prontos para serem publicados.    
   LABEL_PLATFORM_LIST_GAME: Lista de videogames
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Um novo componente está disponível
@@ -326,8 +326,8 @@ pt-br:
   LABEL_PLATFORM_NO_COMPONENT: |
     Nenhum componente selecionado
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Redução dos custos de fabricação
-  LABEL_FILTER_PLATFORM_RELEASED: Plataformas publicadas
-  LABEL_FILTER_PLATFORM_DISCONTINUED: Plataformas Paradas
+  LABEL_FILTER_PLATFORM_RELEASED: Plataformas lançadas
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Plataformas descontinuadas
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     Ajusta a qualidade do console.
     
@@ -338,7 +338,7 @@ pt-br:
   LABEL_PLATFORM_CHANGE_PRICE: Modificar o preço
   LABEL_PLATFORM_UNIT_RETURNED: Unidades devolvidas
   LABEL_PLATFORM_COST_RATIO: Razão de custos
-  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controlador
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controle
   LABEL_PLATFORM_COMPONENT_CPU: Processador
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartucho
   LABEL_PLATFORM_COMPONENT_MEMORY: Memória
@@ -367,17 +367,17 @@ pt-br:
     Não pode abrir salvo porque foi criado com uma versão mais recente do jogo
   LABEL_GAME_CANCELED: Jogo cancelado
   LABEL_EMPLOYEE_FIRED: Empregado demitido
-  LABEL_ASSIGN_SPECIALIST: Designar especialistas.
+  LABEL_ASSIGN_SPECIALIST: Atribuir especialistas.
   LABEL_ACCOUNTANT_TOOLTIP: |
-    Designar um contador para reduzir as obrigações fiscais.
+    Atribua um contador para reduzir as obrigações fiscais.
   LABEL_MARKETING_MANAGER_TOOLTIP: |
-    Designar um gerente de marketing para aumentar a
+    Atribua um gerente de marketing para aumentar a
     popularidade de um jogo.
   LABEL_PRODUCER_TOOLTIP: |
-    Designar um produtor para criar grandes jogos e aumentar
+    Atribua um produtor para criar grandes jogos e aumentar
     a produtividade de seus funcionários.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
-    Designar um administrador de rede para otimizar a carga
+    Atribua um administrador de rede para otimizar a carga
     de servidor necessária por jogador.
   LABEL_INTERVIEW_INDIE: |
     Olá,
@@ -1352,7 +1352,7 @@ pt-br:
   LABEL_TYPE_VEHICLE: Veículo
   LABEL_TYPE_RACING: Corridas
   LABEL_TYPE_DRIVE: Motorista
-  LABEL_TYPE_FLY: Mosca
+  LABEL_TYPE_FLY: Voo
   LABEL_TYPE_SPACE: Espaço
   LABEL_TYPE_SUBMARINE: Submarino
   LABEL_TYPE_TRAIN: Trem
@@ -2082,7 +2082,7 @@ pt-br:
   TOOLTIP_STEAM_MODS: |
     Steam workshop
   TOOLTIP_HUMANRESOURCE: |
-    Designar um gerente de recursos humanos para gerenciar os horários e
+    Atribua um gerente de recursos humanos para gerenciar os horários e
     aumentos salariais de seus funcionários
   TOOLTIP_GAME_OF_THE_YEAR: |
     Todos os anos, um novo jogo é promovido Jogo do Ano
@@ -2141,7 +2141,7 @@ pt-br:
 
   GAME_UPDATE: Atualização do jogo
   GAMEENGINE: Motores de jogos
-  GAMEEDITION_SUBMIT: Publicar ofertas de jogo
+  GAMEEDITION_SUBMIT: Enviar ofertas de publicação
   GAMEEDITION_RECEIVE: Receber ofertas de publicação
   WORLDMAP: Mapa da cidade
   MARKETING_CAMPAIGN_MAGAZINE: Campanha publicitária na imprensa
@@ -2172,7 +2172,7 @@ pt-br:
   MARKETING_CAMPAIGN_MAILINGLIST: Campanha de publicidade por e-mail
   GAMEPORT: Portar um jogo
   UNLOCK_GAMEGENRE: Desbloquear gênero de jogo
-  UNLOCK_HUMANRESOURCE: Recursos humanos
+  UNLOCK_HUMANRESOURCE: Recursos Humanos
   UNLOCK_GAME_OF_THE_YEAR: Jogo do ano
   UNLOCK_CLOUD_SERVER: Computação em nuvem
   REMASTER_AND_REMAKE: Remake & Remaster
