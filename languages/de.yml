@@ -1869,6 +1869,22 @@ de:
     weil es bereits von einem anderen Unternehmen geschaffen wurde.
 
   # Tutoriel labels
+  TOOLTIP_GAME_ENGINE_WHY: |
+    Erstellen Sie Ihre eigene Spiel-Engine.
+
+    Wenn Sie eine proprietäre Engine entwickeln, können Sie sie mit einer Lizenz verkaufen.
+    Alternativ dazu können Sie sie lizenzfrei machen und eine Gemeinschaft zur Verbesserung Ihrer Spiel-Engine heranziehen.
+    Eine andere Möglichkeit ist, sie intern zu halten, damit Konkurrenten keinen Vorteil haben.
+  TOOLTIP_TRADE_PUBLISH_WHY: |
+    Erstellen Sie Spiele für Wettbewerber.
+
+    Sie werden schnell eine Menge neuer Fans gewinnen.
+    Auf der anderen Seite werden Ihre Konkurrenten noch schneller wachsen.
+  TOOLTIP_PUBLISH_GAME_WHY: |
+    Werden Sie Herausgeber eines Spiels.
+
+    Das ist billiger als ein Spiel selbst zu entwickeln, bringt aber viel Geld ein.
+    Trotzdem bekommen Sie keine Fans.
   TOOLTIP_ROYALTY_GET: |
     Dies ist der Prozentsatz, den Sie auf die erzielten Einnahmen erhalten.
   TOOLTIP_ROYALTY_GIVE: |
@@ -1895,6 +1911,7 @@ de:
     Für ein kostenloses Spiel müssen Sie entweder ein Online-Spiel
     mit einem monatlichen Abonnement erstellen oder die Werbe-
     oder Mikrotransaktionsmodule aktivieren.
+
   TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
     Diese Funktion ist nicht verfügbar,
     obwohl sie im Originalspiel enthalten war.
