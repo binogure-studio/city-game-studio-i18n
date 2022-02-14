@@ -1,7 +1,7 @@
 zh:
   # Buttons actions verbs
   BUTTON_READ: 阅读
-  BUTTON_ANNOUNCE: 宣布该游戏
+  BUTTON_ANNOUNCE: 公布该游戏
   BUTTON_NEW_GAME: 新游戏
   BUTTON_HIRE: 雇佣
   BUTTON_APPLY: 应用
@@ -177,7 +177,7 @@ zh:
   LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: 多半差评
   LABEL_REMAKE_REVIEW_VERY_NEGATIVE: 特别差评
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: 差评如潮
-  LABEL_REMAKE: 重制
+  LABEL_REMAKE: 重制游戏
   LABEL_REMAKE_DESCRIPTION_0: |
     当回首你的第一个游戏时，你决定应该做一些事情。
     重制它们如何？
@@ -913,7 +913,7 @@ zh:
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     目前无法发布新游戏
-  LABEL_EDIT_GAME: 发布游戏邀约
+  LABEL_EDIT_GAME: 委托开发
   LABEL_EDIT_GAME_ANNOUNCE: |
     %s将在%s上运行
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
@@ -1075,8 +1075,8 @@ zh:
   LABEL_MARKETING_BILLBOARD_ITEM: 广告牌
   LABEL_MARKETING_SOCIALNETWORK_ITEM: 社交网络
   LABEL_MARKETING_MAILINGLIST_ITEM: 简报
-  LABEL_SELF_PUBLISH: 自我发布
-  LABEL_TRADE_PUBLISH: 传统出版
+  LABEL_SELF_PUBLISH: 自主开发
+  LABEL_TRADE_PUBLISH: 外包开发
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     你好，
 
@@ -1748,7 +1748,7 @@ zh:
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     你现在可以解锁新的游戏类别。要获得经验值，你只需发布游戏。
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    现在可以获得合同。 完成合同可为您提供特定游戏类型的资金，经验和技巧。
+    现在可以获得开发合同。 完成第三方开发合同可为您提供特定游戏类型的资金，经验和技巧。
 
   # Placeholder used for forms
   PLACEHOLDER_COMPANY_NAME: 公司名称
