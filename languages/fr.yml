@@ -93,6 +93,8 @@ fr:
   BUTTON_REFUSE: Refuser
 
   # Labels, descriptive
+  LABEL_DARK_MODE: Thème sombre
+  LABEL_LAST_12_MONTHS: 12 derniers mois
   LABEL_GOTY_PROBABILITY: "Chances d'être élu jeu de l'année"
   LABEL_EVENT_STOCK_YEARLY_TITLE: Versement des dividendes annuels
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
@@ -352,6 +354,7 @@ fr:
   LABEL_PLATFORM_COMPONENT_GPU: Carte graphique
   LABEL_PLATFORM_COMPONENT_SCREEN: Écran
   LABEL_PLATFORM_COMPONENT_BOX: Boîtier de console
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Disque dur
   LABEL_PLATFORM_MAKING_COSTS: Coûts de fabrication
   LABEL_PLATFORM_UNLOCK_COSTS: Coûts de déverrouillage
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Coûts de développement
@@ -1901,6 +1904,12 @@ fr:
   TOOLTIP_CONCURRENT_PAY_TO: >
     Étant donné que le jeu %s n'a pas répondu aux attentes de %s, vous allez devoir payer une pénalité de %s$.
     Comme vous n'avez que %s$ en poche, vous feriez mieux de prendre une hypothèque pour évier la faillite.
+  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
+    Ajoutez des machines à café, des distributeurs automatiques ou des plantes pour améliorer l'espace de travail
+
+  TOOLTIP_EMPLOYEE_BORED_GENRE: |
+    Votre employé veut essayer un nouveau genre de jeu. Votre employé ne veut pas travailler sur un genre de jeu comme :
+    
   TOOLTIP_GAME_ENGINE_WHY: |
     Faites votre propre moteur de jeu.
 

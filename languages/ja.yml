@@ -93,6 +93,8 @@ ja:
   BUTTON_REFUSE: 断る
 
   # Labels, descriptive
+  LABEL_DARK_MODE: ダークテーマ
+  LABEL_LAST_12_MONTHS: 過去12ヶ月間
   LABEL_GOTY_PROBABILITY: ゲーム・オブ・ザ・イヤー受賞の確率
   LABEL_EVENT_STOCK_YEARLY_TITLE: 配当金の年間推移
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
@@ -346,6 +348,7 @@ ja:
   LABEL_PLATFORM_COMPONENT_GPU: GPU
   LABEL_PLATFORM_COMPONENT_SCREEN: スクリーン
   LABEL_PLATFORM_COMPONENT_BOX: コンソールケース
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: ハードディスク
   LABEL_PLATFORM_MAKING_COSTS: 製造コスト
   LABEL_PLATFORM_UNLOCK_COSTS: 起動コスト
   LABEL_PLATFORM_DEVELOPMENT_POINTS: 開発コスト
@@ -1850,6 +1853,10 @@ ja:
     独自性はありません。
 
   # Tutoriel labels
+  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
+    自動販売機、植物、コーヒーメーカーを追加して、職場を改善する。
+  TOOLTIP_EMPLOYEE_BORED_GENRE: |
+    社員が新しいゲームジャンルに挑戦したい。あなたの社員は、以下のようなゲームジャンルをやりたがらない。
   TOOLTIP_GAME_ENGINE_WHY: |
     ゲームエンジンを自作する。
 

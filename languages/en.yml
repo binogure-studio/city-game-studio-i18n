@@ -93,6 +93,8 @@ en:
   BUTTON_REFUSE: Refuse
 
   # Labels, descriptive
+  LABEL_DARK_MODE: Dark theme
+  LABEL_LAST_12_MONTHS: Last 12 months
   LABEL_GOTY_PROBABILITY: Odds of winning the game of the year
   LABEL_EVENT_STOCK_YEARLY_TITLE: Yearly payout of dividends
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
@@ -344,6 +346,7 @@ en:
   LABEL_PLATFORM_COMPONENT_GPU: Graphic card
   LABEL_PLATFORM_COMPONENT_SCREEN: Screen
   LABEL_PLATFORM_COMPONENT_BOX: Console case
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Hard drive
   LABEL_PLATFORM_MAKING_COSTS: Manufacturing costs
   LABEL_PLATFORM_UNLOCK_COSTS: Unlocking costs
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Development costs
@@ -1853,6 +1856,13 @@ en:
     been created by some other company.
 
   # Tutoriel labels
+  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
+    Add vending machines, plants or coffee machines to improve its work place.
+
+  TOOLTIP_EMPLOYEE_BORED_GENRE: |
+    Your employee wants to try out new game genre. Your employee doesn't want to 
+    work on any game genre like:
+
   TOOLTIP_GAME_ENGINE_WHY: |
     Make your own game engine.
 
