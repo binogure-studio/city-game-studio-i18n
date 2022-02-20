@@ -12,6 +12,7 @@ const langMatch = {
   fr: 'french',
   ru: 'russian',
   tr: 'turkish',
+  th: 'thai',
   zh: 'schinese'
 }
 const language_directory = path.resolve('achievements')
