@@ -224,7 +224,7 @@ th:
   LABEL_FIREWALL_SIMULATOR_TITLE: โปรแกรมจำลองการแฮ็กข้อมูล
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
     เป้าหมายของคุณ ปกป้องเกมของคุณไม่งั้นก็ถูกแฮ็ค
-    เพื่อที่จะบรรลุเป้าหมายนั้น คลุกบนปุ่มสีฟ้าจนพวกมันไปถึง 0 เพื่อปกป้องเครื่อข่าย
+    เพื่อที่จะบรรลุเป้าหมายนั้น คลิกบนปุ่มสีฟ้าจนพวกมันไปถึง 0 เพื่อปกป้องเครื่อข่าย
 
     มันก็พื้นฐานๆ แต่คุณต้องกดให้ไว!
   LABEL_GAME_UPDATE_NB: จำนวนการอัปเดต
@@ -419,12 +419,12 @@ th:
 
     The advanced start unlocks all the features from the very beginning of the game.
   LABEL_NUMBER_OF_PRODUCED_POINTS: Number of produced points
-  LABEL_REQUIRE_FANBASE: Requires %s fans to boost sales
+  LABEL_REQUIRE_FANBASE: ต้องการแฟน %s คนเพื่อเพิ่มยอดขาย
   LABEL_MAINTENANCE: Maintenance
-  LABEL_PLATFORM_COMPATIBILITY: Compatibility
-  LABEL_DETAILS_MAIN: Games details
-  LABEL_DETAILS_SHOWN: Show all charts and details
-  LABEL_DETAILS_HIDDEN: Hide all charts and details
+  LABEL_PLATFORM_COMPATIBILITY: ตวามเข้ากันได้
+  LABEL_DETAILS_MAIN: รายละเอียดเกม
+  LABEL_DETAILS_SHOWN: แสดงชาร์ตและรายละเอียดทั้งหมด
+  LABEL_DETAILS_HIDDEN: ซ่อนชาร์9และรายละเอียดทั้งหมด
   LABEL_AUTO_ADJUST: Auto adjust
   LABEL_MISC_SETTINGS: Misc settings
   LABEL_MOD_BRANCH: Steam branches
@@ -501,32 +501,32 @@ th:
   LABEL_PLATFORM_MANUFACTURER_CALL: |
     To call %s to negotiate
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
-    Hello
+    สวัสดี
 
-    I am [b]%s[/b], and I work for [b]%s[/b].
-    What can I do for you?
+    ฉันคือ [b]%s[/b] และฉันทำงานให้กับ [b]%s[/b].
+    มีอะไรให้ฉันช่วย?
   LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
-    We have spent many years developing the [b]%s[/b]. I would be delighted to work with you,
-    however I wonder what your company can bring to this wonderful [b]%s[/b].
+    เราใช้เวลาหลายปีในการพัฒนา [b]%s[/b] ฉันยินดีที่จะได้ร่วมงานกับคุณ
+    อย่างไรก็ตาม ฉันสงสัยว่าบริษัทของคุณสามารถทำอะไรได้บ้าง? [b]%s[/b].
   LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
     Projected number of units sold: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     ฉันต้องการจัดจำหน่ายเกมบน [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
-    That sounds like a fair proposal, we have a deal!
+    ฟังดูเป็นข้อเสนอที่ยุติธรรมดี เราได้ข้อตกลงแล้ว!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
-    We cannot accept this proposal.
+    เราไม่สามารถยอมรับข้อเสนอนี้ได้
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
-    What do you say to this instead?
+    ถ้าแบบนี้คุณคิดว่ายังไง?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
     A cheque of [b]%s$[/b] for a [b]%s[/b] license and a [b]%s[/b] months exclusive contract for [b]%s[/b].
     (You will not be able to publish games on other manufacturers' consoles).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     A cheque of [b]%s$[/b] for a [b]%s[/b] license
   LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
-    Never mind.
+    ไม่มีอะไร
   LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
-    Thank you for your time.
+    ขอบคุณสำหรับเวลาของคุณ
   LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
     After the poor results in the last quarter of 1982 and early 1983, Wataggi announces declining results
     in the console market. The leader in video games is far from reaching its objectives by selling a few
@@ -549,14 +549,14 @@ th:
     and down-market, for devices with a satisfactory price/performance ratio.
   LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
     The market is stabilizing
-  LABEL_PLATFORM_TYPE: Platform type
+  LABEL_PLATFORM_TYPE: ประเภทแพลตฟอร์ม
   LABEL_PLATFORM_OS: PC
-  LABEL_PLATFORM_CONSOLE: Console
-  LABEL_PLATFORM_HANDLED: Handled console
+  LABEL_PLATFORM_CONSOLE: คอนโซล
+  LABEL_PLATFORM_HANDLED: คอนโซลพกพา
   LABEL_WITHDRAW_EMPLOYEE: Withdraw employee
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
-    Select the features to update to meet
-    players' expectations.
+    เลือกฟีเจอร์ที่จะอัปเดตเพื่อตอบสนอง
+    ความคาดหวังของผู้เล่น
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
     When updating a game engine a penalty applies,
     it impacts only the number of required points.
@@ -568,7 +568,7 @@ th:
     Either your development team is not sufficiently balanced,
     or you have not spent enough time on the %s compared
     to the other development stages
-  LABEL_WARNING_THEME_MISSING: Please select a theme
+  LABEL_WARNING_THEME_MISSING: กรุณาเลือกธีม
   LABEL_BUYABLE: Buyable
   LABEL_IAP_ADD_MICROTRANSATION: >
     Add a microtransaction by clicking on the blue button.
@@ -577,7 +577,7 @@ th:
   LABEL_NUMBER_OF_PLAYER_LOST: Number of lost players
   LABEL_FEATURE_REQUIRED: >
     This feature requires the following game engine modules:
-  LABEL_ESTIMATED_INCOME: Estimated revenue
+  LABEL_ESTIMATED_INCOME: รายได้โดยประมาณ
   LABEL_ADS_WARNING: >
     Be careful when using ads. Ads impact user retention.
   LABEL_IAP_WARNING: >
@@ -589,22 +589,22 @@ th:
   LABEL_IAP_POWER: Power factor
   LABEL_IAP_TYPE_COSMETIC: Cosmetic
   LABEL_IAP_TYPE_LOOTBOX: Lootbox
-  LABEL_IAP_LIST: List of items
-  LABEL_IAP_RARITY: Rarity
+  LABEL_IAP_LIST: รายการไอเท็ม
+  LABEL_IAP_RARITY: ความหายาก
   LABEL_IAP_RARITY_UNCOMMON: Uncommon
-  LABEL_IAP_RARITY_RARE: Rare
+  LABEL_IAP_RARITY_RARE: หายาก
   LABEL_IAP_RARITY_EPIC: Epic
-  LABEL_IAP_RARITY_LEGENDARY: Legendary
+  LABEL_IAP_RARITY_LEGENDARY: ตำนาน
   LABEL_FINANCIAL_DETAILS: Financial details
   LABEL_AD_NAME: Ads
   LABEL_AD_POPUP: Ad popup
   LABEL_AD_BANNER: Ad banner
-  LABEL_NUMBER_OF_PLAYER: Number of players
-  LABEL_GAME_ENGINE_LIST: Game engine list
-  LABEL_THEME_LIST: Theme list
-  LABEL_CONVENTION_MESSAGE: Conventions
+  LABEL_NUMBER_OF_PLAYER: จำนวนผู้เล่น
+  LABEL_GAME_ENGINE_LIST: รายการเกมเอนจิ้น
+  LABEL_THEME_LIST: รายการธีม
+  LABEL_CONVENTION_MESSAGE: งานเกม
   LABEL_GAME_ANNOUNCEMENT: Games announcements
-  LABEL_NO_FILTER: No filter
+  LABEL_NO_FILTER: ไม่มีฟิลเตอร์
   LABEL_GAME_UPDATE_EXPECTED: Awaiting an update
   LABEL_GAME_UPDATE_NOTEXPECTED: Not awaiting an update
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Active marketing campaign
@@ -613,22 +613,22 @@ th:
   LABEL_FANBASE_LOSS: Declining fanbase
   LABEL_MONEY_MAKER: Profitable
   LABEL_MONEY_LOSER: Not profitable
-  LABEL_SELECT_ALL: Select all
-  LABEL_SELECT_NONE: Select nothing
+  LABEL_SELECT_ALL: เลือกทั้งหมด
+  LABEL_SELECT_NONE: ไม่เลือกอะไรเลย
   LABEL_FREE_GAME: Free of charge
   LABEL_SUBSCRIPTION_PRICE: Subscription price
-  LABEL_GAME_PRICE: Game price
+  LABEL_GAME_PRICE: ราคาเกม
   LABEL_UPDATE_PRICE: Game update price
   LABEL_X_STUDIOS: '%d studios'
   LABEL_RANDOM_SLIDER: Randomize games' sliders
-  LABEL_DISCOUNT: Make a discount
+  LABEL_DISCOUNT: จัดการลดราคา
   LABEL_ORGANIZE_YEARLY: Hold an annual convention
   LABEL_YEARLY: Yearly
   LABEL_GAME_UPDATE_REQUIREMENTS: Players expectations of the update
   LABEL_GAME_UPDATE_HYPE: Game update hype
   LABEL_GAME_UPDATE: Publish an update
-  LABEL_GAME_FREE_UPDATE: Free update
-  LABEL_GAME_PAID_UPDATE: Paid update
+  LABEL_GAME_FREE_UPDATE: อัปเดตฟรี
+  LABEL_GAME_PAID_UPDATE: อัปเดตเสียเงิน
   LABEL_REPAIR_ALL: Fix everything
   LABEL_UNIQUE: Unique
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
@@ -640,8 +640,8 @@ th:
     They should have taken advantage of the console’s capabilities
   LABEL_REVIEW_GAMEENGINE_GOOD: >
     They were able to get the most out of the console    
-  LABEL_GAME_ENGINE: Game engine
-  LABEL_FEATURE_LIST: Features list
+  LABEL_GAME_ENGINE: เกมเอนจิ้น
+  LABEL_FEATURE_LIST: รายการฟีเจอร์
   LABEL_DESIGN_CAPACITY: Ability to produce design points
   LABEL_DEVELOPMENT_CAPACITY: Ability to produce development points
   LABEL_POLISH_CAPACITY: Ability to produce polishing points
@@ -770,8 +770,8 @@ th:
   TOOLTIP_CLOUD_SERVERS: |
     No more huge buildings to house hundreds of servers
   LABEL_RENT_SERVERS: Rent servers
-  LABEL_ENABLED: Enabled
-  LABEL_DISABLED: Disabled
+  LABEL_ENABLED: เปิดใช้งาน
+  LABEL_DISABLED: ปิดการใช้งาน
   LABEL_TOTAL_UNIT_SOLD: Total units sold
   LABEL_DS_PLATFORM_NOT_COMPATIBLE: This gaming platform is not supported by your digital store
   LABEL_DISCONTINUE_PLATFORM_TITLE: Discontinue platform
@@ -853,11 +853,11 @@ th:
     Welcome to the Hacker simulator.
     To start the hack, click on 'Start'
   LABEL_OPEN_CONSOLE: Click on 'Start' to hack
-  LABEL_DOWNLOADING: Downloading
+  LABEL_DOWNLOADING: กำลังดาวน์โหลด
   LABEL_TARGET_LOCALIZING: Intrusion detected
   LABEL_CONNECTION_LOST: Connection lost
   LABEL_ACCESS_GRANTED: Access granted
-  LABEL_CLICK_FOR_ACTION: Click to open the menu
+  LABEL_CLICK_FOR_ACTION: คลิกเพื่อเปิดเมนู
   LABEL_NO_GAME_INDEV: |
     There are no games in development
   LABEL_ALREADY_REGISTERED: Attending
@@ -874,13 +874,13 @@ th:
   LABEL_GAME_OF_THE_YEAR: >
     For years, magazines have published their own list. Lately one of those
     seems to take off, it is the Game Of The Year
-  LABEL_RIGHT_CLICK_TO_CLOSE: Right click to close
+  LABEL_RIGHT_CLICK_TO_CLOSE: ตลิกขวาเพื่อปิด
   LABEL_STARTING_YEAR: Starting year
   LABEL_CURRENCY_UNLIMITED: Unlimited currency
   LABEL_ADVANCED_START: Advanced start
   LABEL_WORKING: Work
   LABEL_DEFAULT: Default
-  LABEL_DEVELOPER: Developer
+  LABEL_DEVELOPER: ผู้พัฒนา
   LABEL_GAME_CAPACITY: Game capacity
   LABEL_BONUS_PRODUCTIVITY: Productivity bonus
   LABEL_MARKETING_MANAGER: Marketing manager
@@ -890,11 +890,11 @@ th:
   LABEL_NETWORK_ADMINISTRATOR: Network administrator
   LABEL_BONUS_SERVER: Server load bonus
   LABEL_HUMAN_RESOURCE: Human resources
-  LABEL_BONUS_HAPPINESS: Happiness bonus
-  LABEL_AMOUNT_OF_TIPS: Number of tips
+  LABEL_BONUS_HAPPINESS: โบนัสความสุข
+  LABEL_AMOUNT_OF_TIPS: จำนวนเคล็ดลับNumber of tips
   LABEL_REQUIRED_POINTS: Required points
   LABEL_STEP: Step
-  LABEL_CONTRACT: Contract
+  LABEL_CONTRACT: สัญญา
   LABEL_BEST_GAME: Best game
   LABEL_AMOUNT_GAMEPORT: Number of game ports
   LABEL_AMOUNT_EDITED_GAME: Number of published games
@@ -912,18 +912,18 @@ th:
     So if you enjoy playing City Game Studio and if you like indie games, please show your support.
 
     Binogure
-  LABEL_CREATE_POSTMORTEM: Do the game report
+  LABEL_CREATE_POSTMORTEM: ทำรายงานเกม
   LABEL_VENDING_MACHINE: Vending machine
-  LABEL_GAME_SPEED: Game speed
-  LABEL_SPEED_NORMAL: Normal
-  LABEL_SPEED_SLOW: Slow
-  LABEL_SPEED_SLOWEST: Slowest
+  LABEL_GAME_SPEED: ความเร็วเกม
+  LABEL_SPEED_NORMAL: ปกติ
+  LABEL_SPEED_SLOW: ช้า
+  LABEL_SPEED_SLOWEST: ช้าที่สุด
   LABEL_FIRE_UNASSIGNED_EMPLOYEE: Fire unassigned employees
   LABEL_FURNISH_MOD: Auto-furnish mode
   LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Only empty studios can be automatically furnished
   LABEL_HAPPINESS: Happiness
   LABEL_FILTER_BY: Filter by
-  LABEL_DOOR: Door
+  LABEL_DOOR: ประตู
   LABEL_COGS: Cost of Goods Sold
   LABEL_TAXES: Taxes
   LABEL_FIXED_COSTS: Fixed costs
@@ -1057,7 +1057,7 @@ th:
   LABEL_UNLOCKED: Unlocked
   LABEL_COST: Cost %s points
   LABEL_FANBASE_TRENDS: Fan base trends
-  LABEL_YEAR: Years
+  LABEL_YEAR: ปี
   LABEL_GAMEOVER_CONFIRM: Bankruptcy
   LABEL_GAMEOVER_DESCRIPTION: >
     Bankruptcy will end the game.
@@ -1146,7 +1146,7 @@ th:
     You don't have a studio that can create a game of normal or larger size.
   LABEL_NO_FAN_BIG_GAME: >
     To create a game of normal or larger size, it is recommended to have at least [b]%s[/b] of fans, otherwise it will have an impact on sales
-  LABEL_CONCURRENT_AMOUNT: Number of competitors
+  LABEL_CONCURRENT_AMOUNT: จำนวนของคู่แข่ง
   LABEL_YES: ใช่
   LABEL_NO: เลขที่
   LABEL_PRICE_MONTHLY: Monthly costs
@@ -1154,9 +1154,9 @@ th:
   LABEL_ONLINE_USAGE: Online player count
   LABEL_ONLINE_CAPACITY: Total player capacity
   LABEL_ONLINE_CAPACITY_TOOLTIP: Number of online concurrent players
-  LABEL_SERVER: Server
-  LABEL_CAMPAIGN_NO_COST: Talk to the press
-  LABEL_CAMPAIGN_DEMO: Publish a demo
+  LABEL_SERVER: เซิร์ฟเวอร์
+  LABEL_CAMPAIGN_NO_COST: พูดคุยกับสื่อมวลชน
+  LABEL_CAMPAIGN_DEMO: ปล่อยตัวอย่างเกม
   LABEL_CAMPAIGN_FULL: Run an advertising campaign
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] has just revealed their next game: [b]%s[/b]
@@ -1180,7 +1180,7 @@ th:
   LABEL_SPECIAL_THANKS: Special thanks
   LABEL_VISITORS: '%d visitors'
   LABEL_ATTENDANCE: Attendance
-  LABEL_NONE: None
+  LABEL_NONE: ไม่มี
   LABEL_NO_BUILDING: No building available
   LABEL_NO_CONVENTION: No convention planned
   LABEL_CONVENTION_LAST_DATE: Last convention
@@ -1189,131 +1189,131 @@ th:
   LABEL_CONVENTION_NAME: Convention's name
   LABEL_ATTEND: Attend
   LABEL_ORGANIZE: Organize
-  LABEL_INFORMATIONS: Details
-  LABEL_GAME: Game
-  LABEL_GAMEPORT: Port a game
+  LABEL_INFORMATIONS: รายละเอียด
+  LABEL_GAME: เกม
+  LABEL_GAMEPORT: พอร์ตเกม
   LABEL_CONVENTION: Exhibition center
   LABEL_LAND_VALUE: Land value
   LABEL_SURFACE: Surface
   LABEL_HYPE: Hype
   LABEL_AI: Artificial Intelligence
-  LABEL_ANIMATION: Animation
+  LABEL_ANIMATION: แอนิเมชั่น
   LABEL_ANISOTROPIC_FILTER: Anisotropic filter
   LABEL_BUILDING_LEASE: Lease
   LABEL_TYPE_BUILDING: Type
   LABEL_CHARACTERS: Characters
-  LABEL_COMPANY_NAME: Company name
+  LABEL_COMPANY_NAME: ชื่อบริษัท
   LABEL_CUTSCENES: Cutscenes
-  LABEL_CURRENCY: Currency
+  LABEL_CURRENCY: สกุลเงิน
   LABEL_DESIGN: Design
   LABEL_DEVELOPMENT: Development
-  LABEL_DIFFICULTY: Difficulty
+  LABEL_DIFFICULTY: ระดับความยาก
   LABEL_EVENT_TYPE: Event type
   LABEL_UNIT_SOLD: Unit sold
   LABEL_FANBASE: Fan base
-  LABEL_FULLSCREEN: Fullscreen
-  LABEL_GAME_GENRE: Type
-  LABEL_GAME_HISTORY: Game history
-  LABEL_GAME_NAME: Name
-  LABEL_GAME_SIZE: Size
+  LABEL_FULLSCREEN: เต็มหน้าจอ
+  LABEL_GAME_GENRE: ประเภท
+  LABEL_GAME_HISTORY: ประวัติเกม
+  LABEL_GAME_NAME: ชื่อ
+  LABEL_GAME_SIZE: ขนาด
   LABEL_GAME_ONLINE_SHORT: ผู้เล่นหลายคนออนไลน์
   LABEL_PLATFORM_NOT_ONLINE: >
     This platform does not support online multiplayer
-  LABEL_GAMEPLAY: Gameplay
-  LABEL_GRAPHIC_SETTINGS: Graphic settings
-  LABEL_GRAPHISM: Graphics
-  LABEL_INCOME: Income
+  LABEL_GAMEPLAY: เกมเพลย์
+  LABEL_GRAPHIC_SETTINGS: การตั้งค่ากราฟิก
+  LABEL_GRAPHISM: กราฟิก
+  LABEL_INCOME: รายได้
   LABEL_INVALID_SAVE: Corrupted save
   LABEL_KICKOFF: Kick off
-  LABEL_LOAD_GAME: Load game
-  LABEL_MAP_SIZE: Map size
+  LABEL_LOAD_GAME: โหลดเกม
+  LABEL_MAP_SIZE: ขนาดแผนที่
   LABEL_MARKETING_MATERIAL: Marketing material
-  LABEL_MUSIC: Music
-  LABEL_NETWORK: Network
+  LABEL_MUSIC: เสียงเพลง
+  LABEL_NETWORK: เครือข่าย
   LABEL_GRADE: Grade
   LABEL_OPTIMIZATION: Optimization
-  LABEL_OUTCOME: Expenses
+  LABEL_OUTCOME: ค่าใช้จ่าย
   LABEL_PHYSICS: Physics
   LABEL_GAME_FINISHED: Congratulations, you've completed City Game Studio.
   LABEL_PLANNING: Planning
   LABEL_NO_PLATFORM_AVAILABLE: >
     No platform available.
-  LABEL_PLATFORM: Platform
-  LABEL_PLAYER_NAME: Player name
-  LABEL_PROFITS: Profits
+  LABEL_PLATFORM: แพลตฟอร์ม
+  LABEL_PLAYER_NAME: ชื่อผู้เล่น
+  LABEL_PROFITS: กำไร
   LABEL_POLISH: Polish
-  LABEL_PRICE: Price
+  LABEL_PRICE: ราคา
   LABEL_RELEASE: Release
-  LABEL_RESOLUTION: Resolution
+  LABEL_RESOLUTION: ความละเอียด
   LABEL_SCRIPTING: Scripting
-  LABEL_SOUND: Sound
-  LABEL_SOUND_SETTINGS: Sound settings
+  LABEL_SOUND: เสียง
+  LABEL_SOUND_SETTINGS: ตั้งค่าเสียง
   LABEL_SOUNDFX: SoundFX
   LABEL_SQUARE_FOOTAGE: Area
-  LABEL_STAFF: Staff
+  LABEL_STAFF: พักงาน
   LABEL_STORY: Story
-  LABEL_STUDIO: Studio
+  LABEL_STUDIO: สตูดิโอ
   LABEL_TARGETTED_AUDIENCE: Target audience
-  LABEL_THEME: Theme
-  LABEL_TUTORIEL: Tutorial
+  LABEL_THEME: ธีม
+  LABEL_TUTORIEL: บทสอนเล่น
   LABEL_USERINTERFACE: User interface
   LABEL_THEME_MOVIE_ADAPTATION: Movie adaptation
-  LABEL_THEME_PREHISTORY: Prehistory
-  LABEL_THEME_ARCHEOLOGY: Archeology
-  LABEL_THEME_POSTAPOCALYPTIC: Post apocalyptic
-  LABEL_THEME_ATLANTIS: Atlantis
-  LABEL_THEME_RELIGIOUS: Religious
-  LABEL_THEME_ORGANIZED_CRIME: Organized crime
+  LABEL_THEME_PREHISTORY: ยุคก่อนประวัติศาสตร์
+  LABEL_THEME_ARCHEOLOGY: โบราณคดี
+  LABEL_THEME_POSTAPOCALYPTIC: โลกหลังหายนะ
+  LABEL_THEME_ATLANTIS: แอตแลนติส
+  LABEL_THEME_RELIGIOUS: ศาสนา
+  LABEL_THEME_ORGANIZED_CRIME: อาชญากรรม
   LABEL_THEME_CROSSOVER: Cross over
-  LABEL_THEME_DESERT: Desert
-  LABEL_THEME_COMEDY: Comedy
-  LABEL_THEME_DRAGON: Dragon
-  LABEL_THEME_EROTIC: Erotic
-  LABEL_THEME_SPY: Spy
-  LABEL_THEME_FANTASY: Fantasy
-  LABEL_THEME_GHOST: Ghost
-  LABEL_THEME_HISTORY: History
-  LABEL_THEME_HORROR: Horror
-  LABEL_THEME_MEDICAL: Medical
-  LABEL_THEME_OCEAN: Ocean
+  LABEL_THEME_DESERT: ทะเลทราย
+  LABEL_THEME_COMEDY: คอมเมดี้
+  LABEL_THEME_DRAGON: มังกร
+  LABEL_THEME_EROTIC: อีโรติก
+  LABEL_THEME_SPY: สปาย
+  LABEL_THEME_FANTASY: แฟนตาซี
+  LABEL_THEME_GHOST: ผี
+  LABEL_THEME_HISTORY: ประวัติศาสตร์
+  LABEL_THEME_HORROR: สยองขวัญ
+  LABEL_THEME_MEDICAL: การแพทย์
+  LABEL_THEME_OCEAN: มหาสมุทร
   LABEL_THEME_ARABIAN_NIGHTS: Arabian nights
-  LABEL_THEME_MYTHOLOGY: Mythology
-  LABEL_THEME_NINJA: Ninja
+  LABEL_THEME_MYTHOLOGY: เทพนิยาย
+  LABEL_THEME_NINJA: นินจา
   LABEL_THEME_PARK: Park
-  LABEL_THEME_PIRATES: Pirate
+  LABEL_THEME_PIRATES: โจรสลัด
   LABEL_THEME_SCIENCE_FICTION: Science fiction
-  LABEL_THEME_SUPER_HEROS: Super hero
-  LABEL_THEME_VAMPIRE: Vampire
-  LABEL_THEME_TIME_TRAVEL: Time travel
+  LABEL_THEME_SUPER_HEROS: ซุปเปอร์ฮีโร่
+  LABEL_THEME_VAMPIRE: แวมไพร์
+  LABEL_THEME_TIME_TRAVEL: เดินทางข้ามเวลา
   LABEL_THEME_WESTERN: Western
-  LABEL_THEME_ZOMBIE: Zombie
-  LABEL_THEME_MEDIEVAL: Medieval
+  LABEL_THEME_ZOMBIE: ซอมบี้
+  LABEL_THEME_MEDIEVAL: ยุคกลาง
   LABEL_THEME_GAMEDEV: Game dev
-  LABEL_THEME_HACK: Hack
-  LABEL_THEME_HUNT: Hunt
-  LABEL_THEME_ANIME: Anime
-  LABEL_THEME_MILITARY: Military
+  LABEL_THEME_HACK: แฮ็ค
+  LABEL_THEME_HUNT: ล่า
+  LABEL_THEME_ANIME: อนิเมะ
+  LABEL_THEME_MILITARY: ทหาร
   LABEL_THEME_INDUSTRIALIZATION: Industrialization
-  LABEL_THEME_PET: Pet
+  LABEL_THEME_PET: สัตว์เลี้ยง
   LABEL_THEME_FOOTBALL: Football
   LABEL_THEME_SOCCER: Soccer
-  LABEL_THEME_CARTOON: Cartoon
-  LABEL_THEME_COOK: Cook
+  LABEL_THEME_CARTOON: การ์ตูน
+  LABEL_THEME_COOK: ทำอาหาร
   LABEL_THEME_URBAN: Urban
   LABEL_THEME_KAIJU: Kaiju
-  LABEL_THEME_EVOLUTION: Evolution
-  LABEL_THEME_CYBERPUNK: Cyberpunk
-  LABEL_THEME_STEAMPUNK: Steampunk
-  LABEL_THEME_TRANSPORTATION: Transportation
-  LABEL_THEME_MUSIC: Music
+  LABEL_THEME_EVOLUTION: วิวัฒนาการ
+  LABEL_THEME_CYBERPUNK: ไซเบอร์พังค์
+  LABEL_THEME_STEAMPUNK: สตีมพังค์
+  LABEL_THEME_TRANSPORTATION: การขนส่ง
+  LABEL_THEME_MUSIC: เพลง
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
-  LABEL_TYPE_ACTION_ADVENTURE: Action adventure
-  LABEL_TYPE_ACTION: Action
+  LABEL_TYPE_ACTION_ADVENTURE: แอ็คชั่นผจญภัย
+  LABEL_TYPE_ACTION: แอ็คชั่น
   LABEL_TYPE_BEAT_THEM_ALL: Beat-em-up
   LABEL_TYPE_VERSUS_FIGHTING: Versus fighting
-  LABEL_TYPE_PLATFORMS: Platforms
-  LABEL_TYPE_SHOOT: Shoot
+  LABEL_TYPE_PLATFORMS: แพลตฟอร์ม
+  LABEL_TYPE_SHOOT: ยิง
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
@@ -1321,46 +1321,46 @@ th:
   LABEL_TYPE_OPEN_WORLD: Open world
   LABEL_TYPE_HTA_LIKE: HTA-like
   LABEL_TYPE_INFILTRATION: Infiltration
-  LABEL_TYPE_SURVIVAL: Survival
-  LABEL_TYPE_HORROR: Horror
-  LABEL_TYPE_ADVENTURE: Adventure
+  LABEL_TYPE_SURVIVAL: เอาชีวิตรอด
+  LABEL_TYPE_HORROR: สยองขวัญ
+  LABEL_TYPE_ADVENTURE: ผจญภัย
   LABEL_TYPE_INTERACTIVE_FICTION: Interactive fiction
   LABEL_TYPE_INTERACTIVE_MOVIE: Interactive movie
   LABEL_TYPE_CHAT: Chat
   LABEL_TYPE_BISHOJO: Bishojo
   LABEL_TYPE_EROGE: Eroge
   LABEL_TYPE_OTOME: Otome
-  LABEL_TYPE_VISUAL_NOVEL: Visual novel
+  LABEL_TYPE_VISUAL_NOVEL: นิยายภาพ
   LABEL_TYPE_MYSTERY_LIKE: Mystery-like
   LABEL_TYPE_RPG: RPG
-  LABEL_TYPE_ACTION_RPG: Action RPG
+  LABEL_TYPE_ACTION_RPG: แอคชั่น R[G
   LABEL_TYPE_DUNGEON_CRAWLER: Dungeon crawler
   LABEL_TYPE_MMORPG: MMO-RPG
-  LABEL_TYPE_DUNGEON: Dungeon
+  LABEL_TYPE_DUNGEON: ดันเจี้ยน
   LABEL_TYPE_CROOK_LIKE: Crook-like
   LABEL_TYPE_TACTICAL_RPG: Tactical RPG
   LABEL_TYPE_REFLEXION: Classic puzzle
-  LABEL_TYPE_MAZE: Maze
+  LABEL_TYPE_MAZE: เขาวงกต
   LABEL_TYPE_HIDDEN_OBJECT: Hidden objects
-  LABEL_TYPE_PUZZLE: Puzzle
-  LABEL_TYPE_SIMULATION: Simulation
-  LABEL_TYPE_ANIMALS: Animals
+  LABEL_TYPE_PUZZLE: ปริศนา
+  LABEL_TYPE_SIMULATION: การจำลอง
+  LABEL_TYPE_ANIMALS: สัตว์
   LABEL_TYPE_GOD_GAME: God-game
-  LABEL_TYPE_FARMING: Farming
+  LABEL_TYPE_FARMING: ทำฟาร์ม
   LABEL_TYPE_LIVING_ORGANISM: Living organism
-  LABEL_TYPE_SPORT: Sport
-  LABEL_TYPE_MANAGEMENT: Management
-  LABEL_TYPE_ECONOMY: Economy
-  LABEL_TYPE_CITY_BUILDER: City-builder
+  LABEL_TYPE_SPORT: กีฬา
+  LABEL_TYPE_MANAGEMENT: การบริหาร
+  LABEL_TYPE_ECONOMY: เศรษฐกิจ
+  LABEL_TYPE_CITY_BUILDER: สร้างเมือง
   LABEL_TYPE_GOVERNMENT: Government
-  LABEL_TYPE_VEHICLE: Vehicle
-  LABEL_TYPE_RACING: Racing
+  LABEL_TYPE_VEHICLE: ยานพาหนะ
+  LABEL_TYPE_RACING: แข่งรถ
   LABEL_TYPE_DRIVE: Driver
   LABEL_TYPE_FLY: Fly
-  LABEL_TYPE_SPACE: Space
-  LABEL_TYPE_SUBMARINE: Submarine
-  LABEL_TYPE_TRAIN: Train
-  LABEL_TYPE_STRATEGY: Strategy
+  LABEL_TYPE_SPACE: อวกาศ
+  LABEL_TYPE_SUBMARINE: เรือดำน้ำ
+  LABEL_TYPE_TRAIN: รถไฟ
+  LABEL_TYPE_STRATEGY: กลยุทธ์
   LABEL_TYPE_RTS: RTS
   LABEL_TYPE_MOBA_LIKE: Moba-like
   LABEL_TYPE_TOWER_DEFENSE: Tower defense
@@ -1369,46 +1369,46 @@ th:
   LABEL_TYPE_CASUAL: Casual
   LABEL_TYPE_BREAKOUT: Break-out
   LABEL_TYPE_RYTHM: Rhythm
-  LABEL_TYPE_CLICKER_GAME: Clicker-game
-  LABEL_TARGETTED_AUDIENCE_YOUNG: Young
-  LABEL_TARGETTED_AUDIENCE_ALL: Everybody
-  LABEL_TARGETTED_AUDIENCE_MATURE: Mature
-  LABEL_GAME_SIZE_INDIE: Indie
-  LABEL_GAME_SIZE_NORMAL: Normal
-  LABEL_GAME_SIZE_BIG: Big
+  LABEL_TYPE_CLICKER_GAME: เกมคลิก
+  LABEL_TARGETTED_AUDIENCE_YOUNG: เด็ก
+  LABEL_TARGETTED_AUDIENCE_ALL: ทุกคน
+  LABEL_TARGETTED_AUDIENCE_MATURE: ผู้ใหญ่
+  LABEL_GAME_SIZE_INDIE: อินดี้
+  LABEL_GAME_SIZE_NORMAL: ปกติ
+  LABEL_GAME_SIZE_BIG: ใหญ่
   LABEL_GAME_SIZE_AAA: AAA
-  LABEL_MAP_SIZE_TINY: Tiny
-  LABEL_MAP_SIZE_SMALL: Small
-  LABEL_MAP_SIZE_MEDIUM: Medium
-  LABEL_MAP_SIZE_LARGE: Large
-  LABEL_MAP_SIZE_HUGE: Huge
-  LABEL_DIFFICULTY_VERY_EASY: 1. QA tester (easiest)
+  LABEL_MAP_SIZE_TINY: เล็กจิ๋ว
+  LABEL_MAP_SIZE_SMALL: เล็ก
+  LABEL_MAP_SIZE_MEDIUM: ปานกลาง
+  LABEL_MAP_SIZE_LARGE: ใหญ่
+  LABEL_MAP_SIZE_HUGE: ใหญ่มาก
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA tester (ง่ายที่สุด)
   LABEL_DIFFICULTY_EASY: 2. Game developer
   LABEL_DIFFICULTY_NORMAL: 3. Engine developer
   LABEL_DIFFICULTY_HARD: 4. Producer
-  LABEL_DIFFICULTY_INSANE: 5. CEO (hardest)
+  LABEL_DIFFICULTY_INSANE: 5. CEO (ยากที่สุด
   LABEL_PLATFORM_RELEASED_DESCRIPTION: |
-    [b]%s[/b] has released a new platform: [b]%s[/b]
+    [b]%s[/b] ได้เปิดตัวแพลตฟอร์มใหม่: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] retire the so well known [b]%s[/b], fans are crying.
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    [b]%s[/b] will release a new platform names [b]%s[/b] within a few months. It should last for years.
+    [b]%s[/b] จะเปิดตัวแพลตฟอร์มใหม่ชื่อ [b]%s[/b] ภายในเวลาไม่กี่เดือน มันน่าจะมีอายุไปอีกหลายปี
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] announces the end of life of the so well known [b]%s[/b]
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
-    You have unlocked the license for the [b]%s[/b].
-    It costs [b]%s$[/b]
+    คุณได้ปลดล็อคใบอนุญาตสำหรับ [b]%s[/b].
+    มีค่าใช้จ่าย [b]%s$[/b]
   LABEL_PLATFORM_RELEASED_TITLE: Platform released
   LABEL_PLATFORM_DISCONTINUED_TITLE: Discontinued platform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Upcoming platform
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Upcoming end of life platform
   LABEL_PLATFORM_UNLOCKED_TITLE: Platform bought
-  LABEL_CLICK_TO_CLOSE: Click to close
-  LABEL_SHOP_UI: Shop
-  LABEL_DESK: Desk
-  LABEL_BOOKSHELF: Bookshelf
-  LABEL_WASTEBASKET: Wastebasket
-  LABEL_ASSIGN_EMPLOYEE: Staff
+  LABEL_CLICK_TO_CLOSE: คลิกเพื่อปิด
+  LABEL_SHOP_UI: ร้านค้า
+  LABEL_DESK: โต๊ะทำงาน
+  LABEL_BOOKSHELF: ชั้นวางหนังสือ
+  LABEL_WASTEBASKET: ถังขยะ
+  LABEL_ASSIGN_EMPLOYEE: พนักงาน
   LABEL_NEW_GAME: New game
   LABEL_MODDING: Modding
   LABEL_ARTWORK: Artwork
@@ -1424,18 +1424,18 @@ th:
   LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Game over
-  LABEL_SCORE: Score
+  LABEL_SCORE: คะแนน
   LABEL_WAGE_INCREASES_TITLE: Pay raise
   LABEL_WAGE_INCREASES_DESCRIPTION: >
     List of employees who have increased at least one level in one or more areas
     of competence and who received a salary increase:
-  LABEL_PRESS_KEY: Press
-  LABEL_WORD_OR: or
-  LABEL_INPUT_ACTION_UI_ROTATE: to rotate the item
-  LABEL_INPUT_ACTION_UI_DELETE: to sell the item
-  LABEL_INPUT_ACTION_UI_PAUSE: to pause/unpause the game
-  LABEL_INPUT_ACTION_UI_CANCEL: to cancel
-  LABEL_INPUT_ACTION_UI_REPEAT: to place several items
+  LABEL_PRESS_KEY: สื่อมวลชน
+  LABEL_WORD_OR: หรือ
+  LABEL_INPUT_ACTION_UI_ROTATE: เพื่อหมุนไอเท็ม
+  LABEL_INPUT_ACTION_UI_DELETE: เพื่อขายไอเท็ม
+  LABEL_INPUT_ACTION_UI_PAUSE: เพื่อหยุด/เลิกหยุดเกม
+  LABEL_INPUT_ACTION_UI_CANCEL: ยกเลิก
+  LABEL_INPUT_ACTION_UI_REPEAT: วางไอเท็มหลายรายการ
   LABEL_CATCHPHRASE_1_0: A waste of time
   LABEL_CATCHPHRASE_1_1: They put everything in the trailer
   LABEL_CATCHPHRASE_1_2: Do not buy it
@@ -1590,81 +1590,81 @@ th:
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
     Since %s is your last studio or it is busy
     to work on a project, you cannot sell it.
-  LABEL_BUILDING_AREA: Area %s m²
-  LABEL_BUILDING_BUY: Price
-  LABEL_BUILDING_RENT: Rent
+  LABEL_BUILDING_AREA: พื้นที่ %s m²
+  LABEL_BUILDING_BUY: ราคา
+  LABEL_BUILDING_RENT: ค่าเช่า
   LABEL_BUILDING_CONVENTION: Exhibition center
-  LABEL_BUILDING_TYPE: Building
-  LABEL_BUILDING_ROAD: Road
-  LABEL_BUILDING_STREET: Street
-  LABEL_BUILDING_APARTMENT: Apartment
-  LABEL_BUILDING_HOTEL: Hotel
-  LABEL_BUILDING_THEATER: Theater
-  LABEL_BUILDING_TOWER: Tower
-  LABEL_BUILDING_STUDIO: Studio
-  LABEL_BUILDING_BIGSTUDIO: Studio
-  LABEL_BUILDING_BUILDING: Residence
+  LABEL_BUILDING_TYPE: สิ่งก่อสร้าง
+  LABEL_BUILDING_ROAD: ถนน
+  LABEL_BUILDING_STREET: ถนน
+  LABEL_BUILDING_APARTMENT: อพาร์ทเม้น
+  LABEL_BUILDING_HOTEL: โรงแรม
+  LABEL_BUILDING_THEATER: โรงภาพยนตร์
+  LABEL_BUILDING_TOWER: ตึก
+  LABEL_BUILDING_STUDIO: สตูดิโอ
+  LABEL_BUILDING_BIGSTUDIO: สตูดิโอ
+  LABEL_BUILDING_BUILDING: ที่อยู่อาศัย
   LABEL_BUILDING_GRASS: Grass
   LABEL_BUILDING_SQUARE: Square
-  LABEL_BUILDING_CAFE: Coffee
-  LABEL_BUILDING_RESTAURANT: Restaurant
-  LABEL_BUILDING_PIZZERIA: Pizzeria
-  LABEL_BUILDING_GYM: Gym
-  LABEL_BUILDING_OFFICE: Office
-  LABEL_BUILDING_UNIVERSITY: University
+  LABEL_BUILDING_CAFE: ร้านกาแฟ
+  LABEL_BUILDING_RESTAURANT: ร้านอาหาร
+  LABEL_BUILDING_PIZZERIA: ร้านพิชซ่า
+  LABEL_BUILDING_GYM: ยิม
+  LABEL_BUILDING_OFFICE: ออฟฟิศ
+  LABEL_BUILDING_UNIVERSITY: มหาวิทยาลัย
   LABEL_NO_GAME_AVAILABLE: No game available
-  LABEL_NO_MONEY: Too expensive
-  LABEL_COMPUTER: Computer
+  LABEL_NO_MONEY: แพงเกินไป
+  LABEL_COMPUTER: คอมพิวเตอร์
   LABEL_PLANT: Plant
-  LABEL_TABLEPLANT: Table
-  LABEL_PRINTER: Printer
-  LABEL_COFFEEMACHINE: Coffe machine
-  LABEL_DARKMETALTABLEDESK: Dark metal desk
-  LABEL_METALDESK: Metal desk
-  LABEL_METALLARGEDESK: Large metal desk
-  LABEL_METALTABLEDESK: Metal desk
-  LABEL_WOODDESK: Wood desk
-  LABEL_WOODLARGEDESK: Large wood desk
-  LABEL_WOODTABLEDESK: Wood desk
+  LABEL_TABLEPLANT: โต๊ะทำงาน
+  LABEL_PRINTER: เครื่องปริ้น
+  LABEL_COFFEEMACHINE: เครื่องชงกาแฟ
+  LABEL_DARKMETALTABLEDESK: โต๊ะทำงานโลหะสีเข้ม
+  LABEL_METALDESK: โต๊ะทำงานโลหะ
+  LABEL_METALLARGEDESK: โต๊ะทำงานโลหะใหญ่
+  LABEL_METALTABLEDESK: โต๊ะทำงานโลหะ
+  LABEL_WOODDESK: โต๊ะทำงานไม้
+  LABEL_WOODLARGEDESK: โต๊ะทำงานไม้ใหญ่
+  LABEL_WOODTABLEDESK: โต๊ะทำงานไม้
   LABEL_WATERTANK: Water fountain
-  LABEL_WHITEBOARD: Whiteboard
-  LABEL_WOODBOOKSHELF: Wood bookshelf
-  LABEL_METALBOOKSHELF: Metal bookshelf
-  LABEL_HOLIDAY: Holiday
+  LABEL_WHITEBOARD: ไวท์บอร์ด
+  LABEL_WOODBOOKSHELF: ชั้นวางหนังสือไม้
+  LABEL_METALBOOKSHELF: ชั้นวางหนังสือโลหะ
+  LABEL_HOLIDAY: วันหยุด
   LABEL_NO_COMPUTER: No computer
   LABEL_NO_STUDIO: No studio
   LABEL_EMPLOYEE_CAPACITY: Prod.
   LABEL_STUDIO_CAPACITY: Studio prod.
   LABEL_EMPLOYEE_TOOLTIP: The productivity (Prod.) boosts the employee efficiency.
   LABEL_STUDIO_TOOLTIP: The productivity (Prod.) boosts the studio efficiency.
-  LABEL_BUILD_STUDIO: Edit studio
-  LABEL_WALL: Wall
-  LABEL_PILLAR: Pillar
-  LABEL_FLOOR: Floor
-  LABEL_HIRING_DATE: Date of hire
-  LABEL_WORK: Status
+  LABEL_BUILD_STUDIO: แก้ไขสตูดิโอ
+  LABEL_WALL: ผนัง
+  LABEL_PILLAR: เสา
+  LABEL_FLOOR: พื้น
+  LABEL_HIRING_DATE: วันที่จ้าง
+  LABEL_WORK: สถานะ
   LABEL_NUMBER_OF_GAME_PRODUCED: Produced games
   LABEL_DESIGN_POINT_PRODUCED: Number of design points produced
   LABEL_DEVELOPMENT_POINT_PRODUCED: Number of development points produced
   LABEL_POLISH_POINT_PRODUCED: Number of polish points produced
   LABEL_PRODUCTIVITY: Productivity
   LABEL_MONEY_EFFICIENCY: Cost efficiency
-  LABEL_SKILLS: Skills
-  LABEL_HOME: Home
-  LABEL_MONTH: Month
-  LABEL_ORDER_BY: Sort by
-  LABEL_BUY_PRICE: Buy price
-  LABEL_RENT_PRICE: Rent price
+  LABEL_SKILLS: ทักษะ
+  LABEL_HOME: บ้าน
+  LABEL_MONTH: เดือน
+  LABEL_ORDER_BY: เรียงลำดับ
+  LABEL_BUY_PRICE: ราคาซื้อ
+  LABEL_RENT_PRICE: ราคาเช่า
   LABEL_NO_STUDIO_AVAILABLE: No studio available
   LABEL_REAL_ESTATE: Real estate
-  LABEL_STAFF_SIZE: Number of employees
+  LABEL_STAFF_SIZE: จำนวนพนักงาน
   LABEL_CREATION_DATE: Creation date
   LABEL_STUDIO_LIST: Studio list
   LABEL_NO_STUDIO_FOUND: No studio found
   LABEL_PRODUCTIVITY_BONUS: Productivity bonus
-  LABEL_SKILLS_AVERAGE: Skills (average)
+  LABEL_SKILLS_AVERAGE: ทักษะ (เฉลี่ย)
   LABEL_VSYNC: VSync
-  LABEL_BORDERLESS_WINDOW: Borderless window
+  LABEL_BORDERLESS_WINDOW: เต็มหน้าจอแบบไร้ขอบ
   LABEL_GAME_UPDATE_FEATURE: >
     Publish updates and create new content for your games. Free updates, or paid updates? It is up to you.
   LABEL_GAMEEDITION_SUBMIT: >
@@ -1711,9 +1711,9 @@ th:
   LABEL_NEW_GAME_FEATURE: >
     Ready to relive the epic history of video games from its very beginning?
     Welcome to City Game Studio. Get started and create your first game.
-  LABEL_LOADING: Loading
-  LABEL_NAME: Name
-  LABEL_SALARY: Salary
+  LABEL_LOADING: กำลังโหลด
+  LABEL_NAME: ชื่อ
+  LABEL_SALARY: เงินเดือน
   LABEL_NO_SCORE: No score uploaded yet!
   LABEL_CAPACITY_STORY_FEATURE: >
     A good game is always good, a good story is always good.
@@ -2065,12 +2065,12 @@ th:
     Allows you to unlock new types of games.
   TOOLTIP_MANAGE_STUDIO: |
     To manage your studios, upgrade computers, assign employees...
-  TOOLTIP_GAMEPORT: Port a video game onto another platform.
+  TOOLTIP_GAMEPORT: พอร์ตโอเกมไปยังแพลตฟอร์มอื่น
   TOOLTIP_POSTMORTEM: |
     Create a postmortem report.
     A postmortem report will
     help you create better games.
-  TOOLTIP_CREATE_GAME: Create a new game
+  TOOLTIP_CREATE_GAME: สร้างเกมใหม่
   TOOLTIP_STAFF: Staff's list
   TOOLTIP_RECRUIT: List potential candidates for hire, available in town.
   TOOLTIP_PORTFOLIO: List all the game you've made so far.
@@ -2082,18 +2082,18 @@ th:
     Make a new building for
     an office or to
     host a convention.
-  TOOLTIP_CONFERENCE: Manage conventions
-  TOOLTIP_MARKETING: Manage your marketing campaigns
-  TOOLTIP_SELL: Sell your office
-  TOOLTIP_SHOP: Buy furniture and stuff for your office
-  TOOLTIP_BUILDMOD: Paint and beautify your office
+  TOOLTIP_CONFERENCE: จัดการงานเกม
+  TOOLTIP_MARKETING: จัดการแคมเปญการตลาดของคุณ
+  TOOLTIP_SELL: ขายออฟฟิศของคุณ
+  TOOLTIP_SHOP: ซื้อเฟอร์นิเจอร์และสิ่งของสำหรับออฟฟิศของคุณ
+  TOOLTIP_BUILDMOD: ทาสีและตกแต่งออฟฟิศของคุณ
   TOOLTIP_ASSIGN: มอบหมายงานพนักงาน
   TOOLTIP_STUDIO_SELECT: เลือกสตูดิโอ
   TOOLTIP_ANNOUNCE_GAME: |
     Announce the video game.
     Generates hype.
   TOOLTIP_CONCURRENT: |
-    List of video game companies
+    รายชื่อบริษัทวิดีโอเกม
   TOOLTIP_STUDIO_COST: |
     Total studio costs. Including rent as well as the cost of
     maintaining the equipment (for servers for example)
@@ -2109,7 +2109,7 @@ th:
   TOOLTIP_GAME_OF_THE_YEAR: |
     Every year, a new game is promoted Game Of The year.
   TOOLTIP_DESK_REPLACE: |
-    Replace desks and update computers
+    เปลี่ยนโต๊ะทำงานและปรับปรุงคอมพิวเตอร์
   TOOLTIP_POSTMORTEM_RED_ZONE: |
     Games reports helped you refining the blue zone.
     By leaving the blue zone, you are taking a risk of making an unbalanced game,
