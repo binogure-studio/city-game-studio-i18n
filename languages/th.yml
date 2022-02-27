@@ -93,7 +93,7 @@ th:
 
   # Labels
   LABEL_DARK_MODE: ธีมมืด
-  LABEL_LAST_12_MONTHS: Last 12 months
+  LABEL_LAST_12_MONTHS: 12 เดือนที่ผ่านมา
   LABEL_GOTY_PROBABILITY: โอกาสในการชนะเกมแห่งปี
   LABEL_EVENT_STOCK_YEARLY_TITLE: การจ่ายเงินปันผลประจำปี
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
@@ -184,34 +184,34 @@ th:
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: เชิงลบอย่างมาก
   LABEL_REMAKE: รีเมค
   LABEL_REMAKE_DESCRIPTION_0: |
-    While looking at your first games, you decide that something should be done.
-    How about remaking them?
+    เมื่อมองไปยังเกมแรกของคุณ คุณตัดสินใจว่ามีบางอย่างจำเป็นต้องทำ
+    คิดยังไงกับการรีเมคมันหล่ะ?
   LABEL_REMAKE_DESCRIPTION_1: |
-    You can remake your old titles now.
-    To make a remake successful you have to use the latest features of your game engine.
+    คุณสามารถรีเมคเกมเก่าของคุณได้แล้วตอนนี้
+    เพื่อให้การรีเมคประสบความสำเร็จคุณจะต้องใช้ฟีเจอร์ล่าสุดของเกมเอนจิ้นของคุณ
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
-    Training staff requires a university.
+    การฝึกซ้อมพนักงานต้องการมหาวิทยาลัย
 
-    There is no university available, you need to build one.
+    ไม่มีมหาลัยที่พร้อมใช้งาน คุณต้องสร้างขึ้นมา
   LABEL_TRAINING_REQUIRE_EMPLOYEE: |
-    At least one employee must be selected.
+    จำเป็นต้องเลือกพนักงานอย่างน้อยหนึ่งคน
   LABEL_TRAINING_REQUIRE_CAPACITIES: |
-    At least one capability must be selected.
+    จำเป็นต้องเลือกอย่างน้อยหนึ่งความสามารถ
 
-    (Design/Development or Polishing)
+    (ออกแบบ/พัฒนา หรือขัดเกลา)
   LABEL_NEW_COMPETITOR_TITLE: A new competitor arrives
   LABEL_NEW_COMPETITOR_DESCRIPTION: |
     [center][img]%s[/img][/center]
 
-    It was announced this morning that the founder of [b]%s[/b], now worth millions, has decided to move to the great city of City Game Studio.
-    The mayor of City Game Studio is delighted:
-    [code]A new investor here at home! It proves that we are doing our job well. Attracting large companies is not easy...[/code]
+    มีการประกาศเมื่อเช้านี้ว่าผู้ก่อตั้งของ [b]%s[/b] ซึ่งปัจจุบันมีมูลค่าหลักล้านได้ตัดสินใจย้ายไปเมืองใหญ่ของ City Game Studio
+    นายกเทศมนตรีของ City Game Studio มีความยินดี:
+    [code]นักลงทุนรายใหม่ในบ้านหลังนี้! เป็นการพิสูจน์ว่าเราทำงานของเราได้ดี การดึงดูดบริษัทขนาดใหญ่มันไม่ใช่เรื่องที่ง่ายเลย...[/code]
 
-    How this will impact the video game companies already present in City Game Studio remains to be seen.
+    เรื่องนี้จะส่งผลกระทบต่อบริษัทวิดีโอเกมที่มีอยู่แล้วใน City Game อย่างไรต้องรอดูกันต่อไป
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
-    Boss, [b]%s[/b] is being hacked.
-    We must do something to stop it before it's too late!
-    You only have to say one word!
+    บอส [b]%s[/b] เรากำลังถูกแฮ็คแล้ว
+    เราต้องทำอะไรสักอย่างเพื่อหยุดมันก่อนที่มันจะสายเกินไป!
+    คุณแค่ต้องพูดออกมาแค่คำเดียวเท่านั้น!
   LABEL_MINIGAME_DEFEND_START: |
     ไปกันเถอะ!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
@@ -223,46 +223,47 @@ th:
   BUTTON_CLICK_ME: คลิกที่ฉัน
   LABEL_FIREWALL_SIMULATOR_TITLE: โปรแกรมจำลองการแฮ็กข้อมูล
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
-    Your objective, protect your game, otherwise it's get hacked.
-    To achieve that objective, click on the blue buttons so they reach 0 to protect the network.
+    เป้าหมายของคุณ ปกป้องเกมของคุณไม่งั้นก็ถูกแฮ็ค
+   เพื่อที่จะบรรลุเป้าหมายนั้น คลุกบนปุ่มสีฟ้าจนพวกมันไปถึง 0 เพื่อปกป้องเครื่อข่าย
 
-    It is simple, but you gotta go fast!
+
+    มันก็พื้นฐานๆ แต่คุณต้องกดให้ไว!
   LABEL_GAME_UPDATE_NB: จำนวนการอัปเดต
-  LABEL_GAME_UPDATE_LAST: Last time the game was updated
+  LABEL_GAME_UPDATE_LAST: ครั้งสุดท้ายที่เกมมีการอัปเดต
   LABEL_SELLING_PRICE: ราคาขาย
   LABEL_EMPLOYEE: ลูกจ้าง
-  LABEL_MARKET_RESEARCH_NEW: New market research
+  LABEL_MARKET_RESEARCH_NEW: วิจัยการตลาดใหม่
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
     A marketing manager is required.
     The better the marketing manager the faster the market research.
-  LABEL_MARKET_RESEARCH: Market research
-  LABEL_MARKET_RESEARCH_TYPE: Market research type
-  LABEL_GAME_TYPE_LIST: Game genre list
-  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analyze target audience
+  LABEL_MARKET_RESEARCH: วิจัยการตลาด
+  LABEL_MARKET_RESEARCH_TYPE: ประเภทวิจัยการตลาด
+  LABEL_GAME_TYPE_LIST: รายการประเภทเกม
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: วิเคราะห์กลุ่มเป้าหมาย
   LABEL_MARKET_RESEARCH_NONE: No active market research
   LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: A classroom becomes available.
   LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
     Congratulations, a training session has just ended.
     You have at least one free classroom if you want to organize a new training session.
-  LABEL_UNIVERSITY_TRAINING: Training
-  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Lecture Hall
-  LABEL_UNIVERSITY_SIT: Number of seats
-  LABEL_UNIVERSITY: University
-  LABEL_UNIVERSITY_MANAGE_TRAINING: Manage trainings
-  LABEL_UNIVERSITY_TRAINING_TYPE: Training type
-  LABEL_UNIVERSITY_LECTURE_HALL: Number of lecture hall
-  LABEL_UNIVERSITY_AUTOTRAINING: Auto-training
-  LABEL_UNIVERSITY_ABANDON: Abandon the building
-  LABEL_UNIVERSITY_DESTROY: Destroy the building
-  LABEL_UNIVERSITY_GLOBAL_TRAINING: General training
-  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specific training
-  LABEL_UNIVERSITY_TRAINING_LIST: List of trainings
-  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: No training
-  LABEL_SOFA: Sofa
-  LABEL_MISC: Miscellaneous
-  LABEL_MINUTES: minutes
-  LABEL_VIEW_MORE: View more...
-  LABEL_GAME_INDUSTRY_NEWS: Games industry news
+  LABEL_UNIVERSITY_TRAINING: การฝึกซ้อม
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: ห้องบรรยาย
+  LABEL_UNIVERSITY_SIT: จำนวนที่นั่ง
+  LABEL_UNIVERSITY: มหาวิทยาลัย
+  LABEL_UNIVERSITY_MANAGE_TRAINING: จัดการการฝึกซ้อม
+  LABEL_UNIVERSITY_TRAINING_TYPE: ประเภทการฝึกซ้อม
+  LABEL_UNIVERSITY_LECTURE_HALL: จำนวนของห้องบรรยาย
+  LABEL_UNIVERSITY_AUTOTRAINING: ฝึกซ้อมอัตโนมัติ
+  LABEL_UNIVERSITY_ABANDON: ละทิ้งสิ่งก่อสร้าง
+  LABEL_UNIVERSITY_DESTROY: ทำลายสิ่งก่อสร้าง
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: การฝึกซ้อมทั่วไป
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: การฝึกซ้อมเฉพาะทาง
+  LABEL_UNIVERSITY_TRAINING_LIST: รายการฝึกซ้อม
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: ไม่มีการฝึกซ้อม
+  LABEL_SOFA: โซฟา
+  LABEL_MISC: เบ็ดเตล็ด
+  LABEL_MINUTES: นาที
+  LABEL_VIEW_MORE: ดูเพิ่มเติม...
+  LABEL_GAME_INDUSTRY_NEWS: ข่าววงการเกม
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s to acquire %s for %s"
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
     The video game developer and publisher behind [b]%s[/b] has been acquired by [b]%s[/b] for an offer valued at [b]%s[/b].
@@ -272,28 +273,28 @@ th:
     CEO of [b]%s[/b], commented on the acquisition, saying:
     [indent]Our industry is growing, and together we will be positioned to lead in a new era of entertainment.[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
-    This game has not taken full advantage of the console's capabilities.
+    เกมนี้ไม่ได้ใช้ประโยชน์จากความสามารถของคอนโซลอย่างเต็มที่
   LABEL_MARKETSHARE_KRASHING: >
-    This console suffers from a terrible reputation which leads to low sales. It is recommended to stay away from it from now on.
+    คอนโซลนี้ได้รับชื่อเสียงที่แย่มากซึ่งนำไปสู่ยอดขายที่ต่ำ แนะนำให้อยู่ห่างจากมันไว้ตั้งแต่นี้เป็นต้น
   LABEL_LOSING_MONEY_DESCRIPTION: |
-    Here are your financial results. It shows all your operating expenses and revenues.
+    นี่คือผลลัพธ์ทางการเงินของคุณ มันจะแสดงค่าใช้จ่ายในการดำเนินงานทั้งหมดของคุณและรายได้
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    Rental costs are a significant expense. You could buy the buildings or rent smaller ones and close those that cost you the most.
+    ค่าเช่าเป็นค่าใช้จ่ายที่สำคัญ คุณสามารถซื้ออาคารหรือเช่าที่เล็กกว่าเพื่อลดส่วนที่เสียค่าใช้จ่ายมากที่สุด
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    Payroll is a major expense. You should consider laying off staff.
+    เงินเดือนเป็นค่าใช้จ่ายหลัก คุณควรพิจารณาเลิกจ้างพนักงาน
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
     You have a lot of coffee machines/vending machines, and this is a strain on your budget
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    Servers are expensive. If you have unused servers, you should sell them.
+    เซิร์ฟเวอร์มีราคาแพง หากคุณมีเซิร์ฟเวอร์ที่ไม่ได้ใช้งาน คุณควรขายเซิร์ฟเวอร์เหล่านั้น
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
-    You spend a lot on marketing campaigns. Maybe you should stop some marketing campaigns or conventions.
+    คุณใช้จ่ายในแคมเปญการตลาดเยอะ บางทีคุณควรหยุดการตลาดแคมเปญหรืองานเกมบ้าง 
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
     It seems that your mortgages are expensive. If you can, pay them off with a larger, long-term mortgage.
   LABEL_LOSING_MONEY_HARD: >
     You spend more than you earn. If you want to figure out which costs you the most, consult your financial details.
   LABEL_SUBSCRIPTION: Subscription
   LABEL_PLATFORM_NOT_POWERFULL: >
-    This platform is not powerful enough
+    แพลตฟอร์มนี้ไม่ทรงพลังพอ
   BUTTON_RELEASE_ALL: Release everything
   TOOLTIP_RELEASE_ALL_BUTTON: |
     Releases all games, contracts and consoles that are ready to be published.
@@ -336,33 +337,33 @@ th:
 
     A poorly manufactured console is expected to fail more often.
     Customers who purchased a faulty console are always entitled to a refund.
-  LABEL_PLATFORM_DISCONTINUE: Halt production
-  LABEL_PLATFORM_CHANGE_PRICE: Modify the price
+  LABEL_PLATFORM_DISCONTINUE: หยุดการผลิต
+  LABEL_PLATFORM_CHANGE_PRICE: แก้ไขราคา
   LABEL_PLATFORM_UNIT_RETURNED: Units returned
   LABEL_PLATFORM_COST_RATIO: Costs' ratio
-  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
-  LABEL_PLATFORM_COMPONENT_CPU: Processor
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: คอนโทรลเลอร์
+  LABEL_PLATFORM_COMPONENT_CPU: หน่วยประมวลผล
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartridge
-  LABEL_PLATFORM_COMPONENT_MEMORY: Memory
-  LABEL_PLATFORM_COMPONENT_GPU: Graphic card
-  LABEL_PLATFORM_COMPONENT_SCREEN: Screen
-  LABEL_PLATFORM_COMPONENT_BOX: Console case
-  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Hard Drive
-  LABEL_PLATFORM_MAKING_COSTS: Manufacturing costs
-  LABEL_PLATFORM_UNLOCK_COSTS: Unlocking costs
-  LABEL_PLATFORM_DEVELOPMENT_POINTS: Development costs
-  LABEL_PLATFORM_QUALITY: Quality
-  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Estimated manufacturing costs
+  LABEL_PLATFORM_COMPONENT_MEMORY: หน่วยความจำ
+  LABEL_PLATFORM_COMPONENT_GPU: การ์ดจอ
+  LABEL_PLATFORM_COMPONENT_SCREEN: หน้าจอ
+  LABEL_PLATFORM_COMPONENT_BOX: เคสคอนโซล
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: ฮาร์ดไดรฟ์
+  LABEL_PLATFORM_MAKING_COSTS: ต้นทุนการผลิต
+  LABEL_PLATFORM_UNLOCK_COSTS: ค่าใช้จ่ายการปลดล็อค
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: ค่าใช้จ่ายการพัฒนา
+  LABEL_PLATFORM_QUALITY: คุณภาพ
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: ต้นทุนการผลิตโดยประมาณ
   LABEL_PLATFORM_UNIT_PROFIT: Profit per unit
-  LABEL_PLATFORM_NAME: Platform's name
+  LABEL_PLATFORM_NAME: ชื่อแพลตฟอร์ม
   LABEL_TRADE_PUBLISH_TOOLTIP: |
     This publishing offer is backed by a $%s grant.
     A %s$ penality applies if you do not achieve a minimum score of %d%%.
   LABEL_CANNOT_HIRE_NO_DESK: |
     You must have a desk available to hire a specialist.
-  LABEL_CUSTOM_CONSOLE: Console development
+  LABEL_CUSTOM_CONSOLE: การพัฒนาคอนโซล
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
-    Create your own video game console.
+    สร้างคอนโซลวิดีโอเกมของคุณเอง
   LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
     Pick parts, assemble the console and get ready for the marketing campaign!
 
@@ -438,25 +439,25 @@ th:
   LABEL_MOD_BANNED: Mod banned
   LABEL_MOD_AGREEMENT: |
     By submitting this item, you agree to the [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]workshop terms of service[/url]
-  LABEL_MOD_VERSION: Version
-  LABEL_MOD_CREATE: Create a mod
-  LABEL_MOD_LIST: List mods
-  LABEL_MOD_NAME: Name
-  LABEL_MOD_DESCRIPTION: Description
-  LABEL_MOD_LANGUAGE: Language
-  LABEL_MOD_VISIBILITY: Visibility
-  LABEL_MOD_VISIBILITY_PUBLIC: Public
-  LABEL_MOD_VISIBILITY_FRIENDS: Friends only
-  LABEL_MOD_VISIBILITY_PRIVATE: Private
-  LABEL_MOD_IMAGE_PREVIEW: Preview image
-  LABEL_MOD_VIDEO_PREVIEW: Preview video
+  LABEL_MOD_VERSION: เวอร์ชั่น
+  LABEL_MOD_CREATE: สร้างม็อด
+  LABEL_MOD_LIST: รายการม็อด
+  LABEL_MOD_NAME: ชื่อ
+  LABEL_MOD_DESCRIPTION: คำอธิบาย
+  LABEL_MOD_LANGUAGE: ภาษา
+  LABEL_MOD_VISIBILITY: การมองเห็น
+  LABEL_MOD_VISIBILITY_PUBLIC: สาธารณะ
+  LABEL_MOD_VISIBILITY_FRIENDS: เพื่อนเท่านั้น
+  LABEL_MOD_VISIBILITY_PRIVATE: ส่วนตัว
+  LABEL_MOD_IMAGE_PREVIEW: รูปตัวอย่าง
+  LABEL_MOD_VIDEO_PREVIEW: วีดีโอตัวอย่าง
   LABEL_MOD_PATH: Absolute path
-  LABEL_MOD_PUBLISHED_DATE: Publication date
-  LABEL_MOD_UPDATE: Update
+  LABEL_MOD_PUBLISHED_DATE: วันที่เผยแผร่
+  LABEL_MOD_UPDATE: อัปเดต
   LABEL_MOD_VALIDATE: Validate
   LABEL_MOD_NOT_VALID: Invalid
-  LABEL_MOD_CREATED: Mod created
-  LABEL_MOD_UPDATED: Mod updated
+  LABEL_MOD_CREATED: สร้างม็อดแล้ว
+  LABEL_MOD_UPDATED: อัปเดตม็อดแล้ว
   TOOLTIP_HOLD_TO_CLICK: |
     Hold click to press
   LABEL_GAME_EXCLUSIVITY: >
@@ -469,23 +470,23 @@ th:
   LABEL_CLOUDS: Show clouds on the map
   LABEL_AUTOSAVE: Automatic saving
   LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
-    A competitor is using your game engine
+    คู่แข่งกำลังใช้เกมเอ็นจิ้นของคุณ
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
-    [b]%s[/b] has released a game that uses your game engine ([b]%s[/b]).
+    [b]%s[/b] ได้เปิดตัวเกมที่ใช้เกมเอ็นจิ้นของคุณ ([b]%s[/b]).
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
-    Thanks to [b]%s[/b], you're gonna get [b]%d%%[/b] royalties.
+    ขอบคุณ [b]%s[/b] คุณจะได้รับค่าลิขสิทธิ์[b]%d%%[/b] 
   LABEL_PLATFORM_SELECT_OFFER: |
     Customize offer
   LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
     Exclusivity duration: [b]%s[/b] months
   LABEL_PLATFORM_MONEY_OFFER: |
     Money offer: [b]%s$[/b]
-  LABEL_GAMEENGINE_DELETE_TITLE: Delete game engine?
+  LABEL_GAMEENGINE_DELETE_TITLE: ลบเกมเอ็นจิ้น?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
-    You are about to remove [b]%s[/b].
-    Do you want to continue?
+    คุณกำลังที่จะลบ [b]%s[/b].
+    คุณต้องการดำเนินการต่อหรือไม้?
   LABEL_PLATFORM_MANUFACTURER_MAIN: |
-    What can I do for you?
+    ฉันจะทำอะไรให้คุณได้บ้าง?
   LABEL_PLATFORM_MANUFACTURER_ANGRY: |
     Don't waste my time kiddo!
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
@@ -511,7 +512,7 @@ th:
   LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
     Projected number of units sold: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
-    I want to publish games on [b]%s[/b]
+    ฉันต้องการจัดจำหน่ายเกมบน [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     That sounds like a fair proposal, we have a deal!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
