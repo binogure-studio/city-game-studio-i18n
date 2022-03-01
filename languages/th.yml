@@ -1282,7 +1282,7 @@ th:
   LABEL_THEME_NINJA: นินจา
   LABEL_THEME_PARK: Park
   LABEL_THEME_PIRATES: โจรสลัด
-  LABEL_THEME_SCIENCE_FICTION: Science fiction
+  LABEL_THEME_SCIENCE_FICTION: นวนิยายวิทยาศาสตร์
   LABEL_THEME_SUPER_HEROS: ซุปเปอร์ฮีโร่
   LABEL_THEME_VAMPIRE: แวมไพร์
   LABEL_THEME_TIME_TRAVEL: เดินทางข้ามเวลา
@@ -1294,14 +1294,14 @@ th:
   LABEL_THEME_HUNT: ล่า
   LABEL_THEME_ANIME: อนิเมะ
   LABEL_THEME_MILITARY: ทหาร
-  LABEL_THEME_INDUSTRIALIZATION: Industrialization
+  LABEL_THEME_INDUSTRIALIZATION: อุตสาหกรรม
   LABEL_THEME_PET: สัตว์เลี้ยง
   LABEL_THEME_FOOTBALL: Football
   LABEL_THEME_SOCCER: Soccer
   LABEL_THEME_CARTOON: การ์ตูน
   LABEL_THEME_COOK: ทำอาหาร
   LABEL_THEME_URBAN: Urban
-  LABEL_THEME_KAIJU: Kaiju
+  LABEL_THEME_KAIJU: สัตว์ประหลาดยักษ์
   LABEL_THEME_EVOLUTION: วิวัฒนาการ
   LABEL_THEME_CYBERPUNK: ไซเบอร์พังค์
   LABEL_THEME_STEAMPUNK: สตีมพังค์
@@ -1311,15 +1311,15 @@ th:
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: แอ็คชั่นผจญภัย
   LABEL_TYPE_ACTION: แอ็คชั่น
-  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-up
+  LABEL_TYPE_BEAT_THEM_ALL: เดินหน้าลุย
   LABEL_TYPE_VERSUS_FIGHTING: Versus fighting
   LABEL_TYPE_PLATFORMS: แพลตฟอร์ม
   LABEL_TYPE_SHOOT: ยิง
-  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_SHOOT_EM_UP: ยิงพวกมัน
   LABEL_TYPE_FPS: FPS
   LABEL_TYPE_TPS: TPS
-  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
-  LABEL_TYPE_OPEN_WORLD: Open world
+  LABEL_TYPE_HACK_N_SLASH: แฮกแอนด์สแลช
+  LABEL_TYPE_OPEN_WORLD: เกมเปิดโลก
   LABEL_TYPE_HTA_LIKE: HTA-like
   LABEL_TYPE_INFILTRATION: Infiltration
   LABEL_TYPE_SURVIVAL: เอาชีวิตรอด
@@ -1523,7 +1523,7 @@ th:
   LABEL_POSTMORTEM_ESSENTIAL: จำเป็น
   LABEL_MARKET_SHARE: ส่วนแบ่งการตลาด
   LABEL_LICENSE_COST: ใบอนุญาต
-  LABEL_OWNED: Owned
+  LABEL_OWNED: เป็นเจ้าของ
   LABEL_WEEK_COST: Development cost
   LABEL_CATALOG_SIZE: Game catalog size
   LABEL_PLATFORM_LIST: Platform list
@@ -1836,10 +1836,10 @@ th:
     Contracts are now available. Completing a contract gives you money, experience and tips for a specific game genre.
 
   # Placeholder used for forms
-  PLACEHOLDER_COMPANY_NAME: Company name
-  PLACEHOLDER_GAME_GENRE: Game genre
-  PLACEHOLDER_GAME_NAME: Game name
-  PLACEHOLDER_PLAYER_NAME: Your name
+  PLACEHOLDER_COMPANY_NAME: ชื่อบริษัท
+  PLACEHOLDER_GAME_GENRE: ประเภทของเกม
+  PLACEHOLDER_GAME_NAME: ชื่อเกม
+  PLACEHOLDER_PLAYER_NAME: ชื่อของคุณ
 
   LABEL_VERSION_BETA: Beta version
   LABEL_BREAK_LAW: |
@@ -2133,8 +2133,7 @@ th:
   LOADING_SCREEN_TIP_6: >
     The department of bad sales is always right.
   LOADING_SCREEN_TIP_7: >
-    You need servers to host online games, and they are cheaper, but players
-    have to pay monthly to continue playing them.
+    คุณต้องใช้เซิร์ฟเวอร์เพื่อสร้างโฮสต์เกมออนไลน์และเกมเหล่านั้นมีราคาถูกกว่า แต่ผู้เล่นต้องจ่ายรายเดือนเพื่อเล่นเกมต่อ
   LOADING_SCREEN_TIP_8: >
     ไอน์สไตน์ มาสคอตของเรา เห่า 65.13 ครั้งระหว่างการพัฒนา City Game 
     Studio
@@ -2142,16 +2141,14 @@ th:
     เพลงคริสต์มาส 12,654 เพลงถูกเล่นระหว่างการพัฒนา  City Game 
     Studio
   LOADING_SCREEN_TIP_10: >
-    Taking a look at market shares is good, but you also have to take care of
-    the number of games published on a platform.
+    มันเป็นสิ่งที่ดีที่จะดูที่ส่วนแบ่งทางการตลาด แต่คุณยังต้องให้ความสนใจกับจำนวนของเกมที่ออกบนแพลตฟอร์ม
   LOADING_SCREEN_TIP_11: >
-    You want to help translating City Game Studio? Join our discord:
+    คุณต้องการช่วยแปลภาษาของเกม City Game Studio นี้หรือไม่? เข้าร่วมกับเราใน discord:
     https://discord.gg/citygamestudio
   LOADING_SCREEN_TIP_12: >
     เมื่อไฟที่เซิร์ฟเวอร์ของคุณสว่างเป็นสีแดง แสดงว่ามันถูกใช้งานมากเกินไป
   LOADING_SCREEN_TIP_13: >
-    Don't forget to take a coffee break... Ah, the coffee machine is broken
-    again.
+    อย่าลืมพักดื่มกาแฟ... อ่า เครื่องชงกาแฟพังอีกแล้ว
   LOADING_SCREEN_TIP_14: >
     Crunchtime is not a cereal brand, but it is a widespread management
     practice.
