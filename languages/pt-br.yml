@@ -1,12 +1,12 @@
 pt-br:
   # Buttons actions verbs
   BUTTON_READ: Ler
-  BUTTON_ANNOUNCE: Anuncie o jogo
+  BUTTON_ANNOUNCE: Anunciar jogo
   BUTTON_NEW_GAME: Novo jogo
   BUTTON_HIRE: Contratar
   BUTTON_APPLY: Aplicar
   BUTTON_BACK: Voltar
-  BUTTON_BUILD_MODE: Modo de construção
+  BUTTON_BUILD_MODE: Construir
   BUTTON_BUILDING_RENT: Aluguel
   BUTTON_CANCEL: Cancelar
   BUTTON_CANCEL_ALL: Cancelar tudo
@@ -47,19 +47,19 @@ pt-br:
   BUTTON_DELETE_ALL: Deletar tudo
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Não é spam
-  BUTTON_HOLIDAY: Dar folga para o estúdio
-  BUTTON_HOLIDAY_SOLO: Enviar de férias
+  BUTTON_HOLIDAY: Dar folga ao estúdio
+  BUTTON_HOLIDAY_SOLO: Dar folga
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Relatório de erros
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Idiomas
-  BUTTON_CRACK_GAME: Crackear este jogo
+  BUTTON_CRACK_GAME: Crackear jogo
   BUTTON_FORCE_STUDIO_SELL: Forçar venda de estúdio
-  BUTTON_SPY: Espie um concorrente
-  BUTTON_HIRE_THEIR_EMPLOYE: Contratar um funcionário concorrente
+  BUTTON_SPY: Espiar concorrente
+  BUTTON_HIRE_THEIR_EMPLOYE: Contratar funcionário de concorrente
   BUTTON_SELECT: Selecione
   BUTTON_SAVEGAME: Salvar jogo
-  BUTTON_SELL_ITEMS: Vender os móveis
+  BUTTON_SELL_ITEMS: Vender móveis
   BUTTON_CONTINUE: Continuar
   BUTTON_DETAILS: Detalhes
   BUTTON_CHARTS: Gráficos
@@ -70,9 +70,9 @@ pt-br:
   BUTTON_PAY: Pagar
   BUTTON_UPDATE: Atualizar
   BUTTON_EDIT: Editar
-  BUTTON_CONFINE_MOUSE: Confinar o cursor do mouse
-  BUTTON_SHOW_STUDIO: Mostrar o estúdio
-  BUTTON_CANCEL_GAME: Cancelar o jogo
+  BUTTON_CONFINE_MOUSE: Confinar mouse
+  BUTTON_SHOW_STUDIO: Mostrar estúdio
+  BUTTON_CANCEL_GAME: Cancelar jogo
   BUTTON_VIEW_SEQUEL: Ver sequência
   BUTTON_COPY: Copiar
   BUTTON_HIRE_ALL: Contratar todos
@@ -88,15 +88,15 @@ pt-br:
   BUTTON_UNASSIGN: Desatribuir
   BUTTON_REMAKE_CREATE: Criar remake
   BUTTON_VIEW_REMAKE: Veja o remake
-  BUTTON_VIEW_ORIGINAL_GAME: Ver o jogo original
+  BUTTON_VIEW_ORIGINAL_GAME: Ver jogo original
   BUTTON_ACCEPT: Aceitar
   BUTTON_REFUSE: Recusar
   
   # Labels, descriptive
-  LABEL_RESTART_REQUIRED: Reinício necessário
-  LABEL_DARK_MODE: Tema sombrio
+  LABEL_RESTART_REQUIRED: Reinicialização necessário
+  LABEL_DARK_MODE: Tema escuro
   LABEL_LAST_12_MONTHS: Últimos 12 meses
-  LABEL_GOTY_PROBABILITY: Possibilidades de ganhar o Jogo do Ano
+  LABEL_GOTY_PROBABILITY: Possibilidades de ganhar Jogo do Ano
   LABEL_EVENT_STOCK_YEARLY_TITLE: Pagamento anual de dividendos
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
     Prezado [b]%s[/b],
@@ -176,9 +176,9 @@ pt-br:
   LABEL_DEVELOPPER_NAME: Desenvolvedor
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Extremamente positivas
   LABEL_REMAKE_REVIEW_VERY_POSITIVE: Muito positivas
-  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Maioria positivas
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Ligeiramente positivas
   LABEL_REMAKE_REVIEW_MIXED: Neutras
-  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Maioria negativas
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Ligeiramente negativas
   LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Muito negativas
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Extremamente negativas
   LABEL_REMAKE: Remake
@@ -198,7 +198,7 @@ pt-br:
     Pelo menos uma capacidade deve ser selecionada.
 
     (Projeto/Desenvolvimento ou Polimento)
-  LABEL_NEW_COMPETITOR_TITLE: Chega um novo concorrente
+  LABEL_NEW_COMPETITOR_TITLE: Chegou um novo concorrente
   LABEL_NEW_COMPETITOR_DESCRIPTION: |
     [center][img]%s[/img][/center]
 
@@ -337,8 +337,8 @@ pt-br:
     Espera-se que um console mal fabricado falhe com mais frequência.
     Os clientes que compraram um console defeituoso têm sempre
     direito a um reembolso.
-  LABEL_PLATFORM_DISCONTINUE: Interromper a produção
-  LABEL_PLATFORM_CHANGE_PRICE: Modificar o preço
+  LABEL_PLATFORM_DISCONTINUE: Parar produção
+  LABEL_PLATFORM_CHANGE_PRICE: Alterar preço
   LABEL_PLATFORM_UNIT_RETURNED: Unidades devolvidas
   LABEL_PLATFORM_COST_RATIO: Razão de custos
   LABEL_PLATFORM_COMPONENT_CONTROLLER: Controle
@@ -351,7 +351,7 @@ pt-br:
   LABEL_PLATFORM_COMPONENT_HARDDRIVE: Disco rígido
   LABEL_PLATFORM_MAKING_COSTS: Custos de produção
   LABEL_PLATFORM_UNLOCK_COSTS: Custo de desbloqueio
-  LABEL_PLATFORM_DEVELOPMENT_POINTS: Custos do desenvolvimento
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Custos de desenvolvimento
   LABEL_PLATFORM_QUALITY: Qualidade
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Custos de fabricação estimados
   LABEL_PLATFORM_UNIT_PROFIT: Lucro por unidade
