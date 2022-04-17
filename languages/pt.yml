@@ -1,12 +1,12 @@
 pt:
   # Buttons actions verbs
   BUTTON_READ: Ler
-  BUTTON_ANNOUNCE: Anuncie o jogo
+  BUTTON_ANNOUNCE: Anunciar jogo
   BUTTON_NEW_GAME: Novo jogo
   BUTTON_HIRE: Contratar
   BUTTON_APPLY: Aplicar
   BUTTON_BACK: Voltar
-  BUTTON_BUILD_MODE: Modo de construção
+  BUTTON_BUILD_MODE: Construir
   BUTTON_BUILDING_RENT: Aluguel
   BUTTON_CANCEL: Cancelar
   BUTTON_CANCEL_ALL: Cancelar tudo
@@ -28,7 +28,7 @@ pt:
   BUTTON_TOO_BAD: Que pena
   BUTTON_BUY_ANOTHER_ONE: Comprar outro
   BUTTON_ADOPT: Adotar
-  BUTTON_ABANDON: Abandono
+  BUTTON_ABANDON: Abandonar
   BUTTON_ASSIGN_EMPLOYEE: Atribuir
   BUTTON_WITHDRAW_SPECIALISTS: Retirar todos os especialistas
   BUTTON_KEEP_PLAYING: Continue jogando
@@ -47,19 +47,19 @@ pt:
   BUTTON_DELETE_ALL: Eliminar tudo
   BUTTON_SPAM: Spam
   BUTTON_UNSPAM: Não um spam
-  BUTTON_HOLIDAY: Enviar o estúdio em um feriado
+  BUTTON_HOLIDAY: Enviar o estúdio ás ferias
   BUTTON_HOLIDAY_SOLO: Enviar em férias
   BUTTON_MODS: Mods
   BUTTON_BUGREPORT: Relatório de erros
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Idiomas
-  BUTTON_CRACK_GAME: Crackear este jogo
+  BUTTON_CRACK_GAME: Crackear jogo
   BUTTON_FORCE_STUDIO_SELL: Forçar venda de estúdio
   BUTTON_SPY: Espie um concorrente
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar o seu empregado
   BUTTON_SELECT: Selecione
   BUTTON_SAVEGAME: Guardar jogo
-  BUTTON_SELL_ITEMS: Vender os móveis
+  BUTTON_SELL_ITEMS: Vender móveis
   BUTTON_CONTINUE: Continuar
   BUTTON_DETAILS: Detalhes
   BUTTON_CHARTS: Gráficos
@@ -70,9 +70,9 @@ pt:
   BUTTON_PAY: Pagamento
   BUTTON_UPDATE: Atualizar
   BUTTON_EDIT: Editar
-  BUTTON_CONFINE_MOUSE: Confinar o cursor do mouse
-  BUTTON_SHOW_STUDIO: Mostrar o estúdio
-  BUTTON_CANCEL_GAME: Cancelar o jogo
+  BUTTON_CONFINE_MOUSE: Confinar o mouse
+  BUTTON_SHOW_STUDIO: Mostrar estúdio
+  BUTTON_CANCEL_GAME: Cancelar jogo
   BUTTON_VIEW_SEQUEL: Ver sequência
   BUTTON_COPY: Cópia
   BUTTON_HIRE_ALL: Contrate todos
@@ -93,7 +93,7 @@ pt:
   BUTTON_REFUSE: Recusar
 
   # Labels, descriptive
-  LABEL_RESTART_REQUIRED: Reinício necessário
+  LABEL_RESTART_REQUIRED: Reinicialização necessária
   LABEL_DARK_MODE: Tema negro
   LABEL_LAST_12_MONTHS: Últimos 12 meses
   LABEL_GOTY_PROBABILITY: Possibilidades de ganhar o Jogo do Ano
@@ -441,7 +441,7 @@ pt:
     Ao enviar o item, você estará aceitando os [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]Termos de Serviço da Oficina[/url]
   LABEL_MOD_VERSION: Versão
   LABEL_MOD_CREATE: Criar um mod
-  LABEL_MOD_LIST: Mods da lista
+  LABEL_MOD_LIST: Lista de mods
   LABEL_MOD_NAME: Nome
   LABEL_MOD_DESCRIPTION: Descrição
   LABEL_MOD_LANGUAGE: Idioma
@@ -468,7 +468,7 @@ pt:
     Estou encantado por ver que o vosso estúdio publica jogos de qualidade. Estou aqui para falar sobre [b]%s[/b], este jogo parece promissor, e gostaria de o ajudar a fazer do seu lançamento um sucesso mundial! [b]%s[/b] será apresentado, e nós embalaremos o seu jogo com a nossa consola. Em troca, queremos que este jogo seja um exclusivo da [b]%s[/b]. [i](Todas as portas para consolas não-[b]%s[/b] serão canceladas)[/i]
     Além de mostrar o seu jogo, oferecemos-lhe [b]%s$[/b]. Temos um acordo?
   LABEL_CLOUDS: Mostrar nuvens no mapa
-  LABEL_AUTOSAVE: Poupança automática
+  LABEL_AUTOSAVE: Salvamento automático
   LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
     Um concorrente está a utilizar o seu motor de jogo
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
