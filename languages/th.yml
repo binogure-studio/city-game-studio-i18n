@@ -301,7 +301,7 @@ th:
   LABEL_PLATFORM_LIST_GAME: รายชื่อวิดีโอเกม
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: ส่วนประกอบใหม่พร้อมใช้งาน
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
-    Hello %s,
+    สวัสดี %s,
 
     ฉันมีความยินดีเป็นอย่างยิ่งที่จะประกาศการเปิดตัวส่วนประกอบใหม่
 
@@ -313,15 +313,15 @@ th:
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_TITLE: รายงานการขายคอนโซล
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
-    Hello %s,
+    สวัสดี %s,
 
-    Another email to fill your mailbox. But it's for a good cause.
-    I'm here to tell you about a reduction in manufacturing costs.
+    อีเมล์อื่นจะเติมกล่องจดหมายของคุณ แต่นั่นเป็นเหตุผลที่ดี
+    ฉันมาที่นี่เพื่อบอกให้คุณลดค่าใช้จ่ายในการผลิต
 
     %s
 
-    That will be all,
-    Have a nice day.
+    แค่นั้นแหละ,
+    ขอให้มีความสุข
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
     [b]%s[/b]'s ต้นทุนการผลิตลดลง [b]%s%%[/b].
@@ -330,7 +330,7 @@ th:
   LABEL_PLATFORM_NO_COMPONENT: |
     ไม่มีส่วนประกอบที่เลือก
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: ลดต้นทุนการผลิต
-  LABEL_FILTER_PLATFORM_RELEASED: Released platforms
+  LABEL_FILTER_PLATFORM_RELEASED: แพลตฟอร์มที่วางจำหน่าย
   LABEL_FILTER_PLATFORM_DISCONTINUED: แพลตฟอร์มที่หยุดจำหน่าย
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     ปรับคุณภาพคอนโซล
@@ -463,10 +463,10 @@ th:
   LABEL_GAME_EXCLUSIVITY: >
     เกมนี้เป็นเอ็กซ์คลูซีฟกับ %s
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
-    Hello [b]%s[/b],
+    สวัสดี [b]%s[/b],
 
-    I'm delighted to see that your studio publishes quality games. I'm here to talk about [b]%s[/b], this game looks promising, and I'd like to help you make its release a worldwide success! [b]%s[/b] will be featured, and we will pack your game with our console. In return, we want this game to be a [b]%s[/b] exclusive. [i](All ports to non-[b]%s[/b] consoles will be canceled)[/i]
-    In addition to showcasing your game, we offer you [b]%s$[/b]. Do we have a deal?
+    ฉันดีใจที่เห็นว่าสตูดิโอของคุณเผยแพร่เกมที่มีคุณภาพ ฉันมาที่นี่เพื่อพูดคุยเกี่ยวกับ [b]%s[/b], เกมนี้ดูมีความหวังและฉันต้องการช่วยให้คุณเผยแพร่ให้ประสบความสำเร็จทั่วโลก! [b]%s[/b] จะนำเสนอและเราจะแพ็คเกมของคุณด้วยคอนโซลของเรา เป็นการตอบแทน เราต้องการให้เกมนี้เป็น [b]%s[/b] เอ็กซ์คลูซีฟ [i](พอร์ตทั้งหมดไปยัง[b]%s[/b] คอนโซลจะถูกยกเลิก)[/i]
+    นอกจากการจัดแสดงเกมของคุณแล้ว เราขอเสนอให้คุณ [b]%s$[/b]. เราตกลงกันได้หรือยัง?
   LABEL_CLOUDS: แสดงเมฆบนแผนที่
   LABEL_AUTOSAVE: บันทึกอัตโนมัติ
   LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
@@ -488,7 +488,7 @@ th:
   LABEL_PLATFORM_MANUFACTURER_MAIN: |
     ฉันจะทำอะไรให้คุณได้บ้าง?
   LABEL_PLATFORM_MANUFACTURER_ANGRY: |
-    Don't waste my time kiddo!
+    อย่าทำให้ฉันเสียเวลาเลย ไอ้หนู!
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
     คุณไม่สามารถเผยแพร่เกมบนแพลตฟอร์มนี้ได้เพราะ
     คุณต้องเจรจาเพื่อปลดล็อก
@@ -529,32 +529,32 @@ th:
   LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
     ขอบคุณสำหรับเวลาของคุณ
   LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
-    After the poor results in the last quarter of 1982 and early 1983, Wataggi announces declining results
-    in the console market. The leader in video games is far from reaching its objectives by selling a few
-    hundred consoles and barely some 2500 cassettes. The health report is also largely negative as far as
-    home computers are concerned, which confirms the uncertainties that characterize this market today.
+    หลังจากผลประกอบการที่ย่ำแย่ในไตรมาสสุดท้ายของปี 1982 และต้นปี 1983 Wataggi ประกาศผลประกอบการ ที่ลดลง
+    ในตลาดคอนโซล ผู้นำในวิดีโอเกมยังห่างไกลจากการบรรลุเป้าหมายด้วยการขาย
+    คอนโซลสองสามร้อยเครื่องและเทปคาสเซ็ตเพียง 2500 ตลับเท่านั้น รายงานด้านสุขภาพยังเป็นลบอย่างมาก
+    สำหรับเครื่องคอมพิวเตอร์ที่บ้าน ซึ่งยืนยันถึงความไม่แน่นอนที่เป็นลักษณะของตลาดในปัจจุบัน
 
-    The major players in the video game industry are expecting difficult months
-    ahead and there is no indication today that things will improve.
+    ผู้เล่นหลักในอุตสาหกรรมวิดีโอเกมคาดว่าจะมีเดือนที่ยากลำบาก
+    ข้างหน้า และปัจจุบันยังไม่มีข้อบ่งชี้ว่าสิ่งต่างๆ จะดีขึ้น
   LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
-    The market is collapsing
+    ตลาดกำลังล่มสลาย
   LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
-    In the middle of the summer, Wataggi, the leader in the video game market, announced losses of $356 million.
-    Plastics was experiencing very serious difficulties and was withdrawing from the market. The rumor was that
-    the video game market was collapsing to make way for microcomputers.
+    กลางฤดูร้อน Wataggi ผู้นำในตลาดวิดีโอเกมประกาศขาดทุน 356 ล้านดอลลาร์
+    Plastics ประสบปัญหาร้ายแรงและกำลังถอนตัวออกจากตลาด มีข่าวลือว่า
+    ตลาดวิดีโอเกมกำลังพังทลายเพื่อหลีกทางให้ไมโครคอมพิวเตอร์
 
-    In fact, the losses of Wataggi and Plastics, relayed by the fall of the shares on the New York Stock Exchange,
-    created an unjustified panic. With 2 billion dollars in annual sales in the United States, video games remain
-    a solid industry. But the spectacular growth of the last two years has levelled off somewhat. The market is
-    moving both up-market, where Roberto Industries' RobertoVision console competes with home microcomputers -
-    and down-market, for devices with a satisfactory price/performance ratio.
+   อันที่จริง ความสูญเสียของ Wataggi และ Plastics ซึ่งเกิดจากการล่มสลายของหุ้นในตลาดหลักทรัพย์นิวยอร์ก ทำให้
+   เกิดความตื่นตระหนกอย่างไม่ยุติธรรม ด้วยยอดขาย 2 พันล้านดอลลาร์ต่อปีในสหรัฐอเมริกา วิดีโอเกมยังคง
+   เป็นอุตสาหกรรมที่มั่นคง แต่การเติบโตที่น่าทึ่งของสองปีที่ผ่านมาได้ลดระดับลงบ้าง ตลาดกำลัง
+   เคลื่อนไหวทั้งในตลาดบน โดยที่คอนโซล RobertoVision ของ Roberto Industries แข่งขันกับไมโครคอมพิวเตอร์ในบ้าน
+   และตลาดล่าง สำหรับอุปกรณ์ที่มีอัตราส่วนราคา/ประสิทธิภาพที่น่าพอใจ
   LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
-    The market is stabilizing
+    ตลาดมีเสถียรภาพ
   LABEL_PLATFORM_TYPE: ประเภทแพลตฟอร์ม
   LABEL_PLATFORM_OS: PC
   LABEL_PLATFORM_CONSOLE: คอนโซล
   LABEL_PLATFORM_HANDLED: คอนโซลพกพา
-  LABEL_WITHDRAW_EMPLOYEE: Withdraw employee
+  LABEL_WITHDRAW_EMPLOYEE: ถอนพนักงาน
   TOOLTIP_GAME_UPDATE_EXPECTATION: |
     เลือกฟีเจอร์ที่จะอัปเดตเพื่อตอบสนอง
     ความคาดหวังของผู้เล่น
