@@ -23,7 +23,7 @@ es:
   BUTTON_RESET: Reiniciar
   BUTTON_SKIP: Omitir
   BUTTON_START: Iniciar
-  BUTTON_NEED_STUDIO: Estudios no disponibles
+  BUTTON_NEED_STUDIO: No hay estudios disponibles
   BUTTON_CLEAR_EVENTS: Limpiar eventos
   BUTTON_TOO_BAD: Muy mal
   BUTTON_BUY_ANOTHER_ONE: Comprar otro
@@ -49,7 +49,7 @@ es:
   BUTTON_UNSPAM: No es spam
   BUTTON_HOLIDAY: Enviar de vacaciones
   BUTTON_HOLIDAY_SOLO: Enviar de vacaciones
-  BUTTON_MODS: Mods (workshop)
+  BUTTON_MODS: Mods Instalados (Workshop)
   BUTTON_BUGREPORT: Informe de errores
   BUTTON_FEEDBACK: Cuéntame que tal :D
   DROPDOWN_LANGUAGE: Idiomas
@@ -72,15 +72,15 @@ es:
   BUTTON_EDIT: Editar
   BUTTON_CONFINE_MOUSE: Bloquear el cursor
   BUTTON_SHOW_STUDIO: Ir al estudio
-  BUTTON_CANCEL_GAME: Cancelar el juego
+  BUTTON_CANCEL_GAME: Cancelar juego
   BUTTON_VIEW_SEQUEL: Ver secuela
   BUTTON_COPY: Copia
-  BUTTON_HIRE_ALL: Contratar a todo el mundo
+  BUTTON_HIRE_ALL: Contratar a todos
   BUTTON_HIRE_AND_ASSIGN: Contratar y asignar
   BUTTON_TRAINING_START: Empezar a entrenar
   BUTTON_TRAINING_STOP: Detener el entrenamiento
-  BUTTON_CANCEL_CONTRACT: Cancelar el contrato
-  BUTTON_CANCEL_GAMEPORT: Cancelar el port del juego
+  BUTTON_CANCEL_CONTRACT: Cancelar contrato
+  BUTTON_CANCEL_GAMEPORT: Cancelar port del juego
   BUTTON_CANCEL_FEATURE: Cancelar la funcionalidad
   BUTTON_CANCEL_GAMEENGINE: Cancelar el motor del juego
   BUTTON_CANCEL_GAMEUPDATE: Cancelar la actualización gratuita
@@ -93,7 +93,7 @@ es:
   BUTTON_REFUSE: Rechazar
 
   # Etiquetas, descripciones
-  LABEL_RESTART_REQUIRED: Es necesario reiniciar
+  LABEL_RESTART_REQUIRED: Es necesario reiniciar el juego
   LABEL_DARK_MODE: Tema oscuro
   LABEL_LAST_12_MONTHS: Últimos 12 meses
   LABEL_GOTY_PROBABILITY: Probabilidades de ganar el partido del año
@@ -159,9 +159,9 @@ es:
   LABEL_FILTER_ONLY_NO_CONTRACTS: Sin contrato
   LABEL_FILTER_ONLY_CONTRACTS: Con contrato
   TOOLTIP_SELECT_DIFFICULTY: |
-    Seleccione un nivel de dificultad
+    Seleccione una dificultad
   LABEL_EASY: Fácil
-  LABEL_HARD: Desafiante
+  LABEL_HARD: Dificil
   LABEL_REMAKE_ENGINE_BAD: >
     No hay nada nuevo en este remake. Parece el mismo juego.
   LABEL_REMAKE_ENGINE_OK: >
@@ -172,7 +172,7 @@ es:
   LABEL_REMAKE_CPU_USAGE: Uso de la CPU del juego original
   LABEL_REMAKE_GPU_USAGE: Uso de la GPU del juego original
   LABEL_REMAKE_TOOLTIP: |
-    Elige qué características del motor del juego quieres añadir al remake.
+    Elige qué características del motor de juegos quieres añadir al remake.
     Para un gran remake, utiliza características más nuevas que el juego original.
   LABEL_REMAKE_REVIEW: Reseñas generales
   LABEL_DEVELOPPER_NAME: Desarrollador
@@ -210,13 +210,13 @@ es:
 
     Queda por ver cómo afectará esto a las empresas de videojuegos ya presentes en City Game Studio.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
-    Jefe, [b]%s[/b] está siendo hackeado.
+    Jefe, [b]%s[/b] estámos siendo hackeado.
     ¡Debemos hacer algo para detenerlo antes de que sea demasiado tarde!
     ¡Sólo tienes que decir una palabra!
   LABEL_MINIGAME_DEFEND_START: |
     ¡Vamos!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
-    ¡Deja que pase!
+    ¡No hagamos nada!
   LABEL_MINIGAME_LOSE: |
     Su juego está disponible gratuitamente en el mercado.
     Las ventas serán un éxito.
@@ -264,7 +264,7 @@ es:
   LABEL_MISC: Varios
   LABEL_MINUTES: minutos
   LABEL_VIEW_MORE: Ver más...
-  LABEL_GAME_INDUSTRY_NEWS: Noticias de la industria del juego
+  LABEL_GAME_INDUSTRY_NEWS: Noticias de la industria del videojuego
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s adquiere %s por %s"
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
     El desarrollador y editor de videojuegos detrás de [b]%s[/b] ha sido adquirido por [b]%s[/b] por una oferta valorada en [b]%s[/b].
@@ -338,13 +338,13 @@ es:
     Se espera que una consola mal fabricada falle más a menudo.
     Los clientes que hayan comprado una consola defectuosa
     siempre tienen derecho a un reembolso.
-  LABEL_PLATFORM_DISCONTINUE: Detener la producción
+  LABEL_PLATFORM_DISCONTINUE: Detener producción
   LABEL_PLATFORM_CHANGE_PRICE: Modificar el precio
   LABEL_PLATFORM_UNIT_RETURNED: Unidades devueltas
   LABEL_PLATFORM_COST_RATIO: Razón de costos
-  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controlador
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Control
   LABEL_PLATFORM_COMPONENT_CPU: Procesador
-  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartucho
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartucho/Disco
   LABEL_PLATFORM_COMPONENT_MEMORY: Memoria
   LABEL_PLATFORM_COMPONENT_GPU: Tarjeta Grafica
   LABEL_PLATFORM_COMPONENT_SCREEN: Pantalla
@@ -466,7 +466,7 @@ es:
 
     Estoy encantado de ver que su estudio publica juegos de calidad. Estoy aquí para hablar de [b]%s[/b], este juego parece prometedor, y me gustaría ayudaros a que su lanzamiento sea un éxito mundial! [b]%s[/b] será presentado, y empaquetaremos tu juego con nuestra consola. A cambio, queremos que este juego sea una exclusiva de [b]%s[/b]. [i](Todos los ports de las consolas que no sean [b]%s[/b] serán cancelados)[/i]
     Además de mostrar tu juego, te ofrecemos [b]%s$[/b]. ¿Tenemos un trato?
-  LABEL_CLOUDS: Mostrar las nubes en el mapa
+  LABEL_CLOUDS: Mostrar nubes en el mapa
   LABEL_AUTOSAVE: Guardado Automatico
   LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
     Un competidor está usando tu motor de juego
@@ -487,7 +487,7 @@ es:
   LABEL_PLATFORM_MANUFACTURER_MAIN: |
     ¿Qué puedo hacer por usted?
   LABEL_PLATFORM_MANUFACTURER_ANGRY: |
-    ¡No me hagas perder el tiempo, niña!
+    ¡No me hagas me hagas perder tiempo, niñito!
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
     No puedes publicar juegos en esta plataforma
     porque tienes que negociar para desbloquearla.
@@ -604,7 +604,7 @@ es:
   LABEL_IAP_RARITY_LEGENDARY: Legendario
   LABEL_FINANCIAL_DETAILS: Detalles financieros
   LABEL_AD_NAME: Publicidad
-  LABEL_AD_POPUP: Popup de anuncios
+  LABEL_AD_POPUP: Anuncios Popup
   LABEL_AD_BANNER: Banner de anuncios
   LABEL_NUMBER_OF_PLAYER: Número de jugadores
   LABEL_GAME_ENGINE_LIST: Lista de motores de juego
@@ -674,7 +674,7 @@ es:
     para el motor de juego [b]%s[/b]
 
     Saludos,
-    BinoPal
+    Binogure
   LABEL_GAMEENGINE_FEATURE_TITLE: Nueva característica implementada
   LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
     Hola,
@@ -728,7 +728,7 @@ es:
   LABEL_GAME_ENGINE_DIFFICULTY: "Dificultad fija"
   LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: "Dificultad dinamica"
   LABEL_GAME_ENGINE_MAP_EDITOR: "Editor de mapas"
-  LABEL_GAME_ENGINE_MOD_SUPPORT: "Soporte para Mods"
+  LABEL_GAME_ENGINE_MOD_SUPPORT: "Soporte de Mods"
   LABEL_GAME_ENGINE_MONO_SOUND: "Sonido mono"
   LABEL_GAME_ENGINE_MIDI_SOUND: "Sonido Midi"
   LABEL_GAME_ENGINE_STEREO_SOUND: "Sonido estéreo"
