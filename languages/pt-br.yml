@@ -1837,7 +1837,7 @@ pt-br:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Enviar e-mails não custa quase nada e vai influenciar as vendas de seus jogos
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    Você pode portar seus jogos para novas plataformas, é simples e apenas uma pessoa é necessária.
+    Você pode portar seus jogos para novas plataformas.
   LABEL_UNLOCK_GAMEGENRE: Você ganhou experiência na criação de jogos, você se sente pronto para desenvolver uma nova mecânica de jogo
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Agora você pode desbloquear novos gêneros de jogos. Para ganhar pontos de experiência, basta publicar jogos
@@ -1870,8 +1870,20 @@ pt-br:
   LABEL_STUDIO_SOLD: Eles venderam %s
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Este gênero não é mais único porque já foi criado por alguma outra empresa.
+  LABEL_RELATIONSHIP_FRIENDLY: Friendly
+  LABEL_RELATIONSHIP_NEUTRAL: Neutro
+  LABEL_RELATIONSHIP_UNFRIENDLY: Não amigável
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    Com um bom relacionamento, você pode obter melhores ofertas.
+    Por outro lado, um relacionamento pobre leva a negociações mais duras.
+
+    As relações melhoram quando você publica jogos em seu console.
+    Ou quando você aceita contratos exclusivos, ou quando compra uma licença.
+
+    Os relacionamentos pioram quando você recusa um contrato exclusivo,
+    ou quando você inicia uma discussão sem comprar uma licença.
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     Adicionar máquinas de venda automática, plantas ou máquinas de café para melhorar seu local de trabalho.
   TOOLTIP_EMPLOYEE_BORED_GENRE: |

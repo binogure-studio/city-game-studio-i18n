@@ -1858,8 +1858,7 @@ ko:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     이메일을 이용하면 저렴한 비용으로 게임의 판매량을 증가시킬 수 있습니다.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    단 한명만 있으면 개발이 완료된 게임을
-    다른 플랫폼으로 이식할 수 있습니다.
+    단 한명만 있으면 개발이 완료된 게임을.
   LABEL_UNLOCK_GAMEGENRE: 충분한 게임 개발 경험이 쌓여 새로운 장르의 게임을 개발할 수 있습니다.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     이제 게임을 발매할 때 생성되는 장르 점수를 모아,
@@ -1867,8 +1866,19 @@ ko:
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
     다른 회사의 게임을 하청 받아 개발 할 수 있으며,
     이에 대한 보상으로 수익과 장르 점수 등을 얻을 수 있습니다.
+  LABEL_RELATIONSHIP_FRIENDLY: 친숙한
+  LABEL_RELATIONSHIP_NEUTRAL: 중립적
+  LABEL_RELATIONSHIP_UNFRIENDLY: 해로운
 
-  # Placeholder used for forms
+  # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    좋은 관계를 유지하면 더 좋은 제안을 받을 수 있습니다.
+    반면에 열악한 관계는 협상을 더 어렵게 만듭니다.
+
+    콘솔에 게임을 게시하면 관계가 개선됩니다.
+    또는 독점 계약을 수락하거나 라이센스를 구입할 때.
+
+    전속계약을 거부하거나 라이선스를 구매하지 않고 토론을 시작하면 관계가 악화됩니다.
   PLACEHOLDER_COMPANY_NAME: 회사명
   PLACEHOLDER_GAME_GENRE: 장르
   PLACEHOLDER_GAME_NAME: 게임명

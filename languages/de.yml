@@ -1839,7 +1839,7 @@ de:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Der Versand von E-Mails kostet fast nichts und beeinflusst den Verkauf Ihrer Spiele.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    Du kannst deine Spiele auf neue Plattformen portieren, es ist einfach und es wird nur eine Person benötigt.
+    Du kannst deine Spiele auf neue Plattformen portieren.
   LABEL_UNLOCK_GAMEGENRE: Du hast Erfahrung in der Entwicklung von Spielen gesammelt, du fühlst dich bereit, neue Spielmechaniken zu entwickeln.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Du kannst jetzt neue Spielgenres freischalten. Um Erfahrungspunkte zu sammeln, musst du nur Spiele veröffentlichen.
@@ -1871,8 +1871,20 @@ de:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Dieses Genre ist nicht mehr einzigartig,
     weil es bereits von einem anderen Unternehmen geschaffen wurde.
+  LABEL_RELATIONSHIP_FRIENDLY: Freundlich
+  LABEL_RELATIONSHIP_NEUTRAL: Neutral
+  LABEL_RELATIONSHIP_UNFRIENDLY: Unfreundlich
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    Mit einer guten Beziehung können Sie bessere Angebote erhalten.
+    Andererseits führt eine schlechte Beziehung zu härteren Verhandlungen.
+
+    Die Beziehungen verbessern sich, wenn Sie Spiele auf deren Konsole veröffentlichen.
+    Oder wenn Sie Exklusivverträge annehmen oder eine Lizenz kaufen.
+
+    Die Beziehungen verschlechtern sich, wenn Sie einen Exklusivvertrag ablehnen oder
+    wenn Sie eine Diskussion beginnen, ohne eine Lizenz zu kaufen.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Sie haben ein exklusives Angebot unterzeichnet.
     Dieses Spiel kann nicht auf eine andere Konsole portiert werden und muss mindestens ein Jahr lang im Handel erhältlich sein.
@@ -1883,7 +1895,6 @@ de:
   TOOLTIP_CONCURRENT_PAY_TO: >
     Da das Spiel %s die Erwartungen von %s nicht erfüllt hat, müssen Sie eine Strafe von %s$ zahlen.
     Da Sie nur %s$ haben, sollten Sie besser eine Hypothek aufnehmen, um den Bankrott zu vermeiden.
-
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     Fügen Sie Verkaufsautomaten, Pflanzen oder Kaffeemaschinen hinzu, um Ihren Arbeitsplatz zu verbessern.
   TOOLTIP_EMPLOYEE_BORED_GENRE: |

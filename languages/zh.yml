@@ -1747,7 +1747,7 @@ zh:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     发送电子邮件几乎不花费任何费用，但能对游戏销售情况产生巨大影响。
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    你可以将游戏移植到新平台，这很简单，只需要一个人。
+    你可以将游戏移植到新平台，这很简单。
   LABEL_UNLOCK_GAMEGENRE: 你已经获得了制作游戏的经验，你已经准备好开发新的游戏机制。
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     你现在可以解锁新的游戏类别。要获得经验值，你只需发布游戏。
@@ -1776,8 +1776,17 @@ zh:
   LABEL_STUDIO_SOLD: 他们卖掉了%s
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     这种类型不再是独特的，因为它已经被其他一些公司创造了。
+  LABEL_RELATIONSHIP_FRIENDLY: 友好
+  LABEL_RELATIONSHIP_NEUTRAL: 中立
+  LABEL_RELATIONSHIP_UNFRIENDLY: 不友好
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    有了良好的关系，你可以得到更好的报价。另一方面，关系不好会导致谈判更加艰难。
+
+    当你在他们的游戏机上发布游戏时，关系就会改善。或者当你接受独家合同，或购买许可证时。
+
+    当你拒绝独家合同时，或者当你开始讨论而不购买许可证时，关系就会变差。
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     增加自动售货机、植物或咖啡机以改善其工作场所。
   TOOLTIP_EMPLOYEE_BORED_GENRE: |

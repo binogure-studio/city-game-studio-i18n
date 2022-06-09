@@ -1826,7 +1826,7 @@ fr:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Envoyez des emails ne vous coûtera presque rien et cela influencera les ventes de vos jeux
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    Vous pouvez porter vos jeux sur de nouvelles plateformes, c'est simple et une seule personne suffit.
+    Vous pouvez porter vos jeux sur de nouvelles plateformes.
   LABEL_UNLOCK_GAMEGENRE: Vous avez acquis de l'expérience en faisant des jeux, vous vous sentez prêt à développer de nouvelles mécaniques de jeu
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Vous pouvez désormais débloquer des nouveaux genres de jeux. Pour gagner des points d'expériences, il vous suffit de publier des jeux
@@ -1900,8 +1900,20 @@ fr:
     Vous devriez faire un jeu un petit peu moins grand pour mieux le vendre.
     Pour faire grandir le nombre de fan, vous pouvez aussi répondre aux offres de publications
     des autres studios.
+  LABEL_RELATIONSHIP_FRIENDLY: Amical
+  LABEL_RELATIONSHIP_NEUTRAL: Neutre
+  LABEL_RELATIONSHIP_UNFRIENDLY: Hostile
 
-  # Tooltips
+  # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    Une bonne relation permet d'avoir des offres plus avantageuses.
+    A l'inverse avoir une mauvaise relation rendra les négociations plus hardues.
+
+    Votre relation s'améliore lorsque vous publiez des jeux sur leur console.
+    Ou lorsque vous acceptez des contrats d'exclusivités, ou achetez une license.
+
+    Votre relation se dégrade lorsque vous refusez un contrat d'exclusivité,
+    ou lorsque vous entamez une discussion sans acheter de license.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Vous avez signé une offre exclusivité.
     Vous ne pouvez pas porter ce jeu sur une autre console, et ce jeu doit rester en vente pour une durée minimale de un an.

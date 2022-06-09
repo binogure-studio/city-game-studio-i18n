@@ -1812,7 +1812,7 @@ tr:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     E-posta göndermek size hemen hemen hiçbir şeye mal olmaz ve oyunlarınızın satışlarını etkiler
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    Oyunlarınızı yeni platformlara taşıyabilirsiniz, basit ve tek bir kişiye ihtiyaç var.
+    Oyunlarınızı yeni platformlara taşıyabilirsiniz.
   LABEL_UNLOCK_GAMEGENRE: Oyun yapımında tecrübe kazandınız, yeni oyun mekaniği geliştirmeye hazırsınız
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     Artık yeni oyun türlerinin kilidini açabilirsiniz. Tecrübe puanı kazanmak için sadece oyun yayınlamanız gerekiyor.
@@ -1843,8 +1843,20 @@ tr:
   LABEL_STUDIO_SOLD: "%s sattılar"
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Bu tür artık başka bir şirket tarafından yaratıldığı için benzersiz değil.
+  LABEL_RELATIONSHIP_FRIENDLY: Dostça
+  LABEL_RELATIONSHIP_NEUTRAL: Nötr
+  LABEL_RELATIONSHIP_UNFRIENDLY: Düşmanca
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    İyi bir ilişki ile daha iyi teklifler alabilirsiniz.
+    Öte yandan, kötü bir ilişki daha zorlu müzakerelere yol açar.
+
+    Onların konsolunda oyun yayınladığınızda ilişkiler gelişir.
+    Ya da özel sözleşmeleri kabul ettiğinizde veya bir lisans satın aldığınızda.
+
+    Özel bir sözleşmeyi reddettiğinizde ya da lisans satın
+    almadan görüşmeye başladığınızda ilişkiler kötüleşir.
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     İş yerini iyileştirmek için otomatlar, bitkiler veya kahve makineleri ekleyin.
   TOOLTIP_EMPLOYEE_BORED_GENRE: |

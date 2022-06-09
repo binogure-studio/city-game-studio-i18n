@@ -1823,7 +1823,7 @@ en:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Sending emails will cost you almost nothing and will influence the sales of your games.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    You can port your games to new platforms. It's simple and only one person is needed.
+    You can port your games to new platforms.
   LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games. You feel ready to develop new game mechanics.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     You can now unlock new game genres. To earn experience points, you just have to publish games.
@@ -1855,8 +1855,20 @@ en:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     This genre is no longer unique because it has already
     been created by some other company.
+  LABEL_RELATIONSHIP_FRIENDLY: Friendly
+  LABEL_RELATIONSHIP_NEUTRAL: Neutral
+  LABEL_RELATIONSHIP_UNFRIENDLY: Unfriendly
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    With a good relationship, you can get better offers.
+    On the other hand, a poor relationship leads to tougher negotiations.
+
+    Relationships improve when you publish games on their console.
+    Or when you accept exclusive contracts, or buy a license.
+
+    Relationships get worse when you refuse an exclusive contract,
+    or when you start a discussion without buying a license.
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     Add vending machines, plants or coffee machines to improve its work place.
 

@@ -1828,7 +1828,7 @@ th:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     Sending emails will cost you almost nothing and will influence the sales of your games.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    You can port your games to new platforms. It's simple and only one person is needed.
+    You can port your games to new platforms.
   LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games. You feel ready to develop new game mechanics.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     You can now unlock new game genres. To earn experience points, you just have to publish games.
@@ -1860,8 +1860,17 @@ th:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     This genre is no longer unique because it has already
     been created by some other company.
+  LABEL_RELATIONSHIP_FRIENDLY: เป็นกันเอง
+  LABEL_RELATIONSHIP_NEUTRAL: เป็นกลาง
+  LABEL_RELATIONSHIP_UNFRIENDLY: ไม่เป็นมิตร
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    ด้วยความสัมพันธ์ที่ดี คุณจะได้รับข้อเสนอที่ดีขึ้น ในทางกลับกัน ความสัมพันธ์ที่ไม่ดีนำไปสู่การเจรจาที่เข้มงวดขึ้น
+
+    ความสัมพันธ์จะดีขึ้นเมื่อคุณเผยแพร่เกมบนคอนโซลของพวกเขา หรือเมื่อคุณยอมรับสัญญาผูกขาดหรือซื้อใบอนุญาต
+
+    ความสัมพันธ์จะแย่ลงเมื่อคุณปฏิเสธสัญญาผูกขาด หรือเมื่อคุณเริ่มการสนทนาโดยไม่ซื้อใบอนุญาต
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     เพิ่มตู้จำหน่ายสินค้าอัตโนมัติ พืช หรือเครื่องชงกาแฟเพื่อปรับปรุงสถานที่ทำงาน
   TOOLTIP_EMPLOYEE_BORED_GENRE: |

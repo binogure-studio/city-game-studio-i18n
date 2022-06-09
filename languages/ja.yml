@@ -1820,7 +1820,7 @@ ja:
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
     メールの送信にはほとんどコストがかかりませんし、ゲームの売り上げにも影響します。
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    あなたのゲームを新しいプラットフォームに移植することができます。簡単ですし、一人だけで開発できます。
+    あなたのゲームを新しいプラットフォームに移植することができます。
   LABEL_UNLOCK_GAMEGENRE: ゲーム制作の経験を積み、新しいゲームジャンルを開発する準備ができました。
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
     新しいジャンルのゲームをアンロックできるようになりました。経験値を獲得するには、ゲームを公開する必要があります。
@@ -1852,8 +1852,19 @@ ja:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     このジャンルはすでにどこかの会社が作ったものなので
     独自性はありません。
+  LABEL_RELATIONSHIP_FRIENDLY: 友好的
+  LABEL_RELATIONSHIP_NEUTRAL: Neutral
+  LABEL_RELATIONSHIP_UNFRIENDLY: 非友好的
 
   # Tutoriel labels
+  TOOLTIP_RELATIONSHIP: |
+    良い関係であれば、より良いオファーを得ることができます。
+    逆に、関係が悪いと交渉が厳しくなる。
+
+    そのゲーム機でゲームを出すと関係が良くなる。あるいは、
+    独占契約を受けたり、ライセンスを購入したりすると関係が良くなる。
+
+    独占契約を断ったり、ライセンスを買わずに話を始めると関係が悪くなる。
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
     自動販売機、植物、コーヒーメーカーを追加して、職場を改善する。
   TOOLTIP_EMPLOYEE_BORED_GENRE: |
