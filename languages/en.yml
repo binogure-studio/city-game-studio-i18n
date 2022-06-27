@@ -93,6 +93,39 @@ en:
   BUTTON_REFUSE: Refuse
 
   # Labels, descriptive
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: "Grantendo/Deny partnership"
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
+    The word is in, and that word is CD-ROM for the [b]Super Grantendo[/b]! [b]Grantendo[/b] hannounced that a CD-ROM drive for use with the [b]Super Grantendo[/b] would be introduced in January of 1993. Shortly thereafter, [b]Grantendo[/b]'s third-party licensee developers received technical specification for the new drive and were invited to a conference devoted to explaining the new hardware in detail. There they will learn about the outstanding capabilities of the Super GES CD-ROM drive including full-screen, full-motion video, XA compatibility and the unit's 8 megs of RAM. Unless you're an engineer, however, much of that technical jargon might not mean much.
+
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION: |
+    A day after [b]Deny[/b] announced a deal with [b]Grantendo[/b], to make electronic game consoles, [b]Grantendo[/b] announced that it had struck a deal with [b]Moris[/b], one of [b]Deny[/b]'s principal rivals.
+
+    The [b]Grantendo[/b] Company evidently turned to [b]Moris[/b], the Dutch electronics giant, to try to maintain its domination of the $4.7 billion video game market after signing what some experts say is an unfavorable deal wit the [b]Deny[/b] Corporation.
+
+    For consumers the result is another confusing choice when the game consoles reach the martket next year.
+
+    [b]Deny[/b] plans to release its own games on compact disks for the [b]GameStation[/b]. The [b]Moris[/b] announcements and the ensuing confusion over [b]Grantendo[/b]'s relationship with [b]Deny[/b] upstaged [b]Grantendo[/b]'s long-planned introduction of a more powerful version of its popular video game system.
+
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: "Saga announces the first VR console"
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    Virtual reality.
+
+    Starting with the science-fiction concept of computer operators immersing themselves in an artificial environment, the term virtual reality (or VR) has been adopted by the marketing community and applied in varying degrees of appropriateness to everything from Virtuality game centers to the latest first-person perspective game. Purists contend that it should at least provide a 3-D audio-visual environment that appears to surround the player and with which he or she can interact.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b] announced a VR helmet in the works, for use with its console system. It's currently scheduled for release in [b]spring 1993[/b]. There are far more elaborate (and costly) systems under development, involving motion sensors and gauntlets, chambers with surrounding video and multi-source sound. For the time being the gaming community may have to settle for goggles and earphones at home.
+  LABEL_SAGA_RV_VANISHES: |
+    After being featured in several magazines, as well as at numerous trade shows, the headset made its final appearance in 1993. It was shown behind closed doors to a thoroughly underwhelmed audience, with one journalist writer describing the game he played as an unresponsive blur which quickly lost any and all appeal.
+
+    The whole project never progressed beyond the prototype stage and [b]Saga[/b] officially claimed that it was halted due to users hurting themselves by moving while wearing the headset. They stated that the sense of immersion was so realistic, it could potentially cause injury to children who played it.
+
+    However, anyone who has played their console for more than ten minutes knows that this is impossible, given the limitations of the hardware. The most likely scenario probably had to do with the unit's inability to produce a satisfactory effect. There were reports of testers getting motion sickness while playing and up to 40%% of the users during development got "cybersick." None of the four announced games were ever shown to the public and no other titles were ever announced. Unable to create the true, lifelike sense of immersion they had promised, [b]Saga[/b] wisely pulled the plug in 1994 and [b]Saga[/b] VR faded quietly into obscurity.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: Minigame visual effects
   LABEL_RESTART_REQUIRED: Restart required
   LABEL_DARK_MODE: Dark theme
   LABEL_LAST_12_MONTHS: Last 12 months
@@ -1855,11 +1888,19 @@ en:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     This genre is no longer unique because it has already
     been created by some other company.
+  LABEL_RELATIONSHIP: Relationship
   LABEL_RELATIONSHIP_FRIENDLY: Friendly
   LABEL_RELATIONSHIP_NEUTRAL: Neutral
   LABEL_RELATIONSHIP_UNFRIENDLY: Unfriendly
+  LABEL_ARCADE_SNEAK_IN: Arcade Sneak In
+  LABEL_FOOSBALL: Foosball
+  LABEL_HOOVERBALL: Air Hockey
+  LABEL_TV: Television
+  LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_REQUIRE_GAME: |
+    You must own %s to unlock this item.
   TOOLTIP_RELATIONSHIP: |
     With a good relationship, you can get better offers.
     On the other hand, a poor relationship leads to tougher negotiations.

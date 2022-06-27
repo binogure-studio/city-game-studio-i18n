@@ -93,6 +93,36 @@ tr:
   BUTTON_REFUSE: Reddetmek
 
   # Labels, descriptive
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny Ortaklığı
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
+    Haber geldi ve bu haber [b]Super Grantendo[/b] için CD-ROM!
+
+    [b]Grantendo[/b], [b]Super Grantendo[/b] ile kullanılmak üzere bir CD-ROM sürücüsünün 1993 yılının Ocak ayında tanıtılacağını duyurdu. Bundan kısa bir süre sonra [b]Grantendo[/b]'nun üçüncü taraf lisans sahibi geliştiricileri yeni sürücünün teknik özelliklerini aldılar ve yeni donanımı ayrıntılı olarak açıklamaya adanmış bir konferansa davet edildiler. Orada [b]Super Grantendo[/b] CD-ROM sürücüsünün tam ekran, tam hareketli video, XA uyumluluğu ve ünitenin 8 megapiksel RAM'i gibi olağanüstü yetenekleri hakkında bilgi edinecekler.
+
+    Ancak bir mühendis değilseniz, bu teknik jargonun çoğu pek bir şey ifade etmeyebilir.
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION:  |
+    [b]Deny[/b]'nın elektronik oyun konsolları üretmek üzere [b]Grantendo[/b] ile anlaştığını duyurmasından bir gün sonra [b]Grantendo[/b], [b]Deny[/b]'nın başlıca rakiplerinden biri olan [b]Moris[/b] ile anlaştığını açıkladı.
+
+    [b]Grantendo[/b] Şirketi, bazı uzmanlara göre [b]Deny[/b] Şirketi ile olumsuz bir anlaşma imzaladıktan sonra, 4.7 milyar dolarlık video oyun pazarındaki hakimiyetini sürdürmek için Hollandalı elektronik devi [b]Moris[/b]'e yöneldi. Tüketiciler için sonuç, oyun konsolları gelecek yıl piyasaya çıktığında kafa karıştırıcı bir seçim daha olacak.
+
+    [b]Deny[/b], [b]GameStation[/b] için kendi oyunlarını kompakt diskler halinde piyasaya sürmeyi planlıyor. [b]Moris[/b]'in duyuruları ve [b]Grantendo[/b]'nun [b]Deny[/b] ile olan ilişkisine dair ortaya çıkan karışıklık, [b]Grantendo[/b]'nun uzun zamandır planladığı popüler video oyun sisteminin daha güçlü bir versiyonunu piyasaya sürmesini sekteye uğrattı.
+  LABEL_SAGA_PROTYPE_VR: Saga ilk VR konsolunu piyasaya sürüyor
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    Sanal gerçeklik.
+
+    Bilgisayar operatörlerinin kendilerini yapay bir ortama kaptırdığı bilim kurgu konseptiyle başlayan sanal gerçeklik (veya VR) terimi, pazarlama topluluğu tarafından benimsenmiş ve sanallık oyun merkezlerinden en son birinci şahıs perspektif oyununa kadar çeşitli derecelerde uygulanmıştır. Püristler, en azından oyuncuyu çevreleyen ve etkileşime girebileceği 3 boyutlu görsel-işitsel bir ortam sağlaması gerektiğini iddia etmektedir.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+    
+    [b]Saga[/b], konsol sistemiyle birlikte kullanılmak üzere bir VR kaskı üzerinde çalıştığını duyurdu. Şu anda 1993 baharında piyasaya sürülmesi planlanıyor. Hareket sensörleri ve eldivenler, çevreleyen video ve çok kaynaklı ses içeren odalar içeren çok daha ayrıntılı (ve maliyetli) sistemler geliştirilmektedir. Şimdilik oyun topluluğu evde gözlük ve kulaklıkla yetinmek zorunda kalabilir.
+  LABEL_SAGA_RV_VANISHES: |
+    Çeşitli dergilerde ve çok sayıda ticari fuarda yer aldıktan sonra, kulaklık 1993 yılında son kez ortaya çıktı. Kapalı kapılar ardında, hiç de memnun olmayan bir izleyici kitlesine gösterildi ve bir gazeteci yazar oynadığı oyunu hızla her türlü cazibesini yitiren bulanık bir oyun olarak tanımladı. Tüm proje hiçbir zaman prototip aşamasının ötesine geçemedi ve [b]Saga[/b] resmi olarak kullanıcıların kulaklığı takarken hareket ederek kendilerine zarar vermeleri nedeniyle durdurulduğunu iddia etti. Daldırma hissinin çok gerçekçi olduğunu ve oynayan çocukların yaralanmasına neden olabileceğini belirttiler.
+
+    Ancak, konsolunu on dakikadan fazla oynamış olan herkes, donanımın sınırlamaları göz önüne alındığında bunun imkansız olduğunu bilir. En olası senaryo muhtemelen ünitenin tatmin edici bir etki üretememesiyle ilgiliydi. Test kullanıcılarının oyun oynarken hareket hastalığına yakalandığına ve geliştirme sırasında kullanıcıların %%40'ının "siber hasta" olduğuna dair raporlar vardı. Duyurulan dört oyundan hiçbiri halka gösterilmedi ve başka hiçbir oyun duyurulmadı. Vaat ettikleri gerçek, gerçeğe yakın daldırma hissini yaratamayan [b]Saga[/b], 1994 yılında akıllıca bir kararla fişi çekti ve [b]Saga VR[/b] sessizce bilinmezliğe gömüldü.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: Minigame görsel efektleri
   LABEL_RESTART_REQUIRED: Yeniden başlatma gerekiyor
   LABEL_DARK_MODE: Karanlık tema
   LABEL_LAST_12_MONTHS: Son 12 ay
@@ -1843,11 +1873,19 @@ tr:
   LABEL_STUDIO_SOLD: "%s sattılar"
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Bu tür artık başka bir şirket tarafından yaratıldığı için benzersiz değil.
+  LABEL_RELATIONSHIP: İlişki
   LABEL_RELATIONSHIP_FRIENDLY: Dostça
   LABEL_RELATIONSHIP_NEUTRAL: Nötr
   LABEL_RELATIONSHIP_UNFRIENDLY: Düşmanca
+  LABEL_ARCADE_SNEAK_IN: Arcade Sneak In
+  LABEL_FOOSBALL: Langırt
+  LABEL_HOOVERBALL: Hava Hokeyi
+  LABEL_TV: Televizyon
+  LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_REQUIRE_GAME: |
+    Bu öğenin kilidini açmak için %s'e sahip olmalısınız.
   TOOLTIP_RELATIONSHIP: |
     İyi bir ilişki ile daha iyi teklifler alabilirsiniz.
     Öte yandan, kötü bir ilişki daha zorlu müzakerelere yol açar.

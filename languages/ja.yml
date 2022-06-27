@@ -93,6 +93,35 @@ ja:
   BUTTON_REFUSE: 断る
 
   # Labels, descriptive
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Denyパートナーシップ
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
+    その言葉とは、[b]Super Grantendo[/b]用のCD-ROM! [b]Grantendo[/b]は、
+
+    1993年1月に[b]Super Grantendo[/b]で使用するCD-ROMドライブを発表した。 その後まもなく、[b]Grantendo[/b]のサードパーティーライセンシーの開発者は、新しいドライブの技術仕様を受け取り、 新しいハードウェアを詳細に説明するためのカンファレンスに招待されました。そこで彼らは、フルスクリーン、フルモーションビデオ、XA互換性、本体の8メガRAMなど、 [b]Super Grantendo[/b] CD-ROMドライブの優れた能力について学ぶことになるのです。しかし、技術者でない限り、その専門用語の多くはあまり意味をなさないかもしれない。
+
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION:  |
+    [b]Deny[/b]が[b]Grantendo[/b]社と電子ゲーム機の製造に関する契約を発表した翌日、[b]Grantendo[/b]社は[b]Deny[/b]の主要なライバルの1つである[b]Moris[/b]社と契約を結んだと発表した。 [b]Grantendo[/b]社は、一部の専門家が[b]Deny[/b]社と不利な契約を結んだ後、47億ドルのビデオゲーム市場の支配を維持しようと、オランダの電子機器大手[b]Moris[/b]社に目をつけたことは明らかである。
+
+    その結果、来年ゲーム機が市場に出回るとき、消費者はまたしても混乱した選択を迫られることになる。[b]Deny[/b]はゲームステーション用にコンパクトディスクで独自のゲームをリリースする予定です。 このモーリス社の発表と、それに伴うグランテンド社と[b]Deny[/b]社の関係の混乱は、グランテンド社が長い間計画していた、より高性能なビデオゲームシステムの導入に影響を及ぼした。 
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: Saga、初のVRコンソールを発売
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    バーチャルリアリティ。
+
+    コンピュータのオペレーターが人工的な環境に身を置くというSF的な概念に始まり、バーチャルリアリティ（またはVR）という言葉はマーケティング界に採用され、 仮想ゲームセンターから最新の一人称視点のゲームまで、さまざまな関連性を持って適用されています。純粋主義者は、少なくともプレイヤーを取り囲むように見える3Dのオーディオビジュアル環境を提供し、 プレイヤーが対話できるようにするべきだと主張する。
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b]は、同社のゲーム機で使用するためのVRヘルメットを開発中であると発表しました。 現在のところ、1993年春に発売される予定だ。モーションセンサーやガントレット、周囲の映像やマルチソースサウンドを使ったチャンバーなど、はるかに手の込んだ（そして高価な）システムが開発中だ。 当面は、家庭用のゴーグルとイヤホンで我慢するしかなさそうだ。
+  LABEL_SAGA_RV_VANISHES: |
+    いくつかの雑誌や展示会で紹介された後、ヘッドセットは1993年に最終的な姿を現しました。 あるジャーナリストは、プレイしたゲームを「ぼやけたゲームで、すぐに魅力がなくなった」と表現しています。 このプロジェクトはプロトタイプの段階から進展することはなく、[b]Saga[/b]は公式に、ユーザーがヘッドセットを装着したまま動くと怪我をするため中止したと主張している。 没入感があまりにリアルなので、子供が遊ぶと怪我をする可能性があるとのことでした。 しかし、ゲーム機を10分以上遊んだことのある人なら、ハードの限界からして、そんなことはあり得ないことは分かっているはずだ。
+
+    最も可能性が高いのは、本体が満足のいく効果を発揮できなかったことだろう。 テスターがプレイ中に乗り物酔いをしたという報告もあり、開発中のユーザーのうち最大で40％％が "サイバースティック "になってしまったという。
+    発表された4作品はいずれも一般公開されず、他のタイトルも発表されることはなかった。 [b]Saga[/b]は約束した真の没入感を実現することができず、1994年に賢明にもプラグを抜き、[b]Saga VR[/b]はひっそりと無名のままフェードアウトしていった。
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: ミニゲームのビジュアルエフェクト
   LABEL_RESTART_REQUIRED: 再起動が必要
   LABEL_DARK_MODE: ダークテーマ
   LABEL_LAST_12_MONTHS: 過去12ヶ月間
@@ -1852,11 +1881,19 @@ ja:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     このジャンルはすでにどこかの会社が作ったものなので
     独自性はありません。
+  LABEL_RELATIONSHIP: 関係
   LABEL_RELATIONSHIP_FRIENDLY: 友好的
-  LABEL_RELATIONSHIP_NEUTRAL: Neutral
+  LABEL_RELATIONSHIP_NEUTRAL: 中立的な立場
   LABEL_RELATIONSHIP_UNFRIENDLY: 非友好的
+  LABEL_ARCADE_SNEAK_IN: アーケード Sneak In
+  LABEL_FOOSBALL: フーズボール
+  LABEL_HOOVERBALL: エアホッケー
+  LABEL_TV: テレビ
+  LABEL_ARCADE_CITY_GAME_STUDIO: アーケード City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_REQUIRE_GAME: |
+    このアイテムのロックを解除するには、%sをお持ちであることが必要です。
   TOOLTIP_RELATIONSHIP: |
     良い関係であれば、より良いオファーを得ることができます。
     逆に、関係が悪いと交渉が厳しくなる。

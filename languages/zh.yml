@@ -93,6 +93,37 @@ zh:
   BUTTON_REFUSE: 拒绝
 
   # Labels, descriptive
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny伙伴关系
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
+    这个消息已经传来了，这个消息就是[b]Super Grantendo[/b]的CD-ROM。
+    
+    [b]Grantendo[/b]宣布将于1993年1月推出用于[b]Super Grantendo[/b]的CD-ROM驱动器。 此后不久，[b]Grantendo[/b]的第三方授权开发商收到了新驱动器的技术规范，并被邀请参加一个专门详细解释新硬件的会议。 在那里，他们将了解到[b]Super Grantendo[/b]光盘驱动器的杰出功能，包括全屏、全动态视频、XA兼容性以及该设备的8兆内存。
+
+    然而，除非你是一名工程师，否则这些技术术语可能没有什么意义。
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION: |
+    在[b]Deny[/b]宣布与[b]Grantendo[/b]公司达成生产电子游戏机的协议后一天，[b]Grantendo[/b]公司宣布它已经与[b]Deny[/b]的主要竞争对手之一[b]Moris[/b]公司达成了协议。
+
+    显然，[b]Grantendo[/b]公司在与[b]Deny[/b]公司签署了一些专家所说的不利于它的协议之后，转向了荷兰电子巨头[b]Moris[/b]公司，试图维持其对47亿美元电子游戏市场的统治。 对消费者来说，当游戏机明年进入市场时，结果是又一个令人困惑的选择。 [b]Deny[/b]公司计划为[b]GameStation[/b]发行自己的光盘游戏。
+
+    [b]Moris[/b]的声明以及随之而来的关于[b]Grantendo[/b]与[b]Deny[/b]关系的混乱，使[b]Grantendo[/b]计划已久的推出其流行的视频游戏系统的更强大版本的计划被打断。
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: Saga推出其首款VR主机
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    虚拟现实。
+
+    从计算机操作员沉浸在人工环境中的科幻概念开始，虚拟现实（或VR）这个术语已经被营销界采用，并在不同程度上应用于从虚拟游戏中心到最新的第一人称视角游戏。纯粹主义者争辩说，它至少应该提供一个看起来围绕着玩家的三维视听环境，并且他或她可以与之互动。
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b]宣布正在开发一个VR头盔，用于其控制台系统。它目前计划在1993年春季发布。 还有更复杂（和昂贵）的系统正在开发中，涉及运动传感器和铠甲，带有周围视频和多源声音的腔室。 目前，游戏界可能不得不在家里解决护目镜和耳机的问题。
+  LABEL_SAGA_RV_VANISHES: |
+    在被几家杂志以及众多贸易展报道后，该耳机在1993年最终亮相。 它被闭门展示给一个完全不受欢迎的观众，一位记者作家描述他玩的游戏是一个模糊的游戏，很快就失去了任何和所有的吸引力。 整个项目的进展从未超过原型阶段，[b]saga[/b]官方声称，由于用户在佩戴耳机时移动而伤害了自己，所以项目被停止了。 他们说，这种沉浸感非常逼真，有可能对玩这个的儿童造成伤害。 然而，任何玩过主机超过十分钟的人都知道，鉴于硬件的限制，这是不可能的。
+
+    最有可能的情况可能与该装置无法产生令人满意的效果有关。 有报告称，测试者在玩的时候会有晕动症，在开发过程中多达40%%的用户会 "晕车"。 公布的四款游戏中没有一款向公众展示过，也没有公布其他的游戏。 由于无法创造出他们所承诺的真正的、栩栩如生的沉浸感，[b]saga[/b]明智地在1994年拔掉了插头，[b]Saga VR[/b]悄悄地淡出了人们的视野。
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: 迷你游戏的视觉效果
   LABEL_RESTART_REQUIRED: 需要重新启动
   LABEL_DARK_MODE: 深色主题
   LABEL_LAST_12_MONTHS: 过去12个月
@@ -1776,11 +1807,19 @@ zh:
   LABEL_STUDIO_SOLD: 他们卖掉了%s
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     这种类型不再是独特的，因为它已经被其他一些公司创造了。
+  LABEL_RELATIONSHIP: 关系
   LABEL_RELATIONSHIP_FRIENDLY: 友好
   LABEL_RELATIONSHIP_NEUTRAL: 中立
   LABEL_RELATIONSHIP_UNFRIENDLY: 不友好
+  LABEL_ARCADE_SNEAK_IN: 拱廊 Sneak In
+  LABEL_FOOSBALL: 桌上足球
+  LABEL_HOOVERBALL: 空气曲棍球
+  LABEL_TV: 电视机
+  LABEL_ARCADE_CITY_GAME_STUDIO: 拱廊 City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_REQUIRE_GAME: |
+    您必须拥有%s才能解锁这个项目。
   TOOLTIP_RELATIONSHIP: |
     有了良好的关系，你可以得到更好的报价。另一方面，关系不好会导致谈判更加艰难。
 

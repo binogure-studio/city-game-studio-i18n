@@ -93,6 +93,39 @@ nl:
   BUTTON_REFUSE: Weigeren
 
   # Labels, descriptive
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny partnerschap
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
+    Het woord is binnen, en dat woord is CD-ROM voor de [b]Super Grantendo[/b]!
+
+    [b]Grantendo[/b] kondigde aan dat een CD-ROM drive voor gebruik met de [b]Super Grantendo[/b] in januari 1993 zou worden geïntroduceerd. Kort daarna ontvingen [b]Grantendo[/b]'s derde partij licentie ontwikkelaars technische specificaties voor de nieuwe drive en werden ze uitgenodigd voor een conferentie die was gewijd aan het in detail uitleggen van de nieuwe hardware. Daar zullen ze leren over de uitstekende mogelijkheden van de [b]Super Grantendo[/b] CD-ROM drive waaronder full-screen, full-motion video, XA compatibiliteit en de 8 meg RAM van de unit.
+
+    Tenzij je een ingenieur bent, zal veel van dat technisch jargon misschien niet veel betekenen.
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION:  |
+    Een dag nadat de [b]Deny[/b] een overeenkomst had aangekondigd met [b]Grantendo[/b], voor het maken van elektronische spelconsoles, kondigde [b]Grantendo[/b] aan dat het een overeenkomst had gesloten met [b]Moris[/b], één van [b]Deny[/b]'s voornaamste rivalen.
+
+    De [b]Grantendo[/b] Company wendde zich klaarblijkelijk tot [b]Moris[/b], de Nederlandse elektronicagigant, in een poging haar dominantie op de 4,7 miljard dollar kostende markt voor videospelletjes te handhaven, nadat zij een volgens sommige deskundigen ongunstige overeenkomst met de [b]Deny[/b] Corporation had gesloten. Voor de consument is het resultaat opnieuw een verwarrende keuze wanneer de spelconsoles volgend jaar op de markt komen.
+
+    [b]Deny[/b] is van plan zijn eigen spelletjes op compact disks uit te brengen voor de [b]Gamestation[/b]. De aankondigingen van [b]Moris[/b] en de daaruit voortvloeiende verwarring over [b]Grantendo[/b]'s relatie met de [b]Deny[/b] hebben [b]Grantendo[/b]'s lang geplande introductie van een krachtigere versie van zijn populaire videospel systeem in de war gestuurd. 
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: Saga lanceert zijn eerste VR-console
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    Virtuele realiteit.
+
+    Begonnen met het science-fictionconcept van computeroperatoren die zich onderdompelen in een kunstmatige omgeving, is de term virtuele realiteit (of VR) overgenomen door de marketinggemeenschap en toegepast in verschillende mate van relevantie, van virtualiteitsgamecentra tot het nieuwste first-person perspective game. Puristen zijn van mening dat VR ten minste een 3-D audiovisuele omgeving moet bieden die de speler lijkt te omringen en waarmee hij of zij kan interageren.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b] heeft aangekondigd dat een VR-helm in de maak is, voor gebruik met zijn consolesysteem. Het is thans de bedoeling dat deze in het voorjaar van 1993 wordt uitgebracht. Er zijn veel uitgebreidere (en duurdere) systemen in ontwikkeling, waarbij gebruik wordt gemaakt van bewegingssensoren en handschoentjes, kamers met omringende video en multi-source geluid. Voorlopig zal de spelgemeenschap thuis genoegen moeten nemen met een bril en oortelefoons.
+  LABEL_SAGA_RV_VANISHES: |
+    Na in verschillende tijdschriften en op talrijke beurzen te hebben gestaan, maakte de headset zijn definitieve verschijning in 1993. Een journalist beschreef het spel dat hij speelde als een wazig spel dat snel elke aantrekkingskracht verloor. Het hele project is nooit verder gekomen dan het prototype-stadium en [b]Saga[/b] beweerde officieel dat het was stopgezet omdat gebruikers zich bezeerden door te bewegen terwijl zij de headset droegen.
+
+    Zij verklaarden dat het gevoel van onderdompeling zo realistisch was, dat het mogelijk verwondingen zou kunnen veroorzaken bij kinderen die ermee speelden. Iedereen die langer dan tien minuten op zijn console heeft gespeeld, weet echter dat dit onmogelijk is, gezien de beperkingen van de hardware. Het meest waarschijnlijke scenario had waarschijnlijk te maken met het onvermogen van het apparaat om een bevredigend effect te produceren. Er waren meldingen van testers die bewegingsziekte kregen tijdens het spelen en tot 40%% van de gebruikers tijdens de ontwikkeling werd "cyberziek".
+
+    Geen van de vier aangekondigde spellen werd ooit aan het publiek getoond en er werden nooit andere titels aangekondigd. [b]Saga[/b] slaagde er niet in het levensechte gevoel van onderdompeling te creëren dat ze hadden beloofd en trok wijselijk de stekker eruit in 1994 en [b]Saga VR[/b] verdween stilletjes in de vergetelheid.
+  
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: Minigame visuele effecten
   LABEL_RESTART_REQUIRED: Opnieuw opstarten vereist
   LABEL_DARK_MODE: Donker thema
   LABEL_LAST_12_MONTHS: Laatste 12 maanden
@@ -1851,11 +1884,19 @@ nl:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Dit genre is niet langer uniek omdat het reeds door
     een ander bedrijf is gecreëerd.
+  LABEL_RELATIONSHIP: Relatie
   LABEL_RELATIONSHIP_FRIENDLY: Vriendelijk
   LABEL_RELATIONSHIP_NEUTRAL: Neutraal
   LABEL_RELATIONSHIP_UNFRIENDLY: Onvriendelijk
+  LABEL_ARCADE_SNEAK_IN: Arcade Sneak In
+  LABEL_FOOSBALL: Tafelvoetbal
+  LABEL_HOOVERBALL: Hockey
+  LABEL_TV: Televisie
+  LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_REQUIRE_GAME: |
+    U moet %s bezitten om dit item vrij te spelen.
   TOOLTIP_RELATIONSHIP: |
     Met een goede relatie kunt u betere aanbiedingen krijgen.
     Aan de andere kant leidt een slechte relatie tot hardere onderhandelingen.

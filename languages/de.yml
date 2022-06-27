@@ -93,6 +93,41 @@ de:
   BUTTON_REFUSE: Ablehnen
 
   # Labels, descriptive
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny Partnerschaft
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
+    Die Nachricht ist da, und sie lautet: CD-ROM für den [b]Super Grantendo[/b]!
+
+    [b]Grantendo[/b] kündigte an, daß im Januar 1993 ein CD-ROM-Laufwerk für den [b]Super Grantendo[/b] eingeführt werden würde. Kurz darauf erhielten die Entwickler von [b]Grantendo[/b]s Drittlizenznehmern die technische Spezifikation für das neue Laufwerk und wurden zu einer Konferenz eingeladen, auf der die neue Hardware im Detail erläutert wurde. Dort werden sie die herausragenden Fähigkeiten des [b]Super Grantendo[/b] CD-ROM-Laufwerks kennenlernen, darunter Vollbild, Full-Motion-Video, XA-Kompatibilität und die 8 Megabyte RAM des Geräts.
+
+    Wenn Sie jedoch kein Ingenieur sind, werden Ihnen viele dieser technischen Fachausdrücke nicht viel sagen.
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION:  |
+    Einen Tag, nachdem [b]Deny[/b] eine Vereinbarung mit [b]Grantendo[/b] über die Herstellung elektronischer Spielkonsolen angekündigt hatte, gab [b]Grantendo[/b] bekannt, daß es eine Vereinbarung mit [b]Moris[/b], einem der Hauptkonkurrenten von [b]Deny[/b], getroffen hat.
+
+    Die Firma [b]Grantendo[/b] hat sich offensichtlich an den holländischen Elektronikriesen [b]Moris[/b] gewandt, um zu versuchen, ihre Vorherrschaft auf dem 4,7 Milliarden Dollar schweren Videospielmarkt aufrechtzuerhalten, nachdem sie einen nach Ansicht einiger Experten ungünstigen Vertrag mit der [b]Deny[/b] Corporation unterzeichnet hatte. Für die Verbraucher bedeutet dies eine weitere verwirrende Wahl, wenn die Spielkonsolen nächstes Jahr auf den Markt kommen.
+
+    [b]Deny[/b] plant, seine eigenen Spiele auf Compact Discs für die [b]GameStation[/b] zu veröffentlichen. Die Ankündigungen von [b]Moris[/b] und die daraus resultierende Verwirrung über die Beziehung zwischen [b]Grantendo[/b] und [b]Deny[/b] haben die seit langem geplante Einführung einer leistungsfähigeren Version des beliebten Videospielsystems von [b]Grantendo[/b] verzögert. 
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: Saga bringt seine erste VR-Konsole auf den Markt
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    Virtuelle Realität.
+
+    Ausgehend von dem Science-Fiction-Konzept, bei dem Computerbediener in eine künstliche Umgebung eintauchen, wurde der Begriff virtuelle Realität (oder VR) von der Marketinggemeinschaft übernommen und in unterschiedlichem Maße von Virtuality Game Centern bis hin zum neuesten First-Person-Perspektive-Spiel verwendet. Puristen sind der Meinung, dass sie zumindest eine audiovisuelle 3D-Umgebung bieten sollte, die den Spieler zu umgeben scheint und mit der er interagieren kann.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b] kündigte an, dass ein VR-Helm in Arbeit ist, der mit seinem Konsolensystem verwendet werden kann. Er soll im Frühjahr 1993 auf den Markt kommen. Es sind weitaus aufwändigere (und teurere) Systeme in der Entwicklung, die Bewegungssensoren und Stulpen, Kammern mit Umgebungsvideo und Multi-Sound-Quellen umfassen. Bis auf weiteres wird sich die Spielergemeinde wohl mit einer Brille und Kopfhörern begnügen müssen.
+  LABEL_SAGA_RV_VANISHES: |
+    Nachdem das Headset in mehreren Zeitschriften und auf zahlreichen Messen vorgestellt worden war, hatte es 1993 seinen letzten Auftritt. Es wurde hinter verschlossenen Türen einem durch und durch enttäuschten Publikum gezeigt.
+
+    Ein Journalist beschrieb das Spiel, das er spielte, als ein verschwommenes Spiel, das schnell jeglichen Reiz verlor. Das gesamte Projekt kam nie über das Prototypenstadium hinaus, und [b]Saga[/b] behauptete offiziell, dass es eingestellt wurde, weil sich die Benutzer durch die Bewegung beim Tragen des Headsets verletzten.
+
+    Sie erklärten, dass das Gefühl der Immersion so realistisch sei, dass es bei Kindern, die es spielten, zu Verletzungen führen könnte. Jeder, der seine Konsole schon einmal länger als zehn Minuten gespielt hat, weiß jedoch, dass dies angesichts der Einschränkungen der Hardware unmöglich ist. Das wahrscheinlichste Szenario hatte wahrscheinlich mit der Unfähigkeit des Geräts zu tun, einen zufriedenstellenden Effekt zu erzeugen. Es gab Berichte, wonach Tester beim Spielen die Reisekrankheit bekamen und bis zu 40%% der Benutzer während der Entwicklung "cybersick" wurden.
+
+    Keines der vier angekündigten Spiele wurde jemals der Öffentlichkeit vorgeführt, und es wurden auch keine weiteren Titel angekündigt. Da es [b]Saga[/b] nicht gelang, das versprochene echte, lebensechte Gefühl der Immersion zu erzeugen, zog das Unternehmen 1994 wohlweislich den Stecker und [b]Saga VR[/b] verschwand in der Versenkung.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: Visuelle Effekte bei Minispielen
   LABEL_RESTART_REQUIRED: Neustart erforderlich
   LABEL_DARK_MODE: Dunkles Thema
   LABEL_LAST_12_MONTHS: Letzte 12 Monate
@@ -1871,11 +1906,19 @@ de:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Dieses Genre ist nicht mehr einzigartig,
     weil es bereits von einem anderen Unternehmen geschaffen wurde.
+  LABEL_RELATIONSHIP: Beziehung
   LABEL_RELATIONSHIP_FRIENDLY: Freundlich
   LABEL_RELATIONSHIP_NEUTRAL: Neutral
   LABEL_RELATIONSHIP_UNFRIENDLY: Unfreundlich
+  LABEL_ARCADE_SNEAK_IN: Spielhalle Sneak In
+  LABEL_FOOSBALL: Tischfußball
+  LABEL_HOOVERBALL: Airhockey
+  LABEL_TV: Fernsehen
+  LABEL_ARCADE_CITY_GAME_STUDIO: Spielhalle City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_REQUIRE_GAME: |
+    Du musst %s besitzen, um diesen Gegenstand freizuschalten.
   TOOLTIP_RELATIONSHIP: |
     Mit einer guten Beziehung können Sie bessere Angebote erhalten.
     Andererseits führt eine schlechte Beziehung zu härteren Verhandlungen.
