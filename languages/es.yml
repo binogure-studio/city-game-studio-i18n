@@ -1,5 +1,6 @@
 es:
   # Botones, acciones y verbos
+  BUTTON_ACQUIRE: Adquirir
   BUTTON_READ: Leer
   BUTTON_ANNOUNCE: Anunciar juego
   BUTTON_NEW_GAME: Nueva partida
@@ -1910,6 +1911,8 @@ es:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    En la creación del juego, los valores esperados de los indicadores en las etapas de desarrollo, diseño y pulido se vuelven aleatorios.
   TOOLTIP_REQUIRE_GAME: |
     Debes tener %s para desbloquear este artículo.
   TOOLTIP_RELATIONSHIP: |

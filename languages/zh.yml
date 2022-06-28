@@ -1,5 +1,6 @@
 zh:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: 获得
   BUTTON_READ: 阅读
   BUTTON_ANNOUNCE: 宣布该游戏
   BUTTON_NEW_GAME: 新游戏
@@ -1818,6 +1819,8 @@ zh:
   LABEL_ARCADE_CITY_GAME_STUDIO: 拱廊 City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    在游戏创作中，开发、设计和抛光阶段的仪表的预期值变得随机。
   TOOLTIP_REQUIRE_GAME: |
     您必须拥有%s才能解锁这个项目。
   TOOLTIP_RELATIONSHIP: |

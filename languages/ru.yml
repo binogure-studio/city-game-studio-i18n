@@ -1,5 +1,6 @@
 ru:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: Приобрести
   BUTTON_READ: Читать
   BUTTON_ANNOUNCE: Анонсировать игру
   BUTTON_NEW_GAME: Новая игра
@@ -1931,6 +1932,8 @@ ru:
   LABEL_ARCADE_CITY_GAME_STUDIO: Аркада City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    При создании игры ожидаемые значения показателей на этапах разработки, проектирования и полировки становятся случайными.
   TOOLTIP_REQUIRE_GAME: |
     Вы должны быть владельцем %s, чтобы разблокировать этот элемент.
   TOOLTIP_RELATIONSHIP: |

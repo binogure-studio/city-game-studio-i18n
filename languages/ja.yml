@@ -1,5 +1,6 @@
 ja:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: アクワイア
   BUTTON_READ: 読む
   BUTTON_ANNOUNCE: アナウンス
   BUTTON_NEW_GAME: ニューゲーム
@@ -1892,6 +1893,8 @@ ja:
   LABEL_ARCADE_CITY_GAME_STUDIO: アーケード City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    ゲーム制作では、開発・設計・研磨の各段階のゲージの期待値がランダムになってしまう。
   TOOLTIP_REQUIRE_GAME: |
     このアイテムのロックを解除するには、%sをお持ちであることが必要です。
   TOOLTIP_RELATIONSHIP: |

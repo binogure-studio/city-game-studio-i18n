@@ -1,5 +1,6 @@
 fr:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: Acquérir
   BUTTON_READ: Lire
   BUTTON_ANNOUNCE: Annoncer le jeu
   BUTTON_NEW_GAME: Nouvelle partie
@@ -670,7 +671,7 @@ fr:
   LABEL_GAME_PRICE: Prix du jeu
   LABEL_UPDATE_PRICE: Prix de la mise à jour
   LABEL_X_STUDIOS: "%d studios"
-  LABEL_RANDOM_SLIDER: Randomize games' sliders
+  LABEL_RANDOM_SLIDER: Jauge de création de jeu aléatoire
   LABEL_DISCOUNT: Organiser des soldes
   LABEL_ORGANIZE_YEARLY: Organiser une convention annuelle
   LABEL_YEARLY: Annuel
@@ -1950,6 +1951,8 @@ fr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    Lors de la création d'un jeu, la valeur attendue des jauges des étapes de développement, de design et de polissage deviennent aléatoires.
   TOOLTIP_REQUIRE_GAME: |
     Vous devez posséder %s pour débloquer cet objet.
   TOOLTIP_RELATIONSHIP: |

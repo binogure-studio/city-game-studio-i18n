@@ -1,5 +1,6 @@
 ko:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: 습득하다
   BUTTON_READ: 읽기
   BUTTON_ANNOUNCE: 게임 발표
   BUTTON_NEW_GAME: 새로하기
@@ -1911,6 +1912,8 @@ ko:
   LABEL_ARCADE_CITY_GAME_STUDIO: 아케이드 City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    게임 생성 시 개발, 디자인, 연마 단계에서 게이지의 기대값은 랜덤이 됩니다.
   TOOLTIP_REQUIRE_GAME: |
     이 항목을 잠금 해제하려면 %s을 소유해야 합니다.
   TOOLTIP_RELATIONSHIP: |

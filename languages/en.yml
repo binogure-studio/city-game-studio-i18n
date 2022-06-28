@@ -1,5 +1,6 @@
 en:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: Acquire
   BUTTON_READ: Read
   BUTTON_ANNOUNCE: Announce the game
   BUTTON_NEW_GAME: New game
@@ -1899,6 +1900,8 @@ en:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    In game creation, expected values of the gauges in the development, design and polishing stages become random.
   TOOLTIP_REQUIRE_GAME: |
     You must own %s to unlock this item.
   TOOLTIP_RELATIONSHIP: |

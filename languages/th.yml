@@ -1,4 +1,6 @@
 th:
+  # Buttons actions verbs
+  BUTTON_ACQUIRE: ได้รับ
   BUTTON_READ: อ่าน
   BUTTON_ANNOUNCE: ประกาศเกม
   BUTTON_NEW_GAME: เริ่มเกมส์ใหม่
@@ -1904,6 +1906,8 @@ th:
   LABEL_ARCADE_CITY_GAME_STUDIO: อาเขต City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    ในการสร้างเกม ค่าที่คาดหวังของมาตรวัดในขั้นตอนการพัฒนา การออกแบบ และการขัดเกลาจะกลายเป็นแบบสุ่ม
   TOOLTIP_REQUIRE_GAME: |
     คุณต้องเป็นเจ้าของ %s เพื่อปลดล็อกรายการนี้
   TOOLTIP_RELATIONSHIP: |

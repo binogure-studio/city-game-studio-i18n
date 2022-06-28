@@ -1,5 +1,6 @@
 tr:
   # Buttons actions verbs
+  BUTTON_ACQUIRE: Edinme
   BUTTON_READ: Okumak
   BUTTON_ANNOUNCE: Oyunu Duyur
   BUTTON_NEW_GAME: Yeni oyun
@@ -1884,6 +1885,8 @@ tr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_RANDOM_SLIDER: |
+    Oyun yaratımında, geliştirme, tasarım ve cilalama aşamalarındaki göstergelerin beklenen değerleri rastgele hale gelir.
   TOOLTIP_REQUIRE_GAME: |
     Bu öğenin kilidini açmak için %s'e sahip olmalısınız.
   TOOLTIP_RELATIONSHIP: |
