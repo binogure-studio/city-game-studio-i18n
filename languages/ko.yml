@@ -92,8 +92,21 @@ ko:
   BUTTON_VIEW_ORIGINAL_GAME: 원작 보기
   BUTTON_ACCEPT: 수락
   BUTTON_REFUSE: 거절
+  BUTTON_IMPORT_IMAGE: 이미지 가져오기
 
   # Labels, descriptive
+  LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: 연말 갈라
+  LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
+    친애하는 [b]%s[/b],
+
+    독립 게임 개발자 형제단이 연말 갈라에 여러분을 초대하게 된 것을 기쁘게 생각합니다. 귀하의 회사를 [b]%s[/b]로 평가하고 그 점수를 결정하여 전 세계 리더보드에 업로드합니다.
+    곧 다시 만나요.
+
+    추신:
+    게임은 올해 말에 끝납니다. 해당 날짜 이후에도 계속 플레이할 수 있지만 더 이상 새 콘솔이나 새 구성 요소가 없습니다.
+  LABEL_PINBALL_CITY_GAME_STUDIO: 핀볼 City Game Studio
+  LABEL_PINBALL_SNEAK_IN: 핀볼 Sneak In
+  LABEL_SUBMIT_TO_ALL_COMPETITORS: 나머지 모든 경쟁업체에 문의하십시오.
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny 파트너십
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     이는 무엇을 의미할까요? 바로 [b]Super Grantendo[/b]용 CD-ROM입니다! [b]Grantendo[/b]는 1993년 1월에 [b]Super Grantendo[/b]와 함께 사용하기 위한 CD-ROM 드라이브가 출시될 것이라고 발표했습니다. 그 직후 [b]Grantendo[/b]의 타사 라이선스 개발자는 새 드라이브에 대한 기술 사양을 받고 새로운 하드웨어를 설명하는 회의에 초대되었습니다. 여기에서 전체 화면, 전체 모션 비디오, XA 호환성 및 장치의 8메가 메모리를 포함한 [b]Super Grantendo[/b] CD-ROM 드라이브의 뛰어난 기능에 대해 배울 것입니다. 그러나 당신이 엔지니어가 아닌 이상 그 기술 용어의 대부분은 별로 의미가 없을 수 있습니다.
@@ -151,7 +164,7 @@ ko:
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
     [b]%s[/b] 귀하
 
-    당사는 귀하가 50%의 주식을 소유한 [b]%s[/b]의 인수합병을 추진하고 있으며,
+    당사는 귀하가 50%%의 주식을 소유한 [b]%s[/b]의 인수합병을 추진하고 있으며,
     귀하가 소유한 주식을 합리적인 가격에 매수하고자 합니다.
 
     당사는 [b]%s[/b]$로 평가되는 귀하의 주식을 [b]%s[/b]$에 매수할 용의가 있으며,
