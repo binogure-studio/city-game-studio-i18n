@@ -95,6 +95,15 @@ de:
   BUTTON_IMPORT_IMAGE: Ein Bild importieren
 
   # Labels, descriptive
+  LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Belastung durch Online-Spiele
+  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Belastung durch den entmaterialisierten Laden
+  TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
+    Beinhaltet nur die Serverlast, die von Spielen erzeugt wird, die nicht im entmaterialisierten
+    Laden veröffentlicht werden.
+
+    Die Last von Online-Spielen, die im Online-Store veröffentlicht werden, ist also nicht hier,
+    sondern direkt in der Last des entmaterialisierten Stores enthalten.
+  LABEL_PAID_UPDATE_SALES: Verkäufe von DLCs
   LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Farbe der Konsole bearbeiten
   LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Gala zum Jahresende
   LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
