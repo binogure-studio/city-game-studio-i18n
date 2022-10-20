@@ -4,7 +4,7 @@ Styczeń 1975 roku, właśnie utworzyłeś własną firmę produkującą gry wid
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
-But a problem remains, even if your games are brilliant, you don't have enough fans to self-publish a big game to make your studio profitable. You will have to turn to video game editors who will carve out the lion's share. Chaining successes is the only way of getting rid of the publishers. Furthermore you will be able to publish your own publishing contracts. Then you will then be ready to dominate the market and buy back your competitors.
+Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczająco dużo fanów do self-publikacji dużej gry, aby Twoje studio było dochodowe. Będziesz musiał zwrócić się do wydawców gier wideo, którzy wyrzeźbią dla ciebie lwią część. Łańcuch sukcesów to jedyny sposób na pozbycie się wydawców. Ponadto będziesz w stanie opublikować własne umowy wydawnicze. Wtedy będziesz gotów zdominować rynek i wykupić swoich konkurentów.
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
