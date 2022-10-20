@@ -35,7 +35,7 @@ Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczaj�
 [*] Mikrotransakcji
 [/list]
 
-[h2]City Game Studio is inspired by marvelous games like[/h2]
+[h2]City Game Studio jest inspirowane takimi cudownymi grami jak[/h2]
 [list][*] Game Dev Story
 [*] Game Dev Tycoon
 [*] Software Inc
