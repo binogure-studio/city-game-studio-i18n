@@ -27,12 +27,12 @@ Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczaj�
 [*] Otrzymać nagrodę Gry Roku
 [*] Dobrze się bawić[/list]
 
-[h2]This game doesn’t have[/h2]
-[list][*] eSport competitions
-[*] An R&D department
-[*] A multiplayer mode
-[*] Lootboxes
-[*] Microtransactions
+[h2]Ta gra nie posiada[/h2]
+[lista][*] Zawodów typu e-Sport
+[*] Działu badań i rozwoju
+[*] Trybu wieloosobowego
+[*] Skrzynek "z łupami"
+[*] Mikrotransakcji
 [/list]
 
 [h2]City Game Studio is inspired by marvelous games like[/h2]
