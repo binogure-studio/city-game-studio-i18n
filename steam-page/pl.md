@@ -8,24 +8,24 @@ Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczaj�
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
-[h2]Feature list[/h2]
-[list][*] Develop or rent game engines
-[*] Receive/publish game offers
-[*] Buying or renting several buildings
-[*] Develop and manage a digital store
-[*] Cracking competitors' games
-[*] Unlocking new game genres
-[*] Spy the competitors
-[*] Hire staff
-[*] Organize marketing campaigns
-[*] Organizing and attending conventions
-[*] Buy out companies
-[*] Executing contracts that trains your employees
-[*] Porting games to several consoles
-[*] Design your company logo
-[*] Manage your employees' schedules
-[*] Get awarded Game of the Year
-[*] Have a good time[/list]
+[h2]Lista funkcji[/h2]
+[lista][*] Twórz lub wypożyczaj engine'y gier
+[*] Przyjmowanie/publikowanie propozycji gier
+[*] Kupowanie lub wynajmowanie różnych budynków
+[*] Rozwijanie i zarządzanie sklepem internetowym
+[*] Crackowanie gier konkurencji
+[*] Odblokowywanie nowych gatunków gier
+[*] Szpiegowanie konkurencji
+[*] Zatrudnianie pracowników
+[*] Organizowanie kampanii marketingowych
+[*] Organizowanie i uczestniczenie w konferencjach
+[*] Wykupywanie firm
+[*] Realizowanie zamówień, które szkolą pracowników
+[*] Przeniesienie gier na różne konsole
+[*] Projektowanie logo firmy
+[*] Zarządzaj harmonogramami swoich pracowników
+[*] Otrzymać nagrodę Gry Roku
+[*] Dobrze się bawić[/list]
 
 [h2]This game doesn’t have[/h2]
 [list][*] eSport competitions
