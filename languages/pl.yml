@@ -155,25 +155,25 @@ pl:
   LABEL_GOTY_PROBABILITY: Szanse na wygraną w grze roku
   LABEL_EVENT_STOCK_YEARLY_TITLE: Roczna wypłata dywidendy
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
-    Dear [b]%s[/b],
+    Drogi [b]%s[/b],
 
-    As we do every year at this time of year it is our
-    great pleasure to pay out dividends to shareholders.
+    Jak co roku o tej porze mamy ogromną przyjemność 
+    wypłacić akcjonariuszom dywidendę.
 
     %s
 
-    Along with the dividends come taxes,
-    $[b]%s[/b] of taxes have been deducted from your dividends,
-    so you will receive $[b]%s[/b] after taxes.
+    Wraz z dywidendą przychodzą podatki,
+    $[b]%s[/b] podatków zostało odliczone od twojej dywidendy,
+    więc otrzymasz $[b]%s[/b] po opodatkowaniu.
 
-    Have a nice day.
-    Binogure    
+    Życzę miłego dnia.
+    Binogure
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
-    ‣ [b]%s[/b]: As a shareholder, you own [b]%s[/b] shares, which brings you $[b]%s[/b].    
+    ‣ [b]%s[/b]: Jako akcjonariusz posiadasz [b]%s[/b] akcji, co przynosi Ci $[b]%s[/b].
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
-    [i]You hold [b]%s[/b] shares of [b]%s[/b], so you receive $[b]%s[/b],[/i]
-    [i]which represents $[b]%s[/b] per share.[/i]
-  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s wants to buy out %s!"
+    [i]Posiadasz [b]%s[/b] akcji [b]%s[/b], więc otrzymujesz $[b]%s[/b],[/i]
+    [i]co stanowi $[b]%s[/b] za akcję[/i].
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s chce wykupić %s!"
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
     Dear [b]%s[/b],
 
