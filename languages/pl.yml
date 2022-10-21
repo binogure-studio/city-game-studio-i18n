@@ -2039,30 +2039,32 @@ pl:
     Gromadzi zlecenia kupna i sprzedaży
     wydane w tym przedziale czasowym.
   TOOLTIP_TRADE_CHART: |
-    The operation is basic, each candle can be red or blue,
-    it's red when the price of a stock has fallen, on the
-    other hand it's blue if the price has increased compared
-    to the beginning of the same candle. The rectangle is
-    the body of the candle, it represents the variation
-    from the opening to the closing and a thin line that
-    crosses it indicates the maximum and minimum.
+    Działanie jest podstawowe, każda świeczka może być czerwona lub 
+    niebieska,
+    jest czerwona, gdy cena akcji spadła, z drugiej strony jest niebieska, 
+    gdy cena wzrosła w odniesieniu do ceny akcji.
+    z drugiej strony jest niebieski, jeśli cena wzrosła w porównaniu do
+    w stosunku do początku tej samej świecy. Prostokąt jest
+    korpusem świeczki, reprezentuje zmianę
+    od otwarcia do zamknięcia, a cienka linia, która
+    przecina ją, wskazuje maksimum i minimum.
   TOOLTIP_GAME_SIZE: |
-    Game size impacts the number of points required,
-    game development time and production costs.
+    Wielkość gry wpływa na liczbę wymaganych punktów,
+    czas tworzenia gry i koszty produkcji.
 
-    It is more difficult to get a score above 90 with a small game than with a large game.
+    Trudniej jest uzyskać wynik powyżej 90 punktów w małej grze niż w dużej.
   TOOLTIP_THEME_TREND: |
-    Trend of themes affects the sales.
+    Trendy tematyczne mają wpływ na sprzedaż.
   TOOLTIP_HAPPY_EMPLOYEE: |
-    Your employee is happy
+    Twój pracownik jest zadowolony
   TOOLTIP_EMPLOYEE_HAPPINESS: |
-    The happier an employee is, the less often he will go on vacation.
-    The more unhappy an employee is, the more often they will go on vacation.
+    Im bardziej szczęśliwy jest pracownik, tym rzadziej będzie szedł na urlop.
+    Im bardziej nieszczęśliwy jest pracownik, tym częściej będzie chodzić na urlop.
   TOOLTIP_EMPLOYEE_PRODUCTIVITY: |
-    The higher the productivity of employees, the more points they will produce.
+    Im wyższa wydajność pracowników, tym więcej punktów będą wytwarzać.
   TOOLTIP_GAME_PRICE: |
-    The higher the price of a game, the higher the profit.
-    But lowering the price of a game helps to gain more fans.
+    Im wyższa cena gry, tym większy zysk.
+    Ale obniżenie ceny gry pomaga zdobyć więcej fanów.
   TOOLTIP_TOO_HARD: |
     This level of difficulty is challenging.
     It is better to have completed the game in difficulty 1 or 2 before doing so.
