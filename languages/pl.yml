@@ -968,36 +968,36 @@ pl:
 
     Binogure
   LABEL_CREATE_POSTMORTEM: Zrób raport z gry
-  LABEL_VENDING_MACHINE: Vending machine
-  LABEL_GAME_SPEED: Game speed
-  LABEL_SPEED_NORMAL: Normal
-  LABEL_SPEED_SLOW: Slow
-  LABEL_SPEED_SLOWEST: Slowest
-  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Fire unassigned employees
-  LABEL_FURNISH_MOD: Auto-furnish mode
-  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Only empty studios can be automatically furnished
-  LABEL_HAPPINESS: Happiness
-  LABEL_FILTER_BY: Filter by
-  LABEL_DOOR: Door
-  LABEL_COGS: Cost of Goods Sold
-  LABEL_TAXES: Taxes
-  LABEL_FIXED_COSTS: Fixed costs
-  LABEL_OVERVIEW: Overview
-  LABEL_LOW_CONFIGURATION: Low settings
+  LABEL_VENDING_MACHINE: Automat do sprzedaży
+  LABEL_GAME_SPEED: Prędkość gry
+  LABEL_SPEED_NORMAL: Normalna
+  LABEL_SPEED_SLOW: Powolne
+  LABEL_SPEED_SLOWEST: Najwolniej
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Zwalnianie pracowników nieprzydzielonych
+  LABEL_FURNISH_MOD: Tryb automatycznego uzupełniania zapasów
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Tylko puste studia mogą być automatycznie umeblowane
+  LABEL_HAPPINESS: Szczęście
+  LABEL_FILTER_BY: Filtr według
+  LABEL_DOOR: Drzwi
+  LABEL_COGS: Koszty sprzedanych towarów
+  LABEL_TAXES: Podatki
+  LABEL_FIXED_COSTS: Koszty stałe
+  LABEL_OVERVIEW: Przegląd
+  LABEL_LOW_CONFIGURATION: Niskie ustawienia
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
-    Use the mouse to move the screen
-  LABEL_WEEK: weeks
-  LABEL_TOOLS: Made with
-  LABEL_SANDBOX: Mode sandbox
-  LABEL_SAVING: Saving game in progress
-  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Compensation payments
+    Użyj myszki, aby przesunąć ekran
+  LABEL_WEEK: tygodnie
+  LABEL_TOOLS: Wykonane z
+  LABEL_SANDBOX: Tryb piaskownicy (sandbox)
+  LABEL_SAVING: Zapisywanie bieżącej gry
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Wypłaty odszkodowań
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
-    Dear [b]%s[/b],
+    Szanowny [b]%s[/b],
 
-    Since [b]%s[/b] has not met with the expected success, we are committed to paying the [b]%s$[/b] penalty as soon as possible.
-    We hope this snag won't harm future cooperation.
+    Ponieważ [b]%s[/b] nie osiągnął oczekiwanego sukcesu, zobowiązujemy się do jak najszybszej zapłaty kary [b]%s$[/b].
+    Mamy nadzieję, że ta wpadka nie zaszkodzi przyszłej współpracy.
 
-    Respectfully,
+    Z poważaniem,
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     Cannot publish a new game yet
