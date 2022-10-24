@@ -804,44 +804,44 @@ pl:
   LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: Realistyczna kinematyka
   LABEL_GAME_ENGINE_LEADERBOARD: Tablica liderów
   LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: Tablica liderów w chmurze
-  LABEL_BUSY: Busy
-  LABEL_AVAILABLE: Available
-  LABEL_AUTOATTEND_CONVENTION: Automatically participate in all the conventions.
-  LABEL_SERVER_CAPACITY: Servers capacity
-  LABEL_SERVER_RENT_CAPACITY: Rented servers capacity
-  LABEL_TOTAL_COST: Total costs
-  LABEL_RENT_SERVER_COST: Servers rental costs
+  LABEL_BUSY: Zajęte
+  LABEL_AVAILABLE: Dostępne
+  LABEL_AUTOATTEND_CONVENTION: Automatycznie uczestnicz w wszystkich konferencjach.
+  LABEL_SERVER_CAPACITY: Wydajność serwerów
+  LABEL_SERVER_RENT_CAPACITY: Wydajność wynajmowanych serwerów
+  LABEL_TOTAL_COST: Całkowity koszt
+  LABEL_RENT_SERVER_COST: Koszty wynajęcia serwerów
   LABEL_SERVER_USAGE_THRESHOLD: >
-    Rent new servers as soon as the servers load reaches this threshold:
+    Wynajmuj nowe serwery, gdy tylko obciążenie serwerów osiągnie ten próg:
   LABEL_STEAM_NOT_DETECTED: |
-    Steam can't be reached.
+    Nie można uzyskać połączenia ze Steam-em.
 
-    Please restart Steam.
-    If the problem persists, please contact us:
+    Proszę ponownie uruchomić Steam.
+    Jeśli problem nadal występuje, prosimy o kontakt:
     contact@binogure-studio.com
-  LABEL_ONLINE_GAMES: Online games
+  LABEL_ONLINE_GAMES: Gry online
   LABEL_CLOUD_SERVER: >
-    Cloud computing is the on-demand availability of computer system resources
+    Chmura obliczeniowa to udostępnianie na żądanie zasobów systemów komputerowych
   TOOLTIP_CLOUD_SERVERS: |
-    No more huge buildings to house hundreds of servers
-  LABEL_RENT_SERVERS: Rent servers
-  LABEL_ENABLED: Enabled
-  LABEL_DISABLED: Disabled
-  LABEL_TOTAL_UNIT_SOLD: Total units sold
-  LABEL_DS_PLATFORM_NOT_COMPATIBLE: This gaming platform is not supported by your digital store
-  LABEL_DISCONTINUE_PLATFORM_TITLE: Discontinue platform
+    Koniec z ogromnymi budynkami zajmującymi setki serwerów
+  LABEL_RENT_SERVERS: Wynajem serwerów
+  LABEL_ENABLED: Włączone
+  LABEL_DISABLED: Wyłączone
+  LABEL_TOTAL_UNIT_SOLD: Łączna liczba sprzedanych jednostek
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Ta platforma gier nie jest obsługiwana przez Twój sklep cyfrowy
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Wycofanie platformy
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
-    You are still selling at least one game on '%s' via the digital store.
+    Nadal sprzedajesz co najmniej jedną grę na '%s' za pośrednictwem sklepu cyfrowego.
 
-    Are you sure you want to stop supporting platform '%s'?
+    Czy na pewno chcesz przestać wspierać platformę '%s'?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
-    To support more than one platform, you need to develop
-    the Cross-platform feature for the digital store.
-  LABEL_DS_SUPPORT_ALL_PLATFORMS: Support all platforms
-  LABEL_NUMBER_OF_PLATFORMS: Number of platforms
-  LABEL_SERVER_LOAD: Servers' load
-  LABEL_SALES_BONUS: Sales boost
-  LABEL_SERVER_COST: Servers costs
+    Aby obsługiwać więcej niż jedną platformę, należy opracować
+    funkcję Wieloplatformową dla sklepu cyfrowego.
+  LABEL_DS_SUPPORT_ALL_PLATFORMS: Wsparcie dla wszystkich platform
+  LABEL_NUMBER_OF_PLATFORMS: Ilość platform
+  LABEL_SERVER_LOAD: Obciążenie serwerów
+  LABEL_SALES_BONUS: Wzrost sprzedaży
+  LABEL_SERVER_COST: Koszty serwerów
   LABEL_DS_SALES: Games sales
   LABEL_DS_PLATFORMCUT: Digital store's cut
   LABEL_DS_CCU: Concurrent users
