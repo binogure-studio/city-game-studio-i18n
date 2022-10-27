@@ -24,7 +24,7 @@ pl:
   BUTTON_RESET: Reset
   BUTTON_SKIP: Pomiń
   BUTTON_START: Start
-  BUTTON_NEED_STUDIO: Brak dostępnego Studia
+  BUTTON_NEED_STUDIO: Brak dostępnej pracowni
   BUTTON_CLEAR_EVENTS: Jasne / czyść
   BUTTON_TOO_BAD: Niedobrze
   BUTTON_BUY_ANOTHER_ONE: Kup kolejny
@@ -48,14 +48,14 @@ pl:
   BUTTON_DELETE_ALL: Usuń wszystko
   BUTTON_SPAM: Oznacz jako spam
   BUTTON_UNSPAM: Nie jest to spam
-  BUTTON_HOLIDAY: Wyślij studio na urlop
+  BUTTON_HOLIDAY: Wyślij pracownię na wakacje
   BUTTON_HOLIDAY_SOLO: Wyślij na urlop
   BUTTON_MODS: Mod-y
   BUTTON_BUGREPORT: Zgłoszenie błędu
   BUTTON_FEEDBACK: Informacja zwrotna (feedback)
   DROPDOWN_LANGUAGE: Języki
   BUTTON_CRACK_GAME: Rozwal tę grę
-  BUTTON_FORCE_STUDIO_SELL: Wymuś sprzedaż studia
+  BUTTON_FORCE_STUDIO_SELL: Wymuś sprzedaż pracowni
   BUTTON_SPY: Szpiegowanie konkurencji
   BUTTON_HIRE_THEIR_EMPLOYE: Zatrudnij ich pracownika
   BUTTON_SELECT: Wybierz
@@ -72,7 +72,7 @@ pl:
   BUTTON_UPDATE: Aktualizacja
   BUTTON_EDIT: Edytuj
   BUTTON_CONFINE_MOUSE: Ograniczenie kursora myszki
-  BUTTON_SHOW_STUDIO: Pokaż studio
+  BUTTON_SHOW_STUDIO: Pokaż pracownię
   BUTTON_CANCEL_GAME: Odwołaj grę
   BUTTON_VIEW_SEQUEL: Zobacz sekwencję
   BUTTON_COPY: Kopiuj
@@ -516,7 +516,7 @@ pl:
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
     Witaj [b]%s[/b],
 
-    Cieszę się, że wasze studio wydaje wysokiej jakości gry. Jestem tutaj, aby porozmawiać o [b]%s[/b], ta gra wygląda obiecująco i chciałbym pomóc Ci sprawić, aby jej wydanie było światowym sukcesem! [b]%s[/b] zostanie wyróżniona, a my zapakujemy Twoją grę do naszej konsoli. W zamian za to chcemy, aby ta gra była ekskluzywna dla [b]%s[/b]. [i](Wszystkie przeniesienia na inne niż [b]%s[/b] konsole zostaną anulowane)[/i]
+    Cieszę się, że Wasza pracownia wydaje wysokiej jakości gry. Jestem tutaj, aby porozmawiać o [b]%s[/b], ta gra wygląda obiecująco i chciałbym pomóc Ci sprawić, aby jej wydanie było światowym sukcesem! [b]%s[/b] zostanie wyróżniona, a my zapakujemy Twoją grę do naszej konsoli. W zamian za to chcemy, aby ta gra była ekskluzywna dla [b]%s[/b]. [i](Wszystkie przeniesienia na inne niż [b]%s[/b] konsole zostaną anulowane)[/i]
     Oprócz pokazania Twojej gry, oferujemy Ci [b]%s$[/b]. Czy jesteśmy umówieni?
   LABEL_CLOUDS: Pokaż chmury na mapie
   LABEL_AUTOSAVE: Automatyczne zapisywanie
@@ -672,7 +672,7 @@ pl:
   LABEL_SUBSCRIPTION_PRICE: Cena subskrypcji
   LABEL_GAME_PRICE: Cena gry
   LABEL_UPDATE_PRICE: Cena aktualizacji gry
-  LABEL_X_STUDIOS: "%d studiów"
+  LABEL_X_STUDIOS: "%d pracowni"
   LABEL_RANDOM_SLIDER: Losowe ustawianie suwaków w grach
   LABEL_DISCOUNT: Zrób rabat
   LABEL_ORGANIZE_YEARLY: Organizowanie corocznych konferencji
@@ -953,7 +953,7 @@ pl:
   LABEL_BEST_GAME: Najlepsza gra
   LABEL_AMOUNT_GAMEPORT: Liczba połączeń w grze
   LABEL_AMOUNT_EDITED_GAME: Liczba wydanych gier
-  LABEL_AMOUNT_STUDIO: Liczba studiów
+  LABEL_AMOUNT_STUDIO: Liczba pracowni
   LABEL_AMOUNT_POSTMORTEM: Liczba sprawozdań
   LABEL_AMOUNT_ATTENDED_CONVENTION: Liczba uczestników konferencji
   LABEL_AMOUNT_DESK: Liczba biurek
@@ -975,7 +975,7 @@ pl:
   LABEL_SPEED_SLOWEST: Wolno
   LABEL_FIRE_UNASSIGNED_EMPLOYEE: Zwalnianie pracowników nieprzydzielonych
   LABEL_FURNISH_MOD: Tryb automatycznego uzupełniania zapasów
-  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Tylko puste studia mogą być automatycznie umeblowane
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Tylko puste pracownie mogą być automatycznie umeblowane
   LABEL_HAPPINESS: Szczęście
   LABEL_FILTER_BY: Filtr według
   LABEL_DOOR: Drzwi
@@ -1010,7 +1010,7 @@ pl:
     Wymaga %d pracowników.
     Wymaga %d producentów.
   LABEL_STUDIO_NOT_BALANCED: >
-    Sprawdź zespół swojego studia. Nie produkuje on tyle samo Projektantów / Programistów czy "Szlifierów".
+    Sprawdź zespół w swojej pracowni. Nie produkuje on tyle samo Projektantów / Programistów czy "Szlifierów".
     Będzie to miało wpływ w grach, które stworzysz.
   LABEL_LAST_COMBO: "Ostatni raz zrobiłeś tą samą kombinację motyw/gatunek."
   LABEL_POINTRATIO_NOT_ENOUGH: |
@@ -1134,7 +1134,7 @@ pl:
   LABEL_UPGRADE_COMPUTER: Automatyczna modernizacja komputerów
   LABEL_UPGRADE_SERVER: Automatyczne ulepszanie serwerów
   LABEL_COMPANY_WIDE: W skali całego przedsiębiorstwa
-  LABEL_STUDIO_WIDE: To studio
+  LABEL_STUDIO_WIDE: Ta pracownia
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     Aby mieć do czynienia z wydawcą, musisz mieć co najmniej 5 pracowników.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s anulowano"
@@ -1198,7 +1198,7 @@ pl:
     [b]%s[/b]
   LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Rezygnacja
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
-    Nie masz studia, które mogłoby stworzyć grę o normalnych lub większych rozmiarach.
+    Nie masz pracowni, która mogłaby stworzyć grę o normalnych lub większych rozmiarach.
   LABEL_NO_FAN_BIG_GAME: >
     Aby stworzyć grę o normalnym lub większym rozmiarze, zaleca się posiadanie co najmniej [b]%s[/b] fanów, w przeciwnym razie będzie to miało wpływ na sprzedaż
   LABEL_CONCURRENT_AMOUNT: Ilość konkurentów
@@ -1307,7 +1307,7 @@ pl:
   LABEL_SQUARE_FOOTAGE: Obszar
   LABEL_STAFF: Personel
   LABEL_STORY: Historia
-  LABEL_STUDIO: Studio
+  LABEL_STUDIO: Pracownia
   LABEL_TARGETTED_AUDIENCE: Grupa docelowa
   LABEL_THEME: Motyw
   LABEL_TUTORIEL: Samouczek
@@ -1559,7 +1559,7 @@ pl:
   LABEL_CREATE_SEQUEL: Stworzyć kontynuację
   LABEL_NEW_IP: Nowa idea
   LABEL_POSTMORTEM: Pośmiertnie
-  LABEL_EMPTY_STUDIO: W tym studiu nie ma żadnego biurka z komputerem!
+  LABEL_EMPTY_STUDIO: W tej pracowni nie ma żadnego biurka z komputerem!
   LABEL_MATCH_EXCELLENT: Świetny pojedynek
   LABEL_MATCH_GOOD: Dobry pojedynek
   LABEL_MATCH_OK: Ok pojedynek
@@ -1582,7 +1582,7 @@ pl:
   LABEL_PLATFORM_LIST: Lista platform
   LABEL_IDLE: Bezrobotny
   LABEL_ADOPT_CAT_DESCRIPTION: >
-    Pracownicy studia [b]%s[/b] znaleźli bezpańskiego kota ukrytego za jakimiś śmieciami.
+    Pracownicy pracowni [b]%s[/b] znaleźli bezpańskiego kota ukrytego za jakimiś śmieciami.
     Ten kot jest bardzo milutki i pracownicy nadali mu już imię. Co chcesz zrobić?
   LABEL_ADOPT_CAT_TITLE: Bezpański kot
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
@@ -1603,7 +1603,7 @@ pl:
   LABEL_UNLOCK_MOBA_LIKE_TITLE: Wymyślono nowy gatunek MOBA
   LABEL_BROKEN_COFFEEMAKER_TITLE: Zepsuty ekspres do kawy
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
-    Twoi pracownicy z studia [b]%s[/b] są uzależnieni od kawy.
+    Twoi pracownicy z pracowni [b]%s[/b] są uzależnieni od kawy.
     Ale ekspres do kawy wydał swoją ostatnią filiżankę...
   LABEL_RABBIT_INVASION_DESCRIPTION: >
     Króliki, króliki wszędzie. Wydają jakieś odgłosy... biegają wszędzie.
@@ -1639,10 +1639,10 @@ pl:
   LABEL_SMOKING_SERVER_TITLE: Ostrzeżenie o wydajności serwera
   LABEL_PAYLOAN_TITLE: Spłata pożyczki
   LABEL_PAYLOAN_DESCRIPTION: Zaplanowana spłata dobiegła końca i musisz zapłacić [b]%s$[/b].
-  LABEL_SELL_STUDIO_TITLE: Sprzedaż studia
-  LABEL_SELL_STUDIO_DESCRIPTION: Sprzedajesz studio [b]%s[/b], czy nadal chcesz kontynuować?
+  LABEL_SELL_STUDIO_TITLE: Sprzedaż pracowni
+  LABEL_SELL_STUDIO_DESCRIPTION: Sprzedajesz pracownię [b]%s[/b], czy nadal chcesz to kontynuować?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
-    Ponieważ %s to twoja ostatnie studio lub jest zajęte
+    Ponieważ %s to twoja ostatnia pracownia lub jest zajęte
     by pracować nad projektem, nie możesz go sprzedać.
   LABEL_BUILDING_AREA: Powierzchnia %s m²
   LABEL_BUILDING_BUY: Cena
@@ -1655,8 +1655,8 @@ pl:
   LABEL_BUILDING_HOTEL: Hotel
   LABEL_BUILDING_THEATER: Teatr
   LABEL_BUILDING_TOWER: Wieża
-  LABEL_BUILDING_STUDIO: Studio
-  LABEL_BUILDING_BIGSTUDIO: Duże Studio
+  LABEL_BUILDING_STUDIO: Pracownia
+  LABEL_BUILDING_BIGSTUDIO: Duża pracownia
   LABEL_BUILDING_BUILDING: Rezydencja
   LABEL_BUILDING_GRASS: Trawa
   LABEL_BUILDING_SQUARE: Plac
@@ -1686,12 +1686,12 @@ pl:
   LABEL_METALBOOKSHELF: Regał metalowy
   LABEL_HOLIDAY: Urlop
   LABEL_NO_COMPUTER: Nie ma komputera
-  LABEL_NO_STUDIO: Bez studia
+  LABEL_NO_STUDIO: Nie ma pracowni
   LABEL_EMPLOYEE_CAPACITY: Prod.
-  LABEL_STUDIO_CAPACITY: Prod. studio
+  LABEL_STUDIO_CAPACITY: Prod. pracowni
   LABEL_EMPLOYEE_TOOLTIP: Produktywność (Prod.) zwiększa wydajność pracowników.
-  LABEL_STUDIO_TOOLTIP: Produktywność (Prod.) zwiększa wydajność studia.
-  LABEL_BUILD_STUDIO: Edytuj studio
+  LABEL_STUDIO_TOOLTIP: Produktywność (Prod.) zwiększa wydajność pracowni.
+  LABEL_BUILD_STUDIO: Edycja pracowni
   LABEL_WALL: Ściana
   LABEL_PILLAR: Filar
   LABEL_FLOOR: Podłoga
@@ -1709,12 +1709,12 @@ pl:
   LABEL_ORDER_BY: Sortuj po
   LABEL_BUY_PRICE: Cena zakupu
   LABEL_RENT_PRICE: Cena wynajmu
-  LABEL_NO_STUDIO_AVAILABLE: Brak dostępnego studia
+  LABEL_NO_STUDIO_AVAILABLE: Brak dostępnej pracowni
   LABEL_REAL_ESTATE: Nieruchomości
   LABEL_STAFF_SIZE: Liczba pracowników
   LABEL_CREATION_DATE: Data powstania
-  LABEL_STUDIO_LIST: Wykaz studiów
-  LABEL_NO_STUDIO_FOUND: Nie znaleziono studia
+  LABEL_STUDIO_LIST: Wykaz pracowni
+  LABEL_NO_STUDIO_FOUND: Nie znaleziono pracowni
   LABEL_PRODUCTIVITY_BONUS: Premia za produktywność
   LABEL_SKILLS_AVERAGE: Umiejętności (średnia)
   LABEL_VSYNC: V-Sync
@@ -1735,17 +1735,17 @@ pl:
   LABEL_MARKETING_CAMPAIGN_INTERNET: >
     Zaczyna się era Internetu, można dotrzeć do milionów ludzi za pomocą prostego banera reklamowego.
   LABEL_CONCURRENT_STUDIOS_LIST: >
-    Twoje studio się rozwija, czas zbadać rynek i zerknąć na konkurencję.
+    Twoja pracownia się rozwija, czas zbadać rynek i zerknąć na konkurencję.
   LABEL_CONCURRENT_STUDIOS_BUY: >
-    Masz w rękach ciastko, może czas kupić konkurencyjne studia?
+    Masz w rękach ciastko, może czas kupić konkurencyjną pracownię?
   LABEL_FURNITURES_COMMON_BUY: >
     Teraz czas na eleganckie przemeblowanie biura.
   LABEL_EMPLOYEES_HIRE: >
-    Twoje studio się rozwija, produkuje kolejne gry, poprawia się ich jakość. Ale najpierw musisz przeprowadzić rekrutację.
+    Twoja pracownia się rozwija, produkuje kolejne gry, poprawia się ich jakość. Ale najpierw musisz przeprowadzić rekrutację.
   LABEL_STUDIO_RENT: >
-    Czujesz się teraz zamknięty w swoim małym studio, idź po kolejne miejsce.
+    Czujesz się teraz zamknięty w swojej małej pracowni, idź po kolejne miejsce.
   LABEL_STUDIO_BUILD: >
-    Twój sukces pozwala na budowanie własnych studiów.
+    Twój sukces pozwala Ci na budowanie własnych pracowni.
   LABEL_CONVENTION_ORGANIZE: >
     Mając poparcie 100 tyś. ludzi, możesz teraz organizować własne konferencje.
   LABEL_CONVENTION_PARTICIPATE: >
@@ -1807,7 +1807,7 @@ pl:
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
     Możesz przejrzeć oferty wydawców. Wydanie gry to łatwy sposób na zdobycie popularności i wydanie większych gier.
   LABEL_WORLDMAP_DESCRIPTION_0: >
-    Odwiedź miasto, przyjrzyj się konkurencji i sprawdź, gdzie znajduje się Twoje studio.
+    Odwiedź miasto, przyjrzyj się konkurencji i sprawdź, gdzie znajduje się Twoja pracownia.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
     Pozwala na zorganizowanie kampanii marketingowej poprzez wiele czasopism o grach. Dzięki temu zwiększysz widoczność swoich gier.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
@@ -1827,7 +1827,7 @@ pl:
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Kupowanie konkurencji to łatwy sposób na zdobycie wielu fanów, a także na rozbudowę firmy.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    Oglądając jedno ze swoich studiów, możesz teraz kupić nowe meble.
+    Oglądając jedną ze swoich pracowni, możesz teraz kupić nowe meble.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
     Keep in mind that the best games are produced by teams as strong in design, development and polishing.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
@@ -2135,13 +2135,13 @@ pl:
   TOOLTIP_MATCH_OK: Pojedynek był OK
   TOOLTIP_MATCH_POOR: Słaby pojedynek
   TOOTIP_STUDIO_HAPPINESS: |
-    Jakie gatunki gier lubią wybrane studia
+    Jakie gatunki gier lubi wybrana pracownia
   TOOLTIP_TOPSALES: |
     Najlepiej sprzedające się gry
   TOOLTIP_CONVENTION_LIST: |
     Uczestnictwo w konferencjach
   TOOLTIP_FORCE_STUDIO: |
-    Musisz wybrać studio, do którego chcesz wymusić sprzedaż.
+    Musisz wybrać pracownię, w której chcesz wymusić sprzedaż.
   TOOLTIP_CRACK_GAME: |
     Musisz wybrać grę, którą chcesz zhakować.
   TOOLTIP_HIRE_STAFF: |
@@ -2167,7 +2167,7 @@ pl:
   TOOLTIP_PORTFOLIO: Wymień wszystkie gry, które do tej pory zrobiłeś.
   TOOLTIP_OPTION: Parametry i opcje
   TOOLTIP_EXIT: Powrót do biurka
-  TOOLTIP_STUDIOS: Lista twoich studiów
+  TOOLTIP_STUDIOS: Lista twoich pracowni
   TOOLTIP_STUDIOLIST: Lista biur dostępnych w mieście
   TOOLTIP_CONSTRUCT: |
     Stwórz nowy budynek
@@ -2179,14 +2179,14 @@ pl:
   TOOLTIP_SHOP: Kup meble i rzeczy do biura
   TOOLTIP_BUILDMOD: Pomaluj i upiększ swoje biuro
   TOOLTIP_ASSIGN: Przydzielanie pracownika
-  TOOLTIP_STUDIO_SELECT: Wybierz studio
+  TOOLTIP_STUDIO_SELECT: Wybierz pracownie
   TOOLTIP_ANNOUNCE_GAME: |
     Zapowiedź gry wideo.
     Generuje plotkę.
   TOOLTIP_CONCURRENT: |
     Wykaz firm produkujących gry wideo
   TOOLTIP_STUDIO_COST: |
-    Całkowite koszty studia. W tym czynsz, jak również koszt
+    Całkowity koszt pracowni. W tym czynsz, jak również koszt
     utrzymania sprzętu (np. serwerów)
   TOOLTIP_MARKETING_COST: |
     Koszty prowadzonych kampanii marketingowych
@@ -2246,9 +2246,9 @@ pl:
   LOADING_SCREEN_TIP_18: >
     Nie polegaj na wszystkim, co możesz przeczytać na tych ekranach ładowania.
   LOADING_SCREEN_TIP_19: >
-    Adopcja kota dodaje malutki bonus do Twoich studiów.
+    Adopcja kota dodaje malutki bonus do Twoich pracowni.
   LOADING_SCREEN_TIP_20: >
-    Jeśli Twoje studio ma nierówny poziom umiejętności, może to wpłynąć na ogólną jakość gry.
+    Jeśli twoja pracownia ma nierówny poziom umiejętności, może to wpłynąć na ogólną jakość gry.
   LOADING_SCREEN_TIP_21: >
     Naciśnij F1, aby otworzyć konsolę gry
 
@@ -2264,11 +2264,11 @@ pl:
   CONCURRENT_STUDIOS_BUY: Wykupienie konkurentów
   FURNITURES_COMMON_BUY: Zakup wyposażenia
   EMPLOYEES_HIRE: Zatrudnij pracowników
-  STUDIO_RENT: Wynajmij apartament typu studio
-  STUDIO_BUILD: Budowanie studia
+  STUDIO_RENT: Wynajem mieszkania typu kawalerka
+  STUDIO_BUILD: Budowa pracowni
   CONVENTION_ORGANIZE: Zorganizuj konferencję
   CONVENTION_PARTICIPATE: Weź udział w konferencji
-  STUDIO_CUSTOMIZE: Wyremontuj swoje studia
+  STUDIO_CUSTOMIZE: Wyremontuj swoje pracownie
   FURNITURES_SERVERS_BUY: Zakup serwerów
   GAME_ONLINE: Wydawanie gier online
   DIGITAL_STORE: Sklep dematerializowany
