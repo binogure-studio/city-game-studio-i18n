@@ -4,12 +4,12 @@ Styczeń 1975 roku, właśnie utworzyłeś własną firmę produkującą gry wid
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
-Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczająco dużo fanów do self-publikacji dużej gry, aby Twoje studio było dochodowe. Będziesz musiał zwrócić się do wydawców gier wideo, którzy wyrzeźbią dla ciebie lwią część. Łańcuch sukcesów to jedyny sposób na pozbycie się wydawców. Ponadto będziesz w stanie opublikować własne umowy wydawnicze. Wtedy będziesz gotów zdominować rynek i wykupić swoich konkurentów.
+Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczająco dużo fanów do self-publikacji dużej gry, aby Twoja pracownia była dochodowa. Będziesz musiał zwrócić się do wydawców gier wideo, którzy wyrzeźbią dla ciebie lwią część. Łańcuch sukcesów to jedyny sposób na pozbycie się wydawców. Ponadto będziesz w stanie opublikować własne umowy wydawnicze. Wtedy będziesz gotów zdominować rynek i wykupić swoich konkurentów.
 
 [img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
 
 [h2]Lista funkcji[/h2]
-[lista][*] Twórz lub wypożyczaj engine'y gier
+[lista][*] Twórz lub wypożyczaj silniki gier
 [*] Przyjmowanie/publikowanie propozycji gier
 [*] Kupowanie lub wynajmowanie różnych budynków
 [*] Rozwijanie i zarządzanie sklepem internetowym
@@ -24,8 +24,8 @@ Ale problem pozostaje, nawet jeśli twoje gry są genialne, nie masz wystarczaj�
 [*] Przeniesienie gier na różne konsole
 [*] Projektowanie logo firmy
 [*] Zarządzaj harmonogramami swoich pracowników
-[*] Otrzymać nagrodę Gry Roku
-[*] Dobrze się bawić[/list]
+[*] Otrzymuj nagrodę Gry Roku
+[*] Dobrze się baw[/list]
 
 [h2]Ta gra nie posiada[/h2]
 [lista][*] Zawodów typu e-Sport
