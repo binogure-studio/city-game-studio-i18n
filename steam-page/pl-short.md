@@ -1,1 +1,1 @@
-Jesteś założycielem swojej firmy gier wideo. Początek należy do Ciebie, w Twoim garażu, albo pomyśl o czymś dużym zamiast o małym, nabywając pierwszy lokal. Pod koniec dnia, twoje decyzje uczynią twoje studio sukcesem i zaznaczą historię gier wideo.
+Jesteś założycielem swojej firmy gier wideo. Początek zależy do Ciebie, możesz zacząć w swoim garażu albo pomyśl o czymś dużym zamiast o małym garażu i kupić swój pierwszy lokal. W końcu to twoje propozycje gier sprawią, że twoja pracownia stanie się częścią historii gier.
