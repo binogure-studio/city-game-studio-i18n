@@ -266,7 +266,7 @@ pl:
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
     Szefie, [b]%s[/b] jest zhakowany.
     Musimy zrobić coś, aby to powstrzymać, zanim będzie za późno!
-    Musisz powiedzieć tylko jedno słowo!a
+    Musisz powiedzieć tylko jedno słowo!
   LABEL_MINIGAME_DEFEND_START: |
     Chodźmy!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
@@ -1033,17 +1033,17 @@ pl:
   LABEL_REVIEW_PLATFORM_GOOD: |
     [b]%s[/b] ma świetny zespół, błyszczą na wszystkich stronach.
   LABEL_REVIEW_PLATFORM_BAD: |
-    [b]%s[/b] nie może wydawać świetnych [b]%s[/b] gier na [b]%s[/b] z powodu braku siły roboczej.
+    Czas, aby [b]%s[/b] zatrudnił więcej pracowników. Nie mają siły roboczej, by móc wydać [b]%s[/b] gier na [b]%s[/b]
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b] nie dorównuje ich reputacji. Oczekiwaliśmy od nich więcej, zwłaszcza po [b]%s[/b].
+    [b]%s[/b] nie spełnia swojej sławy. Oczekiwaliśmy od nich więcej, zwłaszcza po [b]%s[/b].
   LABEL_REVIEW_COMBO_GOOD: |
     [b]%s[/b] próbuje nowych kombinacji i wychodzi im to na dobre. Jest to doskonała gra [b]%s[/b].
   LABEL_REVIEW_COMBO_BAD: |
-    Jeszcze jedna gra w [b]%s[/b]. Muszą się nauczyć odnawiania się w [b]%s[/b].
+    Jeszcze jedna gra typu [b]%s[/b]. [b]%s[/b] muszą się nauczyć jak się odnawia grę!
   LABEL_CRACKED: Złamane
   LABEL_SELECT_COMPANY_SPECIALIZATION: Specjalizacja w zakresie gatunków gier
   LABEL_DISCORD_COMMUNITY: Społeczność Discord
-  LABEL_LAST_MONTH: Będzie trwać przez %s miesięcy.
+  LABEL_LAST_MONTH: Będzie trwał %s miesięcy
   LABEL_SUCCESS_RATE: Prawdopodobieństwo sukcesu
   LABEL_RISKS: Możliwe zagrożenia
   LABEL_SALES_HITS_TITLE: Raport sprzedaży
@@ -1112,7 +1112,7 @@ pl:
   LABEL_UNLOCKED: "Odblokowany"
   LABEL_COST: Koszt %s punktów
   LABEL_FANBASE_TRENDS: Rozwój bazy fanów
-  LABEL_YEAR: Lata
+  LABEL_YEAR: Lat
   LABEL_GAMEOVER_CONFIRM: Upadłość
   LABEL_GAMEOVER_DESCRIPTION: >
     Upadłość zakończy tę grę.
@@ -1245,7 +1245,7 @@ pl:
   LABEL_ATTEND: Odwiedź stronę
   LABEL_ORGANIZE: Organizuj
   LABEL_INFORMATIONS: Szczegóły
-  LABEL_GAME: Gra
+  LABEL_GAME: Gier
   LABEL_GAMEPORT: Przeniesienie gry
   LABEL_CONVENTION: Centrum targowe
   LABEL_LAND_VALUE: Wartość gruntu
@@ -1426,10 +1426,10 @@ pl:
   LABEL_TYPE_RYTHM: Rytmiczna
   LABEL_TYPE_CLICKER_GAME: Klikanie-gra
   LABEL_TARGETTED_AUDIENCE_YOUNG: Młodzi
-  LABEL_TARGETTED_AUDIENCE_ALL: Wszyscy
-  LABEL_TARGETTED_AUDIENCE_MATURE: Dorosłe
+  LABEL_TARGETTED_AUDIENCE_ALL: Ogólna społeczność
+  LABEL_TARGETTED_AUDIENCE_MATURE: Dorośli
   LABEL_GAME_SIZE_INDIE: Indywidualna
-  LABEL_GAME_SIZE_NORMAL: Zwykły
+  LABEL_GAME_SIZE_NORMAL: Zwykła
   LABEL_GAME_SIZE_BIG: Duża
   LABEL_GAME_SIZE_AAA: AAA
   LABEL_MAP_SIZE_TINY: Malutka
@@ -1610,8 +1610,8 @@ pl:
     Ale nikt ich nie zauważa, a ludzie dalej pracują...
   LABEL_RABBIT_INVASION_TITLE: Inwazja królików
   LABEL_TARGETTED_AUDIENCE_FEATURE: >
-    Eksperci odkryli, że gry mogą być skierowane do konkretnej grupy odbiorców.
-    Opublikowali artykuł o 3 różnych grupach odbiorców: młodych, zwykłych i dojrzałych.
+    Eksperci stwierdzili, że gry mogą być skierowane do określonej grupy odbiorców.
+    Istnieją trzy różne rodzaje publiczności: młodzi, ogólni i dorośli.
   LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
     Nieznany wirus skierowany do firm produkujących gry wideo, został uwolniony.
     Z pozoru wydaje się on odrażający, jednak spowalnia kursory i losowo restartuje komputery.
@@ -2137,7 +2137,7 @@ pl:
   TOOTIP_STUDIO_HAPPINESS: |
     Jakie gatunki gier lubi wybrana pracownia
   TOOLTIP_TOPSALES: |
-    Najlepiej sprzedające się gry
+    Najlepiej sprzedawane gry
   TOOLTIP_CONVENTION_LIST: |
     Uczestnictwo w konferencjach
   TOOLTIP_FORCE_STUDIO: |
@@ -2149,7 +2149,7 @@ pl:
   TOOLTIP_CONCURRENT_LOCKED: |
     Będziesz mógł ponownie spróbować wykonać akcję przeciwko %s z %s .
   TOOLTIP_TUTORIEL: |
-    %s do odblokowania %s
+    Musisz mieć %s, aby odblokować %s
   TOOLTIP_EMAIL: |
     Czytaj aktualności i swoją pocztę.
   TOOLTIP_UNLOCK_GAME_GENRE: |
