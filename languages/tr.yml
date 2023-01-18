@@ -96,6 +96,79 @@ tr:
   BUTTON_ROADMAP: Yol Haritası
 
   # Labels, descriptive
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Lütfen güncelleyin!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    Merhaba [b]%s[/b],
+
+    [b]%s[/b] etrafında kurulmuş küçük bir topluluğumuz var.
+    İpuçlarını paylaşıyor ve şirketinizin haberlerini takip ediyor, [b]%s[/b]'den gelecek haberleri merakla bekliyorlar.
+
+    Önümüzdeki [b]%d ay[/b] içinde bir güncelleme yayınlarsanız, memnun olacaklar!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Harika bir güncelleme!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    Hayranlarınızın beklentilerini karşıladığınız için sizi kutluyorum.
+
+    Hayranlarınız bu güncelleme karşısında heyecanlandı!
+    Bu haberi etraflarına yayarak [b]%s[/b] etrafındaki coşkuyu artırdılar ve bu da satışları etkileyecek.
+
+    Harika bir iş, kendinizle gurur duyabilirsiniz.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: Çok geç...
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    [b]%s[/b] birkaç ay önce piyasaya sürüldü.
+    Oyun etrafındaki ivme azaldı, bu arada diğer benzer oyunlar piyasaya sürüldü.
+
+    Bu fırsatı kaçırdınız, bir sonrakini kaçırmayın.
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: Devamı ne zaman?
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    Bay [b]%s[/b],
+
+    Arkadaşlarımla [b]%s[/b] oynamayı çok seviyoruz!
+    B]%s[/B] yılı aşkın bir süredir oynuyoruz ve bir devam oyunu yapmanızı diliyoruz!
+
+    Bu oyunu kesinlikle seviyoruz ve yıllarca oynayacağız!
+    Ama eğer şimdi bir devam oyunu yaparsanız, onu satın alacağız ve arkadaşlarımıza anlatacağız!
+        
+    O yüzden lütfen devamını yapın!
+    Çok yeteneklisiniz, hayal kırıklığına uğramayız!
+
+    Kiler Oyuncusu
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Devamı mı?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    Tam anlamıyla hayal kırıklığına uğradım. Tüm arkadaşlarım ve ben [b]%s[/b] oynadık ve orijinaline hiç benzemiyor!
+
+    Yine de satın aldık ve yine de bitirdik ama daha kaliteli bir oyun isterdik
+
+    Kiler Oyuncusu
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s harika!"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    Tam olarak her zaman istediğimiz şey! Bu harika bir devam oyunu!
+    Arkadaşlarımla bunun hakkında konuşuyorduk ve bunu çok oynayacağımızı hissediyorum.
+
+    [b]%s[/b] beklentilerimizi karşılıyor ve açıkçası çok teşekkür ederiz!
+
+    Kiler Oyuncusu
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: İNANILMAZ!!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b] nefes kesici!
+
+    Grafikler, oynanış, müzik, her şey çok mükemmel.
+    Oyun yapma sanatında ustalaşmışsınız!
+
+    Herkes bu devam oyunuyla çok mutlu, aslında tüm yakın arkadaşlarıma ve aileme hediye etmek için 10 kez satın aldım!
+
+    Sizler en iyisisiniz!
+    Çok teşekkür ederim!
+
+    Kiler Oyuncusu
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s modaya uygun"
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    Merhaba [b]%s[/b],
+
+    [b]%s[/b]'nin piyasaya sürülmesi mevcut trendlerde gerçek bir atılımdır.
+    Daha fazlasını, daha fazlasını ve daha fazlasını istiyorlar. Umutsuzca "[b]%s[/b]" oyunları istiyorlar.
+
+    Bu yeni bir trend ve uzun sürmeyecek, bunu hızlı bir şekilde kendi yararınıza kullansanız iyi olur.
+  LABEL_PLATFORM_NEWS: Konsol Haberleri
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Çevrimiçi oyunlar nedeniyle yük
   LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Kaydi mağaza nedeniyle yük
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |

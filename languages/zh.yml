@@ -96,6 +96,78 @@ zh:
   BUTTON_ROADMAP: 路线图
 
   # Labels, descriptive
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: 请更新!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    你好[b]%s[/b]。
+
+    我们有一个围绕[b]%s[/b]建立的小社区。
+    他们分享技巧并关注贵公司的新闻，急切地等待来自[b]%s[/b]的消息。
+
+    如果你在未来[b]%d月[/b]发布更新，他们会很高兴的
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: 伟大的更新!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    为你不辜负你的粉丝的期望而喝彩。
+
+    你的粉丝对这一更新感到兴奋！他们在周围传播消息，放大了对[b]%s[/b]的热情。
+
+    干得好，你可以为自己感到骄傲。
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: 太晚了...
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    几个月前，[b]%s[/b]发布了。
+    围绕该游戏的势头已经减弱，其他类似的游戏已经在这期间发布。
+
+    你错过了这次机会，不要再错过下一次机会。
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: 什么时候有续集？
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    先生[b]%s[/b]。
+
+    我和我的朋友们都喜欢玩[b]%s[/b]!
+    我们已经玩了超过[b]%s[/b]年了，我们希望你们能做一个续集！我们绝对喜欢这个游戏，并将在未来几年里一直玩下去。
+
+    我们绝对喜欢这个游戏，并将在未来的日子里一直玩下去！但是，如果你们现在就制作续集的话，就会有更多的人加入。
+    但是，如果你们现在制作续集，我们会买下它并告诉我们的朋友!
+        
+    所以，请你做一个续集!
+    你是如此有才华，我们不会失望的!
+
+    地窖玩家
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: 续集？
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    我感到很失望，真的很失望。我和我所有的朋友都玩过[b]%s[/b]，它和原版完全不一样！我们还是买了它，我们还是完成了它。
+
+    好吧，我们还是买了它，我们还是完成了它，但我们希望有一个质量更好的游戏。
+
+    地窖玩家
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s是伟大的！"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    正是我们一直想要的! 这是一个奇妙的续集！我们和我的朋友们都在谈论它。
+    我们和我的朋友们都在谈论它，我觉得我们会经常玩它。
+
+    [b]%s[/b]没有辜负我们的期望，坦率地说，非常感谢你们!
+
+    地窖玩家
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: 令人难以置信！!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b]是令人惊叹的!
+
+    图形、游戏性、音乐，一切都如此完美。
+    你们已经成为制作游戏的艺术大师！每个人都对这部续集感到非常满意。
+
+    每个人都对这部续集非常满意，事实上，我买了10次，把它送给我所有亲密的朋友和家人!
+
+    你们这些人是最棒的!
+    非常感谢你们!
+
+    地窖玩家
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s很时髦"
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    你好[b]%s[/b]。
+
+    [b]%s[/b]的发布是对当前潮流的真正突破。
+    他们想要更多，更多，更多。他们急切地想要"[b]%s[/b]"的游戏。
+
+    这是新的趋势，它不会持续很久，你最好迅速利用它为你带来好处。
+  LABEL_PLATFORM_NEWS: 游戏机新闻
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: 由于在线游戏而产生的负荷
   LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: 由于非物质商店的负载
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |

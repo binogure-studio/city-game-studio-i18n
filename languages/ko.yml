@@ -96,6 +96,71 @@ ko:
   BUTTON_ROADMAP: 로드맵
 
   # Labels, descriptive
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: 좋은 업데이트!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    안녕하세요 [b]%s[/b],
+
+    [b]%s[/b]를 중심으로 구축된 작은 커뮤니티가 있습니다.
+    그들은 팁을 공유하고 귀하의 회사 뉴스를 추적하며, [b]%s[/b]의 뉴스를 기다립니다.
+
+    당신이 [b]%d 개월[/b] 동안 업데이트를 게시하면 그들은 받아들일 것입니다!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: 대단한 업데이트!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    팬들의 기대를 충족하는 당신에게 카두스를.
+
+    팬들은 이 업데이트로 기쁩니다! 그들은 주변에서 소식을 전파하며, [b]%s[/b] 주변의 기쁨을 증폭시킵니다.
+    이는 매출에 영향을 줄 것입니다. 대단한 일, 당신은 자신에 대해 자랑스러울 수 있습니다.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: 너무 늦었어...
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    [b]%s[/b]는 몇 개월 전에 발매되었습니다.
+    게임 주변의 모멘텀은 약화되었고, 그동안 다른 유사한 게임들이 발매되었습니다.
+
+    이 기회를 놓치셨습니다. 다음 기회를 놓치지 마십시오.
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: 시리즈는 언제야?
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    [b]%s[/b] 씨,
+
+    저와 친구들은 [b]%s[/b]를 사랑합니다! 저희는 [b]%s[/b] 년 동안 플레이해왔습니다. 그리고 저희는 여러분들이 시리즈를 만들어주길 바랍니다!
+
+    저희는 이 게임을 절대 사랑합니다. 그리고 앞으로도 플레이 할 것입니다! 그러나 지금 시리즈를 만들어주시면 저희는 구입하고 친구들에게 추천할 것입니다.
+
+    그러니, 시리즈를 만들어 주세요! 저희는 여러분의 재능에 큰 기대를 가지고 있습니다.
+
+    The Cellar Player
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: 시리즈?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    [b]%s[/b]를 플레이 한 저와 친구들은 정말 실망합니다. 이 게임은 원래 게임과는 아무런 상관이 없습니다!
+
+    그래도 우리는 이 게임을 구매하고 완료했지만, 더 좋은 품
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s는 대단해!"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    우리가 항상 원했던 것과 똑같습니다! 이것은 훌륭한 시리즈입니다! 저는 친구들과 이것에 대해 이야기했고, 저는 이 게임을 아주 많이 플레이할 것 같습니다.
+
+    [b]%s[/b]는 우리의 기대를 충족시켰습니다. 그리고 솔직히, 매우 감사합니다!
+
+    The Cellar Player
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: 대단하다!!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b]는 놀라운 것입니다!
+
+    그래픽, 게임플레이, 음악, 모든 것이 완벽합니다.
+    게임 만드는 기술에서 저희는 정말 숙련해졌습니다!
+
+    누구나 이 시리즈에 대해 만족합니다. 사실, 저는 이것을 10번 구매해서 내 가까운 친구들과 가족에게 선물했습니다!
+
+    당신들은 최고입니다!
+    대단히 감사합니다!
+
+    The Cellar Player
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s은 유행합니다."
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    안녕하세요 [b]%s[/b],
+
+    [b]%s[/b]의 발매는 현재 추세에서 진짜 파국입니다.
+    사람들은 그것을 더 많이 원합니다. 그들은 "[b]%s[/b]"의 게임을 절대로 원합니다.
+
+    이것은 새로운 추세이며 오래 가지 않을 것입니다. 빨리 이것을 이용하는 것이 좋습니다.
+  LABEL_PLATFORM_NEWS: 게임기 뉴스
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: 온라인 게임으로 인한 부하
   LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: 비물질화 저장소로 인한 부하
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |

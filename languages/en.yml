@@ -96,6 +96,79 @@ en:
   BUTTON_ROADMAP: Roadmap
 
   # Labels, descriptive
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Please update!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    Hi [b]%s[/b],
+
+    We have a small community built around [b]%s[/b].
+    They share tips and follow your company's news, eagerly awaiting news from [b]%s[/b].
+
+    If you publish an update in the coming [b]%d months[/b], they will be pleased!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Great update!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    Kudos to you for living up to your fans' expectations.
+
+    Your fans are thrilled by this update!
+    They spread the word around them, amplifying the enthusiasm around [b]%s[/b], which is going to impact the sales.
+
+    Awesome job, you can be proud of yourself.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: It's too late...
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    The [b]%s[/b] was released several months ago.
+    Momentum around the game has waned, other similar games have been released in the meantime.
+
+    You missed this opportunity, don't miss the next one.
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: When is the sequel?
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    Mr. [b]%s[/b],
+
+    With my friends we love playing [b]%s[/b]!
+    We've been playing it for over [b]%s[/b] years now, and we wish you guys would make a sequel!
+
+    We absolutely love this game, and are going to play it for years to come!
+    But if you make a sequel now, we'll buy it and tell our friends about it!
+        
+    So, please, make a sequel!
+    You're so talented, we can't be disappointed!
+
+    The Cellar Player
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: A sequel?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    I feel disappointed, literally. All of my friends and I have played [b]%s[/b] and it's nothing like the original!
+
+    Well, we still bought it, and we still finished it, but we would have liked a better quality game
+
+    The Cellar Player
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s is great!"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    Exactly what we always wanted! It's a fantastic sequel!
+    We were talking about it with my friends, and I feel like we're going to play it a lot.
+
+    [b]%s[/b] lives up to our expectations, and frankly, thank you very much!
+
+    The Cellar Player
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: INCREDIBLE!!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b] is breathtaking!
+
+    Graphics, gameplay, music, everything is so perfect.
+    You have become masters in the art of making games!
+
+    Everyone is so happy with this sequel, in fact I bought it 10 times to gift it to all my close friends and family!
+
+    You people are the best!
+    Thank you so much!
+
+    The Cellar Player
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s is trendy"
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    Hello [b]%s[/b],
+
+    The release of [b]%s[/b] is a real breakthrough in the current trends.
+    They want more, more and more. They desperately want games of "[b]%s[/b]".
+
+    It's the new trend, and it wont last for long, you'd better use it to your benefit quickly.
+  LABEL_PLATFORM_NEWS: Platform news
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Load due to online games
   LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Load due to the dematerialized store
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
@@ -1448,7 +1521,7 @@ en:
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] retire the so well known [b]%s[/b], fans are crying.
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    [b]%s[/b] will release a new platform names [b]%s[/b] within a few months. It should last for years.
+    [b]%s[/b] will release a new platform named [b]%s[/b] within a few months. It should last for years.
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b] announces the end of life of the so well known [b]%s[/b]
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |

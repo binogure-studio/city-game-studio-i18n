@@ -96,6 +96,79 @@ ja:
   BUTTON_ROADMAP: ロードマップ
 
   # Labels, descriptive
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: アップデートお願いします
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    こんにちは[b]%s[/b]です。
+
+    私たちは、[b]%s[/b] を中心に構築された小さなコミュニティを持っています。
+    彼らはヒントを共有し、あなたの会社のニュースをフォローし、[b]%s[/b]からのニュースを心待ちにしています。
+
+    今後 [b]%d 月[/b] に更新を公開すれば、彼らは喜ぶでしょう!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: 素晴らしいアップデート!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    ファンの期待に応えてくれたことに拍手です。
+
+    あなたのファンは、このアップデートに大喜びです
+    彼らは周りに言葉を広げ、[b]%s[/b]の周りの熱狂を増幅させ、それが売り上げに影響しそうです。
+
+    素晴らしい仕事だ、誇りに思っていい。
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: 遅すぎる・・・。
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    [b]%s[/b]は数ヶ月前にリリースされました。
+    このゲームの勢いは衰え、その間に他の似たようなゲームが発売されました。
+
+    この機会を逃したあなた、次の機会を逃さないように。
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: 続編はいつですか？
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    [b]%s[/b]さんです。
+
+    友達と一緒に[b]%s[/b]をプレイするのが大好きです!
+    私たちは、もう何年も[b]%s[/b]をプレイしていますが、あなた方が続編を作ることを望んでいます!
+
+    このゲームが大好きで、これからもずっと遊んでいきたいと思っています。
+    でも、今、続編を作れば、私たちはそれを買って、友達に話します!
+            
+    だから、お願いします！続編を作ってください
+    あなたの才能に失望することはありません。
+
+    セラープレイヤー
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: 続編は！？
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    文字通り、がっかりした気分です。[b]%s[/b]を大勢の友人とプレイしましたが、オリジナルとは全く違いました!
+
+    でも、もっとクオリティの高いゲームにしてほしかった。
+
+    セラープレイヤー
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s is great!"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    まさに私たちが望んでいたもの! 素晴らしい続編です!
+    友人とも話していたのですが、これからたくさん遊びたいと感じています。
+
+    [b]%s[/b]は期待に応えてくれて、率直に言って、ありがとうございます!
+
+    セラープレイヤー
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: 最高です
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b]は息を呑むほど素晴らしい!
+
+    グラフィック、ゲームプレイ、音楽、すべてが完璧です。
+    あなたは、ゲーム作りの芸術の巨匠になりましたね。
+
+    この続編には誰もが満足しています。実際、私は親しい友人や家族にプレゼントするために10回購入しました。
+
+    あなた方は最高です!
+    本当にありがとうございました。
+
+    セラープレイヤー
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%sはトレンディ"
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    こんにちは[b]%s[/b]です。
+
+    [b]%s[/b]のリリースは、まさに今のトレンドの突破口と言えるでしょう。
+    彼らは、もっと、もっと、もっとと望んでいます。彼らは「[b]%s[/b]」のゲームを切実に欲しているのです。
+
+    これは新しいトレンドで、長くは続かないから、早く自分の利益になるように使ったほうがいい。
+  LABEL_PLATFORM_NEWS: ゲーム機ニュース
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: オンラインゲームによる負荷
   LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: 非物質化店舗に起因する負荷
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
