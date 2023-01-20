@@ -96,6 +96,17 @@ tr:
   BUTTON_ROADMAP: Yol Haritası
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: Geriye dönük uyumluluk
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Geriye dönük uyumlu bir konsol yapmak için, daha önce aynı türden bir konsol yapmış olmanız gerekir.
+    Yani, bir el konsolu yapıyorsanız ve bunu geriye dönük olarak uyumlu hale getirmek istiyorsanız,
+    daha önce yaptığınız bir el konsoluna ihtiyacınız vardır.
+    Tasarladığınız aynı türden son konsol ile geriye doğru uyumludur.
+
+    Geriye dönük uyumlu olması, önceki konsoldan oyunların taşınmasını daha hızlı ve daha iyi hale getirir.
+    Öte yandan, mevcut konsola ulaşmak için çok fazla geliştirme noktası gerektirir.
+
+    Daha önce aynı türde bir konsol piyasaya sürmediyseniz, bir konsolu geriye dönük uyumlu hale getirmek mümkün değildir.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Lütfen güncelleyin!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Merhaba [b]%s[/b],

@@ -96,6 +96,16 @@ ko:
   BUTTON_ROADMAP: 로드맵
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: 뒤로 호환성
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    뒤로 호환성을 가진 콘솔을 만들기 위해서는, 동일한 종류의 콘솔을 이미 만들어 놓아야 합니다.
+    이것은, 핸드헬드 콘솔을 만들고 뒤로 호환성을 가지게 하고 싶다면, 이전에 만든 핸드헬드 콘솔이 필요함을 의미합니다.
+    이것은 이전에 설계한 동일한 종류의 콘솔과 뒤로 호환됩니다.
+
+    이전 콘솔과 호환되므로 이전 콘솔의 게임을 더 빠르고 쉽게 포팅할 수 있습니다.
+    반면, 현재 콘솔을 달성하려면 많은 개발 지점이 필요합니다.
+
+    이전에 같은 장르의 콘솔을 릴리스하지 않은 경우 콘솔을 이전 버전과의 호환성을 만들 수 없습니다.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: 좋은 업데이트!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     안녕하세요 [b]%s[/b],

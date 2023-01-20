@@ -96,6 +96,17 @@ es:
   BUTTON_ROADMAP: Mapa de carreteras
 
   # Etiquetas, descripciones
+  LABEL_BACKWARD_COMPATIBILITY: Compatibilidad con versiones anteriores
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Para hacer una consola retrocompatible, es necesario que ya hayas hecho una consola del mismo tipo.
+    Es decir, si haces una consola portátil y quieres hacerla retrocompatible,
+    necesitas una consola portátil que hayas hecho antes.
+    Es retrocompatible con la última consola del mismo tipo que hayas diseñado.
+
+    La retrocompatibilidad hace que sea más rápido y mejor portar los juegos de la consola predecesora.
+    Por otro lado, requiere muchos puntos de desarrollo para conseguir la consola actual.
+
+    No es posible hacer una consola retrocompatible si antes no has lanzado una consola del mismo género.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: ¡Por favor, actualice!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Hola [b]%s[/b],

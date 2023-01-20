@@ -96,6 +96,17 @@ th:
   BUTTON_ROADMAP: แผนงาน
 
   # Labels
+  LABEL_BACKWARD_COMPATIBILITY: Backwards compatibility
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    In order to make a backwards-compatible console, it's necessary that you have already made a console of the same kind.
+    Meaning, if you make a handheld console, and you want to make it backwards compatible,
+    then you need a handheld console that you have made before.
+    It is backwards compatible with the last console of the same kind that you have designed.
+
+    Being backwards compatible makes it faster and better to port games from the predecessor console.
+    On the other hand, it requires a lot of development points to achieve the current console.
+
+    It is not possible to make a console backwards compatible if you have not released a console of the same genre before.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: อัพเดทที่ดี!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     สวัสดี [b]%s[/b],

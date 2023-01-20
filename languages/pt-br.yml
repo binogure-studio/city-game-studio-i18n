@@ -96,6 +96,17 @@ pt-br:
   BUTTON_ROADMAP: Roteiro
   
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: Compatibilidade com o passado
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Para fazer um console compatível com o passado, é necessário que você já tenha feito um console do mesmo tipo.
+    Ou seja, se você fizer um console portátil, e quiser torná-lo compatível com o passado,
+    então você precisa de um console portátil que você já tenha feito antes.
+    Ele é retrocompatível com o último console do mesmo tipo que você projetou.
+
+    Ser compatível ao contrário faz com que seja mais rápido e melhor portar os jogos do console anterior.
+    Por outro lado, requer muitos pontos de desenvolvimento para alcançar o console atual.
+
+    Não é possível tornar um console compatível de trás para frente se você não tiver lançado um console do mesmo gênero antes.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Favor atualizar!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Oi [b]%s[/b],

@@ -96,6 +96,17 @@ nl:
   BUTTON_ROADMAP: Wegenkaart
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: Achterwaartse compatibiliteit
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Om een achterwaarts compatibele console te maken, is het noodzakelijk dat je al een console van dezelfde soort hebt gemaakt.
+    Als je dus een handheld console maakt en je wilt hem achterwaarts compatibel maken,
+    dan heb je een handheld console nodig die je al eerder hebt gemaakt.
+    Hij is achterwaarts compatibel met de laatste console van dezelfde soort die je hebt ontworpen.
+
+    Achterwaarts compatibel zijn maakt het sneller en beter om spellen van de vorige console over te zetten.
+    Aan de andere kant vergt het veel ontwikkelingspunten om de huidige console te realiseren.
+
+    Het is niet mogelijk om een console achterwaarts compatibel te maken als je nog niet eerder een console van hetzelfde genre hebt uitgebracht.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Update alsjeblieft!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Hoi [b]%s[/b],

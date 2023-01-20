@@ -96,6 +96,17 @@ zh:
   BUTTON_ROADMAP: 路线图
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: 向后兼容
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    为了制作一个向后兼容的控制台，你必须已经制作了同类的控制台。
+    意思是说，如果你做了一个手持式游戏机，而你想让它向后兼容，
+    那么你需要一个你以前制作过的手持式游戏机。
+    它可以向后兼容你所设计的最后一个同类游戏机。
+
+    向后兼容使得从上一个控制台移植游戏变得更快、更好。
+    另一方面，它需要大量的开发点来实现当前的控制台。
+
+    如果你以前没有发布过同类型的控制台，就不可能使控制台向后兼容。
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: 请更新!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     你好[b]%s[/b]。

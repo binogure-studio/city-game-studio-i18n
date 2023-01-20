@@ -96,6 +96,17 @@ de:
   BUTTON_ROADMAP: Straßenkarte
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: Abwärtskompatibilität
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Um eine abwärtskompatible Konsole herzustellen, müssen Sie bereits eine Konsole der gleichen Art hergestellt haben.
+    Das heißt, wenn Sie eine Handheld-Konsole entwickeln und sie abwärtskompatibel machen wollen,
+    brauchen Sie eine Handheld-Konsole, die Sie bereits entwickelt haben.
+    Sie ist abwärtskompatibel mit der letzten Konsole der gleichen Art, die Sie entwickelt haben.
+
+    Durch die Abwärtskompatibilität lassen sich Spiele von der Vorgängerkonsole schneller und besser portieren.
+    Andererseits sind viele Entwicklungspunkte erforderlich, um die aktuelle Konsole zu erreichen.
+
+    Es ist nicht möglich, eine Konsole abwärtskompatibel zu machen, wenn man zuvor keine Konsole desselben Genres herausgebracht hat.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Bitte aktualisieren!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Hallo [b]%s[/b],

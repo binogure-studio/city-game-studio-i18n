@@ -96,6 +96,17 @@ fr:
   BUTTON_ROADMAP: Feuille de route
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: Rétro-compatible
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Pour pouvoir faire une console rétro-compatible il faut que vous ayiez déjà conçu une console du même genre.
+    Autrement dit, si vous faites une console portable, et que vous souhaitez la rendre rétro-compatible,
+    alors vous devez avoir déjà sortie une console portable auparavant.
+    Elle sera rétro-compatible avec la dernière console du même genre que vous avez conçu.
+
+    Rendre une console rétro-compatible permet d'accélérer la vitesse et la qualité des ports des jeux de la console précédente.
+    En contrepartie, cela demande beaucoup de points de développements pour la console actuelle.
+
+    Il n'est pas possible de rendre une console rétro-compatible si vous n'avez pas déjà publié une console du même genre auparavant.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Faites une mise à jour!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Bonjour [b]%s[/b],

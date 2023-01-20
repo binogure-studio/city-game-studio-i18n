@@ -96,6 +96,17 @@ pl:
   BUTTON_ROADMAP: Plan rozwoju
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: Kompatybilność wsteczna
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    Aby zrobić konsolę kompatybilną wstecz, musisz mieć już wcześniej zrobioną konsolę tego samego rodzaju.
+    Oznacza to, że jeśli stworzysz konsolę ręczną i chcesz ją uczynić kompatybilną wstecz,
+    to potrzebujesz konsoli ręcznej, którą już wcześniej stworzyłeś.
+    Jest ona wstecznie kompatybilna z ostatnią konsolą tego samego rodzaju, którą zaprojektowałeś.
+
+    Bycie kompatybilnym wstecz sprawia, że szybciej i lepiej można portować gry z poprzedniej konsoli.
+    Z drugiej strony, wymaga to wielu punktów rozwoju, aby osiągnąć obecną konsolę.
+
+    Nie da się zrobić konsoli wstecznie kompatybilnej, jeśli wcześniej nie wydałeś konsoli tego samego gatunku.
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Proszę o aktualizację!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Cześć [b]%s[/b],

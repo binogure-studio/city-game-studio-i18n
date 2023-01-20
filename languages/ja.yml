@@ -96,6 +96,16 @@ ja:
   BUTTON_ROADMAP: ロードマップ
 
   # Labels, descriptive
+  LABEL_BACKWARD_COMPATIBILITY: 後方互換性
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    後方互換性のあるゲーム機を作るには、同じ種類のゲーム機を既に作っていることが必要です。
+    つまり、もしあなたが携帯ゲーム機を作って、それを後方互換性を持たせたいなら、あなたが以前に作った携帯ゲーム機が必要です。
+    あなたが設計した最後の同種のゲーム機と後方互換性があるのです。
+
+    後方互換性があることで、先代ゲーム機からのゲームの移植が早く、うまくいきます。
+    一方で、現在のゲーム機を実現するためには、多くの開発ポイントが必要です。
+
+    同じジャンルのゲーム機を過去に出していなければ、後方互換性を持たせることはできません。
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: アップデートお願いします
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     こんにちは[b]%s[/b]です。
