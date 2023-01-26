@@ -96,6 +96,12 @@ th:
   BUTTON_ROADMAP: แผนงาน
 
   # Labels
+  LABEL_GAUGE_GOOD: |
+    Perfectly placed
+  LABEL_GAUGE_OK: |
+    Not quite right
+  LABEL_GAUGE_POOR: |
+    Poorly placed
   LABEL_BACKWARD_COMPATIBILITY: Backwards compatibility
   TOOLTIP_BACKWARD_COMPATIBILITY: |
     In order to make a backwards-compatible console, it's necessary that you have already made a console of the same kind.

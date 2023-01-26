@@ -96,6 +96,12 @@ it:
   BUTTON_ROADMAP: Mappa stradale
 
   # Labels, descriptive
+  LABEL_GAUGE_GOOD: |
+    Perfettamente posizionato
+  LABEL_GAUGE_OK: |
+    Non del tutto corretto
+  LABEL_GAUGE_POOR: |
+    Poco posizionato
   LABEL_BACKWARD_COMPATIBILITY: Compatibilità con le versioni precedenti
   TOOLTIP_BACKWARD_COMPATIBILITY: |
     Per realizzare una console retrocompatibile, è necessario aver già realizzato una console dello stesso tipo.

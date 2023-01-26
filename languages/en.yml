@@ -96,6 +96,12 @@ en:
   BUTTON_ROADMAP: Roadmap
 
   # Labels, descriptive
+  LABEL_GAUGE_GOOD: |
+    Perfectly placed
+  LABEL_GAUGE_OK: |
+    Not quite right
+  LABEL_GAUGE_POOR: |
+    Poorly placed
   LABEL_BACKWARD_COMPATIBILITY: Backwards compatibility
   TOOLTIP_BACKWARD_COMPATIBILITY: |
     In order to make a backwards-compatible console, it's necessary that you have already made a console of the same kind.
@@ -1724,7 +1730,7 @@ en:
   LABEL_SMOKING_SERVER_TITLE: Server capacity warning
   LABEL_PAYLOAN_TITLE: Repay a loan
   LABEL_PAYLOAN_DESCRIPTION: The repayment scheduled has now come to an end, and you have to pay [b]%s$[/b].
-  LABEL_SELL_STUDIO_TITLE: Selling a studio
+  LABEL_SELL_STUDIO_TITLE: Sell a studio
   LABEL_SELL_STUDIO_DESCRIPTION: You are selling the studio [b]%s[/b], do you want to continue?
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
     Since %s is your last studio or it is busy
