@@ -96,12 +96,16 @@ tr:
   BUTTON_ROADMAP: Yol Haritası
 
   # Labels, descriptive
+  LABEL_FURNITURES: Mobilyalar
+  LABEL_UI_DESIGNER: UI Designer
+  TOOLTIP_AUTOFURNISH_MODE: |
+    Bir ofisin otomatik olarak döşenmesi ile mobilyaların manuel olarak yerleştirilmesi arasında seçim yapın.
   LABEL_GAUGE_GOOD: |
-    Mükemmel yerleştirilmiş
+    Bu gösterge için doğru iş yükünü tahsis ettiniz
   LABEL_GAUGE_OK: |
-    Tam olarak doğru değil
+    Bu gösterge için iş yükü iyileştirilebilir
   LABEL_GAUGE_POOR: |
-    Kötü yerleştirilmiş
+    Bu gösterge için gereken iş yükünün yanlış tahmin edilmesi
   LABEL_BACKWARD_COMPATIBILITY: Geriye dönük uyumluluk
   TOOLTIP_BACKWARD_COMPATIBILITY: |
     Geriye dönük uyumlu bir konsol yapmak için, daha önce aynı türden bir konsol yapmış olmanız gerekir.

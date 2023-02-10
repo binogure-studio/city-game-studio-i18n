@@ -6,15 +6,18 @@ const langMatch = {
   de: 'german',
   en: 'english',
   es: 'spanish',
+  fr: 'french',
+  it: 'italian',
   ja: 'japanese',
   ko: 'korean',
+  nl: 'dutch',
+  pl: 'polish',
   pt: 'portuguese',
-  fr: 'french',
+  'pt-br': 'brazilian',
   ru: 'russian',
   tr: 'turkish',
   th: 'thai',
-  zh: 'schinese',
-  pl: 'polish'
+  zh: 'schinese'
 }
 const language_directory = path.resolve('achievements')
 const encoding = {

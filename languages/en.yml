@@ -96,12 +96,16 @@ en:
   BUTTON_ROADMAP: Roadmap
 
   # Labels, descriptive
+  LABEL_FURNITURES: Furnitures
+  LABEL_UI_DESIGNER: UI Designer
+  TOOLTIP_AUTOFURNISH_MODE: |
+    Select between automatically furnishing an office and manually placing the furnitures.
   LABEL_GAUGE_GOOD: |
-    Perfectly placed
+    You have allocated the right workload for this gauge
   LABEL_GAUGE_OK: |
-    Not quite right
+    The workload for this gauge could be improved
   LABEL_GAUGE_POOR: |
-    Poorly placed
+    Wrong estimation of the workload needed for this gauge
   LABEL_BACKWARD_COMPATIBILITY: Backwards compatibility
   TOOLTIP_BACKWARD_COMPATIBILITY: |
     In order to make a backwards-compatible console, it's necessary that you have already made a console of the same kind.

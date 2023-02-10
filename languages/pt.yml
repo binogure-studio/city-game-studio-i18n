@@ -96,12 +96,16 @@ pt:
   BUTTON_ROADMAP: Roteiro
 
   # Labels, descriptive
+  LABEL_FURNITURES: Mobiliário
+  LABEL_UI_DESIGNER: UI Designer
+  TOOLTIP_AUTOFURNISH_MODE: |
+    Seleccione entre fornecer automaticamente um escritório e colocar manualmente as despesas de mobiliário.
   LABEL_GAUGE_GOOD: |
-    Perfeitamente colocado
+    Atribuiu a carga de trabalho certa para este gabarito
   LABEL_GAUGE_OK: |
-    Não é bem assim
+    A carga de trabalho para este gabarito poderia ser melhorada
   LABEL_GAUGE_POOR: |
-    Mal colocado
+    Estimativa errada da carga de trabalho necessária para este gabarito
   LABEL_BACKWARD_COMPATIBILITY: Compatibilidade com o passado
   TOOLTIP_BACKWARD_COMPATIBILITY: |
     A fim de fazer uma consola compatível com o passado, é necessário que já tenha feito uma consola do mesmo tipo.
