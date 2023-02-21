@@ -97,7 +97,7 @@ pt-br:
   
   # Labels, descriptive
   LABEL_FURNITURES: Móveis
-  LABEL_UI_DESIGNER: UI Designer
+  LABEL_UI_DESIGNER: Designer de Interface
   TOOLTIP_AUTOFURNISH_MODE: |
     Selecione entre o fornecimento automático de um escritório e a colocação manual dos móveis.
   LABEL_GAUGE_GOOD: |
@@ -106,11 +106,11 @@ pt-br:
     A carga de trabalho para esta bitola poderia ser melhorada
   LABEL_GAUGE_POOR: |
     Estimativa errada da carga de trabalho necessária para esta bitola
-  LABEL_BACKWARD_COMPATIBILITY: Compatibilidade com o passado
+  LABEL_BACKWARD_COMPATIBILITY: Retrocompatibilidade
   TOOLTIP_BACKWARD_COMPATIBILITY: |
-    Para fazer um console compatível com o passado, é necessário que você já tenha feito um console do mesmo tipo.
-    Ou seja, se você fizer um console portátil, e quiser torná-lo compatível com o passado,
-    então você precisa de um console portátil que você já tenha feito antes.
+    Para fazer um console retrocompatível, é necessário que você já tenha feito um console do mesmo tipo.
+    Ou seja, se você fizer um console portátil, e quiser torná-lo retrocompatível, então você precisa de
+    um console portátil que você já tenha feito antes.
     Ele é retrocompatível com o último console do mesmo tipo que você projetou.
 
     Ser compatível ao contrário faz com que seja mais rápido e melhor portar os jogos do console anterior.
@@ -139,21 +139,21 @@ pt-br:
     O momento em torno do jogo diminuiu, outros jogos similares foram lançados nesse ínterim.
 
     Você perdeu esta oportunidade, não perca o próximo.
-  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: Quando é a seqüência?
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: Quando é a sequência?
   LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
     Sr. [b]%s[/b],
 
     Com meus amigos adoramos jogar [b]%s[/b]!
-    Há mais de [b]%s[/b] anos, e desejamos que vocês façam uma seqüência!
+    Há mais de [b]%s[/b] anos, e desejamos que vocês façam uma sequência!
 
     Nós amamos absolutamente este jogo, e vamos jogá-lo nos próximos anos!
-    Mas se vocês fizerem uma sequela agora, nós a compraremos e contaremos aos nossos amigos sobre ela!
+    Mas se vocês fizerem uma sequência agora, nós a compraremos e contaremos aos nossos amigos sobre ela!
         
-    Então, por favor, façam uma sequela!
+    Então, por favor, façam uma sequência!
     Você é tão talentoso que não podemos ficar desapontados!
 
     O Jogador da Adega
-  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Uma seqüela?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Uma sequência?!
   LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
     Sinto-me desapontado, literalmente. Todos os meus amigos e eu jogamos [b]%s[/b] e não é nada como o original!
 
@@ -162,7 +162,7 @@ pt-br:
     O Jogador de Adega
   LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s é ótimo!"
   LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
-    Exatamente o que sempre quisemos! É uma seqüência fantástica!
+    Exatamente o que sempre quisemos! É uma sequência fantástica!
     Estávamos conversando sobre isso com meus amigos e sinto que vamos tocá-la muito.
 
     [b]%s[/b] corresponde às nossas expectativas, e francamente, muito obrigado!
@@ -175,7 +175,7 @@ pt-br:
     Gráficos, jogabilidade, música, tudo é tão perfeito.
     Você se tornou um mestre na arte de fazer jogos!
 
-    Todos estão tão felizes com esta sequela, na verdade eu a comprei 10 vezes para presenteá-la a todos os meus amigos e familiares próximos!
+    Todos estão tão felizes com esta sequência, na verdade eu a comprei 10 vezes para presenteá-la a todos os meus amigos e familiares próximos!
 
     Vocês são os melhores!
     Muito obrigado a todos!
@@ -1659,7 +1659,7 @@ pt-br:
   LABEL_CATCHPHRASE_11_5: A Vigésima Maravilha do Mundo
   LABEL_CREATE_SEQUEL: Criar uma sequência
   LABEL_NEW_IP: Nova franquia
-  LABEL_POSTMORTEM: Post-mortem
+  LABEL_POSTMORTEM: AnPost-mortem
   LABEL_EMPTY_STUDIO: Atenção este estúdio não contém nenhuma mesa com um computador!
   LABEL_MATCH_EXCELLENT: Combinação excelente
   LABEL_MATCH_GOOD: Combinação boa
