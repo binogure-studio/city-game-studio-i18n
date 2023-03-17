@@ -96,6 +96,29 @@ ko:
   BUTTON_ROADMAP: 로드맵
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    이 스튜디오의 직원들은 더 이상 "%s"라는 장르의 게임을 만들고 싶어하지 않습니다.
+    대신 새로운 게임 장르를 만들고 싶어 합니다.
+
+    "%s" 장르의 게임을 만들면 지루해질 것입니다.
+    따라서 생산성이 떨어지고 휴가를 더 자주 가게 될 것입니다.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    이 스튜디오의 직원들은 "%s"라는 장르의 게임에서 일하게 되어 기쁩니다.
+  LABEL_GENRE_INTEREST: 선택한 게임 장르에 대한 관심
+  LABEL_POPUP_ANIMATION: 팝업 애니메이션
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: 엑스포
+  LABEL_TRANS_CUBIC: Cubic
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Bounce
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linear
+  LABEL_TRANS_ELASTIC: Elastic
+  LABEL_TRANS_BACK: Back
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    최대 %s$까지 빌릴 수 있습니다.
   LABEL_FURNITURES: 가구
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -264,8 +287,7 @@ ko:
     당사는 [b]%s[/b]$로 평가되는 귀하의 주식을 [b]%s[/b]$에 매수할 용의가 있으며,
     이 거래를 통해 귀사는 현금을, 당사는 [b]%s[/b]의 경영권을 얻을 것입니다.
 
-    만약 귀하가 당사의 제안을 거절하면 민사소송을 진행할 예정이며,
-    이에 따른 법률 비용 [b]%s[/b]$는 귀하가 부담해야 할 것입니다.
+    만약 귀하가 당사의 제안을 거절하면 민사소송을 진행할 예정이며.
 
     [i]당사의 최종 제안이며 추가적인 협상은 없습니다.[/i]
     [i]현재 귀하의 은행 잔고는 [b]%s[/b]$입니다.[/i]
@@ -2019,6 +2041,14 @@ ko:
   LABEL_ARCADE_CITY_GAME_STUDIO: 아케이드 City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    게임당 최대 2개의 장르를 조합할 수 있습니다.
+
+    일부 게임 장르는 이미 여러 장르가 결합되어 있으므로 다른 게임 장르와 결합할 수 없습니다.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    이 장르는 현재 잠겨 있습니다.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    게임을 만들려면 게임 장르를 하나 이상 선택해야 합니다.
   TOOLTIP_RANDOM_SLIDER: |
     게임 생성 시 설계, 개발, 마감 단계에서 게이지의 기대값은 랜덤이 됩니다.
   TOOLTIP_REQUIRE_GAME: |

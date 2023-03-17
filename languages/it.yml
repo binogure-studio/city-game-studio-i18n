@@ -96,6 +96,29 @@ it:
   BUTTON_ROADMAP: Mappa stradale
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    I dipendenti di questo studio non vogliono più creare giochi del genere "%s".
+    Vogliono invece lavorare su un nuovo genere di gioco.
+
+    Creando un gioco di genere "%s", si annoieranno.
+    Pertanto, significa che saranno meno produttivi e andranno in vacanza più spesso.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    I dipendenti di questo studio sono felici di lavorare a un gioco del genere: "%s".
+  LABEL_GENRE_INTEREST: Interesse per il genere di gioco selezionato
+  LABEL_POPUP_ANIMATION: Animazioni dei popup
+  LABEL_TRANS_SINE: Seno
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubico
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Rimbalzo
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Lineare
+  LABEL_TRANS_ELASTIC: Elastico
+  LABEL_TRANS_BACK: Indietro
+  LABEL_TRANS_CIRC: Circonvallazione
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Potete prendere in prestito fino a %s$
   LABEL_FURNITURES: Arredamento
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -288,7 +311,6 @@ it:
 
     Nel caso improbabile che non siate disposti a vendere,
     siamo pronti ad andare in tribunale.
-    Le spese legali e le spese di gestione costeranno [b]%s[/b] dollari.
 
     [i]Questa è la nostra offerta finale, non c'è negoziazione.[/i]
     [i]Le sono rimasti [b]%s[/b] dollari in banca[/i]
@@ -2016,6 +2038,15 @@ it:
   LABEL_ARCADE_CITY_GAME_STUDIO: Sala giochi City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Massimo 2 generi per gioco.
+
+    Alcuni generi di gioco sono già combinazioni di generi e
+    quindi non possono essere combinati con altri generi di gioco.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Questo genere è bloccato per ora.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Per creare un gioco è necessario selezionare almeno un genere di gioco.
   TOOLTIP_RANDOM_SLIDER: |
     Nella creazione del gioco, i valori attesi degli indicatori nelle fasi di sviluppo, progettazione e rifinitura diventano casuali.
   TOOLTIP_REQUIRE_GAME: |

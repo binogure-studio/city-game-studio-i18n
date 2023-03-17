@@ -96,6 +96,29 @@ fr:
   BUTTON_ROADMAP: Feuille de route
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Les employés de ce studio ne veulent plus faire des jeux de type: "%s".
+    Ils ont envie de travailler sur un nouveau genre de jeu.
+
+    En choisissant de faire un jeu de type "%s", les employés de ce studio vont s'ennuyer.
+    Par conséquent ils seront moins productifs et partiront plus souvent en vacances.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Les employés de ce studio sont heureux de travailler sur un jeu de type: "%s".
+  LABEL_GENRE_INTEREST: Intérêt pour le genre de jeu sélectionné
+  LABEL_POPUP_ANIMATION: Animations des popups
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubique
+  LABEL_TRANS_QUAD: Quadruple
+  LABEL_TRANS_BOUNCE: Rebond
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linéaire
+  LABEL_TRANS_ELASTIC: Elastique
+  LABEL_TRANS_BACK: Retour
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Vous pouvez emprunter au maximum %s$
   LABEL_FURNITURES: Meubles
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -295,7 +318,6 @@ fr:
 
     Dans le cas malencontreux où vous ne souhaiteriez pas vendre,
     nous serions prêt à nous rendre au tribunal.
-    Les frais d'avocats et de traitement de dossier vont s'élever à [b]%s[/b]$.
 
     [i]Ceci est une offre finale, vous ne pouvez pas négocier.[/i]
     [i]Vous avez [b]%s[/b]$ à la banque[/i]
@@ -2076,6 +2098,15 @@ fr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maximum 2 genres par jeu.
+
+    Certains genres de jeux sont déjà des combinaisons de genres,
+    et ne peuvent pas être combiné avec d'autres genres de jeux.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Ce genre est verrouillé pour le moment.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Vous devez sélectionner au moins un genre de jeu pour pouvoir créer un jeu.
   TOOLTIP_RANDOM_SLIDER: |
     Lors de la création d'un jeu, la valeur attendue des jauges des étapes de développement, de design et de polissage deviennent aléatoires.
   TOOLTIP_REQUIRE_GAME: |

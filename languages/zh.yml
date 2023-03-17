@@ -96,6 +96,29 @@ zh:
   BUTTON_ROADMAP: 路线图
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    这个工作室的员工不再想做 "%s"类型的游戏。
+    相反，他们想做一个新的游戏类型。
+
+    通过制作 "%s"类型的游戏，他们会感到厌烦。因此，
+    这意味着他们的工作效率会降低，而且会更经常地去度假。
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    这家工作室的员工很高兴能从事 "%s"类型的游戏工作。
+  LABEL_GENRE_INTEREST: 对所选游戏类型的兴趣
+  LABEL_POPUP_ANIMATION: 弹出窗口的动画
+  LABEL_TRANS_SINE: 正弦
+  LABEL_TRANS_EXPO: 世博会
+  LABEL_TRANS_CUBIC: 立体
+  LABEL_TRANS_QUAD: 四体
+  LABEL_TRANS_BOUNCE: 弹跳
+  LABEL_TRANS_QUINT: 五角形
+  LABEL_TRANS_QUART: 夸特
+  LABEL_TRANS_LINEAR: 线性
+  LABEL_TRANS_ELASTIC: 弹性
+  LABEL_TRANS_BACK: 背面
+  LABEL_TRANS_CIRC: 循环
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    你最多可以借到%s美元
   LABEL_FURNITURES: 家具
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -277,7 +300,7 @@ zh:
 
     往好的方面看，这意味着你少了一个竞争者要对付。
 
-    如果万一你们不愿意出售，我们准备上法庭。法律费用和处理费用将花费[b]%s[/b]美元。
+    如果万一你们不愿意出售，我们准备上法庭。
 
     [i]这是我们的最终报价，没有商量的余地。[/i]
     [i]你的银行里还有[b]%s[/b]美元[/i]
@@ -1998,6 +2021,14 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    每个游戏最多只能有2个流派。
+
+    有些游戏体裁已经是体裁的组合，因此你不能与其他游戏体裁组合。
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    这种体裁暂时被锁定。
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    你必须至少选择一种游戏类型来创建游戏。
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     你签署了一份独家报价。
     这款游戏不能被移植到其他主机上，而且必须在货架上停留至少一年时间。

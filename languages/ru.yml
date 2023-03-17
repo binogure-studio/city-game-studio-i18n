@@ -96,6 +96,29 @@ ru:
   BUTTON_ROADMAP: Карта дорог
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Сотрудники этой студии больше не хотят делать игры жанра: "%s".
+    Вместо этого они хотят работать над новым игровым жанром.
+
+    Создавая игры в жанре "%s", они будут скучать.
+    Это означает, что они будут менее продуктивны и будут чаще уходить в отпуск.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Сотрудники этой студии рады работать над игрой жанра: "%s".
+  LABEL_GENRE_INTEREST: Интерес к выбранному жанру игры
+  LABEL_POPUP_ANIMATION: Анимация всплывающих окон
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Экспозиция
+  LABEL_TRANS_CUBIC: Кубический
+  LABEL_TRANS_QUAD: Квад
+  LABEL_TRANS_BOUNCE: Отскок
+  LABEL_TRANS_QUINT: Квинт
+  LABEL_TRANS_QUART: Кварт
+  LABEL_TRANS_LINEAR: Линейный
+  LABEL_TRANS_ELASTIC: Эластичный
+  LABEL_TRANS_BACK: Назад
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Вы можете взять в долг до %s$
   LABEL_FURNITURES: Мебель
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -284,7 +307,6 @@ ru:
 
     В маловероятном случае, если вы не захотите продавать,
     мы готовы обратиться в суд.
-    Судебные издержки и плата за обработку будут стоить [b]%s[/b] долларов.
 
     [i]Это наше окончательное предложение, переговоры не ведутся.[/i]
     [i]У вас осталось $[b]%s[/b] в банке[/i]
@@ -2052,6 +2074,15 @@ ru:
   LABEL_ARCADE_CITY_GAME_STUDIO: Аркада City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Не более 2 жанров в одной игре.
+
+    Некоторые игровые жанры уже являются комбинациями жанров,
+    и поэтому вы не можете комбинировать их с другими игровыми жанрами.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Этот жанр пока заблокирован.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Вы должны выбрать хотя бы один игровой жанр, чтобы создать игру.
   TOOLTIP_RANDOM_SLIDER: |
     При создании игры ожидаемые значения показателей на этапах разработки, проектирования и полировки становятся случайными.
   TOOLTIP_REQUIRE_GAME: |

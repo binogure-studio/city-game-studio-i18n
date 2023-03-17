@@ -96,6 +96,29 @@ es:
   BUTTON_ROADMAP: Mapa de carreteras
 
   # Etiquetas, descripciones
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Los empleados de este estudio ya no quieren hacer juegos del género: "%s".
+    En su lugar, quieren trabajar en un nuevo género de juegos.
+
+    Al hacer un juego del género "%s", se van a aburrir.
+    Por lo tanto, serán menos productivos y se irán de vacaciones más a menudo.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Los empleados de este estudio están contentos de trabajar en un juego del género: "%s".
+  LABEL_GENRE_INTEREST: Interés en el género de juego seleccionado
+  LABEL_POPUP_ANIMATION: Animaciones de ventanas emergentes
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cúbico
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Rebote
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Cuarto
+  LABEL_TRANS_LINEAR: Lineal
+  LABEL_TRANS_ELASTIC: Elástico
+  LABEL_TRANS_BACK: Volver
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Puedes pedir prestados hasta %s$
   LABEL_FURNITURES: Mobiliario
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -284,7 +307,6 @@ es:
 
     En el improbable caso de que no esté dispuesto a vender,
     estamos preparados para ir a los tribunales.
-    Los honorarios legales y los gastos de tramitación costarán [b]%s[/b].
 
     [i]Esta es nuestra oferta final, no hay negociación.[/i]
     [i]Le quedan [b]%s[/b] en el banco[/i]
@@ -2031,6 +2053,15 @@ es:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Máximo 2 géneros por juego.
+
+    Algunos géneros de juego ya son combinaciones de géneros,
+    por lo que no se pueden combinar con otros géneros de juego.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Este género está bloqueado por ahora.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Debes seleccionar al menos un género de juego para crear un juego.
   TOOLTIP_RANDOM_SLIDER: |
     En la creación del juego, los valores esperados de los indicadores en las etapas de desarrollo, diseño y pulido se vuelven aleatorios.
   TOOLTIP_REQUIRE_GAME: |

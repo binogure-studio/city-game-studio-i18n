@@ -96,6 +96,29 @@ ja:
   BUTTON_ROADMAP: ロードマップ
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    このスタジオの社員は、もう「%s」というジャンルのゲームを作りたいわけではありません。
+    その代わり、新しいジャンルのゲームを作りたい。
+
+    %s」というジャンルのゲームを作ることで、彼らは飽きるだろう。
+    だから、生産性が下がり、休暇を取ることが多くなる。
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    このスタジオの社員は、「%s」というジャンルのゲームに取り組むことに満足しています。
+  LABEL_GENRE_INTEREST: 選択したゲームジャンルへの関心度
+  LABEL_POPUP_ANIMATION: ポップアップのアニメーション
+  LABEL_TRANS_SINE: サイン
+  LABEL_TRANS_EXPO: エキスポ
+  LABEL_TRANS_CUBIC: キュービック
+  LABEL_TRANS_QUAD: クワッド
+  LABEL_TRANS_BOUNCE: バウンス
+  LABEL_TRANS_QUINT: クイント
+  LABEL_TRANS_QUART: クオート
+  LABEL_TRANS_LINEAR: リニア
+  LABEL_TRANS_ELASTIC: エラスティック
+  LABEL_TRANS_BACK: バック
+  LABEL_TRANS_CIRC: サークル
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    最大%s$まで借りられます。
   LABEL_FURNITURES: 家具
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -280,7 +303,6 @@ ja:
 
     万が一、あなたが売却に応じない場合は、
     裁判を起こす用意があります。
-    弁護士費用と手続き費用として[b]%s[/b]ドルかかります。
 
     [i]これが最終提案で、交渉はできません。[/i]
     [i]銀行に[b]%s[/b]ドル残っています[/i]
@@ -2011,6 +2033,14 @@ ja:
   LABEL_ARCADE_CITY_GAME_STUDIO: アーケード City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    1ゲームにつき最大2ジャンルまでとします。
+
+    ゲームジャンルの中には、すでにジャンルの組み合わせになっているものがあるため、他のゲームジャンルと組み合わせることはできません。
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    このジャンルは今のところロックされています。
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    ゲームを作成するには、少なくとも1つのゲームジャンルを選択する必要があります。
   TOOLTIP_RANDOM_SLIDER: |
     ゲーム制作では、開発・設計・研磨の各段階のゲージの期待値がランダムになってしまう。
   TOOLTIP_REQUIRE_GAME: |

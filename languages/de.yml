@@ -96,6 +96,29 @@ de:
   BUTTON_ROADMAP: Straßenkarte
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Die Mitarbeiter dieses Studios wollen keine Spiele des Genres "%s" mehr machen.
+    Stattdessen wollen sie an einem neuen Spielgenre arbeiten.
+
+    Wenn sie ein "%s"-Spiel entwickeln, werden sie sich langweilen.
+    Das bedeutet, dass sie weniger produktiv sein werden und öfter in Urlaub fahren.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Die Mitarbeiter dieses Studios sind glücklich, an einem Spiel des Genres "%s" zu arbeiten.
+  LABEL_GENRE_INTEREST: Interesse an dem ausgewählten Spielgenre
+  LABEL_POPUP_ANIMATION: Animationen von Popups
+  LABEL_TRANS_SINE: Sinus
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Kubisch
+  LABEL_TRANS_QUAD: Vierfach
+  LABEL_TRANS_BOUNCE: Bounce
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linear
+  LABEL_TRANS_ELASTIC: Elastisch
+  LABEL_TRANS_BACK: Rücken
+  LABEL_TRANS_CIRC: Kreis
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Sie können bis zu %s$ leihen
   LABEL_FURNITURES: Möblierung
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -289,7 +312,6 @@ de:
 
     Für den unwahrscheinlichen Fall, dass Sie nicht bereit sind zu verkaufen,
     sind wir bereit, vor Gericht zu gehen.
-    Die Anwaltskosten und die Bearbeitungsgebühren werden [b]%s[/b]$ kosten.
 
     [i]Dies ist unser letztes Angebot, es gibt keine Verhandlungen.[/i]
     [i]Sie haben noch [b]%s[/b]$ auf der Bank.[/i]
@@ -2038,6 +2060,15 @@ de:
   LABEL_ARCADE_CITY_GAME_STUDIO: Spielhalle City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maximal 2 Genres pro Spiel.
+
+    Einige Spielgenres sind bereits Kombinationen von Genres
+    und können daher nicht mit anderen Spielgenres kombiniert werden.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Dieses Genre ist vorerst gesperrt.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Sie müssen mindestens ein Spielgenre auswählen, um ein Spiel zu erstellen.
   TOOLTIP_RANDOM_SLIDER: |
     Bei der Spieleerstellung werden die erwarteten Werte der Messgeräte in der Entwicklungs-, Design- und Polishing-Phase zufällig.
   TOOLTIP_REQUIRE_GAME: |

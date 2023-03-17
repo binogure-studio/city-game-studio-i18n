@@ -96,6 +96,29 @@ tr:
   BUTTON_ROADMAP: Yol Haritası
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Bu stüdyonun çalışanları artık "%s" türünde oyunlar yapmak istemiyor.
+    Bunun yerine, yeni bir oyun türü üzerinde çalışmak istiyorlar.
+
+    "%s" türünde bir oyun yaparak sıkılacaklar.
+    Bu da daha az üretken olacakları ve daha sık tatile çıkacakları anlamına geliyor.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Bu stüdyonun çalışanları "%s" türünde bir oyun üzerinde çalışmaktan mutlular.
+  LABEL_GENRE_INTEREST: Seçilen oyun türüne ilgi
+  LABEL_POPUP_ANIMATION: Açılır pencere animasyonları
+  LABEL_TRANS_SINE: Sinüs
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Kübik
+  LABEL_TRANS_QUAD: Dörtlü
+  LABEL_TRANS_BOUNCE: Sıçrama
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Doğrusal
+  LABEL_TRANS_ELASTIC: Elastik
+  LABEL_TRANS_BACK: Geri
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    %s$'a kadar borç alabilirsiniz
   LABEL_FURNITURES: Mobilyalar
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -282,7 +305,6 @@ tr:
     uğraşmanız gereken bir rakibiniz daha az olduğu anlamına gelir.
 
     Satmak istememeniz gibi olası bir durumda mahkemeye gitmeye hazırız.
-    Yasal ücretler ve işlem ücretleri [b]%s[/b] dolara mal olacak.
 
     [i]Bu bizim son teklifimizdir, pazarlık yoktur.[/i]
     [i]Bankada [b]%s[/b] dolarınız kaldı[/i]
@@ -2005,6 +2027,14 @@ tr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Oyun başına en fazla 2 tür.
+
+    Bazı oyun türleri zaten türlerin kombinasyonlarıdır ve bu nedenle bunları diğer oyun türleriyle birleştiremezsiniz.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Bu tür şimdilik kilitlidir.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Bir oyun oluşturmak için en az bir oyun türü seçmelisiniz.
   TOOLTIP_RANDOM_SLIDER: |
     Oyun yaratımında, geliştirme, tasarım ve cilalama aşamalarındaki göstergelerin beklenen değerleri rastgele hale gelir.
   TOOLTIP_REQUIRE_GAME: |

@@ -96,6 +96,29 @@ pt-br:
   BUTTON_ROADMAP: Roteiro
   
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Os funcionários deste estúdio não querem mais fazer jogos do gênero: "%s".
+    Ao invés disso, eles querem trabalhar em um novo gênero de jogos.
+
+    Ao fazer um jogo do gênero "%s", eles vão ficar entediados.
+    Portanto, isso significa que eles vão ser menos produtivos e sair de férias com mais freqüência.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Os funcionários deste estúdio estão felizes em trabalhar em um jogo do gênero: "%s".
+  LABEL_GENRE_INTEREST: Interesse no gênero de jogo selecionado
+  LABEL_POPUP_ANIMATION: Animações de popups
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubic
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Bounce
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linear
+  LABEL_TRANS_ELASTIC: Elástico
+  LABEL_TRANS_BACK: Voltar
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Você pode emprestar até %s$
   LABEL_FURNITURES: Móveis
   LABEL_UI_DESIGNER: Designer de Interface
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -283,7 +306,6 @@ pt-br:
 
     No caso improvável de você não estar disposto a vender,
     estamos dispostos a ir a tribunal.
-    As taxas legais e de processamento custarão $[b]%s[/b].
 
     [i]Esta é nossa oferta final, não há negociação.[/i]
     [i]Você ainda tem $[b]%s[/b] no banco[/i]
@@ -2035,6 +2057,15 @@ pt-br:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Máximo de 2 gêneros por jogo.
+
+    Alguns gêneros de jogo já são combinações de gêneros,
+    e portanto não é possível combiná-los com outros gêneros de jogo.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Este gênero está bloqueado por enquanto.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Você deve selecionar pelo menos um gênero de jogo para criar um jogo.
   TOOLTIP_RANDOM_SLIDER: |
     Na criação do jogo, os valores esperados das bitolas nos estágios de desenvolvimento, design e polimento tornam-se aleatórios.
   TOOLTIP_REQUIRE_GAME: |

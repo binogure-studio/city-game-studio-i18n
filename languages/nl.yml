@@ -96,6 +96,29 @@ nl:
   BUTTON_ROADMAP: Wegenkaart
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Medewerkers van deze studio willen niet langer spellen maken van het genre: "%s".
+    In plaats daarvan willen ze werken aan een nieuw spelgenre.
+
+    Door een "%s" genre spel te maken, gaan ze zich vervelen.
+    Dat betekent dat ze minder productief zullen zijn en vaker op vakantie gaan.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    De werknemers van deze studio werken graag aan een spel van het genre: "%s".
+  LABEL_GENRE_INTEREST: Interesse in het gekozen spelgenre
+  LABEL_POPUP_ANIMATION: Animaties van pop-ups
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Kubisch
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Stuiteren
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Lineair
+  LABEL_TRANS_ELASTIC: Elastisch
+  LABEL_TRANS_BACK: Rug
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Je kunt tot %s$ lenen
   LABEL_FURNITURES: Meubels
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -285,7 +308,6 @@ nl:
 
     In het onwaarschijnlijke geval dat u niet wilt verkopen,
     zijn we bereid naar de rechter te stappen.
-    Juridische kosten en verwerkingskosten zullen $[b]%s[/b] kosten.
 
     [i]Dit is ons laatste bod, er is geen onderhandeling mogelijk.[/i]
     [i]U heeft nog $[b]%s[/b] op de bank[/i]
@@ -2016,6 +2038,15 @@ nl:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maximaal 2 genres per spel.
+
+    Sommige spelgenres zijn al combinaties van genres,
+    en daarom kun je ze niet combineren met andere spelgenres.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Dit genre is voorlopig vergrendeld.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Je moet minstens één spelgenre selecteren om een spel te maken.
   TOOLTIP_RANDOM_SLIDER: |
     Bij het maken van spellen worden de verwachte waarden van de meters in de ontwikkelings-, ontwerp- en polijstfasen willekeurig.
   TOOLTIP_REQUIRE_GAME: |

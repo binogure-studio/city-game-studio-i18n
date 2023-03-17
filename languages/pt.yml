@@ -96,6 +96,29 @@ pt:
   BUTTON_ROADMAP: Roteiro
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Os empregados deste estúdio já não querem fazer jogos do género: "%s".
+    Em vez disso, querem trabalhar num novo género de jogos.
+
+    Ao fazer um jogo do género "%s", vão ficar aborrecidos.
+    Por conseguinte, significa que vão ser menos produtivos e ir de férias com mais frequência.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Os empregados deste estúdio estão felizes por trabalhar num jogo do género: "%s".
+  LABEL_GENRE_INTEREST: Interesse no género de jogo seleccionado
+  LABEL_POPUP_ANIMATION: Animações de popups
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubic
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Saltar
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quartzo
+  LABEL_TRANS_LINEAR: Linear
+  LABEL_TRANS_ELASTIC: Elástico
+  LABEL_TRANS_BACK: Voltar
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Pode pedir emprestado até %s$
   LABEL_FURNITURES: Mobiliário
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -286,7 +309,6 @@ pt:
 
     No caso improvável de não estar disposto a vender,
     estamos dispostos a ir a tribunal.
-    As taxas legais e de processamento custarão $[b]%s[/b].
 
     [i]Esta é a nossa oferta final, não há qualquer negociação.[/i]
     [i]Ainda tem $[b]%s[/b] no banco[/i]
@@ -2039,6 +2061,15 @@ pt:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Máximo de 2 géneros por jogo.
+
+    Alguns géneros de jogo são já combinações de géneros,
+    pelo que não é possível combiná-los com outros géneros de jogo.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Este género está bloqueado por agora.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    É necessário seleccionar pelo menos um género de jogo para criar um jogo.
   TOOLTIP_RANDOM_SLIDER: |
     Na criação de jogos, os valores esperados das bitolas nas fases de desenvolvimento, desenho e polimento tornam-se aleatórios.
   TOOLTIP_REQUIRE_GAME: |

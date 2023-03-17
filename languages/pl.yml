@@ -96,6 +96,29 @@ pl:
   BUTTON_ROADMAP: Plan rozwoju
 
   # Labels, descriptive
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Pracownicy tego studia nie chcą już robić gier z gatunku: "%s".
+    Zamiast tego chcą pracować nad nowym gatunkiem gier.
+
+    Robiąc grę z gatunku "%s", będą się nudzić.
+    Oznacza to zatem, że będą mniej produktywni i częściej będą jeździć na wakacje.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Pracownicy tego studia są zadowoleni, że mogą pracować nad grą z gatunku: "%s".
+  LABEL_GENRE_INTEREST: Zainteresowanie wybranym gatunkiem gier
+  LABEL_POPUP_ANIMATION: Animacje popupów
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubic
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Bounce
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linear
+  LABEL_TRANS_ELASTIC: Elastic
+  LABEL_TRANS_BACK: Back
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Możesz pożyczyć do %s$
   LABEL_FURNITURES: Meble
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -282,7 +305,6 @@ pl:
     Patrząc na jasną stronę, oznacza to, że masz jednego konkurenta mniej do czynienia.
 
     W mało prawdopodobnym przypadku, gdy nie będziesz chciał sprzedać, jesteśmy gotowi pójść do sądu.
-    Koszty prawne i opłaty manipulacyjne będą kosztować [b]%s[/b] $.
 
     [i]To jest nasza ostateczna oferta, nie ma możliwości negocjacji[/i].
     [i]Masz jeszcze [b]%s[/b] dolarów w banku[/i]
@@ -2019,6 +2041,15 @@ pl:
   LABEL_ARCADE_CITY_GAME_STUDIO: Pasaż City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maksymalnie 2 gatunki na grę.
+
+    Niektóre gatunki gier są już kombinacjami gatunków,
+    dlatego nie można ich łączyć z innymi gatunkami gier.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Ten gatunek jest na razie zablokowany.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Musisz wybrać co najmniej jeden gatunek gry, aby stworzyć grę.
   TOOLTIP_RANDOM_SLIDER: |
     Podczas tworzenia gier oczekiwane wartości wskaźników na etapach rozwoju, projektowania i dopracowywania stają się losowe.
   TOOLTIP_REQUIRE_GAME: |

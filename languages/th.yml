@@ -96,6 +96,29 @@ th:
   BUTTON_ROADMAP: แผนงาน
 
   # Labels
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Employees of this studio no longer want to make games of the genre: "%s".
+    Instead, they want to work on a new game genre.
+
+    By making a "%s" genre game, they are going to get bored.
+    Therefore it means that they are going to be less productive and go on vacation more often.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    This studio's employees are happy to work on a game of the genre: "%s".
+  LABEL_GENRE_INTEREST: Interest in the selected game genre
+  LABEL_POPUP_ANIMATION: Popups' animations
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Cubic
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Bounce
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Linear
+  LABEL_TRANS_ELASTIC: Elastic
+  LABEL_TRANS_BACK: Back
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    You can borrow up to %s$
   LABEL_FURNITURES: Furnitures
   LABEL_UI_DESIGNER: UI Designer
   TOOLTIP_AUTOFURNISH_MODE: |
@@ -283,7 +306,6 @@ th:
     Looking on the bright side, it means you have one competitor less to deal with.
 
     In the unlikely event that you are unwilling to sell, we are prepared to go to court.
-    Legal fees and processing fees will cost [b]%s[/b]$.
 
     [i]This is our final offer, there is no negotiation.[/i]
     [i]You have [b]%s[/b]$ left in the bank[/i]
@@ -2023,6 +2045,15 @@ th:
   LABEL_ARCADE_CITY_GAME_STUDIO: อาเขต City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maximum 2 genres per game.
+
+    Some game genres are already combinations of genres,
+    and therefore you cannot combine them with other game genres.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    This genre is locked for now.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    You must select at least one game genre to create a game.
   TOOLTIP_RANDOM_SLIDER: |
     ในการสร้างเกม ค่าที่คาดหวังของมาตรวัดในขั้นตอนการพัฒนา การออกแบบ และการขัดเกลาจะกลายเป็นแบบสุ่ม
   TOOLTIP_REQUIRE_GAME: |
