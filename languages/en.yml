@@ -96,6 +96,17 @@ en:
   BUTTON_ROADMAP: Roadmap
 
   # Labels, descriptive
+  LABEL_CUSTOMIZATION: Customization
+  LABEL_SKIN_COLOR: Skin color
+  LABEL_ACCESSORY_STYLE: Accessory
+  LABEL_HAIR_COLOR: Hair color
+  LABEL_HAIR_STYLE: Hair style
+  LABEL_SHIRT_COLOR: Shirt color
+  LABEL_PANT_COLOR: Pant color
+  LABEL_SHOES_COLOR: Shoes color
+  LABEL_PUBLISHED_SAME_COMBO_TOO_FAST: |
+    You've already published a [b]%s-%s[/b] game in less than [b]%s[/b] months.
+    If you make identical games, you risk angering the critics who are already expecting something new and fresh as often as possible.
   TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
     Employees of this studio no longer want to make games of the genre: "%s".
     Instead, they want to work on a new game genre.
@@ -2209,7 +2220,7 @@ en:
   TOOLTIP_GAME_UPDATE_BUTTON: >
     Click here to update your games, create DLC or view financial details
   TOOLTIP_GAMECREATION_HELP: >
-    Lists the games of the same genre that you have created. Useful to to tune the gauges.
+    Lists the games of the same genre that you have created. Useful to tune the gauges.
   TOOLTIP_GAMEENGINE_CREATE: >
     Pick which features you want to put in your game engine
   TOOLTIP_TIRED_GAME_GENRE: >

@@ -96,6 +96,17 @@ ru:
   BUTTON_ROADMAP: Карта дорог
 
   # Labels, descriptive
+  LABEL_CUSTOMIZATION: Персонализация
+  LABEL_SKIN_COLOR: Цвет кожи
+  LABEL_ACCESSORY_STYLE: Аксессуар
+  LABEL_HAIR_COLOR: Цвет волос
+  LABEL_HAIR_STYLE: Стиль прически
+  LABEL_SHIRT_COLOR: Цвет рубашки
+  LABEL_PANT_COLOR: Цвет брюк
+  LABEL_SHOES_COLOR: Цвет обуви
+  LABEL_PUBLISHED_SAME_COMBO_TOO_FAST: |
+    Вы уже опубликовали игру [b]%s-%s[/b] менее чем за [b]%s[/b] месяцев.
+    Если вы будете делать одинаковые игры, вы рискуете разозлить критиков, которые и так ожидают чего-то нового и свежего как можно чаще.
   TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
     Сотрудники этой студии больше не хотят делать игры жанра: "%s".
     Вместо этого они хотят работать над новым игровым жанром.
