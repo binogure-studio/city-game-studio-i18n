@@ -96,6 +96,9 @@ de:
   BUTTON_ROADMAP: Straßenkarte
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Mods laden... (%s / %s)
+  LABEL_MOD_LOADED: Mods geladen. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Erfolge deaktivieren
   LABEL_REACH_YEAR: "Das Jahr %s erreicht"
   LABEL_NUMBER_SERVER: Anzahl der Server
   LABEL_GAME_NAME_EMPTY: Spielname ist leer
@@ -336,6 +339,8 @@ de:
   LABEL_STOCK_MARKET: Aktienmarkt
   LABEL_CONCURRENT_BUY_STOCK: Aktien von Wettbewerbern kaufen
   LABEL_TRADING_PANEL: Handels-Panel
+  LABEL_STOCKS_QUANTITY_TO_BUY: Anzahl der zu kaufenden Aktien
+  LABEL_STOCKS_QUANTITY_TO_SELL: Anzahl der zu verkaufenden Aktien
   LABEL_STOCKS_COSTS: Kosten einer Aktie
   LABEL_STOCKS_OWNED: Anzahl der eigenen Aktien
   LABEL_STOCKS_VALUE: Wert der Aktien
@@ -645,6 +650,7 @@ de:
   LABEL_MOD_VISIBILITY_PUBLIC: Öffentlich
   LABEL_MOD_VISIBILITY_FRIENDS: Nur Freunde
   LABEL_MOD_VISIBILITY_PRIVATE: Privat
+  LABEL_MOD_VISIBILITY_UNLISTED: Nicht aufgeführt
   LABEL_MOD_IMAGE_PREVIEW: Vorschau-Bild
   LABEL_MOD_VIDEO_PREVIEW: Video-Vorschau
   LABEL_MOD_PATH: Mod-Pfad
@@ -2077,6 +2083,10 @@ de:
   LABEL_ARCADE_CITY_GAME_STUDIO: Spielhalle City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Universitäten ermöglichen es Ihnen, Ihre Mitarbeiter über deren normale Fähigkeiten hinaus auszubilden.
+    Wenn Sie Ihre Mitarbeiter jedoch über ihre normalen Fähigkeiten hinaus ausbilden,
+    wird sich ihr Gehalt deutlich erhöhen.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Maximal 2 Genres pro Spiel.
 

@@ -96,6 +96,9 @@ ko:
   BUTTON_ROADMAP: 로드맵
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: 모드 로드 중... (%s / %s)
+  LABEL_MOD_LOADED: 모드가 로드되었습니다. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: 업적 비활성화
   LABEL_REACH_YEAR: "%s년에 도달하기"
   LABEL_NUMBER_SERVER: 서버 수
   LABEL_GAME_NAME_EMPTY: 게임 이름이 비어 있습니다.
@@ -312,6 +315,8 @@ ko:
   LABEL_STOCK_MARKET: 투자자산
   LABEL_CONCURRENT_BUY_STOCK: 증권 거래소
   LABEL_TRADING_PANEL: 주요 시세정보
+  LABEL_STOCKS_QUANTITY_TO_BUY: 매수할 주식 수량
+  LABEL_STOCKS_QUANTITY_TO_SELL: 매도할 주식 수량
   LABEL_STOCKS_COSTS: 소유 주식 취득원가
   LABEL_STOCKS_OWNED: 소유 주식 수
   LABEL_STOCKS_VALUE: 소유 주식 평가액
@@ -633,6 +638,7 @@ ko:
   LABEL_MOD_VISIBILITY_PUBLIC: 공개
   LABEL_MOD_VISIBILITY_FRIENDS: 친구만
   LABEL_MOD_VISIBILITY_PRIVATE: 비공개
+  LABEL_MOD_VISIBILITY_UNLISTED: 목록에 없음
   LABEL_MOD_IMAGE_PREVIEW: 미리보기(이미지)
   LABEL_MOD_VIDEO_PREVIEW: 미리보기(동영상)
   LABEL_MOD_PATH: 파일 경로
@@ -2058,6 +2064,9 @@ ko:
   LABEL_ARCADE_CITY_GAME_STUDIO: 아케이드 City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    대학을 통해 직원의 일반적인 역량을 뛰어넘는 교육을 제공할 수 있습니다.
+    그러나 직원의 일반적인 역량을 넘어서는 교육을 실시하면 급여가 크게 인상됩니다.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     게임당 최대 2개의 장르를 조합할 수 있습니다.
 

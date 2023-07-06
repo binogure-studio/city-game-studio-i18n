@@ -96,6 +96,9 @@ pl:
   BUTTON_ROADMAP: Plan rozwoju
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Ładowanie modów... (%s / %s)
+  LABEL_MOD_LOADED: Mody załadowane. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Wyłączenie osiągnięć
   LABEL_REACH_YEAR: "Osiągnięcie roku %s"
   LABEL_NUMBER_SERVER: Liczba serwerów
   LABEL_GAME_NAME_EMPTY: Nazwa gry jest pusta
@@ -329,6 +332,8 @@ pl:
   LABEL_STOCK_MARKET: Giełda papierów wartościowych
   LABEL_CONCURRENT_BUY_STOCK: Kupuj akcje konkurencji
   LABEL_TRADING_PANEL: Panel inwestycyjny
+  LABEL_STOCKS_QUANTITY_TO_BUY: Ilość akcji do kupienia
+  LABEL_STOCKS_QUANTITY_TO_SELL: Ilość akcji do sprzedania
   LABEL_STOCKS_COSTS: Koszt akcji
   LABEL_STOCKS_OWNED: Liczba posiadanych akcji
   LABEL_STOCKS_VALUE: Wartość akcji
@@ -634,6 +639,7 @@ pl:
   LABEL_MOD_VISIBILITY_PUBLIC: Publiczny
   LABEL_MOD_VISIBILITY_FRIENDS: Tylko dla znajomych
   LABEL_MOD_VISIBILITY_PRIVATE: Prywatny
+  LABEL_MOD_VISIBILITY_UNLISTED: Niewymieniony
   LABEL_MOD_IMAGE_PREVIEW: Podgląd obrazu
   LABEL_MOD_VIDEO_PREVIEW: Podgląd wideo
   LABEL_MOD_PATH: Ścieżka bezwzględna
@@ -2058,6 +2064,9 @@ pl:
   LABEL_ARCADE_CITY_GAME_STUDIO: Pasaż City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Uczelnie pozwalają na szkolenie pracowników ponad ich normalne możliwości.
+    Jednak szkolenie pracowników ponad ich normalne możliwości znacznie zwiększy ich wynagrodzenie.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Maksymalnie 2 gatunki na grę.
 

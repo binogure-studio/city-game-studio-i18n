@@ -96,6 +96,9 @@ zh:
   BUTTON_ROADMAP: 路线图
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: 正在加载MODS... (%s / %s)
+  LABEL_MOD_LOADED: 已加载的mods。 (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: 禁用成就
   LABEL_REACH_YEAR: "抵达%s年"
   LABEL_NUMBER_SERVER: 服务器的数量
   LABEL_GAME_NAME_EMPTY: 游戏名称是空的
@@ -325,6 +328,8 @@ zh:
   LABEL_STOCK_MARKET: 股票市场
   LABEL_CONCURRENT_BUY_STOCK: 购买竞争对手的股票
   LABEL_TRADING_PANEL: 交易小组
+  LABEL_STOCKS_QUANTITY_TO_BUY: 买入股票的数量
+  LABEL_STOCKS_QUANTITY_TO_SELL: 卖出股票的数量
   LABEL_STOCKS_COSTS: 一股的成本
   LABEL_STOCKS_OWNED: 拥有的股票数量
   LABEL_STOCKS_VALUE: 股票的价值
@@ -624,6 +629,7 @@ zh:
   LABEL_MOD_VISIBILITY_PUBLIC: 公众
   LABEL_MOD_VISIBILITY_FRIENDS: 仅限朋友
   LABEL_MOD_VISIBILITY_PRIVATE: 私人
+  LABEL_MOD_VISIBILITY_UNLISTED: 未列出
   LABEL_MOD_IMAGE_PREVIEW: 预览图片
   LABEL_MOD_VIDEO_PREVIEW: 预览视频
   LABEL_MOD_PATH: 绝对路径
@@ -2038,6 +2044,9 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    大学允许你对员工进行超出其正常能力的培训。
+    然而，对你的员工进行超出其正常能力的培训将大大增加他们的工资。
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     每个游戏最多只能有2个流派。
 

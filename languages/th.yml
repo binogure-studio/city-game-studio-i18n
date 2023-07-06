@@ -96,6 +96,9 @@ th:
   BUTTON_ROADMAP: แผนงาน
 
   # Labels
+  LABEL_MOD_LOADING: Loading mods... (%s / %s)
+  LABEL_MOD_LOADED: Mods loaded. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Disable achievements
   LABEL_REACH_YEAR: "Reaching the year %s"
   LABEL_NUMBER_SERVER: Number of servers
   LABEL_GAME_NAME_EMPTY: Game name is empty
@@ -330,6 +333,8 @@ th:
   LABEL_STOCK_MARKET: ตลาดหลักทรัพย์
   LABEL_CONCURRENT_BUY_STOCK: ซื้อหุ้นคู่แข่ง
   LABEL_TRADING_PANEL: แผงการซื้อขาย
+  LABEL_STOCKS_QUANTITY_TO_BUY: Quantity of shares to buy
+  LABEL_STOCKS_QUANTITY_TO_SELL: Quantity of shares to sell
   LABEL_STOCKS_COSTS: ราคาหุ้น
   LABEL_STOCKS_OWNED: จำนวนหุ้นที่ถือครอง
   LABEL_STOCKS_VALUE: มูลค่าหุ้น
@@ -638,6 +643,7 @@ th:
   LABEL_MOD_VISIBILITY_PUBLIC: สาธารณะ
   LABEL_MOD_VISIBILITY_FRIENDS: เพื่อนเท่านั้น
   LABEL_MOD_VISIBILITY_PRIVATE: ส่วนตัว
+  LABEL_MOD_VISIBILITY_UNLISTED: Not listed
   LABEL_MOD_IMAGE_PREVIEW: รูปตัวอย่าง
   LABEL_MOD_VIDEO_PREVIEW: วีดีโอตัวอย่าง
   LABEL_MOD_PATH: Absolute path
@@ -2062,6 +2068,9 @@ th:
   LABEL_ARCADE_CITY_GAME_STUDIO: อาเขต City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Universities allow you to train your employees beyond their normal capabilities.
+    However, training your employees beyond their normal capabilities will significantly increase their salary.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Maximum 2 genres per game.
 

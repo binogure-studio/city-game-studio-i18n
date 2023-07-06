@@ -96,6 +96,9 @@ ja:
   BUTTON_ROADMAP: ロードマップ
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: MODのロード... (%s / %s)
+  LABEL_MOD_LOADED: MODをロードしました。 (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: アチーブメントを無効にする
   LABEL_REACH_YEAR: "%s年の到達点"
   LABEL_NUMBER_SERVER: サーバー台数
   LABEL_GAME_NAME_EMPTY: ゲーム名が空欄
@@ -327,6 +330,8 @@ ja:
   LABEL_STOCK_MARKET: 株式市場
   LABEL_CONCURRENT_BUY_STOCK: 競合他社の株式購入
   LABEL_TRADING_PANEL: 取引パネル
+  LABEL_STOCKS_QUANTITY_TO_BUY: 購入する株式の数
+  LABEL_STOCKS_QUANTITY_TO_SELL: 売却する株式の数
   LABEL_STOCKS_COSTS: 1株あたりのコスト
   LABEL_STOCKS_OWNED: 所有株式数
   LABEL_STOCKS_VALUE: 株式の価値
@@ -632,6 +637,7 @@ ja:
   LABEL_MOD_VISIBILITY_PUBLIC: 公開
   LABEL_MOD_VISIBILITY_FRIENDS: フレンドのみ
   LABEL_MOD_VISIBILITY_PRIVATE: プライベート
+  LABEL_MOD_VISIBILITY_UNLISTED: 記載なし
   LABEL_MOD_IMAGE_PREVIEW: プレビュー画像
   LABEL_MOD_VIDEO_PREVIEW: プレビュー動画
   LABEL_MOD_PATH: 絶対パス
@@ -2050,6 +2056,9 @@ ja:
   LABEL_ARCADE_CITY_GAME_STUDIO: アーケード City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    大学では、社員の通常の能力を超えたトレーニングを行うことができます。
+    しかし、通常の能力を超えて従業員を訓練することは、従業員の給与を大幅に引き上げることになります。
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     1ゲームにつき最大2ジャンルまでとします。
 

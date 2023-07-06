@@ -96,6 +96,9 @@ nl:
   BUTTON_ROADMAP: Wegenkaart
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Mods laden... (%s / %s)
+  LABEL_MOD_LOADED: Mods geladen. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Prestaties uitschakelen
   LABEL_REACH_YEAR: "Het bereiken van het jaar %s"
   LABEL_NUMBER_SERVER: Aantal servers
   LABEL_GAME_NAME_EMPTY: Spelnaam is leeg
@@ -332,6 +335,8 @@ nl:
   LABEL_STOCK_MARKET: Beurs
   LABEL_CONCURRENT_BUY_STOCK: Koop aandelen van concurrenten
   LABEL_TRADING_PANEL: Handelspanel
+  LABEL_STOCKS_QUANTITY_TO_BUY: Hoeveelheid te kopen aandelen
+  LABEL_STOCKS_QUANTITY_TO_SELL: Hoeveelheid te verkopen aandelen
   LABEL_STOCKS_COSTS: Kosten van een aandeel
   LABEL_STOCKS_OWNED: Aantal aandelen in bezit
   LABEL_STOCKS_VALUE: Waarde van de aandelen
@@ -639,6 +644,7 @@ nl:
   LABEL_MOD_VISIBILITY_PUBLIC: Publiek
   LABEL_MOD_VISIBILITY_FRIENDS: Alleen voor vrienden
   LABEL_MOD_VISIBILITY_PRIVATE: Privé
+  LABEL_MOD_VISIBILITY_UNLISTED: Niet vermeld
   LABEL_MOD_IMAGE_PREVIEW: Voorbeeldfoto
   LABEL_MOD_VIDEO_PREVIEW: Voorbeeldvideo
   LABEL_MOD_PATH: Absoluut pad
@@ -2055,6 +2061,9 @@ nl:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Universiteiten stellen u in staat uw werknemers verder op te leiden dan hun normale capaciteiten.
+    Door uw werknemers verder op te leiden dan hun normale capaciteiten, zal hun salaris echter aanzienlijk stijgen.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Maximaal 2 genres per spel.
 

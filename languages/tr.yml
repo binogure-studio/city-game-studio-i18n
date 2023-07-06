@@ -96,6 +96,9 @@ tr:
   BUTTON_ROADMAP: Yol Haritası
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Modlar yükleniyor... (%s / %s)
+  LABEL_MOD_LOADED: Modlar yüklendi. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Başarıları devre dışı bırak
   LABEL_REACH_YEAR: "%s yılına ulaşmak"
   LABEL_NUMBER_SERVER: Sunucu sayısı
   LABEL_GAME_NAME_EMPTY: Oyun adı boş
@@ -329,6 +332,8 @@ tr:
   LABEL_STOCK_MARKET: Borsa
   LABEL_CONCURRENT_BUY_STOCK: Rakiplerin hisselerini satın alın
   LABEL_TRADING_PANEL: Ticaret paneli
+  LABEL_STOCKS_QUANTITY_TO_BUY: Satın alınacak hisse miktarı
+  LABEL_STOCKS_QUANTITY_TO_SELL: Satılacak hisse miktarı
   LABEL_STOCKS_COSTS: Bir hissenin maliyeti
   LABEL_STOCKS_OWNED: Sahip olunan hisse sayısı
   LABEL_STOCKS_VALUE: Hisselerin değeri
@@ -635,6 +640,7 @@ tr:
   LABEL_MOD_VISIBILITY_PUBLIC: halka açık
   LABEL_MOD_VISIBILITY_FRIENDS: Sadece arkadaşlar
   LABEL_MOD_VISIBILITY_PRIVATE: Özel
+  LABEL_MOD_VISIBILITY_UNLISTED: Listede yok
   LABEL_MOD_IMAGE_PREVIEW: Önizleme resmi
   LABEL_MOD_VIDEO_PREVIEW: Videoyu önizleyin
   LABEL_MOD_PATH: Kesin yol
@@ -2044,6 +2050,9 @@ tr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Üniversiteler, çalışanlarınızı normal yeteneklerinin ötesinde eğitmenize olanak tanır.
+    Ancak, çalışanlarınızı normal yeteneklerinin ötesinde eğitmek maaşlarını önemli ölçüde artıracaktır.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Oyun başına en fazla 2 tür.
 

@@ -96,6 +96,9 @@ ru:
   BUTTON_ROADMAP: Карта дорог
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Загрузка модов... (%s / %s)
+  LABEL_MOD_LOADED: Моды загружены. (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Отключить достижения
   LABEL_REACH_YEAR: "Достижение %s года"
   LABEL_NUMBER_SERVER: Количество серверов
   LABEL_GAME_NAME_EMPTY: Название игры пустое
@@ -331,6 +334,8 @@ ru:
   LABEL_STOCK_MARKET: Фондовый рынок
   LABEL_CONCURRENT_BUY_STOCK: Купить акции конкурентов
   LABEL_TRADING_PANEL: Торговая панель
+  LABEL_STOCKS_QUANTITY_TO_BUY: Количество акций для покупки
+  LABEL_STOCKS_QUANTITY_TO_SELL: Количество акций для продажи
   LABEL_STOCKS_COSTS: Стоимость акции
   LABEL_STOCKS_OWNED: Количество принадлежащих акций
   LABEL_STOCKS_VALUE: Стоимость акций
@@ -637,6 +642,7 @@ ru:
   LABEL_MOD_VISIBILITY_PUBLIC: Общественный
   LABEL_MOD_VISIBILITY_FRIENDS: Только друзья
   LABEL_MOD_VISIBILITY_PRIVATE: Частный
+  LABEL_MOD_VISIBILITY_UNLISTED: Не указан
   LABEL_MOD_IMAGE_PREVIEW: Предварительное изображение
   LABEL_MOD_VIDEO_PREVIEW: Предварительное видео
   LABEL_MOD_PATH: Абсолютный путь
@@ -2091,6 +2097,9 @@ ru:
   LABEL_ARCADE_CITY_GAME_STUDIO: Аркада City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Университеты позволяют обучать сотрудников сверх их обычных возможностей.
+    Однако обучение сотрудников сверх их обычных возможностей значительно повышает их заработную плату.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Не более 2 жанров в одной игре.
 

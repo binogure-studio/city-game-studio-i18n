@@ -96,6 +96,9 @@ en:
   BUTTON_ROADMAP: Roadmap
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Loading mods... (%s / %s)
+  LABEL_MOD_LOADED: Mods loaded (%s/ %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Disable achievements
   LABEL_REACH_YEAR: "Reaching the year %s"
   LABEL_NUMBER_SERVER: Number of servers
   LABEL_GAME_NAME_EMPTY: Game name is empty
@@ -329,6 +332,8 @@ en:
   LABEL_STOCK_MARKET: Stock market
   LABEL_CONCURRENT_BUY_STOCK: Buy shares of competitors
   LABEL_TRADING_PANEL: Trading panel
+  LABEL_STOCKS_QUANTITY_TO_BUY: Quantity of shares to buy
+  LABEL_STOCKS_QUANTITY_TO_SELL: Quantity of shares to sell
   LABEL_STOCKS_COSTS: Cost of a share
   LABEL_STOCKS_OWNED: Number of shares owned
   LABEL_STOCKS_VALUE: Value of shares
@@ -634,6 +639,7 @@ en:
   LABEL_MOD_VISIBILITY_PUBLIC: Public
   LABEL_MOD_VISIBILITY_FRIENDS: Friends only
   LABEL_MOD_VISIBILITY_PRIVATE: Private
+  LABEL_MOD_VISIBILITY_UNLISTED: Not listed
   LABEL_MOD_IMAGE_PREVIEW: Preview image
   LABEL_MOD_VIDEO_PREVIEW: Preview video
   LABEL_MOD_PATH: Absolute path
@@ -2058,6 +2064,9 @@ en:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Universities allow you to train your employees beyond their normal capabilities.
+    However, training your employees beyond their normal capabilities will significantly increase their salary.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Maximum 2 genres per game.
 

@@ -96,6 +96,9 @@ fr:
   BUTTON_ROADMAP: Feuille de route
 
   # Labels, descriptive
+  LABEL_MOD_LOADING: Chargement des mods (%s / %s)
+  LABEL_MOD_LOADED: Mods chargés (%s / %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Désactiver les succès
   LABEL_REACH_YEAR: "Atteindre l'année %s"
   LABEL_NUMBER_SERVER: Nombre de serveurs
   LABEL_GAME_NAME_EMPTY: Le nom du jeu est invalide
@@ -343,6 +346,8 @@ fr:
   LABEL_STOCK_MARKET: Marché boursier
   LABEL_CONCURRENT_BUY_STOCK: Acheter des actions de concurrents
   LABEL_TRADING_PANEL: Panneau des négociations
+  LABEL_STOCKS_QUANTITY_TO_BUY: Quantité d'actions à acheter
+  LABEL_STOCKS_QUANTITY_TO_SELL: Quantité d'actions à vendre
   LABEL_STOCKS_COSTS: Coûts d'une action
   LABEL_STOCKS_OWNED: Nombre d'actions possédées
   LABEL_STOCKS_VALUE: Valeur des actions
@@ -655,6 +660,7 @@ fr:
   LABEL_MOD_VISIBILITY_PUBLIC: Public
   LABEL_MOD_VISIBILITY_FRIENDS: Amis seulement
   LABEL_MOD_VISIBILITY_PRIVATE: Privé
+  LABEL_MOD_VISIBILITY_UNLISTED: Non listé
   LABEL_MOD_IMAGE_PREVIEW: Image de prévisualisation
   LABEL_MOD_VIDEO_PREVIEW: Vidéo de présentation
   LABEL_MOD_PATH: Le chemin absolu
@@ -2116,6 +2122,9 @@ fr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Les universités permettent de former vos employés au-delà de leurs capacités normales.
+    Cependant, former vos employés au-delà de leurs capacités normales va considérablement augmenter leur salaire.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     Maximum 2 genres par jeu.
 
