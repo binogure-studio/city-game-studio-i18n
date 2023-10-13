@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Vous voici en 1975 et vous venez de créer votre studio de jeux vidéo. Vous louez un local de petite taille qui vous permet déjà de développer des jeux. Rapidement vos créations ont du succès et vous devez déjà déménager. Parcourez à votre guise la ville pour choisir votre prochain local. En un clin d'oeil, vous vous retrouvez à embaucher des artistes pour améliorer l'aspect visuel de vos créations. Puis viendra le tour des développeurs et enfin celui des testeurs.
+Vous voici en 1976 et vous venez de créer votre studio de jeux vidéo. Vous louez un local de petite taille qui vous permet déjà de développer des jeux. Rapidement vos créations ont du succès et vous devez déjà déménager. Parcourez à votre guise la ville pour choisir votre prochain local. En un clin d'oeil, vous vous retrouvez à embaucher des artistes pour améliorer l'aspect visuel de vos créations. Puis viendra le tour des développeurs et enfin celui des testeurs.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 

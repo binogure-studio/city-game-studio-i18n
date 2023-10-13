@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Styczeń 1975 roku, właśnie utworzyłeś własną firmę produkującą gry wideo. Wynajmujesz ciasne pomieszczenie, które pozwala Ci na opracowanie pierwszej gry. Szybko Twoje gry odnoszą sukces i już musisz się przeprowadzić, ale to od Ciebie zależy, czy będziesz przemierzał miasto, aby wybrać swój kolejny lokal. W mgnieniu oka zatrudniasz artystów, aby poprawić wizualny aspekt swoich gier. Następnie przychodzą programiści, a potem testerzy.
+Styczeń 1976 roku, właśnie utworzyłeś własną firmę produkującą gry wideo. Wynajmujesz ciasne pomieszczenie, które pozwala Ci na opracowanie pierwszej gry. Szybko Twoje gry odnoszą sukces i już musisz się przeprowadzić, ale to od Ciebie zależy, czy będziesz przemierzał miasto, aby wybrać swój kolejny lokal. W mgnieniu oka zatrudniasz artystów, aby poprawić wizualny aspekt swoich gier. Następnie przychodzą programiści, a potem testerzy.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 

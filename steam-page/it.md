@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Gennaio 1975, hai appena fondato la tua ditta di videogiochi. Affitti un piccolo spazio che ti permetterà di sviluppare la tua prima opera. Presto, i tuoi giochi diventano un successo ed è già tempo di trasferirsi, ma sta a te scegliere dove collocare il nuovo ufficio. In un batter d'occhio stai già assumendo artisti per migliorare l'aspetto grafico dei tuoi giochi, poi è il turno di programmatori e tester.
+Gennaio 1976, hai appena fondato la tua ditta di videogiochi. Affitti un piccolo spazio che ti permetterà di sviluppare la tua prima opera. Presto, i tuoi giochi diventano un successo ed è già tempo di trasferirsi, ma sta a te scegliere dove collocare il nuovo ufficio. In un batter d'occhio stai già assumendo artisti per migliorare l'aspetto grafico dei tuoi giochi, poi è il turno di programmatori e tester.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 

@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-January 1975, you've just created your own video game company. You are renting a tight place that allows you to develop your first game. Quickly, your games are successful and you already have to move, but it is up to you to cross the city to pick your next local. In the blink of an eye you are hiring artists to improve the visual aspect of your games. Next came developers and then testers.
+January 1976, you've just created your own video game company. You are renting a tight place that allows you to develop your first game. Quickly, your games are successful and you already have to move, but it is up to you to cross the city to pick your next local. In the blink of an eye you are hiring artists to improve the visual aspect of your games. Next came developers and then testers.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 

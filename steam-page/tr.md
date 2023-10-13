@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Ocak 1975'te kendi video oyun şirketinizi yarattınız. İlk oyununuzu geliştirmenize olanak sağlayan küçük bir yer kiralıyorsunuz. Hızla, oyunlarınız başarılı ve zaten hareket etmek zorundasınız ancak bir sonraki yerinizi seçmek için şehri geçmek size kalmış. göz açıp kapayıncaya kadar oyunların görsel yönünü geliştirmek için grafikçi işe alıyorsunuz. Daha sonra geliştiriciler ve testçiler geliyor.
+Ocak 1976'te kendi video oyun şirketinizi yarattınız. İlk oyununuzu geliştirmenize olanak sağlayan küçük bir yer kiralıyorsunuz. Hızla, oyunlarınız başarılı ve zaten hareket etmek zorundasınız ancak bir sonraki yerinizi seçmek için şehri geçmek size kalmış. göz açıp kapayıncaya kadar oyunların görsel yönünü geliştirmek için grafikçi işe alıyorsunuz. Daha sonra geliştiriciler ve testçiler geliyor.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 

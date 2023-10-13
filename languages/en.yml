@@ -95,8 +95,11 @@ en:
   BUTTON_IMPORT_IMAGE: Import an image
   BUTTON_ROADMAP: Roadmap
   BUTTON_VIEW_MODS: View mods
+  BUTTON_DEMOLISH_STUDIO: Demolish the building
+  BUTTON_SAVEGAMEAS: New savegame
 
   # Labels, descriptive
+  LABEL_PLATFORM_GENERATION: Generation
   LABEL_MODS_NOT_LOADED: Some mods ain't loaded
   LABEL_MOD_LOADING: Loading mods... (%s / %s)
   LABEL_MOD_LOADED: Mods loaded (%s/ %s)
@@ -417,11 +420,11 @@ en:
     Sales will be hit.
   LABEL_MINIGAME_DEFEND_WIN: |
     Congratulations, you've done well!
-  BUTTON_CLICK_ME: Click me
+  BUTTON_CLICK_ME: Press me
   LABEL_FIREWALL_SIMULATOR_TITLE: Counter-hacking simulator
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
     Your objective, protect your game, otherwise it will be hacked.
-    To achieve that objective, click on the blue buttons until they reach 0 to protect the network.
+    To achieve that objective, press the blue buttons until they reach 0 to protect the network.
 
     It is simple, but you gotta go fast!
   LABEL_GAME_UPDATE_NB: Number of updates
@@ -654,7 +657,7 @@ en:
   LABEL_MOD_CREATED: Mod created
   LABEL_MOD_UPDATED: Mod updated
   TOOLTIP_HOLD_TO_CLICK: |
-    Hold click to press
+    Hold to press
   LABEL_GAME_EXCLUSIVITY: >
     This game is exclusive to %s
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
@@ -767,7 +770,7 @@ en:
   LABEL_WARNING_THEME_MISSING: Please select a theme
   LABEL_BUYABLE: Buyable
   LABEL_IAP_ADD_MICROTRANSATION: >
-    Add a microtransaction by clicking on the blue button.
+    Add a microtransaction by pressing the blue button.
   LABEL_NUMBER_OF_NEW_PLAYERS: Number of new players
   LABEL_NUMBER_OF_RETURNING_PLAYERS: Number of returning players
   LABEL_NUMBER_OF_PLAYER_LOST: Number of lost players
@@ -1050,13 +1053,13 @@ en:
     Congratulations!
   LABEL_HACKING_INTRODUCTION: |
     Welcome to the Hacker simulator.
-    To start the hack, click on 'Start'
-  LABEL_OPEN_CONSOLE: Click on 'Start' to hack
+    To start the hack, press 'Start'
+  LABEL_OPEN_CONSOLE: Press 'Start' to hack
   LABEL_DOWNLOADING: Downloading
   LABEL_TARGET_LOCALIZING: Intrusion detected
   LABEL_CONNECTION_LOST: Connection lost
   LABEL_ACCESS_GRANTED: Access granted
-  LABEL_CLICK_FOR_ACTION: Click to open the menu
+  LABEL_CLICK_FOR_ACTION: Press to open the menu
   LABEL_NO_GAME_INDEV: |
     There are no games in development
   LABEL_ALREADY_REGISTERED: Attending
@@ -1242,7 +1245,7 @@ en:
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Unlock new game genres[/b].
 
-    To unlock a new genre, [b]click on its icon[/b].
+    To unlock a new genre, [b]press its icon[/b].
     If you have enough points, then the game genre is going to be unlocked.
 
     [b]Number of genre points[/b] is located in the [b]upper right corner[/b] of the screen.
@@ -1602,7 +1605,7 @@ en:
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Upcoming platform
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Upcoming end of life platform
   LABEL_PLATFORM_UNLOCKED_TITLE: Platform bought
-  LABEL_CLICK_TO_CLOSE: Click to close
+  LABEL_CLICK_TO_CLOSE: Press to close
   LABEL_SHOP_UI: Shop
   LABEL_DESK: Desk
   LABEL_BOOKSHELF: Bookshelf
@@ -2133,7 +2136,7 @@ en:
   TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
     Automatically make the game report.
   TUTORIEL_CREATE_GAME: |
-    Click on this button to open the game creation panel.
+    Press this button to open the game creation panel.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
     Costs involved in upgrading this game engine are higher. In fact, the game engine is aging,
     so the development costs can skyrocket.
@@ -2184,7 +2187,7 @@ en:
     To make a good start, you need a large catalog of games. Sending devkits around
     encourages your competitors to create games for your console.
 
-    Click on that button to send devkits.
+    Press that button to send devkits.
   TOOLTIP_GAME_PRICE_TAG: |
     Toggle between a paid and a free to play game.
 
@@ -2237,7 +2240,7 @@ en:
 
     Your best bet is to take out a mortgage that is as substantial and as long-term as possible.
   TOOLTIP_GAME_UPDATE_BUTTON: >
-    Click here to update your games, create DLC or view financial details
+    Press to update your games, create DLC or view financial details
   TOOLTIP_GAMECREATION_HELP: >
     Lists the games of the same genre that you have created. Useful to tune the gauges.
   TOOLTIP_GAMEENGINE_CREATE: >

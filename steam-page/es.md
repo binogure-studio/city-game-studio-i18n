@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Enero de 1975 y has creado tu propio estudio de videojuegos. Has alquilado un pequeño local que te permite empezar a desarrollar tu primer videojuego. Rápidamente, tus juegos son un éxito y debes trasladarte a otro local. Pero, es decisión tuya donde elegir ese nuevo lugar. En un abrir y cerrar de ojos, estás contratando artistas para mejorar el aspecto visual de tus juegos. Luego vendrán los desarrolladores y finalmente los testers.
+Enero de 1976 y has creado tu propio estudio de videojuegos. Has alquilado un pequeño local que te permite empezar a desarrollar tu primer videojuego. Rápidamente, tus juegos son un éxito y debes trasladarte a otro local. Pero, es decisión tuya donde elegir ese nuevo lugar. En un abrir y cerrar de ojos, estás contratando artistas para mejorar el aspecto visual de tus juegos. Luego vendrán los desarrolladores y finalmente los testers.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 

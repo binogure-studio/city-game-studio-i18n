@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Januar 1975: Du gründest deine eigene Videospiel-Firma.
+Januar 1976: Du gründest deine eigene Videospiel-Firma.
 Du mietest eine kleine Garage die dir erlaubt dein erstes Spiel zu entwickeln. Schnell werden deine Spiele erfolgreich, doch um weiter zu wachsen musst  du umziehen. Im nächsten Augenblick stellst du bereits Designer ein, um die Grafik deiner Spiele zu verbessern.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]

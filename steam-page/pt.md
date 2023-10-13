@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Janeiro de 1975, você criou sua empresa de videogames. Você está alugando um lugar apertado que lhe permite desenvolver seu primeiro jogo. Rapidamente, seus jogos são bem sucedidos e você já tem que se mudar, mas cabe a você atravessar a cidade para pegar seu próximo local. Em um piscar de olhos você está contratando artistas para melhorar o aspecto visual de seus jogos. Em seguida vieram os desenvolvedores e depois os testadores.
+Janeiro de 1976, você criou sua empresa de videogames. Você está alugando um lugar apertado que lhe permite desenvolver seu primeiro jogo. Rapidamente, seus jogos são bem sucedidos e você já tem que se mudar, mas cabe a você atravessar a cidade para pegar seu próximo local. Em um piscar de olhos você está contratando artistas para melhorar o aspecto visual de seus jogos. Em seguida vieram os desenvolvedores e depois os testadores.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
@@ -38,4 +38,4 @@ Mas um problema permanece, mesmo se os seus jogos forem brilhantes, você não t
 [list][*] Game Dev Story
 [*] Game Dev Tycoon
 [*] Software Inc
-[*] Sim City
+[*] Sim City[/list]

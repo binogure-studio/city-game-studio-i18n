@@ -1,6 +1,6 @@
 [img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
 
-Januari 1975, je hebt net je eigen video game bedrijf opgestart. Je huurt een kleine plaats dat je toelaat je eerste games te ontwikkelen. Al snel zijn je games succesvol en ben je klaar om te verhuizen. Het is aan jou om je volgende locatie te kiezen in de stad. Voor je het weet neem je artiesten aan om de visuele onderdelen te verbeteren van je game. Daarna komen de developers en dan de testers.
+Januari 1976, je hebt net je eigen video game bedrijf opgestart. Je huurt een kleine plaats dat je toelaat je eerste games te ontwikkelen. Al snel zijn je games succesvol en ben je klaar om te verhuizen. Het is aan jou om je volgende locatie te kiezen in de stad. Voor je het weet neem je artiesten aan om de visuele onderdelen te verbeteren van je game. Daarna komen de developers en dan de testers.
 
 [img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
 
