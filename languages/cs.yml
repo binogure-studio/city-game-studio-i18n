@@ -85,7 +85,7 @@ en:
   BUTTON_CANCEL_FEATURE: Zrušit funkci
   BUTTON_CANCEL_GAMEENGINE: Zrušit herní engine
   BUTTON_CANCEL_GAMEUPDATE: Zrušit update zdarma
-  BUTTON_CANCEL_DLC: Zrušit placený update
+  BUTTON_CANCEL_DLC: Zrušit DLC
   BUTTON_UNASSIGN: Zrušit přiřazení
   BUTTON_REMAKE_CREATE: Vytvořit remake
   BUTTON_VIEW_REMAKE: Zobrazit remake
@@ -149,104 +149,104 @@ en:
   TOOLTIP_AUTOFURNISH_MODE: |
     Vyberte si mezi automatickým a manuálním pokládáním nábytku.
   LABEL_GAUGE_GOOD: |
-    You have allocated the right workload for this gauge
+    Pro tuto oblast jste přiřadili správné množství práce
   LABEL_GAUGE_OK: |
-    The workload for this gauge could be improved
+    Množství práce pro tuto oblast by mohlo být opraveno
   LABEL_GAUGE_POOR: |
-    Wrong estimation of the workload needed for this gauge
-  LABEL_BACKWARD_COMPATIBILITY: Backwards compatibility
+    Pro tuto oblast špatně odhadnuté množství práce
+  LABEL_BACKWARD_COMPATIBILITY: Zpětná kompatibilita
   TOOLTIP_BACKWARD_COMPATIBILITY: |
-    In order to make a backwards-compatible console, it's necessary that you have already made a console of the same kind.
-    Meaning, if you make a handheld console, and you want to make it backwards compatible,
-    then you need a handheld console that you have made before.
-    It is backwards compatible with the last console of the same kind that you have designed.
+    K vytvoření konzole se zpětnou kompatibiliou je nutné mít v minulosti jinou konzoli stejného typu.
+    To znamená, že pokud chcete vytvořit handheld, který je zpětně kompatibilní,
+    museli jste vytvořit již jeden handheld v minulosti.
+    Zpětná kompatibilita se vztahuje na předchozí konzoli stejného typu.
 
-    Being backwards compatible makes it faster and better to port games from the predecessor console.
-    On the other hand, it requires a lot of development points to achieve the current console.
+    Zpětná kompatibilita dělá portování her z předchozích konzolí mnohem jednodušší.
+    Na druhou stranu je k implementaci potřeba o mnoho více bodů během vývoje.
 
-    It is not possible to make a console backwards compatible if you have not released a console of the same genre before.
-  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Please update!
+    Není možné implementovat zpětnou kompatibilitu, pokud jste ještě nevytvořili konzoli stejného typu.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Prosím update!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
-    Hi [b]%s[/b],
+    Ahoj [b]%s[/b],
 
-    We have a small community built around [b]%s[/b].
-    They share tips and follow your company's news, eagerly awaiting news from [b]%s[/b].
+    kolem [b]%s[/b] jsme si vybudovali menší komunitu.
+    Sdílí tipy a sledují zprávy z vaší společnosti. Nedočkavě čekají na cokoliv o [b]%s[/b].
 
-    If you publish an update in the coming [b]%d months[/b], they will be pleased!
-  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Great update!
+    Pokud během následujících [b]%d měsíců[/b] zveřejníte aktualizaci, budou potěšeni!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Skvělý update!
   LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
-    Kudos to you for living up to your fans' expectations.
+    Chvála vám za naplnění fanouškovských očekávání.
 
-    Your fans are thrilled by this update!
-    They spread the word around them, amplifying the enthusiasm around [b]%s[/b], which is going to impact the sales.
+    Naši fanoušci jsou nejnovější aktualizací nadšeni!
+    Šíří kolem sebe nadšení z [b]%s[/b], což ovlivní prodeje.
 
-    Awesome job, you can be proud of yourself.
-  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: It's too late...
+    Skvělá práce! Můžete být na sebe pyšní.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: Je příliš pozdě...
   LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
-    The [b]%s[/b] was released several months ago.
-    Momentum around the game has waned, other similar games have been released in the meantime.
+    Hra [b]%s[/b] byla zveřejněna před několika měsíci.
+    Nadšení kolem hry zaniklo, zatímco bylo mezitím vydáno několik jiných her se stejným tématem.
 
-    You missed this opportunity, don't miss the next one.
-  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: When is the sequel?
+    Propásli jste příležitost. Nepřipravte se i o tu druhou.
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: Kdy bude pokračování?
   LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
-    Mr. [b]%s[/b],
+    Zdravím, [b]%s[/b].
 
-    With my friends we love playing [b]%s[/b]!
-    We've been playing it for over [b]%s[/b] years now, and we wish you guys would make a sequel!
+    Já a mí přátelé milujeme hrát [b]%s[/b]!
+    Hráli jste [b]%s[/b] už roky, a přejeme si, aby jste vytvořili pokračování!
 
-    We absolutely love this game, and are going to play it for years to come!
-    But if you make a sequel now, we'll buy it and tell our friends about it!
+    Tu hru absolutně milujeme. Budeme ji hrát i během následujících let!
+    Pokud ale uděláte pkračování, koupíme si ho a řekneme o něm našim přátelům!
         
-    So, please, make a sequel!
-    You're so talented, we can't be disappointed!
+    Takže udělejte prosím pokračování!
+    Jste tak talentovaný, nemůžete nás zklamat!
 
-    The Cellar Player
-  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: A sequel?!
+    Hráč ze sklepa
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Pokračování?!
   LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
-    I feel disappointed, literally. All of my friends and I have played [b]%s[/b] and it's nothing like the original!
+    Cítím se zklamán. Doslova. Všichni mí přátelé a já jsme hráli [b]%s[/b] a...není to nic jako originál!
 
-    Well, we still bought it, and we still finished it, but we would have liked a better quality game
+    Sice jsme si tu hru pořád koupili a dohráli, ale hra s větší kvalitou by byla lepší.
 
-    The Cellar Player
-  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s is great!"
+    Hráš ze sklepa
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s je skvělé pokračování!"
   LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
-    Exactly what we always wanted! It's a fantastic sequel!
-    We were talking about it with my friends, and I feel like we're going to play it a lot.
+    Přesně to, co jsme chtěli! Je to fantastické pokračování!
+    Mluvil jsem o něm pořád s mými přáteli. Vypadá to, že tu hru budeme hrát hodně dlouho.
 
-    [b]%s[/b] lives up to our expectations, and frankly, thank you very much!
+    [b]%s[/b] splnilo naše očekávání! Velké díky!
 
-    The Cellar Player
-  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: INCREDIBLE!!
+    Hráč ze sklepa
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: Neuvěřitelné!!
   LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
-    [b]%s[/b] is breathtaking!
+    [b]%s[/b] mi bere dech!
 
-    Graphics, gameplay, music, everything is so perfect.
-    You have become masters in the art of making games!
+    Grafika, hratelnost, hudba...Všechno je tak perfektní.
+    Ve vytváření her se naše studio stalo mistry!
 
-    Everyone is so happy with this sequel, in fact I bought it 10 times to gift it to all my close friends and family!
+    Všichni jsou s tímto pokračováním tak nadšení! Koupil jsem ho už desetkrát, abych ho dal rodině a přátelům!
 
-    You people are the best!
-    Thank you so much!
+    Jste fakt nejlepší!
+    Strašně děkuju!
 
-    The Cellar Player
-  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s is trendy"
+    Hráč ze sklepa
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s je populární"
   LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
-    Hello [b]%s[/b],
+    Ahoj [b]%s[/b],
 
-    The release of [b]%s[/b] is a real breakthrough in the current trends.
-    They want more, more and more. They desperately want games of "[b]%s[/b]".
+    vydání [b]%s[/b] je opravdový zlom v současných trendech.
+    Fanoušci chtějí více a více a více s tématikou "[b]%s[/b]".
 
-    It's the new trend, and it wont last for long, you'd better use it to your benefit quickly.
-  LABEL_PLATFORM_NEWS: Platform news
-  LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Load due to online games
-  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Load due to the dematerialized store
+    Je to nový trend, který nebude mít ale příliš velkého trvání. Radši ho pro svůj užitek využijte rychle.
+  LABEL_PLATFORM_NEWS: Zprávy o platformách
+  LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Vytížení kvůli online hrám
+  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Vytížení kvůli distribuční platformě
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
-    Includes only the server load generated by games that are not published on the demat store.
+    Zahrnuje vytížení serverů pouze z her, které nebyly vydány na vaší distribuční platformě.
 
-    Thus, loads of online games that are published on the online store are not included here
-    but directly in the load of the dematerialized store.
-  LABEL_PAID_UPDATE_SALES: DLCs sales
-  LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Edit console's color
+    To znamená, že vytížení z her, které na vaší platformě byly zveřejněny, jsou započítávány 
+    do vytížení té platformy.
+  LABEL_PAID_UPDATE_SALES: Prodeje DLC
+  LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Upravit barvu konzole
   LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Year-end Gala
   LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
     Dear [b]%s[/b],
