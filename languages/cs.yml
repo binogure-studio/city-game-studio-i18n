@@ -282,105 +282,105 @@ en:
 
     [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
 
-    [b]Saga[/b] announced a VR helmet in the works, for use with its console system. It's currently scheduled for release in [b]spring 1993[/b]. There are far more elaborate (and costly) systems under development, involving motion sensors and gauntlets, chambers with surrounding video and multi-source sound. For the time being the gaming community may have to settle for goggles and earphones at home.
+    [b]Saga[/b] oznámila, že pracuje na VR headsetu pro svou konzoli. Jeho vydání je naplánováno na [b]jaro 1993[/b]. Je tu avšak více technologicky vyspělejších (a dražších) systémů od vývojem, včetně senzorů pohybu a rukavic s nimi vybavenými, komory s obklopujícím videem and zvuk z více zdrojů. Nicméně, zatím si bude muset herní komunita vystačit s obyčejnými brýlemi a sluchátky.
   LABEL_SAGA_RV_VANISHES: |
-    After being featured in several magazines, as well as at numerous trade shows, the headset made its final appearance in 1993. It was shown behind closed doors to a thoroughly underwhelmed audience, with one journalist writer describing the game he played as an unresponsive blur which quickly lost any and all appeal.
+    Oznámený VR headset od [b]Sagy[/b] se několikrát dříve objevil v několika magazínech a veletrzích. Naposled bylo možné o něm něco zaslechnout v roce 1993. Za zavřenými dveřmi byl ukázán neohromenému publiku, přičemž jeden novinář popsal hru, kterou hrál, jako 'nereagující a rozmazaný nepořádek, který rychle zklamal očekávání'.
 
-    The whole project never progressed beyond the prototype stage and [b]Saga[/b] officially claimed that it was halted due to users hurting themselves by moving while wearing the headset. They stated that the sense of immersion was so realistic, it could potentially cause injury to children who played it.
+    Celý projekt nikdy nedospěl k jiné než prototypové fázi a [b]Saga[/b] oficiálně oznámila jeho zrušení po tom, co se několik testerů během pohybu s headsetem zranilo. Řekli, že pocit vtažení do prostředí a realismus byly tak vysoké, že by to mohlo teoreticky způsobit dětem zranění.
 
-    However, anyone who has played their console for more than ten minutes knows that this is impossible, given the limitations of the hardware. The most likely scenario probably had to do with the unit's inability to produce a satisfactory effect. There were reports of testers getting motion sickness while playing and up to 40%% of the users during development got "cybersick." None of the four announced games were ever shown to the public and no other titles were ever announced. Unable to create the true, lifelike sense of immersion they had promised, [b]Saga[/b] wisely pulled the plug in 1994 and [b]Saga[/b] VR faded quietly into obscurity.
+    Nicméně, kdokoliv, kdo headset skutečně vyzkoušel ví, že to je vzhledem k limitacím hardwaru nemožné. Projekt byl pravděpodobně spíše zrušen kvůli tomu, že se nedařilo dosáhnout vyžadovaného efektu. Byla tu mnohá hlášení testerů, kteří dostali během hraní nemoc z pohybu. Žádná ze čtyř počátečních her nebyla oznámena veřejnosti a žádné další tituly oznámeny nebyly. Neschopná vytvořit ten realistický, pohlcující pocit, který slíbila, [b]Saga[/b] ukončila projekt v roce 1994 a její VR headset se tiše vytratil.
 
     [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
-  LABEL_MINI_GAMES_FX: Minigame visual effects
-  LABEL_RESTART_REQUIRED: Restart required
-  LABEL_DARK_MODE: Dark theme
-  LABEL_LAST_12_MONTHS: Last 12 months
-  LABEL_GOTY_PROBABILITY: Odds of winning the game of the year
-  LABEL_EVENT_STOCK_YEARLY_TITLE: Yearly payout of dividends
+  LABEL_MINI_GAMES_FX: Vizuální efekty miniher
+  LABEL_RESTART_REQUIRED: Vyžadovaný restart
+  LABEL_DARK_MODE: Temný režim
+  LABEL_LAST_12_MONTHS: Posledních 12 měsíců
+  LABEL_GOTY_PROBABILITY: Pravděpodobnost výhry ceny Hra roku
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Roční výdělek z dividend
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
-    Dear [b]%s[/b],
+    Drahý/á [b]%s[/b],
 
-    As we do every year at this time of year it is our
-    great pleasure to pay out dividends to shareholders.
+    Stejně jako každý rok v tento stejný čas je naším
+    velkým potěšením naším akcionářům vyplatit dividendy.
 
     %s
 
-    Along with the dividends come taxes,
-    $[b]%s[/b] of taxes have been deducted from your dividends,
-    so you will receive $[b]%s[/b] after taxes.
+    Spolu s dividendami ale přichází daně,
+    a tak z nich bylo strženo $[b]%s[/b].
+    Celkově tak dostanete $[b]%s[/b].
 
-    Have a nice day.
+    Hezký den.
     Binogure    
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
-    ‣ [b]%s[/b]: As a shareholder, you own [b]%s[/b] shares, which brings you $[b]%s[/b].    
+    ‣ [b]%s[/b]: Jako akcionář vlastníte [b]%s[/b] akcií, což vám vydělá $[b]%s[/b].    
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
-    [i]You hold [b]%s[/b] shares of [b]%s[/b], so you receive $[b]%s[/b],[/i]
-    [i]which represents $[b]%s[/b] per share.[/i]
-  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s wants to buy out %s!"
+    [i]S současné době vlastníte [b]%s[/b] akcií [b]%s[/b], takže dostanete $[b]%s[/b],[/i]
+    [i]což reprezentuje $[b]%s[/b] za akcii.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s chce vykoupit %s!"
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
-    Dear [b]%s[/b],
+    Dobrý den, [b]%s[/b].
 
-    We are interested in buying out [b]%s[/b]. However, you currently hold more than 50%% of the company's shares.
-    It will be impossible for us to acquire them without your prior agreement.
+    Máme zájem ve vykoupení [b]%s[/b]. Nicméně, v současné době vlastníte přes 50% akcií.
+    Bez vašeho souhlasu bude nemožné, aby akvizice proběhla.
 
-    Please know that we are offering you a generous deal.
-    Today, your shares are worth [b]%s[/b]$, and we are willing to give you [b]%s[/b]$ for the shares.
-    You would make a lot of money and all we would have to do is manage [b]%s[/b].
+    Nabízíme vám proto výhodnou nabídku.
+    V současné době mají vaše akcie celkovou hodnotu [b]%s[/b]$. My jsme za ně ochotni zaplatit [b]%s[/b]$.
+    Vydělalo by vám to mnoho peněz a starost za studio by připadla jen nám [b]%s[/b].
 
-    Looking on the bright side, it means you have one competitor less to deal with.
+    Navíc to pro vás znamená o jednoho konkurenta méně.
 
-    In the unlikely event that you are unwilling to sell, we are prepared to go to court.
+    V nepravděpodobném scénaři, že jste neochotni nám ty akcie prodat, jsme ochotni jít k soudu.
 
-    [i]This is our final offer, there is no negotiation.[/i]
-    [i]You have [b]%s[/b]$ left in the bank[/i]
-  BUTTON_ORDER_SENT: Order sent
-  LABEL_STOCK_MARKET: Stock market
-  LABEL_CONCURRENT_BUY_STOCK: Buy shares of competitors
-  LABEL_TRADING_PANEL: Trading panel
-  LABEL_STOCKS_QUANTITY_TO_BUY: Quantity of shares to buy
-  LABEL_STOCKS_QUANTITY_TO_SELL: Quantity of shares to sell
-  LABEL_STOCKS_COSTS: Cost of a share
-  LABEL_STOCKS_OWNED: Number of shares owned
-  LABEL_STOCKS_VALUE: Value of shares
-  LABEL_STOCKS_QUANTITY: Quantity of shares
-  LABEL_STOCKS_BUY_PRICE: Cost of a share to buy
-  LABEL_STOCKS_SELL_PRICE: Cost of a share to sell
-  LABEL_TRADE_HELP: Help
-  LABEL_DEVKITS: Dev kits
-  LABEL_NO_CONCURRENT_REMAINING: No remaining competitor
-  LABEL_END_OF_EXCLUSIVITY: Term of exclusivity
-  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Estimated number of games
-  LABEL_NUMBER_OF_DEVKITS: Number of Dev Kits
-  LABEL_NUMBER_OF_DEVKITS_REMAINING: Number of remaining dev kits
-  LABEL_EXCLUSIVITY_DURATION: Exclusive duration
-  LABEL_FILTER_NONE: None
-  LABEL_FILTER_ONLY_NO_CONTRACTS: Without contract
-  LABEL_FILTER_ONLY_CONTRACTS: Contracted
+    [i]Tohle je naše finální nabídka; žádné vyjednávání nebude.[/i]
+    [i]V bance vám zbývá [b]%s[/b]$.[/i]
+  BUTTON_ORDER_SENT: Nabídka poslána
+  LABEL_STOCK_MARKET: Akciový trh
+  LABEL_CONCURRENT_BUY_STOCK: Koupit akcie konkurence
+  LABEL_TRADING_PANEL: Obchodní panel
+  LABEL_STOCKS_QUANTITY_TO_BUY: Množství akcií k odkoupení
+  LABEL_STOCKS_QUANTITY_TO_SELL: Množství akcií k prodání
+  LABEL_STOCKS_COSTS: Cena za akcii
+  LABEL_STOCKS_OWNED: Počet vlastněných akcií
+  LABEL_STOCKS_VALUE: Hodnota akcií
+  LABEL_STOCKS_QUANTITY: Množstí akcií
+  LABEL_STOCKS_BUY_PRICE: Cena akcií k odkoupení
+  LABEL_STOCKS_SELL_PRICE: Cena akcií v prodání
+  LABEL_TRADE_HELP: Nápověda
+  LABEL_DEVKITS: Devkity
+  LABEL_NO_CONCURRENT_REMAINING: Žádná zbývající konkurence
+  LABEL_END_OF_EXCLUSIVITY: Podmínky exkluzivity
+  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Odhadované množství her
+  LABEL_NUMBER_OF_DEVKITS: Množství devkitů
+  LABEL_NUMBER_OF_DEVKITS_REMAINING: Množství zbývajících devkitů
+  LABEL_EXCLUSIVITY_DURATION: Trvání exkluzivity
+  LABEL_FILTER_NONE: Žádný
+  LABEL_FILTER_ONLY_NO_CONTRACTS: Bez smlouvy
+  LABEL_FILTER_ONLY_CONTRACTS: Se smlouvou
   TOOLTIP_SELECT_DIFFICULTY: |
-    Please select a difficulty level
-  LABEL_EASY: Easy
-  LABEL_HARD: Challenging
+    Prosím vyberte obtížnost
+  LABEL_EASY: Snadná
+  LABEL_HARD: Obtížná
   LABEL_REMAKE_ENGINE_BAD: >
-    There is nothing new in this remake. It feels like the same game.
+    V tomto remaku není nic nového. Je to jako úplně stejná hra.
   LABEL_REMAKE_ENGINE_OK: >
-    They know how to exploit the latest technologies, and it looks good.
+    Vývojáři věděli, jak využít nejnovější technologie. Jde o celkem solidní remake.
   LABEL_REMAKE_ENGINE_GOOD: >
-    They perfectly exploited the latest technologies, and it looks fantastic.
-  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Exploitation of the console's capabilities by the original game."
-  LABEL_REMAKE_CPU_USAGE: CPU usage of the original game
-  LABEL_REMAKE_GPU_USAGE: GPU usage of the original game
+    Perfektně využili sounejnovější technologie a výsledek vypadá faktasticky.
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Využití schopností konzole minulou hrou."
+  LABEL_REMAKE_CPU_USAGE: Využití CPU originální hrou
+  LABEL_REMAKE_GPU_USAGE: Využití GPU originální hrou
   LABEL_REMAKE_TOOLTIP: |
-    Choose which features of the game engine you want to add to the remake.
-    For a great remake, use features that are newer than the original game.
-  LABEL_REMAKE_REVIEW: Overall Reviews
-  LABEL_DEVELOPPER_NAME: Developer
-  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Overwhelmingly positive
-  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Very positive
-  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Mostly positive
-  LABEL_REMAKE_REVIEW_MIXED: Mixed
-  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Mostly negative
-  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Very negative
-  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Overwhelmingly negative
+    Vyberte, jaké funkce z herního enginu chcete do remaku přidat.
+    Pro skvělý remake budete muset použít funkce, které jsou novější než originální hra.
+  LABEL_REMAKE_REVIEW: Celkové hodnocení
+  LABEL_DEVELOPPER_NAME: Vývojář
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Většinou kladné
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Velmi kladné
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Spíše kladné
+  LABEL_REMAKE_REVIEW_MIXED: Smíšené
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Spíše záporné
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Velmi záporné
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Většinou záporné
   LABEL_REMAKE: Remake
   LABEL_REMAKE_DESCRIPTION_0: |
     While looking at your first games, you decide that something should be done.
