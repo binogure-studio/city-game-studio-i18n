@@ -383,172 +383,172 @@ en:
   LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Většinou záporné
   LABEL_REMAKE: Remake
   LABEL_REMAKE_DESCRIPTION_0: |
-    While looking at your first games, you decide that something should be done.
-    How about remaking them?
+    Zatímco jste se dívali na své první hry, řekli jste si, že by se s nimi mělo něco udělat.
+    Co třeba vytváření remaků?
   LABEL_REMAKE_DESCRIPTION_1: |
-    You can remake your old titles now.
-    To make a remake successful you have to use the latest features of your game engine.
+    Odteď můžete vytvářet remaky svých starých her.
+    Aby byl remake úspěšný, budete muset v enginech používat nejnovější funkce.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
-    Training staff requires a university.
+    Školení zaměstnanců vyžaduje univerzitu.
 
-    There is no university available, you need to build one.
+    Žádná ale není dostupná - budete ji muset vybudovat.
   LABEL_TRAINING_REQUIRE_EMPLOYEE: |
-    At least one employee must be selected.
+    Musí být vybrán alespoň jeden zaměstnanec.
   LABEL_TRAINING_REQUIRE_CAPACITIES: |
-    At least one capability must be selected.
+    Musí být vybrána alespoň jedna oblast školení.
 
-    (Design/Development or Polishing)
-  LABEL_NEW_COMPETITOR_TITLE: A new competitor arrives
+    (Design, Vývoj, nebo Ladění)
+  LABEL_NEW_COMPETITOR_TITLE: Příchod nového konkurenta
   LABEL_NEW_COMPETITOR_DESCRIPTION: |
     [center][img]%s[/img][/center]
 
-    It was announced this morning that the founder of [b]%s[/b], now worth millions, has decided to move to the great city of City Game Studio.
-    The mayor of City Game Studio is delighted:
-    [code]A new investor here at home! It proves that we are doing our job well. Attracting large companies is not easy...[/code]
+    Dnes ráno bylo oznámeno, že společnost [b]%s[/b], nyní cenná miliony, se rozhodla přesunou do skvělého města City Game Studia.
+    Starosta města je potěšen:
+    [code]Nový investor, a to ten, který se k nám rovnou stěhuje! Dokazuje to, že děláme svou práce dobře. Přilákat velké společnosti není snadné...[/code]
 
-    How this will impact the video game companies already present in City Game Studio remains to be seen.
+    Budeme si muset ještě počkat, jaký dopad to bude mít na již existující videoherní průmysl v oblast.
   LABEL_MINIGAME_DEFEND_ANNOUNCE: |
-    Boss, [b]%s[/b] is being hacked.
-    We must do something to stop it before it's too late!
-    You only have to say one word!
+    Šéfe, někdo se pokouší cracknout [b]%s[/b]!
+    Musíme to nějak zastavit, než bude pozdě!
+    Stačí od vás jen jedno slovo!
   LABEL_MINIGAME_DEFEND_START: |
-    Let's go!
+    Pojďme!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
-    Let it happen!
+    Klidně ať se to stane...
   LABEL_MINIGAME_LOSE: |
-    Your game is available for free on the market.
-    Sales will be hit.
+    Vaše hra je dostupná na trhu zadarmo.
+    Prodeje budou značně zasaženy.
   LABEL_MINIGAME_DEFEND_WIN: |
-    Congratulations, you've done well!
-  BUTTON_CLICK_ME: Press me
-  LABEL_FIREWALL_SIMULATOR_TITLE: Counter-hacking simulator
+    Gratuluji, skvělá práce!
+  BUTTON_CLICK_ME: Stiskni mě
+  LABEL_FIREWALL_SIMULATOR_TITLE: Proticrackovací simulátor
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
-    Your objective, protect your game, otherwise it will be hacked.
-    To achieve that objective, press the blue buttons until they reach 0 to protect the network.
+    Vaším cílem bude ochránit vaši hru před cracknutím.
+    K dosáhnutí toho cíle stačí co nejrychleji mačkat modrá tlačítka do té doby, než čísla na nich dosáhnou nuly.
 
-    It is simple, but you gotta go fast!
-  LABEL_GAME_UPDATE_NB: Number of updates
-  LABEL_GAME_UPDATE_LAST: Last time the game was updated
-  LABEL_SELLING_PRICE: Selling price
-  LABEL_EMPLOYEE: Employee
-  LABEL_MARKET_RESEARCH_NEW: New market research
+    Je to jednoduché, ale musíte být rychlí!
+  LABEL_GAME_UPDATE_NB: Počet aktualizací
+  LABEL_GAME_UPDATE_LAST: Datum poslední aktualizace
+  LABEL_SELLING_PRICE: Prodejná cena
+  LABEL_EMPLOYEE: Zaměstnanec
+  LABEL_MARKET_RESEARCH_NEW: Nový průzkum trhu
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
-    A marketing manager is required.
-    The better the marketing manager the faster the market research.
-  LABEL_MARKET_RESEARCH: Market research
-  LABEL_MARKET_RESEARCH_TYPE: Market research type
-  LABEL_GAME_TYPE_LIST: Game genre list
-  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analyze target audience
-  LABEL_MARKET_RESEARCH_NONE: No active market research
-  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: A classroom becomes available.
+    Je potřeba marketingový manažer.
+    Čím lepší marketingový manažer je, tím rychlejší je průzkum trhu.
+  LABEL_MARKET_RESEARCH: Průzkum trhu
+  LABEL_MARKET_RESEARCH_TYPE: Typ průzkumu trhu
+  LABEL_GAME_TYPE_LIST: Seznam herních žánrů
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analyzovat cílové publikum
+  LABEL_MARKET_RESEARCH_NONE: Žádný aktivní průzkum trhu
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Třída je už volná.
   LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
-    Congratulations, a training session has just ended.
-    You have at least one free classroom if you want to organize a new training session.
-  LABEL_UNIVERSITY_TRAINING: Training
-  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Lecture Hall
-  LABEL_UNIVERSITY_SIT: Number of seats
-  LABEL_UNIVERSITY: University
-  LABEL_UNIVERSITY_MANAGE_TRAINING: Manage trainings
-  LABEL_UNIVERSITY_TRAINING_TYPE: Training type
-  LABEL_UNIVERSITY_LECTURE_HALL: Number of lecture hall
-  LABEL_UNIVERSITY_AUTOTRAINING: Auto-training
-  LABEL_UNIVERSITY_ABANDON: Abandon the building
-  LABEL_UNIVERSITY_DESTROY: Destroy the building
-  LABEL_UNIVERSITY_GLOBAL_TRAINING: General training
-  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specific training
-  LABEL_UNIVERSITY_TRAINING_LIST: List of trainings
-  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: No training
-  LABEL_SOFA: Sofa
-  LABEL_MISC: Miscellaneous
-  LABEL_MINUTES: minutes
-  LABEL_VIEW_MORE: View more...
-  LABEL_GAME_INDUSTRY_NEWS: Games industry news
-  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s to acquire %s for %s"
+    Gratuluji, právě skončilo školení vašich zaměstnanců.
+    Pokud chcete podniknout další kolo, máte už volnou jednu či více tříd.
+  LABEL_UNIVERSITY_TRAINING: Školení
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Přednáškový sál
+  LABEL_UNIVERSITY_SIT: Počet židlí
+  LABEL_UNIVERSITY: Univerzita
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Spravovat školení
+  LABEL_UNIVERSITY_TRAINING_TYPE: Typ školení
+  LABEL_UNIVERSITY_LECTURE_HALL: Počet přednáškových sálů
+  LABEL_UNIVERSITY_AUTOTRAINING: Automatické školení
+  LABEL_UNIVERSITY_ABANDON: Opustit budovu
+  LABEL_UNIVERSITY_DESTROY: Zbourat budovu
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Obecné školení
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specifické školení
+  LABEL_UNIVERSITY_TRAINING_LIST: Sezname školení
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Žádná školení
+  LABEL_SOFA: Gauč
+  LABEL_MISC: Různé
+  LABEL_MINUTES: minut
+  LABEL_VIEW_MORE: Zobrazit více...
+  LABEL_GAME_INDUSTRY_NEWS: Zprávy z herního průmyslu
+  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s odkupuje %s za %s"
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
-    The video game developer and publisher behind [b]%s[/b] has been acquired by [b]%s[/b] for an offer valued at [b]%s[/b].
+    Herní vývojář a vydavatel, známý jako tvůrce například [b]%s[/b], byl odkoupen společností [b]%s[/b] nabídkou v hodnotě až [b]%s[/b].
 
-    [b]%s[/b] published a statement saying that it will pay [b]%s[/b] per share for the company and that the deal is expected to close in the first quarter of the year.
-    The buyout will increase the catalog of games under the [b]%s[/b] banner.
-    CEO of [b]%s[/b], commented on the acquisition, saying:
-    [indent]Our industry is growing, and together we will be positioned to lead in a new era of entertainment.[/indent]
+    [b]%s[/b] zveřejnila prohlášení, že zaplatí [b]%s[/b] za akcii společnosti. Očekává se, že obchod se uzavře v první čtvrtině roku.
+    Tato akvizice navýší počet titulů pod značkou [b]%s[/b].
+    CEO [b]%s[/b] akvizici okomentoval:
+    [indent]Náš průmysl neustále roste, a spolu budeme v pozici, ze které ho v této nové éře zábavního průmyslu budeme vést.[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
-    This game has not taken full advantage of the console's capabilities.
+    Tati hra nevyužila schopností konzole naplno.
   LABEL_MARKETSHARE_KRASHING: >
-    This console suffers from a terrible reputation which leads to low sales. It is recommended to stay away from it from now on.
+    Tato konzole trpí z příšerné reputace, což omezuje prodeje. Je doporučeno od ní už zůstat dál.
   LABEL_LOSING_MONEY_DESCRIPTION: |
-    Here are your financial results. It shows all your operating expenses and revenues.
+    Zde jsou vaše finanční výsledky. Ukazují vaše výdělky a ztráty.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    Rental costs are a significant expense. You could buy the buildings or rent smaller ones and close those that cost you the most.
+    Ceny pronájmů jsou významnou ztrátou. Mohli byste buď budovy kupovat, nebo pronajímat menší a zavřít ty, které vás stojí nejvíce.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    Payroll is a major expense. You should consider laying off staff.
+    Výplaty jsou velkou ztrátou. Zkuste zvážit propouštění některých zaměstnanců.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    You have a lot of coffee machines/vending machines, and this is a strain on your budget
+    Vlastníte mnoho automatů, což je zátěž pro rozpočet
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    Servers are expensive. If you have unused servers, you should sell them.
+    Servery jsou velmi drahé. Pokud máte nějaké nepoužité, měly by se prodat.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
-    You spend a lot on marketing campaigns. Maybe you should stop some marketing campaigns or conventions.
+    Utrácíte mnoho na marketingu. Možná zvažte zastavení některých kampaní a účast na výstavách.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
-    It seems that your mortgages are expensive. If you can, pay them off with a larger, long-term mortgage.
+    Zdá se, že vaše půjčky jsou velmi drahé. Pokud je to možné, splaťte je s dražší, ale delší půjčkou.
   LABEL_LOSING_MONEY_HARD: >
-    You spend more than you earn. If you want to figure out which costs you the most, consult your financial details.
-  LABEL_SUBSCRIPTION: Subscription
+    Utrácíte více, než vyděláváte. Pokud chcete zjistit, co stojí nejvíce, podívejte se na své finanční detaily.
+  LABEL_SUBSCRIPTION: Předplatné
   LABEL_PLATFORM_NOT_POWERFULL: >
-    This platform is not powerful enough
-  BUTTON_RELEASE_ALL: Release everything
+    Tato platforma není dostatečně výkonná
+  BUTTON_RELEASE_ALL: Vydat vše
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    Releases all games, contracts and consoles
-    that are ready to be published.
-  LABEL_PLATFORM_LIST_GAME: List video games
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: A new component is available
+    Vydá všechny hry, konzole a kontrakty,
+    které jsou připraveny.
+  LABEL_PLATFORM_LIST_GAME: Seznam videoher
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Je dostupná nová komponenta
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
-    Hello %s,
+    Zdravím %s,
 
-    I am very pleased to announce the release of a brand new component.
-    It is the brand new [b]%s[/b]. The engineers who designed it are proud to present it here.
+    jsem potěšen, že mohu oznámit vydání naprosto nové komponenty.
+    Je to kompletně nový [b]%s[/b]. Inženýři, kteří ho navrhovali, jsou pyšní, že ho mohou představit.
     [center][img]%s[/img][/center]
-    Wishing you a pleasant day,
+    Přeji vám hezký den,
 
-    Sincerely
+    S pozdravem
     Binogure
-  LABEL_PLATFORM_COST_REDUCTION_TITLE: Console sales report
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Zpráva o prodeji konzole
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
-    Hello %s,
+    Zdravím %s,
 
-    Another email to fill your mailbox. But it's for a good cause.
-    I'm here to tell you about a reduction in manufacturing costs.
+    další email k zaplnění vaší schránky. Tento ale obsahuje dobrou zprávu.
+    Jsem tu, abych vám řekl o redukci výrobních cen ohledně konzolí.
 
     %s
 
-    That will be all,
-    Have a nice day.
+    To bude vše.
+    Hezký den.
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
-    [b]%s[/b]'s manufacturing costs reduced by [b]%s%%[/b].
+    Výrobní ceny [b]%s[/b] zmenšeny o [b]%s%%[/b].
   LABEL_PLATFORM_NOT_RELEASED: |
-    %s is not yet available
+    Platforma %s není zatím dostupná
   LABEL_PLATFORM_NO_COMPONENT: |
-    No selected components
-  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Manufacturing costs reduction
-  LABEL_FILTER_PLATFORM_RELEASED: Released platforms
-  LABEL_FILTER_PLATFORM_DISCONTINUED: Stopped Platforms
+    Žádné vybrané komponenty
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Redukce ve výrobních cenách
+  LABEL_FILTER_PLATFORM_RELEASED: Vydané platformy
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Stažené platformy
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
-    Adjusts console quality.
+    Upraví kvalitu konzole.
     
-    A poorly manufactured console is expected to fail more often.
-    Customers who purchased a faulty console are always entitled to a refund.
-  LABEL_PLATFORM_DISCONTINUE: Halt production
-  LABEL_PLATFORM_CHANGE_PRICE: Modify the price
-  LABEL_PLATFORM_UNIT_RETURNED: Units returned 
-  LABEL_PLATFORM_COST_RATIO: Costs' ratio
-  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
-  LABEL_PLATFORM_COMPONENT_CPU: Processor
+    Od konzole s nízkou kvalitou se očekává, že bude mnohem častěji selhávat.
+    Zákazníci, kteří si koupili vadnou konzoli, mají vždy nárok na vrácení peněz.
+  LABEL_PLATFORM_DISCONTINUE: Zrušit produkci
+  LABEL_PLATFORM_CHANGE_PRICE: Upravit cenu
+  LABEL_PLATFORM_UNIT_RETURNED: Vráceno kusů 
+  LABEL_PLATFORM_COST_RATIO: Poměr ceny
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Ovladač
+  LABEL_PLATFORM_COMPONENT_CPU: Procesor
   LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartridge
-  LABEL_PLATFORM_COMPONENT_MEMORY: Memory
-  LABEL_PLATFORM_COMPONENT_GPU: Graphic card
-  LABEL_PLATFORM_COMPONENT_SCREEN: Screen
-  LABEL_PLATFORM_COMPONENT_BOX: Console case
-  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Hard drive
-  LABEL_PLATFORM_MAKING_COSTS: Manufacturing costs
+  LABEL_PLATFORM_COMPONENT_MEMORY: Paměť
+  LABEL_PLATFORM_COMPONENT_GPU: Grafická karta
+  LABEL_PLATFORM_COMPONENT_SCREEN: Obrazovka
+  LABEL_PLATFORM_COMPONENT_BOX: Provedení konzole
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Pevný disk
+  LABEL_PLATFORM_MAKING_COSTS: Výrobní ceny
   LABEL_PLATFORM_UNLOCK_COSTS: Unlocking costs
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Development costs
   LABEL_PLATFORM_QUALITY: Quality
