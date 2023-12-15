@@ -458,7 +458,7 @@ en:
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specifické školení
   LABEL_UNIVERSITY_TRAINING_LIST: Sezname školení
   LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Žádná školení
-  LABEL_SOFA: Gauč
+  LABEL_SOFA: Pohovka
   LABEL_MISC: Různé
   LABEL_MINUTES: minut
   LABEL_VIEW_MORE: Zobrazit více...
@@ -1121,167 +1121,167 @@ en:
   LABEL_SPEED_SLOW: Pomalá
   LABEL_SPEED_SLOWEST: Nejpomalejší
   LABEL_FIRE_UNASSIGNED_EMPLOYEE: Vyhodit nepřiřazené zaměstnance
-  LABEL_FURNISH_MOD: Auto-furnish mode
-  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Only empty studios can be automatically furnished
-  LABEL_HAPPINESS: Happiness
-  LABEL_FILTER_BY: Filter by
-  LABEL_DOOR: Door
-  LABEL_COGS: Cost of Goods Sold
-  LABEL_TAXES: Taxes
-  LABEL_FIXED_COSTS: Fixed costs
-  LABEL_OVERVIEW: Overview
-  LABEL_LOW_CONFIGURATION: Low settings
+  LABEL_FURNISH_MOD: Režim automatického pokládání nábytku
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Nábytek může být automaticky položen jen v prázdných studiích
+  LABEL_HAPPINESS: Spokojenost
+  LABEL_FILTER_BY: Filtry
+  LABEL_DOOR: Dveře
+  LABEL_COGS: Ceny prodaných produktů
+  LABEL_TAXES: Daně
+  LABEL_FIXED_COSTS: Zafixované ceny
+  LABEL_OVERVIEW: Přehled
+  LABEL_LOW_CONFIGURATION: Nízká nastavení
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
-    Use the mouse to move the screen
-  LABEL_WEEK: weeks
-  LABEL_TOOLS: Made with
-  LABEL_SANDBOX: Mode sandbox
-  LABEL_SAVING: Saving game in progress
-  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Compensation payments
+    Použijte myš k přesouvány obrazovky
+  LABEL_WEEK: týdnů
+  LABEL_TOOLS: Vytvořeno s
+  LABEL_SANDBOX: Sandbox režim
+  LABEL_SAVING: Ukládání hry...
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Kompenzace
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
-    Dear [b]%s[/b],
+    Dobrý den, [b]%s[/b].
 
-    Since [b]%s[/b] has not met with the expected success, we are committed to paying the [b]%s$[/b] penalty as soon as possible.
-    We hope this snag won't harm future cooperation.
+    Protože [b]%s[/b] nemělo očekávaný úspěch, jsme zavázani co nejdříve zaplatit kompenzaci ve výši [b]%s$[/b].
+    Snad to nenaruší potenciální spolupráci do budoucna.
 
-    Respectfully,
+    S pozdravem,
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
-    Cannot publish a new game yet
-  LABEL_EDIT_GAME: Publish game offer
+    Nelze zatím ještě vydat novou hru
+  LABEL_EDIT_GAME: Zveřejnit vydavatelskou nabídku
   LABEL_EDIT_GAME_ANNOUNCE: |
-    [b]%s[/b] has started working on [b]%s[/b].
+    [b]%s[/b] začalo pracovat na [b]%s[/b].
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
-    It is rumoured that [b]%s[/b] is not satisfied with the deal they made with [b]%s[/b].
+    Proslýchá se, že [b]%s[/b] není spokojeno se smlouvou, kterou uzavřelo s [b]%s[/b].
   LABEL_REQUIRE_EMPLOYEE: |
-    Requires %d employees.
-    Requires %d producer.
+    Potřeba zaměstnanců: %d.
+    Potřeba producentů: %d .
   LABEL_STUDIO_NOT_BALANCED: >
-    Check your studio's team. It does not produce the same amount of Design/Development or Polish.
-    It will impact the games you will create.
-  LABEL_LAST_COMBO: "Last time you've made the same combo theme/genre."
+    Zkontrolujte tým vašeho studia. Nevytváří stejné množství bodů designu/vývoje nebo dokončení.
+    Naruší to kvalitu her, které vytváříte.
+  LABEL_LAST_COMBO: "Naposled, kdy jste vytvořili hru se stejnou kombinací téma/žánr."
   LABEL_POINTRATIO_NOT_ENOUGH: |
-    [b]%s[/b] lacks [b]%s[/b].
+    [b]%s[/b] schází [b]%s[/b].
   LABEL_POINTRATIO_TOO_MUCH: |
-    [b]%s[/b] has too much [b]%s[/b].
+    [b]%s[/b] má příliš mnoho [b]%s[/b].
   LABEL_PLATFORM_NOT_EXPLOITED: |
-    They should have made greater use of the platform's capabilities.
-  LABEL_MARKETING_CAMPAIGN: Marketing campaign
-  LABEL_CAMPAIGN_TYPE: Campaign type
-  LABEL_WORKLOAD: Workload
-  LABEL_WORKLOAD_DISTRIBUTION: Workload distribution
-  LABEL_RELEASE_DATE: Release date
-  LABEL_MANUFACTURER: Manufacturer
-  LABEL_EXPIRED: Expired
+    Měli lépe využít schopnosti platformy.
+  LABEL_MARKETING_CAMPAIGN: Marketingová kapmaň
+  LABEL_CAMPAIGN_TYPE: Typ kampaně
+  LABEL_WORKLOAD: Pracovní vytížení
+  LABEL_WORKLOAD_DISTRIBUTION: Distribuce pracovního vytížení
+  LABEL_RELEASE_DATE: Datum vydání
+  LABEL_MANUFACTURER: Výrobce
+  LABEL_EXPIRED: Vypršelo
   LABEL_POINTRATIO_GOOD: |
-    At [b]%s[/b] they know how to manage the [b]%s[/b].
+    V [b]%s[/b] ví, jak se správně postarat o [b]%s[/b].
   LABEL_POINTRATIO_BAD: |
-    [b]%s[/b] is their weakness. Their staff is not sufficiently balanced.
+    [b]%s[/b] je jejich slabostí. Jejich zaměstnanci nejsou dostatečně vybalancovaní.
   LABEL_REVIEW_PLATFORM_GOOD: |
-    [b]%s[/b] has a great team, they shine on all sides.
+    [b]%s[/b] má skvělý tým, který září na všech stranách.
   LABEL_REVIEW_PLATFORM_BAD: |
-    [b]%s[/b] cannot publish great [b]%s[/b] games on [b]%s[/b] due to lack of manpower.
+    [b]%s[/b] nemůže vydávat skvělé hry ([b]%s[/b]) na [b]%s[/b] kvůli nedostatku zaměstnanců.
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b] is not up to their reputation. We expected more from them, especially after [b]%s[/b].
+    [b]%s[/b] nemůže dostát své reputaci. Očekávali jsme od nich více, obzvláště po [b]%s[/b].
   LABEL_REVIEW_COMBO_GOOD: |
-    [b]%s[/b] tries new combos, and it works for them. It's an excellent [b]%s[/b] game.
+    [b]%s[/b] zkouší nové kombinace a zdá se, že jim to vychází. Je to excelentní [b]%s[/b].
   LABEL_REVIEW_COMBO_BAD: |
-    Yet another [b]%s[/b] game. They must learn to renew themselves at [b]%s[/b].
-  LABEL_CRACKED: Cracked
-  LABEL_SELECT_COMPANY_SPECIALIZATION: Game genre specialization
-  LABEL_DISCORD_COMMUNITY: Discord community
-  LABEL_LAST_MONTH: Will last for %s months.
-  LABEL_SUCCESS_RATE: Success probability
-  LABEL_RISKS: Risks involved
-  LABEL_SALES_HITS_TITLE: Sales report
+    Zase další [b]%s[/b]. Musí se v [b]%s[/b] naučit, jak dostat nějaké nové nápady.
+  LABEL_CRACKED: Cracknuto
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Specializace herního žánru
+  LABEL_DISCORD_COMMUNITY: Discord komunita
+  LABEL_LAST_MONTH: Bude trvat %s měsíců.
+  LABEL_SUCCESS_RATE: Pravděpodobnost úspěchu
+  LABEL_RISKS: Možná rizika
+  LABEL_SALES_HITS_TITLE: Zpráva o prodejích
   LABEL_SALES_HITS_DESCRIPTION: |
-    Hello %s,
+    Zdravím %s,
 
-    I know how much you love my emails.
-    So here we are, since we can see good sales, I did some calculations and today we are going to talk about sales of %s.
+    Vím, jak moc máte rádi mé emaily.
+    A tak jsme tady. Protože vidím dobré prodeje, udělal jsem pár výpočtů a dnes budeme mluvit o prodejích of %s.
 
     %s
 
-    Sincerely,
+    Hezký den.
     Binogure
   LABEL_SALES_HITS_0: >
-    [b]%s[/b] sales are doing well, this should bring a [b]%d%%[/b] bonus.
+    Prodeje [b]%s[/b] jsou decentní, měly by dostat bonus [b]%d%%[/b].
   LABEL_SALES_HITS_1: >
-    [b]%s[/b] is not too bad this month, according to my estimates sales will get a [b]%d%%[/b] bonus.
+    Prodeje [b]%s[/b] nejsou tento měsíc špatné, podle mých odhadů dostanou bonus [b]%d%%[/b].
   LABEL_SALES_HITS_2: >
-    All right, let's talk about [b]%s[/b]. Sales are excellent, and I think we can expect a [b]%d%%[/b] bonus.
+    Tak si jdeme promluvit o [b]%s[/b]... Prodeje jsou excelentní, a myslím, že bychom mohli dostat [b]%d%%[/b] bonus.
   LABEL_SALES_HITS_3: >
-    With [b]%s[/b] we will be able to think big, sales should get a [b]%d%%[/b] bonus.
+    S [b]%s[/b] budeme schopni přemýšlet o expanzi. Prodeje by měly dostat bonus [b]%d%%[/b].
   LABEL_SALES_HITS_4: >
-    Today is a great day, [b]%s[/b] should see a [b]%d%%[/b] bonus.
+    Dnes je skvělý den, [b]%s[/b] by mělo vidět bonus [b]%d%%[/b].
   LABEL_SALES_HITS_5: >
-    It is to be expected that [b]%s[/b] will get a [b]%d%%[/b] bonus.
+    Je očekáváno, že prodeje [b]%s[/b] dostanou bonus [b]%d%%[/b].
   LABEL_SALES_HITS_6: >
-    Congratulations with the sales of [b]%s[/b], we should reach a [b]%d%%[/b] bonus.
+    Gratuluji k prodejům [b]%s[/b], měly by dostat bonus [b]%d%%[/b].
   LABEL_CONVENTION_INCOMING: |
-    Dear %s,
+    Zdravím %s,
 
-    We are pleased to announce [b]%s[/b] scheduled for [b]%s[/b].
+    Jsme potěšení, že můžeme oznámit [b]%s[/b], který bude [b]%s[/b].
 
-    The convention will last 3 days, and we are waiting for [b]%s[/b] visitors.
-    You can already rent a stand to show your best games.
+    Výstava bude trvat 3 dny a očekáváme [b]%s[/b] návštěvníků.
+    Už si můžete k propagaci svých nejlepších her pronajmout prostory.
 
-    Please note spaces are limited.
+    Mějte na paměti, že prostor je omezen.
 
-    Sincerely,
-    The organizers of %s
-  LABEL_REDCOUCH: Red sofa
-  LABEL_DARKCOUCH: Dark sofa
-  LABEL_WHITECOUCH: White sofa
-  LABEL_REDARMCHAIR: Red armchair
-  LABEL_DARKARMCHAIR: Dark armchair
-  LABEL_WHITEARMCHAIR: White armchair
-  LABEL_WHAT_WERE_YOU_DOING: What were you doing when you encountered the bug?
-  LABEL_VERSION: "Version: %s"
-  LABEL_NO_MESSAGE: No message
-  LABEL_INBOX: Inbox
+    Hezký den.
+    organizátoři %s
+  LABEL_REDCOUCH: Červená pohovka
+  LABEL_DARKCOUCH: Tmavá pohovka
+  LABEL_WHITECOUCH: Bílá pohovka
+  LABEL_REDARMCHAIR: Červené křeslo
+  LABEL_DARKARMCHAIR: Tmavé křeslo
+  LABEL_WHITEARMCHAIR: Bílé křeslo
+  LABEL_WHAT_WERE_YOU_DOING: Co jste dělali, když jste narazili na tento bug?
+  LABEL_VERSION: "Verze: %s"
+  LABEL_NO_MESSAGE: Žádné zprávy
+  LABEL_INBOX: Doručená pošta
   LABEL_SPAM: Spam
-  LABEL_TRASH: Trash
+  LABEL_TRASH: Koš
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
-    [b]Unlock new game genres[/b].
+    [b]Odemčení nového žánru[/b].
 
-    To unlock a new genre, [b]press its icon[/b].
-    If you have enough points, then the game genre is going to be unlocked.
+    K odemčení nového žánru [b]stiskněte jeho ikonu[/b].
+    Pokud máte dostatek bodů, ten žánr bude odemčen.
 
-    [b]Number of genre points[/b] is located in the [b]upper right corner[/b] of the screen.
+    [b]Počet žánrových bodů[/b] se nachází v [b]horním pravém rohu[/b] obrazovky.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINTS: Genre points
-  LABEL_SKILL_POINT: "%s genre points"
-  LABEL_UNLOCKED: "Unlocked"
-  LABEL_COST: Cost %s points
-  LABEL_FANBASE_TRENDS: Fan base trends
-  LABEL_YEAR: Years
-  LABEL_GAMEOVER_CONFIRM: Bankruptcy
+  LABEL_SKILL_POINTS: Žánrové body
+  LABEL_SKILL_POINT: "%s žánrových bodů"
+  LABEL_UNLOCKED: "Odemčeno"
+  LABEL_COST: Stojí %s bodů
+  LABEL_FANBASE_TRENDS: Trend fanouškovské základny
+  LABEL_YEAR: Let
+  LABEL_GAMEOVER_CONFIRM: Bankrot
   LABEL_GAMEOVER_DESCRIPTION: >
-    Bankruptcy will end the game.
-    Are you sure you want to declare bankruptcy?
-  LABEL_EXPENSES: Expenses
-  LABEL_RENT: Rent
-  LABEL_MARKETING: Marketing fees
-  LABEL_FINANCIAL_RESULT: Financial result
-  LABEL_PROPERTY_VALUE: Properties value
-  LABEL_FURNITURE_VALUE: Furnitures value
-  LABEL_CATALOG_VALUE: Game catalog value
-  LABEL_TOTAL_VALUE: Total value
-  LABEL_MORTGAGES: Mortgages
-  LABEL_MORTGAGE: Mortgage
-  LABEL_DURATION: Duration
-  LABEL_INTEREST: Interest rate
-  LABEL_MONTHLY: Monthly payment
-  LABEL_AUTO_ASSIGN_STAFF: Auto-assign employees
-  LABEL_UPGRADE_COMPUTER: Auto-upgrade computers
-  LABEL_UPGRADE_SERVER: Auto-upgrade servers
-  LABEL_COMPANY_WIDE: Company wide
-  LABEL_STUDIO_WIDE: This studio
+    Bankrot ukončí hru.
+    Jste si jisti, že ho chcete vyhlásit?
+  LABEL_EXPENSES: Výdaje
+  LABEL_RENT: Nájem
+  LABEL_MARKETING: Marketingové poplatky
+  LABEL_FINANCIAL_RESULT: Finanční výsledky
+  LABEL_PROPERTY_VALUE: Hodnota nemovitostí
+  LABEL_FURNITURE_VALUE: Hodnota nábytku
+  LABEL_CATALOG_VALUE: Hodnota herního katalogu
+  LABEL_TOTAL_VALUE: Celková hodnota
+  LABEL_MORTGAGES: Půjčky
+  LABEL_MORTGAGE: Půjčka
+  LABEL_DURATION: Trvání
+  LABEL_INTEREST: Úrok
+  LABEL_MONTHLY: Měsíční splátky
+  LABEL_AUTO_ASSIGN_STAFF: Automaticky přiřadit zaměstnance
+  LABEL_UPGRADE_COMPUTER: Automaticky vylepšit počítače
+  LABEL_UPGRADE_SERVER: Automaticky vylepšit servery
+  LABEL_COMPANY_WIDE: V celé slopečnosti
+  LABEL_STUDIO_WIDE: V tomto studiu
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     You must have at least 5 employees to deal with a publisher.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s cancelled"
