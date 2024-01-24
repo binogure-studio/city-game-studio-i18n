@@ -953,7 +953,7 @@ en:
   LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: Cloudové žebříčky
   LABEL_BUSY: Zaneprázdněn
   LABEL_AVAILABLE: Dostupný
-  LABEL_AUTOATTEND_CONVENTION: Automaticky se účastnit všech výstav.
+  LABEL_AUTOATTEND_CONVENTION: Automaticky se účastnit všech veletrhů.
   LABEL_SERVER_CAPACITY: Kapacita serverů
   LABEL_SERVER_RENT_CAPACITY: Kapacita pronajatých serverů
   LABEL_TOTAL_COST: Celkové ceny
@@ -982,8 +982,8 @@ en:
 
     Jste si jistí, že chcete přestat '%s' podporovat?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
-    To support more than one platform, you need to develop
-    the Cross-platform feature for the digital store.
+    Pokud chcete podporovat více než jednu platformu,
+    budete muset pro vaši distribuční platformu implementovat funkci Multiplatforma.
   LABEL_DS_SUPPORT_ALL_PLATFORMS: Podporovat všechny platformy
   LABEL_NUMBER_OF_PLATFORMS: Počet platforem
   LABEL_SERVER_LOAD: Vytížení serverů
@@ -998,7 +998,7 @@ en:
   LABEL_DS_FORUM_TITLE: Fórum
   LABEL_DS_FORUM_DESCRIPTION: |
     Umožňuje uživatelům zveřejňovat na platformě zprávy.
-  LABEL_DS_CROSSPLATFORM_TITLE: Multiplatformnost
+  LABEL_DS_CROSSPLATFORM_TITLE: Multiplatforma
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     Přidá podporu pro více platforem.
   LABEL_DS_BOTPROTECTION_TITLE: Ochrana proti botům
@@ -1102,7 +1102,7 @@ en:
   LABEL_AMOUNT_EDITED_GAME: Počet vydaných her
   LABEL_AMOUNT_STUDIO: Počet studií
   LABEL_AMOUNT_POSTMORTEM: Počet zpráv o hrách
-  LABEL_AMOUNT_ATTENDED_CONVENTION: Počet zúčastněných se výstav
+  LABEL_AMOUNT_ATTENDED_CONVENTION: Počet zúčastněných veletrhů
   LABEL_AMOUNT_DESK: Počet stolů
   LABEL_MORTGAGE_NOT_INTERESTED: Nemáte na půjčku dostatečný majetek
   LABEL_THANKYOU_PURCHASING: |
@@ -1248,14 +1248,14 @@ en:
     K odemčení nového žánru [b]stiskněte jeho ikonu[/b].
     Pokud máte dostatek bodů, ten žánr bude odemčen.
 
-    [b]Počet žánrových bodů[/b] se nachází v [b]horním pravém rohu[/b] obrazovky.
+    [b]Počet bodů žánru[/b] se nachází v [b]horním pravém rohu[/b] obrazovky.
   LABEL_GAME_GENRE_DESCRIPTION: |
     [img]%s[/img]
     [b][u]%s[/u][/b]
 
     [color=%s]%s[/color]
-  LABEL_SKILL_POINTS: Žánrové body
-  LABEL_SKILL_POINT: "%s žánrových bodů"
+  LABEL_SKILL_POINTS: Body žánru
+  LABEL_SKILL_POINT: "%s bodů žánru"
   LABEL_UNLOCKED: "Odemčeno"
   LABEL_COST: Stojí %s bodů
   LABEL_FANBASE_TRENDS: Trend fanouškovské základny
@@ -1972,220 +1972,220 @@ en:
   LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
     Již dříve jste mohli vidět konkurenty na mapě města, ale nyní je můžete sledovat.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
-    Buying your competitors is an easy way to win a lot of fans, as well as to expand your company.
+    Odkupování konkurentů není jen snadný způsob na získání fanoušků, ale také na rozšíření společnosti.
   LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
-    While you are looking at one of your studios, you can now buy new furniture.
+    Když se díváte na jedno ze svých studií, můžete do něj nakoupit nábytek.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
-    Keep in mind that the best games are produced by teams as strong in design, development and polishing.
+    Mějte na mysli, že dobré hry jsou vytvářeny týmy, které jsou dobré jak v designu, tak ve vývoji a dokončování.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
-    Video game producers boost employee's productivity and allows you to create AAA games.
+    Producenti zvyšují produktivitu zaměstnanců a umožňují vytvářet větší hry.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
-    Human resources boost employee's happiness and you can customize employee's schedules
+    HR zvyšuje spokojenost zaměstnanců a umožňuje spravovat jejich rozvrhy.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
-    Hiring an accountant will help you saving on taxes.
+    Najmutí účetního vám pomůže ušetřit na daních.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
-    Allows renting new buildings. This will allow you to work on several projects at the same time.
+    Umožňuje pronajmout nové budovy. To vám umožní pracovat na více projektech zároveň.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
-    Allows building new studios. It's expensive, it's one of the only ways to keep growing without limit.
+    Umožňuje postavit nové budovy. Je to drahé, ale je to jediný způsob, jak expandovat bez limitů.
   LABEL_STUDIO_BUILD_DESCRIPTION_1: >
-    In addition to being able to build studios, you can also build conference centres, which is necessary to organize conferences.
+    Kromě studií můžete budovat i výstaviště, která jsou nutná k pořádání veletrhů.
   LABEL_STUDIO_BUILD_DESCRIPTION_2: >
-    Construct universities to train staff. They are going to reach perfection!
+    Vybudujte univerzity ke školení svých zaměstnanců. Dosáhnou díky tomu perfekce!
   LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
-    If you need to have conference centres then you can organize conferences.
+    Pokud budete mít výstaviště, budete moct pořádat vlastní veletrhy.
   LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
-    You can participate in conventions, and this will increase the visibility of your games from time to time.
+    Můžet se účastnit veletrhů, což zvýší viditelnost vašich vystavených her.
   LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
-    You can repaint the walls, change the posts and redo the floors of your studios.
+    Ve svých studiích můžete přebarvit zdi, změnit sloupy a přepravovat podlahu..
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-    Buying servers will allow you to create online games but also an online portal.
+    Nakoupení serverů vám umožní vytvořit online hry a vlastní distribuční platformu.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
-    You can create games online. They are normally less expensive, but players must pay a monthly subscription.
+    Můžete vytvářet online hry. Jsou většinou levnější, ale hráči budou muset platit předplatné.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    You can create a dematerialized game store, and finally a first alpha version that will need to be improved.
+    Můžete vytvořit distribuční platformu a konečně vydat její první alfa verzi, která ale bude muset být ještě zlepšena.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
-    Act as a publisher, and hire companies to make your game.
+    Buďte jako vydavatel a najímejte společnosti, aby pro vás vytvářely hry.
   LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
-    A post-mortem is a report of what went right or wrong during the development of the game, it gives you hints.
+    Zprávy o hře jsou zprávy o tom, co se během vývoje hry podařilo a co ne. Dávají vám během vývoje budoucích her nápovědy.
   LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
-    Creating a good game allows you to progress in City Game Studio, earn money, fans and experience.
+    Vytvoření dobré hry je dobrým způsobem, jak v City Game Studio pokročit. Umožní vám získat zkušenosti, fanoušky a finance.
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
-    When creating a game, you can now choose the target audience, and this has an influence on the final score and sales of the game.
+    Odteď můžete během vývoje hry vybrat cílové publikum. To ovlivňuje hodnocení a prodeje vaší hry.
   LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    You have a new design gauge when creating a game.
+    Máte nyní během vývoje hry novou designovou oblast.
   LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    You have a new design gauge when creating a game.
+    Máte nyní během vývoje hry novou designovou oblast.
   LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    You have a new development gauge when creating a game.
+    Máte nyní během vývoje hry novou designovou oblast.
   LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    You have a new development gauge when creating a game.
+    Máte nyní během vývoje hry novou vývojovou oblast.
   LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    You have a new polishing gauge when creating a game.
+    Máte nyní během vývoje hry novou dokončovací oblast.
   LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    You have a new polishing gauge when creating a game.
+    Máte nyní během vývoje hry novou dokončovací oblast.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
-    You can advertise on social networks, it's very targeted, expensive and very effective.
+    Odteď můžete dávat své reklamy na sociální sítě. Je to velmi cílené a efektivní, ale také velmi drahé.
   LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
-    Sending emails will cost you almost nothing and will influence the sales of your games.
+    Posílání emailů vás nebude stát skoro nic a ovlivní to prodeje vaších her.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
-    You can port your games to new platforms.
-  LABEL_UNLOCK_GAMEGENRE: You have gained experience in making games. You feel ready to develop new game mechanics.
+    Můžete odteď portovat své hry na jiné platform.
+  LABEL_UNLOCK_GAMEGENRE: Během vytváření her jste získali mnoho zkušeností. Cítíte se připraveni vytvářet nové herní mechaniky.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
-    You can now unlock new game genres. To earn experience points, you just have to publish games.
+    Odteď můžete odemykat nové žánry. K získání bodů žánrů stačí jen vydávat hry.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
-    Contracts are now available. Completing a contract gives you money, experience and tips for a specific game genre.
+    Už jsou dostupné kontrakty. Dokončení kontraktu vám dá finance, zkušenosti a nápovědy pro specifický herní žánr.
 
   # Placeholder used for forms
-  PLACEHOLDER_COMPANY_NAME: Company name
-  PLACEHOLDER_GAME_GENRE: Game genre
-  PLACEHOLDER_GAME_NAME: Game name
-  PLACEHOLDER_PLAYER_NAME: Your name
+  PLACEHOLDER_COMPANY_NAME: Název společnosti
+  PLACEHOLDER_GAME_GENRE: Žánr
+  PLACEHOLDER_GAME_NAME: Název hry
+  PLACEHOLDER_PLAYER_NAME: Vaše jméno
 
-  LABEL_VERSION_BETA: Beta version
+  LABEL_VERSION_BETA: Beta verze
   LABEL_BREAK_LAW: |
-    You're about to break the law.
+    Chystáte se porušit zákon.
     
-    Do you want to continue?
-  LABEL_SUCCESS: Succeeded
-  LABEL_FAILURE: Failure
-  LABEL_CANNOT_INTERACT: You will no longer be able to communicate with %s until %s
-  LABEL_FAN_LOST: This has affected your popularity, and you lose %s fans
-  LABEL_PENALTY_COST: Justice has ruled, and you must pay %s$
-  LABEL_EMPLOYEE_HIRED: You've hired %s
+    Chcete pokračovat?
+  LABEL_SUCCESS: Úspěch
+  LABEL_FAILURE: Selhání
+  LABEL_CANNOT_INTERACT: S %s nebudete schopni interagovat do %s
+  LABEL_FAN_LOST: Tohle ovlivnilo vaši popularitu. Ztratili jste %s fanoušků.
+  LABEL_PENALTY_COST: Podle zákona musíte zaplatit %s$
+  LABEL_EMPLOYEE_HIRED: Najmuli jste %s
   LABEL_GAME_CRACKED: |
-    The income generated by %s is divided by 3
-    and it is no longer in competition with your video games.
-  LABEL_GENRE_STOLEN: You've learnt %s
-  LABEL_STUDIO_SOLD: They've sold %s
+    Příjem generovaný %s je vydělen třemi
+    a už není konkurentem vaších her.
+  LABEL_GENRE_STOLEN: Ukradli jste žánr: %s
+  LABEL_STUDIO_SOLD: Prodali %s
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
-    This genre is no longer unique because it has already
-    been created by some other company.
-  LABEL_RELATIONSHIP: Relationship
-  LABEL_RELATIONSHIP_FRIENDLY: Friendly
-  LABEL_RELATIONSHIP_NEUTRAL: Neutral
-  LABEL_RELATIONSHIP_UNFRIENDLY: Unfriendly
-  LABEL_ARCADE_SNEAK_IN: Arcade Sneak In
-  LABEL_FOOSBALL: Foosball
-  LABEL_HOOVERBALL: Air Hockey
-  LABEL_TV: Television
-  LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
+    Tento žánr již není unikátní,
+    protože byl vytvořen již nějakou jinou společností.
+  LABEL_RELATIONSHIP: Vztah
+  LABEL_RELATIONSHIP_FRIENDLY: Přátelský
+  LABEL_RELATIONSHIP_NEUTRAL: Neutrální
+  LABEL_RELATIONSHIP_UNFRIENDLY: Nepřátelský
+  LABEL_ARCADE_SNEAK_IN: Arkádový automat Sneak In
+  LABEL_FOOSBALL: Fotbálek
+  LABEL_HOOVERBALL: Vzdušný hokej
+  LABEL_TV: Televize
+  LABEL_ARCADE_CITY_GAME_STUDIO: Arkádový automat City Game Studio
 
   # Tutoriel labels
   TOOLTIP_UNIVERSITY_TRAINING: |
-    Universities allow you to train your employees beyond their normal capabilities.
-    However, training your employees beyond their normal capabilities will significantly increase their salary.
+    Univerzity vám umožňují školit zaměstnance za hranice normálních možností.
+    Nicméně, školení také může navýšit výplatu.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
-    Maximum 2 genres per game.
+    Maximálně 2 žánry na hru.
 
-    Some game genres are already combinations of genres,
-    and therefore you cannot combine them with other game genres.
+    Některé žánry už jsou kombinací jiných,
+    a tak je nelze s ostatními žánry kombinovat.
   TOOLTIP_GAME_GENRE_LOCKED: |
-    This genre is locked for now.
+    Tento žánr je zatím nedostupný.
   TOOLTIP_GAME_TYPE_SELECT_ONE: |
-    You must select at least one game genre to create a game.
+    Musíte k započnutí vývoje hry vybrat alespoň jeden žánr.
   TOOLTIP_RANDOM_SLIDER: |
-    In game creation, expected values of the gauges in the development, design and polishing stages become random.
+    Během vývoje hry se doba potřebné práce v rlzných oblastech stane náhodnou.
   TOOLTIP_REQUIRE_GAME: |
-    You must own %s to unlock this item.
+    Musíte k odemčení této položky vlastnit %s.
   TOOLTIP_RELATIONSHIP: |
-    With a good relationship, you can get better offers.
-    On the other hand, a poor relationship leads to tougher negotiations.
+    S dobrým vztahem můžete dostat výhodnější nabídku.
+    Špatmý vztah, na druhou stranu, dělá vyjednávání složitější.
 
-    Relationships improve when you publish games on their console.
-    Or when you accept exclusive contracts, or buy a license.
+    Vztahy se zlepšují, pokud vydáváte hry na jejich platformu,
+    koupíte si jejich licenci, nebo přijmete dohodu o exkluzivitě.
 
-    Relationships get worse when you refuse an exclusive contract,
-    or when you start a discussion without buying a license.
+    Vztahy se zhoršují, pokud odmítnete dohodu o exkluzivitě
+    nebo když si během jednání nekoupíte žádnou licenci.
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
-    Add vending machines, plants or coffee machines to improve its work place.
+    Přidejte ke zlepšení tohoto pracoviště automaty nebo rostliny.
 
   TOOLTIP_EMPLOYEE_BORED_GENRE: |
-    Your employee wants to try out new game genre. Your employee doesn't want to 
-    work on any game genre like:
+    Váš zaměstnanec chce vyzkoušet nějaký nový žánr.
+    Nechce už pracovat na žánru jako:
 
   TOOLTIP_GAME_ENGINE_WHY: |
-    Make your own game engine.
+    Vytvořte si vlastní engine.
 
-    If you create a proprietary engine you can sell it with a license.
-    Alternatively, make it royalty free, and get a community to improve your game engine.
-    Another option is to keep it in-house so competitors don't get an advantage.
+    Pokud vytvoříte proprietární engine, můžete k němu prodávat licenci.
+    Alternativně ho můžete udělat open-source, aby ho zlepšovala vaše komunita.
+    Další možností je nechat si ho jen pro sebe, přičemž konkurenti nezískají žádnou výhod.
   TOOLTIP_TRADE_PUBLISH_WHY: |
-    Create games for competitors.
+    Vytvářejte hry pro konkurenty.
 
-    You' re going to acquire a lot of new fans quickly.
-    On the other hand your competitors will grow even faster.
+    Rychle získáte mnoho fanoušků.
+    Na druhou stranu, vaši konkurenti budou růst ještě rychleji.
   TOOLTIP_PUBLISH_GAME_WHY: |
-    Become a game publisher.
+    Staňte se vydavatelem.
 
-    This is cheaper than developing a game yourself, but it pays a lot of money.
-    Nevertheless you don't get any fans.
+    Je to levnější než vyvíjet hru na vlastní pěst. Může to hodně vydělat.
+    Nezískáte ale žádné fanoušky.
   TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
-    This feature is not available,
-    although it was in the original game.
+    Tato funkce není dostupná,
+    přestože se v originále nacházela.
   TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
-    This feature is not available,
-    but an alternate is available,
-    it' s recommended to use it.
+    Tato funkce sice není dostupná,
+    ale existuje k ní alternativa.
+    Je doporučeno ji použít.
   TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
-    This remake doesn't take advantage of
-    the console's capabilities.
+    Tento remake nevyužívá
+    schopnosti této platformy naplno.
   TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
-    Some features are not supported, please select others.
+    Některé funkce nesjou podporávy. Vyberte prosím jiné.
   TOOLTIP_POSTMORTEM_ALREADY_DONE: |
-    The game report has already been done.
+    Zpráva o hře byla již vytvořena.
   TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
-    Automatically make the game report.
+    Vytvářet zprávy o hrách automaticky.
   TUTORIEL_CREATE_GAME: |
-    Press this button to open the game creation panel.
+    Stiskněte toto tlačítko k otevření menu pro vytváření her.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
-    Costs involved in upgrading this game engine are higher. In fact, the game engine is aging,
-    so the development costs can skyrocket.
+    Náklady pro aktualizaci tohoto enginu jsou vyšší. Čím starší engine je,
+    tím nákladnější je ho udržovat.
 
-    You should create a new one, without updating this one, so you don't face such a penalty.
+    Měli by jste radši vytvořit nový, takže neztratíte kvůli zastaralému kódu více peněz.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
-    Note that the manufacture costs of the console are higher than its price.
-    If the sales soar, the company could go bankrupt.
+    Mějte na mysli, že výrobní ceny této platformy jsou vyšší než prodejní ceny, které jste nastavili.
+    Pokud se konzole stane populární, společnost by mohla zbankrotovat.
 
-    Therefore, you should raise the console's price to not lose money.
+    Z tohoto důvodu by jste měli cenu platformy navýšit.
   TUTORIEL_CREATE_GAME_OBSOLETE: |
-    Other publishers of games are failing to sell their game on this console.
-    It is likely that you too will fail to sell enough copies of your game on this console.
+    Ostatním vývojářům se na této platformě nedaří prodávat své hry.
+    Je pravděpodobné, že se vám také nepodaří prodat mnoho kusů.
 
-    You should pick another console or you might be disappointed.
+    Měli by jste si vybrat jinou platformu, nebo budete zklamaní.
   TUTORIEL_CREATE_NORMAL_GAME: |
-    Since you don't have enough fans to be able to sell games of this size,
-    you will need to have a rating above 90% to be successful.
+    Protože nemáte dostatek fanoušků k vytváření her této velikosti,
+    budete potřebovat k úspěchu hodnocení vyšší než 90%.
 
-    You should make the game slightly smaller to sell it better.
-    To grow your fan base, you can also take offers to publish from other companies.
+    Měli by jste tuto hru udělat pro lepší prodeje menší.
+    K rozšíření své fanouškovské základny můžete také najít vydavatele a vyvinout pro něj několik her.
 
   # Tooltips
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
-    You signed an exclusive offer.
-    This game cannot be ported to another console, and it has to stay on the shelves for at least one year.
-    Beyond this period, you may cancel it.
+    Podepsali jste smlouvu o exkluzivitě.
+    Tato hra nemůže být portována na jiné platformy a bude muset zůstat v obchodech alespoň rok.
+    Můžete ji ale zrušit.
   TOOLTIP_KEEP_HINT: |
-    When you check this box you keep all knowledge that you gathered with the
-    game reports of your previous games.
+    Když zaškrtnete toto pole, budete mít k dispozici všechny tipy
+    ze všech zpráv o hrách, které jste ve svých minulým hrách vytvořili.
   TOOLTIP_CONCURRENT_PAY_TO: >
-    Since the game %s didn't meet %s's expectations you'll have to pay a %s$ penalty.
-    Since you only have %s$, you'd better take out a mortgage to avoid bankruptcy.
+    Protože %s nesplnilo očekávání, bude vám udělena pokuta ve výši %s$.
+    Protože máte jen %s$, bude lepší, když si v zájmu nezbankrotování vezmete půjčku .
   TOOLTIP_ROYALTY_GET: |
-    This is the percentage you will receive on the revenue generated.
+    Tohle je procento, které z prodejů hry získáte.
   TOOLTIP_ROYALTY_GIVE: |
-    This is the percentage you will pay on the revenue generated.
+    Tohle je procento, které z prodejů zaplatíte.
   TOOLTIP_SERVER_BURNING: |
-    Note that servers can't handle so much players.
+    Mějte na paměti, že servery tolik hráčů neunesou.
 
-    Customers who bought the game are counted as sales, but are immediately refunded because they can't log in.
-    The loss of revenue is considerable.
+    Zákazníci, kteří si hru koupili, se počítají jako prodeje. Své hry ale okamžitě vrací, protože se jim nedaří přihlásit.
+    Finanční ztráty jsou významné.
 
-    It's time to increase server capacity.
+    Je načase navýšit kapacitu svých serverů.
   TOOLTIP_FIRST_CUSTOM_CONSOLE: |
-    Congratulations, you've started to work on your first console.
+    Gratulujeme, začali jste pracovat na své první konzoli!
 
-    To make a good start, you need a large catalog of games. Sending devkits around
-    encourages your competitors to create games for your console.
+    K dobrým prodejům budete potřebovat velký katalog her. Posílání
+    vývojářských sad konkurenci ji podpoří, aby na vaši konzoli nějakou hru vydala.
 
     Press that button to send devkits.
   TOOLTIP_GAME_PRICE_TAG: |
