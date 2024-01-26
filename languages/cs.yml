@@ -1091,7 +1091,7 @@ en:
   LABEL_BONUS_TAXES: Snížení daní
   LABEL_NETWORK_ADMINISTRATOR: Síťový administrátor
   LABEL_BONUS_SERVER: Snížení vytížení serverů
-  LABEL_HUMAN_RESOURCE: HR
+  LABEL_HUMAN_RESOURCE: HR manažer
   LABEL_BONUS_HAPPINESS: Bonus ke spokojenosti
   LABEL_AMOUNT_OF_TIPS: Počet tipů
   LABEL_REQUIRED_POINTS: Vyžadovaných bodů
@@ -2187,261 +2187,260 @@ en:
     K dobrým prodejům budete potřebovat velký katalog her. Posílání
     vývojářských sad konkurenci ji podpoří, aby na vaši konzoli nějakou hru vydala.
 
-    Press that button to send devkits.
+    Stiskněte tlačítko k odeslání devkitů.
   TOOLTIP_GAME_PRICE_TAG: |
-    Toggle between a paid and a free to play game.
+    Placená hra / Free to play hra.
 
-    For a free game you must either make an online
-    game with a monthly subscription, or activate
-    the advertising or microtransaction modules.
+    Pro hru zdarma musíte buď vytvořit online
+    hru s měsíčním předplatným, anebo aktivovat
+    reklamní nebo mikrotransakční modul.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
-    Gathers together orders to buy and sell
-    issued during this time frame.
+    Shromažďuje příkazy k nákupu a prodeji
+    vydané v tomto časovém rámci.
   TOOLTIP_TRADE_CHART: |
-    The operation is basic, each candle can be red or blue,
-    it's red when the price of a stock has fallen, on the
-    other hand it's blue if the price has increased compared
-    to the beginning of the same candle. The rectangle is
-    the body of the candle, it represents the variation
-    from the opening to the closing and a thin line that
-    crosses it indicates the maximum and minimum. 
+    Graf je úplně základní. Každý sloupec může být buď modrý,
+    nebo červený. Když je sloupec červený, znamená to, že cena
+    akcií poklesla. Na druhou stranu, pokud je modrý, tak cena
+    se navýšila. Výška sloupce ukazuje, jak moc je rozdíl mezi
+    původní a současnou hodnotou akcií. Tenká čára, která přes
+    něj prochází, naznačuje minimum a maximum.
   TOOLTIP_GAME_SIZE: |
-    Game size impacts the number of points required,
-    game development time and production costs.
+    Velikost hry mění množství vyžadovaných 
+    bodů a délku a náklady vývoje.
 
-    It is more difficult to get a score above 90 with a small game than with a large game.
+    Je obtížnější získat hodnocení nad 90 s malou hrou než s velkou.
   TOOLTIP_THEME_TREND: |
-    Trend of themes affects the sales.
+    Popularita témat ovlivňuje prodeje.
   TOOLTIP_HAPPY_EMPLOYEE: |
-    Your employee is happy
+    Váš zaměstnanec je spokojen
   TOOLTIP_EMPLOYEE_HAPPINESS: |
-    The happier an employee is, the less often he will go on vacation.
-    The more unhappy an employee is, the more often they will go on vacation.
+    Čím spokojenější zaměstnanec je, tím méně bude chodit na dovolené.
+    Čím nespokojený zaměstnanec je, tím více bude chodit na dovolené.
   TOOLTIP_EMPLOYEE_PRODUCTIVITY: |
-    The higher the productivity of employees, the more points they will produce.
+    Čím vyšší je produktivita zaměstnanců, tím více bodů vyprodukují.
   TOOLTIP_GAME_PRICE: |
-    The higher the price of a game, the higher the profit.
-    But lowering the price of a game helps to gain more fans.
+    Čím vyšší je cena hry, tím vyšší je profit z ní.
+    Nízké ceny ale pomáhají získat si fanoušky.
   TOOLTIP_TOO_HARD: |
-    This level of difficulty is challenging.
-    It is better to have completed the game in difficulty 1 or 2 before doing so.
+    Tato úroveň obtížnosti je těžká.
+    Nejdříve je lepší mít hru dokončenou na obtížnost 1 nebo 2.
 
-    Attempting a mode that is too difficult may result in you not enjoying the game, or feeling something is unfair or unbalanced.
+    Příliš vysoká obtížnost může vést k tomu, že si hru neužijete nebo budete mít pocit, že je něco nespravedlivé nebo nevyvážené..
   TOOLTIP_REQUIRED_POINTS: |
-    Number of required point to make a good game.
+    Množství vyžadovaných bodů pro dobrou hru.
 
-    The bigger the game size the bigger the required points.
-    It also uses similar games made in the last 4 years.
+    Čím větší hra je, tím více bodů bude potřeba vyprodukovat.
+    V úvahu jsou také brány podobné hry z posledních 4 let.
   TOOLTIP_NO_MONEY: |
-    It is time to be more reasonable.
+    Je načase být trochu rozumnější.
 
-    In other words, you have to cut back on your expenses to continue to survive.
-    Right now, the company needs to be bailed out.
+    Jinými slovy - budete muset snížit své náklady, aby vás nepotkal bankrot.
+    Je potřeba udělat něco hned.
 
-    Your best bet is to take out a mortgage that is as substantial and as long-term as possible.
+    Vaší nejlepší sázkou bude si vzít co největší půjčku s co nejdelším obdobím splátky.
   TOOLTIP_GAME_UPDATE_BUTTON: >
-    Press to update your games, create DLC or view financial details
+    Stiskněte k aktualizaci hry, vytvoření DLC, nebo prohlédnutí finančních detailů
   TOOLTIP_GAMECREATION_HELP: >
-    Lists the games of the same genre that you have created. Useful to tune the gauges.
+    Ukáže hry, které jste již vytvořili a mají stejný žánr. Uitečné při přiřazování množství práce pro každou oblast.
   TOOLTIP_GAMEENGINE_CREATE: >
-    Pick which features you want to put in your game engine
+    Vyberte, které funkce chcete do svého enginu implementovat.
   TOOLTIP_TIRED_GAME_GENRE: >
-    Your employees are eager to try new game genres,
-    they are getting tired of making the same game genres: 
+    Vaši zaměstnanci chtějí vyzkoušet něco nového,
+    už je nebaví neustále vytvářet hry do stejného žánru: 
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
-    Please select themes/platforms to analyze
+    Vyberte témata/platformy k průzkumu
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
-    Please select the game genre to study
+    Vyberte herní žánr k průzkumu
   TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
     Please select the game genres/targetted audiences to analyze
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
     Please select the platform to study
   TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
-    Since you've already studied that item, there is no need to analyze it again.
+    Protože jste o této položce již průzkum trhu udělali, není potřeba ho provádět znovu.
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
-    Train your employees till they become perfect or for a fixed
-    amount of time.
+    Školte své zaměstnance, dokud se nestanou perfektními
+    nebo jen po určité časové období.
   TOOLTIP_UNIVERSITY_AUTOTRAINING: |
-    Will automatically sends employees to training until they're perfect
-    or until there is a job to do. Requires a HR.
+    Automaticky pošle zaměstnance na školení, kde zůstanou, dokud
+    nebudou perfektními nebo se nenaskytne žádná práce. Vyžaduje HR.
   TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
-    Trains staff in every aspect of video game development.
+    Školí zaměstnance v každém aspektu vývoje.
   TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
-    Trains staff in a specific aspect of video game development.
+    Školí zaměstnance jen v jedné oblasti vývoje.
   TOOLTIP_PLATFORM_MARKETING: |
-    Once activated, the marketing campaign will begin
-    as soon as the console is released.
+    Pokud aktivováno, marketingová kampaň začne automaticky
+    hned potom, co bude platforma vydána.
   TOOLTIP_MENU_CREATE_GAME: |
-    Create a new game, a game engine, a contract,
-    a game report or to port a game
+    Vytvořte novou hru, engine, zprávu o hře,
+    port hry, nebo kontrakt.
   TOOLTIP_MENU_CREATE_CONSOLE: |
-    Create and manage a digital store or
-    create a new console
+    Vytvořte a spravujte digitální distribuční
+    platformu nebo vyviňte novou konzoli.
   TOOLTIP_GAME_CREATION_BALANCING: |
-    Displays the workload that is distributed to your employees.
-    A workload that is too high or too low will affect the quality of the games produced.
+    Ukazuje množství práce, kterou budou vaši zaměstnanci splnit.
+    Množství práce příliš vysoké nebo nízké ovlivní kvalitu vyvíjených her.
     
-    To achieve an excellent score, the workload must be within the white area.
+    Pro excelentní skóre musí být množství práce v bílé zóně uprostřed.
   TOOLTIP_GAME_UPDATE: |
-    Posting a free update will boost sales of a game.
-    A paid update will generate revenue relative to
-    the number of copies sold of the original game.
-  TOOLTIP_MATCH_EXCELLENT: Excellent match
-  TOOLTIP_MATCH_GOOD: Good match
-  TOOLTIP_MATCH_OK: Ok match
-  TOOLTIP_MATCH_POOR: Poor match
+    Zveřejnění aktualizace zdarma navýší prodeje.
+    DLC vygeneruje profit relativní k počku prodaných kopií
+    původní hry.
+  TOOLTIP_MATCH_EXCELLENT: Skvělá shoda
+  TOOLTIP_MATCH_GOOD: Dobrá shoda
+  TOOLTIP_MATCH_OK: Průměrná shoda
+  TOOLTIP_MATCH_POOR: Špatná shoda
   TOOTIP_STUDIO_HAPPINESS: |
-    What game genres the selected studio likes
+    Které žánry má vybrané studio rádo
   TOOLTIP_TOPSALES: |
-    Top-Selling games
+    Nejprodávanější hry
   TOOLTIP_CONVENTION_LIST: |
-    Attended conventions
+    Zúčastněné výstavy
   TOOLTIP_FORCE_STUDIO: |
-    You must select the studio whose sale you want to force.
+    Musíte vybrat studio, jehož prodej chcete vynutit.
   TOOLTIP_CRACK_GAME: |
-    You must select the game you want to hack.
+    Musíte vybrat hru, kterou chcete cracknout.
   TOOLTIP_HIRE_STAFF: |
-    You must select the employee you wish to recruit.
+    Musíte vybrat zaměstnance, kterého chcete najmout.
   TOOLTIP_CONCURRENT_LOCKED: |
-    You will be able to try again an action against %s from %s .
+    Budete schopni zkusit další akci proti %s od %s .
   TOOLTIP_TUTORIEL: |
-    %s to unlock %s
+    %s k odemčení %s
   TOOLTIP_EMAIL: |
-    Read the news and your mail.
+    Čtěle zprávy a své emaily.
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    Allows you to unlock new types of games.
+    Umožňuje vám odemknout nové herní žánry.
   TOOLTIP_MANAGE_STUDIO: |
-    To manage your studios, upgrade computers, assign employees...
-  TOOLTIP_GAMEPORT: Port a video game onto another platform.
+    Ke správě vaších studií, upgradování počítačů, přiřazování zaměstnanců...
+  TOOLTIP_GAMEPORT: Vytvořte port videohry pro jinou platformu.
   TOOLTIP_POSTMORTEM: |
-    Create a postmortem report.
-    A postmortem report will
-    help you create better games.
-  TOOLTIP_CREATE_GAME: Create a new game
-  TOOLTIP_STAFF: Staff's list
-  TOOLTIP_RECRUIT: List potential candidates for hire, available in town.
-  TOOLTIP_PORTFOLIO: List all the game you've made so far.
-  TOOLTIP_OPTION: Parameter and options
-  TOOLTIP_EXIT: Back to Desktop
-  TOOLTIP_STUDIOS: List your studios
-  TOOLTIP_STUDIOLIST: List offices available in town
+    Vytvořte zprávu o hře.
+    Zpráva o hře vám pomůže
+    vyvářet lepší videohry.
+  TOOLTIP_CREATE_GAME: Vytvořte novou hru
+  TOOLTIP_STAFF: Seznam zaměstnanců
+  TOOLTIP_RECRUIT: Seznam potenciálních kandidátů ve městě.
+  TOOLTIP_PORTFOLIO: Seznam všech her, které jste zatím vytvořili.
+  TOOLTIP_OPTION: Parametry a možnosti
+  TOOLTIP_EXIT: Ukončit hru
+  TOOLTIP_STUDIOS: Seznam vaších studií
+  TOOLTIP_STUDIOLIST: Seznam dostupných kanceláří ve městě
   TOOLTIP_CONSTRUCT: |
-    Make a new building for
-    an office or to
-    host a convention.
-  TOOLTIP_CONFERENCE: Manage conventions
-  TOOLTIP_MARKETING: Manage your marketing campaigns
-  TOOLTIP_SELL: Sell your office
-  TOOLTIP_SHOP: Buy furniture and stuff for your office
-  TOOLTIP_BUILDMOD: Paint and beautify your office
-  TOOLTIP_ASSIGN: Assign an employee
-  TOOLTIP_STUDIO_SELECT: Select studios
+    Postavte novou budovu
+    pro kanceláře nebo k
+    pořádání výstavy.
+  TOOLTIP_CONFERENCE: Spravovat výstavy
+  TOOLTIP_MARKETING: Spravovat marketingové kampaně
+  TOOLTIP_SELL: Prodat kancelář
+  TOOLTIP_SHOP: Nakupte nábytek pro své kanceláře
+  TOOLTIP_BUILDMOD: Vymalujte a zkrášlete svou kancelář
+  TOOLTIP_ASSIGN: Přiřadit zaměstnance
+  TOOLTIP_STUDIO_SELECT: Vybrat studia
   TOOLTIP_ANNOUNCE_GAME: |
-    Announce the video game.
-    Generates hype.
+    Oznámit videohru.
+    Generuje hype.
   TOOLTIP_CONCURRENT: |
-    List of video game companies
+    Seznam videoherních společností
   TOOLTIP_STUDIO_COST: |
-    Total studio costs. Including rent as well as the cost of
-    maintaining the equipment (for servers for example)
+    Celkové náklady studia. Zahrnuje nájem a
+    správu vybavení (například serverů)
   TOOLTIP_MARKETING_COST: |
-    Costs of marketing campaigns currently underway
+    Náklady momentáně aktivních marketingových kampaní
   TOOLTIP_SALARY_COST: |
-    Salary of each employee
+    Výplata každého zaměstnance
   TOOLTIP_STEAM_MODS: |
     Steam workshop
   TOOLTIP_HUMANRESOURCE: |
-    Assign a human resources manager to manage your
-    employees' schedules and pay raises
+    Přiřaďte HR manažera ke správě
+    rozvrhů zaměstnanců a zvedání platu
   TOOLTIP_GAME_OF_THE_YEAR: |
-    Every year, a new game is promoted Game Of The year.
+    Každá rok, jedna hra je jmenována Hrou roku.
   TOOLTIP_DESK_REPLACE: |
-    Replace desks and update computers
+    Nahraďte stoly nebo upgradujte počítače
   TOOLTIP_POSTMORTEM_RED_ZONE: |
-    Games reports helped you refining the blue zone.
-    By leaving the blue zone, you are taking a risk of making an unbalanced game,
-    and to get bad reviews.
+    Zprávy o hrách vám pomohly specifikovat modrou oblast.
+    Jejím opuštěním riskujete, že vytvoříte nebalancovanou hru,
+    kterí získá špatná hodnocení.
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
-    Your company is secretly rated based on the quality of the games you have produced over the past four years.
+    Vaše společnost je tajně hodnocena na základě kvality her, které jste během posledních čtyř her vytvořili.
   LOADING_SCREEN_TIP_1: >
-    Perfect employees can spontaneously apply to strengthen your production teams.
+    K práci ve vaší společnosti se někdy mohou spontánně přihlásit perfektní zaměstnanci.
   LOADING_SCREEN_TIP_2: >
-    This loading screen is only there to make you wait, in fact it is a sleep(random(0, 50)) that is looping.
+    Tato načítací obrazovka je tu pouze proto, aby jste si počkali. Ve skutečnosti hra používá funkci sleep(random(0, 50)), která se opakuje.
   LOADING_SCREEN_TIP_3: >
-    Discovering a new game genre gives you a considerable advantage over the competition.
+    Odemknutí nového žánru vám dává výhodu nad konkurencí.
   LOADING_SCREEN_TIP_4: >
-    Producing games with your competitors is the best way to become famous.
+    Vytváření her s vašimi konkurenty je nejlepším způsobem, jak se stát slavným.
   LOADING_SCREEN_TIP_5: >
-    You can organize conventions in your own buildings, but you'd better spaced them one year apart.
+    Můžete sice ve svých budovách pořádat výstavy tak, jak budete chtít, ale nejlepší bude mezi nimi udělat mezeru 1 rok.
   LOADING_SCREEN_TIP_6: >
-    The department of bad sales is always right.
+    Oddělení špatných prodejů má vždycky pravdu.
   LOADING_SCREEN_TIP_7: >
-    You need servers to host online games, and they are cheaper, but players have to pay monthly to continue playing them.
+    K hostování online her potřebujete servery. Jsou sice levnější, ale hráči budou muset platit předplatné, aby je mohli pokračovat hrát.
   LOADING_SCREEN_TIP_8: >
-    Einstein, our mascot, barked 65.13 times during the development of City Game Studio.
+    Einstein, náš paskot, během vývoje City Game Studia zaštěkal 65.13krát.
   LOADING_SCREEN_TIP_9: >
-    12,654 Christmas songs were played during the development of City Game Studio.
+    Během vývoje City Game Studia bylo přehráno 12,654 vánočních písní.
   LOADING_SCREEN_TIP_10: >
-    Taking a look at market shares is good, but you also have to take care of the number of games published on a platform.
+    Tržní podíl je sice hezká metrika, ale musíte se také starat o množství her, které byly pro platformu vytvořeny.
   LOADING_SCREEN_TIP_11: >
-    You want to help translating City Game Studio? Join our discord: https://discord.gg/citygamestudio
+    Chcete pomoct s překládáním City Game Studia? Připojte se na náš Discord server: https://discord.gg/citygamestudio
   LOADING_SCREEN_TIP_12: >
-    When your servers' lights glow red, it means they are overloaded.
+    Když kontrolní světla vaších serverů svítí červeně, znamená to, že jsou přetíženy.
   LOADING_SCREEN_TIP_13: >
-    Don't forget to take a coffee break... Ah, the coffee machine is broken again.
+    Nezapomeňte si udělat pauzu na kávu... Ah, automat na kávu je zase rozbitej.
   LOADING_SCREEN_TIP_14: >
-    Crunchtime is not a cereal brand, but it is a widespread management practice.
+    Crunch není značka cereálií, ale rozšířená manažerská technika.
   LOADING_SCREEN_TIP_15: >
-    Releasing a new game is the best way to make money.
+    Vydání nové hry je nejlepší způsob, jak si vydělat.
   LOADING_SCREEN_TIP_16: >
-    Post-mortems allow you to learn more about the games you have released.
+    Zprávy o hrách vám pomůžou lépe porozumět, co se hodí pro každý žánr.
   LOADING_SCREEN_TIP_17: >
-    According to a recent study, nearly 1 in 625.3 dogs barks when it rains, and the others make fun of it.
+    Podle nedávné studie během deště štěká 1 z 625.3 psů, přičemž ti ostatní se tomu smějí.
   LOADING_SCREEN_TIP_18: >
-    Don't rely on everything you can read on loading screens.
+    Neřiďte se vším, co můžete na načítací obrazovce přečíst.
   LOADING_SCREEN_TIP_19: >
-    Adopting a cat adds a tiny bonus to your studios.
+    Adoptování zatoulané kočky dám vašemu studiu menší bonus.
   LOADING_SCREEN_TIP_20: >
-    If your studio has a uneven skill level, it can effect overall quality of a game.
+    Pokud nejsou dovednosta zaměstnanců v jednom studiu vyrovnány, může to ovlivnit celkovou kvalitu her.
   LOADING_SCREEN_TIP_21: >
     Press F1 to open the in-game console
 
-  GAME_UPDATE: Game update
-  GAMEENGINE: Game engines
-  GAMEEDITION_SUBMIT: Issue publishing offers
-  GAMEEDITION_RECEIVE: Receive publishing offers
-  WORLDMAP: City map
-  MARKETING_CAMPAIGN_MAGAZINE: Advertising campaign in the press
-  MARKETING_CAMPAIGN_TV: Television advertising campaign
-  MARKETING_CAMPAIGN_INTERNET: Online advertising campaign
-  CONCURRENT_STUDIOS_LIST: List the competitors
-  CONCURRENT_STUDIOS_BUY: Buying out competitors
-  FURNITURES_COMMON_BUY: Buying furniture
-  EMPLOYEES_HIRE: Hire staff
-  STUDIO_RENT: Rent a studio apartment
-  STUDIO_BUILD: Building a studio
-  CONVENTION_ORGANIZE: Organize a convention
-  CONVENTION_PARTICIPATE: Participate in a convention
-  STUDIO_CUSTOMIZE: Renovate your studios
-  FURNITURES_SERVERS_BUY: Buy servers
-  GAME_ONLINE: Publish online games
-  DIGITAL_STORE: Dematerialized store
-  POSTMORTEM: Game report
-  NEW_GAME: New game
-  TARGETTED_AUDIENCE: Targeted audience
-  STORY: History
-  USERINTERFACE: User interface
-  NETWORK: Network
-  MODDING: Modding
-  CUTSCENES: Cut scenes
-  TUTORIEL: Tutorials
-  MARKETING_CAMPAIGN_SOCIALNETWORK: Targeted advertising campaign
-  MARKETING_CAMPAIGN_MAILINGLIST: Email's advertising campaign
-  GAMEPORT: Port a game
-  UNLOCK_GAMEGENRE: Unlock a game genre
-  UNLOCK_HUMANRESOURCE: Human resources
-  UNLOCK_GAME_OF_THE_YEAR: Game of the year
-  UNLOCK_CLOUD_SERVER: Cloud computing
-  REMASTER_AND_REMAKE: Remake & Remaster
+  GAME_UPDATE: Herní aktualizace
+  GAMEENGINE: Hrní engine
+  GAMEEDITION_SUBMIT: Vytvořit vydavatelskou nabídku
+  GAMEEDITION_RECEIVE: Získávat vydavatelské nabídky
+  WORLDMAP: Mapa města
+  MARKETING_CAMPAIGN_MAGAZINE: Tisková teklamní kampaň
+  MARKETING_CAMPAIGN_TV: Televizní reklamní kampaň
+  MARKETING_CAMPAIGN_INTERNET: Online reklammní kampaň
+  CONCURRENT_STUDIOS_LIST: Seznam zaměstnanců
+  CONCURRENT_STUDIOS_BUY: Odkoupit konkurenci
+  FURNITURES_COMMON_BUY: Koupit nábytek
+  EMPLOYEES_HIRE: Najmout zaměstnance
+  STUDIO_RENT: Pronajmutí kanceláře
+  STUDIO_BUILD: Postavení budovy
+  CONVENTION_ORGANIZE: Organizování výstavy
+  CONVENTION_PARTICIPATE: Zúčastnění se výstavy
+  STUDIO_CUSTOMIZE: Renovace vaších studií
+  FURNITURES_SERVERS_BUY: Nákup serverů
+  GAME_ONLINE: Vydat online hru
+  DIGITAL_STORE: Distribuční platforma
+  POSTMORTEM: Zpráva o hře
+  NEW_GAME: Nová hra
+  TARGETTED_AUDIENCE: Cílová skupina
+  STORY: Historie
+  USERINTERFACE: Uživatelské rozhraní
+  NETWORK: Síť
+  MODDING: Moddování
+  CUTSCENES: Cutscény
+  TUTORIEL: Tutoriály
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Cílená reklamní kampaň
+  MARKETING_CAMPAIGN_MAILINGLIST: Emailová reklamní kampaň
+  GAMEPORT: Portovat hru
+  UNLOCK_GAMEGENRE: Odemknout herní žánr
+  UNLOCK_HUMANRESOURCE: HR
+  UNLOCK_GAME_OF_THE_YEAR: Hra roku
+  UNLOCK_CLOUD_SERVER: Cloudové servery
+  REMASTER_AND_REMAKE: Remaky & Remastery
