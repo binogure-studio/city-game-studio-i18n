@@ -1,0 +1,2446 @@
+en:
+  # Buttons actions verbs
+  BUTTON_ACQUIRE: Odkoupit
+  BUTTON_READ: Přečíst
+  BUTTON_ANNOUNCE: Oznámit hru
+  BUTTON_NEW_GAME: Nová hra
+  BUTTON_HIRE: Najmout
+  BUTTON_APPLY: Přijmout
+  BUTTON_BACK: Zpět
+  BUTTON_BUILD_MODE: Režit stavby
+  BUTTON_BUILDING_RENT: Pronajmout
+  BUTTON_CANCEL: Zrušit
+  BUTTON_CANCEL_ALL: Zrušit vše
+  BUTTON_CLOSE: Zavřít
+  BUTTON_CREDITS: Titulky
+  BUTTON_EXIT: Odejít
+  BUTTON_FIRE: Vyhodit
+  BUTTON_LOAD: Načíst
+  BUTTON_LOAD_GAME: Načíst hru
+  BUTTON_MAIN_MENU: Hlavní menu
+  BUTTON_NEXT: Další
+  BUTTON_OK: Ok
+  BUTTON_OPTIONS: Nastavení
+  BUTTON_RESET: Resetovat
+  BUTTON_SKIP: Přeskočit
+  BUTTON_START: Začít
+  BUTTON_NEED_STUDIO: Žádné dostupné studio
+  BUTTON_CLEAR_EVENTS: Smazat vše
+  BUTTON_TOO_BAD: To je špatné
+  BUTTON_BUY_ANOTHER_ONE: Koupit další
+  BUTTON_ADOPT: Adoptovat
+  BUTTON_ABANDON: Opustit
+  BUTTON_ASSIGN_EMPLOYEE: Přiřadit
+  BUTTON_WITHDRAW_SPECIALISTS: Stáhnout všechny specialisty
+  BUTTON_KEEP_PLAYING: Pokračovat v hraní
+  BUTTON_LEADERBOARD: Žebříček
+  BUTTON_GIVEUP: Vzdát se
+  BUTTON_LOAN: Půjčka
+  BUTTON_REPAY: Splatit
+  BUTTON_ZOOM: Přiblížit
+  BUTTON_BUY: Koupit
+  BUTTON_SELL: Prodat
+  BUTTON_RENT: Pronajmout
+  BUTTON_CONFIRM: Potvrdit
+  BUTTON_BANKRUPTCY: Zbankrotovat
+  BUTTON_RESTORE: Obnovit
+  BUTTON_DELETE: Odstranit
+  BUTTON_DELETE_ALL: Odstranit vše
+  BUTTON_SPAM: Označit jako spam
+  BUTTON_UNSPAM: Není spam
+  BUTTON_HOLIDAY: Poslat studio na dovolenou
+  BUTTON_HOLIDAY_SOLO: Poslat na dovolenou
+  BUTTON_MODS: Modifikace
+  BUTTON_BUGREPORT: Nahlásit bug
+  BUTTON_FEEDBACK: Zpětná vazba
+  DROPDOWN_LANGUAGE: Jazyky
+  BUTTON_CRACK_GAME: Cracknout tuto hru
+  BUTTON_FORCE_STUDIO_SELL: Vynutit prodej studia
+  BUTTON_SPY: Provést průmyslovou špionáž
+  BUTTON_HIRE_THEIR_EMPLOYE: Najmout jejich zaměstnance
+  BUTTON_SELECT: Vybrat
+  BUTTON_SAVEGAME: Uložit hru
+  BUTTON_SELL_ITEMS: Prodat nábytek
+  BUTTON_CONTINUE: Pokračovat
+  BUTTON_DETAILS: Podrobnosti
+  BUTTON_CHARTS: Grafy
+  BUTTON_CREATE: Vytvořit
+  BUTTON_GRID: Ukázat mřížku
+  BUTTON_EDIT_LOGO: Upravit logo
+  BUTTON_BUILD: Postavit
+  BUTTON_PAY: Zaplatit
+  BUTTON_UPDATE: Aktualizovat
+  BUTTON_EDIT: Upravit
+  BUTTON_CONFINE_MOUSE: Ohraničit kurzor myši
+  BUTTON_SHOW_STUDIO: Ukázat studio
+  BUTTON_CANCEL_GAME: Zrušit hru
+  BUTTON_VIEW_SEQUEL: Zobrazit pokračování
+  BUTTON_COPY: Zkopírovat
+  BUTTON_HIRE_ALL: Najmout všechny
+  BUTTON_HIRE_AND_ASSIGN: Najmout a přiřadit
+  BUTTON_TRAINING_START: Začít školení
+  BUTTON_TRAINING_STOP: Zastavit školení
+  BUTTON_CANCEL_CONTRACT: Zrušit kontrakt
+  BUTTON_CANCEL_GAMEPORT: Zrušit port hry
+  BUTTON_CANCEL_FEATURE: Zrušit funkci
+  BUTTON_CANCEL_GAMEENGINE: Zrušit herní engine
+  BUTTON_CANCEL_GAMEUPDATE: Zrušit update zdarma
+  BUTTON_CANCEL_DLC: Zrušit DLC
+  BUTTON_UNASSIGN: Zrušit přiřazení
+  BUTTON_REMAKE_CREATE: Vytvořit remake
+  BUTTON_VIEW_REMAKE: Zobrazit remake
+  BUTTON_VIEW_ORIGINAL_GAME: Zobrazit originální hru
+  BUTTON_ACCEPT: Přijmout
+  BUTTON_REFUSE: Odmítnout
+  BUTTON_IMPORT_IMAGE: Importovat obrázek
+  BUTTON_ROADMAP: Roadmapa
+  BUTTON_VIEW_MODS: Zobrazit modifikace
+  BUTTON_DEMOLISH_STUDIO: Zbourat budovu
+  BUTTON_SAVEGAMEAS: Nová uložená hra
+
+  # Labels, descriptive
+  LABEL_PLATFORM_GENERATION: Generace
+  LABEL_MODS_NOT_LOADED: Některé modifikace nejsou načteny
+  LABEL_MOD_LOADING: Načítání modifikací... (%s / %s)
+  LABEL_MOD_LOADED: Modifikace načteny (%s/ %s)
+  LABEL_IN_GAME_ACHIEVEMENT: Vypnout achievementy
+  LABEL_REACH_YEAR: "Dosažení roku %s"
+  LABEL_NUMBER_SERVER: Počet serverů
+  LABEL_GAME_NAME_EMPTY: Název hry je prázdný
+  LABEL_ACCESSORY_COLOR: Barva příslušenství
+  LABEL_OWNED_SERVERS: Vlastněné servery
+  LABEL_RENTED_SERVERS: Pronajaté servevy
+  LABEL_CUSTOMIZATION: Přizpůsobení
+  LABEL_SKIN_COLOR: Barva pleti
+  LABEL_ACCESSORY_STYLE: Příslušenství
+  LABEL_HAIR_COLOR: Barva vlasů
+  LABEL_HAIR_STYLE: Styl vlasů
+  LABEL_SHIRT_COLOR: Barva trička
+  LABEL_PANT_COLOR: Barva kalhot
+  LABEL_SHOES_COLOR: Barva bot
+  LABEL_PUBLISHED_SAME_COMBO_TOO_FAST: |
+    Už jste vytvořili hru s kombinací [b]%s-%s[/b] během méně než [b]%s[/b] měsíců.
+    Pokud budete vytvářet identické hry, riskujete, že naštvete kritiky, kteří již očekávají něco nového.
+  TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
+    Zaměstnanci tohoto studia již nechtějí pracovat na hře s tímto žánrem: "%s".
+    Místo toho chtějí pracovat na něčem novém.
+
+    Pokud vytvoříte hru s žádnrem "%s", budou se nudit.
+    To znamená, že budou méně produktivní a budou častěji chodit na dovolené.
+  TOOLTIP_GAME_GENRE_EAGER_SAME_GENRE: |
+    Zaměstnanci tohoto studia chtěji pracovat na hře s žánrem: "%s".
+  LABEL_GENRE_INTEREST: Zájem ve vybraném herním žánru
+  LABEL_POPUP_ANIMATION: Animace popupů
+  LABEL_TRANS_SINE: Sine
+  LABEL_TRANS_EXPO: Expo
+  LABEL_TRANS_CUBIC: Kubická
+  LABEL_TRANS_QUAD: Quad
+  LABEL_TRANS_BOUNCE: Odrazit
+  LABEL_TRANS_QUINT: Quint
+  LABEL_TRANS_QUART: Quart
+  LABEL_TRANS_LINEAR: Lineární
+  LABEL_TRANS_ELASTIC: Elastická
+  LABEL_TRANS_BACK: Zpět
+  LABEL_TRANS_CIRC: Circ
+  TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
+    Můžete si půjčit až %s$
+  LABEL_FURNITURES: Nábytek
+  LABEL_UI_DESIGNER: Designér UI
+  TOOLTIP_AUTOFURNISH_MODE: |
+    Vyberte si mezi automatickým a manuálním pokládáním nábytku.
+  LABEL_GAUGE_GOOD: |
+    Pro tuto oblast jste přiřadili správné množství práce
+  LABEL_GAUGE_OK: |
+    Množství práce pro tuto oblast by mohlo být opraveno
+  LABEL_GAUGE_POOR: |
+    Pro tuto oblast špatně odhadnuté množství práce
+  LABEL_BACKWARD_COMPATIBILITY: Zpětná kompatibilita
+  TOOLTIP_BACKWARD_COMPATIBILITY: |
+    K vytvoření konzole se zpětnou kompatibiliou je nutné mít v minulosti jinou konzoli stejného typu.
+    To znamená, že pokud chcete vytvořit handheld, který je zpětně kompatibilní,
+    museli jste vytvořit již jeden handheld v minulosti.
+    Zpětná kompatibilita se vztahuje na předchozí konzoli stejného typu.
+
+    Zpětná kompatibilita dělá portování her z předchozích konzolí mnohem jednodušší.
+    Na druhou stranu je k implementaci potřeba o mnoho více bodů během vývoje.
+
+    Není možné implementovat zpětnou kompatibilitu, pokud jste ještě nevytvořili konzoli stejného typu.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Prosím update!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
+    Ahoj [b]%s[/b],
+
+    kolem [b]%s[/b] jsme si vybudovali menší komunitu.
+    Sdílí tipy a sledují zprávy z vaší společnosti. Nedočkavě čekají na cokoliv o [b]%s[/b].
+
+    Pokud během následujících [b]%d měsíců[/b] zveřejníte aktualizaci, budou potěšeni!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Skvělý update!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
+    Chvála vám za naplnění fanouškovských očekávání.
+
+    Naši fanoušci jsou nejnovější aktualizací nadšeni!
+    Šíří kolem sebe nadšení z [b]%s[/b], což ovlivní prodeje.
+
+    Skvělá práce! Můžete být na sebe pyšní.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: Je příliš pozdě...
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
+    Hra [b]%s[/b] byla zveřejněna před několika měsíci.
+    Nadšení kolem hry zaniklo, zatímco bylo mezitím vydáno několik jiných her se stejným tématem.
+
+    Propásli jste příležitost. Nepřipravte se i o tu druhou.
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: Kdy bude pokračování?
+  LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
+    Zdravím, [b]%s[/b].
+
+    Já a mí přátelé milujeme hrát [b]%s[/b]!
+    Hráli jste [b]%s[/b] už roky, a přejeme si, aby jste vytvořili pokračování!
+
+    Tu hru absolutně milujeme. Budeme ji hrát i během následujících let!
+    Pokud ale uděláte pkračování, koupíme si ho a řekneme o něm našim přátelům!
+        
+    Takže udělejte prosím pokračování!
+    Jste tak talentovaný, nemůžete nás zklamat!
+
+    Hráč ze sklepa
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Pokračování?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
+    Cítím se zklamán. Doslova. Všichni mí přátelé a já jsme hráli [b]%s[/b] a...není to nic jako originál!
+
+    Sice jsme si tu hru pořád koupili a dohráli, ale hra s větší kvalitou by byla lepší.
+
+    Hráš ze sklepa
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s je skvělé pokračování!"
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
+    Přesně to, co jsme chtěli! Je to fantastické pokračování!
+    Mluvil jsem o něm pořád s mými přáteli. Vypadá to, že tu hru budeme hrát hodně dlouho.
+
+    [b]%s[/b] splnilo naše očekávání! Velké díky!
+
+    Hráč ze sklepa
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: Neuvěřitelné!!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
+    [b]%s[/b] mi bere dech!
+
+    Grafika, hratelnost, hudba...Všechno je tak perfektní.
+    Ve vytváření her se naše studio stalo mistry!
+
+    Všichni jsou s tímto pokračováním tak nadšení! Koupil jsem ho už desetkrát, abych ho dal rodině a přátelům!
+
+    Jste fakt nejlepší!
+    Strašně děkuju!
+
+    Hráč ze sklepa
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s je populární"
+  LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
+    Ahoj [b]%s[/b],
+
+    vydání [b]%s[/b] je opravdový zlom v současných trendech.
+    Fanoušci chtějí více a více a více s tématikou "[b]%s[/b]".
+
+    Je to nový trend, který nebude mít ale příliš velkého trvání. Radši ho pro svůj užitek využijte rychle.
+  LABEL_PLATFORM_NEWS: Zprávy o platformách
+  LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Vytížení kvůli online hrám
+  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Vytížení kvůli distribuční platformě
+  TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
+    Zahrnuje vytížení serverů pouze z her, které nebyly vydány na vaší distribuční platformě.
+
+    To znamená, že vytížení z her, které na vaší platformě byly zveřejněny, jsou započítávány 
+    do vytížení té platformy.
+  LABEL_PAID_UPDATE_SALES: Prodeje DLC
+  LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Upravit barvu konzole
+  LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Year-end Gala
+  LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
+    Dobrý den [b]%s[/b],
+
+    Společnost nezávislých vývojářů má to potěšení vás pozvat na svou slavnost, která se pořádá na konci roku. Ohodnotíme vaši společnost [b]%s[/b], přičemž bude určeno a posléze do globálních žebříčků nahráno její skóre.
+    Come and see us again soon.
+
+    PS:
+    Hra na konci tohoto roku skončí. Zatímco můžete pokračovat v hraní i po tom datu, neobjeví se žádné nové konzole nebo komponenty
+  LABEL_PINBALL_CITY_GAME_STUDIO: Pinball
+  LABEL_PINBALL_SNEAK_IN: Pinball Sneak In
+  LABEL_SUBMIT_TO_ALL_COMPETITORS: Kontaktovat všechnu zbývající konkurenci.
+  LABEL_GRANTENDO_DENY_PARTNERSHIP: "Parterství Grantendo/Deny"
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
+    [b]Grantendo[/b] nedávno oznámilo, že v partnerství s [b]Deny[/b] vydá verzi [b]Super Grantendo[/b] s podporou pro CD-ROM! Zařízení má být představeno na trh v lednu 1993. Krátce po oznámení získali vývojáři třetích stran vyvíjející pro [b]Grantendo[/b] technické specifikace a byli pozváni na konferenci, která bude věnována podrobnostem nového zařízení. Zde se také dozví o jeho vynikajících schopnostech a funkcích, včetně podpory režimu celé obrazovky, FMV, kompatibility s CD-ROM XA a osmi megabajty RAM. Pokud ale nejste inženýřem, tahle slova vám toho moc říkat nemusí.
+
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION: |
+    Den po oznámení [b]CD-ROM verze Super GES Grantendo[/b] oznámilo, že uzavřelo dohodu s firmou [b]Moris[/b], která je jedním z největších rivalů [b]Deny[/b].
+
+    [b]Grantendo[/b] se na nizozemského giganta v oblasti elektroniky [b]Moris[/b] obrátilo v pokusu zachovat si svou dominaci na 4,7 miliardovém herním trhu poté, co podepsalo s [b]Deny[/b] dohodu, kterou někteří experti označili jako nevýhodnou.
+
+    Pro zákazníky bude výsledkem jen další zmatek, až příští rok dorazí na trh nové platformy.
+
+    [b]Deny[/b] plánuje pro [b]GameStation[/b] vydávat své vlastní hry. Oznámení od [b]Moris[/b] a vyvolaný zmatek kolem vztahu [b]Grantenda[/b] s [b]Deny[/b] snížilo pozornost na nové výkonnější verzi [b]Super GES[/b], kterou [b]Grantendo[/b] už dlouhp připravovalo.
+
+    [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
+  LABEL_SAGA_PROTYPE_VR: "Saga oznamuje první konzoli s VR"
+  LABEL_SAGA_RV_ANNOUNCEMENT: |
+    Virtuální realita.
+
+    Termín se poprvné objevil jako sci-fi koncept počítačových operátorů, kteří by se mohli vcítit do umělého a neexistujícího prostředí. Nicméně, termín byl brzy převzat marketingovými společnostmi, které ho začaly používat na vše od herních center Virtuality po nejnovější střílečky z pohledu první osoby. Mnozí tvrdí, že pojem byl měl označovat alespoň 3D audiovizuální prostředí, které obklopuje hráče, který s ním mlže interagovat.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+
+    [b]Saga[/b] oznámila, že pracuje na VR headsetu pro svou konzoli. Jeho vydání je naplánováno na [b]jaro 1993[/b]. Je tu avšak více technologicky vyspělejších (a dražších) systémů od vývojem, včetně senzorů pohybu a rukavic s nimi vybavenými, komory s obklopujícím videem and zvuk z více zdrojů. Nicméně, zatím si bude muset herní komunita vystačit s obyčejnými brýlemi a sluchátky.
+  LABEL_SAGA_RV_VANISHES: |
+    Oznámený VR headset od [b]Sagy[/b] se několikrát dříve objevil v několika magazínech a veletrzích. Naposled bylo možné o něm něco zaslechnout v roce 1993. Za zavřenými dveřmi byl ukázán neohromenému publiku, přičemž jeden novinář popsal hru, kterou hrál, jako 'nereagující a rozmazaný nepořádek, který rychle zklamal očekávání'.
+
+    Celý projekt nikdy nedospěl k jiné než prototypové fázi a [b]Saga[/b] oficiálně oznámila jeho zrušení po tom, co se několik testerů během pohybu s headsetem zranilo. Řekli, že pocit vtažení do prostředí a realismus byly tak vysoké, že by to mohlo teoreticky způsobit dětem zranění.
+
+    Nicméně, kdokoliv, kdo headset skutečně vyzkoušel ví, že to je vzhledem k limitacím hardwaru nemožné. Projekt byl pravděpodobně spíše zrušen kvůli tomu, že se nedařilo dosáhnout vyžadovaného efektu. Byla tu mnohá hlášení testerů, kteří dostali během hraní nemoc z pohybu. Žádná ze čtyř počátečních her nebyla oznámena veřejnosti a žádné další tituly oznámeny nebyly. Neschopná vytvořit ten realistický, pohlcující pocit, který slíbila, [b]Saga[/b] ukončila projekt v roce 1994 a její VR headset se tiše vytratil.
+
+    [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
+  LABEL_MINI_GAMES_FX: Vizuální efekty miniher
+  LABEL_RESTART_REQUIRED: Vyžadovaný restart
+  LABEL_DARK_MODE: Temný režim
+  LABEL_LAST_12_MONTHS: Posledních 12 měsíců
+  LABEL_GOTY_PROBABILITY: Pravděpodobnost výhry ceny Hra roku
+  LABEL_EVENT_STOCK_YEARLY_TITLE: Roční výdělek z dividend
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
+    Drahý/á [b]%s[/b],
+
+    Stejně jako každý rok v tento stejný čas je naším
+    velkým potěšením naším akcionářům vyplatit dividendy.
+
+    %s
+
+    Spolu s dividendami ale přichází daně,
+    a tak z nich bylo strženo $[b]%s[/b].
+    Celkově tak dostanete $[b]%s[/b].
+
+    Hezký den.
+    Binogure    
+  LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
+    ‣ [b]%s[/b]: Jako akcionář vlastníte [b]%s[/b] akcií, což vám vydělá $[b]%s[/b].    
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
+    [i]S současné době vlastníte [b]%s[/b] akcií [b]%s[/b], takže dostanete $[b]%s[/b],[/i]
+    [i]což reprezentuje $[b]%s[/b] za akcii.[/i]
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s chce vykoupit %s!"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
+    Dobrý den, [b]%s[/b].
+
+    Máme zájem ve vykoupení [b]%s[/b]. Nicméně, v současné době vlastníte přes 50% akcií.
+    Bez vašeho souhlasu bude nemožné, aby akvizice proběhla.
+
+    Nabízíme vám proto výhodnou nabídku.
+    V současné době mají vaše akcie celkovou hodnotu [b]%s[/b]$. My jsme za ně ochotni zaplatit [b]%s[/b]$.
+    Vydělalo by vám to mnoho peněz a starost za studio by připadla jen nám [b]%s[/b].
+
+    Navíc to pro vás znamená o jednoho konkurenta méně.
+
+    V nepravděpodobném scénaři, že jste neochotni nám ty akcie prodat, jsme ochotni jít k soudu.
+
+    [i]Tohle je naše finální nabídka; žádné vyjednávání nebude.[/i]
+    [i]V bance vám zbývá [b]%s[/b]$.[/i]
+  BUTTON_ORDER_SENT: Nabídka poslána
+  LABEL_STOCK_MARKET: Akciový trh
+  LABEL_CONCURRENT_BUY_STOCK: Koupit akcie konkurence
+  LABEL_TRADING_PANEL: Obchodní panel
+  LABEL_STOCKS_QUANTITY_TO_BUY: Množství akcií k odkoupení
+  LABEL_STOCKS_QUANTITY_TO_SELL: Množství akcií k prodání
+  LABEL_STOCKS_COSTS: Cena za akcii
+  LABEL_STOCKS_OWNED: Počet vlastněných akcií
+  LABEL_STOCKS_VALUE: Hodnota akcií
+  LABEL_STOCKS_QUANTITY: Množstí akcií
+  LABEL_STOCKS_BUY_PRICE: Cena akcií k odkoupení
+  LABEL_STOCKS_SELL_PRICE: Cena akcií v prodání
+  LABEL_TRADE_HELP: Nápověda
+  LABEL_DEVKITS: Devkity
+  LABEL_NO_CONCURRENT_REMAINING: Žádná zbývající konkurence
+  LABEL_END_OF_EXCLUSIVITY: Podmínky exkluzivity
+  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Odhadované množství her
+  LABEL_NUMBER_OF_DEVKITS: Množství devkitů
+  LABEL_NUMBER_OF_DEVKITS_REMAINING: Množství zbývajících devkitů
+  LABEL_EXCLUSIVITY_DURATION: Trvání exkluzivity
+  LABEL_FILTER_NONE: Žádný
+  LABEL_FILTER_ONLY_NO_CONTRACTS: Bez smlouvy
+  LABEL_FILTER_ONLY_CONTRACTS: Se smlouvou
+  TOOLTIP_SELECT_DIFFICULTY: |
+    Prosím vyberte obtížnost
+  LABEL_EASY: Snadná
+  LABEL_HARD: Obtížná
+  LABEL_REMAKE_ENGINE_BAD: >
+    V tomto remaku není nic nového. Je to jako úplně stejná hra.
+  LABEL_REMAKE_ENGINE_OK: >
+    Vývojáři věděli, jak využít nejnovější technologie. Jde o celkem solidní remake.
+  LABEL_REMAKE_ENGINE_GOOD: >
+    Perfektně využili sounejnovější technologie a výsledek vypadá faktasticky.
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Využití schopností konzole minulou hrou."
+  LABEL_REMAKE_CPU_USAGE: Využití CPU originální hrou
+  LABEL_REMAKE_GPU_USAGE: Využití GPU originální hrou
+  LABEL_REMAKE_TOOLTIP: |
+    Vyberte, jaké funkce z herního enginu chcete do remaku přidat.
+    Pro skvělý remake budete muset použít funkce, které jsou novější než originální hra.
+  LABEL_REMAKE_REVIEW: Celkové hodnocení
+  LABEL_DEVELOPPER_NAME: Vývojář
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: Většinou kladné
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: Velmi kladné
+  LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: Spíše kladné
+  LABEL_REMAKE_REVIEW_MIXED: Smíšené
+  LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: Spíše záporné
+  LABEL_REMAKE_REVIEW_VERY_NEGATIVE: Velmi záporné
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_NEGATIVE: Většinou záporné
+  LABEL_REMAKE: Remake
+  LABEL_REMAKE_DESCRIPTION_0: |
+    Zatímco jste se dívali na své první hry, řekli jste si, že by se s nimi mělo něco udělat.
+    Co třeba vytváření remaků?
+  LABEL_REMAKE_DESCRIPTION_1: |
+    Odteď můžete vytvářet remaky svých starých her.
+    Aby byl remake úspěšný, budete muset v enginech používat nejnovější funkce.
+  LABEL_TRAINING_REQUIRE_UNIVERSITY: |
+    Školení zaměstnanců vyžaduje univerzitu.
+
+    Žádná ale není dostupná - budete ji muset vybudovat.
+  LABEL_TRAINING_REQUIRE_EMPLOYEE: |
+    Musí být vybrán alespoň jeden zaměstnanec.
+  LABEL_TRAINING_REQUIRE_CAPACITIES: |
+    Musí být vybrána alespoň jedna oblast školení.
+
+    (Design, Vývoj, nebo Ladění)
+  LABEL_NEW_COMPETITOR_TITLE: Příchod nového konkurenta
+  LABEL_NEW_COMPETITOR_DESCRIPTION: |
+    [center][img]%s[/img][/center]
+
+    Dnes ráno bylo oznámeno, že společnost [b]%s[/b], nyní cenná miliony, se rozhodla přesunou do skvělého města City Game Studia.
+    Starosta města je potěšen:
+    [code]Nový investor, a to ten, který se k nám rovnou stěhuje! Dokazuje to, že děláme svou práce dobře. Přilákat velké společnosti není snadné...[/code]
+
+    Budeme si muset ještě počkat, jaký dopad to bude mít na již existující videoherní průmysl v oblast.
+  LABEL_MINIGAME_DEFEND_ANNOUNCE: |
+    Šéfe, někdo se pokouší cracknout [b]%s[/b]!
+    Musíme to nějak zastavit, než bude pozdě!
+    Stačí od vás jen jedno slovo!
+  LABEL_MINIGAME_DEFEND_START: |
+    Pojďme!
+  LABEL_MINIGAME_DEFEND_GIVEUP: |
+    Klidně ať se to stane...
+  LABEL_MINIGAME_LOSE: |
+    Vaše hra je dostupná na trhu zadarmo.
+    Prodeje budou značně zasaženy.
+  LABEL_MINIGAME_DEFEND_WIN: |
+    Gratuluji, skvělá práce!
+  BUTTON_CLICK_ME: Stiskni mě
+  LABEL_FIREWALL_SIMULATOR_TITLE: Proticrackovací simulátor
+  LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
+    Vaším cílem bude ochránit vaši hru před cracknutím.
+    K dosáhnutí toho cíle stačí co nejrychleji mačkat modrá tlačítka do té doby, než čísla na nich dosáhnou nuly.
+
+    Je to jednoduché, ale musíte být rychlí!
+  LABEL_GAME_UPDATE_NB: Počet aktualizací
+  LABEL_GAME_UPDATE_LAST: Datum poslední aktualizace
+  LABEL_SELLING_PRICE: Prodejná cena
+  LABEL_EMPLOYEE: Zaměstnanec
+  LABEL_MARKET_RESEARCH_NEW: Nový průzkum trhu
+  TOOLTIP_REQUIRE_MARKETING_MANAGER: |
+    Je potřeba marketingový manažer.
+    Čím lepší marketingový manažer je, tím rychlejší je průzkum trhu.
+  LABEL_MARKET_RESEARCH: Průzkum trhu
+  LABEL_MARKET_RESEARCH_TYPE: Typ průzkumu trhu
+  LABEL_GAME_TYPE_LIST: Seznam herních žánrů
+  LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: Analyzovat cílové publikum
+  LABEL_MARKET_RESEARCH_NONE: Žádný aktivní průzkum trhu
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: Třída je už volná.
+  LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
+    Gratuluji, právě skončilo školení vašich zaměstnanců.
+    Pokud chcete podniknout další kolo, máte už volnou jednu či více tříd.
+  LABEL_UNIVERSITY_TRAINING: Školení
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: Přednáškový sál
+  LABEL_UNIVERSITY_SIT: Počet židlí
+  LABEL_UNIVERSITY: Univerzita
+  LABEL_UNIVERSITY_MANAGE_TRAINING: Spravovat školení
+  LABEL_UNIVERSITY_TRAINING_TYPE: Typ školení
+  LABEL_UNIVERSITY_LECTURE_HALL: Počet přednáškových sálů
+  LABEL_UNIVERSITY_AUTOTRAINING: Automatické školení
+  LABEL_UNIVERSITY_ABANDON: Opustit budovu
+  LABEL_UNIVERSITY_DESTROY: Zbourat budovu
+  LABEL_UNIVERSITY_GLOBAL_TRAINING: Obecné školení
+  LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specifické školení
+  LABEL_UNIVERSITY_TRAINING_LIST: Sezname školení
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Žádná školení
+  LABEL_SOFA: Pohovka
+  LABEL_MISC: Různé
+  LABEL_MINUTES: minut
+  LABEL_VIEW_MORE: Zobrazit více...
+  LABEL_GAME_INDUSTRY_NEWS: Zprávy z herního průmyslu
+  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s odkupuje %s za %s"
+  LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
+    Herní vývojář a vydavatel, známý jako tvůrce například [b]%s[/b], byl odkoupen společností [b]%s[/b] nabídkou v hodnotě až [b]%s[/b].
+
+    [b]%s[/b] zveřejnila prohlášení, že zaplatí [b]%s[/b] za akcii společnosti. Očekává se, že obchod se uzavře v první čtvrtině roku.
+    Tato akvizice navýší počet titulů pod značkou [b]%s[/b].
+    CEO [b]%s[/b] akvizici okomentoval:
+    [indent]Náš průmysl neustále roste, a spolu budeme v pozici, ze které ho v této nové éře zábavního průmyslu budeme vést.[/indent]
+  LABEL_GAMEENGINE_NOT_ENOUGH: >
+    Tati hra nevyužila schopností konzole naplno.
+  LABEL_MARKETSHARE_KRASHING: >
+    Tato konzole trpí z příšerné reputace, což omezuje prodeje. Je doporučeno od ní už zůstat dál.
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Zde jsou vaše finanční výsledky. Ukazují vaše výdělky a ztráty.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Ceny pronájmů jsou významnou ztrátou. Mohli byste buď budovy kupovat, nebo pronajímat menší a zavřít ty, které vás stojí nejvíce.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    Výplaty jsou velkou ztrátou. Zkuste zvážit propouštění některých zaměstnanců.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    Vlastníte mnoho automatů, což je zátěž pro rozpočet
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Servery jsou velmi drahé. Pokud máte nějaké nepoužité, měly by se prodat.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    Utrácíte mnoho na marketingu. Možná zvažte zastavení některých kampaní a účast na výstavách.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    Zdá se, že vaše půjčky jsou velmi drahé. Pokud je to možné, splaťte je s dražší, ale delší půjčkou.
+  LABEL_LOSING_MONEY_HARD: >
+    Utrácíte více, než vyděláváte. Pokud chcete zjistit, co stojí nejvíce, podívejte se na své finanční detaily.
+  LABEL_SUBSCRIPTION: Předplatné
+  LABEL_PLATFORM_NOT_POWERFULL: >
+    Tato platforma není dostatečně výkonná
+  BUTTON_RELEASE_ALL: Vydat vše
+  TOOLTIP_RELEASE_ALL_BUTTON: |
+    Vydá všechny hry, konzole a kontrakty,
+    které jsou připraveny.
+  LABEL_PLATFORM_LIST_GAME: Seznam videoher
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Je dostupná nová komponenta
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Zdravím %s,
+
+    jsem potěšen, že mohu oznámit vydání naprosto nové komponenty.
+    Je to kompletně nový [b]%s[/b]. Inženýři, kteří ho navrhovali, jsou pyšní, že ho mohou představit.
+    [center][img]%s[/img][/center]
+    Přeji vám hezký den,
+
+    S pozdravem
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Zpráva o prodeji konzole
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Zdravím %s,
+
+    další email k zaplnění vaší schránky. Tento ale obsahuje dobrou zprávu.
+    Jsem tu, abych vám řekl o redukci výrobních cen ohledně konzolí.
+
+    %s
+
+    To bude vše.
+    Hezký den.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    Výrobní ceny [b]%s[/b] zmenšeny o [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    Platforma %s není zatím dostupná
+  LABEL_PLATFORM_NO_COMPONENT: |
+    Žádné vybrané komponenty
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Redukce ve výrobních cenách
+  LABEL_FILTER_PLATFORM_RELEASED: Vydané platformy
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Stažené platformy
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Upraví kvalitu konzole.
+    
+    Od konzole s nízkou kvalitou se očekává, že bude mnohem častěji selhávat.
+    Zákazníci, kteří si koupili vadnou konzoli, mají vždy nárok na vrácení peněz.
+  LABEL_PLATFORM_DISCONTINUE: Zrušit produkci
+  LABEL_PLATFORM_CHANGE_PRICE: Upravit cenu
+  LABEL_PLATFORM_UNIT_RETURNED: Vráceno kusů 
+  LABEL_PLATFORM_COST_RATIO: Poměr ceny
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Ovladač
+  LABEL_PLATFORM_COMPONENT_CPU: Procesor
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartridge
+  LABEL_PLATFORM_COMPONENT_MEMORY: Paměť
+  LABEL_PLATFORM_COMPONENT_GPU: Grafická karta
+  LABEL_PLATFORM_COMPONENT_SCREEN: Obrazovka
+  LABEL_PLATFORM_COMPONENT_BOX: Provedení konzole
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Pevný disk
+  LABEL_PLATFORM_MAKING_COSTS: Výrobní ceny
+  LABEL_PLATFORM_UNLOCK_COSTS: Cena odemčení
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Cena vývoje
+  LABEL_PLATFORM_QUALITY: Kvalita
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Odhadované výrobní ceny
+  LABEL_PLATFORM_UNIT_PROFIT: Profit za kus
+  LABEL_PLATFORM_NAME: "Název platformy"
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    Tato vydavatelská nabídka je podložena grantem $%s.
+    Pokud nedosáhnete minimálního skóre %d%%, obdržíte pokutu v hodnotě %s$.
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    K pronajmutí specialisty musíte mít volný stůl.
+  LABEL_CUSTOM_CONSOLE: Vývoj konzole
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Vytvořte vlastní videoherní konzoli.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Vyberte komponenty sestavte konzoli a připravte se na marketingovou kampaň!
+    K dosažení co nejlepších výsledků najměte účetní a marketingového manažera.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Nelze načíst uloženou hru, protože byla vytvořena v novější verzi hry
+  LABEL_GAME_CANCELED: Hra zrušena
+  LABEL_EMPLOYEE_FIRED: Zaměstnanec vyhozen
+  LABEL_ASSIGN_SPECIALIST: Přiřadit specialisty.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Přiřaďte účetního ke snížení daní.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Přiřaďte marketingového manažera ke zvýšení popularity hry.
+  LABEL_PRODUCER_TOOLTIP: |
+    Přířaďte producenta k vytvoření větší hry a
+    k navýšení produktivity zaměstnanců.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Přiřaďte síťového administrátora k optimalizaci serverů, aby
+    bylo na jednoho hráče potřeba méně výkonu.
+  LABEL_INTERVIEW_INDIE: |
+    Zdravím,
+    jmenuji se Bruno Trigger. Každou středu jsem hostem show [i]3615 Dorian[/i] o nezávislýchh vývojářích. 
+    Jako velký fanoušek [b]%s[/b] bych se vás chtěl zeptat na několik otázek pro náš herní večer s [b]%s[/b].
+    Máte chvilku?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    Vždycky jsem snil o tom, že se stanu nezávislým herním vývojářem! Být svým vlastním šéfem a mít kolem sebe milující komunitu...To je sen!
+    Naše malá komunita se skládá z fanoušku her [b]%s[/b]. Na co by jsme se měli zaměřit, pokud chceme vytvořit hru?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Náš expert Dorian souhlasí, stejně tak i komunita kolem [i]3615 Dorian[/i]. [b]%s[/b] je to, na co jsme všichni čekali!
+  LABEL_INTERVIEW_BIG: |
+    Dobrý den,
+    jsem Gio Tard a pracuji pro [i]Rock Paper Pistol[/i]. [b]%s[/b] vypadá jako zajímavý projekt, a tak bych se vás chtěl zeptat na pár věcí pro článek.
+    Máte pár minutek?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    Po [b]%d[/b] letech existejnce jste vydali první AAA hru. S [b]%s[/b] vstupujete do velké ligy průmyslu.
+    Chtěli bychom vědět, zda bude podle vás [b]%s[/b] jmenováno Hrou roku [b]%d[/b]?
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] má křišťálovou kouli! Předpovídání Hry roku rozhodně není snadný počin!
+    Pravděpodobně musí mít velmi rozsáhlé znalosti ohledně vnitřního fungování průmyslu!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Káždý se může zmýlit, ať už já, vy, nebo všichni. Jedna věc je ale jistá - [b]%s[/b] rozhodně budoucnost nepředpovídá!
+    Lidé se učí více ze svých chyb než ze svých úspěchů. Tak či tak, je to ostatně něco, co bychom pravděpodobně v [b]%s[/b] slyšeli často.
+  LABEL_INTERVIEW_BIG_YES: |
+    Po tak velkém množství podniknuté práce je to téměř jisté.
+  LABEL_INTERVIEW_BIG_NO: |
+    Byli bychom překvapeni, kdyby tomu tak doopravdy bylo!
+  LABEL_INTERVIEW_REFUSAL: |
+    Omlouvám se za ztrácení vašeho času.
+  LABEL_INTERVIEW_ACCEPT: |
+    Samozřejmě.
+  LABEL_ADVANCED_START_TOOLTIP: |
+    Poku je tohle vaše první hra, je nejlepší nechat tohle pole nezaškrtnuté.
+
+    Pokročilý start odemyká všechny funkce hry hned od jejího začátku.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: Množství vytvořených bodů
+  LABEL_REQUIRE_FANBASE: Potřeba %s fanoušků k navýšení prodejů
+  LABEL_MAINTENANCE: Údržba
+  LABEL_PLATFORM_COMPATIBILITY: Kompatibilita
+  LABEL_DETAILS_MAIN: Podrobnosti hry
+  LABEL_DETAILS_SHOWN: Ukázat všechny grafy a podrobnosti
+  LABEL_DETAILS_HIDDEN: Schovat všechny grafy a podrobnosti
+  LABEL_AUTO_ADJUST: Automaticky nastavit
+  LABEL_MISC_SETTINGS: Různá nastavení
+  LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Ukázat pouze modifikace, které odebíráte
+  LABEL_MOD_UNSUBSCRIBE: Přestat odebírat
+  LABEL_MOD_BRANCH: Větve Steam
+  LABEL_MOD_BRANCH_TOOLTIP: |
+    Zaškrtněte tohle pole, pokud chcete spravovat více větví Steam verze.
+    Na každou větev budete potřebovat vytvořit vlastní složku (default, unstable, oldstable).
+  LABEL_MOD_MISSING: >
+    Chybějící modifikace; uložená hra nemůže být načtena
+  LABEL_MOD_BANNED: Modifikace byla zablokována
+  LABEL_MOD_AGREEMENT: |
+    Nahráním této položky souhlasíte s [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]podmínkami použití Steam Workshopu[/url]
+  LABEL_MOD_VERSION: Verze
+  LABEL_MOD_CREATE: Vytvořit modifikaci
+  LABEL_MOD_LIST: Seznam modifikací
+  LABEL_MOD_NAME: Název
+  LABEL_MOD_DESCRIPTION: Popis
+  LABEL_MOD_LANGUAGE: Jazyk
+  LABEL_MOD_VISIBILITY: Viditelnost
+  LABEL_MOD_VISIBILITY_PUBLIC: Veřejná
+  LABEL_MOD_VISIBILITY_FRIENDS: Pouze přátelé
+  LABEL_MOD_VISIBILITY_PRIVATE: Soukromá
+  LABEL_MOD_VISIBILITY_UNLISTED: Nenahráno
+  LABEL_MOD_IMAGE_PREVIEW: Náhledový obrázek
+  LABEL_MOD_VIDEO_PREVIEW: Náhledové video
+  LABEL_MOD_PATH: Absolutní umístění
+  LABEL_MOD_PUBLISHED_DATE: Datum zveřejnění
+  LABEL_MOD_UPDATE: Aktualizovat
+  LABEL_MOD_VALIDATE: Validovat
+  LABEL_MOD_NOT_VALID: Invalidní
+  LABEL_MOD_CREATED: Modifikace vytvořena
+  LABEL_MOD_UPDATED: Modifikace nahrána
+  TOOLTIP_HOLD_TO_CLICK: |
+    Držte ke stisknutí
+  LABEL_GAME_EXCLUSIVITY: >
+    Tato hra je exkluzivitou pro %s
+  LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
+    Dobrý den, [b]%s[/b].
+
+    Jsem potěšen tím, že vaše studio publikuje kvalitní hry. Přišel jsem si promluvit o [b]%s[/b] - ta hra vypadá velmi slibně, chtěl bych vám pomoct k tomu, aby se z ní stal celosvětový úspěch! [b]%s[/b] bude námi jednak propagováno, a jednak přibaleno ke každému kusu naší konzole. Na oplátku chceme, aby šlo o [b]%s[/b] exkluzivitu. [i](Všechny porty pro pkonzole, které nejsou od společnosti [b]%s[/b], budou zrušeny)[/i]
+    Kromě propagace vaší hry vám nabídneme i [b]%s$[/b]. Co na to říkáte?
+  LABEL_CLOUDS: Ukázat mraky na mapě
+  LABEL_AUTOSAVE: Automatické ukládání
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
+    Konkurent používá váš engine
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
+    [b]%s[/b] vydalo hru, která používá vás herní engine ([b]%s[/b]).
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
+    Díky [b]%s[/b] budete dostávat [b]%d%%[/b] z výdělků.
+  LABEL_PLATFORM_SELECT_OFFER: |
+    Přizpůsobit nabídku
+  LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
+    Trvání exkluzivity: [b]%s[/b] měsíců
+  LABEL_PLATFORM_MONEY_OFFER: |
+    Nabídnutá částka: [b]%s$[/b]
+  LABEL_GAMEENGINE_DELETE_TITLE: Odstranit herní engine?
+  LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
+    Momentálně chcete odstranit engine [b]%s[/b].
+    Chcete opravdu pokračovat?
+  LABEL_PLATFORM_MANUFACTURER_MAIN: |
+    Co pro vás mohu udělat?
+  LABEL_PLATFORM_MANUFACTURER_ANGRY: |
+    Neztrácej můj čas!
+  LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
+    Na tuto platformu nemůžete vydávat hry.
+    Musíte k jejímu odemčení vyjednávat s jejím výrobcem.
+  LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
+    Na tuto platformu nemůžete vydávat hry.
+    Máte momentálně smlouvu o exkluzivitě s %s.
+  LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
+    Nemůžete podepisovat nové smlouvy, protože máte již smlouvu o exkluzivitě s %s.
+  LABEL_PLATFORM_EXCLUSIVE_DURATION: |
+    Zbývající čas exkluzivity s %s: %d měsíců
+  LABEL_PLATFORM_MANUFACTURER_CALL: |
+    Zavolat %s k vyjednávání
+  LABEL_PLATFORM_MANUFACTURER_WELCOME: |
+    Zdravím.
+
+    Jsem [b]%s[/b] a pracuji pro [b]%s[/b].
+    Co pro vás mohu udělat?
+  LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
+    Vývojem [b]%s[/b] jsme strávili mnoho let. Byl bych potěšen s vámi spolupracovat,
+    ale nejdříve by mě zajímalo, co vaše společnost může přinést naší konzoli [b]%s[/b].
+  LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
+    Odhadovaný počet prodaných kusů: [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_CHOICE: |
+    Chci vydávat hry na [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
+    To zní jako férová nabídka! Příjmáme ji!
+  LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
+    Tuto nabídku nemůžeme přijmout.
+  LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
+    Co říkáte na tohle?
+  LABEL_PLATFORM_MANUFACTURER_EXCLU: |
+    Platba [b]%s$[/b] pro licenci [b]%s[/b] a smlouva o exkluzivitě pro [b]%s[/b] na [b]%s[/b] měsíců.
+    (nebudete schopni vydávat hry na konzole jiných výrobců).
+  LABEL_PLATFORM_MANUFACTURER_LICENSE: |
+    Platba [b]%s$[/b] pro licenci [b]%s[/b].
+  LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
+    To je jedno.
+  LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
+    Děkuji za váš čas.
+  LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
+    Po chudých výsledcích v poslední čtvrtině roku 1982 a časném 1983 Wataggi oznámilo zhoršující se situacio na konzolovém trhu.
+    Gigant herního průmyslu je od dosažení svých cílů poněkud vzdálen; nedávno se mu podařilo prodat jen několik stovek konzolí
+    a kolem 2500 kazet. Stejná negativní situace vládne i na trhu domácích počítačů, což potvrzuje nejistoty, které v současné době
+    trh charakterizují.
+
+    Velcí hráči herního průmyslu očekávají těžké měsíce a není tu žádný náznak,
+    že se věci v dohlednu zlepší.
+  LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
+    Trh kolabuje
+  LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
+    Uprostřed léta oznámilo Wataggi, de facto vůdce herního průmyslu, ztráty až $356 million.
+    Plastics také zažívá velké obtíže a stahuje se z trhu. Proslýchá se,
+    že herní trh kolabuje kvůli tomu, aby uvolnil cestu mikropočítačům.
+
+    Ztráty Wataggi a Plastics, doprovázené velkými poklesy cen akcií na New York Stock Exchange,
+    vytvořily neospravedlňenou paniku. S 2 miliardami dolarů, které každý rok videoherní průmysl vydělá ve Spojených státech,
+    jde stále o solidní průmysl. Nicméně, rychlý růst, který jsme mohli vídat poslední dva roky se tak nějak vyrovnal.
+    Trh se pohybuje stále nahoru a dolů, přičemž poslední dobou byl poznamenán hlavně tím, že se konzole RobertoVision
+    od společnosti Roberto Industries pokouší konkurovat mikropočítačům - zařízením se solidním poměre cena/výkon.
+  LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
+    Trh se stabilizuje
+  LABEL_PLATFORM_TYPE: Typ platformy
+  LABEL_PLATFORM_OS: PC
+  LABEL_PLATFORM_CONSOLE: Konzole
+  LABEL_PLATFORM_HANDLED: Handheld
+  LABEL_WITHDRAW_EMPLOYEE: Stáhnout zaměstnance
+  TOOLTIP_GAME_UPDATE_EXPECTATION: |
+    Vyberte funkce k naplnění
+    hráčských očekávání.
+  TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
+    Čím starší engine je, tím dražší a obtížnější bude ho aktualizovat.
+    To se projeví v množství bodů, které jsou na aktualizaci potřeba.
+  LABEL_TOO_MUCH_TIME_SPENT: |
+    Buď váš vývojový tým nebyl správně vybalancován,
+    nebo jste strávili na položce %s v porovnání
+    s ostatními částmi vývoje příliš mnoho času.
+  LABEL_NOT_ENOUGH_TIME_SPENT: |
+    Buď váš vývojový tým nebyl správně vybalancován,
+    nebo jste na položce %s strávili v porovnání
+    s ostatními částmi vývoje příliš málo času.
+  LABEL_WARNING_THEME_MISSING: Vyberte prosím téma
+  LABEL_BUYABLE: Koupitelné
+  LABEL_IAP_ADD_MICROTRANSATION: >
+    Stisknutím modrého tlačítka můžete přidat mikrotransakci.
+  LABEL_NUMBER_OF_NEW_PLAYERS: Množství nových hráčů
+  LABEL_NUMBER_OF_RETURNING_PLAYERS: Množství vracejících se hráčů
+  LABEL_NUMBER_OF_PLAYER_LOST: Množství ztracených hráčů
+  LABEL_FEATURE_REQUIRED: >
+    Tato funkce vyžaduje následující moduly herního enginu:
+  LABEL_ESTIMATED_INCOME: Odhadovaný zisk
+  LABEL_ADS_WARNING: >
+    S reklamami buďte opatrní.
+    Reklamy ovlivňují schopnost hry udržet si hráče.
+  LABEL_IAP_WARNING: >
+    Hráči, kteří si hru koupili za peníze, nevidí reklamy rádi.
+    Stejně tomu tak je i s mikrotransakcemi
+  LABEL_IAP_NAME: Mikrotransakce
+  LABEL_IAP_PACK: "Balíček #%d"
+  LABEL_IAP_TYPE_POWER_BOOST: Navýšení síly
+  LABEL_IAP_POWER: Znásobení síly
+  LABEL_IAP_TYPE_COSMETIC: Kosmetická položka
+  LABEL_IAP_TYPE_LOOTBOX: Lootbox
+  LABEL_IAP_LIST: Seznam položek
+  LABEL_IAP_RARITY: Rarita
+  LABEL_IAP_RARITY_UNCOMMON: Neobyčejná
+  LABEL_IAP_RARITY_RARE: Vzácná
+  LABEL_IAP_RARITY_EPIC: Epická
+  LABEL_IAP_RARITY_LEGENDARY: Legendární
+  LABEL_FINANCIAL_DETAILS: Finanční detaily
+  LABEL_AD_NAME: Reklamy
+  LABEL_AD_POPUP: Vyskakující reklamy
+  LABEL_AD_BANNER: Bannerové reklamy
+  LABEL_NUMBER_OF_PLAYER: Počet hráčů
+  LABEL_GAME_ENGINE_LIST: Seznam herních enginů
+  LABEL_THEME_LIST: Seznam témat
+  LABEL_CONVENTION_MESSAGE: Výstavy
+  LABEL_GAME_ANNOUNCEMENT: Herní oznámení
+  LABEL_NO_FILTER: Žádný filtr
+  LABEL_GAME_UPDATE_EXPECTED: Očekávána aktualizace
+  LABEL_GAME_UPDATE_NOTEXPECTED: Aktualizace neočekávána
+  LABEL_MARKETING_CAMPAIGN_ACTIVE: Aktivní marketingová kampaň
+  LABEL_MARKETING_CAMPAIGN_INACTIVE: Žádná aktivní marketingová kampaň
+  LABEL_FANBASE_GAIN: Rostoucí fanouškovská základna
+  LABEL_FANBASE_LOSS: Změnšující se fanouškovská základna
+  LABEL_MONEY_MAKER: Výdělečné
+  LABEL_MONEY_LOSER: Nevýdělečné
+  LABEL_SELECT_ALL: Vybrat vše
+  LABEL_SELECT_NONE: Nevybrat nic
+  LABEL_FREE_GAME: Zdarma
+  LABEL_SUBSCRIPTION_PRICE: Cena předplatného
+  LABEL_GAME_PRICE: Cena hry
+  LABEL_UPDATE_PRICE: Cena DLC
+  LABEL_X_STUDIOS: "%d studií"
+  LABEL_RANDOM_SLIDER: Randomizovat' zaměření hry
+  LABEL_DISCOUNT: Vytvořit slevu
+  LABEL_ORGANIZE_YEARLY: Zorganizovat každoroční výstavu
+  LABEL_YEARLY: Roční
+  LABEL_GAME_UPDATE_REQUIREMENTS: Hráčská očekávání ohledně aktualizace
+  LABEL_GAME_UPDATE_HYPE: Hype kolem aktualizace
+  LABEL_GAME_UPDATE: Zveřejnit aktualizaci
+  LABEL_GAME_FREE_UPDATE: Aktualizace zdarma
+  LABEL_GAME_PAID_UPDATE: DLC
+  LABEL_REPAIR_ALL: Spravit vše
+  LABEL_UNIQUE: Unikátní
+  LABEL_DS_NO_PLATFORM_SUPPORTED: |
+    K aktivaci digitálního obchodu,
+    musíte podporovat alespoň jednu platformu.
+  LABEL_NOT_AVAILABLE: Nedostupné
+  LABEL_REQUIRED: Vyžadováno
+  LABEL_REVIEW_GAMEENGINE_BAD: >
+    Měli naplno využít schopností konzole
+  LABEL_REVIEW_GAMEENGINE_GOOD: >
+    Byli schopní z konzole dostat všechny její schopnosti
+  LABEL_GAME_ENGINE: Herní engine
+  LABEL_FEATURE_LIST: Seznam funkcí
+  LABEL_DESIGN_CAPACITY: Schopnost produkovat body designu
+  LABEL_DEVELOPMENT_CAPACITY: Schopnost produkovat body vývoje
+  LABEL_POLISH_CAPACITY: Schopnost produkovat body dokončení
+  LABEL_GAMEENGINE_MAKEFOSS: Zveřejnit zdarma
+  LABEL_GAMEENGINE_PENALITY: >
+    Kvůli starému kódu je herní engine složitější na aktualizaci.
+  LABEL_GAMEENGINE_READY: Herní engine připraven
+  LABEL_GAMEENGINE_UPDATE: Aktualizovat tento herní engine
+  LABEL_GAMEENGINE_LIST: >
+    Seznam herních enginů dostupných na trhu
+  LABEL_FOSS: Software zdarma a s otevřeným kódem
+  LABEL_PROPRIETARY: Proprietární
+  LABEL_OWNER: Interní
+  LABEL_PLATFORM_GPU_CAPABILITY: Grafická kapacita
+  LABEL_PLATFORM_CPU_CAPABILITY: Výpočtová kapacita
+  LABEL_PLATFORM_GPU_COSTS: Využití grafické kapacity
+  LABEL_PLATFORM_CPU_COSTS: Využití výpočtové kapacity
+  LABEL_GAMEENGINE_DONATION_TITLE: Obdrželi jste dar!
+  LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
+    Zdravím,
+
+    tento email potvrzuje, že jste obdrželi příspěvek v hodnotě [b]%s$[/b]
+    díky herními henginu [b]%s[/b]
+
+    S pozdravem,
+    BinoPal
+  LABEL_GAMEENGINE_FEATURE_TITLE: Implementována nová funkce
+  LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
+    Ahoj,
+
+    [b]%s[/b] má velmi rychle rozrůstající se komunitu.
+    Implementovala novou funkci:
+    [b]%s[/b]
+
+    Je to zdarma!
+  LABEL_GAME_ENGINE_TITLE: Nový technologie dostupná
+  LABEL_GAME_ENGINE_DESCRIPTION: >
+    Nová technologie je připravena k implementaci:
+  LABEL_GAMEENGINE_DESCRIPTION_0: >
+    Můžete nyní vytvářet vlastní enginy.
+    Herní enginy navyšují počet bodů produkované vašimi zaměstnanci. 
+  LABEL_GAME_ENGINE_OPEN_WORLD: Otevřený svět
+  LABEL_GAME_ENGINE_SANDBOX: Sandbox
+  LABEL_GAME_ENGINE_GESTURE_CONTROL: Pokročilá detekce pohybu
+  LABEL_GAME_ENGINE_MOTION_CONTROL: Jednoduchá detekce pohybu
+  LABEL_GAME_ENGINE_FACIAL_RECOGNITION: Rozeznávání obličeje
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: Jednoduchý anti-cheat
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: Anti-cheat spravován AI
+  LABEL_GAME_ENGINE_CROSS_PLAY: Multiplatformnost
+  LABEL_GAME_ENGINE_AUDIO_RECOGNITION: Rozeznávání hlasu
+  LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: Servery s nízkou latencí
+  LABEL_GAME_ENGINE_HIGH_DEF_DISPLAY: Vysoké rozlišení
+  LABEL_GAME_ENGINE_ULTRA_HIGH_DEF_DISPLAY: Ultra vysoké rozlišení
+  LABEL_GAME_ENGINE_AR_32BITS: Rozšířená realita
+  LABEL_GAME_ENGINE_AI_POWERED_DIFFICULTY: Obtížnost spravovaná AI
+  LABEL_GAME_ENGINE_REALISTIC_CHARACTER: Realistické postavy
+  LABEL_GAME_ENGINE_ADS: Modul na reklamy
+  LABEL_GAME_ENGINE_IAP: Modul na mikrotransakce
+  LABEL_GAME_ENGINE_2D_1BITCOLOR: 2D grafika monochromatická
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: 2D grafika 8-bitová
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: 2D grafika 16-bitová
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: 2D grafika 24-bitová
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: 2D grafika 32-bitová
+  LABEL_GAME_ENGINE_3D_1BITCOLOR: 3D grafika monochromatická
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: 3D grafika 8-bitová
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: 3D grafika 16-bitová
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: 3D grafika 24-bitová
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: 3D grafika 32-bitová
+  LABEL_GAME_ENGINE_VR_32BITCOLOR: VR grafika
+  LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: Vocelová grafika
+  LABEL_GAME_ENGINE_BASIC_DIALOG: Základní dialogy
+  LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: Interaktivní dialogy
+  LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: Dialogy generované AI
+  LABEL_GAME_ENGINE_JOYSTICK: Podpora pro joystick
+  LABEL_GAME_ENGINE_GAMEPAD: Podpora pro gamepad
+  LABEL_GAME_ENGINE_MOUSE: Podpora pro myš
+  LABEL_GAME_ENGINE_PREBUILT_CHARACTER: Vestavěné postavy
+  LABEL_GAME_ENGINE_CUSTOMIZABLE_CHARACTER: Přizpůsobitelné postavy
+  LABEL_GAME_ENGINE_DIFFICULTY: Obtížnost
+  LABEL_GAME_ENGINE_DYNAMIC_DIFFICULTY: Dynamická obtížnost
+  LABEL_GAME_ENGINE_MAP_EDITOR: Editor mapy
+  LABEL_GAME_ENGINE_MOD_SUPPORT: Podpora modů
+  LABEL_GAME_ENGINE_MONO_SOUND: Mono zvuk
+  LABEL_GAME_ENGINE_MIDI_SOUND: Midi zvuk
+  LABEL_GAME_ENGINE_STEREO_SOUND: Stereo zvuk
+  LABEL_GAME_ENGINE_51_SOUND: Prostorový zvuk
+  LABEL_GAME_ENGINE_BASIC_MUSIC: Základní hudba
+  LABEL_GAME_ENGINE_ORCHESTRAL_MUSIC: Orchestrální hudba
+  LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: Interaktivní hudba
+  LABEL_GAME_ENGINE_PASSWORD_SAVE: Ukládání závislé na heslu
+  LABEL_GAME_ENGINE_BASIC_SAVE: Základní ukládání
+  LABEL_GAME_ENGINE_CLOUD_SAVE: Cloudové ukládání
+  LABEL_GAME_ENGINE_BASIC_PHYSICS: Základní fyzika
+  LABEL_GAME_ENGINE_ADVANCED_PHYSICS: Pokročilá fyzik
+  LABEL_GAME_ENGINE_REALISTIC_PHYSICS: Realistická fyzika
+  LABEL_GAME_ENGINE_DEDICATED_SERVER: Dedikované servery
+  LABEL_GAME_ENGINE_SOCIAL_NETWORK_INTEGRATION: Integrace sociálních sítí
+  LABEL_GAME_ENGINE_SIMPLE_ANIMATION: Jednoduché animace
+  LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: Dynamické animace
+  LABEL_GAME_ENGINE_AI_BASED_ANIMATION: Animace založené na AI
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: Základní tutoriál
+  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: Interaktivní tutoriál
+  LABEL_GAME_ENGINE_LOADING_SCREEN: Načitací obrazovka
+  LABEL_GAME_ENGINE_BACKGROUND_LOADING: Načítání na pozadí
+  LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: Jednoduché cutscény
+  LABEL_GAME_ENGINE_ADVANCED_CINEMATIC: Pokročilé cutscény
+  LABEL_GAME_ENGINE_REALISTIC_CINEMATIC: Realistické cutscény
+  LABEL_GAME_ENGINE_LEADERBOARD: Žebříčky
+  LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: Cloudové žebříčky
+  LABEL_BUSY: Zaneprázdněn
+  LABEL_AVAILABLE: Dostupný
+  LABEL_AUTOATTEND_CONVENTION: Automaticky se účastnit všech veletrhů.
+  LABEL_SERVER_CAPACITY: Kapacita serverů
+  LABEL_SERVER_RENT_CAPACITY: Kapacita pronajatých serverů
+  LABEL_TOTAL_COST: Celkové ceny
+  LABEL_RENT_SERVER_COST: Ceny pronajímání serverů
+  LABEL_SERVER_USAGE_THRESHOLD: >
+    Pronajmout nové servery hned, jak jejich zatíženost překročí tuto hranici:
+  LABEL_STEAM_NOT_DETECTED: |
+    Steam nemůže být dosažen.
+
+    Prosím, restartujte Steam.
+    Pokud problém setrváv, kontaktujte nás prosím na adrese:
+    contact@binogure-studio.com
+  LABEL_ONLINE_GAMES: Online hry
+  LABEL_CLOUD_SERVER: >
+    Cloudová výpočetní kapacita je dostupnost serverových zdrojů závislá na poptávce
+  TOOLTIP_CLOUD_SERVERS: |
+    Už žádné velké budovy na všechny ty servery
+  LABEL_RENT_SERVERS: Pronajmout servery
+  LABEL_ENABLED: Zapnuto
+  LABEL_DISABLED: Vypnuto
+  LABEL_TOTAL_UNIT_SOLD: Celkově prodán kusů
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: Tato herní platforma není podporována vaší distribuční platformou
+  LABEL_DISCONTINUE_PLATFORM_TITLE: Ukončit pro platformnu podporu
+  LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
+    Stále prodáváte alespoň jednu hru na '%s' před vaši distribuční platformu.
+
+    Jste si jistí, že chcete přestat '%s' podporovat?
+  TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
+    Pokud chcete podporovat více než jednu platformu,
+    budete muset pro vaši distribuční platformu implementovat funkci Multiplatforma.
+  LABEL_DS_SUPPORT_ALL_PLATFORMS: Podporovat všechny platformy
+  LABEL_NUMBER_OF_PLATFORMS: Počet platforem
+  LABEL_SERVER_LOAD: Vytížení serverů
+  LABEL_SALES_BONUS: Bonusy v prodejích
+  LABEL_SERVER_COST: Ceny serverů
+  LABEL_DS_SALES: Prodeje her
+  LABEL_DS_PLATFORMCUT: Podíl distribuční platformy
+  LABEL_DS_CCU: Souběžných uživatelů
+  LABEL_DS_CHAT_TITLE: Zprávy
+  LABEL_DS_CHAT_DESCRIPTION: |
+    Umožňuji uživatelům si s ostatními instantně psát zprávy.
+  LABEL_DS_FORUM_TITLE: Fórum
+  LABEL_DS_FORUM_DESCRIPTION: |
+    Umožňuje uživatelům zveřejňovat na platformě zprávy.
+  LABEL_DS_CROSSPLATFORM_TITLE: Multiplatforma
+  LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
+    Přidá podporu pro více platforem.
+  LABEL_DS_BOTPROTECTION_TITLE: Ochrana proti botům
+  LABEL_DS_BOTPROTECTION_DESCRIPTION: |
+    Ochrana proti útokům botů.
+  LABEL_DS_WORKSHOP_TITLE: Workshop
+  LABEL_DS_WORKSHOP_DESCRIPTION: |
+    Umožňuje uživatelům sdílet modifikace, které vytvořili.
+  LABEL_DS_SUPPORT_TITLE: Podpora
+  LABEL_DS_SUPPORT_DESCRIPTION: |
+    Přidá do distribuční platformy technickou podporu.
+  LABEL_DS_REVIEW_TITLE: Recenze
+  LABEL_DS_REVIEW_DESCRIPTION: |
+    Umožní uživatelům psát k hrám recenze.
+  LABEL_DS_STORE_TITLE: Obchod
+  LABEL_DS_STORE_DESCRIPTION: |
+    Umožní konkurenci prodávat hry na vaší distribuční platformě.
+  LABEL_DS_ANALYTICS_TITLE: Analytika
+  LABEL_DS_ANALYTICS_DESCRIPTION: |
+    Umožní kolekci dat o chování uživatele.
+  LABEL_DS_INVENTORY_TITLE: Inventář
+  LABEL_DS_INVENTORY_DESCRIPTION: |
+    Umožní uživatelům vlastnit, vyměňovat a prodávat předměty.
+  LABEL_DS_WISHLIST_TITLE: Seznam přání
+  LABEL_DS_WISHLIST_DESCRIPTION: |
+    Umožní uživatelům přidat si hru do seznamu přádní.
+  LABEL_DS_ACHIEVEMENTS_TITLE: Achievementy
+  LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
+    Umožní uživatelům sledovat jejich pokrok ve hře.
+  LABEL_DS_GIFTCARDS_TITLE: Dárkové kupony
+  LABEL_DS_GIFTCARDS_DESCRIPTION: |
+    Přidá novou platební metodu.
+  LABEL_DS_MARKETPLACE_TITLE: Trh
+  LABEL_DS_MARKETPLACE_DESCRIPTION: |
+    Umožní uživatelům prodávat své hry.
+  LABEL_DS_SALES_TITLE: Slevy
+  LABEL_DS_SALES_DESCRIPTION: |
+    Umožní vám vytvářet pro hry slevy.
+  LABEL_HIRING_COSTS: Ceny najmutí
+  LABEL_COMPLETE: Dokončeno
+  LABEL_DRAG_ICON_TO_DOWNLOAD: |
+    Vyberte a táhněte ikonu
+    k započnutí stahování
+  LABEL_CLOSE_POPUP: Zavřete vyskakovací okno k pokračování
+  LABEL_CLOSE_CAT_POPUP: |
+    Zavřete vyskakovací okna s kočkami
+    k pokračování stahování
+  LABEL_SETTING_UP_FIREWALL: Aktivování Firewallu
+  LABEL_PRESS_ANY_KEY: Stiskněte k hackování jakoukoliv klávesu
+  LABEL_HACKED: |
+    Hackování dokončeno.
+    Gratuluji!
+  LABEL_HACKING_INTRODUCTION: |
+    Vítejte do Hackerského simulátoru.
+    Z započnutí hackování stiskněte 'Start'
+  LABEL_OPEN_CONSOLE: Stiskněte 'Start' k hackování
+  LABEL_DOWNLOADING: Stahování
+  LABEL_TARGET_LOCALIZING: Detekováno vniknutí
+  LABEL_CONNECTION_LOST: Ztracené připojení
+  LABEL_ACCESS_GRANTED: Přístup povolen
+  LABEL_CLICK_FOR_ACTION: Stiskněte k otevření menu
+  LABEL_NO_GAME_INDEV: |
+    Ve vývoji nejsou žádné hry
+  LABEL_ALREADY_REGISTERED: Již zúčastněno
+  LABEL_NET_PROFITS: Profit
+  LABEL_ENERGY: Energie
+  LABEL_LOSE: Konec hry
+  LABEL_MINIGAME_CRACK_DESCRIPTION: |
+    Ke cracknutí hry musíte za pomoci tlačítek v dolní části vaší obrazovky dekompilovat binární kód.
+  LABEL_CANNOT_OPEN_FILE: Soubor nelze otevřít
+  LABEL_OPEN_FILE: Otevřít soubor
+  LABEL_KEEP_HINTS: Zanechat tipy
+  LABEL_SELECT_GAME_OF_THE_YEAR: Vyberte video hru, která bude ukázána
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: Publikujte edici Hra roku
+  LABEL_GAME_OF_THE_YEAR: >
+    Magazíny už léta zveřejňovaly vlastní seznamy.
+    Jeden z nich nedávno dosáhl velké popularity, a je jím Hra roku.
+  LABEL_RIGHT_CLICK_TO_CLOSE: Stiskněte pravé tlačitko myši pro uzavření
+  LABEL_STARTING_YEAR: Počáteční rok
+  LABEL_CURRENCY_UNLIMITED: Neomezené finance
+  LABEL_ADVANCED_START: Pokročilý začátek
+  LABEL_WORKING: Práce
+  LABEL_DEFAULT: Výchozí
+  LABEL_DEVELOPER: Vývojář
+  LABEL_GAME_CAPACITY: Herní kapacita
+  LABEL_BONUS_PRODUCTIVITY: Bonus produktivity
+  LABEL_MARKETING_MANAGER: Marketingový manažer
+  LABEL_BONUS_HYPE: Hype bonus
+  LABEL_ACCOUNTANT: Účetní
+  LABEL_BONUS_TAXES: Snížení daní
+  LABEL_NETWORK_ADMINISTRATOR: Síťový administrátor
+  LABEL_BONUS_SERVER: Snížení vytížení serverů
+  LABEL_HUMAN_RESOURCE: HR manažer
+  LABEL_BONUS_HAPPINESS: Bonus ke spokojenosti
+  LABEL_AMOUNT_OF_TIPS: Počet tipů
+  LABEL_REQUIRED_POINTS: Vyžadovaných bodů
+  LABEL_STEP: Krok
+  LABEL_CONTRACT: Smlouva
+  LABEL_BEST_GAME: Nejlepší hra
+  LABEL_AMOUNT_GAMEPORT: Počet herních portů
+  LABEL_AMOUNT_EDITED_GAME: Počet vydaných her
+  LABEL_AMOUNT_STUDIO: Počet studií
+  LABEL_AMOUNT_POSTMORTEM: Počet zpráv o hrách
+  LABEL_AMOUNT_ATTENDED_CONVENTION: Počet zúčastněných veletrhů
+  LABEL_AMOUNT_DESK: Počet stolů
+  LABEL_MORTGAGE_NOT_INTERESTED: Nemáte na půjčku dostatečný majetek
+  LABEL_THANKYOU_PURCHASING: |
+    Zdravím,
+
+    ukažte svou podporu tím, že si koupíte City Game Studio.
+    Bez vaší podpory nemůžu na City Game Studio pracovat a stále ho zlepšovat.
+    
+    Pokud se vám tedy City Game Studio a další indie hry líbí, zvažte menší podporu.
+
+    Binogure
+  LABEL_CREATE_POSTMORTEM: Provést zprávu o hře
+  LABEL_VENDING_MACHINE: Automat
+  LABEL_GAME_SPEED: Rychlost hry
+  LABEL_SPEED_NORMAL: Normální
+  LABEL_SPEED_SLOW: Pomalá
+  LABEL_SPEED_SLOWEST: Nejpomalejší
+  LABEL_FIRE_UNASSIGNED_EMPLOYEE: Vyhodit nepřiřazené zaměstnance
+  LABEL_FURNISH_MOD: Režim automatického pokládání nábytku
+  LABEL_AUTOFURNISH_WARNING_EMPTY_ONLY: Nábytek může být automaticky položen jen v prázdných studiích
+  LABEL_HAPPINESS: Spokojenost
+  LABEL_FILTER_BY: Filtry
+  LABEL_DOOR: Dveře
+  LABEL_COGS: Ceny prodaných produktů
+  LABEL_TAXES: Daně
+  LABEL_FIXED_COSTS: Zafixované ceny
+  LABEL_OVERVIEW: Přehled
+  LABEL_LOW_CONFIGURATION: Nízká nastavení
+  LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
+    Použijte myš k přesouvány obrazovky
+  LABEL_WEEK: týdnů
+  LABEL_TOOLS: Vytvořeno s
+  LABEL_SANDBOX: Sandbox režim
+  LABEL_SAVING: Ukládání hry...
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Kompenzace
+  LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
+    Dobrý den, [b]%s[/b].
+
+    Protože [b]%s[/b] nemělo očekávaný úspěch, jsme zavázani co nejdříve zaplatit kompenzaci ve výši [b]%s$[/b].
+    Snad to nenaruší potenciální spolupráci do budoucna.
+
+    S pozdravem,
+    [b]%s[/b]
+  LABEL_CANT_PUBLISH_NEW_GAME: |
+    Nelze zatím ještě vydat novou hru
+  LABEL_EDIT_GAME: Zveřejnit vydavatelskou nabídku
+  LABEL_EDIT_GAME_ANNOUNCE: |
+    [b]%s[/b] začalo pracovat na [b]%s[/b].
+  LABEL_EDIT_GAME_ANNOUNCE_BAD: |
+    Proslýchá se, že [b]%s[/b] není spokojeno se smlouvou, kterou uzavřelo s [b]%s[/b].
+  LABEL_REQUIRE_EMPLOYEE: |
+    Potřeba zaměstnanců: %d.
+    Potřeba producentů: %d .
+  LABEL_STUDIO_NOT_BALANCED: >
+    Zkontrolujte tým vašeho studia. Nevytváří stejné množství bodů designu/vývoje nebo dokončení.
+    Naruší to kvalitu her, které vytváříte.
+  LABEL_LAST_COMBO: "Naposled, kdy jste vytvořili hru se stejnou kombinací téma/žánr."
+  LABEL_POINTRATIO_NOT_ENOUGH: |
+    [b]%s[/b] schází [b]%s[/b].
+  LABEL_POINTRATIO_TOO_MUCH: |
+    [b]%s[/b] má příliš mnoho [b]%s[/b].
+  LABEL_PLATFORM_NOT_EXPLOITED: |
+    Měli lépe využít schopnosti platformy.
+  LABEL_MARKETING_CAMPAIGN: Marketingová kapmaň
+  LABEL_CAMPAIGN_TYPE: Typ kampaně
+  LABEL_WORKLOAD: Pracovní vytížení
+  LABEL_WORKLOAD_DISTRIBUTION: Distribuce pracovního vytížení
+  LABEL_RELEASE_DATE: Datum vydání
+  LABEL_MANUFACTURER: Výrobce
+  LABEL_EXPIRED: Vypršelo
+  LABEL_POINTRATIO_GOOD: |
+    V [b]%s[/b] ví, jak se správně postarat o [b]%s[/b].
+  LABEL_POINTRATIO_BAD: |
+    [b]%s[/b] je jejich slabostí. Jejich zaměstnanci nejsou dostatečně vybalancovaní.
+  LABEL_REVIEW_PLATFORM_GOOD: |
+    [b]%s[/b] má skvělý tým, který září na všech stranách.
+  LABEL_REVIEW_PLATFORM_BAD: |
+    [b]%s[/b] nemůže vydávat skvělé hry ([b]%s[/b]) na [b]%s[/b] kvůli nedostatku zaměstnanců.
+  LABEL_REVIEW_GAME_BAD: |
+    [b]%s[/b] nemůže dostát své reputaci. Očekávali jsme od nich více, obzvláště po [b]%s[/b].
+  LABEL_REVIEW_COMBO_GOOD: |
+    [b]%s[/b] zkouší nové kombinace a zdá se, že jim to vychází. Je to excelentní [b]%s[/b].
+  LABEL_REVIEW_COMBO_BAD: |
+    Zase další [b]%s[/b]. Musí se v [b]%s[/b] naučit, jak dostat nějaké nové nápady.
+  LABEL_CRACKED: Cracknuto
+  LABEL_SELECT_COMPANY_SPECIALIZATION: Specializace herního žánru
+  LABEL_DISCORD_COMMUNITY: Discord komunita
+  LABEL_LAST_MONTH: Bude trvat %s měsíců.
+  LABEL_SUCCESS_RATE: Pravděpodobnost úspěchu
+  LABEL_RISKS: Možná rizika
+  LABEL_SALES_HITS_TITLE: Zpráva o prodejích
+  LABEL_SALES_HITS_DESCRIPTION: |
+    Zdravím %s,
+
+    Vím, jak moc máte rádi mé emaily.
+    A tak jsme tady. Protože vidím dobré prodeje, udělal jsem pár výpočtů a dnes budeme mluvit o prodejích of %s.
+
+    %s
+
+    Hezký den.
+    Binogure
+  LABEL_SALES_HITS_0: >
+    Prodeje [b]%s[/b] jsou decentní, měly by dostat bonus [b]%d%%[/b].
+  LABEL_SALES_HITS_1: >
+    Prodeje [b]%s[/b] nejsou tento měsíc špatné, podle mých odhadů dostanou bonus [b]%d%%[/b].
+  LABEL_SALES_HITS_2: >
+    Tak si jdeme promluvit o [b]%s[/b]... Prodeje jsou excelentní, a myslím, že bychom mohli dostat [b]%d%%[/b] bonus.
+  LABEL_SALES_HITS_3: >
+    S [b]%s[/b] budeme schopni přemýšlet o expanzi. Prodeje by měly dostat bonus [b]%d%%[/b].
+  LABEL_SALES_HITS_4: >
+    Dnes je skvělý den, [b]%s[/b] by mělo vidět bonus [b]%d%%[/b].
+  LABEL_SALES_HITS_5: >
+    Je očekáváno, že prodeje [b]%s[/b] dostanou bonus [b]%d%%[/b].
+  LABEL_SALES_HITS_6: >
+    Gratuluji k prodejům [b]%s[/b], měly by dostat bonus [b]%d%%[/b].
+  LABEL_CONVENTION_INCOMING: |
+    Zdravím %s,
+
+    Jsme potěšení, že můžeme oznámit [b]%s[/b], který bude [b]%s[/b].
+
+    Výstava bude trvat 3 dny a očekáváme [b]%s[/b] návštěvníků.
+    Už si můžete k propagaci svých nejlepších her pronajmout prostory.
+
+    Mějte na paměti, že prostor je omezen.
+
+    Hezký den.
+    organizátoři %s
+  LABEL_REDCOUCH: Červená pohovka
+  LABEL_DARKCOUCH: Tmavá pohovka
+  LABEL_WHITECOUCH: Bílá pohovka
+  LABEL_REDARMCHAIR: Červené křeslo
+  LABEL_DARKARMCHAIR: Tmavé křeslo
+  LABEL_WHITEARMCHAIR: Bílé křeslo
+  LABEL_WHAT_WERE_YOU_DOING: Co jste dělali, když jste narazili na tento bug?
+  LABEL_VERSION: "Verze: %s"
+  LABEL_NO_MESSAGE: Žádné zprávy
+  LABEL_INBOX: Doručená pošta
+  LABEL_SPAM: Spam
+  LABEL_TRASH: Koš
+  LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
+    [b]Odemčení nového žánru[/b].
+
+    K odemčení nového žánru [b]stiskněte jeho ikonu[/b].
+    Pokud máte dostatek bodů, ten žánr bude odemčen.
+
+    [b]Počet bodů žánru[/b] se nachází v [b]horním pravém rohu[/b] obrazovky.
+  LABEL_GAME_GENRE_DESCRIPTION: |
+    [img]%s[/img]
+    [b][u]%s[/u][/b]
+
+    [color=%s]%s[/color]
+  LABEL_SKILL_POINTS: Body žánru
+  LABEL_SKILL_POINT: "%s bodů žánru"
+  LABEL_UNLOCKED: "Odemčeno"
+  LABEL_COST: Stojí %s bodů
+  LABEL_FANBASE_TRENDS: Trend fanouškovské základny
+  LABEL_YEAR: Let
+  LABEL_GAMEOVER_CONFIRM: Bankrot
+  LABEL_GAMEOVER_DESCRIPTION: >
+    Bankrot ukončí hru.
+    Jste si jisti, že ho chcete vyhlásit?
+  LABEL_EXPENSES: Výdaje
+  LABEL_RENT: Nájem
+  LABEL_MARKETING: Marketingové poplatky
+  LABEL_FINANCIAL_RESULT: Finanční výsledky
+  LABEL_PROPERTY_VALUE: Hodnota nemovitostí
+  LABEL_FURNITURE_VALUE: Hodnota nábytku
+  LABEL_CATALOG_VALUE: Hodnota herního katalogu
+  LABEL_TOTAL_VALUE: Celková hodnota
+  LABEL_MORTGAGES: Půjčky
+  LABEL_MORTGAGE: Půjčka
+  LABEL_DURATION: Trvání
+  LABEL_INTEREST: Úrok
+  LABEL_MONTHLY: Měsíční splátky
+  LABEL_AUTO_ASSIGN_STAFF: Automaticky přiřadit zaměstnance
+  LABEL_UPGRADE_COMPUTER: Automaticky vylepšit počítače
+  LABEL_UPGRADE_SERVER: Automaticky vylepšit servery
+  LABEL_COMPANY_WIDE: V celé slopečnosti
+  LABEL_STUDIO_WIDE: V tomto studiu
+  LABEL_NO_STUDIO_TRADE_CAPABLE: >
+    Musíte mít alespoň pět zaměstnanců, aby jste mohli vyjednávat s vydavatelem.
+  LABEL_TRADE_GAME_CANCELED_TITLE: "%s zrušeno"
+  LABEL_TRADE_GAME_CANCELED_DESCRIPTION: |
+    Pro [b]%s[/b] (%s),
+
+    Jsme opravdu zklamáni tím, že vaše společnost zrušila vývoj [b]%s[/b].
+    Podle smlouvy, kterou naše společnosti podepsaly - strana 453, sekce 72d, odstavec W, růžový list - musíte okamžitě uhradit pokutu ve výši [b]%s$[/b].
+
+    Se vší úctou,
+    Upřímná Právnická Firma, [b]%s[/b]
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_TITLE: "Ukončení smlouvy"
+  LABEL_TRADE_GAME_MIN_NOTE_FAILED_DESCRIPTION: |
+    Pro [b]%s[/b] (%s),
+
+    [b]%s[/b] nedosáhlo očekávaného úspěchu, a tak jsme se rozhodli vynutit vámi podepsanou smlouvu.
+    To znamená, že podle strany 5863, sekce 99z, hnědý list, musíte okamžitě uhradit pokutu ve výši [b]%s$[/b].
+
+    Se vší úctou,
+    oddělení špatných prodejů, [b]%s[/b]
+  LABEL_SELECT_GAME_PRESENT: Vyberte hru, kterou chcete vystavit
+  LABEL_ROYALTIES: Podíl
+  LABEL_PENALITY: Pokuta
+  LABEL_NOTE_MIN: Minimální hodnocení
+  LABEL_MARKETING_GLOBAL_ITEM: Celkový marketing
+  LABEL_MARKETING_MAGAZINE_ITEM: Časopisy
+  LABEL_MARKETING_TV_ITEM: Televize
+  LABEL_MARKETING_WEBSITE_ITEM: Webové stránky
+  LABEL_MARKETING_ONLINEAD_ITEM: Online reklamy
+  LABEL_MARKETING_BILLBOARD_ITEM: Billboardy
+  LABEL_MARKETING_SOCIALNETWORK_ITEM: Sociální sítě
+  LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
+  LABEL_SELF_PUBLISH: Samostatné vydání
+  LABEL_TRADE_PUBLISH: Tradiční vydání
+  LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Zdravím,
+    
+    [b]%s[/b], podařilo se mi narazit na velice zajímavou pozici na vašem pracovním portále a věřím, že se na ni hodím perfektně.
+    Po přečtení popisu a požadavků práce a následovném srovnání s mými vlastními zkušenostmi, věřím, že se můžu stát cenným zaměstnancem vaší organizace.
+
+    Nedávno proběhla má graduace, během které mi byl udělen inženýrský titul z informačních technologií Univerzity na Marsu.
+    Nyní chci své schopnosti aplikovat ve společnosti, jakou je například [b]%s[/b].
+    Jako inženýr se můžu podílet na implementaci inženýrských konceptů k vytváření inovativních produktů pro zákazníky.
+    
+    Bylo by skvělé si s vámi promluvit o této úžasné příležitosti ve vaší společnosti prochu podrobněji. Bylo by mi potěšením vidět vaši odpověď na tento email. 
+
+    Upřímně,
+    [b]%s[/b]
+  LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: Spontánní žádost o zaměstnání
+  LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
+    Zdravím,
+
+    Píši vám, abych vás mohl informovat, že rezignuju ze své pozice zde v [b]%s[/b]. Rezignace má okamžitou platnost.
+    Velmi děkuji za všechny příležitosti, které mi tato společnost poskytla. Během té doby se mi podařilo naučit mnoho nových věcí. Nikdy nezapomenu na ochotu a milost zdejších zaměstnanců.
+
+    Dejte mi vědět, zda mohu udělat něco, co situaci usnadní.
+
+    Znovu děkuji za vaši podporu.
+
+    Se vší úctou,
+    [b]%s[/b]
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: Rezignace
+  LABEL_NO_STUDIO_FOR_BIG_GAME: >
+    Nemáte studio, které může vytvořit hru střední nebo velké velikosti.
+  LABEL_NO_FAN_BIG_GAME: >
+    K vytvoření hry střední nebo velké velikosti je potřeba mít fanouškovskou základnu o [b]%s[/b] fanoušcích, jinak to bude mít dopad na prodeje.
+  LABEL_CONCURRENT_AMOUNT: Počet konkurentů
+  LABEL_YES: Ano
+  LABEL_NO: Ne
+  LABEL_PRICE_MONTHLY: Měsíční náklady
+  LABEL_SERVER_MONITORING_REPORT: Status serverů
+  LABEL_ONLINE_USAGE: Počet online hráčů
+  LABEL_ONLINE_CAPACITY: Celková kapacita hráčů
+  LABEL_ONLINE_CAPACITY_TOOLTIP: Počet online hráčů v jeden okamžit
+  LABEL_SERVER: Server
+  LABEL_CAMPAIGN_NO_COST: Promluvit k tisku
+  LABEL_CAMPAIGN_DEMO: Publikovat demo
+  LABEL_CAMPAIGN_FULL: Započít marketingovou kampaň
+  LABEL_GAME_ANNOUNCED_DESCRIPTION: |
+    [b]%s[/b] právě oznámili svou poslední hru: [b]%s[/b]
+    Bude dostupná na [b]%s[/b]
+
+    %s
+
+    Hodně štěstí v vývojem!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
+    Fanoušci jsou nadšení, stejně jako my všichni!
+  LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
+    Fanoušci jsou naštvaní a specializované magazíny chtějí na vaší hře upustit páru.
+
+    Říká se, že jde jen o kopii hry, kterou jste nedávno vydali.
+  LABEL_GAME_ANNOUNCED_TITLE: "%s oznámeno"
+  LABEL_TRENDING: Popularita
+  LABEL_CREATOR: Tvůrce
+  LABEL_PRODUCER: Producent
+  LABEL_COMMUNITY_MANAGER: Komunitní manažer
+  LABEL_SOUND_COMPOSER: Skladatel
+  LABEL_SPECIAL_THANKS: Speciální poděkování
+  LABEL_VISITORS: "%d návštěvníků"
+  LABEL_ATTENDANCE: Návštěvníků
+  LABEL_NONE: Žádná
+  LABEL_NO_BUILDING: Žádná dostupná budova
+  LABEL_NO_CONVENTION: Žádné plánované výstavy
+  LABEL_CONVENTION_LAST_DATE: Poslední výstava
+  LABEL_DATE: Datum
+  LABEL_STANDSIZE: Velikost stánku
+  LABEL_CONVENTION_NAME: Název výstavy
+  LABEL_ATTEND: Zúčastnit se
+  LABEL_ORGANIZE: Zorganizovat
+  LABEL_INFORMATIONS: Podrobnosti
+  LABEL_GAME: Hra
+  LABEL_GAMEPORT: Vytvořit port
+  LABEL_CONVENTION: Výstaviště
+  LABEL_LAND_VALUE: Hodnota pozemku
+  LABEL_SURFACE: Povrch
+  LABEL_HYPE: Hype
+  LABEL_AI: Umělá inteligence
+  LABEL_ANIMATION: Animace
+  LABEL_ANISOTROPIC_FILTER: Anizotropní filtrování
+  LABEL_BUILDING_LEASE: Pronajmout
+  LABEL_TYPE_BUILDING: Typ
+  LABEL_CHARACTERS: Postavy
+  LABEL_COMPANY_NAME: Název společnosti
+  LABEL_CUTSCENES: Cutscény
+  LABEL_CURRENCY: Měna
+  LABEL_DESIGN: Design
+  LABEL_DEVELOPMENT: Vývoj
+  LABEL_DIFFICULTY: Obtížnost
+  LABEL_EVENT_TYPE: Typ události
+  LABEL_UNIT_SOLD: Prodáno kusů
+  LABEL_FANBASE: Fanouškouvská základna
+  LABEL_FULLSCREEN: Režim celé obrazovky
+  LABEL_GAME_GENRE: Žánr
+  LABEL_GAME_HISTORY: Historie her
+  LABEL_GAME_NAME: Název
+  LABEL_GAME_SIZE: Velikost
+  LABEL_GAME_ONLINE_SHORT: Online multiplayer
+  LABEL_PLATFORM_NOT_ONLINE: >
+    Tato platforma nepodporuje online multiplayer.
+  LABEL_GAMEPLAY: Hratelnost
+  LABEL_GRAPHIC_SETTINGS: Grafická nastavení
+  LABEL_GRAPHISM: Grafika
+  LABEL_INCOME: Příjem
+  LABEL_INVALID_SAVE: Zkoruptovaný soubor uložené hry
+  LABEL_KICKOFF: Kick off
+  LABEL_LOAD_GAME: Načíst hru
+  LABEL_MAP_SIZE: Velikost mapy
+  LABEL_MARKETING_MATERIAL: Marketingové materiály
+  LABEL_MUSIC: Hudba
+  LABEL_NETWORK: Síť
+  LABEL_GRADE: Známka
+  LABEL_OPTIMIZATION: Optimalizace
+  LABEL_OUTCOME: Náklady
+  LABEL_PHYSICS: Fyzika
+  LABEL_GAME_FINISHED: Gratuluji, dokončili jste City Game Studio.
+  LABEL_PLANNING: Plánování
+  LABEL_NO_PLATFORM_AVAILABLE: >
+    Žádná dostupná platforma.
+  LABEL_PLATFORM: Platforma
+  LABEL_PLAYER_NAME: Jméno hráče
+  LABEL_PROFITS: Výdělky
+  LABEL_POLISH: Dokončení
+  LABEL_PRICE: Cena
+  LABEL_RELEASE: Vydat
+  LABEL_RESOLUTION: Rozlišení
+  LABEL_SCRIPTING: Skriptování
+  LABEL_SOUND: Zvuk
+  LABEL_SOUND_SETTINGS: Nastavení zvuku
+  LABEL_SOUNDFX: SoundFX
+  LABEL_SQUARE_FOOTAGE: Rozloha
+  LABEL_STAFF: Zaměstnanci
+  LABEL_STORY: Příběh
+  LABEL_STUDIO: Studio
+  LABEL_TARGETTED_AUDIENCE: Cílová skupina
+  LABEL_THEME: Téma
+  LABEL_TUTORIEL: Tutorial
+  LABEL_USERINTERFACE: Uživatelské rozhraní
+  LABEL_THEME_MOVIE_ADAPTATION: Adaptace filmu
+  LABEL_THEME_PREHISTORY: Prehistorické
+  LABEL_THEME_ARCHEOLOGY: Archeologie
+  LABEL_THEME_POSTAPOCALYPTIC: Post-apokalyptické
+  LABEL_THEME_ATLANTIS: Atlantis
+  LABEL_THEME_RELIGIOUS: Náboženské
+  LABEL_THEME_ORGANIZED_CRIME: Organizovaný zločin
+  LABEL_THEME_CROSSOVER: Crossover
+  LABEL_THEME_DESERT: Poušť
+  LABEL_THEME_COMEDY: Komedie
+  LABEL_THEME_DRAGON: Drak
+  LABEL_THEME_EROTIC: Exotické
+  LABEL_THEME_SPY: Špion
+  LABEL_THEME_FANTASY: Fantasy
+  LABEL_THEME_GHOST: Duch
+  LABEL_THEME_HISTORY: Historie
+  LABEL_THEME_HORROR: Horor
+  LABEL_THEME_MEDICAL: Lékařské
+  LABEL_THEME_OCEAN: Oceán
+  LABEL_THEME_ARABIAN_NIGHTS: Arabské noci
+  LABEL_THEME_MYTHOLOGY: Mytologie
+  LABEL_THEME_NINJA: Ninja
+  LABEL_THEME_PARK: Zábavní park
+  LABEL_THEME_PIRATES: Piráti
+  LABEL_THEME_SCIENCE_FICTION: Sci-Fi
+  LABEL_THEME_SUPER_HEROS: Superhrdina
+  LABEL_THEME_VAMPIRE: Upír
+  LABEL_THEME_TIME_TRAVEL: Cestování časem
+  LABEL_THEME_WESTERN: Western
+  LABEL_THEME_ZOMBIE: Zombie
+  LABEL_THEME_MEDIEVAL: Středověk
+  LABEL_THEME_GAMEDEV: Game dev
+  LABEL_THEME_HACK: Hackování
+  LABEL_THEME_HUNT: Lov
+  LABEL_THEME_ANIME: Anime
+  LABEL_THEME_MILITARY: Armáda
+  LABEL_THEME_INDUSTRIALIZATION: Industrializace
+  LABEL_THEME_PET: Mazliček
+  LABEL_THEME_FOOTBALL: Fotbal
+  LABEL_THEME_SOCCER: Fotbal
+  LABEL_THEME_CARTOON: Kreslené
+  LABEL_THEME_COOK: Kuchař
+  LABEL_THEME_URBAN: Město
+  LABEL_THEME_KAIJU: Kaidžú
+  LABEL_THEME_EVOLUTION: Evoluce
+  LABEL_THEME_CYBERPUNK: Cyperpunk
+  LABEL_THEME_STEAMPUNK: Steampunk
+  LABEL_THEME_TRANSPORTATION: Doprava
+  LABEL_THEME_MUSIC: Hudba
+  LABEL_TYPE_RTT: Real-time taktika
+  LABEL_TYPE_4X: 4X
+  LABEL_TYPE_ACTION_ADVENTURE: Akční adventura
+  LABEL_TYPE_ACTION: Akce
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-up
+  LABEL_TYPE_VERSUS_FIGHTING: Versus souboje
+  LABEL_TYPE_PLATFORMS: Platformová
+  LABEL_TYPE_SHOOT: Střelba
+  LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
+  LABEL_TYPE_FPS: Střílečka z první osoby
+  LABEL_TYPE_TPS: Střílečka z třetí osoby
+  LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
+  LABEL_TYPE_OPEN_WORLD: Otevřený svět
+  LABEL_TYPE_HTA_LIKE: HTA klon
+  LABEL_TYPE_INFILTRATION: Infiltrace
+  LABEL_TYPE_SURVIVAL: Survival
+  LABEL_TYPE_HORROR: Horor
+  LABEL_TYPE_ADVENTURE: Adventura
+  LABEL_TYPE_INTERACTIVE_FICTION: Interaktivní fikce
+  LABEL_TYPE_INTERACTIVE_MOVIE: Interaktivní film
+  LABEL_TYPE_CHAT: Chat
+  LABEL_TYPE_BISHOJO: Bishojo
+  LABEL_TYPE_EROGE: Eroge
+  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_VISUAL_NOVEL: Vizuální román
+  LABEL_TYPE_MYSTERY_LIKE: Záhadné
+  LABEL_TYPE_RPG: RPG
+  LABEL_TYPE_ACTION_RPG: Akční RPG
+  LABEL_TYPE_DUNGEON_CRAWLER: Prolézání dungeonů
+  LABEL_TYPE_MMORPG: MMO RPG
+  LABEL_TYPE_DUNGEON: Dungeon
+  LABEL_TYPE_CROOK_LIKE: Crook-like
+  LABEL_TYPE_TACTICAL_RPG: Taktické RPG
+  LABEL_TYPE_REFLEXION: Klasické puzzle
+  LABEL_TYPE_MAZE: Bludiště
+  LABEL_TYPE_HIDDEN_OBJECT: Schované objekty
+  LABEL_TYPE_PUZZLE: Puzzle
+  LABEL_TYPE_SIMULATION: Simulátor
+  LABEL_TYPE_ANIMALS: Zvířata
+  LABEL_TYPE_GOD_GAME: Hra na boha
+  LABEL_TYPE_FARMING: Farmaření
+  LABEL_TYPE_LIVING_ORGANISM: Žijící organismus
+  LABEL_TYPE_SPORT: Sportovní
+  LABEL_TYPE_MANAGEMENT: Management
+  LABEL_TYPE_ECONOMY: Ekonomická
+  LABEL_TYPE_CITY_BUILDER: Budování měst
+  LABEL_TYPE_GOVERNMENT: Vláda
+  LABEL_TYPE_VEHICLE: Vozidla
+  LABEL_TYPE_RACING: Závody
+  LABEL_TYPE_DRIVE: Automobily
+  LABEL_TYPE_FLY: Létání
+  LABEL_TYPE_SPACE: Vesmír
+  LABEL_TYPE_SUBMARINE: Ponorka
+  LABEL_TYPE_TRAIN: Vlaky
+  LABEL_TYPE_STRATEGY: Strategie
+  LABEL_TYPE_RTS: Real-time strategie
+  LABEL_TYPE_MOBA_LIKE: Moba-like
+  LABEL_TYPE_TOWER_DEFENSE: Tower defense
+  LABEL_TYPE_TURN_BASED: Turn-based strategie
+  LABEL_TYPE_ARTILLERY: Odstřelování
+  LABEL_TYPE_CASUAL: Casual
+  LABEL_TYPE_BREAKOUT: Break-out
+  LABEL_TYPE_RYTHM: Rytmus
+  LABEL_TYPE_CLICKER_GAME: Klikací hra
+  LABEL_TARGETTED_AUDIENCE_YOUNG: Mládež
+  LABEL_TARGETTED_AUDIENCE_ALL: Všichni
+  LABEL_TARGETTED_AUDIENCE_MATURE: Dospělí
+  LABEL_GAME_SIZE_INDIE: Indie
+  LABEL_GAME_SIZE_NORMAL: Střední
+  LABEL_GAME_SIZE_BIG: Velká
+  LABEL_GAME_SIZE_AAA: AAA
+  LABEL_MAP_SIZE_TINY: Velmi malá
+  LABEL_MAP_SIZE_SMALL: Malá
+  LABEL_MAP_SIZE_MEDIUM: Střední
+  LABEL_MAP_SIZE_LARGE: Velká
+  LABEL_MAP_SIZE_HUGE: Obrovská
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA tester (nejsnadnější)
+  LABEL_DIFFICULTY_EASY: 2. Vývojář her
+  LABEL_DIFFICULTY_NORMAL: 3. Vývojář enginů
+  LABEL_DIFFICULTY_HARD: 4. Producent
+  LABEL_DIFFICULTY_INSANE: 5. CEO (nejtěžší)
+  LABEL_PLATFORM_RELEASED_DESCRIPTION: |
+    Společnost [b]%s[/b] vydala: [b]%s[/b]
+  LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    V [b]%s[/b] se rozhodli z trhu stáhnout platformu [b]%s[/b].
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
+    Společnost [b]%s[/b] za několik měsíců vydá platformu pojmenovanou [b]%s[/b].
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
+    Společnost [b]%s[/b] oznámila, že brzy z trhu stáhne platformu [b]%s[/b].
+  LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
+    Odemknuli jste licenci pro [b]%s[/b].
+    Stála vás [b]%s$[/b]
+  LABEL_PLATFORM_RELEASED_TITLE: Platforma vydána
+  LABEL_PLATFORM_DISCONTINUED_TITLE: Stažení platformy z trhu
+  LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Blízké vydání platformy
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Blízké stažení platformy z trhu
+  LABEL_PLATFORM_UNLOCKED_TITLE: Platforma odemčena
+  LABEL_CLICK_TO_CLOSE: Stiskněte pro uzavření
+  LABEL_SHOP_UI: Obchod
+  LABEL_DESK: Stůl
+  LABEL_BOOKSHELF: Knihovna
+  LABEL_WASTEBASKET: Koš
+  LABEL_ASSIGN_EMPLOYEE: Přiřadit zaměstnance
+  LABEL_NEW_GAME: Nová hra
+  LABEL_MODDING: Moddování
+  LABEL_ARTWORK: Artwork
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Díky vaším nedávným zkušenostem jste odemkli nový žánr: [b]%s[/b]
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "Žánr odemčen: %s"
+  LABEL_MAGAZINE_0: Fan Game
+  LABEL_MAGAZINE_1: PC Player
+  LABEL_MAGAZINE_2: Game Geek
+  LABEL_MAGAZINE_3: Game Over Mag
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Game 2
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: Wiki Player
+  LABEL_MAGAZINE_8: Godot Mania
+  LABEL_GAME_OVER: Konec hry
+  LABEL_SCORE: Skóre
+  LABEL_WAGE_INCREASES_TITLE: Zvednutí platu
+  LABEL_WAGE_INCREASES_DESCRIPTION: >
+    Seznam zaměstnanců, kteří se zlepšili v jedné nebo více oblastech a obdrželi navýšení výplaty:
+  LABEL_PRESS_KEY: Stiskněte
+  LABEL_WORD_OR: nebo
+  LABEL_INPUT_ACTION_UI_ROTATE: k otočení položky
+  LABEL_INPUT_ACTION_UI_DELETE: k prodání položky
+  LABEL_INPUT_ACTION_UI_PAUSE: k pozastavení hry
+  LABEL_INPUT_ACTION_UI_CANCEL: ke zrušení akce
+  LABEL_INPUT_ACTION_UI_REPEAT: k položení více položek
+  LABEL_CATCHPHRASE_1_0: Ztráta času
+  LABEL_CATCHPHRASE_1_1: Vše zajímavé je už v traileru
+  LABEL_CATCHPHRASE_1_2: Nekupujte
+  LABEL_CATCHPHRASE_1_3: Do očí bijící neoriginalita
+  LABEL_CATCHPHRASE_1_4: Příšerný zážitek
+  LABEL_CATCHPHRASE_1_5: Snad naše nejhorší hodnocení
+  LABEL_CATCHPHRASE_2_0: Nepředvídatelné zklamání
+  LABEL_CATCHPHRASE_2_1: Řekl někdo 'podprůměrná'?
+  LABEL_CATCHPHRASE_2_2: Řekl někdo 'špatná'?
+  LABEL_CATCHPHRASE_2_3: Zážitek plný zklamání
+  LABEL_CATCHPHRASE_2_4: "Jedno slovo: prázdná"
+  LABEL_CATCHPHRASE_2_5: Měla být zrušena
+  LABEL_CATCHPHRASE_3_0: Katastrofální
+  LABEL_CATCHPHRASE_3_1: Zklamání srovnatelné s ambicemi, které hra měla
+  LABEL_CATCHPHRASE_3_2: Dali sem vše, ale moc toho není
+  LABEL_CATCHPHRASE_3_3: Kéž by byla aspoň průměrná...
+  LABEL_CATCHPHRASE_3_4: Poněkud nás to zklamalo
+  LABEL_CATCHPHRASE_3_5: Viděli jsme sice horší, ale viděli jsme už o hodně lepší!
+  LABEL_CATCHPHRASE_4_0: Provedení příliš nešikovné na nějaké dobré nápady
+  LABEL_CATCHPHRASE_4_1: Nepříliš potřebná hra
+  LABEL_CATCHPHRASE_4_2: Špatný nápad
+  LABEL_CATCHPHRASE_4_3: Hra, která chtěla být inovativní...
+  LABEL_CATCHPHRASE_4_4: Při nedorozumnění bychom si ji mohli zahrát znovu
+  LABEL_CATCHPHRASE_4_5: Nejlepší chvíle? Když skončí.
+  LABEL_CATCHPHRASE_5_0: Naprosto průměrná
+  LABEL_CATCHPHRASE_5_1: Bez jakékoliv originality
+  LABEL_CATCHPHRASE_5_2: Velmi smíšené pocity ohledně této hry
+  LABEL_CATCHPHRASE_5_3: Viděli jsme už lepší, ale viděli jsme už o hodně horší!
+  LABEL_CATCHPHRASE_5_4: Nejde o hru roku
+  LABEL_CATCHPHRASE_5_5: Hratelné pouze jednou
+  LABEL_CATCHPHRASE_6_0: Je taková...nijaká
+  LABEL_CATCHPHRASE_6_1: Jednoduchá, ale nadbytečná hra
+  LABEL_CATCHPHRASE_6_2: Skromná, ale zajímavá
+  LABEL_CATCHPHRASE_6_3: Zábavná, ale bez hloubky
+  LABEL_CATCHPHRASE_6_4: Zajímavý koncept pokažen náhodností
+  LABEL_CATCHPHRASE_6_5: Má své dobré chvilky
+  LABEL_CATCHPHRASE_7_0: Střízlivá a efektivní
+  LABEL_CATCHPHRASE_7_1: Mnoho obsahu v průměrném provedení
+  LABEL_CATCHPHRASE_7_2: Skvělá grafika, vadné mechaniky
+  LABEL_CATCHPHRASE_7_3: Zajímavý koncept s omezeným  obsahem
+  LABEL_CATCHPHRASE_7_4: Uspokojivá hra?
+  LABEL_CATCHPHRASE_7_5: Nejsme od klenotu daleko
+  LABEL_CATCHPHRASE_8_0: Zábava ve své ryzí podobě
+  LABEL_CATCHPHRASE_8_1: Čerstvý vánek na trhu
+  LABEL_CATCHPHRASE_8_2: Nezbytná pro večery s přáteli
+  LABEL_CATCHPHRASE_8_3: Skvělý zážitek
+  LABEL_CATCHPHRASE_8_4: Nádherná hra
+  LABEL_CATCHPHRASE_8_5: Příjemná a intenzivní
+  LABEL_CATCHPHRASE_9_0: Jedna z nejlepších her roku
+  LABEL_CATCHPHRASE_9_1: Ultimátní hra?
+  LABEL_CATCHPHRASE_9_2: Dokonale naolejovaný stroj
+  LABEL_CATCHPHRASE_9_3: Je to úžásná hra
+  LABEL_CATCHPHRASE_9_4: Nádherný zážitek
+  LABEL_CATCHPHRASE_9_5: Skvělá práce!
+  LABEL_CATCHPHRASE_10_0: Absolutní drahokam
+  LABEL_CATCHPHRASE_10_1: Mistrovské dílo
+  LABEL_CATCHPHRASE_10_2: Nutnost
+  LABEL_CATCHPHRASE_10_3: Jedna z nejlepších her poslední doby
+  LABEL_CATCHPHRASE_10_4: Hodiny skvělé zábavy
+  LABEL_CATCHPHRASE_10_5: Na tuto hru jen tak nikdo nezapomene
+  LABEL_CATCHPHRASE_11_0: Umělecké dílo
+  LABEL_CATCHPHRASE_11_1: Vzácný skvost
+  LABEL_CATCHPHRASE_11_2: Pocta pro celý průmysl
+  LABEL_CATCHPHRASE_11_3: Opravdové mistrovské dílo, které vrací videohrám jejich prestiž
+  LABEL_CATCHPHRASE_11_4: Kdyby perfekce byla hra
+  LABEL_CATCHPHRASE_11_5: Dvanáctý div světa
+  LABEL_CREATE_SEQUEL: Vytvořit pokračování
+  LABEL_NEW_IP: Nové IP
+  LABEL_POSTMORTEM: Zpráva o hře
+  LABEL_EMPTY_STUDIO: Toto studio neobsahuje žádnou pracovní plochu s počítačem!
+  LABEL_MATCH_EXCELLENT: Skvělá shoda
+  LABEL_MATCH_GOOD: Dobrá shoda
+  LABEL_MATCH_OK: Průměrná shoda
+  LABEL_MATCH_POOR: Špatná shoda
+  LABEL_POSTMORTEM_TITLE: Zpráva o hře (%s)
+  LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Nic nového jsme se z [b]%s[/b] nenaučili
+  LABEL_POSTMORTEM_DESCRIPTION_LIST: "Díky [b]%s[/b] jsme zjistili následující:%s"
+  LABEL_POSTMORTEM_MATCH: "[ul]- Shoda mezi [i]%s[/i] a [i]%s[/i] je [b]%s[/b][/ul]."
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] je [b]%s[/b] pro [b]%s[/b] games[/ul]."
+  LABEL_POSTMORTEM_MARGINAL: malá
+  LABEL_POSTMORTEM_INSIGNIFICANT: nevýznamná
+  LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: relativně důležitá
+  LABEL_POSTMORTEM_VERY_IMPORTANT: velmi důležitá
+  LABEL_POSTMORTEM_ESSENTIAL: esenciální
+  LABEL_MARKET_SHARE: Podíl na trhu
+  LABEL_LICENSE_COST: Cena licence
+  LABEL_OWNED: Vlastněno
+  LABEL_WEEK_COST: Cena vývoje
+  LABEL_CATALOG_SIZE: Velikost herního katalogu
+  LABEL_PLATFORM_LIST: Seznam platforem
+  LABEL_IDLE: Nečinný
+  LABEL_ADOPT_CAT_DESCRIPTION: >
+    Zaměstnanci studia [b]%s[/b] našli za odpadky schovanou zatoulanou kočku.
+    Je velmi přítulná a zaměstnanci jí už dali jméno. Co chcete udělat?
+  LABEL_ADOPT_CAT_TITLE: Zatoulaná kočka
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
+    Ve Studio Blue Studio, dva bratři vytvořili novou hru.
+    Naprosto změnila celý průmysl a vytvořila nový žánr: Záhadné.
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Byl vytvořen žánr 'Záhadné'
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
+    DustStar právě vytvořil hru, který v průmyslu vyvolává revoluci.
+    Byl stvořen žánr HTA.
+  LABEL_UNLOCK_HTA_LIKE_TITLE: By vytvořen žánr 'HTA klon'
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
+    3 vývojáři z garáže vytvořili novou hru.
+    Je tak slavná, že vytvořila nový žánr - Crook-like.
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Byl vytvořen žánr 'Crook-like'
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
+    3 američtí designéři vytvořili velmi populární modifikaci pro známou hru.
+    Zrodil se žánr Moba-like her.
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: Byl vytvořen žánr 'Moba-like'
+  LABEL_BROKEN_COFFEEMAKER_TITLE: Rozbitý automat na kávů
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
+    Zaměstnanci vašeho studia '[b]%s[/b]' jsou závislí na kávě.
+    Bohužel si místní automat na kávu již odsloužil její poslední kelímek...
+  LABEL_RABBIT_INVASION_DESCRIPTION: >
+    Králíci... jsou všude. Dělají nějaké zvuky... jsou všude.
+    Zdá se ale, že je nikdo nebere na zřetel, a všichni pokračují ve své práci...
+  LABEL_RABBIT_INVASION_TITLE: Invaze králíků
+  LABEL_TARGETTED_AUDIENCE_FEATURE: >
+    Experti zjistili, že videohry mohou cílit na tři různá publika.
+    Vydali studii, kde nastínili tři publika: mládež, všichni, dospělí.
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: >
+    Objevil se neznámý počítačový virus, který se zaměřuje na videoherní společnosti.
+    Zdá se to zvláštní, ale zpomaluje kurzory a náhodně vypíná a zapíná počítače.
+    Tohle bude mít rozhodně účinek na produktivitu vašich zaměstnanců.
+    Pouze studio '[b]%s[/b]' je tímto ovlivněno.
+  LABEL_VIRUS_UNLEASHED_TITLE: Objevení viru
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
+    Vloggerská stránka 'The Smitties', slavná pro své recenze her, právě vydala nové video.
+    Recenze se týká [b]%s[/b], což je VAŠE hra! To ovlivní prodeje.
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: Reklama zdarma
+  LABEL_LOAN_TITLE: Půjčka poslední záchrany
+  LABEL_LOAN_DESCRIPTION: >
+    Momentálně nutně potřebujete nějaké peníze. My vám s tím můžeme pomoct. Můžete si od nás vzít půjčku v hodnotě [b]%s$[/b].
+    Naše úroky se pohybují i kolem [b]%s%%[/b]. Budete mít [b]%s[/b] týdnů na splacení.
+    Pro společnost, jako je ta vaše, je to jako záchrana. Jsme vaše poslední možnost. Promyslete to pečlivě.
+  LABEL_BURNING_SERVER_DESCRIPTION: |
+    Necítíte kouř...?
+    Vaše servery dosáhly maximální kapacity.
+    Je načase buď koupit nové servery, nebo ukončit podporu pro online hru!
+  LABEL_BURNING_SERVER_TITLE: Servery na maximální kapacitě!
+  LABEL_SMOKING_SERVER_DESCRIPTION: |
+    Vytváříte velmi dobré online hry, které se vám daří prodávat velmi dobře.
+    Vaše servery ale dosahují maximální kapacity. Využití většiny z nich se pohybuje kolem 90 nebo více procent.
+    Měli by jste zvážit nákup nových serverů.
+  LABEL_SMOKING_SERVER_TITLE: Varování o kapacitě serverů
+  LABEL_PAYLOAN_TITLE: Splatit půjčku
+  LABEL_PAYLOAN_DESCRIPTION: Lhůta  ke splacení půjčky je již u svého konce. Musíte uhradit [b]%s$[/b].
+  LABEL_SELL_STUDIO_TITLE: Prodat studio
+  LABEL_SELL_STUDIO_DESCRIPTION: Nyní prodáváte studio '[b]%s[/b]'. Chcete pokračovat?
+  LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
+    Protože '%s' je vaše jediné studio nebo pracuje
+    na nějakém projektu, nemůžete ho prodat.
+  LABEL_BUILDING_AREA: Plocha: %s m²
+  LABEL_BUILDING_BUY: Cena
+  LABEL_BUILDING_RENT: Nájemné
+  LABEL_BUILDING_CONVENTION: Výstaviště
+  LABEL_BUILDING_TYPE: Budova
+  LABEL_BUILDING_ROAD: Silnice
+  LABEL_BUILDING_STREET: Ulice
+  LABEL_BUILDING_APARTMENT: Bytová budova
+  LABEL_BUILDING_HOTEL: Hotel
+  LABEL_BUILDING_THEATER: Divadlo
+  LABEL_BUILDING_TOWER: Mrakodrap
+  LABEL_BUILDING_STUDIO: Studio
+  LABEL_BUILDING_BIGSTUDIO: Velké studio
+  LABEL_BUILDING_BUILDING: Obytná budova
+  LABEL_BUILDING_GRASS: Tráva
+  LABEL_BUILDING_SQUARE: Náměstí
+  LABEL_BUILDING_CAFE: Kavárna
+  LABEL_BUILDING_RESTAURANT: Restaurace
+  LABEL_BUILDING_PIZZERIA: Pizzerie
+  LABEL_BUILDING_GYM: Posilovna
+  LABEL_BUILDING_OFFICE: Kancelář
+  LABEL_BUILDING_UNIVERSITY: Univerzita
+  LABEL_NO_GAME_AVAILABLE: Žádná dostupná hra
+  LABEL_NO_MONEY: Příliš drahé
+  LABEL_COMPUTER: Počítač
+  LABEL_PLANT: Rostlina
+  LABEL_TABLEPLANT: Stůl
+  LABEL_PRINTER: Tiskárna
+  LABEL_COFFEEMACHINE: Automat na kávu
+  LABEL_DARKMETALTABLEDESK: Stůl z tmavého kovu
+  LABEL_METALDESK: Kovový stůl
+  LABEL_METALLARGEDESK: Velký kovový stůl
+  LABEL_METALTABLEDESK: Metal desk
+  LABEL_WOODDESK: Dřevěný stůl
+  LABEL_WOODLARGEDESK: Velký dřevěný stůl
+  LABEL_WOODTABLEDESK: Dřevěný stůl
+  LABEL_WATERTANK: Výdejník vody
+  LABEL_WHITEBOARD: Tabule
+  LABEL_WOODBOOKSHELF: Dřevěná knihovna
+  LABEL_METALBOOKSHELF: Kovová knihovna
+  LABEL_HOLIDAY: Dovolená
+  LABEL_NO_COMPUTER: Žádný počítač
+  LABEL_NO_STUDIO: Žádné studio
+  LABEL_EMPLOYEE_CAPACITY: Produktivita
+  LABEL_STUDIO_CAPACITY: Produktivita studia
+  LABEL_EMPLOYEE_TOOLTIP: Produktivita zvyšuje zaměstnancovu efektivitu.
+  LABEL_STUDIO_TOOLTIP: Produktivita zvyšuje efektivitu studia.
+  LABEL_BUILD_STUDIO: Upravit studio
+  LABEL_WALL: Zeď
+  LABEL_PILLAR: Sloup
+  LABEL_FLOOR: Podlaha
+  LABEL_HIRING_DATE: Datum najmutí
+  LABEL_WORK: Status
+  LABEL_NUMBER_OF_GAME_PRODUCED: Vytvořených her
+  LABEL_DESIGN_POINT_PRODUCED: Vyprodukovaných bodů designu
+  LABEL_DEVELOPMENT_POINT_PRODUCED: Vyprodukovaných bodů vývoje
+  LABEL_POLISH_POINT_PRODUCED: Vyprodukovaných bodů dokončení
+  LABEL_PRODUCTIVITY: Produktivita
+  LABEL_MONEY_EFFICIENCY: Nákladová efektivita
+  LABEL_SKILLS: Dovednosti
+  LABEL_HOME: Domov
+  LABEL_MONTH: Měsíc
+  LABEL_ORDER_BY: Řadit podle
+  LABEL_BUY_PRICE: Cena nákupu
+  LABEL_RENT_PRICE: Cena pronájmu
+  LABEL_NO_STUDIO_AVAILABLE: Žádné dostupné studio
+  LABEL_REAL_ESTATE: Nemovitosti
+  LABEL_STAFF_SIZE: Množství zaměstnanců
+  LABEL_CREATION_DATE: Datum vytvoření
+  LABEL_STUDIO_LIST: Seznam studií
+  LABEL_NO_STUDIO_FOUND: Žádné studio nebylo nalezeno
+  LABEL_PRODUCTIVITY_BONUS: Bonus k produktivitě
+  LABEL_SKILLS_AVERAGE: Dovednosti (průměr)
+  LABEL_VSYNC: VSync
+  LABEL_BORDERLESS_WINDOW: Režim bez okrajů
+  LABEL_GAME_UPDATE_FEATURE: >
+    Vydávejte pro své hry aktualizace a nový obsah. Aktualizace zdarma, nebo placená DLC? Je to na vás.
+  LABEL_GAMEEDITION_SUBMIT: >
+    Máte mnoho fanoušků.
+    Jste dost známí k tomu, aby jste mohli upravovat hry.
+  LABEL_GAMEEDITION_RECEIVE: >
+    Díky vašim nedávným úspěchům je jen otázkou času, než vás začnou vydavatelé kontaktovat s nabídkami.
+  LABEL_WORLDMAP: >
+    Celý svět není jenom tato kancelář - venku toho čeká mnohem více...
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: >
+    Začinají se objevovat první herní magazíny, což nabízí nové možnosti pro marketing.
+  LABEL_MARKETING_CAMPAIGN_TV: >
+    Je načase udělat vaše hry známější díky televizním reklamám.
+  LABEL_MARKETING_CAMPAIGN_INTERNET: >
+    Začíná internetová éra, a spolu s ní období marketingu snadnějšího a efektivnějšího než kdy dříve.
+  LABEL_CONCURRENT_STUDIOS_LIST: >
+    Vaše studio se neustále rozrůstá. Je načase udělat průzkum trhu a posvítit si na konkurenci.
+  LABEL_CONCURRENT_STUDIOS_BUY: >
+    Vaše studio se nachází ve velmi příznivé finanční situaci. Možná je načase odkupovat konkurenty?
+  LABEL_FURNITURES_COMMON_BUY: >
+    Je čas na redekoraci kanceláře.
+  LABEL_EMPLOYEES_HIRE: >
+    Vaše studio se zlepšuje a vytváří čím dál lepší hry. Je ale na řadě expandovat pořádně najmutím prvních zaměstnanců.
+  LABEL_STUDIO_RENT: >
+    Vaše současné studio je poněkud malé...Je čas si najít novou budovu.
+  LABEL_STUDIO_BUILD: >
+    Váš úspěch vám umožňuje vybudovat nové budovy.
+  LABEL_CONVENTION_ORGANIZE: >
+    Se sta tisícem fanoušků za vašimi zády je nyní možné pořádát vlastní výstavy.
+  LABEL_CONVENTION_PARTICIPATE: >
+    Váš herní katalog stojí za to být viděn. Účast v herích výstavách by pomohla zvýšit o vašem studio povědomí.
+  LABEL_STUDIO_CUSTOMIZE: >
+    Už se nemůžete na ty nudné stěny dívat?
+    Je čas je změnit.
+  LABEL_GAME_ONLINE: >
+    Jak přilepit vaše hráče k obrazovce?
+    Internet! Vytvořte online hru a oni se na ní stanou zavislými!
+  LABEL_FURNITURES_SERVERS_BUY: >
+    Více stolů, více židlí, více počítačů, více tbulí, více všeho!
+  LABEL_DIGITAL_STORE: >
+    Distribuční platforma. Teprve jste o tom konceptu slyšeli a už víte, že to je budoucnost.
+  LABEL_POSTMORTEM_FEATURE: >
+    Gratuluji, vytvořili jste svou první hru! Můžete nyní o ní vytvořit zprávu a vyhodnotit vaše rozhodnutí ohledně vývoje a designu.
+  LABEL_NEW_GAME_FEATURE: >
+    Jste připraveni prožít velkolepou historii videoher od samého počátku?
+    Vítejte do City Game Studio. Začněte a vytvořte svou první hru.
+  LABEL_LOADING: Načítání
+  LABEL_NAME: Jméno
+  LABEL_SALARY: Výplata
+  LABEL_NO_SCORE: Žádné skóre zatím nebylo nahráno!
+  LABEL_CAPACITY_STORY_FEATURE: >
+    Dobrá hra je vždycky dobrá, stejně jako dobrý příběh.
+    Co to tak zkombinovat a vytvořt dobrou hru s dobrým příběhem?
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: >
+    Co dělá tohle tlačítko?
+    Odteď potřebujete spravovat uživatelské rozhraní vaších her.
+  LABEL_CAPACITY_NETWORK_FEATURE: >
+    Hraní her je skvělé, ale hraní her s přáteli je ještě lepší!
+    Pro své hry teď budete muset spravovat síťové možnosti.
+  LABEL_CAPACITY_MODDING_FEATURE: >
+    Některé z vašich her byly už hráči modifikovány.
+    Díky tomu můžete prodat více her.
+    Je na čase těmto 'hackerům' pomoct - vytvořit pro ně v každé vaší hře dedikované API.
+  LABEL_CAPACITY_CUTSCENES_FEATURE: >
+    Filmy ovlivňují videohry. Odteď musíme během vytváření nové hry myslet na cutscény.
+  LABEL_CAPACITY_TUTORIEL_FEATURE: >
+    Hraní nové hry je jako se učit.
+    Není to snadné, a tak jste se rozhodli pro své nové hry vytvářet tutoriály.
+
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: >
+    Rick a Paris ukazují své sdílí životy.
+    Soviální sítě tu už jsou a nejspíše zůstanou navždy,
+    tak proč jich nevyužít k marketingu!
+
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: >
+    Nedávná studie odhalila, že posílání spamových emailů může podstatně
+    navýšit viditelnost vašich her. Je načase ten otravný spam použít
+    k propagaci a marketingu!
+
+  LABEL_GAMEPORT_FEATURE: >
+    Splnily se všechny sny. Nová konzole byla vydána!
+    Můžete nyní vytvářet multiplatformní hry.
+    Zkuste to!
+
+  LABEL_GAME_CREATION: Odhadněte množství potřebné práce pro každou oblast vaší hry.
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
+    Můžete se nyní pustit do vydavatelských kontraktů. Vydání hry přes vydavatele je relativně snadný způsob, jak prodávat větší hry a vydělat si peníze.
+  LABEL_WORLDMAP_DESCRIPTION_0: >
+    Navštivte město, podívejte se na konkurenci a prozkoumejte okolí své kanceláře.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
+    Umožňuje organizovat reklamní kampaně přes mnoho herních magazínů. To pozvedne viditelnost vaších her.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: >
+    Umožňuje pronajmout billboardy a umístit na ně plakáty s vašimi aktuálně prodávanými hrami..
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: >
+    Můžete nyní najmout marketingové manažery, kteří zefektivní současné a budoucí reklamní kampaně!
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: >
+    Umožňuje organizovat televizní reklamy. Je to drahé, ale kdo se v současné době nedívá na televizi?!
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
+    Můžete nyní zobrazovat své reklamy na webových stránkách Je to levné a efektivní pro zvýšení viditelnosti vaší hry.
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: >
+    Nyní je možné vytvořit na internetu rozdáhnou marketingovou kampaň a pořádně ukázat světu, že vaše hry existují.
+  LABEL_GAME_ONLINE_DESCRIPTION_1: >
+    Síťoví administrátoři snižují vytížení serverů, což vám umožní se stejným počtem serverů obsloužit více hráčů.
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: >
+    Již dříve jste mohli vidět konkurenty na mapě města, ale nyní je můžete sledovat.
+  LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
+    Odkupování konkurentů není jen snadný způsob na získání fanoušků, ale také na rozšíření společnosti.
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: >
+    Když se díváte na jedno ze svých studií, můžete do něj nakoupit nábytek.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: >
+    Mějte na mysli, že dobré hry jsou vytvářeny týmy, které jsou dobré jak v designu, tak ve vývoji a dokončování.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: >
+    Producenti zvyšují produktivitu zaměstnanců a umožňují vytvářet větší hry.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: >
+    HR zvyšuje spokojenost zaměstnanců a umožňuje spravovat jejich rozvrhy.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
+    Najmutí účetního vám pomůže ušetřit na daních.
+  LABEL_STUDIO_RENT_DESCRIPTION_0: >
+    Umožňuje pronajmout nové budovy. To vám umožní pracovat na více projektech zároveň.
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: >
+    Umožňuje postavit nové budovy. Je to drahé, ale je to jediný způsob, jak expandovat bez limitů.
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: >
+    Kromě studií můžete budovat i výstaviště, která jsou nutná k pořádání veletrhů.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: >
+    Vybudujte univerzity ke školení svých zaměstnanců. Dosáhnou díky tomu perfekce!
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: >
+    Pokud budete mít výstaviště, budete moct pořádat vlastní veletrhy.
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: >
+    Můžet se účastnit veletrhů, což zvýší viditelnost vašich vystavených her.
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: >
+    Ve svých studiích můžete přebarvit zdi, změnit sloupy a přepravovat podlahu..
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
+    Nakoupení serverů vám umožní vytvořit online hry a vlastní distribuční platformu.
+  LABEL_GAME_ONLINE_DESCRIPTION_0: >
+    Můžete vytvářet online hry. Jsou většinou levnější, ale hráči budou muset platit předplatné.
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: >
+    Můžete vytvořit distribuční platformu a konečně vydat její první alfa verzi, která ale bude muset být ještě zlepšena.
+  LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
+    Buďte jako vydavatel a najímejte společnosti, aby pro vás vytvářely hry.
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: >
+    Zprávy o hře jsou zprávy o tom, co se během vývoje hry podařilo a co ne. Dávají vám během vývoje budoucích her nápovědy.
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: >
+    Vytvoření dobré hry je dobrým způsobem, jak v City Game Studio pokročit. Umožní vám získat zkušenosti, fanoušky a finance.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
+    Odteď můžete během vývoje hry vybrat cílové publikum. To ovlivňuje hodnocení a prodeje vaší hry.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
+    Máte nyní během vývoje hry novou designovou oblast.
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
+    Máte nyní během vývoje hry novou designovou oblast.
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
+    Máte nyní během vývoje hry novou designovou oblast.
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
+    Máte nyní během vývoje hry novou vývojovou oblast.
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
+    Máte nyní během vývoje hry novou dokončovací oblast.
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
+    Máte nyní během vývoje hry novou dokončovací oblast.
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
+    Odteď můžete dávat své reklamy na sociální sítě. Je to velmi cílené a efektivní, ale také velmi drahé.
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: >
+    Posílání emailů vás nebude stát skoro nic a ovlivní to prodeje vaších her.
+  LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
+    Můžete odteď portovat své hry na jiné platform.
+  LABEL_UNLOCK_GAMEGENRE: Během vytváření her jste získali mnoho zkušeností. Cítíte se připraveni vytvářet nové herní mechaniky.
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: >
+    Odteď můžete odemykat nové žánry. K získání bodů žánrů stačí jen vydávat hry.
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
+    Už jsou dostupné kontrakty. Dokončení kontraktu vám dá finance, zkušenosti a nápovědy pro specifický herní žánr.
+
+  # Placeholder used for forms
+  PLACEHOLDER_COMPANY_NAME: Název společnosti
+  PLACEHOLDER_GAME_GENRE: Žánr
+  PLACEHOLDER_GAME_NAME: Název hry
+  PLACEHOLDER_PLAYER_NAME: Vaše jméno
+
+  LABEL_VERSION_BETA: Beta verze
+  LABEL_BREAK_LAW: |
+    Chystáte se porušit zákon.
+    
+    Chcete pokračovat?
+  LABEL_SUCCESS: Úspěch
+  LABEL_FAILURE: Selhání
+  LABEL_CANNOT_INTERACT: S %s nebudete schopni interagovat do %s
+  LABEL_FAN_LOST: Tohle ovlivnilo vaši popularitu. Ztratili jste %s fanoušků.
+  LABEL_PENALTY_COST: Podle zákona musíte zaplatit %s$
+  LABEL_EMPLOYEE_HIRED: Najmuli jste %s
+  LABEL_GAME_CRACKED: |
+    Příjem generovaný %s je vydělen třemi
+    a už není konkurentem vaších her.
+  LABEL_GENRE_STOLEN: Ukradli jste žánr: %s
+  LABEL_STUDIO_SOLD: Prodali %s
+  LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
+    Tento žánr již není unikátní,
+    protože byl vytvořen již nějakou jinou společností.
+  LABEL_RELATIONSHIP: Vztah
+  LABEL_RELATIONSHIP_FRIENDLY: Přátelský
+  LABEL_RELATIONSHIP_NEUTRAL: Neutrální
+  LABEL_RELATIONSHIP_UNFRIENDLY: Nepřátelský
+  LABEL_ARCADE_SNEAK_IN: Arkádový automat Sneak In
+  LABEL_FOOSBALL: Fotbálek
+  LABEL_HOOVERBALL: Vzdušný hokej
+  LABEL_TV: Televize
+  LABEL_ARCADE_CITY_GAME_STUDIO: Arkádový automat City Game Studio
+
+  # Tutoriel labels
+  TOOLTIP_UNIVERSITY_TRAINING: |
+    Univerzity vám umožňují školit zaměstnance za hranice normálních možností.
+    Nicméně, školení také může navýšit výplatu.
+  TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
+    Maximálně 2 žánry na hru.
+
+    Některé žánry už jsou kombinací jiných,
+    a tak je nelze s ostatními žánry kombinovat.
+  TOOLTIP_GAME_GENRE_LOCKED: |
+    Tento žánr je zatím nedostupný.
+  TOOLTIP_GAME_TYPE_SELECT_ONE: |
+    Musíte k započnutí vývoje hry vybrat alespoň jeden žánr.
+  TOOLTIP_RANDOM_SLIDER: |
+    Během vývoje hry se doba potřebné práce v rlzných oblastech stane náhodnou.
+  TOOLTIP_REQUIRE_GAME: |
+    Musíte k odemčení této položky vlastnit %s.
+  TOOLTIP_RELATIONSHIP: |
+    S dobrým vztahem můžete dostat výhodnější nabídku.
+    Špatmý vztah, na druhou stranu, dělá vyjednávání složitější.
+
+    Vztahy se zlepšují, pokud vydáváte hry na jejich platformu,
+    koupíte si jejich licenci, nebo přijmete dohodu o exkluzivitě.
+
+    Vztahy se zhoršují, pokud odmítnete dohodu o exkluzivitě
+    nebo když si během jednání nekoupíte žádnou licenci.
+  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
+    Přidejte ke zlepšení tohoto pracoviště automaty nebo rostliny.
+
+  TOOLTIP_EMPLOYEE_BORED_GENRE: |
+    Váš zaměstnanec chce vyzkoušet nějaký nový žánr.
+    Nechce už pracovat na žánru jako:
+
+  TOOLTIP_GAME_ENGINE_WHY: |
+    Vytvořte si vlastní engine.
+
+    Pokud vytvoříte proprietární engine, můžete k němu prodávat licenci.
+    Alternativně ho můžete udělat open-source, aby ho zlepšovala vaše komunita.
+    Další možností je nechat si ho jen pro sebe, přičemž konkurenti nezískají žádnou výhod.
+  TOOLTIP_TRADE_PUBLISH_WHY: |
+    Vytvářejte hry pro konkurenty.
+
+    Rychle získáte mnoho fanoušků.
+    Na druhou stranu, vaši konkurenti budou růst ještě rychleji.
+  TOOLTIP_PUBLISH_GAME_WHY: |
+    Staňte se vydavatelem.
+
+    Je to levnější než vyvíjet hru na vlastní pěst. Může to hodně vydělat.
+    Nezískáte ale žádné fanoušky.
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
+    Tato funkce není dostupná,
+    přestože se v originále nacházela.
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
+    Tato funkce sice není dostupná,
+    ale existuje k ní alternativa.
+    Je doporučeno ji použít.
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
+    Tento remake nevyužívá
+    schopnosti této platformy naplno.
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
+    Některé funkce nesjou podporávy. Vyberte prosím jiné.
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Zpráva o hře byla již vytvořena.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Vytvářet zprávy o hrách automaticky.
+  TUTORIEL_CREATE_GAME: |
+    Stiskněte toto tlačítko k otevření menu pro vytváření her.
+  TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
+    Náklady pro aktualizaci tohoto enginu jsou vyšší. Čím starší engine je,
+    tím nákladnější je ho udržovat.
+
+    Měli by jste radši vytvořit nový, takže neztratíte kvůli zastaralému kódu více peněz.
+  TUTORIEL_PLATFORM_MAKING_COSTS: |
+    Mějte na mysli, že výrobní ceny této platformy jsou vyšší než prodejní ceny, které jste nastavili.
+    Pokud se konzole stane populární, společnost by mohla zbankrotovat.
+
+    Z tohoto důvodu by jste měli cenu platformy navýšit.
+  TUTORIEL_CREATE_GAME_OBSOLETE: |
+    Ostatním vývojářům se na této platformě nedaří prodávat své hry.
+    Je pravděpodobné, že se vám také nepodaří prodat mnoho kusů.
+
+    Měli by jste si vybrat jinou platformu, nebo budete zklamaní.
+  TUTORIEL_CREATE_NORMAL_GAME: |
+    Protože nemáte dostatek fanoušků k vytváření her této velikosti,
+    budete potřebovat k úspěchu hodnocení vyšší než 90%.
+
+    Měli by jste tuto hru udělat pro lepší prodeje menší.
+    K rozšíření své fanouškovské základny můžete také najít vydavatele a vyvinout pro něj několik her.
+
+  # Tooltips
+  TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
+    Podepsali jste smlouvu o exkluzivitě.
+    Tato hra nemůže být portována na jiné platformy a bude muset zůstat v obchodech alespoň rok.
+    Můžete ji ale zrušit.
+  TOOLTIP_KEEP_HINT: |
+    Když zaškrtnete toto pole, budete mít k dispozici všechny tipy
+    ze všech zpráv o hrách, které jste ve svých minulým hrách vytvořili.
+  TOOLTIP_CONCURRENT_PAY_TO: >
+    Protože %s nesplnilo očekávání, bude vám udělena pokuta ve výši %s$.
+    Protože máte jen %s$, bude lepší, když si v zájmu nezbankrotování vezmete půjčku .
+  TOOLTIP_ROYALTY_GET: |
+    Tohle je procento, které z prodejů hry získáte.
+  TOOLTIP_ROYALTY_GIVE: |
+    Tohle je procento, které z prodejů zaplatíte.
+  TOOLTIP_SERVER_BURNING: |
+    Mějte na paměti, že servery tolik hráčů neunesou.
+
+    Zákazníci, kteří si hru koupili, se počítají jako prodeje. Své hry ale okamžitě vrací, protože se jim nedaří přihlásit.
+    Finanční ztráty jsou významné.
+
+    Je načase navýšit kapacitu svých serverů.
+  TOOLTIP_FIRST_CUSTOM_CONSOLE: |
+    Gratulujeme, začali jste pracovat na své první konzoli!
+
+    K dobrým prodejům budete potřebovat velký katalog her. Posílání
+    vývojářských sad konkurenci ji podpoří, aby na vaši konzoli nějakou hru vydala.
+
+    Stiskněte tlačítko k odeslání devkitů.
+  TOOLTIP_GAME_PRICE_TAG: |
+    Placená hra / Free to play hra.
+
+    Pro hru zdarma musíte buď vytvořit online
+    hru s měsíčním předplatným, anebo aktivovat
+    reklamní nebo mikrotransakční modul.
+  TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
+    Shromažďuje příkazy k nákupu a prodeji
+    vydané v tomto časovém rámci.
+  TOOLTIP_TRADE_CHART: |
+    Graf je úplně základní. Každý sloupec může být buď modrý,
+    nebo červený. Když je sloupec červený, znamená to, že cena
+    akcií poklesla. Na druhou stranu, pokud je modrý, tak cena
+    se navýšila. Výška sloupce ukazuje, jak moc je rozdíl mezi
+    původní a současnou hodnotou akcií. Tenká čára, která přes
+    něj prochází, naznačuje minimum a maximum.
+  TOOLTIP_GAME_SIZE: |
+    Velikost hry mění množství vyžadovaných 
+    bodů a délku a náklady vývoje.
+
+    Je obtížnější získat hodnocení nad 90 s malou hrou než s velkou.
+  TOOLTIP_THEME_TREND: |
+    Popularita témat ovlivňuje prodeje.
+  TOOLTIP_HAPPY_EMPLOYEE: |
+    Váš zaměstnanec je spokojen
+  TOOLTIP_EMPLOYEE_HAPPINESS: |
+    Čím spokojenější zaměstnanec je, tím méně bude chodit na dovolené.
+    Čím nespokojený zaměstnanec je, tím více bude chodit na dovolené.
+  TOOLTIP_EMPLOYEE_PRODUCTIVITY: |
+    Čím vyšší je produktivita zaměstnanců, tím více bodů vyprodukují.
+  TOOLTIP_GAME_PRICE: |
+    Čím vyšší je cena hry, tím vyšší je profit z ní.
+    Nízké ceny ale pomáhají získat si fanoušky.
+  TOOLTIP_TOO_HARD: |
+    Tato úroveň obtížnosti je těžká.
+    Nejdříve je lepší mít hru dokončenou na obtížnost 1 nebo 2.
+
+    Příliš vysoká obtížnost může vést k tomu, že si hru neužijete nebo budete mít pocit, že je něco nespravedlivé nebo nevyvážené..
+  TOOLTIP_REQUIRED_POINTS: |
+    Množství vyžadovaných bodů pro dobrou hru.
+
+    Čím větší hra je, tím více bodů bude potřeba vyprodukovat.
+    V úvahu jsou také brány podobné hry z posledních 4 let.
+  TOOLTIP_NO_MONEY: |
+    Je načase být trochu rozumnější.
+
+    Jinými slovy - budete muset snížit své náklady, aby vás nepotkal bankrot.
+    Je potřeba udělat něco hned.
+
+    Vaší nejlepší sázkou bude si vzít co největší půjčku s co nejdelším obdobím splátky.
+  TOOLTIP_GAME_UPDATE_BUTTON: >
+    Stiskněte k aktualizaci hry, vytvoření DLC, nebo prohlédnutí finančních detailů
+  TOOLTIP_GAMECREATION_HELP: >
+    Ukáže hry, které jste již vytvořili a mají stejný žánr. Uitečné při přiřazování množství práce pro každou oblast.
+  TOOLTIP_GAMEENGINE_CREATE: >
+    Vyberte, které funkce chcete do svého enginu implementovat.
+  TOOLTIP_TIRED_GAME_GENRE: >
+    Vaši zaměstnanci chtějí vyzkoušet něco nového,
+    už je nebaví neustále vytvářet hry do stejného žánru: 
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
+    Vyberte témata/platformy k průzkumu
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Vyberte herní žánr k průzkumu
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Please select the game genres/targetted audiences to analyze
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Please select the platform to study
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Protože jste o této položce již průzkum trhu udělali, není potřeba ho provádět znovu.
+  TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
+    Školte své zaměstnance, dokud se nestanou perfektními
+    nebo jen po určité časové období.
+  TOOLTIP_UNIVERSITY_AUTOTRAINING: |
+    Automaticky pošle zaměstnance na školení, kde zůstanou, dokud
+    nebudou perfektními nebo se nenaskytne žádná práce. Vyžaduje HR.
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Školí zaměstnance v každém aspektu vývoje.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Školí zaměstnance jen v jedné oblasti vývoje.
+  TOOLTIP_PLATFORM_MARKETING: |
+    Pokud aktivováno, marketingová kampaň začne automaticky
+    hned potom, co bude platforma vydána.
+  TOOLTIP_MENU_CREATE_GAME: |
+    Vytvořte novou hru, engine, zprávu o hře,
+    port hry, nebo kontrakt.
+  TOOLTIP_MENU_CREATE_CONSOLE: |
+    Vytvořte a spravujte digitální distribuční
+    platformu nebo vyviňte novou konzoli.
+  TOOLTIP_GAME_CREATION_BALANCING: |
+    Ukazuje množství práce, kterou budou vaši zaměstnanci splnit.
+    Množství práce příliš vysoké nebo nízké ovlivní kvalitu vyvíjených her.
+    
+    Pro excelentní skóre musí být množství práce v bílé zóně uprostřed.
+  TOOLTIP_GAME_UPDATE: |
+    Zveřejnění aktualizace zdarma navýší prodeje.
+    DLC vygeneruje profit relativní k počku prodaných kopií
+    původní hry.
+  TOOLTIP_MATCH_EXCELLENT: Skvělá shoda
+  TOOLTIP_MATCH_GOOD: Dobrá shoda
+  TOOLTIP_MATCH_OK: Průměrná shoda
+  TOOLTIP_MATCH_POOR: Špatná shoda
+  TOOTIP_STUDIO_HAPPINESS: |
+    Které žánry má vybrané studio rádo
+  TOOLTIP_TOPSALES: |
+    Nejprodávanější hry
+  TOOLTIP_CONVENTION_LIST: |
+    Zúčastněné výstavy
+  TOOLTIP_FORCE_STUDIO: |
+    Musíte vybrat studio, jehož prodej chcete vynutit.
+  TOOLTIP_CRACK_GAME: |
+    Musíte vybrat hru, kterou chcete cracknout.
+  TOOLTIP_HIRE_STAFF: |
+    Musíte vybrat zaměstnance, kterého chcete najmout.
+  TOOLTIP_CONCURRENT_LOCKED: |
+    Budete schopni zkusit další akci proti %s od %s .
+  TOOLTIP_TUTORIEL: |
+    %s k odemčení %s
+  TOOLTIP_EMAIL: |
+    Čtěle zprávy a své emaily.
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Umožňuje vám odemknout nové herní žánry.
+  TOOLTIP_MANAGE_STUDIO: |
+    Ke správě vaších studií, upgradování počítačů, přiřazování zaměstnanců...
+  TOOLTIP_GAMEPORT: Vytvořte port videohry pro jinou platformu.
+  TOOLTIP_POSTMORTEM: |
+    Vytvořte zprávu o hře.
+    Zpráva o hře vám pomůže
+    vyvářet lepší videohry.
+  TOOLTIP_CREATE_GAME: Vytvořte novou hru
+  TOOLTIP_STAFF: Seznam zaměstnanců
+  TOOLTIP_RECRUIT: Seznam potenciálních kandidátů ve městě.
+  TOOLTIP_PORTFOLIO: Seznam všech her, které jste zatím vytvořili.
+  TOOLTIP_OPTION: Parametry a možnosti
+  TOOLTIP_EXIT: Ukončit hru
+  TOOLTIP_STUDIOS: Seznam vaších studií
+  TOOLTIP_STUDIOLIST: Seznam dostupných kanceláří ve městě
+  TOOLTIP_CONSTRUCT: |
+    Postavte novou budovu
+    pro kanceláře nebo k
+    pořádání výstavy.
+  TOOLTIP_CONFERENCE: Spravovat výstavy
+  TOOLTIP_MARKETING: Spravovat marketingové kampaně
+  TOOLTIP_SELL: Prodat kancelář
+  TOOLTIP_SHOP: Nakupte nábytek pro své kanceláře
+  TOOLTIP_BUILDMOD: Vymalujte a zkrášlete svou kancelář
+  TOOLTIP_ASSIGN: Přiřadit zaměstnance
+  TOOLTIP_STUDIO_SELECT: Vybrat studia
+  TOOLTIP_ANNOUNCE_GAME: |
+    Oznámit videohru.
+    Generuje hype.
+  TOOLTIP_CONCURRENT: |
+    Seznam videoherních společností
+  TOOLTIP_STUDIO_COST: |
+    Celkové náklady studia. Zahrnuje nájem a
+    správu vybavení (například serverů)
+  TOOLTIP_MARKETING_COST: |
+    Náklady momentáně aktivních marketingových kampaní
+  TOOLTIP_SALARY_COST: |
+    Výplata každého zaměstnance
+  TOOLTIP_STEAM_MODS: |
+    Steam workshop
+  TOOLTIP_HUMANRESOURCE: |
+    Přiřaďte HR manažera ke správě
+    rozvrhů zaměstnanců a zvedání platu
+  TOOLTIP_GAME_OF_THE_YEAR: |
+    Každá rok, jedna hra je jmenována Hrou roku.
+  TOOLTIP_DESK_REPLACE: |
+    Nahraďte stoly nebo upgradujte počítače
+  TOOLTIP_POSTMORTEM_RED_ZONE: |
+    Zprávy o hrách vám pomohly specifikovat modrou oblast.
+    Jejím opuštěním riskujete, že vytvoříte nebalancovanou hru,
+    kterí získá špatná hodnocení.
+
+  # Showd when game is loading
+  LOADING_SCREEN_TIP_0: >
+    Vaše společnost je tajně hodnocena na základě kvality her, které jste během posledních čtyř her vytvořili.
+  LOADING_SCREEN_TIP_1: >
+    K práci ve vaší společnosti se někdy mohou spontánně přihlásit perfektní zaměstnanci.
+  LOADING_SCREEN_TIP_2: >
+    Tato načítací obrazovka je tu pouze proto, aby jste si počkali. Ve skutečnosti hra používá funkci sleep(random(0, 50)), která se opakuje.
+  LOADING_SCREEN_TIP_3: >
+    Odemknutí nového žánru vám dává výhodu nad konkurencí.
+  LOADING_SCREEN_TIP_4: >
+    Vytváření her s vašimi konkurenty je nejlepším způsobem, jak se stát slavným.
+  LOADING_SCREEN_TIP_5: >
+    Můžete sice ve svých budovách pořádat výstavy tak, jak budete chtít, ale nejlepší bude mezi nimi udělat mezeru 1 rok.
+  LOADING_SCREEN_TIP_6: >
+    Oddělení špatných prodejů má vždycky pravdu.
+  LOADING_SCREEN_TIP_7: >
+    K hostování online her potřebujete servery. Jsou sice levnější, ale hráči budou muset platit předplatné, aby je mohli pokračovat hrát.
+  LOADING_SCREEN_TIP_8: >
+    Einstein, náš paskot, během vývoje City Game Studia zaštěkal 65.13krát.
+  LOADING_SCREEN_TIP_9: >
+    Během vývoje City Game Studia bylo přehráno 12,654 vánočních písní.
+  LOADING_SCREEN_TIP_10: >
+    Tržní podíl je sice hezká metrika, ale musíte se také starat o množství her, které byly pro platformu vytvořeny.
+  LOADING_SCREEN_TIP_11: >
+    Chcete pomoct s překládáním City Game Studia? Připojte se na náš Discord server: https://discord.gg/citygamestudio
+  LOADING_SCREEN_TIP_12: >
+    Když kontrolní světla vaších serverů svítí červeně, znamená to, že jsou přetíženy.
+  LOADING_SCREEN_TIP_13: >
+    Nezapomeňte si udělat pauzu na kávu... Ah, automat na kávu je zase rozbitej.
+  LOADING_SCREEN_TIP_14: >
+    Crunch není značka cereálií, ale rozšířená manažerská technika.
+  LOADING_SCREEN_TIP_15: >
+    Vydání nové hry je nejlepší způsob, jak si vydělat.
+  LOADING_SCREEN_TIP_16: >
+    Zprávy o hrách vám pomůžou lépe porozumět, co se hodí pro každý žánr.
+  LOADING_SCREEN_TIP_17: >
+    Podle nedávné studie během deště štěká 1 z 625.3 psů, přičemž ti ostatní se tomu smějí.
+  LOADING_SCREEN_TIP_18: >
+    Neřiďte se vším, co můžete na načítací obrazovce přečíst.
+  LOADING_SCREEN_TIP_19: >
+    Adoptování zatoulané kočky dám vašemu studiu menší bonus.
+  LOADING_SCREEN_TIP_20: >
+    Pokud nejsou dovednosta zaměstnanců v jednom studiu vyrovnány, může to ovlivnit celkovou kvalitu her.
+  LOADING_SCREEN_TIP_21: >
+    Press F1 to open the in-game console
+
+  GAME_UPDATE: Herní aktualizace
+  GAMEENGINE: Hrní engine
+  GAMEEDITION_SUBMIT: Vytvořit vydavatelskou nabídku
+  GAMEEDITION_RECEIVE: Získávat vydavatelské nabídky
+  WORLDMAP: Mapa města
+  MARKETING_CAMPAIGN_MAGAZINE: Tisková teklamní kampaň
+  MARKETING_CAMPAIGN_TV: Televizní reklamní kampaň
+  MARKETING_CAMPAIGN_INTERNET: Online reklammní kampaň
+  CONCURRENT_STUDIOS_LIST: Seznam zaměstnanců
+  CONCURRENT_STUDIOS_BUY: Odkoupit konkurenci
+  FURNITURES_COMMON_BUY: Koupit nábytek
+  EMPLOYEES_HIRE: Najmout zaměstnance
+  STUDIO_RENT: Pronajmutí kanceláře
+  STUDIO_BUILD: Postavení budovy
+  CONVENTION_ORGANIZE: Organizování výstavy
+  CONVENTION_PARTICIPATE: Zúčastnění se výstavy
+  STUDIO_CUSTOMIZE: Renovace vaších studií
+  FURNITURES_SERVERS_BUY: Nákup serverů
+  GAME_ONLINE: Vydat online hru
+  DIGITAL_STORE: Distribuční platforma
+  POSTMORTEM: Zpráva o hře
+  NEW_GAME: Nová hra
+  TARGETTED_AUDIENCE: Cílová skupina
+  STORY: Historie
+  USERINTERFACE: Uživatelské rozhraní
+  NETWORK: Síť
+  MODDING: Moddování
+  CUTSCENES: Cutscény
+  TUTORIEL: Tutoriály
+  MARKETING_CAMPAIGN_SOCIALNETWORK: Cílená reklamní kampaň
+  MARKETING_CAMPAIGN_MAILINGLIST: Emailová reklamní kampaň
+  GAMEPORT: Portovat hru
+  UNLOCK_GAMEGENRE: Odemknout herní žánr
+  UNLOCK_HUMANRESOURCE: HR
+  UNLOCK_GAME_OF_THE_YEAR: Hra roku
+  UNLOCK_CLOUD_SERVER: Cloudové servery
+  REMASTER_AND_REMAKE: Remaky & Remastery
