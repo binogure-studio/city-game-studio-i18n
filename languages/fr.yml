@@ -99,6 +99,31 @@ fr:
   BUTTON_SAVEGAMEAS: Nouvelle sauvegarde
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    Vous êtes sur le point de démolir le bâtiment [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler le jeu appelé [b]%s[/b] ainsi que tous les portages qui ont été faits.
+    Voulez-vous vraiment continuer ?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler le portage de [b]%s[/b] sur la console [b]%s[/b].
+    Voulez-vous vraiment continuer ?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler une mise à jour gratuite de [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    Vous êtes sur le point d'annuler [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    En tant qu'éditeur, vous ne récupérer aucune astuce des rapport de jeu et vous ne récupérez aucun fan.
+    Ceci dit vous ne perdez aucun fan non plus.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    Il faut un bureau disponible pour engager et assigner un employé.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    Vous êtes sur le point de démolir le studio [b]%s[/b].
+    Voulez-vous continuer ?
+  LABEL_CURRENT: actuellement
+  LABEL_MAXIMUM: maximum
   LABEL_PLATFORM_GENERATION: Génération
   LABEL_MODS_NOT_LOADED: Certains mods ne sont pas chargés
   LABEL_MOD_LOADING: Chargement des mods (%s / %s)
@@ -596,8 +621,15 @@ fr:
     Assigner un comptable pour réduire les taxes à payer
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Assigner un responsable marketing pour augmenter la popularité d'un jeu
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Confier à un producteur le soin de déterminer le nombre de points requis
   LABEL_PRODUCER_TOOLTIP: |
-    Assigner un producteur permet de faire de plus gros jeux et augmente la productivité de vos employés
+    Les producteurs créent des jeux de grande envergure et augmentent la productivité des développeurs.
+    Ils se spécialisent dans un genre particulier, ce qui optimise les zones bleues des jauges et
+    double l'augmentation de la productivité si le jeu que vous créez correspond à sa spécialité.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    Vous avez choisi le bon producteur pour réaliser votre jeu.
+    Et cela vous donne encore plus de conseils que d'habitude.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     Assigner un administrateur réseau vous permet d'optimiser la charge serveur nécessaire par joueur.
   LABEL_INTERVIEW_INDIE: |
@@ -734,6 +766,8 @@ fr:
     Projection du nombre d'unités vendues: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     Je veux publier des jeux sur [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    J'ai changé d'avis, on annule tout, aurevoir.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     Cette proposition m'a l'air honnête, nous avons un accord!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -795,6 +829,7 @@ fr:
     aux autres étapes de développement
   LABEL_WARNING_THEME_MISSING: Veuillez sélectionner un thème
   LABEL_BUYABLE: Achetable
+  LABEL_IAP_NO_TEMPLATE_SELECTED: Pas de microtransactions
   LABEL_IAP_ADD_MICROTRANSATION: >
     Ajouter un nouvel achat par microtransaction en cliquant
     sur la croix bleue.
@@ -869,9 +904,9 @@ fr:
     Ils ont su tirer le meilleur de la console    
   LABEL_GAME_ENGINE: Moteur de jeu
   LABEL_FEATURE_LIST: Liste des fonctionnalités
-  LABEL_DESIGN_CAPACITY: Capacité à produire des points de design
-  LABEL_DEVELOPMENT_CAPACITY: Capacité à produire des points de développement
-  LABEL_POLISH_CAPACITY: Capacité à produire des points de polissage
+  LABEL_DESIGN_CAPACITY: Points de design produits par semaine
+  LABEL_DEVELOPMENT_CAPACITY: Points de développement produits par semaine
+  LABEL_POLISH_CAPACITY: Points de polissage produits par semaine
   LABEL_GAMEENGINE_MAKEFOSS: Rendez-le gratuit
   LABEL_GAMEENGINE_PENALITY: >
     En raison du code existant, la mise à jour d'un moteur de jeu coûte un peu plus cher.
@@ -1292,7 +1327,7 @@ fr:
   LABEL_FANBASE_TRENDS: Évolution du nombre de fan
   LABEL_YEAR: Années
   LABEL_GAMEOVER_CONFIRM: Déclarer faillite
-  LABEL_GAMEOVER_DESCRIPTION: >
+  LABEL_GAMEOVER_DESCRIPTION: |
     Déclarer faillite terminera la partie en cours.
     Êtes-vous sûr de vouloir déclarer faillite?
   LABEL_EXPENSES: Dépenses
@@ -1769,6 +1804,8 @@ fr:
   LABEL_LICENSE_COST: Licence
   LABEL_OWNED: Possédée
   LABEL_WEEK_COST: Coûts de développement
+  LABEL_PLATFORM_DEV_COSTS: |
+    Frais de démarrage liés à la console
   LABEL_CATALOG_SIZE: Taille du catalogue de jeu
   LABEL_PLATFORM_LIST: Liste des plateformes
   LABEL_IDLE: Inactif
@@ -2052,6 +2089,8 @@ fr:
     Les contrats sont maintenant accessibles. Les contrats vous permettent de gagner de l'argent, de l'expérience mais aussi à faire des jeux.
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: L'équipe est bien équilibrée
+  LABEL_TEAM_NOT_BALANCED: L'équipe est déséquilibrée
   PLACEHOLDER_COMPANY_NAME: Nom de la compagnie
   PLACEHOLDER_GAME_GENRE: Genre du jeu
   PLACEHOLDER_GAME_NAME: Nom du jeu
@@ -2129,6 +2168,17 @@ fr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    C'est lorsque vous présentez vos jeux lors de conventions que vous générez un engouement supplémentaire.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Félicitations, vous venez de développer votre console !
+
+    Avant de publier votre console, il est important de constituer un bon catalogue de jeux.
+    Pour ça, vous pouvez faire des signer des contrats d'exclusivités avec vos concurrents.
+    Ou alors vous pouvez publier un tas de petits jeux vous vous-même.
+    Il y a toujours l'option d'agir comme un éditeur d'engager des petits studios indépendants pour faire des jeux pour vous.
+
+    L'un dans l'autre, il est préférable d'avoir au moins 15 jeux avant de publier votre première console.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Les universités permettent de former vos employés au-delà de leurs capacités normales.
     Cependant, former vos employés au-delà de leurs capacités normales va considérablement augmenter leur salaire.
@@ -2154,6 +2204,9 @@ fr:
 
     Votre relation se dégrade lorsque vous refusez un contrat d'exclusivité,
     ou lorsque vous entamez une discussion sans acheter de license.
+  TOOLTIP_TIPS_CAPACITY: |
+    Vous obtenez plus d'indices en faisant des contrats ou des rapports de jeu.
+    Plus d'indices signifie une jauge bleue plus précise.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Vous avez signé une offre exclusivité.
     Vous ne pouvez pas porter ce jeu sur une autre console, et ce jeu doit rester en vente pour une durée minimale de un an.

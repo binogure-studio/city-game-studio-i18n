@@ -99,6 +99,31 @@ es:
   BUTTON_SAVEGAMEAS: Nueva partida guardada
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    Está a punto de demoler el edificio [b]%s[/b].
+    ¿Quieres continuar?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    Estás a punto de cancelar el juego llamado [b]%s[/b] así como todos los ports que se han hecho.
+    ¿De verdad quieres continuar?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    Estás a punto de cancelar la adaptación de [b]%s[/b] a la consola [b]%s[/b].
+    ¿Realmente quieres continuar?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    Estás a punto de cancelar una actualización gratuita de [b]%s[/b].
+    ¿Desea continuar?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    Está a punto de cancelar [b]%s[/b].
+    ¿Quieres continuar?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    Como editor, no recibes propinas de los informes de los partidos y no consigues fans.
+    Pero tampoco pierdes aficionados.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    Necesita una oficina disponible para contratar y asignar a un empleado.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    Está a punto de demoler la oficina [b]%s[/b].
+    ¿Quieres continuar?
+  LABEL_CURRENT: actualmente
+  LABEL_MAXIMUM: máximo
   LABEL_PLATFORM_GENERATION: Generación
   LABEL_MODS_NOT_LOADED: Algunos mods no se cargan
   LABEL_MOD_LOADING: Cargando mods... (%s / %s)
@@ -579,9 +604,15 @@ es:
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Asignar un gerente de marketing para aumentar la
     popularidad de un juego.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Asignar un productor para averiguar el número de puntos necesarios
   LABEL_PRODUCER_TOOLTIP: |
-    Asignar un productor para crear grandes juegos y aumentar
-    la productividad de sus empleados.
+    Los productores crean juegos grandes/AAA e impulsan la productividad de los desarrolladores.
+    Se especializan en un género concreto, lo que optimiza las zonas azules de los indicadores y
+    duplica el aumento de productividad si el juego que estás creando coincide con su especialidad.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    Has asignado al productor adecuado para hacer tu juego.
+    Y eso te da aún más consejos de lo normal.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     Asignar un administrador de red para optimizar la carga
     del servidor necesaria por jugador.
@@ -716,6 +747,8 @@ es:
     Número proyectado de unidades vendidas: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     Quiero publicar juegos en [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    He cambiado de opinión, lo cancelamos, adiós.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     Eso suena como una propuesta justa, ¡tenemos un trato!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -779,6 +812,7 @@ es:
     de desarrollo.
   LABEL_WARNING_THEME_MISSING: No hay ningun tema seleccionado.
   LABEL_BUYABLE: Comprable
+  LABEL_IAP_NO_TEMPLATE_SELECTED: Sin microtransacciones
   LABEL_IAP_ADD_MICROTRANSATION: >
     Añade una microtransacción haciendo clic en el botón azul.
   LABEL_NUMBER_OF_NEW_PLAYERS: Número de jugadores nuevos
@@ -852,9 +886,9 @@ es:
     Han aprovechado al máximo las capacidades de la consola
   LABEL_GAME_ENGINE: Motor de juego
   LABEL_FEATURE_LIST: Lista de características
-  LABEL_DESIGN_CAPACITY: Capacidad para producir puntos de diseño
-  LABEL_DEVELOPMENT_CAPACITY: Capacidad para producir puntos de desarrollo
-  LABEL_POLISH_CAPACITY: Capacidad para producir puntos de pulido
+  LABEL_DESIGN_CAPACITY: Puntos de diseño producidos por semana
+  LABEL_DEVELOPMENT_CAPACITY: Puntos de desarrollo producidos por semana
+  LABEL_POLISH_CAPACITY: Puntos de pulido producidos por semana
   LABEL_GAMEENGINE_MAKEFOSS: Hazlo gratis
   LABEL_GAMEENGINE_PENALITY: >
     Debido al código heredado, actualizar un motor de juego cuesta un poco más.
@@ -1738,6 +1772,8 @@ es:
   LABEL_LICENSE_COST: Licencia
   LABEL_OWNED: Adquirido
   LABEL_WEEK_COST: Costes de desarrollo
+  LABEL_PLATFORM_DEV_COSTS: |
+    Gastos de puesta en marcha de la consola
   LABEL_CATALOG_SIZE: Tamaño del catálogo de juegos
   LABEL_PLATFORM_LIST: Lista de plataformas
   LABEL_IDLE: Desocupado
@@ -2049,6 +2085,8 @@ es:
     Los contratos ya están disponibles. Completar un contrato te da dinero, experiencia y consejos para el género específico del contrato.
  
   # Marcadores utilizados en formularios
+  LABEL_TEAM_BALANCED: El equipo está bien equilibrado
+  LABEL_TEAM_NOT_BALANCED: El equipo está desequilibrado
   PLACEHOLDER_COMPANY_NAME: Nombre de la empresa
   PLACEHOLDER_GAME_GENRE: Género del juego
   PLACEHOLDER_GAME_NAME: Nombre del juego
@@ -2083,6 +2121,17 @@ es:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    Es cuando muestras tus juegos en las convenciones cuando generas el bombo adicional.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Enhorabuena, ¡acabas de desarrollar tu consola!
+
+    Antes de publicarla, es importante hacerse con un buen catálogo de juegos.
+    Para ello, considera la posibilidad de firmar contratos de exclusividad con tus competidores.
+    Otra opción es que lances tú mismo un puñado de pequeños juegos.
+    Por supuesto, siempre existe la opción de actuar como editor contratando a pequeños estudios independientes que creen juegos para ti.
+
+    En definitiva, lo mejor es tener al menos 15 juegos antes de publicar tu primera consola.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Las universidades le permiten formar a sus empleados más allá de sus capacidades normales.
     Sin embargo, formar a tus empleados más allá de sus capacidades normales aumentará significativamente su salario.
@@ -2170,6 +2219,9 @@ es:
     Para aumentar tu número de fans, también puedes aceptar ofertas de publicaciones de otras empresas.
 
   # Información
+  TOOLTIP_TIPS_CAPACITY: |
+    Consigues más pistas haciendo contratos o informes de juego.
+    Más pistas significa un indicador azul más preciso.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Has firmado una oferta exclusiva.
     Este juego no puede ser portado a otra consola, y tiene que permanecer en las estanterías durante al menos un año.

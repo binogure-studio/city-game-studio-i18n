@@ -99,6 +99,31 @@ nl:
   BUTTON_SAVEGAMEAS: Nieuwe savegame
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    Je staat op het punt om het gebouw [b]%s[/b] te slopen.
+    Wil je doorgaan?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    Je staat op het punt om het spel genaamd [b]%s[/b] en alle gemaakte ports te annuleren.
+    Wil je echt doorgaan?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    Je staat op het punt om de port van [b]%s[/b] naar de [b]%s[/b] console te annuleren.
+    Wilt u echt doorgaan?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    Je staat op het punt om een gratis update van [b]%s[/b] te annuleren.
+    Wil je doorgaan?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    Je staat op het punt om [b]%s[/b] te annuleren.
+    Wil je doorgaan?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    Als uitgever krijg je geen tips van spelverslagen en krijg je geen fans.
+    Maar je verliest ook geen fans.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    Je hebt een beschikbaar kantoor nodig om een werknemer aan te nemen en toe te wijzen.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    Je staat op het punt om het kantoor [b]%s[/b] te slopen.
+    Wil je doorgaan?
+  LABEL_CURRENT: momenteel
+  LABEL_MAXIMUM: maximaal
   LABEL_PLATFORM_GENERATION: Generatie
   LABEL_MODS_NOT_LOADED: Sommige mods zijn niet geladen
   LABEL_MOD_LOADING: Mods laden... (%s / %s)
@@ -580,9 +605,15 @@ nl:
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Wijs een marketingmanager aan om de populariteit van een spel
     te vergroten.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Wijs een producent aan om het aantal benodigde punten te achterhalen
   LABEL_PRODUCER_TOOLTIP: |
-    Wijs een producent toe om grote spellen te creëren en de
-    productiviteit van uw medewerkers te verhogen.
+    Producers maken grote/AAA-games en stimuleren de productiviteit van ontwikkelaars.
+    Ze specialiseren zich in een bepaald genre, waardoor de blauwe gebieden van de meters worden geoptimaliseerd en
+    de productiviteit wordt verdubbeld als de game die je maakt overeenkomt met zijn specialiteit.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    Je hebt de juiste producent aangewezen om je spel te maken.
+    En dat geeft je nog meer tips dan normaal.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     Het toewijzen van een netwerkbeheerder om de benodigde
     serverbelasting per speler te optimaliseren.
@@ -717,6 +748,8 @@ nl:
     Verwachte aantal verkochte eenheden: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     Ik wil spellen publiceren op [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    Ik ben van gedachten veranderd, we blazen het af, tot ziens.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     Dat klinkt als een eerlijk voorstel, we hebben een deal!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -780,6 +813,7 @@ nl:
     met de andere ontwikkelingsfasen.
   LABEL_WARNING_THEME_MISSING: Selecteer een thema
   LABEL_BUYABLE: Te koop
+  LABEL_IAP_NO_TEMPLATE_SELECTED: Geen microtransacties
   LABEL_IAP_ADD_MICROTRANSATION: >
     Voeg een microtransactie toe door op de blauwe knop te klikken.
   LABEL_NUMBER_OF_NEW_PLAYERS: Aantal nieuwe spelers
@@ -853,9 +887,9 @@ nl:
     Ze konden het maximale uit de console halen
   LABEL_GAME_ENGINE: Game engine
   LABEL_FEATURE_LIST: Lijst met functies
-  LABEL_DESIGN_CAPACITY: Mogelijkheid om ontwerppunten te produceren
-  LABEL_DEVELOPMENT_CAPACITY: Mogelijkheid om ontwikkelingspunten te produceren
-  LABEL_POLISH_CAPACITY: Mogelijkheid om polijstpunten te produceren
+  LABEL_DESIGN_CAPACITY: Ontwerppunten geproduceerd per week
+  LABEL_DEVELOPMENT_CAPACITY: Ontwikkelpunten geproduceerd per week
+  LABEL_POLISH_CAPACITY: Geproduceerde polijstpunten per week
   LABEL_GAMEENGINE_MAKEFOSS: Maak het gratis
   LABEL_GAMEENGINE_PENALITY: >
     Door de legacy code kost het updaten van een game engine iets meer.
@@ -1271,7 +1305,7 @@ nl:
   LABEL_FANBASE_TRENDS: Fan base trends
   LABEL_YEAR: Jaren
   LABEL_GAMEOVER_CONFIRM: Faillissement
-  LABEL_GAMEOVER_DESCRIPTION: >
+  LABEL_GAMEOVER_DESCRIPTION: |
     Faillissement zal het spel beëindigen.
     Ben je zeker dat je jezelf failliet wilt verklaren?
   LABEL_EXPENSES: Uitgaven
@@ -1722,6 +1756,8 @@ nl:
   LABEL_LICENSE_COST: Licentie
   LABEL_OWNED: In bezit
   LABEL_WEEK_COST: Development kosten
+  LABEL_PLATFORM_DEV_COSTS: |
+    Console-gerelateerde opstartkosten
   LABEL_CATALOG_SIZE: Grootte spelcatalogus
   LABEL_PLATFORM_LIST: Platform lijst
   LABEL_IDLE: Inactief
@@ -2033,6 +2069,8 @@ nl:
     Contracten zijn nu beschikbaar. Het afronden van een contract geeft je geld, ervaring en tips voor een specifiek spelgenre.
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: Team is goed uitgebalanceerd
+  LABEL_TEAM_NOT_BALANCED: Team is onevenwichtig
   PLACEHOLDER_COMPANY_NAME: Bedrijfsnaam
   PLACEHOLDER_GAME_GENRE: Game genre
   PLACEHOLDER_GAME_NAME: Gamenaam
@@ -2068,6 +2106,17 @@ nl:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    Het is wanneer je je spellen laat zien op conventies dat je de bonushype genereert.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Gefeliciteerd, je hebt net je console ontwikkeld!
+
+    Voordat je de console publiceert, is het belangrijk om een behoorlijke catalogus met games op te bouwen.
+    Overweeg hiervoor exclusieve contracten te sluiten met je concurrenten.
+    Je kunt ook zelf een aantal kleine games uitbrengen.
+    Je kunt natuurlijk ook als uitgever optreden en kleine onafhankelijke studio's inhuren om spellen voor je te maken.
+
+    Al met al is het het beste om ten minste 15 spellen te hebben voordat je je eerste console uitbrengt.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Universiteiten stellen u in staat uw werknemers verder op te leiden dan hun normale capaciteiten.
     Door uw werknemers verder op te leiden dan hun normale capaciteiten, zal hun salaris echter aanzienlijk stijgen.
@@ -2155,6 +2204,9 @@ nl:
     Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
 
   # Tooltips
+  TOOLTIP_TIPS_CAPACITY: |
+    Je krijgt meer hints door contracten of wedstrijdverslagen te maken.
+    Meer hints betekent een nauwkeurigere blauwe meter.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Je hebt een exclusieve aanbieding getekend.
     Dit spel kan niet naar een andere console worden geport, en het moet ten minste één jaar in de schappen blijven liggen.

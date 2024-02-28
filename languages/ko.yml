@@ -99,6 +99,31 @@ ko:
   BUTTON_SAVEGAMEAS: 새로운 저장 게임
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    건물 [b]%s[/b]를 철거하려고 합니다.
+    계속하시겠습니까?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    [b]%s[/b]라는 게임과 모든 포트를 취소하려고 합니다.
+    정말 계속하시겠습니까?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    [b]%s[/b]의 콘솔 포팅을 [b]%s[/b]로 취소하려고 합니다.
+    정말 계속하시겠습니까?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    [b]%s[/b]의 무료 업데이트를 취소하려고 합니다.
+    계속 진행하시겠습니까?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    [b]%s[/b]를 취소하려고 합니다.
+    계속하시겠습니까?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    퍼블리셔는 게임 리포트로부터 팁을 얻지 못하고 팬도 얻지 못합니다.
+    하지만 팬을 잃는 것도 아닙니다.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    직원을 고용하고 배정하려면 사용 가능한 사무실이 필요합니다.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    사무실 [b]%s[/b]]를 철거하려고 합니다.
+    계속하시겠습니까?
+  LABEL_CURRENT: 현재
+  LABEL_MAXIMUM: 최대
   LABEL_PLATFORM_GENERATION: 세대
   LABEL_MODS_NOT_LOADED: 일부 모드가 로드되지 않습니다.
   LABEL_MOD_LOADING: 모드 로드 중... (%s / %s)
@@ -571,9 +596,15 @@ ko:
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     마케팅 책임자를 배치하면  
     게임의 인기를 높일 수 있습니다.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    프로듀서를 지정하여 필요한 포인트 수 확인
   LABEL_PRODUCER_TOOLTIP: |
-    개발 책임자를 배치하면  
-    직원의 생산성을 늘리고 대형 게임을 개발할 수 있습니다.
+    프로듀서는 대형/AAA급 게임을 제작하고 개발자의 생산성을 높여줍니다.
+    특정 장르에 특화되어 게이지의 파란색 영역을 최적화하며,
+    제작 중인 게임이 해당 장르에 특화되어 있다면 생산성을 두 배로 높일 수 있습니다.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    게임 제작에 적합한 프로듀서를 지정했습니다.
+    그리고 평소보다 더 많은 팁을 얻을 수 있습니다.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     네트워크 책임자를 배치하면  
     인터넷 서비스 제공에 필요한 서버 수를 줄일 수 있습니다.
@@ -716,6 +747,8 @@ ko:
     해당 플랫폼의 예상 판매량: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     [b]%s[/b]용 게임을 개발하고 싶습니다.
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    마음이 바뀌어서 취소할게요, 안녕히 계세요.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     좋은 제안인 것 같습니다. 거래를 진행하죠!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -764,6 +797,7 @@ ko:
     설계/개발/마감 능력의 균형을 잡아주십시오.
   LABEL_WARNING_THEME_MISSING: 선택된 주제가 없음
   LABEL_BUYABLE: 구매 가능
+  LABEL_IAP_NO_TEMPLATE_SELECTED: 소액 결제 금지
   LABEL_IAP_ADD_MICROTRANSATION: >
     파란색 버튼을 클릭하면, 소액 결제 시스템을 추가할 수 있습니다.
   LABEL_NUMBER_OF_NEW_PLAYERS: 이용자 수(신규)
@@ -835,9 +869,9 @@ ko:
     플랫폼의 연산력을 제대로 활용한 것 같습니다.
   LABEL_GAME_ENGINE: 게임 엔진
   LABEL_FEATURE_LIST: 기능 목록
-  LABEL_DESIGN_CAPACITY: 설계점수 생산력
-  LABEL_DEVELOPMENT_CAPACITY: 개발점수 생산력
-  LABEL_POLISH_CAPACITY: 마감점수 생산력
+  LABEL_DESIGN_CAPACITY: 주당 생산되는 디자인 포인트
+  LABEL_DEVELOPMENT_CAPACITY: 주당 생산되는 개발 포인트
+  LABEL_POLISH_CAPACITY: 주당 생산되는 연마 포인트
   LABEL_GAMEENGINE_MAKEFOSS: 무료화
   LABEL_GAMEENGINE_PENALITY: >
     기존 소스 코드로 인해, 게임 엔진을 업데이트하는 비용이 증가했습니다.
@@ -1261,7 +1295,7 @@ ko:
   LABEL_FANBASE_TRENDS: 팬층 동향
   LABEL_YEAR: 년
   LABEL_GAMEOVER_CONFIRM: 파산
-  LABEL_GAMEOVER_DESCRIPTION: >
+  LABEL_GAMEOVER_DESCRIPTION: |
     파산을 선언하면 게임이 종료됩니다.
     정말로 파산을 선언하시겠습니까?
   LABEL_EXPENSES: 비용
@@ -1727,6 +1761,8 @@ ko:
   LABEL_LICENSE_COST: 라인선스
   LABEL_OWNED: 소유함
   LABEL_WEEK_COST: 개발비
+  LABEL_PLATFORM_DEV_COSTS: |
+    콘솔 관련 시작 비용
   LABEL_CATALOG_SIZE: 판매 중인 게임 수
   LABEL_PLATFORM_LIST: 플랫폼 목록
   LABEL_IDLE: 대기
@@ -2071,6 +2107,17 @@ ko:
   LABEL_ARCADE_CITY_GAME_STUDIO: 아케이드 City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    컨벤션에서 게임을 선보일 때 가장 큰 홍보 효과를 얻을 수 있습니다.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    이제 막 콘솔을 개발하셨습니다!
+
+    게임을 퍼블리싱하기 전에 적절한 게임 카탈로그를 구축하는 것이 중요합니다.
+    이를 위해 경쟁사와 독점 계약을 체결하는 것도 고려해 보세요.
+    또는 직접 작은 게임을 여러 개 출시해 보세요.
+    물론 소규모 독립 스튜디오를 고용하여 게임을 제작하는 퍼블리셔 역할을 하는 방법도 있습니다.
+
+    모든 것을 고려할 때, 첫 콘솔 게임을 퍼블리싱하기 전에 최소 15개의 게임을 보유하는 것이 가장 좋습니다.
   TOOLTIP_UNIVERSITY_TRAINING: |
     대학을 통해 직원의 일반적인 역량을 뛰어넘는 교육을 제공할 수 있습니다.
     그러나 직원의 일반적인 역량을 넘어서는 교육을 실시하면 급여가 크게 인상됩니다.
@@ -2095,6 +2142,8 @@ ko:
 
     라이선스 구매 없이 토론을 시작하거나
     독점계약을 거절하게 되면 관계가 악화됩니다.
+  LABEL_TEAM_BALANCED: 균형이 잘 잡힌 팀
+  LABEL_TEAM_NOT_BALANCED: 팀 불균형
   PLACEHOLDER_COMPANY_NAME: 회사명
   PLACEHOLDER_GAME_GENRE: 장르
   PLACEHOLDER_GAME_NAME: 게임명
@@ -2169,6 +2218,9 @@ ko:
     게임의 규모를 줄이거나 게임 퍼블리싱(개발)을 수행하여 팬층을 늘리십시오.
 
   # Tooltips
+  TOOLTIP_TIPS_CAPACITY: |
+    계약서나 게임 보고서를 작성하면 더 많은 힌트를 얻을 수 있습니다.
+    힌트가 많을수록 블루 게이지가 더 정확해집니다.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     독점 제안에 서명했습니다.
     이 게임은 다른 콘솔로 이식할 수 없으며 최소 1년 동안 선반에 있어야 합니다.

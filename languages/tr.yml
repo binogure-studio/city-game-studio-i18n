@@ -99,6 +99,31 @@ tr:
   BUTTON_SAVEGAMEAS: Yeni kayıt oyunu
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    [b]%s[/b] binasını yıkmak üzeresiniz.
+    Devam etmek istiyor musunuz?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    [b]%s[/b] adlı oyunu ve yapılmış olan tüm portları iptal etmek üzeresiniz.
+    Gerçekten devam etmek istiyor musunuz?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    [b]%s[/b] oyununun [b]%s[/b] konsoluna taşınmasını iptal etmek üzeresiniz.
+    Gerçekten devam etmek istiyor musunuz?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    Ücretsiz bir [b]%s[/b] güncellemesini iptal etmek üzeresiniz.
+    Devam etmek istiyor musunuz?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    [b]%s[/b]'yi iptal etmek üzeresiniz.
+    Devam etmek istiyor musunuz?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    Bir yayıncı olarak, oyun raporlarından herhangi bir ipucu almazsınız ve herhangi bir hayran kazanmazsınız.
+    Ama taraftar da kaybetmezsiniz.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    Bir çalışanı işe almak ve atamak için müsait bir ofise ihtiyacınız var.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    [b]%s[/b] ofisini yıkmak üzeresiniz.
+    Devam etmek istiyor musunuz?
+  LABEL_CURRENT: şu anda
+  LABEL_MAXIMUM: maksimum
   LABEL_PLATFORM_GENERATION: Nesil
   LABEL_MODS_NOT_LOADED: Bazı modlar yüklenmiyor
   LABEL_MOD_LOADING: Modlar yükleniyor... (%s / %s)
@@ -576,9 +601,15 @@ tr:
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Bir oyunun popülerliğini artırmak için bir pazarlama
     müdürü atayın.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Gerekli puan sayısını bulmak için bir üretici atayın
   LABEL_PRODUCER_TOOLTIP: |
-    Büyük oyunlar yaratmak ve çalışanlarınızın üretkenliğini
-    artırmak için bir yapımcı atamak.
+    Yapımcılar büyük/AAA oyunlar yaratır ve geliştirici verimliliğini artırır.
+    Belirli bir türde uzmanlaşırlar, bu da göstergelerin mavi alanlarını optimize eder ve
+    yaptığınız oyun uzmanlık alanıyla eşleşiyorsa üretkenlik artışını ikiye katlar.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    Вы выбрали правильного продюсера для создания своей игры.
+    А это дает вам еще больше подсказок, чем обычно.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     Oynatıcı başına gereken sunucu yükünü optimize etmek için
     bir ağ yöneticisi atamak.
@@ -714,6 +745,8 @@ tr:
     Öngörülen birim sayısı: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     [b]%s[/b]'de oyun yayınlamak istiyorum
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    Fikrimi değiştirdim, iptal ediyoruz, hoşça kal.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     Bu teklif bana dürüst geliyor, bir anlaşmamız var!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -772,6 +805,7 @@ tr:
     geliştirme aşamalarına kıyasla%s'a yeterince zaman harcamıyor
   LABEL_WARNING_THEME_MISSING: Lütfen bir konu seçin
   LABEL_BUYABLE: Satın alınabilir
+  LABEL_IAP_NO_TEMPLATE_SELECTED: Mikro işlem yok
   LABEL_IAP_ADD_MICROTRANSATION: >
     Mavi düğmeye tıklayarak mikroişlem ekleyin.
   LABEL_NUMBER_OF_NEW_PLAYERS: Yeni oyuncu sayısı
@@ -845,9 +879,9 @@ tr:
     Konsoldan en iyi şekilde yararlanabildiler
   LABEL_GAME_ENGINE: Oyun motoru
   LABEL_FEATURE_LIST: Özellikler listesi
-  LABEL_DESIGN_CAPACITY: Tasarım noktaları üretebilme
-  LABEL_DEVELOPMENT_CAPACITY: Gelişim noktaları üretme yeteneği
-  LABEL_POLISH_CAPACITY: Parlatma noktaları üretebilme
+  LABEL_DESIGN_CAPACITY: Haftalık üretilen tasarım noktaları
+  LABEL_DEVELOPMENT_CAPACITY: Haftalık üretilen gelişim noktaları
+  LABEL_POLISH_CAPACITY: Haftalık üretilen parlatma noktaları
   LABEL_GAMEENGINE_MAKEFOSS: Ücretsiz yapmak
   LABEL_GAMEENGINE_PENALITY: >
     Mevcut kod nedeniyle, bir oyun motorunu yükseltmek biraz daha pahalı.
@@ -1263,7 +1297,7 @@ tr:
   LABEL_FANBASE_TRENDS: Fan trendleri
   LABEL_YEAR: Yıl
   LABEL_GAMEOVER_CONFIRM: İflas
-  LABEL_GAMEOVER_DESCRIPTION: >
+  LABEL_GAMEOVER_DESCRIPTION: |
     İflas oyunu bitirecek.
     İflas beyan etmek istediğinize emin misiniz?
   LABEL_EXPENSES: giderler
@@ -1713,6 +1747,8 @@ tr:
   LABEL_LICENSE_COST: Lisans
   LABEL_OWNED: Sahip olunan
   LABEL_WEEK_COST: Geliştirme ücreti
+  LABEL_PLATFORM_DEV_COSTS: |
+    Konsolla ilgili başlangıç maliyetleri
   LABEL_CATALOG_SIZE: Oyun kataloğu boyutu
   LABEL_PLATFORM_LIST: Platform listesi
   LABEL_IDLE: Boş
@@ -2023,6 +2059,8 @@ tr:
     Sözleşmeler şimdi mevcuttur. Bir sözleşmeyi tamamlamak size belirli oyun türleri için para, deneyim ve ipuçları verir.
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: Ekip iyi dengelenmiş
+  LABEL_TEAM_NOT_BALANCED: Takım dengesiz
   PLACEHOLDER_COMPANY_NAME: Şirket adı
   PLACEHOLDER_GAME_GENRE: Oyun türü
   PLACEHOLDER_GAME_NAME: Oyun ismi
@@ -2057,6 +2095,18 @@ tr:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    Oyunlarınızı kongrelerde sergilediğinizde bonus heyecanı yaratmış olursunuz.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Tebrikler, konsolunuzu yeni geliştirdiniz!
+
+    Yayınlamadan önce, iyi bir oyun kataloğu oluşturmak önemlidir.
+    Bu amaçla, rakiplerinizle özel sözleşmeler imzalamayı düşünün.
+    Alternatif olarak, bir grup küçük oyunu kendiniz yayınlayın.
+    Elbette, sizin için oyun yapmaları için küçük bağımsız stüdyolar
+    kiralayarak bir yayıncı olarak hareket etme seçeneği de her zaman vardır.
+
+    Her şey düşünüldüğünde, ilk konsolunuzu yayınlamadan önce en az 15 oyuna sahip olmak en iyisidir.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Üniversiteler, çalışanlarınızı normal yeteneklerinin ötesinde eğitmenize olanak tanır.
     Ancak, çalışanlarınızı normal yeteneklerinin ötesinde eğitmek maaşlarını önemli ölçüde artıracaktır.
@@ -2143,6 +2193,9 @@ tr:
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
 
   # Tooltips
+  TOOLTIP_TIPS_CAPACITY: |
+    Sözleşmeler veya oyun raporları yaparak daha fazla ipucu elde edersiniz.
+    Daha fazla ipucu, daha doğru bir mavi gösterge anlamına gelir.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Özel bir teklif imzaladınız.
     Bu oyun başka bir konsola taşınamaz ve en az bir yıl boyunca raflarda kalmak zorundadır.

@@ -99,6 +99,31 @@ zh:
   BUTTON_SAVEGAMEAS: 新的保存游戏
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    您即将拆除 [b]%s[/b] 建筑。
+    您想继续吗？
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    您即将取消名为 [b]%s[/b] 的游戏以及所有已制作的移植版。
+    您真的想继续吗？
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    您即将取消将 [b]%s[/b] 移植到 [b]%s[/b] 控制台。
+    您真的要继续吗？
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    您即将取消 [b]%s[/b] 的免费更新。
+    您想继续吗？
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    您即将取消 [b]%s[/b]。
+    您想继续吗？
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    作为出版商，你不会从游戏报道中得到任何提示，也不会得到任何粉丝。
+    但你也不会失去任何粉丝。
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    您需要一个可用的办公室来聘用和分配员工。
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    您即将拆除办公室 [b]%s[/b]。
+    您还想继续吗？
+  LABEL_CURRENT: 目前
+  LABEL_MAXIMUM: 最多
   LABEL_PLATFORM_GENERATION: 一代人
   LABEL_MODS_NOT_LOADED: 某些修改程序未加载
   LABEL_MOD_LOADING: 正在加载MODS... (%s / %s)
@@ -568,8 +593,15 @@ zh:
     指派一名会计以减少税收负担。
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     指派一名营销总监以提升游戏的知名度。
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    指派一名制作人找出所需的点数
   LABEL_PRODUCER_TOOLTIP: |
-    指派一名制作人来制作大型游戏，并提升员工的工作效率。
+    制作人可以制作大型/AAA 级游戏，提高开发人员的工作效率。
+    他们专注于某一特定类型的游戏，如果你制作的游戏与他们的专长相匹配
+    就能优化仪表盘的蓝色区域，使生产率提高一倍。
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    你已经指定了合适的制作人来制作你的游戏。
+    这将给你带来比平时更多的提示。
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     指派一名网络管理员以优化每个玩家所需的服务器负载。
   LABEL_INTERVIEW_INDIE: |
@@ -698,6 +730,8 @@ zh:
     预计销售套数：[b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     我想在[b]%s[/b]上发布游戏。
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    我改变主意了，我们分手吧，再见。
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     这听起来很公平，成交！
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -745,6 +779,7 @@ zh:
     要么你的开发团队与其他开发阶段相比，在%s上花费的时间不够多。
   LABEL_WARNING_THEME_MISSING: 请选择一个主题
   LABEL_BUYABLE: 可买的
+  LABEL_IAP_NO_TEMPLATE_SELECTED: 无小额交易
   LABEL_IAP_ADD_MICROTRANSATION: >
     通过单击蓝色按钮来添加微交易。
   LABEL_NUMBER_OF_NEW_PLAYERS: 新玩家人数
@@ -817,9 +852,9 @@ zh:
     他们能够充分利用主机的性能
   LABEL_GAME_ENGINE: 游戏引擎
   LABEL_FEATURE_LIST: 功能列表
-  LABEL_DESIGN_CAPACITY: 产生设计点的能力
-  LABEL_DEVELOPMENT_CAPACITY: 产生开发点的能力
-  LABEL_POLISH_CAPACITY: 产生润色点的能力
+  LABEL_DESIGN_CAPACITY: 每周设计点数
+  LABEL_DEVELOPMENT_CAPACITY: 每周完成的开发点数
+  LABEL_POLISH_CAPACITY: 每周完成的抛光点数
   LABEL_GAMEENGINE_MAKEFOSS: 使其免费
   LABEL_GAMEENGINE_PENALITY: >
     由于历史遗留代码，升级游戏引擎的费用要高一些。
@@ -1229,8 +1264,9 @@ zh:
   LABEL_FANBASE_TRENDS: 粉丝基础趋势
   LABEL_YEAR: 年
   LABEL_GAMEOVER_CONFIRM: 破产
-  LABEL_GAMEOVER_DESCRIPTION: >
-    破产将结束游戏。 你确定要申报破产吗？
+  LABEL_GAMEOVER_DESCRIPTION: |
+    破产将结束游戏。 
+    你确定要申报破产吗？
   LABEL_EXPENSES: 费用
   LABEL_RENT: 租
   LABEL_MARKETING: 营销费用
@@ -1678,6 +1714,8 @@ zh:
   LABEL_LICENSE_COST: 许可证
   LABEL_OWNED: 拥有
   LABEL_WEEK_COST: 开发成本
+  LABEL_PLATFORM_DEV_COSTS: |
+    与控制台有关的启动费用
   LABEL_CATALOG_SIZE: 游戏目录规模
   LABEL_PLATFORM_LIST: 平台列表
   LABEL_IDLE: 闲置
@@ -1957,6 +1995,8 @@ zh:
     现在可以获得合同。 完成合同可为您提供特定游戏类型的资金，经验和技巧。
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: 团队平衡
+  LABEL_TEAM_NOT_BALANCED: 团队不平衡
   PLACEHOLDER_COMPANY_NAME: 公司名称
   PLACEHOLDER_GAME_GENRE: 游戏类别
   PLACEHOLDER_GAME_NAME: 游戏名称
@@ -2051,6 +2091,16 @@ zh:
     你可能想把游戏做得小一点，以便卖得更好。为了增加你的粉丝数量，你可能还想接受其他公司的出版邀请。
 
   # Tooltips
+  TOOLTIP_BONUS_HYPE: |
+    当你在大会上展示你的游戏时，才会产生额外的宣传效果。
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    恭喜您，您刚刚开发出自己的游戏机！
+
+    在发布之前，重要的是要建立一个像样的游戏目录。
+    为此，可以考虑与竞争对手签订独家合同。或者，自己发行一些小游戏。
+    当然，也可以选择作为发行商，雇佣小型独立工作室为你制作游戏。
+
+    从各方面考虑，在发行第一款游戏机之前，最好至少要有 15 款游戏。
   TOOLTIP_UNIVERSITY_TRAINING: |
     大学允许你对员工进行超出其正常能力的培训。
     然而，对你的员工进行超出其正常能力的培训将大大增加他们的工资。
@@ -2062,6 +2112,9 @@ zh:
     这种体裁暂时被锁定。
   TOOLTIP_GAME_TYPE_SELECT_ONE: |
     你必须至少选择一种游戏类型来创建游戏。
+  TOOLTIP_TIPS_CAPACITY: |
+    您可以通过签订合同或游戏报告获得更多提示。
+    更多的提示意味着更准确的蓝量。  
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     你签署了一份独家报价。
     这款游戏不能被移植到其他主机上，而且必须在货架上停留至少一年时间。

@@ -99,6 +99,31 @@ ja:
   BUTTON_SAVEGAMEAS: 新しいセーブゲーム
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    あなたは建物[b]%s[/b]を取り壊そうとしています。
+    続けますか？
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    あなたは[b]%s[/b]というゲームと、これまでに作られたすべての移植版をキャンセルしようとしています。
+    本当に続けますか？
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    あなたは[b]%s[/b]の[b]%s[/b]コンソールへの移植をキャンセルしようとしています。
+    本当に続けますか?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    [b]%s[/b]の無料アップデートをキャンセルしようとしています。
+    続行しますか?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    [b]%s[/b]をキャンセルしようとしています。
+    続けますか？
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    パブリッシャーとしては、ゲームレポートからヒントを得ることもなければ、
+    ファンを得ることもない。しかし、ファンを失うこともない。
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    従業員を雇用し、配置するためには、空いているオフィスが必要です。
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    あなたはオフィス[b]%s[/b]を取り壊そうとしています。
+    続けますか？
+  LABEL_CURRENT: 現在
+  LABEL_MAXIMUM: 最大
   LABEL_PLATFORM_GENERATION: 世代
   LABEL_MODS_NOT_LOADED: いくつかのMODがロードされない
   LABEL_MOD_LOADING: MODのロード... (%s / %s)
@@ -572,9 +597,15 @@ ja:
     税額を軽減するため、会計士を配置します。
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     ゲームの人気を高めるために、マーケティングマネージャーを任命します。
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    必要な点数を割り出すためにプロデューサーを任命する
   LABEL_PRODUCER_TOOLTIP: |
-    プロデューサーを任命すると、素晴らしいゲームを作成し
-    社員の生産性を高めることができます。
+    プロデューサーは大作/AAAゲームを作り、開発者の生産性を高める。
+    彼らは特定のジャンルに特化しているため、ゲージの青い部分が最適化され、
+    作ろうとしているゲームがその専門分野と一致すれば生産性が2倍になる。
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    あなたは適切なプロデューサーをアサインしてゲームを作っている。
+    そしてそれは、通常よりもさらに多くのヒントを与えてくれる。
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     ネットワーク管理者を配置し、1プレイヤーあたりのサーバー負荷を最適化できます。
   LABEL_INTERVIEW_INDIE: |
@@ -712,6 +743,8 @@ ja:
     予測販売台数: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     [b]%s[/b] でゲームを発表したい
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    気が変わったんだ。
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     いい提案だと思います。それで手を打ちましょう!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -769,6 +802,7 @@ ja:
     他に比べて %s の開発段階で十分な時間が掛かっていません。
   LABEL_WARNING_THEME_MISSING: テーマを選択してください
   LABEL_BUYABLE: 購入可能
+  LABEL_IAP_NO_TEMPLATE_SELECTED: マイクロトランザクションなし
   LABEL_IAP_ADD_MICROTRANSATION: >
     青いボタンをクリックして、アプリ内課金を追加します。
   LABEL_NUMBER_OF_NEW_PLAYERS: 新入社員の数
@@ -842,9 +876,9 @@ ja:
     ゲーム機の性能を最大限に引き出すことができました。
   LABEL_GAME_ENGINE: ゲームエンジン
   LABEL_FEATURE_LIST: 機能一覧
-  LABEL_DESIGN_CAPACITY: デザインポイントの生産能力
-  LABEL_DEVELOPMENT_CAPACITY: 開発ポイントの生産能力
-  LABEL_POLISH_CAPACITY: 仕上げポイントの生産能力
+  LABEL_DESIGN_CAPACITY: 週あたりのデザインポイント
+  LABEL_DEVELOPMENT_CAPACITY: 開発ポイント（週
+  LABEL_POLISH_CAPACITY: 研磨ポイント／週
   LABEL_GAMEENGINE_MAKEFOSS: 無料にする
   LABEL_GAMEENGINE_PENALITY: >
     古いコードが使われているため、エンジンのアップデートには少しコストが掛かります。
@@ -1261,7 +1295,7 @@ ja:
   LABEL_FANBASE_TRENDS: ファンのトレンド
   LABEL_YEAR: 年
   LABEL_GAMEOVER_CONFIRM: 倒産
-  LABEL_GAMEOVER_DESCRIPTION: >
+  LABEL_GAMEOVER_DESCRIPTION: |
     倒産するとゲームオーバーになります。
     本当に倒産させますか?
   LABEL_EXPENSES: 経費
@@ -1723,6 +1757,8 @@ ja:
   LABEL_LICENSE_COST: ライセンス
   LABEL_OWNED: 所有
   LABEL_WEEK_COST: 開発コスト
+  LABEL_PLATFORM_DEV_COSTS: |
+    ゲーム機関連の立ち上げ費用
   LABEL_CATALOG_SIZE: ゲームカタログのサイズ
   LABEL_PLATFORM_LIST: プラットフォームリスト
   LABEL_IDLE: アイドリング
@@ -2028,6 +2064,8 @@ ja:
     契約が可能になりました。契約を完了すると、特定のゲームジャンルでお金や経験値、ヒントが得られます。
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: チームはバランスが取れている
+  LABEL_TEAM_NOT_BALANCED: チームのバランスが悪い
   PLACEHOLDER_COMPANY_NAME: 会社名
   PLACEHOLDER_GAME_GENRE: ゲームジャンル
   PLACEHOLDER_GAME_NAME: ゲーム名
@@ -2063,6 +2101,18 @@ ja:
   LABEL_ARCADE_CITY_GAME_STUDIO: アーケード City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    コンベンションでゲームを披露するときこそ、ボーナスの誇大広告が生まれるのだ。
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    おめでとうございます！
+
+    パブリッシュする前に、ゲームのカタログをきちんと作り上げることが重要です。
+    そのためには、競合他社と独占契約を結ぶことを検討しよう。あるいは、
+    自分で小さなゲームをたくさんリリースする。もちろん、
+    小さな独立系スタジオを雇ってパブリッシャーとしてゲームを作ってもらうという選択肢もある。
+
+    あらゆることを考慮すると、最初のゲーム機を出す前に、
+    少なくとも15本のゲームを用意するのがベストだ。
   TOOLTIP_UNIVERSITY_TRAINING: |
     大学では、社員の通常の能力を超えたトレーニングを行うことができます。
     しかし、通常の能力を超えて従業員を訓練することは、従業員の給与を大幅に引き上げることになります。
@@ -2145,6 +2195,9 @@ ja:
     また、ファンを増やすために他社からの出版のオファーを受けるのもいいでしょう。
 
   # Tooltips
+  TOOLTIP_TIPS_CAPACITY: |
+    契約書やゲームレポートを作成することで、より多くのヒントを得ることができる。
+    ヒントが増えるということは、ブルーゲージの精度が上がるということだ。
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     あなたは独占契約にサインしました。
     このゲームは他のゲーム機に移植することはできず、少なくとも1年間は棚に置かなければなりません。

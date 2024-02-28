@@ -99,6 +99,31 @@ th:
   BUTTON_SAVEGAMEAS: New savegame
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    You are about to demolish the building [b]%s[/b].
+    Do you want to continue?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    You are about to cancel the game called [b]%s[/b] as well as all the ports that have been made.
+    Do you really want to continue?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    You are about to cancel the porting of [b]%s[/b] to the [b]%s[/b] console.
+    Do you really want to continue?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    You're about to cancel a free update of [b]%s[/b].
+    Do you want to continue?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    You're about to cancel [b]%s[/b].
+    Do you want to continue?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    As a publisher, you don't get any tips from game reports and you don't get any fans.
+    But you don't lose any fans either.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    You need an available desk to hire and assign an employee.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    You are about to demolish the studio [b]%s[/b].
+    Do you want to continue?
+  LABEL_CURRENT: currently
+  LABEL_MAXIMUM: maximum
   LABEL_PLATFORM_GENERATION: Generation
   LABEL_MODS_NOT_LOADED: Some mods ain't loaded
   LABEL_MOD_LOADING: Loading mods... (%s / %s)
@@ -577,9 +602,15 @@ th:
     มอบหมายให้นักบัญชีเพื่อลดภาระภาษี
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     มอบหมายให้ผู้จัดการฝ่ายการตลาดเพื่อเพิ่มความนิยมของเกม
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Assign a marketing manager to boost a game's popularity.
   LABEL_PRODUCER_TOOLTIP: |
-    มอบหมายให้โปรดิวเซอร์เพื่อสร้างเกมขนาดใหญ่และเพิ่ม
-    ผลผลิตของพนักงานของคุณ
+    Producers create big/AAA games and boost developer productivity.
+    They specialize in a particular genre, which optimizes the blue areas of the gauges and
+    double the productivity boost if the game you're making matches with it's specialty.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    You've assigned the right producer to make your game.
+    And that gives you even more tips than normal.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     กำหนดผู้ดูแลระบบเครือข่ายเพื่อเพิ่มประสิทธิภาพการ
     โหลดเซิร์ฟเวอร์ที่จำเป็นต่อผู้เล่น
@@ -715,6 +746,8 @@ th:
     Projected number of units sold: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
     ฉันต้องการจัดจำหน่ายเกมบน [b]%s[/b]
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    I've changed my mind, we're calling it off, goodbye.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     ฟังดูเป็นข้อเสนอที่ยุติธรรมดี เราได้ข้อตกลงแล้ว!
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
@@ -773,6 +806,7 @@ th:
     to the other development stages
   LABEL_WARNING_THEME_MISSING: กรุณาเลือกธีม
   LABEL_BUYABLE: Buyable
+  LABEL_IAP_NO_TEMPLATE_SELECTED: No microtransaction
   LABEL_IAP_ADD_MICROTRANSATION: >
     Add a microtransaction by clicking on the blue button.
   LABEL_NUMBER_OF_NEW_PLAYERS: จำนวนผู้เล่นใหม่
@@ -845,9 +879,9 @@ th:
     พวกเขาสามารถใช้ประโยชน์สูงสุดจากคอนโซลได้  
   LABEL_GAME_ENGINE: เกมเอนจิ้น
   LABEL_FEATURE_LIST: รายการฟีเจอร์
-  LABEL_DESIGN_CAPACITY: Ability to produce design points
-  LABEL_DEVELOPMENT_CAPACITY: Ability to produce development points
-  LABEL_POLISH_CAPACITY: Ability to produce polishing points
+  LABEL_DESIGN_CAPACITY: Design points produced per week
+  LABEL_DEVELOPMENT_CAPACITY: Development points produced per week
+  LABEL_POLISH_CAPACITY: Polishing points produced per week
   LABEL_GAMEENGINE_MAKEFOSS: Make it free
   LABEL_GAMEENGINE_PENALITY: >
     Because of the legacy code, updating a game engine costs a bit more.
@@ -1264,7 +1298,7 @@ th:
   LABEL_FANBASE_TRENDS: Fan base trends
   LABEL_YEAR: ปี
   LABEL_GAMEOVER_CONFIRM: Bankruptcy
-  LABEL_GAMEOVER_DESCRIPTION: >
+  LABEL_GAMEOVER_DESCRIPTION: |
     Bankruptcy will end the game.
     Are you sure you want to declare bankruptcy?
   LABEL_EXPENSES: Expenses
@@ -1729,6 +1763,8 @@ th:
   LABEL_LICENSE_COST: ใบอนุญาต
   LABEL_OWNED: เป็นเจ้าของ
   LABEL_WEEK_COST: Development cost
+  LABEL_PLATFORM_DEV_COSTS: |
+    Console-related start-up costs
   LABEL_CATALOG_SIZE: Game catalog size
   LABEL_PLATFORM_LIST: Platform list
   LABEL_IDLE: Idle
@@ -2040,6 +2076,8 @@ th:
     Contracts are now available. Completing a contract gives you money, experience and tips for a specific game genre.
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: Team is well balanced
+  LABEL_TEAM_NOT_BALANCED: Team is unbalanced
   PLACEHOLDER_COMPANY_NAME: ชื่อบริษัท
   PLACEHOLDER_GAME_GENRE: ประเภทของเกม
   PLACEHOLDER_GAME_NAME: ชื่อเกม
@@ -2075,6 +2113,19 @@ th:
   LABEL_ARCADE_CITY_GAME_STUDIO: อาเขต City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    It's when you show off your games at conventions that you generate the bonus hype.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Congratulations, you've just developed your console!
+
+    Before publishing it, it's important to build up a decent catalog of games.
+    To this end, consider signing exclusive contracts with your competitors.
+    Alternatively, release a bunch of small games yourself.
+    Of course, there's always the option of acting as a publisher by hiring
+    small independent studios to make games for you.
+
+    All things considered, it's best to have at least 15 games before publishing
+    your first console.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Universities allow you to train your employees beyond their normal capabilities.
     However, training your employees beyond their normal capabilities will significantly increase their salary.
@@ -2158,6 +2209,9 @@ th:
     To grow your fan base, you can also take offers to publish from other companies.
 
   # Tooltips
+  TOOLTIP_TIPS_CAPACITY: |
+    You get more hints by making contracts or game reports.
+    More hints means a more accurate blue gauge.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     คุณลงนามในข้อเสนอพิเศษ
     เกมนี้ไม่สามารถย้ายไปยังคอนโซลอื่นได้ และต้องอยู่บนชั้นวางเป็นเวลาอย่างน้อยหนึ่งปี
