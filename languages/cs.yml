@@ -1,4 +1,4 @@
-en:
+cs:
   # Buttons actions verbs
   BUTTON_ACQUIRE: Odkoupit
   BUTTON_READ: Přečíst
@@ -99,6 +99,31 @@ en:
   BUTTON_SAVEGAMEAS: Nová uložená hra
 
   # Labels, descriptive
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
+    Chystáte se zbourat budovu [b]%s[/b].
+    Chcete pokračovat?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
+    Chystáte se zrušit hru s názvem [b]%s[/b] i všechny vytvořené porty.
+    Opravdu chcete pokračovat?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
+    Chystáte se zrušit přenesení [b]%s[/b] na konzolu [b]%s[/b].
+    Opravdu chcete pokračovat?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
+    Chystáte se zrušit bezplatnou aktualizaci [b]%s[/b].
+    Chcete pokračovat?
+  LABEL_CANCEL_CONFIRM_DIALOG: |
+    Chystáte se zrušit [b]%s[/b].
+    Chcete pokračovat?
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
+    Jako vydavatel nedostanete žádné tipy z herních reportáží a nezískáte žádné fanoušky.
+    Ale ani o žádné fanoušky nepřijdete.
+  LABEL_CANNOT_HIRE_AND_ASSIGN: |
+    K přijetí a přidělení zaměstnance potřebujete volný stůl.
+  LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
+    Chystáte se zdemolovat studio [b]%s[/b].
+    Chcete pokračovat?
+  LABEL_CURRENT: v současné době
+  LABEL_MAXIMUM: maximum
   LABEL_PLATFORM_GENERATION: Generace
   LABEL_MODS_NOT_LOADED: Některé modifikace nejsou načteny
   LABEL_MOD_LOADING: Načítání modifikací... (%s / %s)
@@ -575,9 +600,16 @@ en:
     Přiřaďte účetního ke snížení daní.
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Přiřaďte marketingového manažera ke zvýšení popularity hry.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Přiřazení výrobce ke zjištění počtu požadovaných bodů
   LABEL_PRODUCER_TOOLTIP: |
-    Přířaďte producenta k vytvoření větší hry a
-    k navýšení produktivity zaměstnanců.
+    Výrobci vytvářejí velké hry/AAA a zvyšují produktivitu vývojářů.
+    Specializují se na určitý žánr, což optimalizuje modré oblasti ukazatelů
+    a dvojnásobné zvýšení produktivity, pokud hra, kterou vytváříte,
+    odpovídá jeho specializaci.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    K vytvoření hry jste pověřili správného producenta.
+    A to vám dává ještě více tipů než obvykle.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
     Přiřaďte síťového administrátora k optimalizaci serverů, aby
     bylo na jednoho hráče potřeba méně výkonu.
@@ -713,6 +745,8 @@ en:
     Chci vydávat hry na [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
     To zní jako férová nabídka! Příjmáme ji!
+  LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
+    Rozmyslel jsem si to, odvoláváme to, sbohem.
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
     Tuto nabídku nemůžeme přijmout.
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
@@ -769,6 +803,7 @@ en:
     s ostatními částmi vývoje příliš málo času.
   LABEL_WARNING_THEME_MISSING: Vyberte prosím téma
   LABEL_BUYABLE: Koupitelné
+  LABEL_IAP_NO_TEMPLATE_SELECTED: Žádné mikrotransakce
   LABEL_IAP_ADD_MICROTRANSATION: >
     Stisknutím modrého tlačítka můžete přidat mikrotransakci.
   LABEL_NUMBER_OF_NEW_PLAYERS: Množství nových hráčů
@@ -1614,7 +1649,7 @@ en:
   LABEL_NEW_GAME: Nová hra
   LABEL_MODDING: Moddování
   LABEL_ARTWORK: Artwork
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Díky vaším nedávným zkušenostem jste odemkli nový žánr: [b]%s[/b]
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Díky vaším nedávným zkušenostem jste odemkli nový žánr [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Žánr odemčen: %s"
   LABEL_MAGAZINE_0: Fan Game
   LABEL_MAGAZINE_1: PC Player
@@ -1725,6 +1760,8 @@ en:
   LABEL_LICENSE_COST: Cena licence
   LABEL_OWNED: Vlastněno
   LABEL_WEEK_COST: Cena vývoje
+  LABEL_PLATFORM_DEV_COSTS: |
+    Náklady na zahájení činnosti související s platformou
   LABEL_CATALOG_SIZE: Velikost herního katalogu
   LABEL_PLATFORM_LIST: Seznam platforem
   LABEL_IDLE: Nečinný
@@ -1791,7 +1828,7 @@ en:
   LABEL_CANT_SELL_STUDIO_DESCRIPTION: |
     Protože '%s' je vaše jediné studio nebo pracuje
     na nějakém projektu, nemůžete ho prodat.
-  LABEL_BUILDING_AREA: Plocha: %s m²
+  LABEL_BUILDING_AREA: Plocha %s m²
   LABEL_BUILDING_BUY: Cena
   LABEL_BUILDING_RENT: Nájemné
   LABEL_BUILDING_CONVENTION: Výstaviště
@@ -2036,6 +2073,8 @@ en:
     Už jsou dostupné kontrakty. Dokončení kontraktu vám dá finance, zkušenosti a nápovědy pro specifický herní žánr.
 
   # Placeholder used for forms
+  LABEL_TEAM_BALANCED: Tento tým je dobře vyvážený
+  LABEL_TEAM_NOT_BALANCED: Tento tým je nevyvážený
   PLACEHOLDER_COMPANY_NAME: Název společnosti
   PLACEHOLDER_GAME_GENRE: Žánr
   PLACEHOLDER_GAME_NAME: Název hry
@@ -2055,7 +2094,7 @@ en:
   LABEL_GAME_CRACKED: |
     Příjem generovaný %s je vydělen třemi
     a už není konkurentem vaších her.
-  LABEL_GENRE_STOLEN: Ukradli jste žánr: %s
+  LABEL_GENRE_STOLEN: Ukradli jste žánr %s
   LABEL_STUDIO_SOLD: Prodali %s
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     Tento žánr již není unikátní,
@@ -2071,6 +2110,19 @@ en:
   LABEL_ARCADE_CITY_GAME_STUDIO: Arkádový automat City Game Studio
 
   # Tutoriel labels
+  TOOLTIP_BONUS_HYPE: |
+    Bonusový humbuk vzniká, když své hry předvádíte na konferencích.
+  TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
+    Gratulujeme, právě jste vyvinuli svou konzoli!
+
+    Před jejím vydáním je důležité vytvořit slušný katalog her.
+    Za tímto účelem zvažte podepsání exkluzivních smluv s konkurencí.
+    Případně vydejte několik malých her sami.
+    Samozřejmě je tu vždy možnost jednat jako vydavatel a najmout
+    si na to malá nezávislá studia, aby pro vás hry vytvářela.
+
+    Po zvážení všech okolností je nejlepší mít před vydáním alespoň 15 her.
+    své první konzole.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Univerzity vám umožňují školit zaměstnance za hranice normálních možností.
     Nicméně, školení také může navýšit výplatu.
@@ -2160,6 +2212,9 @@ en:
     K rozšíření své fanouškovské základny můžete také najít vydavatele a vyvinout pro něj několik her.
 
   # Tooltips
+  TOOLTIP_TIPS_CAPACITY: |
+    Další tipy získáte, když budete uzavírat smlouvy nebo podávat zprávy o hře.
+    Více tipů znamená přesnější modrý ukazatel.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     Podepsali jste smlouvu o exkluzivitě.
     Tato hra nemůže být portována na jiné platformy a bude muset zůstat v obchodech alespoň rok.
@@ -2168,7 +2223,7 @@ en:
     Když zaškrtnete toto pole, budete mít k dispozici všechny tipy
     ze všech zpráv o hrách, které jste ve svých minulým hrách vytvořili.
   TOOLTIP_CONCURRENT_PAY_TO: >
-    Protože %s nesplnilo očekávání, bude vám udělena pokuta ve výši %s$.
+    Protože %s nesplnilo očekávání (%s), bude vám udělena pokuta ve výši %s$.
     Protože máte jen %s$, bude lepší, když si v zájmu nezbankrotování vezmete půjčku .
   TOOLTIP_ROYALTY_GET: |
     Tohle je procento, které z prodejů hry získáte.
