@@ -99,6 +99,75 @@ ko:
   BUTTON_SAVEGAMEAS: 새로운 저장 게임
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    향후 콘솔에 대응하는 게임 장르와 해당 게임 목록입니다.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: "%s/%s 중 무작위로 선택"
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    이 섹션에는 귀하와 귀하의 직접 경쟁사가 귀하의 콘솔에 퍼블리싱한 게임이 나열되어 있습니다.
+    여기에는 콘솔에 퍼블리싱된 모든 게임이 포함되어 있지는 않습니다.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: 권장 소매 가격입니다.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    여기에는 제조 비용, 콘솔 환불에 대한 비용 보간이 포함됩니다.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    날씨를 보셨나요?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    이 콘솔은 10년 늦게 출시됩니다.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    우리는 더 나은 것을 보았습니다...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    눈에 띄는 콘솔
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    완벽에 이름이 있다면
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s은 새로운 콘솔을 제공합니다.
+
+    %s 은 경쟁 서비스에 비해 확실히 부족합니다.
+    무료라고 해도 저는 원하지 않을 것 같습니다.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s은 노력하고 있지만 아직 갈 길이 멀다.
+
+    %s 몇 년 늦게 출시되었습니다.
+    기술적으로 이 콘솔은 최신 게임을 플레이하는 데 어려움을 겪을 것입니다.
+    이 콘솔의 시장 점유율은 땅콩을 넘지 못할 것입니다.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s은 물론 최고는 아니지만 선택의 여지를 제공합니다.
+
+    %s 는 시중에서 가장 성능이 떨어지는 콘솔 중 하나입니다.
+    물론 최신 게임을 실행할 수는 있지만, 후드 아래에서 조금 더 강력한 성능을 발휘했으면 좋았을 것입니다.
+    이 콘솔의 시장 점유율을 높이려면 뛰어난 게임 카탈로그가 필요합니다.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s이 바로 그 역할을 하며 업계에서 두각을 나타내고 있습니다.
+
+    %s 흥미로운 성능을 제공합니다.
+    시장에서 최고는 아니지만 적절한 가격과 적절한 게임 카탈로그로 이 콘솔은 상당한 시장 점유율을 달성할 수 있습니다.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s은 우리를 위해 너겟을 만들었습니다.
+
+    %s 는 차세대 콘솔입니다.
+    최신 게임을 실행할 수 있을 뿐만 아니라 미래도 밝습니다.
+    적절한 가격과 적절한 게임 카탈로그만 있다면 이 콘솔은 컬트가 될 수 있습니다.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    놀라운 그래픽 성능을 갖춘 놀라운 콘솔입니다.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    이 콘솔의 그래픽은 평균 수준입니다.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    그래픽 면에서 석기 시대로 돌아간 느낌입니다.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    놀랍도록 강력한 이 콘솔은 수년 동안 지속될 콘솔입니다!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    이 콘솔의 컴퓨팅 성능은 평균으로 나쁘지 않습니다.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    컴퓨팅 파워 부족
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    지구 반대편에 있는 친구들과 인터넷으로 플레이할 수 있다는 것은 놀랍고 특별한 경험입니다.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    이 콘솔은 인터넷 연결이 가능한 콘솔이며, 이는 요즘 우리가 할 수 있는 최소한의 기능입니다.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    인터넷 연결은 점점 더 중요해지고 있습니다. 판매에 영향을 미칠 것입니다.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: 콘솔 제조업체를 선택하세요.
+  LABEL_CUSTOMPLATFORM_DATA: 콘솔 정보
+  LABEL_PREVIEW_CONSOLE: 콘솔 개요
+  LABEL_NOT_YET_IMPLEMENTED: 아직 구현되지 않음
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     건물 [b]%s[/b]를 철거하려고 합니다.
     계속하시겠습니까?

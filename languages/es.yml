@@ -99,6 +99,75 @@ es:
   BUTTON_SAVEGAMEAS: Nueva partida guardada
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Lista de géneros de juegos y su correspondencia para tu futura consola.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Seleccionado aleatoriamente entre %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    Esta sección enumera los juegos publicados en su consola por usted y sus competidores directos.
+    No contiene todos los juegos publicados en su consola.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Precio de venta sugerido.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Incluye los costes de fabricación y la interpolación de los costes de las devoluciones de las consolas.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    ¿Has visto el tiempo que hace?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Esta consola sale con 10 años de retraso
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    Hemos visto mejores...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Una consola que destaca
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Si la perfección tuviera un nombre
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s nos ofrece una nueva consola.
+
+    Está claro que %s no está a la altura de la competencia.
+    Aunque fuera gratis, no la querría.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s está haciendo un esfuerzo, pero aún le queda mucho camino por recorrer.
+
+    %s sale con unos años de retraso.
+    Tecnológicamente hablando, esta consola tendrá problemas para reproducir los últimos juegos.
+    Es poco probable que la cuota de mercado de esta consola supere los cacahuetes.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s ofrece una opción, no la mejor, seguramente, pero está ahí.
+
+    %s es una de las consolas menos potentes del mercado.
+    Claro que puede ejecutar los juegos más recientes, pero un poco más de potencia bajo el capó no habría estado de más.
+    Hará falta un catálogo de juegos excepcional para que esta consola despegue en el mercado.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s está ahí, dejando su huella en la industria.
+
+    %s ofrece un rendimiento interesante.
+    No es exactamente la mejor del mercado, pero con el precio adecuado y un catálogo de juegos decente, esta consola podría alcanzar una cuota de mercado decente.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s ha creado una pepita de oro para nosotros.
+
+    La %s es una consola de última generación.
+    No sólo ejecuta los juegos más recientes, sino que tiene un brillante futuro por delante.
+    Con el precio adecuado y un catálogo de juegos decente, esta consola podría convertirse en un culto.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Impresionante, una consola con una capacidad gráfica increíble.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Los gráficos de esta consola son mediocres.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Hemos vuelto a la Edad de Piedra en cuanto a gráficos.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Fenomenalmente potente, ¡es una consola que durará años!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    La potencia de cálculo de esta consola es media, lo que no está nada mal.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Falta de potencia de cálculo
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Poder jugar por Internet con amigos del otro lado del mundo es una experiencia increíble y excepcional.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Se trata de una consola con conexión a Internet, que es lo mínimo que podemos hacer hoy en día.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    La conexión a Internet es cada vez más importante. Las ventas se verán afectadas.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Seleccione un fabricante de consolas
+  LABEL_CUSTOMPLATFORM_DATA: Información sobre consolas
+  LABEL_PREVIEW_CONSOLE: Vista general de la consola
+  LABEL_NOT_YET_IMPLEMENTED: Aún no se ha implantado
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Está a punto de demoler el edificio [b]%s[/b].
     ¿Quieres continuar?

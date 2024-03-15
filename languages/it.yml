@@ -99,6 +99,75 @@ it:
   BUTTON_SAVEGAMEAS: Nuovo gioco di salvataggio
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Elenco dei generi di gioco e della loro corrispondenza per la vostra futura console.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Scelta casuale tra %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    Questa sezione elenca i giochi pubblicati sulla vostra console da voi e dai vostri diretti concorrenti.
+    Non contiene tutti i giochi pubblicati sulla vostra console.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Prezzo di vendita consigliato.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Include i costi di produzione e l'interpolazione dei costi per i rimborsi delle console.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Avete visto il tempo?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Questa console viene rilasciata con 10 anni di ritardo
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    Abbiamo visto di meglio...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Una console che si distingue
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Se la perfezione avesse un nome
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s ci propone una nuova console.
+
+    Il %s non è chiaramente all'altezza della concorrenza.
+    Anche se fosse gratuito, non lo vorrei.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s sta facendo uno sforzo, ma la strada da percorrere è ancora lunga.
+
+    %s esce con qualche anno di ritardo.
+    Dal punto di vista tecnologico, questa console avrà difficoltà a riprodurre i giochi più recenti.
+    È improbabile che la quota di mercato di questa console superi le noccioline.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s offre una scelta, non certo la migliore, ma c'è.
+
+    %s è una delle console meno potenti sul mercato.
+    Certo, è in grado di far girare i giochi più recenti, ma un po' più di potenza sotto il cofano non sarebbe guastata.
+    Per far decollare la quota di mercato di questa console è necessario un catalogo di giochi eccezionale.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s è lì, a lasciare il segno nel settore.
+
+    %s offre prestazioni interessanti.
+    Non è esattamente la migliore sul mercato, ma con il giusto prezzo e un catalogo di giochi decente, questa console potrebbe raggiungere una quota di mercato decente.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s ha creato una pepita per noi.
+
+    %s è una console di nuova generazione.
+    Non solo è in grado di far girare i giochi più recenti, ma ha anche un futuro brillante davanti a sé.
+    Con il giusto prezzo e un catalogo di giochi adeguato, questa console potrebbe diventare un cult.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Mozzafiato, una console con capacità grafiche incredibili.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    La grafica di questa console è nella media.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Siamo tornati all'età della pietra in termini di grafica.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Fenomenalmente potente, questa è una console che durerà per anni!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    La potenza di calcolo di questa console è nella media, il che non è male.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Mancanza di potenza di calcolo
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Poter giocare su Internet con amici dall'altra parte del mondo è un'esperienza incredibile ed eccezionale.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Questa è una console con connessione a Internet, il che è il minimo che si possa fare al giorno d'oggi.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    La connettività a Internet sta diventando sempre più importante. Le vendite ne risentiranno.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Selezionare un produttore di console
+  LABEL_CUSTOMPLATFORM_DATA: Informazioni sulla console
+  LABEL_PREVIEW_CONSOLE: Panoramica della console
+  LABEL_NOT_YET_IMPLEMENTED: Non ancora implementata
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     State per demolire l'edificio [b]%s[/b].
     Vuoi continuare?

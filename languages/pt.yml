@@ -99,6 +99,75 @@ pt:
   BUTTON_SAVEGAMEAS: Novo jogo guardado
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Lista de géneros de jogos e respectiva correspondência para a sua futura consola.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Seleção aleatória entre %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    Esta secção enumera os jogos publicados na sua consola por si e pelos seus concorrentes directos.
+    Não contém todos os jogos publicados na sua consola.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Preço de retalho sugerido.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Inclui custos de fabrico, interpolação de custos para reembolsos de consolas.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Já viste o tempo?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Esta consola está a ser lançada com 10 anos de atraso
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    Já vimos melhor...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Uma consola que se destaca
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Se a perfeição tivesse um nome
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    A [b]%s[/b] oferece-nos uma nova consola.
+
+    A [b]%s[/b] não está claramente à altura da concorrência.
+    Mesmo que fosse gratuita, eu não a quereria.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    A [b]%s[/b] está a fazer um esforço, mas ainda há um longo caminho a percorrer.
+
+    A [b]%s[/b] é lançada com alguns anos de atraso.
+    Do ponto de vista tecnológico, esta consola terá dificuldade em jogar os jogos mais recentes.
+    É pouco provável que a quota de mercado desta consola ultrapasse os amendoins.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    A [b]%s[/b] oferece uma escolha - não a melhor, certamente, mas está lá.
+
+    A [b]%s[/b] é uma das consolas menos potentes do mercado.
+    É certo que pode correr os jogos mais recentes, mas um pouco mais de potência sob o capô não teria sido mau.
+    Será necessário um catálogo de jogos excecional para que a quota de mercado desta consola se desenvolva.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    A [b]%s[/b] está aí, a deixar a sua marca na indústria.
+
+    A [b]%s[/b] oferece um desempenho interessante.
+    Não é exatamente a melhor do mercado, mas com o preço certo e um catálogo de jogos decente, esta consola poderá atingir uma quota de mercado decente.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    A [b]%s[/b] criou uma pepita para nós.
+
+    A [b]%s[/b] é uma consola de última geração.
+    Não só corre os jogos mais recentes, como tem um futuro brilhante à sua frente.
+    Com o preço certo e um catálogo de jogos decente, esta consola pode tornar-se um culto.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    De cortar a respiração, uma consola com capacidades gráficas incríveis.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Os gráficos desta consola são medianos.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Estamos de volta à Idade da Pedra em termos de gráficos.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Fenomenalmente potente, esta é uma consola que durará muitos anos!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    O poder de processamento desta consola é médio, o que não é mau.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Falta de potência informática
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Poder jogar na Internet com amigos do outro lado do mundo é uma experiência incrível e excecional.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Esta é uma consola com ligação à Internet, o que é o mínimo que se pode fazer hoje em dia.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    A conetividade à Internet está a tornar-se cada vez mais importante. As vendas serão afectadas.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Selecionar um fabricante de consolas
+  LABEL_CUSTOMPLATFORM_DATA: Informações sobre a consola
+  LABEL_PREVIEW_CONSOLE: Visão geral da consola
+  LABEL_NOT_YET_IMPLEMENTED: Ainda não implementada
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Está prestes a demolir o edifício [b]%s[/b].
     Queres continuar?

@@ -99,6 +99,75 @@ cs:
   BUTTON_SAVEGAMEAS: Nová uložená hra
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Seznam herních žánrů a jejich korespondence pro vaši budoucí konzoli.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Náhodně vybráno mezi %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    V této sekci jsou uvedeny hry, které jste pro svou konzoli vydali vy a vaši přímí konkurenti.
+    Neobsahuje všechny hry vydané na vaší konzoli.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Doporučená maloobchodní cena.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Ta zahrnuje výrobní náklady, interpolaci nákladů na náhrady za konzole.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Viděli jste počasí?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Tato konzole vychází s desetiletým zpožděním
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    Už jsme viděli lepší...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Konzole, která vyniká
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Kdyby dokonalost měla jméno
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s nám nabízí novou konzoli.
+
+    %s se zjevně nemůže měřit s konkurencí.
+    I kdyby byla zdarma, nechtěl bych ji.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s se sice snaží, ale ještě je před ním dlouhá cesta.
+
+    %s vychází s několikaletým zpožděním.
+    Z technologického hlediska bude mít tato konzole problémy s hraním nejnovějších her.
+    Podíl této konzole na trhu pravděpodobně nepřesáhne oříšky.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s nabízí výběr - jistě ne ten nejlepší, ale je tu.
+
+    %s je jednou z nejméně výkonných konzolí na trhu.
+    Jistě, dokáže spustit nejnovější hry, ale trochu více výkonu pod kapotou by neuškodilo.
+    Bude potřeba výjimečný katalog her, aby se podíl této konzole na trhu rozjel.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s je tu a dělá si v tomto odvětví svou stopu.
+
+    %s nabízí zajímavý výkon.
+    Není to zrovna to nejlepší na trhu, ale se správnou cenou a slušným katalogem her by tato konzole mohla dosáhnout slušného podílu na trhu.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s pro nás vytvořil samorost.
+
+    %s je konzole nové generace.
+    Nejenže na ní poběží nejnovější hry, ale má před sebou i zářnou budoucnost.
+    Při správné ceně a slušném katalogu her by se tato konzole mohla stát kultovní.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Nefes kesici, inanılmaz grafik özelliklerine sahip bir konsol.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Bu konsoldaki grafikler ortalama.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Grafik açısından Taş Devri'ne geri döndük.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Olağanüstü güçlü, bu yıllarca sürecek bir konsol!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    Bu konsoldaki işlem gücü ortalama, ki bu fena değil.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Bilgi işlem gücü eksikliği
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Dünyanın diğer ucundaki arkadaşlarınızla İnternet üzerinden oyun oynayabilmek inanılmaz ve olağanüstü bir deneyim.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Bu, bugünlerde yapabileceğimizin en azı olan İnternet bağlantısı olan bir konsol.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    İnternet bağlantısı giderek daha önemli hale geliyor. Satışlar etkilenecektir.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Vyberte prosím výrobce konzole
+  LABEL_CUSTOMPLATFORM_DATA: Informace o konzoli
+  LABEL_PREVIEW_CONSOLE: Přehled konzolí
+  LABEL_NOT_YET_IMPLEMENTED: Zatím neimplementováno
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Chystáte se zbourat budovu [b]%s[/b].
     Chcete pokračovat?

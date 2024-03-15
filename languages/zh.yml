@@ -99,6 +99,74 @@ zh:
   BUTTON_SAVEGAMEAS: 新的保存游戏
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    游戏类型列表及其与未来游戏机的对应关系。
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: 在 %s / %s 之间随机选择
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    本节列出了您和您的直接竞争对手在您的游戏机上发布的游戏。
+    它并不包含在您的游戏机上发布的所有游戏。
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: 建议零售价。
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    这包括制造成本和游戏机退款的插值成本。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    你看到天气了吗？
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    这款游戏机迟了 10 年才发布
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    我们见过更好的...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    脱颖而出的控制台
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    如果完美有个名字
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s 为我们提供了一款新的游戏机。
+
+    %s 显然无法与竞争对手相提并论。
+    即使它是免费的，我也不会想要。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s正在努力，但还有很长的路要走。
+
+    %s 的发布晚了几年。
+    从技术上讲，这款游戏机很难玩到最新的游戏。
+    这款游戏机的市场份额不可能超过花生米。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s 提供了一种选择--当然不是最好的，但它确实存在。
+
+    %s 是市场上功能最弱的游戏机之一。
+    当然，它可以运行最新的游戏，但如果引擎盖下的动力更强一些，也未尝不可。
+    这款游戏机要想在市场上占有一席之地，必须要有出色的游戏目录。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s 已经在业内崭露头角。
+
+    %s 的性能非常有趣。
+    它并不是市场上最好的产品，但只要价格合适，游戏种类齐全，这款游戏机就能获得不错的市场份额。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s 为我们带来了一个新发现。
+
+    %s 是下一代游戏机。它不仅能运行最新的游戏，而且前途无量。
+    只要有合适的价格和不错的游戏目录，这款游戏机就能成为一种崇拜。
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    令人惊叹，这款游戏机拥有令人难以置信的图形处理能力。
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    这款游戏机的图形处理能力一般。
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    在图形处理方面，我们又回到了石器时代。
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    功能强大，是一款可以使用多年的游戏机！
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    这款游戏机的计算能力一般，还算不错。
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    计算能力不足
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    能在互联网上与地球另一端的朋友一起玩游戏是一种令人难以置信的非凡体验。
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    这是一款可以连接互联网的游戏机，这在如今是最起码的要求。
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    互联网连接正变得越来越重要。销售将受到影响。
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: 请选择控制台制造商
+  LABEL_CUSTOMPLATFORM_DATA: 控制台信息
+  LABEL_PREVIEW_CONSOLE: 控制台概览
+  LABEL_NOT_YET_IMPLEMENTED: 尚未实施
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     您即将拆除 [b]%s[/b] 建筑。
     您想继续吗？

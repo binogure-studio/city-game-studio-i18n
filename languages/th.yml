@@ -99,6 +99,74 @@ th:
   BUTTON_SAVEGAMEAS: New savegame
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    List of game genres and their correspondence for your future console.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Randomly selected between %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    This section lists the games published on your console by you and your direct competitors.
+    It does not contain all the games published on your console.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Suggested retail price.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    This includes manufacturing costs, interpolation of costs for console refunds.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Look at the weather!
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    This console is coming out 10 years late
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    We've seen better...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    A console that stands out
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    If perfection had a name
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s offers us a new console.
+
+    The %s clearly doesn't measure up to the competition.
+    Even if it were free, I wouldn't want it.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s is making an effort, but there's still a long way to go.
+
+    %s is released a few years late.
+    Technologically speaking, this console will have trouble playing the latest games.
+    This console's market share is unlikely to exceed the peanuts.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s offers a choice - not the best, surely, but it's there.
+
+    %s is one of the least powerful consoles on the market.
+    Sure, it can run the latest games, but a little more power under the hood wouldn't have gone amiss.
+    It's going to take an exceptional catalog of games for this console's market share to take off.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s is there, making its mark in the industry. %s offers interesting performance.
+
+    It's not exactly the best on the market, but with the right price and a decent catalog of games, this console could achieve a decent market share.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s has created a nugget for us.
+
+    The %s is a next-gen console.
+    Not only does it run the latest games, it has a bright future ahead of it.
+    With the right price and a decent catalog of games, this console could become a cult.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Breathtaking, a console with incredible graphics capabilities.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Graphics on this console are average.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    We're back in the Stone Age in terms of graphics.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Phenomenally powerful, this is a console that will last for years!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    Computing power on this console is average, which isn't bad.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Lack of computing power
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Being able to play on the Internet with friends on the other side of the world is an incredible and exceptional experience.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    This is a console with an Internet connection, which is the least we can do these days.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    Internet connectivity is becoming increasingly important. Sales will be affected.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Please select a console manufacturer
+  LABEL_CUSTOMPLATFORM_DATA: Console information
+  LABEL_PREVIEW_CONSOLE: Console overview
+  LABEL_NOT_YET_IMPLEMENTED: Not yet implemented
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     You are about to demolish the building [b]%s[/b].
     Do you want to continue?

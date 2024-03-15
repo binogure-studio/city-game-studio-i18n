@@ -99,6 +99,75 @@ de:
   BUTTON_SAVEGAMEAS: Neues Savegame
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Liste der Spielgenres und ihrer Entsprechung für Ihre zukünftige Konsole.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Zufällig ausgewählt zwischen %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    In diesem Abschnitt werden die von Ihnen und Ihren direkten Konkurrenten für Ihre Konsole veröffentlichten Spiele aufgeführt.
+    Er enthält nicht alle Spiele, die auf Ihrer Konsole veröffentlicht wurden.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Empfohlener Verkaufspreis.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Darin enthalten sind die Herstellungskosten und die Interpolation der Kosten für Konsolenrückerstattungen.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Schauen Sie sich das Wetter an!
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Diese Konsole kommt 10 Jahre zu spät auf den Markt
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    Wir haben schon bessere gesehen...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Eine Konsole, die sich abhebt
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Wenn Perfektion einen Namen hätte
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s bietet uns eine neue Konsole.
+
+    Der %s kann sich eindeutig nicht mit der Konkurrenz messen.
+    Selbst wenn sie kostenlos wäre, würde ich sie nicht haben wollen.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s gibt sich Mühe, aber es ist noch ein weiter Weg bis dahin.
+    
+    %s wird mit ein paar Jahren Verspätung veröffentlicht.
+    Technisch gesehen wird diese Konsole Schwierigkeiten haben, die neuesten Spiele zu spielen.
+    Es ist unwahrscheinlich, dass der Marktanteil dieser Konsole die Peanuts übersteigen wird.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s bietet eine Auswahl - sicher nicht die beste, aber sie ist da.
+
+    %s ist eine der leistungsschwächsten Konsolen auf dem Markt.
+    Sicher, sie kann die neuesten Spiele ausführen, aber ein bisschen mehr Leistung unter der Haube hätte nicht geschadet.
+    Es bedarf eines außergewöhnlichen Spielekatalogs, um den Marktanteil dieser Konsole zu erhöhen.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s ist da und macht sich einen Namen in der Branche.
+
+    %s bietet eine interessante Leistung.
+    Sie ist nicht gerade die beste auf dem Markt, aber mit dem richtigen Preis und einem anständigen Spielekatalog könnte diese Konsole einen anständigen Marktanteil erreichen.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s hat für uns ein Nugget geschaffen.
+
+    Die %s ist eine Konsole der nächsten Generation.
+    Auf ihr laufen nicht nur die neuesten Spiele, sie hat auch eine glänzende Zukunft vor sich.
+    Mit dem richtigen Preis und einem anständigen Spielekatalog könnte diese Konsole zum Kult werden.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Atemberaubend, eine Konsole mit unglaublichen Grafikfähigkeiten.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Die Grafik auf dieser Konsole ist durchschnittlich.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Was die Grafik angeht, sind wir wieder in der Steinzeit.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Phänomenal leistungsstark, eine Konsole, die jahrelang halten wird!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    Die Rechenleistung dieser Konsole ist durchschnittlich, was nicht schlecht ist.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Mangelnde Rechenleistung
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Mit Freunden am anderen Ende der Welt über das Internet zu spielen, ist ein unglaubliches und außergewöhnliches Erlebnis.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Dies ist eine Konsole mit Internetanschluss, was heutzutage das Mindeste ist, was wir tun können.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    Die Internetanbindung wird immer wichtiger. Das wird sich auf den Absatz auswirken.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Bitte wählen Sie einen Konsolenhersteller
+  LABEL_CUSTOMPLATFORM_DATA: Informationen zur Konsole
+  LABEL_PREVIEW_CONSOLE: Konsolen-Übersicht
+  LABEL_NOT_YET_IMPLEMENTED: Noch nicht implementiert
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Sie sind dabei, das Gebäude [b]%s[/b] abzureißen.
     Willst du weitermachen?

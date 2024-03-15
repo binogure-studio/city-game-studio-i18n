@@ -99,6 +99,73 @@ fr:
   BUTTON_SAVEGAMEAS: Nouvelle sauvegarde
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Liste des genres de jeux et leur correspondance pour votre future console.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Sélection aléatoire entre %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    Cette section énumère les jeux publiés sur votre console par vous et vos concurrents directs.
+    Elle ne contient pas tous les jeux publiés sur votre console.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Prix de vente conseillé.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Ce prix comprend les coûts de fabrication, l'interpolation des coûts pour les remboursements des consoles.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Vous avez vu le temps qu'il fait?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Cette console sort avec 10 ans de retard
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    On a vu mieux...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Une console qui se démarque
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Si la perfection avait un nom
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %s nous propose une nouvelle console.
+
+    La %s n'est clairement pas à la hauteur de la concurrence.
+    Même si elle était gratuit je n'en voudrais pas.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %s fait des efforts et il y a encore du chemin à parcourir.
+
+    La %s sort avec quelques années de retard. Technologiquement parlant cette console aura du mal à faire tourner les derniers jeux.
+    Les parts de marchés de cette consoles ne devraient pas dépasser les paquerettes.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %s propose un choix, pas le meilleur certe, mais c'est là.
+
+    La %s est une des consoles les moins puissantes du marché.
+    Certe elle permet de faire tourner les derniers jeux, mais un peu plus de puissance sous le capot n'aurait pas été de trop.
+    Il va falloir un catalogue de jeu exceptionnel pour que les parts de marché de cette console décollent.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %s est présent, et fait sa place dans le milieu.
+
+    La %s offre des performance intéressantes. Ce n'est pas la meilleure offre présente sur le marché, mais avec un prix ajusté et un catalogue de jeu décent,
+    cette console pourrait atteindre des parts de marchés correctes.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %s nous a créé une pépite.
+
+    La %s est une console next-gen. Non seulement elle fait tourner les derniers jeux, mais elle a de beaux jours devant elle.
+    Avec un prix adapté et un catalogue de jeu correct, cette console pourrait devenir culte.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    Époustouflant, une console qui propose des capacités graphiques incroyables.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Les capacités graphiques de cette consoles sont dans la moyenne.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Graphiquement on est à l'ãge de pierre.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Une puissance de calcul phénoménale, voilà une console qui va durer des années!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    La puissance de calcul de cette console est dans la moyenne, c'est déjà pas si mal.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Cette console manque de puissance de calcul
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Pouvoir jouer sur Internet avec des amis a l'autre bout du monde, c'est une expérience incroyable et exceptionnelle.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Voilà une console qui bénéficie d'une connexion Internet, c'est la moindre des choses de nos jours
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    L'absence de connexion Internet se fait sentir. Cela va impacter les ventes.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Veuillez sélectionner un fabricant de console
+  LABEL_CUSTOMPLATFORM_DATA: Informations de la console
+  LABEL_PREVIEW_CONSOLE: Aperçu de la console
+  LABEL_NOT_YET_IMPLEMENTED: Pas encore implémenté
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Vous êtes sur le point de démolir le bâtiment [b]%s[/b].
     Voulez-vous continuer ?

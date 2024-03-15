@@ -99,6 +99,75 @@ pt-br:
   BUTTON_SAVEGAMEAS: Novo jogo salvo
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    Lista de gêneros de jogos e suas correspondências para o seu futuro console.
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Selecionado aleatoriamente entre %s / %s
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    Esta seção lista os jogos publicados no seu console por você e seus concorrentes diretos.
+    Ela não contém todos os jogos publicados no seu console.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Preço de varejo sugerido.
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    Isso inclui custos de fabricação, interpolação de custos para reembolsos de console.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    Você já viu o clima?
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    Este console está sendo lançado com 10 anos de atraso
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    Já vimos coisas melhores...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    Um console que se destaca
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    Se a perfeição tivesse um nome
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    A %s nos oferece um novo console.
+
+    O %s claramente não está à altura da concorrência.
+    Mesmo que fosse gratuito, eu não o desejaria.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    A %s está fazendo um esforço, mas ainda há um longo caminho a percorrer.
+
+    O %s é lançado com alguns anos de atraso.
+    Tecnologicamente falando, esse console terá problemas para jogar os jogos mais recentes.
+    É improvável que a participação de mercado desse console ultrapasse a faixa de amendoim.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    O %s oferece uma opção - não a melhor, certamente, mas está lá.
+
+    O %s é um dos consoles menos potentes do mercado.
+    É claro que ele pode rodar os jogos mais recentes, mas um pouco mais de potência sob o capô não teria sido necessário.
+    Será necessário um catálogo excepcional de jogos para que a participação de mercado desse console decole.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    O %s está lá, deixando sua marca no setor.
+
+    O %s oferece um desempenho interessante.
+    Não é exatamente o melhor do mercado, mas, com o preço certo e um catálogo decente de jogos, esse console poderia alcançar uma participação de mercado decente.
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    A %s criou uma pepita para nós.
+
+    O %s é um console de última geração.
+    Ele não apenas executa os jogos mais recentes, mas também tem um futuro brilhante pela frente.
+    Com o preço certo e um catálogo decente de jogos, esse console pode se tornar um cult.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    De tirar o fôlego, um console com recursos gráficos incríveis.
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    Os gráficos desse console são medianos.
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    Estamos de volta à Idade da Pedra em termos de gráficos.
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    Fenomenalmente poderoso, este é um console que durará muitos anos!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    O poder de computação desse console é mediano, o que não é ruim.
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    Falta de poder de computação
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    Poder jogar na Internet com amigos do outro lado do mundo é uma experiência incrível e excepcional.
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    Este é um console com conexão à Internet, o que é o mínimo que podemos fazer hoje em dia.
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    A conectividade com a Internet está se tornando cada vez mais importante. As vendas serão afetadas.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Selecione um fabricante de console
+  LABEL_CUSTOMPLATFORM_DATA: Informações sobre o console
+  LABEL_PREVIEW_CONSOLE: Visão geral do console
+  LABEL_NOT_YET_IMPLEMENTED: Ainda não implementado
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Você está prestes a demolir o edifício [b]%s[/b].
     Deseja continuar?

@@ -99,6 +99,76 @@ ja:
   BUTTON_SAVEGAMEAS: 新しいセーブゲーム
 
   # Labels, descriptive
+  LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
+    今後のゲーム機におけるゲームジャンルとその対応表。
+  TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: "%s/%sからランダムに選択"
+  TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
+    このセクションでは、あなたとあなたの直接の競合他社があなたのコンソールで公開したゲームをリストアップします。
+    あなたのゲーム機で発売されているすべてのゲームが含まれているわけではありません。
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: 希望小売価格。
+  TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
+    これには、製造コスト、コンソールの払い戻しにかかるコストの補間が含まれる。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
+    天気予報をご覧になりましたか？
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
+    このゲーム機は10年遅れて発売される
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
+    私たちはもっといいものを見てきた...
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
+    目立つゲーム機
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
+    もし完璧に名前があれば
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
+    %sが新しいゲーム機を提供してくれた。
+
+    %sは明らかに競争相手にはかなわない。
+    たとえ無料だったとしても、私は欲しくない。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
+    %sは努力しているが、まだ先は長い。
+
+    %sは数年遅れて発売された。
+    技術的に言えば、このゲーム機では最新のゲームをプレイするのは難しいだろう。
+    このゲーム機のシェアがピーナッツを超えることはないだろう。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
+    %sは選択肢を提供している-ベストではないことは確かだが、ある。
+
+    %sは、市場で最も性能の低いゲーム機のひとつだ。もちろん、
+    最新のゲームを動かすことはできるが、ボンネットの下にもう少しパワーがあれば、
+    問題はなかっただろう。このゲーム機のシェアが飛躍するには、並外れたゲームカタログが必要だ。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
+    %sはそこにあり、業界にその名を刻んでいる。
+
+    %sは興味深いパフォーマンスを提供している。
+    市場で最高というわけではないが、適切な価格と適切なゲームカタログがあれば、
+    このゲーム機はそれなりのシェアを獲得できるだろう。
+  LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
+    %sは私たちのためにナゲットを作ってくれた。
+
+    %sは次世代ゲーム機だ。最新のゲームが動くだけでなく、
+    明るい未来が待っている。適切な価格と適切なゲームカタログがあれば、
+    このゲーム機はカルト的な存在になるかもしれない。
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
+    息をのむような、驚異的なグラフィック性能を持つゲーム機。
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
+    このゲーム機のグラフィックは平均的だ。
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: >
+    グラフィックに関しては石器時代に逆戻りだ。
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
+    驚異的にパワフルで、何年も使えるゲーム機だ！
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
+    このゲーム機の演算能力は平均的で、悪くない。
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: >
+    コンピューティングパワーの不足
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
+    地球の裏側にいる友人とインターネットで対戦できるのは、信じられないような特別な体験だ。
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
+    これはインターネットに接続できるゲーム機であり、最近の私たちにできる最低限のことだ。
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
+    インターネット接続の重要性はますます高まっている。販売に影響が出るでしょう。
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: コンソールメーカーを選択してください
+  LABEL_CUSTOMPLATFORM_DATA: コンソール情報
+  LABEL_PREVIEW_CONSOLE: コンソール概要
+  LABEL_NOT_YET_IMPLEMENTED: 未実装
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     あなたは建物[b]%s[/b]を取り壊そうとしています。
     続けますか？
