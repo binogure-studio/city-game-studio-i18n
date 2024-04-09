@@ -7,7 +7,7 @@ cs:
   BUTTON_HIRE: Najmout
   BUTTON_APPLY: Přijmout
   BUTTON_BACK: Zpět
-  BUTTON_BUILD_MODE: Režit stavby
+  BUTTON_BUILD_MODE: Režim stavby
   BUTTON_BUILDING_RENT: Pronajmout
   BUTTON_CANCEL: Zrušit
   BUTTON_CANCEL_ALL: Zrušit vše
@@ -56,8 +56,8 @@ cs:
   DROPDOWN_LANGUAGE: Jazyky
   BUTTON_CRACK_GAME: Cracknout tuto hru
   BUTTON_FORCE_STUDIO_SELL: Vynutit prodej studia
-  BUTTON_SPY: Provést průmyslovou špionáž
-  BUTTON_HIRE_THEIR_EMPLOYE: Najmout jejich zaměstnance
+  BUTTON_SPY: Provést špionáž
+  BUTTON_HIRE_THEIR_EMPLOYE: Najmout zaměstnance konkurence
   BUTTON_SELECT: Vybrat
   BUTTON_SAVEGAME: Uložit hru
   BUTTON_SELL_ITEMS: Prodat nábytek
@@ -99,84 +99,82 @@ cs:
   BUTTON_SAVEGAMEAS: Nová uložená hra
 
   # Labels, descriptive
-  TOOLTIP_CUSTOM_PLATFORM_PRICING: |
-    Určit správnou cenu konzole není snadné, i když vás to většinou vyřadí z provozu.
+    Není jednoduché určit správnou cenu pro platformu.
 
-    Cena konzole ovlivňuje prodej.
-    Vysoké ceny snižují prodeje.
-    Nižší ceny prodeje zvýší, ale za velmi vysokou cenu.
+    Cena platformy ovlivňuje prodeje.
+    Vysoké ceny prodeje sníží.
+    Nízké ceny prodeje zvýší, ale za vysokou daň.
   LABEL_CONVENTION_LIST_NONE_ATTENDED: >
-    Neúčastníte se žádných srazů a nejsou ohlášeny žádné srazy, kterých byste se mohli zúčastnit.
+    Neúčastníte se žádných veletrhů, přičemž žádné nebyly zatím ani oznámeny.
   LABEL_CONVENTION_LIST_NONE_AVAILABLE: >
-    Existují oznámené konvence, kterých byste se mohli zúčastnit, a výše uvedené tlačítko vás na ně přesměruje. V tuto chvíli se však žádných konvencí neúčastníte.
+    Existují již oznámené veletrhy, kterých by se vaše společnost mohla zúčastnit. Tlačítko výše vám je ukáže. Momentálně se žádných neúčastníte.
   LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
-    Seznam herních žánrů a jejich korespondence pro vaši budoucí konzoli.
+    Seznam herních žánrů a jejich shod s vaší budoucí platformou.
   TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: Náhodně vybráno mezi %s / %s
   TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
-    V této sekci jsou uvedeny hry, které jste pro svou konzoli vydali vy a vaši přímí konkurenti.
-    Neobsahuje všechny hry vydané na vaší konzoli.
-  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Doporučená maloobchodní cena.
+    Tato sekce obsahuje seznam titulů, které byly vydány na vaši platformu vámi a vaší přímou konkurencí.
+    Neobsahuje všechny hry, které byly na ni vydány.
+  LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: Doporučená cena.
   TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
-    Ta zahrnuje výrobní náklady, interpolaci nákladů na náhrady za konzole.
+    Tohle zahrnuje výrobní náklady a interpolaci nákladů pro nespokojené zákazníky, kteří budou chtít své peníze zpět.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
-    Viděli jste počasí?
+    Ani se s ní nenamáhejte.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
-    Tato konzole vychází s desetiletým zpožděním
+    Tato platforma má nejméně desetileté zpoždění
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
-    Už jsme viděli lepší...
+    Viděli jsme lepší...
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
-    Konzole, která vyniká
+    Platforma, která vyniká
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
-    Kdyby dokonalost měla jméno
+    Kdyby perfekce měla název...
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
-    %s nám nabízí novou konzoli.
+    %s nám nabízí novou platformu.
 
-    %s se zjevně nemůže měřit s konkurencí.
-    I kdyby byla zdarma, nechtěl bych ji.
+    %s se nedá ale s konkurencí ani porovnávat.
+    I kdyby byla ta platforma zdarma, nechtěl bych ji.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
-    %s se sice snaží, ale ještě je před ním dlouhá cesta.
+    %s since snahu projevuje, ale ani to zdaleka nestačí.
 
-    %s vychází s několikaletým zpožděním.
-    Z technologického hlediska bude mít tato konzole problémy s hraním nejnovějších her.
-    Podíl této konzole na trhu pravděpodobně nepřesáhne oříšky.
+    Technologicky to vypadá, jako by %s byl vydán s několikaletým zpožděním.
+    Tato platforma bude mít s během posledních titulů vážné potíže.
+    Její tržní podíl bude pravděpodobně velmi nízký.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
-    %s nabízí výběr - jistě ne ten nejlepší, ale je tu.
+    %s nabízí možnost výběru - jasně, není nejlepší, ale je stále tady.
 
-    %s je jednou z nejméně výkonných konzolí na trhu.
-    Jistě, dokáže spustit nejnovější hry, ale trochu více výkonu pod kapotou by neuškodilo.
-    Bude potřeba výjimečný katalog her, aby se podíl této konzole na trhu rozjel.
+    %s je jednou z nejslabších platforem na trhu.
+    Jistě, dokáže rozběhnout poslední tituly, ale trocha více výkonu by nevadila.
+    Aby tato platforma dosáhla nějakého výrazného tržního podílu, bude potřebovat OPRAVDU dobrý katalog her.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
-    %s je tu a dělá si v tomto odvětví svou stopu.
+    %s je už tady, přičemž už teď se zapisuje do historie. %s nabízí zajímavý výkon.
 
-    %s nabízí zajímavý výkon.
-    Není to zrovna to nejlepší na trhu, ale se správnou cenou a slušným katalogem her by tato konzole mohla dosáhnout slušného podílu na trhu.
+    Sice není tou nejlepší platformou na trhu, ale se správnou cenou a decentním katalogem her by mohla získat slušný podíl na trhu.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
-    %s pro nás vytvořil samorost.
+    %s vytvořila naprostý skvost.
 
-    %s je konzole nové generace.
-    Nejenže na ní poběží nejnovější hry, ale má před sebou i zářnou budoucnost.
-    Při správné ceně a slušném katalogu her by se tato konzole mohla stát kultovní.
+    %s je prostě platformou příští generace.
+    Nejen že dokáže rozběhnout poslední hity, ale má před sebou i světlou budoucnost.
+    Se správnou cenou a decentním katalogem her by mohla dosáhnout kultovního statusu.
   LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
-    Nefes kesici, inanılmaz grafik özelliklerine sahip bir konsol.
+    Grafické schopnosti této platformy jsou dechberoucí.
   LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
-    Bu konsoldaki grafikler ortalama.
+    Grafický výkon této platformy je průměrný.
   LABEL_CUSTOM_PLATFORM_BAD_GPU: >
-    Grafik açısından Taş Devri'ne geri döndük.
+    Co se týče grafických schopností, s touto konzolí se vracíme zpět do doby kamenné.
   LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
-    Olağanüstü güçlü, bu yıllarca sürecek bir konsol!
+    Fenomenálně výkonná! Tato platforma vydrží léta!
   LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
-    Bu konsoldaki işlem gücü ortalama, ki bu fena değil.
+    Výpočetní síla této platform je průměrná, což není špatná věc.
   LABEL_CUSTOM_PLATFORM_BAD_CPU: >
-    Bilgi işlem gücü eksikliği
+    Nedostatek výpočetní síly
   LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
-    Dünyanın diğer ucundaki arkadaşlarınızla İnternet üzerinden oyun oynayabilmek inanılmaz ve olağanüstü bir deneyim.
+    Schopnost hrát s přátely na druhé straně světa přes internet je neuvěřitelný a výjimečný zážitek.
   LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
-    Bu, bugünlerde yapabileceğimizin en azı olan İnternet bağlantısı olan bir konsol.
+    Tato platform disponuje podporou pro internet, což je rozhodně dobrou věcí.
   LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
-    İnternet bağlantısı giderek daha önemli hale geliyor. Satışlar etkilenecektir.
-  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Vyberte prosím výrobce konzole
-  LABEL_CUSTOMPLATFORM_DATA: Informace o konzoli
-  LABEL_PREVIEW_CONSOLE: Přehled konzolí
+    Internetová konektivita je v současné době čím dál důležitější. Prodeje budou ovlivněny.
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Vyberte výrobce platformy
+  LABEL_CUSTOMPLATFORM_DATA: Informace o platformě
+  LABEL_PREVIEW_CONSOLE: Přehled platformy
   LABEL_NOT_YET_IMPLEMENTED: Zatím neimplementováno
   LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
     Chystáte se zbourat budovu [b]%s[/b].
@@ -274,9 +272,9 @@ cs:
     Ahoj [b]%s[/b],
 
     kolem [b]%s[/b] jsme si vybudovali menší komunitu.
-    Sdílí tipy a sledují zprávy z vaší společnosti. Nedočkavě čekají na cokoliv o [b]%s[/b].
+    Sdílíme tipy a sledujeme zprávy z vaší společnosti. Nedočkavě čekáme na cokoliv o [b]%s[/b].
 
-    Pokud během následujících [b]%d měsíců[/b] zveřejníte aktualizaci, budou potěšeni!
+    Pokud během následujících [b]%d měsíců[/b] zveřejníte aktualizaci, budeme potěšeni!
   LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: Skvělý update!
   LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
     Chvála vám za naplnění fanouškovských očekávání.
@@ -288,7 +286,7 @@ cs:
   LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: Je příliš pozdě...
   LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
     Hra [b]%s[/b] byla zveřejněna před několika měsíci.
-    Nadšení kolem hry zaniklo, zatímco bylo mezitím vydáno několik jiných her se stejným tématem.
+    Nadšení kolem hry zaniklo, přičemž mezitím bylo vydáno několik jiných her se stejným tématem.
 
     Propásli jste příležitost. Nepřipravte se i o tu druhou.
   LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: Kdy bude pokračování?
@@ -302,7 +300,7 @@ cs:
     Pokud ale uděláte pkračování, koupíme si ho a řekneme o něm našim přátelům!
         
     Takže udělejte prosím pokračování!
-    Jste tak talentovaný, nemůžete nás zklamat!
+    Jste tak talentovaní, nemůžete nás zklamat!
 
     Hráč ze sklepa
   LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: Pokračování?!
@@ -315,7 +313,7 @@ cs:
   LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s je skvělé pokračování!"
   LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
     Přesně to, co jsme chtěli! Je to fantastické pokračování!
-    Mluvil jsem o něm pořád s mými přáteli. Vypadá to, že tu hru budeme hrát hodně dlouho.
+    Mluvil jsem o něm pořád s mými přáteli. Vypadá to, že ho budeme hrát hodně dlouho.
 
     [b]%s[/b] splnilo naše očekávání! Velké díky!
 
@@ -351,7 +349,7 @@ cs:
     do vytížení té platformy.
   LABEL_PAID_UPDATE_SALES: Prodeje DLC
   LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Upravit barvu konzole
-  LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Year-end Gala
+  LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Slavnost na konci roku
   LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
     Dobrý den [b]%s[/b],
 
@@ -418,7 +416,7 @@ cs:
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
     ‣ [b]%s[/b]: Jako akcionář vlastníte [b]%s[/b] akcií, což vám vydělá $[b]%s[/b].    
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
-    [i]S současné době vlastníte [b]%s[/b] akcií [b]%s[/b], takže dostanete $[b]%s[/b],[/i]
+    [i]V současné době vlastníte [b]%s[/b] akcií [b]%s[/b], takže dostanete $[b]%s[/b],[/i]
     [i]což reprezentuje $[b]%s[/b] za akcii.[/i]
   LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s chce vykoupit %s!"
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
@@ -429,7 +427,7 @@ cs:
 
     Nabízíme vám proto výhodnou nabídku.
     V současné době mají vaše akcie celkovou hodnotu [b]%s[/b]$. My jsme za ně ochotni zaplatit [b]%s[/b]$.
-    Vydělalo by vám to mnoho peněz a starost za studio by připadla jen nám [b]%s[/b].
+    Vydělalo by vám to mnoho peněz a starost za studio by připadla jen nám, [b]%s[/b].
 
     Navíc to pro vás znamená o jednoho konkurenta méně.
 
@@ -469,10 +467,10 @@ cs:
   LABEL_REMAKE_ENGINE_OK: >
     Vývojáři věděli, jak využít nejnovější technologie. Jde o celkem solidní remake.
   LABEL_REMAKE_ENGINE_GOOD: >
-    Perfektně využili sounejnovější technologie a výsledek vypadá faktasticky.
-  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Využití schopností konzole minulou hrou."
-  LABEL_REMAKE_CPU_USAGE: Využití CPU originální hrou
-  LABEL_REMAKE_GPU_USAGE: Využití GPU originální hrou
+    Perfektně využili nejnovější technologie a výsledek vypadá fantasticky.
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Využití schopností konzole originálem."
+  LABEL_REMAKE_CPU_USAGE: Využití CPU originálem
+  LABEL_REMAKE_GPU_USAGE: Využití GPU originálem
   LABEL_REMAKE_TOOLTIP: |
     Vyberte, jaké funkce z herního enginu chcete do remaku přidat.
     Pro skvělý remake budete muset použít funkce, které jsou novější než originální hra.
@@ -518,7 +516,7 @@ cs:
   LABEL_MINIGAME_DEFEND_START: |
     Pojďme!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
-    Klidně ať se to stane...
+    Klidně, ať se to stane...
   LABEL_MINIGAME_LOSE: |
     Vaše hra je dostupná na trhu zadarmo.
     Prodeje budou značně zasaženy.
@@ -533,7 +531,7 @@ cs:
     Je to jednoduché, ale musíte být rychlí!
   LABEL_GAME_UPDATE_NB: Počet aktualizací
   LABEL_GAME_UPDATE_LAST: Datum poslední aktualizace
-  LABEL_SELLING_PRICE: Prodejná cena
+  LABEL_SELLING_PRICE: Prodejní cena
   LABEL_EMPLOYEE: Zaměstnanec
   LABEL_MARKET_RESEARCH_NEW: Nový průzkum trhu
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
@@ -560,7 +558,7 @@ cs:
   LABEL_UNIVERSITY_DESTROY: Zbourat budovu
   LABEL_UNIVERSITY_GLOBAL_TRAINING: Obecné školení
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: Specifické školení
-  LABEL_UNIVERSITY_TRAINING_LIST: Sezname školení
+  LABEL_UNIVERSITY_TRAINING_LIST: Seznam školení
   LABEL_UNIVERSITY_TRAINING_NO_TRAINING: Žádná školení
   LABEL_SOFA: Pohovka
   LABEL_MISC: Různé
@@ -569,20 +567,20 @@ cs:
   LABEL_GAME_INDUSTRY_NEWS: Zprávy z herního průmyslu
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s odkupuje %s za %s"
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
-    Herní vývojář a vydavatel, známý jako tvůrce například [b]%s[/b], byl odkoupen společností [b]%s[/b] nabídkou v hodnotě až [b]%s[/b].
+    Herní vývojář a vydavatel, známý jako tvůrce titulů jako [b]%s[/b], byl odkoupen společností [b]%s[/b] nabídkou v hodnotě až [b]%s[/b].
 
     [b]%s[/b] zveřejnila prohlášení, že zaplatí [b]%s[/b] za akcii společnosti. Očekává se, že obchod se uzavře v první čtvrtině roku.
     Tato akvizice navýší počet titulů pod značkou [b]%s[/b].
     CEO [b]%s[/b] akvizici okomentoval:
     [indent]Náš průmysl neustále roste, a spolu budeme v pozici, ze které ho v této nové éře zábavního průmyslu budeme vést.[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
-    Tati hra nevyužila schopností konzole naplno.
+    Tato hra nevyužila schopností konzole naplno.
   LABEL_MARKETSHARE_KRASHING: >
     Tato konzole trpí z příšerné reputace, což omezuje prodeje. Je doporučeno od ní už zůstat dál.
   LABEL_LOSING_MONEY_DESCRIPTION: |
     Zde jsou vaše finanční výsledky. Ukazují vaše výdělky a ztráty.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    Ceny pronájmů jsou významnou ztrátou. Mohli byste buď budovy kupovat, nebo pronajímat menší a zavřít ty, které vás stojí nejvíce.
+    Náklady vynaložené na pronájmy jsou významnou ztrátou. Mohli by jste buď budovy kupovat, nebo pronajímat menší a zavřít ty, které vás stojí nejvíce.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
     Výplaty jsou velkou ztrátou. Zkuste zvážit propouštění některých zaměstnanců.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
@@ -656,7 +654,7 @@ cs:
   LABEL_PLATFORM_UNLOCK_COSTS: Cena odemčení
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Cena vývoje
   LABEL_PLATFORM_QUALITY: Kvalita
-  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Odhadované výrobní ceny
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Odhadované výrobní náklady
   LABEL_PLATFORM_UNIT_PROFIT: Profit za kus
   LABEL_PLATFORM_NAME: "Název platformy"
   LABEL_TRADE_PUBLISH_TOOLTIP: |
@@ -707,13 +705,13 @@ cs:
     jsem Gio Tard a pracuji pro [i]Rock Paper Pistol[/i]. [b]%s[/b] vypadá jako zajímavý projekt, a tak bych se vás chtěl zeptat na pár věcí pro článek.
     Máte pár minutek?
   LABEL_INTERVIEW_BIG_QUESTION: |
-    Po [b]%d[/b] letech existejnce jste vydali první AAA hru. S [b]%s[/b] vstupujete do velké ligy průmyslu.
+    Po [b]%d[/b] letech existence jste vydali první AAA hru. S [b]%s[/b] vstupujete do velké ligy průmyslu.
     Chtěli bychom vědět, zda bude podle vás [b]%s[/b] jmenováno Hrou roku [b]%d[/b]?
   LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
     [b]%s[/b] má křišťálovou kouli! Předpovídání Hry roku rozhodně není snadný počin!
     Pravděpodobně musí mít velmi rozsáhlé znalosti ohledně vnitřního fungování průmyslu!
   LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
-    Káždý se může zmýlit, ať už já, vy, nebo všichni. Jedna věc je ale jistá - [b]%s[/b] rozhodně budoucnost nepředpovídá!
+    Každý se může zmýlit, ať už já, vy, nebo všichni. Jedna věc je ale jistá - [b]%s[/b] rozhodně budoucnost nepředpovídá!
     Lidé se učí více ze svých chyb než ze svých úspěchů. Tak či tak, je to ostatně něco, co bychom pravděpodobně v [b]%s[/b] slyšeli často.
   LABEL_INTERVIEW_BIG_YES: |
     Po tak velkém množství podniknuté práce je to téměř jisté.
