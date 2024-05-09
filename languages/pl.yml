@@ -98,8 +98,15 @@ pl:
   BUTTON_DEMOLISH_STUDIO: Wyburzenie budynku
   BUTTON_SAVEGAMEAS: Nowa gra zapisu
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Pobierz token
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Nazwa kanału Twitch
+  LABEL_TWITCH_TOKEN: Token Twitcha
+  LABEL_TWITCH_CONNECTING: Łączenie z Twitchem...
+  LABEL_TWITCH_DISCONNECTED: Rozłączono z Twitchem
+  LABEL_TWITCH_CONNECTED: Połączono z Twitchem!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Uwierzytelnianie nie powiodło się!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Niełatwo jest ustalić właściwą cenę konsoli, choć zwykle prowadzi to do bankructwa.
 

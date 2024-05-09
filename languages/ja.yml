@@ -98,8 +98,15 @@ ja:
   BUTTON_DEMOLISH_STUDIO: 建物を取り壊す
   BUTTON_SAVEGAMEAS: 新しいセーブゲーム
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: トークン取得
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Twitchチャンネル名
+  LABEL_TWITCH_TOKEN: Twitchトークン
+  LABEL_TWITCH_CONNECTING: Twitchに接続中
+  LABEL_TWITCH_DISCONNECTED: Twitchから切断
+  LABEL_TWITCH_CONNECTED: Twitchに接続しました！
+  LABEL_TWITCH_AUTHENTICATION_FAILED: 認証に失敗しました！
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     ゲーム機の適正価格を見極めるのは簡単ではないが、そうすると商売が成り立たなくなる傾向がある。
 

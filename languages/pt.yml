@@ -98,8 +98,15 @@ pt:
   BUTTON_DEMOLISH_STUDIO: Demolir o edifício
   BUTTON_SAVEGAMEAS: Novo jogo guardado
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Obter token
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Nome do canal do Twitch
+  LABEL_TWITCH_TOKEN: Token do Twitch
+  LABEL_TWITCH_CONNECTING: A ligar ao Twitch...
+  LABEL_TWITCH_DISCONNECTED: Desconectado do Twitch
+  LABEL_TWITCH_CONNECTED: Ligado ao Twitch!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: A autenticação falhou!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Não é fácil determinar o preço certo para uma consola, embora isso tenda a levar à falência.
 
