@@ -98,8 +98,15 @@ ua:
   BUTTON_DEMOLISH_STUDIO: Знеснення будівлі
   BUTTON_SAVEGAMEAS: Нове збереження
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Get token
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Twitch channel name
+  LABEL_TWITCH_TOKEN: Twitch token
+  LABEL_TWITCH_CONNECTING: Connecting to Twitch...
+  LABEL_TWITCH_DISCONNECTED: Disconnected from Twitch
+  LABEL_TWITCH_CONNECTED: Connected to Twitch!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Authentication failed!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Встановлення правильної ціни на консоль не так просто, але це може вплинути на ваш бізнес.
 
@@ -578,6 +585,158 @@ ua:
     Викуп збільшить каталог ігор під банером [b]%s[/b].
     Генеральний директор [b]%s[/b] так прокоментував придбання:
     [indent]Наша галузь росте, і разом ми зможемо стати лідерами в нову еру розваг[/indent]
+  LABEL_GAMEENGINE_NOT_ENOUGH: >
+    This game has not taken full advantage of the console's capabilities.
+  LABEL_MARKETSHARE_KRASHING: >
+    This console suffers from a terrible reputation which leads to low sales. It is recommended to stay away from it from now on.
+  LABEL_LOSING_MONEY_DESCRIPTION: |
+    Here are your financial results. It shows all your operating expenses and revenues.
+  LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
+    Rental costs are a significant expense. You could buy the buildings or rent smaller ones and close those that cost you the most.
+  LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
+    Payroll is a major expense. You should consider laying off staff.
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
+    You have a lot of coffee machines/vending machines, and this is a strain on your budget
+  LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
+    Servers are expensive. If you have unused servers, you should sell them.
+  LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
+    You spend a lot on marketing campaigns. Maybe you should stop some marketing campaigns or conventions.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
+    It seems that your mortgages are expensive. If you can, pay them off with a larger, long-term mortgage.
+  LABEL_LOSING_MONEY_HARD: >
+    You spend more than you earn. If you want to figure out which costs you the most, consult your financial details.
+  LABEL_SUBSCRIPTION: Subscription
+  LABEL_PLATFORM_NOT_POWERFULL: >
+    This platform is not powerful enough
+  BUTTON_RELEASE_ALL: Release everything
+  TOOLTIP_RELEASE_ALL_BUTTON: |
+    Releases all games, contracts and consoles
+    that are ready to be published.
+  LABEL_PLATFORM_LIST_GAME: List video games
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Upcoming components
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Manufacturing news
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
+    Hello %s,
+
+    I am very pleased to announce the release of a brand new component.
+    It is the brand new [b]%s[/b]. The engineers who designed it are proud to present it here.
+    [center][img]%s[/img][/center]
+    Wishing you a pleasant day,
+
+    Sincerely
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Console sales report
+  LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
+    Hello %s,
+
+    Another email to fill your mailbox. But it's for a good cause.
+    I'm here to tell you about a reduction in manufacturing costs.
+
+    %s
+
+    That will be all,
+    Have a nice day.
+    Binogure
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
+    [b]%s[/b]'s manufacturing costs reduced by [b]%s%%[/b].
+  LABEL_PLATFORM_NOT_RELEASED: |
+    %s is not yet available
+  LABEL_PLATFORM_NO_COMPONENT: |
+    No selected components
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Manufacturing costs reduction
+  LABEL_FILTER_PLATFORM_RELEASED: Released platforms
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Stopped Platforms
+  LABEL_PLATFORM_QUALITY_TOOLTIP: |
+    Adjusts console quality.
+    
+    A poorly manufactured console is expected to fail more often.
+    Customers who purchased a faulty console are always entitled to a refund.
+  LABEL_PLATFORM_DISCONTINUE: Halt production
+  LABEL_PLATFORM_CHANGE_PRICE: Modify the price
+  LABEL_PLATFORM_UNIT_RETURNED: Units returned 
+  LABEL_PLATFORM_COST_RATIO: Costs' ratio
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
+  LABEL_PLATFORM_COMPONENT_CPU: Processor
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartridge
+  LABEL_PLATFORM_COMPONENT_MEMORY: Memory
+  LABEL_PLATFORM_COMPONENT_GPU: Graphic card
+  LABEL_PLATFORM_COMPONENT_SCREEN: Screen
+  LABEL_PLATFORM_COMPONENT_BOX: Console case
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Hard drive
+  LABEL_PLATFORM_MAKING_COSTS: Manufacturing costs
+  LABEL_PLATFORM_UNLOCK_COSTS: Unlocking costs
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Development costs
+  LABEL_PLATFORM_QUALITY: Quality
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Estimated manufacturing costs
+  LABEL_PLATFORM_UNIT_PROFIT: Profit per unit
+  LABEL_PLATFORM_NAME: "Platform's name"
+  LABEL_TRADE_PUBLISH_TOOLTIP: |
+    This publishing offer is backed by a $%s grant.
+    A %s$ penalty applies if you do not achieve a minimum score of %d%%.
+  LABEL_CANNOT_HIRE_NO_DESK: |
+    You must have a desk available to hire a specialist.
+  LABEL_CUSTOM_CONSOLE: Console development
+  LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
+    Create your own video game console.
+  LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
+    Pick parts, assemble the console and get ready for the marketing campaign!
+    To maximize the benefit, consider hiring a marketing manager and an accountant.
+  LABEL_INCOMPATIBLE_VERSION: >
+    Cannot open save because it was created with newer version of the game
+  LABEL_GAME_CANCELED: Game canceled
+  LABEL_EMPLOYEE_FIRED: Employee fired
+  LABEL_ASSIGN_SPECIALIST: Assign specialists.
+  LABEL_ACCOUNTANT_TOOLTIP: |
+    Assign an accountant to reduce taxes liability.
+  LABEL_MARKETING_MANAGER_TOOLTIP: |
+    Assign a marketing manager to boost a game's popularity.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
+    Assign a producer to find out the number of points required
+  LABEL_PRODUCER_TOOLTIP: |
+    Producers create big/AAA games and boost developer productivity.
+    They specialize in a particular genre, which optimizes the blue areas of the gauges and
+    double the productivity boost if the game you're making matches with it's specialty.
+  LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
+    You've assigned the right producer to make your game.
+    And that gives you even more tips than normal.
+  LABEL_NETWORK_ADMIN_TOOLTIP: |
+    Assigning a network administrator to optimize the server
+    load needed per player.
+  LABEL_INTERVIEW_INDIE: |
+    Hi,
+    I am Bruno Trigger. Every Wednesday I host the show [i]3615 Dorian[/i] about independent video games. 
+    As a big fan of [b]%s[/b] I'd like to ask you a few questions for our big game night of [b]%s[/b].
+    Do you have 5 minutes?
+  LABEL_INTERVIEW_INDIE_QUESTION: |
+    I dream of embarking on the adventure of independent game development! Being my own boss and responding to a loving and caring community, what a dream!
+    Our small community being fans of [b]%s[/b] games, what do you think we should focus on if we want to make a game?
+  LABEL_INTERVIEW_INDIE_RIGHT: |
+    Our expert Dorian agrees, and so does the [i]3615 Dorian[/i] community. [b]%s[/b] is the nugget we've all been waiting for!
+  LABEL_INTERVIEW_BIG: |
+    Hello,
+    Gio Tard, I work for the [i]Rock Paper Pistol[/i]. [b]%s[/b] seems promising, I would like to ask you some questions for an article.
+    Do you have 5 minutes?
+  LABEL_INTERVIEW_BIG_QUESTION: |
+    After [b]%d[/b] years of existence you publish your first AAA. With [b]%s[/b], you enter the big league of the industry.
+    We would like to know, will [b]%s[/b] be named Game of the Year [b]%d[/b]?
+  LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
+    [b]%s[/b] has to have a crystal ball! Predicting in anticipation who will be nominated Game of the Year is not easy!
+    To be that farsighted, they have to know the inner workings of the industry!
+  LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
+    Anyone can be wrong, you, me, everyone.One thing is certain, however, [b]%s[/b] has not been able to predict the future!
+    People learn more from their mistakes than from their successes. In any case, this is something we probably hear a lot at [b]%s[/b].
+  LABEL_INTERVIEW_BIG_YES: |
+    Well, after a lot of hard work, it is for sure.
+  LABEL_INTERVIEW_BIG_NO: |
+    We would be the first surprised if it was the case!
+  LABEL_INTERVIEW_REFUSAL: |
+    Sorry to have wasted your time.
+  LABEL_INTERVIEW_ACCEPT: |
+    Of course.
+  LABEL_ADVANCED_START_TOOLTIP: |
+    It is best to leave this box unchecked if this is your first game.
+
+    The advanced start unlocks all the features from the very beginning of the game.
   LABEL_NUMBER_OF_PRODUCED_POINTS: Кількість вироблених очок
   LABEL_REQUIRE_FANBASE: Потрібно %s фанатів для збільшення продажів.
   LABEL_MAINTENANCE: Технічне обслуговування
