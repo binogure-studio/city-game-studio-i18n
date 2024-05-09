@@ -98,8 +98,15 @@ en:
   BUTTON_DEMOLISH_STUDIO: Demolish the building
   BUTTON_SAVEGAMEAS: New savegame
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Get token
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Twitch channel name
+  LABEL_TWITCH_TOKEN: Twitch token
+  LABEL_TWITCH_CONNECTING: Connecting to Twitch...
+  LABEL_TWITCH_DISCONNECTED: Disconnected from Twitch
+  LABEL_TWITCH_CONNECTED: Connected to Twitch!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Authentication failed!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     It's not easy to pinpoint the right price for a console, although doing so tends to put you out of business.
 

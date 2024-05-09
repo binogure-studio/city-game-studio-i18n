@@ -98,8 +98,16 @@ cs:
   BUTTON_DEMOLISH_STUDIO: Zbourat budovu
   BUTTON_SAVEGAMEAS: Nová uložená hra
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Získat token
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Název kanálu Twitch
+  LABEL_TWITCH_TOKEN: Twitch token
+  LABEL_TWITCH_CONNECTING: Připojení ke službě Twitch...
+  LABEL_TWITCH_DISCONNECTED: Odpojení od služby Twitch
+  LABEL_TWITCH_CONNECTED: Připojeno ke službě Twitch!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Ověření se nezdařilo!
+  TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Není jednoduché určit správnou cenu pro platformu.
 
     Cena platformy ovlivňuje prodeje.
@@ -602,6 +610,7 @@ cs:
     Vydá všechny hry, konzole a kontrakty,
     které jsou připraveny.
   LABEL_PLATFORM_LIST_GAME: Seznam videoher
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Nadcházející komponenty
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Je dostupná nová komponenta
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
     Zdravím %s,
@@ -1761,7 +1770,7 @@ cs:
   LABEL_CATCHPHRASE_2_1: Řekl někdo 'podprůměrná'?
   LABEL_CATCHPHRASE_2_2: Řekl někdo 'špatná'?
   LABEL_CATCHPHRASE_2_3: Zážitek plný zklamání
-  LABEL_CATCHPHRASE_2_4: Jedno slovo: prázdná
+  LABEL_CATCHPHRASE_2_4: "Jedno slovo: prázdná"
   LABEL_CATCHPHRASE_2_5: Měla být zrušena
   LABEL_CATCHPHRASE_3_0: Katastrofální
   LABEL_CATCHPHRASE_3_1: Zklamání srovnatelné s ambicemi, které hra měla

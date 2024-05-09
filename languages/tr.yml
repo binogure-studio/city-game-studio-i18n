@@ -98,8 +98,15 @@ tr:
   BUTTON_DEMOLISH_STUDIO: Binayı yıkın
   BUTTON_SAVEGAMEAS: Yeni kayıt oyunu
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Belirteç al
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Twitch kanal adı
+  LABEL_TWITCH_TOKEN: Twitch jetonu
+  LABEL_TWITCH_CONNECTING: Twitch'e bağlanılıyor...
+  LABEL_TWITCH_DISCONNECTED: Twitch ile bağlantı kesildi
+  LABEL_TWITCH_CONNECTED: Twitch'e bağlanıldı!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Kimlik doğrulama başarısız!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Bir konsol için doğru fiyatı belirlemek kolay değildir, ancak bunu yapmak sizi işinizden etme eğilimindedir.
 

@@ -98,8 +98,15 @@ ko:
   BUTTON_DEMOLISH_STUDIO: 건물 철거
   BUTTON_SAVEGAMEAS: 새로운 저장 게임
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: 토큰 받기
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Twitch 채널 이름
+  LABEL_TWITCH_TOKEN: Twitch 토큰
+  LABEL_TWITCH_CONNECTING: Twitch에 연결 중...
+  LABEL_TWITCH_DISCONNECTED: 트위치에서 연결 해제됨
+  LABEL_TWITCH_CONNECTED: 트위치에 연결했습니다!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: 인증에 실패했습니다!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     콘솔의 적정 가격을 정확히 파악하는 것은 쉽지 않지만, 그렇게 하면 사업을 중단하는 경향이 있습니다.
 

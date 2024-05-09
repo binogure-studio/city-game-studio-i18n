@@ -98,8 +98,15 @@ ru:
   BUTTON_DEMOLISH_STUDIO: Снос здания
   BUTTON_SAVEGAMEAS: Новое сохранение
   BUTTON_TWITCH_INTEGRATION: Twitch
+  BUTTON_FETCH_TOKEN: Получить токен
 
   # Labels, descriptive
+  LABEL_TWITCH_CHANNEL_NAME: Название канала Twitch
+  LABEL_TWITCH_TOKEN: Токен Twitch
+  LABEL_TWITCH_CONNECTING: Подключение к Twitch...
+  LABEL_TWITCH_DISCONNECTED: Отключен от Twitch
+  LABEL_TWITCH_CONNECTED: Подключились к Twitch!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Аутентификация не прошла!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Определить правильную цену на консоль не так-то просто, хотя, как правило, это приводит к тому, что вы выходите из бизнеса.
 
