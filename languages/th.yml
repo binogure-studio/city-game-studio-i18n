@@ -14,7 +14,7 @@ th:
   BUTTON_CLOSE: ปิด
   BUTTON_CREDITS: เครดิต
   BUTTON_EXIT: ออก
-  BUTTON_FIRE: จ้าง
+  BUTTON_FIRE: เลิกจ้าง
   BUTTON_LOAD: โหลด
   BUTTON_LOAD_GAME: โหลดเกม
   BUTTON_MAIN_MENU: เมนูหลัก
@@ -48,8 +48,8 @@ th:
   BUTTON_DELETE_ALL: ลบทั้งหมด
   BUTTON_SPAM: ทำเครื่องหมายว่าเป็นสแปม
   BUTTON_UNSPAM: ไม่ใช่สแปม
-  BUTTON_HOLIDAY: ส่งสตูดิโอในวันหยุด
-  BUTTON_HOLIDAY_SOLO: ส่งในวันหยุด
+  BUTTON_HOLIDAY: ส่งสตูดิโอไปพักร้อน
+  BUTTON_HOLIDAY_SOLO: ส่งไปพักร้อน
   BUTTON_MODS: ม็อด
   BUTTON_BUGREPORT: รายงานข้อผิดพลาด
   BUTTON_FEEDBACK: ข้อเสนอแนะ
@@ -94,7 +94,7 @@ th:
   BUTTON_REFUSE: ปฏิเสธ
   BUTTON_IMPORT_IMAGE: นำเข้ารูปภาพ
   BUTTON_ROADMAP: แผนงาน
-  BUTTON_VIEW_MODS: View mods
+  BUTTON_VIEW_MODS: ดูม็อด
   BUTTON_DEMOLISH_STUDIO: Demolish the building
   BUTTON_SAVEGAMEAS: New savegame
   BUTTON_TWITCH_INTEGRATION: Twitch
@@ -298,20 +298,20 @@ th:
     ความไม่หนาวที่เกี่ยวกับเกมได้เกิดขึ้นและเกมอื่นๆที่เหมือนกันได้ออกมา
 
     คุณพลาดโอกาสนี้ อย่าพลาดโอกาสถัดไป
-  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: ตอนไหนจะเป็นต่อไป?
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: ภาคต่อเมื่อไหร่?
   LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
     คุณ [b]%s[/b]
 
-    เรากับเพื่อนเราชอบเล่น [b]%s[/b]! เราเล่นมันมากว่า [b]%s[/b] ปีแล้ว และเราอยากให้คุณคนทำเป็น sequel
+    เรากับเพื่อนเราชอบเล่น [b]%s[/b]! เราเล่นมันมากว่า [b]%s[/b] ปีแล้ว และเราอยากให้คุณคนทำภาคต่อ
 
     เราชอบเกมนี้มาก และจะเล่นมันอีกหลายปี
-    แต่ถ้าคุณคนทำ sequel ตอนนี้ เราจะซื้อและแจ้งให้เพื่อนรู้
+    แต่ถ้าคุณภาคตอนนี้ เราจะซื้อและแจ้งให้เพื่อนรู้
 
-    ดังนั้น กรุณาทำ sequel นะ
+    ดังนั้น กรุณาทำภาคต่อนะ
     คุณมีความสามารถ เราไม่อาจเสียใจ
 
     The Cellar Player
-  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: ต่อไป?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: ภาคต่อ?!
   LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
     ฉันห่วงในความผิดหวัง เพื่อนๆฉันและฉันเล่น [b]%s[/b] และมันไม่เหมือนกับเกมเดิม!
 
@@ -320,7 +320,7 @@ th:
     The Cellar Player
   LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s ดีมาก!"
   LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
-    มันเป็นสิ่งที่เราตั้งใจอยากได้! มันเป็น sequel ที่น่าประทับใจ! เราคุยกับเพื่อนๆ ฉันแล้วคิดว่าเราจะเล่นมันนาน
+    มันเป็นสิ่งที่เราตั้งใจอยากได้! มันเป็นภาคต่อ ที่น่าประทับใจ! เราคุยกับเพื่อนๆ ฉันแล้วคิดว่าเราจะเล่นมันนาน
 
     [b]%s[/b] ตอบสนองความคาดหวังของเรา และเป็นความจริง ขอบคุณมาก!
 
@@ -329,23 +329,23 @@ th:
   LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
     [b]%s[/b] น่าประทับใจมาก!
 
-    ภาพสามมิติ, gameplay, เพลงทุกอย่างคือสิ่งที่สมบูรณ์แบบ
+    ภาพสามมิติ, เกมเพลย์, เพลงทุกอย่างคือสิ่งที่สมบูรณ์แบบ
     คุณได้เป็นศิษย์เก่าในศิลปะการสร้างเกม!
 
-    ทุกคนถึงตั้งใจกับ sequel นี้ ในความเป็นจริงฉันซื้อ 10 เพื่อหยิบใส่เพื่อนและครอบครัวที่ใกล้ชิด
+    ทุกคนถึงตั้งใจกับภาคต่อนี้ ในความเป็นจริงฉันซื้อ 10 เพื่อหยิบใส่เพื่อนและครอบครัวที่ใกล้ชิด
 
     คุณคนนี้เป็นคนดีที่สุด!
     ขอบคุณมาก!
 
     The Cellar Player
-  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s เป็นแนวโน้ม"
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s เป็นเทรนด์"
   LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
     สวัสดี [b]%s[/b],
 
     การเปิดตัว [b]%s[/b] เป็นการแข่งขันในแนวโน้มปัจจุบัน
     คนต้องการเพิ่มเพิ่มมากขึ้น พวกเขาต้องการเกม "[b]%s[/b]" อย่างยิ่ง
 
-    นี่เป็นแนวโน้มใหม่ และจะไม่อยู่นานเท่าไหร่ คุณควรใช้ประโยชน์อย่างรวดเร็ว
+    นี่เป็นแนวเทรนด์ใหม่ และจะไม่อยู่นานเท่าไหร่ คุณควรใช้ประโยชน์อย่างรวดเร็ว
   LABEL_PLATFORM_NEWS: ข่าวคอนโซล
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: Load due to online games
   LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: Load due to the dematerialized store
