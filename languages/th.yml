@@ -149,51 +149,34 @@ th:
     แต่ยังมีอนาคตที่สดใสรออยู่เบื้องหน้า
     ด้วยกลยุทธ์ราคาที่ชาญฉลาดและคลังเกมที่น่าทึ่ง %s 
     มีโอกาสสูงที่จะกลายเป็นปรากฏการณ์ใหม่ในวงการเกม!
-  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: |
-    Breathtaking, a console with incredible graphics capabilities.
-  LABEL_CUSTOM_PLATFORM_GOOD_GPU: |
-    Graphics on this console are average.
-  LABEL_CUSTOM_PLATFORM_BAD_GPU: |
-    We're back in the Stone Age in terms of graphics.
-  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: |
-    Phenomenally powerful, this is a console that will last for years!
-  LABEL_CUSTOM_PLATFORM_GOOD_CPU: |
-    Computing power on this console is average, which isn't bad.
-  LABEL_CUSTOM_PLATFORM_BAD_CPU: |
-    Lack of computing power
-  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
-    Being able to play on the Internet with friends on the other side of the
-    world is an incredible and exceptional experience.
-  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
-    This is a console with an Internet connection, which is the least we can do
-    these days.
-  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
-    Internet connectivity is becoming increasingly important. Sales will be
-    affected.
-  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: Please select a console manufacturer
-  LABEL_CUSTOMPLATFORM_DATA: Console information
-  LABEL_PREVIEW_CONSOLE: Console overview
-  LABEL_NOT_YET_IMPLEMENTED: Not yet implemented
-  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: |
-    You are about to demolish the building [b]%s[/b].
-    Do you want to continue?
-  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: >
-    You are about to cancel the game called [b]%s[/b] as well as all the ports
-    that have been made.
-
-    Do you really want to continue?
-  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
-    You are about to cancel the porting of [b]%s[/b] to the [b]%s[/b] console.
-    Do you really want to continue?
-  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
-    You're about to cancel a free update of [b]%s[/b].
-    Do you want to continue?
-  LABEL_CANCEL_CONFIRM_DIALOG: |
-    You're about to cancel [b]%s[/b].
-    Do you want to continue?
-  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
-    As a publisher, you don't get any tips from game reports and you don't get
-    any fans. But you don't lose any fans either.
+  LABEL_CUSTOM_PLATFORM_PERFECT_GPU: น่าอัศจรรย์มาก เครื่องเกมที่มีความสามารถทางกราฟิกที่น่าทึ่ง
+  LABEL_CUSTOM_PLATFORM_GOOD_GPU: กราฟิกบนเครื่องเกมนี้ปานกลาง
+  LABEL_CUSTOM_PLATFORM_BAD_GPU: เรากลับไปสู่ยุคหินในเรื่องของกราฟิก
+  LABEL_CUSTOM_PLATFORM_PERFECT_CPU: มีพลังที่น่าทึ่ง นี่คือเครื่องเกมที่จะใช้งานได้นาน!
+  LABEL_CUSTOM_PLATFORM_GOOD_CPU: พลังคำนวณบนเครื่องเกมนี้อยู่ในระดับปานกลางซึ่งไม่ได้แย่
+  LABEL_CUSTOM_PLATFORM_BAD_CPU: ขาดความสามารถในการคำนวณ
+  LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >-
+    การสามารถเล่นเกมผ่านอินเทอร์เน็ตกับเพื่อนที่อยู่ในฝั่งตรงข้ามของโลกเป็นประสบการณ์ที่น่าทึ่งและพิเศษที่สุดด้วย
+  LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >-
+    นี่คือเครื่องเกมที่มีการเชื่อมต่ออินเทอร์เน็ต
+    ซึ่งเป็นสิ่งที่น่าจะมีในปัจจุบัน
+  LABEL_CUSTOM_PLATFORM_BAD_ONLINE: การเชื่อมต่ออินเทอร์เน็ตกำลังสำคัญขึ้นเรื่อย ๆ การขายจะได้รับผลกระทบ
+  TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: กรุณาเลือกผู้ผลิตเครื่องเกม
+  LABEL_CUSTOMPLATFORM_DATA: ข้อมูลเกี่ยวกับคอนโซล
+  LABEL_PREVIEW_CONSOLE: ภาพรวมเกี่ยวกับคอนโซล
+  LABEL_NOT_YET_IMPLEMENTED: ยังไม่ได้นำมาใช้
+  LABEL_DEMOLISH_BUILDING_CONFIRM_DIALOG: คุณกำลังจะรื้อถอนอาคาร %s คุณต้องการดำเนินการต่อหรือไม่?
+  LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: >-
+    คุณกำลังจะยกเลิกเกมที่ชื่อ %s รวมถึงทุกๆ การพอร์ตที่ทำไว้
+    คุณต้องการดำเนินการต่อหรือไม่?
+  LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: >-
+    คุณกำลังจะยกเลิกการพอร์ต %s ไปยังเครื่องเกม %s
+    คุณต้องการดำเนินการต่อหรือไม่?
+  LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: 'คุณกำลังจะยกเลิกการอัพเดตฟรีของ [b]%s[/b] คุณต้องการดำเนินการต่อหรือไม่?'
+  LABEL_CANCEL_CONFIRM_DIALOG: 'คุณกำลังจะยกเลิก [b]%s[/b] คุณต้องการดำเนินการต่อหรือไม่?'
+  LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >-
+    ในฐานะที่เป็นผู้จัดพิมพ์ คุณไม่ได้รับเคล็ดลับจากรายงานเกม และไม่ได้รับแฟนเกม
+    และก็ไม่เสียแฟนเกมด้วย
   LABEL_CANNOT_HIRE_AND_ASSIGN: |
     You need an available desk to hire and assign an employee.
   LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
@@ -610,9 +593,8 @@ th:
   LABEL_REMAKE_DESCRIPTION_0: |
     เมื่อมองไปยังเกมแรกของคุณ คุณตัดสินใจว่ามีบางอย่างจำเป็นต้องทำ
     คิดยังไงกับการรีเมคมันหล่ะ?
-  LABEL_REMAKE_DESCRIPTION_1: |
-    คุณสามารถรีเมคเกมเก่าของคุณได้แล้วตอนนี้
-    เพื่อให้การรีเมคประสบความสำเร็จคุณจะต้องใช้ฟีเจอร์ล่าสุดของเกมเอนจิ้นของคุณ
+  LABEL_REMAKE_DESCRIPTION_1: >-
+    คุณสามารถรีเมคเกมเก่าของคุณได้แล้วตอนนี้เพื่อให้การรีเมคประสบความสำเร็จคุณจะต้องใช้ฟีเจอร์ล่าสุดของเกมเอนจินของคุณ
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
     การฝึกซ้อมพนักงานต้องการมหาวิทยาลัย
 
@@ -673,7 +655,7 @@ th:
   LABEL_MARKET_RESEARCH_TYPE: ประเภทวิจัยการตลาด
   LABEL_GAME_TYPE_LIST: รายการประเภทเกม
   LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: วิเคราะห์กลุ่มเป้าหมาย
-  LABEL_MARKET_RESEARCH_NONE: No active market research
+  LABEL_MARKET_RESEARCH_NONE: ไม่มีการวิจัยตลาดที่กำลังดำเนินการ
   LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: ห้องเรียนพร้อมใช้งาน
   LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
     ยินดีด้วย การฝึกอบรมเพิ่งสิ้นสุดลง
@@ -698,21 +680,14 @@ th:
   LABEL_VIEW_MORE: ดูเพิ่มเติม...
   LABEL_GAME_INDUSTRY_NEWS: ข่าววงการเกม
   LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: '%s to acquire %s for %s'
-  LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: >
-    The video game developer and publisher behind [b]%s[/b] has been acquired by
-    [b]%s[/b] for an offer valued at [b]%s[/b].
-
-
-    [b]%s[/b] published a statement saying that it will pay [b]%s[/b] per share
-    for the company and that the deal is expected to close in the first quarter
-    of the year.
-
-    The buyout will increase the catalog of games under the [b]%s[/b] banner.
-
-    CEO of [b]%s[/b], commented on the acquisition, saying:
-
-    [indent]Our industry is growing, and together we will be positioned to lead
-    in a new era of entertainment.[/indent]
+  LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: >-
+    นักพัฒนาและจัดจำหน่ายเกมที่อยู่หลังบ้านของ [b]%s[/b] ได้รับการซื้อจาก
+    [b]%s[/b] ในราคาที่มีค่าเป็น [b]%s[/b] บริษัท [b]%s[/b]
+    ได้มีการเผยแพร่แถลงการณ์โดยระบุว่าจะจ่ายราคา [b]%s[/b] ต่อหุ้นสำหรับบริษัท
+    และคาดว่าการซื้อขายนี้จะปิดลงในไตรมาสแรกของปีนี้
+    การซื้อขายนี้จะเพิ่มบทความของเกมภายใต้ป้าย [b]%s[/b] ประธานบริษัท [b]%s[/b]
+    ได้แสดงความคิดเห็นในการซื้อขายโดยกล่าวว่า: [indent] วงการของเรากำลังเติบโต
+    และพร้อมที่จะเป็นผู้นำในยุคใหม่ของความบันเทิง [/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: เกมนี้ไม่ได้ใช้ประโยชน์จากความสามารถของเครื่องเกมอย่างเต็มที่
   LABEL_MARKETSHARE_KRASHING: >-
     เครื่องเกมนี้ได้รับชื่อเสียงที่แย่มากซึ่งนำไปสู่ยอดขายที่ต่ำ
@@ -725,17 +700,17 @@ th:
     คุณสามารถซื้ออาคารหรือเช่าที่เล็กกว่าเพื่อลดส่วนที่เสียค่าใช้จ่ายมากที่สุด
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
     เงินเดือนเป็นค่าใช้จ่ายหลัก คุณควรพิจารณาเลิกจ้างพนักงาน
-  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: >
-    You have a lot of coffee machines/vending machines, and this is a strain on
-    your budget
+  LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: >-
+    คุณมีเครื่องชงกาแฟหรือตู้จำหน่ายอาหารและเครื่องดื่มมากเกินไป
+    ซึ่งส่งผลกระทบต่องบประมาณของคุณ
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: >
     เซิร์ฟเวอร์มีราคาแพง หากคุณมีเซิร์ฟเวอร์ที่ไม่ได้ใช้งาน
     คุณควรขายเซิร์ฟเวอร์เหล่านั้น
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
     คุณใช้จ่ายในแคมเปญการตลาดเยอะ บางทีคุณควรหยุดการตลาดแคมเปญหรืองานเกมบ้าง 
-  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: >
-    It seems that your mortgages are expensive. If you can, pay them off with a
-    larger, long-term mortgage.
+  LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: >-
+    ดูเหมือนว่าสัญญาเงินกู้ของคุณที่ใช้เป็นที่อยู่อาศัยมีค่าใช้จ่ายสูง
+    หากเป็นไปได้ควรชำระหนี้ด้วยสัญญาเงินกู้ใหญ่ขึ้นและระยะเวลายาวขึ้น
   LABEL_LOSING_MONEY_HARD: >
     คุณใช้จ่ายมากกว่าที่คุณได้รับ
     หากคุณต้องการทราบว่าส่วนใดมีค่าใช้จ่ายมากที่สุด
@@ -746,19 +721,13 @@ th:
   BUTTON_RELEASE_ALL: เผยแพร่ทุกอย่าง
   TOOLTIP_RELEASE_ALL_BUTTON: เผยแพร่เกม สัญญา และเครื่องเกมทั้งหมดที่พร้อมสำหรับการเผยแพร่
   LABEL_PLATFORM_LIST_GAME: รายชื่อวิดีโอเกม
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Upcoming components
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Manufacturing news
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
-    สวัสดี %s,
-
-    ฉันมีความยินดีเป็นอย่างยิ่งที่จะประกาศการเปิดตัวส่วนประกอบใหม่
-
-    มันคือ [b]%s[/b] ใหม่เอี่ยม วิศวกรผู้ออกแบบมีความภูมิใจนำเสนอที่นี่
-    [center][img]%s[/img][/center]
-    ขอให้เป็นวันที่ดี
-
-    ขอแสดงความนับถือ
-    Binogure
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: ชิ้นส่วนประกอบใหม่
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: ข่าวเกี่ยวกับการผลิต
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: >-
+    สวัสดี
+    %s,ฉันมีความยินดีเป็นอย่างยิ่งที่จะประกาศการเปิดตัวชิ้นส่วนประกอบใหม่มันคือ
+    [b]%s[/b] ใหม่เอี่ยม
+    วิศวกรผู้ออกแบบมีความภูมิใจนำเสนอที่นี่[center][img]%s[/img][/center]ขอให้เป็นวันที่ดีขอแสดงความนับถือBinogure
   LABEL_PLATFORM_COST_REDUCTION_TITLE: รายงานการขายเครื่องเกม
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
     สวัสดี %s,
@@ -771,8 +740,7 @@ th:
     แค่นั้นแหละ,
     ขอให้มีความสุข
     Binogure
-  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: |
-    [b]%s[/b]'s ต้นทุนการผลิตลดลง [b]%s%%[/b].
+  LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: '[b]%s[/b]''s ต้นทุนการผลิตลดลงด้วย [b]%s%%[/b].'
   LABEL_PLATFORM_NOT_RELEASED: |
     %s ยังไม่พร้อมใช้งาน
   LABEL_PLATFORM_NO_COMPONENT: |
@@ -801,9 +769,9 @@ th:
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: ต้นทุนการผลิตโดยประมาณ
   LABEL_PLATFORM_UNIT_PROFIT: กำไรต่อหน่วย
   LABEL_PLATFORM_NAME: ชื่อแพลตฟอร์ม
-  LABEL_TRADE_PUBLISH_TOOLTIP: |
-    This publishing offer is backed by a $%s grant.
-    A %s$ penality applies if you do not achieve a minimum score of %d%%.
+  LABEL_TRADE_PUBLISH_TOOLTIP: >-
+    ข้อเสนอการตีพิมพ์นี้ได้รับการสนับสนุนด้วยทุนในจำนวน $%s
+    หากคุณไม่ได้รับคะแนนต่ำสุด %d%% จะมีโทษปรับใช้ในจำนวน %s$
   LABEL_CANNOT_HIRE_NO_DESK: |
     คุณต้องมีโต๊ะทำงานที่พร้อมใช้งานเพื่อจ้างผู้เชี่ยวชาญได้
   LABEL_CUSTOM_CONSOLE: การพัฒนาเครื่องเกม
@@ -821,8 +789,7 @@ th:
     มอบหมายให้นักบัญชีเพื่อลดภาระภาษี
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     มอบหมายให้ผู้จัดการฝ่ายการตลาดเพื่อเพิ่มความนิยมของเกม
-  LABEL_PRODUCER_ASSIGN_TOOLTIP: |
-    Assign a marketing manager to boost a game's popularity.
+  LABEL_PRODUCER_ASSIGN_TOOLTIP: กำหนดโปรดิวเซอร์ตามจำนวนคะแนนที่ต้องการ
   LABEL_PRODUCER_TOOLTIP: >
     Producers create big/AAA games and boost developer productivity.
 
@@ -892,7 +859,7 @@ th:
 
     การเริ่มต้นขั้นสูงจะปลดล็อกฟีเจอร์ทั้งหมดตั้งแต่เริ่มเกม
   LABEL_NUMBER_OF_PRODUCED_POINTS: Number of produced points
-  LABEL_REQUIRE_FANBASE: ต้องการแฟน %s คนเพื่อเพิ่มยอดขาย
+  LABEL_REQUIRE_FANBASE: ต้องการแฟนเกม %s คนเพื่อเพิ่มยอดขาย
   LABEL_MAINTENANCE: ค่าซ่อมบำรุง
   LABEL_PLATFORM_COMPATIBILITY: ตวามเข้ากันได้
   LABEL_DETAILS_MAIN: รายละเอียดเกม
@@ -911,10 +878,9 @@ th:
   LABEL_MOD_MISSING: |
     ไม่มีม็อด ไม่สามารถโหลดบันทึกเกมได้
   LABEL_MOD_BANNED: Mod banned
-  LABEL_MOD_AGREEMENT: >
-    By submitting this item, you agree to the
-    [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]workshop
-    terms of service[/url]
+  LABEL_MOD_AGREEMENT: >-
+    เมื่อคุณส่งรายการนี้ แสดงว่าคุณยินยอมตาม
+    [url="https://steamcommunity.com/sharedfiles/workshoplegalagreement"]ข้อตกลงในการให้บริการของเวิร์กช็อป[/url]
   LABEL_MOD_VERSION: เวอร์ชั่น
   LABEL_MOD_CREATE: สร้างม็อด
   LABEL_MOD_LIST: รายการม็อด
@@ -925,13 +891,13 @@ th:
   LABEL_MOD_VISIBILITY_PUBLIC: สาธารณะ
   LABEL_MOD_VISIBILITY_FRIENDS: เพื่อนเท่านั้น
   LABEL_MOD_VISIBILITY_PRIVATE: ส่วนตัว
-  LABEL_MOD_VISIBILITY_UNLISTED: Not listed
+  LABEL_MOD_VISIBILITY_UNLISTED: ไม่มีในรายการ
   LABEL_MOD_IMAGE_PREVIEW: รูปตัวอย่าง
   LABEL_MOD_VIDEO_PREVIEW: วีดีโอตัวอย่าง
-  LABEL_MOD_PATH: Absolute path
+  LABEL_MOD_PATH: ตำแหน่ง
   LABEL_MOD_PUBLISHED_DATE: วันที่เผยแผร่
   LABEL_MOD_UPDATE: อัปเดต
-  LABEL_MOD_VALIDATE: Validate
+  LABEL_MOD_VALIDATE: ตรวจสอบความถูกต้อง
   LABEL_MOD_NOT_VALID: Invalid
   LABEL_MOD_CREATED: สร้างม็อดแล้ว
   LABEL_MOD_UPDATED: อัปเดตม็อดแล้ว
@@ -950,10 +916,8 @@ th:
     [b]%s$[/b]. เราตกลงกันได้หรือยัง?
   LABEL_CLOUDS: แสดงเมฆบนแผนที่
   LABEL_AUTOSAVE: บันทึกอัตโนมัติ
-  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
-    คู่แข่งกำลังใช้เกมเอ็นจิ้นของคุณ
-  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
-    [b]%s[/b] ได้เปิดตัวเกมที่ใช้เกมเอ็นจิ้นของคุณ ([b]%s[/b]).
+  LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: คู่แข่งกำลังใช้เกมเอนจินของคุณ
+  LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: '[b]%s[/b] ได้เปิดตัวเกมที่ใช้เกมเอนจินของคุณ ([b]%s[/b]).'
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     ขอบคุณ [b]%s[/b] คุณจะได้รับค่าลิขสิทธิ์[b]%d%%[/b] 
   LABEL_PLATFORM_SELECT_OFFER: |
@@ -962,7 +926,7 @@ th:
     ระยะเวลาเอ็กซ์คลูซีฟ: [b]%s[/b] เดือน
   LABEL_PLATFORM_MONEY_OFFER: |
     จำนวนเงินที่เสนอ: [b]%s$[/b]
-  LABEL_GAMEENGINE_DELETE_TITLE: ลบเกมเอ็นจิ้น?
+  LABEL_GAMEENGINE_DELETE_TITLE: ลบเกมเอนจิน?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     คุณกำลังที่จะลบ [b]%s[/b].
     คุณต้องการดำเนินการต่อหรือไม้?
@@ -1088,7 +1052,7 @@ th:
   LABEL_AD_POPUP: ป๊อปอัปโฆษณา
   LABEL_AD_BANNER: แบนเนอร์โฆษณา
   LABEL_NUMBER_OF_PLAYER: จำนวนผู้เล่น
-  LABEL_GAME_ENGINE_LIST: รายการเกมเอนจิ้น
+  LABEL_GAME_ENGINE_LIST: รายการเกมเอนจิน
   LABEL_THEME_LIST: รายการธีม
   LABEL_CONVENTION_MESSAGE: งานเกม
   LABEL_GAME_ANNOUNCEMENT: Games announcements
@@ -1126,7 +1090,7 @@ th:
   LABEL_REQUIRED: ต้องการ
   LABEL_REVIEW_GAMEENGINE_BAD: พวกเขาน่าจะใช้ประโยชน์จากความสามารถของเครื่องเกม
   LABEL_REVIEW_GAMEENGINE_GOOD: พวกเขาสามารถใช้ประโยชน์สูงสุดจากเครื่องเกมได้
-  LABEL_GAME_ENGINE: เกมเอนจิ้น
+  LABEL_GAME_ENGINE: เกมเอนจิน
   LABEL_FEATURE_LIST: รายการฟีเจอร์
   LABEL_DESIGN_CAPACITY: Design points produced per week
   LABEL_DEVELOPMENT_CAPACITY: Development points produced per week
@@ -2520,34 +2484,19 @@ th:
     หากคุณสร้างเอ็นจิ้นที่เป็นกรรมสิทธิ์ คุณสามารถขายได้โดยมีใบอนุญาต
     อีกทางหนึ่งคือทำให้เป็นค่าลิขสิทธิ์และรับชุมชนเพื่อปรับปรุงเอ็นจิ้นเกมของคุณ
     อีกทางเลือกหนึ่งคือเก็บไว้ในบ้านเพื่อไม่ให้คู่แข่งได้เปรียบ
-  TOOLTIP_TRADE_PUBLISH_WHY: |
-    สร้างเกมสำหรับคู่แข่งของคุณ
-
-    คุณจะได้แฟนใหม่มากมายอย่างรวดเร็ว
-    ในทางกลับกัน คู่แข่งของคุณจะเติบโตเร็วขึ้น
-  TOOLTIP_PUBLISH_GAME_WHY: |
-    มาเป็นผู้เผยแพร่เกม
-
-    มันถูกกว่าการพัฒนาเกมด้วยตัวเอง แต่จ่ายเงินเป็นจำนวนมาก
-    ยังไงก็ไม่มีแฟน
-  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: |
-    This feature is not available,
-    although it was in the original game.
-  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
-    This feature is not available,
-    but an alternate is available,
-    it' s recommended to use it.
-  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
-    This remake doesn't take advantage of
-    the console's capabilities.
-  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
-    Some features are not supported, please select others.
-  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
-    The game report has already been done.
-  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
-    Automatically make the game report.
-  TUTORIEL_CREATE_GAME: |
-    Click on this button to open the game creation panel.
+  TOOLTIP_TRADE_PUBLISH_WHY: >-
+    สร้างเกมสำหรับคู่แข่งของคุณคุณจะได้แฟนเกมใหม่มากมายอย่างรวดเร็วในทางกลับกัน
+    คู่แข่งของคุณจะเติบโตเร็วขึ้น
+  TOOLTIP_PUBLISH_GAME_WHY: เป็นผู้จัดจำหน่ายเกมง่ายใช้เงินน้อยกว่าแต่ได้เงินมากกว่าและไม่ได้แฟนเกมเพิ่ม
+  TOOLTIP_REMAKE_MISSING_FEATURE_NO_ALTERNATIVE: คุณสมบัตินี้ไม่สามารถใช้งานได้ แม้ว่าจะมีในต้นฉบับของเกม
+  TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: >-
+    คุณสมบัตินี้ไม่สามารถใช้งานได้ แต่มีทางเลือกอื่นที่ใช้งานได้
+    แนะนำให้ใช้ทางเลือกนั้น
+  TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: การทำเกมรีเมคนี้ไม่ได้ใช้ประโยชน์จากความสามารถของเครื่องเกม
+  TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: บางคุณสมบัติไม่ได้รับการสนับสนุน กรุณาเลือกคุณสมบัติอื่น
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: รายงานเกมถูกทำเสร็จแล้ว
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: สร้างรายงานเกมโดยอัตโนมัติ
+  TUTORIEL_CREATE_GAME: กดปุ่มนี้เพื่อเปิดหน้าต่างสร้างเกม
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: >
     Costs involved in upgrading this game engine are higher. In fact, the game
     engine is aging,
@@ -2678,8 +2627,7 @@ th:
     คลิกที่นี่เพื่ออัปเดตเกมของคุณ สร้าง DLC หรือดูรายละเอียดทางการเงิน
   TOOLTIP_GAMECREATION_HELP: |
     รายชื่อเกมในประเภทเดียวกันกับที่คุณสร้าง มีประโยชน์ในการปรับแต่งเกจ
-  TOOLTIP_GAMEENGINE_CREATE: |
-    เลือกฟีเจอร์ที่คุณต้องการใส่ในเกมเอ็นจิ้นของคุณ
+  TOOLTIP_GAMEENGINE_CREATE: เลือกฟีเจอร์ที่คุณต้องการใส่ในเกมเอนจินของคุณ
   TOOLTIP_TIRED_GAME_GENRE: >
     พนักงานของคุณกระตือรือร้นที่จะลองเกมแนวใหม่
     พวกเขาเริ่มเบื่อกับการทำเกมแนวเดิมๆ: 
