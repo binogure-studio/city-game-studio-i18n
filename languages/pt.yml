@@ -1,5 +1,6 @@
 pt:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: Desativar o tutorial
   BUTTON_ACQUIRE: Adquirir
   BUTTON_READ: Ler
   BUTTON_ANNOUNCE: Anunciar jogo
@@ -86,7 +87,8 @@ pt:
   BUTTON_CANCEL_GAMEENGINE: Cancelar o motor do jogo
   BUTTON_CANCEL_GAMEUPDATE: Cancelar actualização gratuita
   BUTTON_CANCEL_DLC: Cancelar actualização paga
-  BUTTON_UNASSIGN: Desatribuir
+  BUTTON_UNASSIGN: Retirar
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: Retirar todos os empregados
   BUTTON_REMAKE_CREATE: Criar remake
   BUTTON_VIEW_REMAKE: Ver o remake
   BUTTON_VIEW_ORIGINAL_GAME: Ver o jogo original
@@ -99,8 +101,66 @@ pt:
   BUTTON_SAVEGAMEAS: Novo jogo guardado
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Obter token
+  BUTTON_MAIN_MENU_NO_SAVE: Menu principal sem guardar
+  BUTTON_EXIT_NO_SAVE: Sair sem guardar
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: Pausa automática ao publicar
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    O jogo será pausado automaticamente quando você publicar um videogame.
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    Fãs ganhos pela aquisição do concorrente
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    Está prestes a adquirir um concorrente.
+
+    Esta aquisição irá aumentar a base de fãs da tua empresa.
+    Também podes escolher se queres adquirir os seus empregados, estúdios e jogos.
+    Ou se queres livrar-te deles.
+  LABEL_GET_ALL_STUDIO: Adquirir todos os estúdios
+  LABEL_HIRE_ALL: Adquirir todos os funcionários
+  LABEL_GET_ALL_GAME: Adquirir todos os jogos
+  LABEL_UPCOMING_GAME: Para a lista de desejos de hoje!
+  LABEL_BANKER_GOODBYE_MESSAGE: Obrigado pelo seu tempo e consideração. Prosseguiremos com base na sua decisão final. Se precisar de mais assistência, por favor, avise-nos.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Tem a certeza de que pretende vender o motor de jogo que desenvolveu nos últimos meses? Isso poderá prejudicar os seus projetos futuros.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Confirmação. Não temos outra escolha. Precisamos reduzir a nossa dívida imediatamente.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Cancelamento. Precisamos considerar outras opções antes de vender um ativo tão valioso.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Tem a certeza de que pretende vender a consola recém-concluída? Isso poderá afetar as suas relações com parceiros e clientes.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Confirmação. A situação é crítica e esta venda é necessária para reduzir a nossa dívida.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Cancelamento. A consola representa o futuro da nossa empresa. Precisamos explorar outras soluções antes de considerar esta venda.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Tem a certeza de que pretende vender um estúdio completo com todos os seus empregados? Isso teria repercussões significativas na sua equipa e na produção.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Confirmação. Apesar das consequências difíceis, esta opção é a mais rápida para aliviar a nossa dívida.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: Cancelamento. Perder a equipa seria catastrófico. Precisamos tentar outras alternativas antes de tomar esta decisão.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Tem a certeza de que pretende declarar falência imediatamente? Isso acabará com todas as suas atividades e terá efeitos duradouros no seu crédito.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Confirmação. Esgotámos todas as outras opções e a falência parece ser o único caminho restante.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: Cancelamento. Prefiro explorar todas as outras opções possíveis antes de tomar uma decisão tão drástica.
+  LABEL_BANKER_SELL_GAME_ENGINE: Vender o motor de jogo desenvolvido nos últimos meses.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Vender a consola recém-concluída.
+  LABEL_BANKER_SELL_STUDIO: Vender um estúdio completo com todos os seus empregados.
+  LABEL_BANKER_GO_BANKRUPT: Declarar imediatamente falência.
+  LABEL_BANKER_WELCOME: |
+    Caro Sr. [b]%s[/b],
+
+    Na sequência da nossa recente análise financeira, é imperativo tomar medidas drásticas para resolver a situação crítica da sua empresa, atualmente endividada em [b]%s[/b].
+    Está confrontado com várias opções difíceis mas necessárias:
+  LABEL_BANKER_WELCOME_END: |
+    É crucial que tome uma decisão sem demora para estabilizar as suas finanças.
+  LABEL_SHOW_GAME_PERCENTAGE: Mostrar percentagens ao criar um jogo
+  LABEL_BIGGER_FONT: Tipo de letra maior
+  LABEL_OPTIMIZE_HAPPINESS: Otimizar a felicidade
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    Mantém a felicidade do estúdio o mais próximo possível de 100%.
+
+    Desativar esta opção permite-lhe ter mais secretárias no
+    estúdio à custa da felicidade.
+  LABEL_REWORK_LEGACY_CODE: |
+    Reescrever o motor de jogo.
+    Reescrever o motor de jogo elimina a penalização do código antigo, embora custe um pouco mais do que um motor de jogo totalmente novo.
+  TOOLTIP_TWITCH_BUTTON: |
+    Iniciar uma sondagem no twitch.
+
+    Os espectadores poderão sugerir nomes através do chat.
+  LABEL_SECONDS: segundos
+  LABEL_TWITCH_POLL_DURATION: Duração da sondagem
   LABEL_TWITCH_CHANNEL_NAME: Nome do canal do Twitch
   LABEL_TWITCH_TOKEN: Token do Twitch
   LABEL_TWITCH_CONNECTING: A ligar ao Twitch...
@@ -1098,6 +1158,11 @@ pt:
   LABEL_RENT_SERVER_COST: Custos de aluguer de servidores
   LABEL_SERVER_USAGE_THRESHOLD: >
     Alugar novos servidores assim que a carga de servidores atingir este limite:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    A tentar contactar o Steam.
+    Certifica-te de que o Steam está a funcionar e que tens sessão iniciada.
+
+    Se o problema persistir, inicie novamente a sessão no Steam.
   LABEL_STEAM_NOT_DETECTED: |
     O Steam não pode ser alcançado.
 
@@ -1293,7 +1358,7 @@ pt:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Circulam rumores, e parece que %s não está satisfeito com o acordo que fizeram com %s    
   LABEL_REQUIRE_EMPLOYEE: |
-    Requer %d funcionários
+    Requer %d programador
     Requer %d produtor
   LABEL_STUDIO_NOT_BALANCED: >
     Verifique a equipe do seu estúdio. Parece que não produz a mesma quantidade de design/desenvolvimento ou polimento.
@@ -2298,6 +2363,7 @@ pt:
     De facto, o motor de jogo está a envelhecer, pelo que os custos de desenvolvimento podem disparar.
 
     Deve-se criar um novo, sem actualizar este, para não se enfrentar uma tal penalização.
+    Ou pode reescrever o seu código antigo, o que é mais barato do que criar um novo motor.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Note-se que os custos de fabrico da consola são mais elevados do que o seu preço.
     Se as vendas dispararem, a empresa poderá ir à falência.

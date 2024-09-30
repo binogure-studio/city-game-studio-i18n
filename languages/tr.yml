@@ -1,5 +1,6 @@
 tr:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: Öğreticiyi devre dışı bırak
   BUTTON_ACQUIRE: Edinme
   BUTTON_READ: Okumak
   BUTTON_ANNOUNCE: Oyunu Duyur
@@ -87,6 +88,7 @@ tr:
   BUTTON_CANCEL_GAMEUPDATE: Ücretsiz güncelleme İptal
   BUTTON_CANCEL_DLC: Ödenen güncelleştirmeyi iptal
   BUTTON_UNASSIGN: Atamayı kaldır
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: Tüm çalışanları geri çekin
   BUTTON_REMAKE_CREATE: Yeniden yapım oluştur
   BUTTON_VIEW_REMAKE: Yeniden çevrimi görüntüle
   BUTTON_VIEW_ORIGINAL_GAME: Orijinal oyunu görüntüle
@@ -99,8 +101,66 @@ tr:
   BUTTON_SAVEGAMEAS: Yeni kayıt oyunu
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Belirteç al
+  BUTTON_MAIN_MENU_NO_SAVE: Kaydetmeden ana menü
+  BUTTON_EXIT_NO_SAVE: Kaydetmeden çık
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: Yayınlama sırasında otomatik duraklatma
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    Bir video oyunu yayımladığınızda oyun otomatik olarak duraklatılacaktır.
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    Rakip satın alımından kazanılan hayranlar
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    Bir rakibinizi satın almak üzeresiniz.
+
+    Bu satın alma şirketinizin hayran kitlesini artıracaktır.
+    Ayrıca çalışanlarını, stüdyolarını ve oyunlarını satın almak isteyip istemediğinizi de seçebilirsiniz.
+    Ya da onlardan kurtulmak isteyip istemediğinizi.
+  LABEL_GET_ALL_STUDIO: Tüm stüdyoları alın
+  LABEL_HIRE_ALL: Tüm personeli edinin
+  LABEL_GET_ALL_GAME: Tüm oyunları edinin
+  LABEL_UPCOMING_GAME: Bugün dilek listesine!
+  LABEL_BANKER_GOODBYE_MESSAGE: Zamanınız ve dikkatiniz için teşekkür ederim. Nihai kararınıza göre devam edeceğiz. Daha fazla yardıma ihtiyacınız olursa lütfen bize bildirin.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Son birkaç ayda geliştirdiğiniz oyun motorunu satmak istediğinizden emin misiniz? Bu, gelecekteki projelerinize zarar verebilir.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Onay. Başka seçeneğimiz yok. Borcumuzu hemen azaltmalıyız.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: İptal. Bu kadar değerli bir varlığı satmadan önce diğer seçenekleri değerlendirmeliyiz.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Yeni tamamladığınız konsolu satmak istediğinizden emin misiniz? Bu, iş ortaklarınız ve müşterilerinizle olan ilişkinizi etkileyebilir.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Onay. Durum kritik ve bu satış, borcumuzu azaltmak için gerekli.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: İptal. Konsol, şirketimizin geleceğini temsil ediyor. Bu satışa karar vermeden önce diğer çözümleri keşfetmeliyiz.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Bir stüdyoyu ve tüm çalışanlarını satmak istediğinizden emin misiniz? Bu, ekibiniz ve üretim üzerindeki büyük etkileri olabilir.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Onay. Zorlu sonuçlara rağmen, bu seçenek borcumuzu azaltmanın en hızlı yoludur.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: İptal. Ekibin kaybı felaket olacaktır. Bu kararı almadan önce diğer alternatifleri denemeliyiz.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Hemen iflas ilan etmek istediğinizden emin misiniz? Bu, tüm faaliyetlerinizi sonlandıracak ve kredi durumunuz üzerinde kalıcı etkiler bırakacaktır.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Onay. Diğer tüm seçenekleri tükettik ve iflas, kalan tek yol gibi görünüyor.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: İptal. Böyle köklü bir kararı vermeden önce diğer tüm olası seçenekleri keşfetmek istiyorum.
+  LABEL_BANKER_SELL_GAME_ENGINE: Geçtiğimiz birkaç ay içinde geliştirilen oyun motorunu satmak.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Yeni tamamlanan konsolu satmak.
+  LABEL_BANKER_SELL_STUDIO: Tüm çalışanlarıyla birlikte bir stüdyoyu satmak.
+  LABEL_BANKER_GO_BANKRUPT: Hemen iflas ilan etmek.
+  LABEL_BANKER_WELCOME: |
+    Sayın [b]%s[/b],
+
+    Son mali incelememizin ardından, şirketinizin şu anda $[b]%s[/b] borç altında bulunduğu kritik durumu çözmek için radikal önlemler almanız zorunludur.
+    Karşı karşıya olduğunuz birkaç zor ama gerekli seçenek şunlardır:
+  LABEL_BANKER_WELCOME_END: |
+    Mali durumunuzu istikrara kavuşturmak için gecikmeden bir karar vermeniz önemlidir.
+  LABEL_SHOW_GAME_PERCENTAGE: Oyun oluştururken yüzdeleri görüntüleme
+  LABEL_BIGGER_FONT: Daha büyük yazı tipi
+  LABEL_OPTIMIZE_HAPPINESS: Mutluluğu optimize edin
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    Stüdyo mutluluğunu mümkün olduğunca %100'e yakın tutar.
+    
+    Bu seçeneğin devre dışı bırakılması, mutluluk pahasına
+    stüdyoda daha fazla masaya sahip olmanızı sağlar.
+  LABEL_REWORK_LEGACY_CODE: |
+    Oyun motorunu yeniden yazın.
+    Oyun motorunun yeniden yazılması, yepyeni bir oyun motorundan biraz daha maliyetli olsa da eski kodun cezasını ortadan kaldırır.
+  TOOLTIP_TWITCH_BUTTON: |
+    Twitch'te bir anket başlatın.
+
+    İzleyiciler sohbet yoluyla isim önerebilecekler.
+  LABEL_SECONDS: saniye
+  LABEL_TWITCH_POLL_DURATION: Anket süresi
   LABEL_TWITCH_CHANNEL_NAME: Twitch kanal adı
   LABEL_TWITCH_TOKEN: Twitch jetonu
   LABEL_TWITCH_CONNECTING: Twitch'e bağlanılıyor...
@@ -1085,6 +1145,11 @@ tr:
   LABEL_RENT_SERVER_COST: Sunucular kiralama maliyetleri
   LABEL_SERVER_USAGE_THRESHOLD: >
     Yeni sunucular, sunucular yüklendiğinde bu eşiğe ulaşır ulaşmaz kiralayın:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Steam'e ulaşmaya çalışıyorum.
+    Steam'in çalıştığından ve giriş yaptığınızdan emin olun.
+
+    Sorun devam ederse, lütfen Steam'e tekrar giriş yapın.
   LABEL_STEAM_NOT_DETECTED: |
     Steam'a ulaşılamıyor.
 
@@ -1280,7 +1345,7 @@ tr:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Söylentiler dolaşıyor ve %s'nin %s ile yaptıkları anlaşmadan memnun olmadığı görülüyor
   LABEL_REQUIRE_EMPLOYEE: |
-    %d çalışan gerektirir.
+    %d geliştirici gerektirir.
     %d yapımcı çalışan gerektirir
   LABEL_STUDIO_NOT_BALANCED: >
     Stüdyonun ekibini kontrol edin. Aynı miktarda tasarım / geliştirme veya cila üretmediği anlaşılıyor.
@@ -2263,6 +2328,7 @@ tr:
     Aslında, oyun motoru yaşlanıyor, bu nedenle geliştirme maliyetleri fırlayabilir.
 
     Bunu güncellemeden yeni bir tane oluşturmalısınız ki böyle bir ceza ile karşılaşmayın.
+    Ya da eski kodunu yeniden yazabilirsiniz, ki bu yeni bir motor oluşturmaktan daha ucuzdur.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Konsolun üretim maliyetlerinin fiyatından daha yüksek olduğunu unutmayın.
     Satışlar yükselirse, şirket iflas edebilir.

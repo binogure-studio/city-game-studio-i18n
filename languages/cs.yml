@@ -1,5 +1,6 @@
 cs:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: Zakázat výukový program
   BUTTON_ACQUIRE: Odkoupit
   BUTTON_READ: Přečíst
   BUTTON_ANNOUNCE: Oznámit hru
@@ -87,6 +88,7 @@ cs:
   BUTTON_CANCEL_GAMEUPDATE: Zrušit update zdarma
   BUTTON_CANCEL_DLC: Zrušit DLC
   BUTTON_UNASSIGN: Zrušit přiřazení
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: Stáhnout všechny zaměstnance
   BUTTON_REMAKE_CREATE: Vytvořit remake
   BUTTON_VIEW_REMAKE: Zobrazit remake
   BUTTON_VIEW_ORIGINAL_GAME: Zobrazit originální hru
@@ -99,8 +101,66 @@ cs:
   BUTTON_SAVEGAMEAS: Nová uložená hra
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Získat token
+  BUTTON_MAIN_MENU_NO_SAVE: Hlavní nabídka bez uložení
+  BUTTON_EXIT_NO_SAVE: Ukončení bez uložení
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: Automatická pauza při publikování
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    Hra se automaticky pozastaví, když vydáte videohru.
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    Fanoušci získaní akvizicí konkurenta
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    Chystáte se získat konkurenta.
+
+    Tato akvizice zvýší počet fanoušků vaší společnosti.
+    Můžete si také vybrat, zda chcete získat jejich zaměstnance, studia a hry.
+    Nebo jestli se jich chcete zbavit.
+  LABEL_GET_ALL_STUDIO: Získejte všechna studia
+  LABEL_HIRE_ALL: Získat všechny zaměstnance
+  LABEL_GET_ALL_GAME: Získat všechny hry
+  LABEL_UPCOMING_GAME: Na seznam přání ještě dnes!
+  LABEL_BANKER_GOODBYE_MESSAGE: Děkuji za váš čas a zvážení. Budeme pokračovat podle vašeho konečného rozhodnutí. Pokud budete potřebovat další pomoc, dejte nám vědět.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Jste si jistý, že chcete prodat herní engine, který jste vyvinuli v posledních několika měsících? To může negativně ovlivnit vaše budoucí projekty.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Potvrzení. Nemáme jinou možnost. Musíme okamžitě snížit naše dluhy.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Zrušení. Musíme zvážit jiné možnosti, než prodáme tak cenný majetek.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Jste si jistý, že chcete prodat nově dokončenou konzoli? To může ovlivnit vaše vztahy s partnery a klienty.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Potvrzení. Situace je kritická a tento prodej je nezbytný pro snížení našich dluhů.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Zrušení. Konzole představuje budoucnost naší společnosti. Musíme prozkoumat jiné řešení, než začneme zvažovat tento prodej.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Jste si jistý, že chcete prodat celé studio včetně všech jeho zaměstnanců? To bude mít významný dopad na váš tým a produkci.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Potvrzení. I přes těžké následky je tato možnost nejrychlejším způsobem, jak snížit náš dluh.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: Zrušení. Ztráta týmu by byla katastrofální. Musíme zkusit jiné alternativy, než se rozhodneme pro tento krok.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Jste si jistý, že chcete okamžitě vyhlásit bankrot? To ukončí všechny vaše aktivity a bude mít dlouhodobý dopad na vaši kreditní schopnost.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Potvrzení. Vyčerpali jsme všechny ostatní možnosti a bankrot se zdá být jedinou zbývající cestou.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: Zrušení. Rád bych nejprve prozkoumal všechny ostatní možné možnosti, než učiním tak radikální rozhodnutí.
+  LABEL_BANKER_SELL_GAME_ENGINE: Prodat herní engine vyvinutý v posledních měsících.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Prodat nově dokončenou konzoli.
+  LABEL_BANKER_SELL_STUDIO: Prodat celé studio se všemi jeho zaměstnanci.
+  LABEL_BANKER_GO_BANKRUPT: Okamžitě vyhlásit bankrot.
+  LABEL_BANKER_WELCOME: |
+    Vážený pane [b]%s[/b],
+
+    Na základě naší nedávné finanční analýzy je nezbytné přijmout drastická opatření k řešení kritické situace vaší společnosti, která je v současné době zadlužena ve výši [b]%s[/b].
+    Čelíte několika obtížným, ale nezbytným možnostem:
+  LABEL_BANKER_WELCOME_END: |
+    Je zásadní, abyste bez prodlení přijali rozhodnutí k stabilizaci vašich financí.
+  LABEL_SHOW_GAME_PERCENTAGE: Zobrazení procent při vytváření hry
+  LABEL_BIGGER_FONT: Větší písmo
+  LABEL_OPTIMIZE_HAPPINESS: Optimalizace štěstí
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    Udržuje spokojenost ve studiu co nejblíže 100 %.
+    
+    Deaktivace této možnosti umožňuje mít ve studiu
+    více stolů na úkor štěstí.
+  LABEL_REWORK_LEGACY_CODE: |
+    Přepište herní engine.
+    Přepsání herního enginu odstraňuje postih za starší kód, i když stojí o něco více než zcela nový herní engine.
+  TOOLTIP_TWITCH_BUTTON: |
+    Založte anketu na twitchi.
+
+    Diváci budou moci navrhovat jména prostřednictvím chatu.
+  LABEL_SECONDS: sekundy
+  LABEL_TWITCH_POLL_DURATION: Doba trvání průzkumu
   LABEL_TWITCH_CHANNEL_NAME: Název kanálu Twitch
   LABEL_TWITCH_TOKEN: Twitch token
   LABEL_TWITCH_CONNECTING: Připojení ke službě Twitch...
@@ -1082,6 +1142,11 @@ cs:
   LABEL_RENT_SERVER_COST: Ceny pronajímání serverů
   LABEL_SERVER_USAGE_THRESHOLD: >
     Pronajmout nové servery hned, jak jejich zatíženost překročí tuto hranici:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Snaha o dosažení služby Steam.
+    Zkontrolujte, zda je služba Steam spuštěna a zda jste přihlášeni.
+
+    Pokud problém přetrvává, přihlaste se do služby Steam znovu.
   LABEL_STEAM_NOT_DETECTED: |
     Steam nemůže být dosažen.
 
@@ -1277,7 +1342,7 @@ cs:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Proslýchá se, že [b]%s[/b] není spokojeno se smlouvou, kterou uzavřelo s [b]%s[/b].
   LABEL_REQUIRE_EMPLOYEE: |
-    Potřeba zaměstnanců: %d.
+    Potřeba vývojářů: %d.
     Potřeba producentů: %d .
   LABEL_STUDIO_NOT_BALANCED: >
     Zkontrolujte tým vašeho studia. Nevytváří stejné množství bodů designu/vývoje nebo dokončení.
@@ -2281,6 +2346,7 @@ cs:
     tím nákladnější je ho udržovat.
 
     Měli by jste radši vytvořit nový, takže neztratíte kvůli zastaralému kódu více peněz.
+    Nebo můžete přepsat jeho starší kód, což je levnější než vytvoření nového motoru.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Mějte na mysli, že výrobní cena této platformy jsou vyšší než prodejní cena, kterou jste nastavili.
     Pokud se konzole stane populární, vaše společnost by mohla zbankrotovat.

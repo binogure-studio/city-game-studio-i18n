@@ -1,14 +1,19 @@
-[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
+城市游戏工作室》（City Game Studio）是一款以城市为背景的深度经营游戏，在游戏中你可以管理多个工作室。创建并管理自己的电子游戏公司，经营多个工作室，制作大量游戏。享受数十小时的游戏乐趣，看着资金流动，或与银行家打交道！
+
+[img]{STEAM_APP_IMAGE}/extras/map-rounded.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/gameplay-616x96.png[/img]
 
 1976年1月 ，你创建了你自己的电子游戏公司。 你租用了一个窄小的地方去开发你工作室的第一个游戏。 很快，你的游戏都卖的非常成功。你可能觉得需要搬工作室了，但是下一个工作室地点在哪，则完全由你敲定。转眼之间，你已经雇佣了几位美术来丰富游戏的视觉效果。下一批雇佣来的是开发人员，再一批则是测试人员。
 
-[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game-rounded.gif[/img]
 
 但是问题接踵而来，就算你的游戏是非常出色的，你的游戏铁粉数还是不足以让你的工作室能够独自发行大制作的游戏，从而工作室的吸金能力相当不理想。你必须将自己变成一位能从狮口夺食的游戏编辑。产业链的链接成功是撇开发行商扩大盈利规模的唯一方法。此外，你还可以出版属于自己的发行合同。然后你就可以准备着去主宰市场的风向，并且找机会回购你的竞争队手。
 
-[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine-rounded.gif[/img]
 
-[h2]功能清单[/h2]
+[img]{STEAM_APP_IMAGE}/extras/features-616x96.png[/img]
+
 [list][*] 开发或租用游戏引擎
 [*] 接收/发布游戏优惠
 [*] 购买或租用几栋建筑物
@@ -25,18 +30,19 @@
 [*] 设计公司徽标
 [*] 管理员工的时间表
 [*] 获得年度最佳游戏
+[*] 创建自己的控制台
+[*] 协商获得控制台许可证
 [*] 玩的很开心[/list]
 
-[h2]该游戏没有[/h2]
-[list][*] 电子竞技比赛
-[*] 研发部门
-[*] 多人游戏模式
-[*] 战利品箱
-[*] 微交易[/list]
+[img]{STEAM_APP_IMAGE}/extras/game-modes-616x96.png[/img]
 
-[h2]City Game Studio的灵感来自于出色的游戏，例如[/h2]
-[list][*] 游戏发展国
-[*] 游戏开发大亨
-[*] Software Inc
-[*] 模拟城市
-[*] Mad Games Tycoon[/list]
+城市游戏工作室提供多个难度级别。从悠闲漫步到永久挑战，您都能找到最适合自己的难度。
+对于那些想探索游戏各个角落的玩家，还有沙盒模式。您可以通过设置每个新游戏来控制自己的游戏体验。
+
+[img]{STEAM_APP_IMAGE}/extras/development-team-616x96.png[/img]
+
+城市游戏工作室》是一个人--嗯，是一个人--数年工作的成果。除了配乐，它是由一位才华横溢的音乐家创作的： Conciliator！
+
+我欢迎各种建设性意见，请随时与我联系！我会尽我所能及时回复留言并解决出现的任何问题。） 
+
+https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/

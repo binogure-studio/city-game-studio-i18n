@@ -1,5 +1,6 @@
 nl:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: Zelfstudie uitschakelen
   BUTTON_ACQUIRE: Verwerven
   BUTTON_READ: Lezen
   BUTTON_ANNOUNCE: Kondig het spel aan
@@ -78,15 +79,16 @@ nl:
   BUTTON_COPY: Kopieer
   BUTTON_HIRE_ALL: Huur iedereen in
   BUTTON_HIRE_AND_ASSIGN: Huren en toewijzen
-  BUTTON_TRAINING_START: Start training
-  BUTTON_TRAINING_STOP: Stop de opleiding
-  BUTTON_CANCEL_CONTRACT: Annullare il contratto
-  BUTTON_CANCEL_GAMEPORT: Annullare la porta del gioco
-  BUTTON_CANCEL_FEATURE: Annullare la funzionalità
-  BUTTON_CANCEL_GAMEENGINE: Annulla il motore di gioco
-  BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
-  BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
-  BUTTON_UNASSIGN: Unassign
+  BUTTON_TRAINING_START: Training starten
+  BUTTON_TRAINING_STOP: Opleiding stoppen
+  BUTTON_CANCEL_CONTRACT: Contract annuleren
+  BUTTON_CANCEL_GAMEPORT: De game-port annuleren
+  BUTTON_CANCEL_FEATURE: Functionaliteit annuleren
+  BUTTON_CANCEL_GAMEENGINE: Game-engine annuleren
+  BUTTON_CANCEL_GAMEUPDATE: Gratis update annuleren
+  BUTTON_CANCEL_DLC: Betaalde update annuleren
+  BUTTON_UNASSIGN: Intrekken
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: Alle werknemers terugtrekken
   BUTTON_REMAKE_CREATE: Maak remake
   BUTTON_VIEW_REMAKE: Bekijk de remake
   BUTTON_VIEW_ORIGINAL_GAME: Bekijk het originele spel
@@ -99,8 +101,66 @@ nl:
   BUTTON_SAVEGAMEAS: Nieuwe savegame
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Ontvang token
+  BUTTON_MAIN_MENU_NO_SAVE: Hoofdmenu zonder opslaan
+  BUTTON_EXIT_NO_SAVE: Afsluiten zonder opslaan
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: Automatische pauze bij publiceren
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    Het spel wordt automatisch gepauzeerd wanneer je een videogame publiceert.
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    Fans gewonnen door de overname van de concurrent
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    Je staat op het punt een concurrent over te nemen.
+
+    Deze overname zal de fanbase van je bedrijf vergroten.
+    Je kunt ook kiezen of je hun werknemers, studio's en games wilt overnemen.
+    Of dat je van ze af wilt.
+  LABEL_GET_ALL_STUDIO: Alle studio's overnemen
+  LABEL_HIRE_ALL: Al het personeel overnemen
+  LABEL_GET_ALL_GAME: Alle games overnemen
+  LABEL_UPCOMING_GAME: Naar verlanglijstje vandaag!
+  LABEL_BANKER_GOODBYE_MESSAGE: Bedankt voor uw tijd en overweging. We zullen verdergaan op basis van uw uiteindelijke beslissing. Als u verdere hulp nodig heeft, laat het ons dan weten.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Bent u er zeker van dat u de game-engine wilt verkopen die u in de afgelopen maanden heeft ontwikkeld? Dit kan uw toekomstige projecten schaden.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Bevestiging. We hebben geen andere keuze. We moeten onze schulden onmiddellijk verminderen.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Annulering. We moeten andere opties overwegen voordat we een dergelijke waardevolle asset verkopen.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Bent u er zeker van dat u de nieuw voltooide console wilt verkopen? Dit kan uw relaties met partners en klanten beïnvloeden.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Bevestiging. De situatie is kritiek en deze verkoop is noodzakelijk om onze schulden te verminderen.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Annulering. De console vertegenwoordigt de toekomst van ons bedrijf. We moeten andere oplossingen verkennen voordat we deze verkoop overwegen.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Bent u er zeker van dat u een volledige studio met alle medewerkers wilt verkopen? Dit zou aanzienlijke gevolgen hebben voor uw team en productie.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Bevestiging. Ondanks de moeilijke gevolgen is deze optie de snelste manier om onze schulden te verlagen.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: Annulering. Het verlies van het team zou catastrofaal zijn. We moeten andere alternatieven proberen voordat we deze beslissing overwegen.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Bent u er zeker van dat u onmiddellijk faillissement wilt aanvragen? Dit zal al uw activiteiten beëindigen en langdurige effecten hebben op uw krediet.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Bevestiging. We hebben alle andere opties uitgeput en faillissement lijkt de enige overgebleven weg.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: Annulering. Ik wil liever alle andere mogelijke opties verkennen voordat ik zo'n drastische beslissing neem.
+  LABEL_BANKER_SELL_GAME_ENGINE: Verkoop de game-engine die in de afgelopen maanden is ontwikkeld.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Verkoop de nieuw voltooide console.
+  LABEL_BANKER_SELL_STUDIO: Verkoop een complete studio met al zijn medewerkers.
+  LABEL_BANKER_GO_BANKRUPT: Verklaar onmiddellijk faillissement.
+  LABEL_BANKER_WELCOME: |
+    Geachte heer [b]%s[/b],
+
+    Na onze recente financiële beoordeling is het noodzakelijk om drastische maatregelen te nemen om de kritieke situatie van uw bedrijf, momenteel met [b]%s[/b] in de schulden, aan te pakken.
+    U staat voor verschillende moeilijke maar noodzakelijke keuzes:
+  LABEL_BANKER_WELCOME_END: |
+    Het is cruciaal dat u zonder uitstel een beslissing neemt om uw financiën te stabiliseren.
+  LABEL_SHOW_GAME_PERCENTAGE: Percentages weergeven bij het maken van een game
+  LABEL_BIGGER_FONT: Groter lettertype
+  LABEL_OPTIMIZE_HAPPINESS: Geluk optimaliseren
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    Houdt het geluk in de studio zo dicht mogelijk bij 100%.
+
+    Als je deze optie uitschakelt, kun je meer bureaus in de
+    studio hebben ten koste van het geluk.
+  LABEL_REWORK_LEGACY_CODE: |
+    Herschrijf de game-engine.
+    Het herschrijven van de game engine neemt de straf voor legacy code weg, hoewel het wel iets meer kost dan een gloednieuwe game engine.
+  TOOLTIP_TWITCH_BUTTON: |
+    Start een poll op twitch.
+
+    Kijkers kunnen namen voorstellen via chat.
+  LABEL_SECONDS: seconden
+  LABEL_TWITCH_POLL_DURATION: Duur poll
   LABEL_TWITCH_CHANNEL_NAME: Twitch kanaalnaam
   LABEL_TWITCH_TOKEN: Twitch token
   LABEL_TWITCH_CONNECTING: Verbinding maken met Twitch...
@@ -1093,6 +1153,11 @@ nl:
   LABEL_RENT_SERVER_COST: Servers huurkosten
   LABEL_SERVER_USAGE_THRESHOLD: >
     Huur nieuwe servers zodra de servers deze drempel bereiken:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Ik probeer Steam te bereiken.
+    Zorg ervoor dat Steam actief is en dat je bent ingelogd.
+
+    Als het probleem zich blijft voordoen, log dan opnieuw in op Steam.
   LABEL_STEAM_NOT_DETECTED: |
     Steam kan niet worden bereikt.
 
@@ -1288,7 +1353,7 @@ nl:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Er doen geruchten de ronde en het lijkt erop dat %s niet tevreden is met de deal die ze met %s hebben gesloten.
   LABEL_REQUIRE_EMPLOYEE: |
-    Vereist %d medewerkers
+    Vereist %d ontwikkelaar
     Vereist %d producent
   LABEL_STUDIO_NOT_BALANCED: >
     Deze studio is onevenwichtig, het produceert niet dezelfde hoeveelheid Design/Development/Polish.
@@ -2274,6 +2339,7 @@ nl:
     In feite is de game engine aan het verouderen, dus de ontwikkelingskosten kunnen de pan uit rijzen.
 
     Je zou een nieuwe moeten maken, zonder deze te updaten, zodat je niet met zo'n boete wordt geconfronteerd.
+    Of je kunt de oude code herschrijven, wat goedkoper is dan een nieuwe engine maken.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Merk op dat de fabricagekosten van de console hoger zijn dan de prijs.
     Als de verkoop zo sterk stijgt, kan het bedrijf failliet gaan.

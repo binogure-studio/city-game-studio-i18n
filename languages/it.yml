@@ -1,5 +1,6 @@
 it:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: Disattivare il tutorial
   BUTTON_ACQUIRE: Acquisire
   BUTTON_READ: Leggi
   BUTTON_ANNOUNCE: Annuncia il gioco
@@ -86,7 +87,8 @@ it:
   BUTTON_CANCEL_GAMEENGINE: Annulla il motore di gioco
   BUTTON_CANCEL_GAMEUPDATE: Annulla l'aggiornamento gratuito
   BUTTON_CANCEL_DLC: Annulla l'aggiornamento a pagamento
-  BUTTON_UNASSIGN: Disassegnare
+  BUTTON_UNASSIGN: Ritirare
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: Ritirare tutti i dipendenti
   BUTTON_REMAKE_CREATE: Creare il remake
   BUTTON_VIEW_REMAKE: Guarda il remake
   BUTTON_VIEW_ORIGINAL_GAME: Guarda il gioco originale
@@ -99,8 +101,66 @@ it:
   BUTTON_SAVEGAMEAS: Nuovo gioco di salvataggio
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Ottenere il token
+  BUTTON_MAIN_MENU_NO_SAVE: Menu principale senza salvare
+  BUTTON_EXIT_NO_SAVE: Esci senza salvare
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: Il gioco si metterà automaticamente in pausa quando pubblichi un videogioco.
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    Pausa automatica alla pubblicazione
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    Fan acquisiti dall'acquisizione del concorrente
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    State per acquisire un concorrente.
+
+    Questa acquisizione aumenterà la base di fan della vostra azienda.
+    Potete anche scegliere se acquisire i suoi dipendenti, i suoi studi e i suoi giochi.
+    Oppure se volete sbarazzarvi di loro.
+  LABEL_GET_ALL_STUDIO: Acquisire tutti gli studi
+  LABEL_HIRE_ALL: Acquisire tutto il personale
+  LABEL_GET_ALL_GAME: Acquisire tutti i giochi
+  LABEL_UPCOMING_GAME: Da mettere in wishlist oggi!
+  LABEL_BANKER_GOODBYE_MESSAGE: Grazie per il tempo e la considerazione. Procederemo in base alla tua decisione finale. Se hai bisogno di ulteriore assistenza, faccelo sapere.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Siete sicuri di voler vendere il motore di gioco che avete sviluppato negli ultimi mesi? Questo potrebbe danneggiare i vostri progetti futuri.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Conferma. Non abbiamo altra scelta. Dobbiamo ridurre immediatamente il nostro debito.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Annulla. Dobbiamo considerare altre opzioni prima di vendere un bene così prezioso.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Siete sicuri di voler vendere la console appena completata? Questo potrebbe influire sui vostri rapporti con partner e clienti.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Conferma. La situazione è critica e questa vendita è necessaria per ridurre il nostro debito.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Annulla. La console rappresenta il futuro della nostra azienda. Dobbiamo esplorare altre soluzioni prima di considerare questa vendita.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Siete sicuri di voler vendere un intero studio con tutti i suoi dipendenti? Questo avrebbe gravi ripercussioni sul vostro team e sulla produzione.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Conferma. Nonostante le difficoltà, questa opzione è il modo più veloce per alleviare il nostro debito.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: Annulla. Perdere il team sarebbe catastrofico. Dobbiamo provare altre alternative prima di prendere questa decisione.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Siete sicuri di voler dichiarare bancarotta immediatamente? Questo porrà fine a tutte le vostre attività e avrà effetti duraturi sul vostro credito.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Conferma. Abbiamo esaurito tutte le altre opzioni e la bancarotta sembra essere l'unica strada rimasta.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: Annulla. Preferisco esplorare tutte le altre opzioni possibili prima di prendere una decisione così drastica.
+  LABEL_BANKER_SELL_GAME_ENGINE: Vendere il motore di gioco sviluppato negli ultimi mesi.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Vendere la console appena completata.
+  LABEL_BANKER_SELL_STUDIO: Vendere un intero studio con tutti i suoi dipendenti.
+  LABEL_BANKER_GO_BANKRUPT: Dichiarare immediatamente bancarotta.
+  LABEL_BANKER_WELCOME: |
+    Gentile Sig. [b]%s[/b],
+
+    A seguito della nostra recente analisi finanziaria, è imperativo adottare misure drastiche per affrontare la situazione critica della sua azienda, attualmente indebitata per [b]%s[/b].
+    Si trova di fronte a diverse opzioni difficili ma necessarie:
+  LABEL_BANKER_WELCOME_END: |
+    È cruciale prendere una decisione senza indugio per stabilizzare le sue finanze.
+  LABEL_SHOW_GAME_PERCENTAGE: Visualizzazione delle percentuali durante la creazione di un gioco
+  LABEL_BIGGER_FONT: Carattere più grande
+  LABEL_OPTIMIZE_HAPPINESS: Ottimizzare la felicità
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    Mantiene la felicità dello studio il più vicino possibile al 100%.
+    
+    La disattivazione di questa opzione consente di avere più
+    scrivanie nello studio a scapito della felicità.
+  LABEL_REWORK_LEGACY_CODE: |
+    Riscrivere il motore di gioco.
+    La riscrittura del motore di gioco elimina la penalizzazione del codice legacy, anche se costa un po' di più rispetto a un motore di gioco nuovo.
+  TOOLTIP_TWITCH_BUTTON: |
+    Avviare un sondaggio su Twitch.
+
+    Gli spettatori potranno suggerire i nomi tramite la chat.
+  LABEL_SECONDS: secondi
+  LABEL_TWITCH_POLL_DURATION: Durata del polling
   LABEL_TWITCH_CHANNEL_NAME: Nome del canale Twitch
   LABEL_TWITCH_TOKEN: Token Twitch
   LABEL_TWITCH_CONNECTING: Connessione a Twitch...
@@ -1096,6 +1156,11 @@ it:
   LABEL_RENT_SERVER_COST: Costi di noleggio server
   LABEL_SERVER_USAGE_THRESHOLD: >
     Affittare nuovi server non appena il carico dei server raggiunge questa soglia:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Si sta cercando di raggiungere Steam.
+    Assicuratevi che Steam sia attivo e che abbiate effettuato l'accesso.
+
+    Se il problema persiste, accedere nuovamente a Steam.
   LABEL_STEAM_NOT_DETECTED: |
     Non si puo' raggiungere lo Steam.
 
@@ -1291,7 +1356,7 @@ it:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Le voci stanno circolando e sembra che %s non sia soddisfatto dell'accordo che hanno fatto con %s.    
   LABEL_REQUIRE_EMPLOYEE: |
-    Richiede %d dipendenti
+    Richiede %d sviluppatori
     Richiede %d produttore
   LABEL_STUDIO_NOT_BALANCED: >
     Controlla la squadra del tuo studio. Sembra che non produca la stessa quantità di design/sviluppo o lucido.
@@ -2277,6 +2342,7 @@ it:
     Infatti, il motore di gioco sta invecchiando, quindi i costi di sviluppo possono salire alle stelle.
 
     Dovreste crearne uno nuovo, senza aggiornare questo, in modo da non affrontare una tale penalizzazione.
+    Oppure si può riscrivere il codice legacy, che è più economico della creazione di un nuovo motore.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Si noti che i costi di fabbricazione della console sono superiori al suo prezzo.
     Se le vendite salgono alle stelle, l'azienda potrebbe andare in bancarotta.

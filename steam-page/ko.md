@@ -1,14 +1,19 @@
-[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
+시티 게임 스튜디오는 도시를 배경으로 여러 스튜디오를 관리할 수 있는 심도 있는 매니지먼트 게임입니다. 나만의 비디오 게임 회사를 만들고 관리하고, 여러 스튜디오를 운영하며 수많은 게임을 만들어 보세요. 수십 시간의 게임 플레이를 즐기고 돈의 흐름을 지켜보거나 은행가와 거래하세요!
+
+[img]{STEAM_APP_IMAGE}/extras/map-rounded.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/gameplay-616x96.png[/img]
 
 1976년 1월, 당신은 비디오 게임 회사를 만들었습니다. 작은 단칸방을 빌렸으니 첫 게임을 만들어 볼까요? 얼마 지나지 않아, 성공적이었던 당신의 게임은 새로운 사무실을 찾게끔 해 주었습니다. 도시를 둘러보며 다음 보금자리를 선택하는 것은 전적으로 당신에게 달렸습니다. 어느새 당신은 게임 그래픽을 발전시키기 위해 아티스트를 고용하고 있습니다. 이제 다음은 개발자와 테스터들입니다.
 
-[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game-rounded.gif[/img]
 
 하지만 문제가 있네요. 당신의 게임이 천재적일지라도, 대작 게임을 퍼블리싱하여 수익을 만들기에는 팬층이 부족합니다. 수익의 대부분을 차지해버릴 비디오 게임 퍼블리셔들과 함께할 수밖에 없습니다. 성공, 또 그리고 성공 뿐만이 퍼블리셔에게서 벗어날 유일한 방법입니다. 더 나아가 나중에는 당신이 퍼블리싱을 요청할 수도 있습니다. 그럼 이제, 시장을 장악하고 경쟁사들을 인수해버릴 준비가 된 것 같네요.
 
-[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine-rounded.gif[/img]
 
-[h2]이러한 기능들이 있어요[/h2]
+[img]{STEAM_APP_IMAGE}/extras/features-616x96.png[/img]
+
 [list][*] 게임 엔진을 개발하거나 라이센스를 구매하세요
 [*] 게임 개발 요청을 받거나 직접 요청하세요
 [*] 빌딩을 구매하거나 임대하세요
@@ -25,19 +30,19 @@
 [*] 당신만의 회사 로고를 디자인하세요
 [*] 직원들의 스케쥴을 관리하세요
 [*] 올해의 게임, GOTY를 받으세요
+[*] 나만의 콘솔 만들기
+[*] 콘솔 라이선스를 받기 위해 협상하기
 [*] 즐기고 또 즐기세요![/list]
 
-[h2]이러한 기능들은 없어요[/h2]
-[list][*] E-스포츠 경쟁
-[*] R&D 부서
-[*] 멀티플레이
-[*] 랜덤박스
-[*] 인게임 결제
-[/list]
+[img]{STEAM_APP_IMAGE}/extras/game-modes-616x96.png[/img]
 
-[h2]City Game Studio 는 다음 게임들로부터 영감을 받았습니다.[/h2]
-[list][*] Game Dev Story
-[*] Game Dev Tycoon
-[*] Software Inc
-[*] Sim City
-[*] Mad Games Tycoon[/list]
+시티 게임 스튜디오는 여러 난이도를 제공합니다. 여유로운 산책부터 끊임없는 도전까지, 자신에게 가장 적합한 난이도를 찾을 수 있습니다.
+게임을 구석구석 탐험하고 싶은 분들을 위해 샌드박스 모드가 있습니다. 각각의 새로운 게임을 설정하여 게임 환경을 제어할 수 있습니다.
+
+[img]{STEAM_APP_IMAGE}/extras/development-team-616x96.png[/img]
+
+시티 게임 스튜디오는 한 사람이 수년에 걸쳐 작업한 결과물입니다. 재능 있는 뮤지션이 작곡한 사운드트랙만 빼고요: 조정자!
+
+모든 종류의 건설적인 의견을 환영하니 주저하지 마시고 연락주세요! 메시지에 신속하게 응답하고 발생하는 모든 문제를 해결하기 위해 최선을 다하겠습니다.) 
+
+https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
