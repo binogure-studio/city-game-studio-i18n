@@ -1,5 +1,6 @@
 zh:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: 禁用教程
   BUTTON_ACQUIRE: 获得
   BUTTON_READ: 阅读
   BUTTON_ANNOUNCE: 宣布该游戏
@@ -87,6 +88,7 @@ zh:
   BUTTON_CANCEL_GAMEUPDATE: 取消免费更新
   BUTTON_CANCEL_DLC: 取消付费更新
   BUTTON_UNASSIGN: 取消分配
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: 撤回所有员工
   BUTTON_REMAKE_CREATE: 创建重制
   BUTTON_VIEW_REMAKE: 查看重制版
   BUTTON_VIEW_ORIGINAL_GAME: 查看原版游戏
@@ -99,8 +101,65 @@ zh:
   BUTTON_SAVEGAMEAS: 新的保存游戏
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: 获取标记
+  BUTTON_MAIN_MENU_NO_SAVE: 主菜单无需保存
+  BUTTON_EXIT_NO_SAVE: 退出，不保存
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: 发布时自动暂停
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    当您发布视频游戏时，游戏将自动暂停。
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    通过收购竞争对手获得的粉丝
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    您即将收购竞争对手。
+
+    这次收购将增加贵公司的粉丝群。
+    您还可以选择是否收购他们的员工、工作室和游戏。
+    或者您想摆脱他们。
+  LABEL_GET_ALL_STUDIO: 收购所有工作室
+  LABEL_HIRE_ALL: 收购所有员工
+  LABEL_GET_ALL_GAME: 收购所有游戏
+  LABEL_UPCOMING_GAME: 今天的愿望清单
+  LABEL_BANKER_GOODBYE_MESSAGE: 感谢您的时间和考虑。我们将根据您的最终决定进行处理。如果您需要进一步的帮助，请随时告知我们。
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 您确定要出售您在过去几个月开发的游戏引擎吗？这可能会对未来项目产生负面影响。
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: 确认。我们别无选择。我们需要立即减少债务。
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: 取消。我们需要在出售如此有价值的资产之前考虑其他选项。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: 您确定要出售刚刚完成的游戏主机吗？这可能会影响您与合作伙伴和客户的关系。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: 确认。情况危急，这笔交易对减少债务是必要的。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: 取消。游戏主机代表了我们公司的未来。我们需要在考虑出售之前探索其他解决方案。
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: 您确定要出售整个工作室及所有员工吗？这将对您的团队和生产产生重大影响。
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: 确认。尽管后果很艰难，但这个选项是减轻债务的最快方法。
+  LABEL_BANKER_SELL_STUDIO_CANCEL: 取消。失去团队将是灾难性的。我们需要在考虑这个决定之前尝试其他替代方案。
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: 您确定要立即申请破产吗？这将结束您的所有业务，并对您的信用产生持久影响。
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: 确认。我们已经用尽所有其他选项，破产似乎是唯一剩下的路径。
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: 取消。我更愿意在做出如此极端的决定之前，探索所有可能的其他选项。
+  LABEL_BANKER_SELL_GAME_ENGINE: 出售过去几个月开发的游戏引擎。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: 出售新完成的游戏主机。
+  LABEL_BANKER_SELL_STUDIO: 出售包含所有员工的整个工作室。
+  LABEL_BANKER_GO_BANKRUPT: 立即申请破产。
+  LABEL_BANKER_WELCOME: |
+    尊敬的[b]%s[/b]先生，
+
+    根据我们最近的财务审查，贵公司目前负债 [b]%s[/b]，需要采取严厉措施以应对这一危急情况。
+    您面临以下几个艰难但必要的选择：
+  LABEL_BANKER_WELCOME_END: |
+    为稳定财务状况，您必须毫不拖延地做出决定。
+  LABEL_SHOW_GAME_PERCENTAGE: 创建游戏时显示百分比
+  LABEL_BIGGER_FONT: 字体更大
+  LABEL_OPTIMIZE_HAPPINESS: 优化幸福感
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    使工作室的幸福感尽可能接近 100%。
+
+    停用此选项可让您在工作室中使用更多办公桌，但会牺牲幸福感。
+  LABEL_REWORK_LEGACY_CODE: |
+    重写游戏引擎。
+    重写游戏引擎可以消除遗留代码的影响，但成本会比全新的游戏引擎高一些。
+  TOOLTIP_TWITCH_BUTTON: |
+    在 twitch 上发起投票。
+
+    观众可以通过聊天推荐名字。
+  LABEL_SECONDS: 秒
+  LABEL_TWITCH_POLL_DURATION: 轮询持续时间
   LABEL_TWITCH_CHANNEL_NAME: Twitch 频道名称
   LABEL_TWITCH_TOKEN: Twitch 标记
   LABEL_TWITCH_CONNECTING: 连接到 Twitch...
@@ -1057,6 +1116,11 @@ zh:
   LABEL_RENT_SERVER_COST: 服务器租赁费用
   LABEL_SERVER_USAGE_THRESHOLD: >
     当服务器负载达到此阈值时租用新服务器：
+  LABEL_STEAM_TRYING_TO_REACH: |
+    尝试连接 Steam。
+    请确保 Steam 正在运行并已登录。
+
+    如果问题仍然存在，请重新登录 Steam。
   LABEL_STEAM_NOT_DETECTED: |
     无法连接至Steam。
 
@@ -1247,7 +1311,7 @@ zh:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     有谣言流传说似乎%s对他们与%s做的交易不满意
   LABEL_REQUIRE_EMPLOYEE: |
-    需要%d名员工。
+    需要%d名开发人员
     在一个工作室中需要%d名制片人
   LABEL_STUDIO_NOT_BALANCED: >
     检查你的工作室团队。这个工作室不产生同样多的设计/开发元素或润色点数。
@@ -2164,6 +2228,7 @@ zh:
     升级这个游戏引擎所涉及的成本较高。事实上，这个游戏引擎正在老化，所以开发成本会急剧上升。
 
     你应该创建一个新的，而不更新这个，这样你就不会面临这样的惩罚。
+    或者，你也可以重写其传统代码，这比创建一个新引擎要便宜得多。
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     请注意，该主机的制造成本高于其价格。如果销量猛增，公司可能会破产。
 

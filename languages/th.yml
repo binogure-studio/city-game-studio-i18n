@@ -1,5 +1,6 @@
 th:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: Disable tutorial
   BUTTON_ACQUIRE: ได้รับ
   BUTTON_READ: อ่าน
   BUTTON_ANNOUNCE: ประกาศเกม
@@ -87,6 +88,7 @@ th:
   BUTTON_CANCEL_GAMEUPDATE: ยกเลิกการอัพเดทฟรี
   BUTTON_CANCEL_DLC: ยกเลิกการอัปเดตที่ชำระเงิน
   BUTTON_UNASSIGN: ยกเลิกการมอบหมายงาน
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: Withdraw all employees
   BUTTON_REMAKE_CREATE: สร้างรีเมค
   BUTTON_VIEW_REMAKE: ดูรีเมค
   BUTTON_VIEW_ORIGINAL_GAME: ดูเกมต้นฉบับ
@@ -99,8 +101,66 @@ th:
   BUTTON_SAVEGAMEAS: New savegame
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Get token
+  BUTTON_MAIN_MENU_NO_SAVE: Main menu without saving
+  BUTTON_EXIT_NO_SAVE: Exit without saving
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: Auto pause on publish
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    The game will automatically pause when you publish a video game.
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    Fans gained from acquiring the competitor
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    You're about to acquire a competitor.
+
+    This acquisition will increase your company's fan base.
+    You can also choose whether you want to acquire their employees, studios and games.
+    Or if you want to get rid of them.
+  LABEL_GET_ALL_STUDIO: Acquire all studios
+  LABEL_HIRE_ALL: Acquire all staff
+  LABEL_GET_ALL_GAME: Acquire all games
+  LABEL_UPCOMING_GAME: Wishlist today!
+  LABEL_BANKER_GOODBYE_MESSAGE: Thank you for your time and consideration. We’ll proceed based on your final decision. If you need further assistance, please let us know.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Are you sure you want to sell the game engine you developed over the past few months? This could harm your future projects.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Confirmation. We have no other choice. We need to reduce our debt immediately.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Cancellation. We need to consider other options before selling such a valuable asset.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Are you sure you want to sell the console you just completed? This could affect your relationships with partners and customers.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Confirmation. The situation is critical, and this sale is necessary to reduce our debt.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Cancellation. The console represents the future of our company. We need to explore other solutions before considering this sale.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Are you sure you want to sell an entire studio with all its employees? This would have significant repercussions on your team and production.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Confirmation. Despite the difficult consequences, this option is the fastest way to alleviate our debt.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: Cancellation. Losing the team would be catastrophic. We need to try other alternatives before considering this decision.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Are you sure you want to declare bankruptcy immediately? This will end all your activities and have lasting effects on your credit.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Confirmation. We have exhausted all other options, and bankruptcy seems to be the only remaining path.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: Cancellation. I would prefer to explore all other possible options before making such a drastic decision.
+  LABEL_BANKER_SELL_GAME_ENGINE: Sell the game engine developed over the past few months.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Sell the newly completed console.
+  LABEL_BANKER_SELL_STUDIO: Sell an entire studio with all its employees.
+  LABEL_BANKER_GO_BANKRUPT: Declare bankruptcy immediately.
+  LABEL_BANKER_WELCOME: |
+    Dear Mr. [b]%s[/b],
+
+    Following our recent financial review, it is imperative to take drastic measures to address your company's critical situation, currently indebted to the tune of [b]%s[/b].
+    You are faced with several difficult but necessary options:
+  LABEL_BANKER_WELCOME_END: |
+    It is crucial that you make a decision without delay to stabilize your finances.
+  LABEL_SHOW_GAME_PERCENTAGE: Display workload percentages when creating a game
+  LABEL_BIGGER_FONT: Larger font
+  LABEL_OPTIMIZE_HAPPINESS: Optimize happiness
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    Keeps studio happiness as close to 100% as possible.
+    
+    Deactivating this option allows you to have more
+    desks in the studio at the expense of happiness.
+  LABEL_REWORK_LEGACY_CODE: |
+    Rewrite the game engine.
+    Re-writing the game engine removes the penalty for legacy code, although it does cost a little more than a brand new game engine.
+  TOOLTIP_TWITCH_BUTTON: |
+    Start a poll on twitch.
+
+    Viewers will be able to suggest names via chat.
+  LABEL_SECONDS: Seconds
+  LABEL_TWITCH_POLL_DURATION: Poll duration
   LABEL_TWITCH_CHANNEL_NAME: Twitch channel name
   LABEL_TWITCH_TOKEN: Twitch token
   LABEL_TWITCH_CONNECTING: Connecting to Twitch...
@@ -1084,6 +1144,11 @@ th:
   LABEL_RENT_SERVER_COST: Servers rental costs
   LABEL_SERVER_USAGE_THRESHOLD: >
     Rent new servers as soon as the servers load reaches this threshold:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Trying to reach Steam.
+    Make sure Steam is running and that you are logged in.
+
+    If the problem persists, please log in to Steam again.
   LABEL_STEAM_NOT_DETECTED: |
     Steam can't be reached.
 
@@ -1278,7 +1343,7 @@ th:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     It is rumoured that [b]%s[/b] is not satisfied with the deal they made with [b]%s[/b].
   LABEL_REQUIRE_EMPLOYEE: |
-    Requires %d employees.
+    Requires %d developers.
     Requires %d producer.
   LABEL_STUDIO_NOT_BALANCED: >
     Check your studio's team. It does not produce the same amount of
@@ -2278,6 +2343,7 @@ th:
     so the development costs can skyrocket.
 
     You should create a new one, without updating this one, so you don't face such a penalty.
+    Or you can rewrite its legacy code, which is cheaper than creating a new engine.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Note that the manufacture costs of the console are higher than its price.
     If the sales soar, the company could go bankrupt.

@@ -1,5 +1,6 @@
 ja:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: チュートリアルを無効にする
   BUTTON_ACQUIRE: アクワイア
   BUTTON_READ: 読む
   BUTTON_ANNOUNCE: アナウンス
@@ -87,6 +88,7 @@ ja:
   BUTTON_CANCEL_GAMEUPDATE: 無料アップデートをキャンセル
   BUTTON_CANCEL_DLC: 有料アップデートをキャンセル
   BUTTON_UNASSIGN: 割り当て解除
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: 全従業員を引き揚げる
   BUTTON_REMAKE_CREATE: リメイク版の作成
   BUTTON_VIEW_REMAKE: リメイク版を表示
   BUTTON_VIEW_ORIGINAL_GAME: オリジナル版を表示
@@ -99,8 +101,65 @@ ja:
   BUTTON_SAVEGAMEAS: 新しいセーブゲーム
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: トークン取得
+  BUTTON_MAIN_MENU_NO_SAVE: 保存せずにメインメニュー
+  BUTTON_EXIT_NO_SAVE: 保存せずに終了する
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: 公開時の自動一時停止
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    ゲームを公開すると、自動的に一時停止します。
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    競合他社の買収で獲得したファン
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    あなたは競合他社を買収しようとしている。
+
+    この買収はあなたの会社のファンを増やすでしょう。
+    彼らの従業員、スタジオ、ゲームを買収するかどうかも選択できる。
+    それとも、彼らを追い出したいですか？
+  LABEL_GET_ALL_STUDIO: すべてのスタジオを買収する
+  LABEL_HIRE_ALL: すべてのスタッフを買収する
+  LABEL_GET_ALL_GAME: すべてのゲームを獲得する
+  LABEL_UPCOMING_GAME: 今日のウィッシュリストへ
+  LABEL_BANKER_GOODBYE_MESSAGE: お時間とご検討いただきありがとうございます。最終決定に基づいて進めます。さらにサポートが必要な場合は、お知らせください。
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 過去数ヶ月間に開発したゲームエンジンを販売するつもりですか？これは将来のプロジェクトに悪影響を与える可能性があります。
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: 確認。選択肢はありません。直ちに負債を減らす必要があります。
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: キャンセル。このような貴重な資産を売る前に他の選択肢を検討する必要があります。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: 新しく完成したコンソールを販売するつもりですか？これはパートナーや顧客との関係に影響を与える可能性があります。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: 確認。状況が深刻であり、この販売は負債を減らすために必要です。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: キャンセル。コンソールは私たちの会社の未来を代表しています。この販売を検討する前に他の解決策を探る必要があります。
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: 全スタジオとすべての従業員を販売するつもりですか？これはチームや生産に重大な影響を与える可能性があります。
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: 確認。困難な結果にもかかわらず、このオプションが負債を軽減する最も早い方法です。
+  LABEL_BANKER_SELL_STUDIO_CANCEL: キャンセル。チームを失うことは壊滅的です。この決定を考慮する前に他の代替案を試す必要があります。
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: 即時に破産を宣言するつもりですか？これはすべての活動を終了させ、信用に持続的な影響を与えることになります。
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: 確認。すべての他の選択肢を尽くし、破産が唯一の残された道のように見えます。
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: キャンセル。こんな極端な決定を下す前に、他のすべての可能な選択肢を探りたいです。
+  LABEL_BANKER_SELL_GAME_ENGINE: 過去数ヶ月間に開発されたゲームエンジンを売却する。
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: 新しく完成したコンソールを売却する。
+  LABEL_BANKER_SELL_STUDIO: 従業員全員を含むスタジオ全体を売却する。
+  LABEL_BANKER_GO_BANKRUPT: 直ちに破産を宣言する。
+  LABEL_BANKER_WELCOME: |
+    [b]%s[/b]様、
+
+    最近の財務分析に基づき、現在$[b]%s[/b]の負債を抱えている御社の危機的状況に対処するためには、抜本的な措置を講じることが不可欠です。
+    以下のいくつかの困難な選択肢に直面しています：
+  LABEL_BANKER_WELCOME_END: |
+    財政を安定させるためには、遅滞なく決定を下すことが重要です。
+  LABEL_SHOW_GAME_PERCENTAGE: 試合作成時のパーセンテージ表示
+  LABEL_BIGGER_FONT: 大きなフォント
+  LABEL_OPTIMIZE_HAPPINESS: 幸福の最適化
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    スタジオの幸福度を可能な限り100％に近づけます。
+
+    このオプションを無効にすると、幸福度を犠牲にしてスタジオの机を増やすことができます。
+  LABEL_REWORK_LEGACY_CODE: |
+    ゲームエンジンを書き直す。
+    ゲームエンジンを書き直すことで、レガシーコードのペナルティがなくなります。
+  TOOLTIP_TWITCH_BUTTON: |
+    twitchで投票を開始する。
+
+    視聴者はチャットで名前を提案できる。
+  LABEL_SECONDS: 秒
+  LABEL_TWITCH_POLL_DURATION: ポーリング時間
   LABEL_TWITCH_CHANNEL_NAME: Twitchチャンネル名
   LABEL_TWITCH_TOKEN: Twitchトークン
   LABEL_TWITCH_CONNECTING: Twitchに接続中
@@ -1083,6 +1142,11 @@ ja:
   LABEL_RENT_SERVER_COST: レンタルサーバ費用
   LABEL_SERVER_USAGE_THRESHOLD: >
     サーバの負荷がこのしきい値に達した場合、すぐに新しいサーバをレンタルします:
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Steamに接続しようとしています。
+    Steamが起動しており、ログインしていることを確認してください。
+
+    問題が解決しない場合は、Steam に再度ログインしてください。
   LABEL_STEAM_NOT_DETECTED: |
     Steam に接続できません。
 
@@ -1277,7 +1341,7 @@ ja:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     [b]%s[/b] が [b]%s[/b] と交わした取引に満足していないという噂が流れています。
   LABEL_REQUIRE_EMPLOYEE: |
-    %d 人の従業員が必要です。
+    %d 人の開発者が必要です。
     %d 人のプロデューサーが必要です。
   LABEL_STUDIO_NOT_BALANCED: >
     スタジオチームをチェックしてください。 デザインや開発、完成度のバランスが悪いようです。
@@ -2266,6 +2330,7 @@ ja:
     実際、このゲームエンジンは老朽化しているので開発費が高騰する可能性があります。
 
     このようなペナルティを受けないためにも、このエンジンを更新せずに新しいエンジンを作るべきです。
+    あるいは、レガシーコードを書き直すこともできる。
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     このゲーム機の製造コストは価格よりも高いです。
     売り上げが急増すれば、会社が倒産する可能性もあります。

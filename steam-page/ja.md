@@ -1,10 +1,14 @@
-[img]{STEAM_APP_IMAGE}/extras/saison.gif[/img]
+シティゲームスタジオは、いくつかのスタジオを経営できる都市を舞台にした奥深い経営ゲームです。自分のゲーム会社を作って経営し、いくつものスタジオを経営して、たくさんのゲームを作ろう。何十時間にも及ぶゲームプレイを楽しみながら、お金の流れを見たり、銀行家と取引したりしましょう！
+
+[img]{STEAM_APP_IMAGE}/extras/map-rounded.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/gameplay-616x96.png[/img]
 
 1976年の1月、あなたはゲーム会社を立ち上げました。最初のゲームを開発するために小さな部屋を借りていますが、成功すればすぐにでも別のスタジオに移動できるでしょう。
 ゆくゆくはゲームのビジュアルを改善するためにアーティストを雇って、開発者やテスターを雇って……。
 あなたのゲーム会社を発展させていきましょう。
 
-[img]{STEAM_APP_IMAGE}/extras/create-game.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-game-rounded.gif[/img]
 
 ただし、そう簡単にはいかないかもしれません。
 あなたの作ったゲームが"完璧"であっても、始めはまだ自費出版で黒字化できるほどの知名度がありません。
@@ -12,9 +16,8 @@
 それでも成功し続ければいずれは他の企業を頼る必要がなくなり、さらにあなたの会社自身がパブリッシャーになれるかもしれません。
 そうすれば市場を支配し、競合他社を買い取ることもできるでしょう！
 
-[img]{STEAM_APP_IMAGE}/extras/create-engine.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/create-engine-rounded.gif[/img]
 
-[h2]できる事[/h2]
 [list][*] ゲームエンジンの開発・レンタル
 [*] ゲームに関するオファーを出す・受ける
 [*] 複数のビルの購入・レンタル
@@ -31,19 +34,19 @@
 [*] 会社ロゴのデザイン
 [*] 従業員のスケジュール管理
 [*] "GOTY"の受賞
+[*] 自分のゲーム機を作る
+[*] コンソールのライセンスを取得するための交渉
 [*] 楽しむ！[/list]
 
-[h2]できない事[/h2]
-[list][*] eスポーツ競技
-[*] 研究開発部門(R&D)
-[*] マルチプレイ
-[*] ルートボックス
-[*] アイテム課金
-[/list]
+[img]{STEAM_APP_IMAGE}/extras/game-modes-616x96.png[/img]
 
-[h2]"City Game Studio" は以下のような素晴らしいゲームにインスパイアされています[/h2]
-[list][*] Game Dev Story
-[*] Game Dev Tycoon
-[*] Software Inc
-[*] Sim City
-[*] Mad Games Tycoon[/list]
+City Game Studioにはいくつかの難易度があります。のんびりと散策するものから永久に挑戦し続けるものまで、自分に合った難易度を見つけることができるだろう。
+ゲームを隅々まで探索したい人のために、サンドボックスモードが用意されている。新しいゲームを設定するたびに、ゲーム体験をコントロールできる。
+
+[img]{STEAM_APP_IMAGE}/extras/development-team-616x96.png[/img]
+
+City Game Studio』は、たった一人の生きとし生けるもの、いや、たった一人の人間による数年にわたる仕事の成果である。才能あるミュージシャンが作曲したサウンドトラックを除いては： コンシリエーターだ！
+
+どんな建設的なコメントでも歓迎しますので、遠慮なくご連絡ください！メッセージには迅速に対応し、どんな問題でも解決できるよう最善を尽くします。） 
+
+https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/

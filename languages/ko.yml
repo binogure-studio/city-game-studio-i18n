@@ -1,5 +1,6 @@
 ko:
   # Buttons actions verbs
+  BUTTON_DISABLE_TUTORIEL: 튜토리얼 비활성화
   BUTTON_ACQUIRE: 습득
   BUTTON_READ: 읽기
   BUTTON_ANNOUNCE: 게임 발표
@@ -87,6 +88,7 @@ ko:
   BUTTON_CANCEL_GAMEUPDATE: 무료 업데이트 취소
   BUTTON_CANCEL_DLC: 유료 업데이트 취소
   BUTTON_UNASSIGN: 배치 취소
+  BUTTON_UNASSIGN_ALL_EMPLOYEE: 모든 직원 철수
   BUTTON_REMAKE_CREATE: 리메이크 작품 개발
   BUTTON_VIEW_REMAKE: 리메이크 작품 보기
   BUTTON_VIEW_ORIGINAL_GAME: 원작 보기
@@ -99,8 +101,65 @@ ko:
   BUTTON_SAVEGAMEAS: 새로운 저장 게임
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: 토큰 받기
+  BUTTON_MAIN_MENU_NO_SAVE: 저장하지 않고 메인 메뉴
+  BUTTON_EXIT_NO_SAVE: 저장하지 않고 종료
 
   # Labels, descriptive
+  LABEL_AUTO_PAUSE: 출시 시 자동 일시 중지
+  TOOLTIP_AUTO_PAUSE_GAME: |
+    비디오 게임을 출시할 때 게임이 자동으로 일시 중지됩니다.
+  LABEL_COMPETITION_FANBASE_ACQUISITION: >
+    경쟁사를 인수하여 얻은 팬
+  LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
+    경쟁사를 인수하려고 합니다.
+
+    이 인수를 통해 회사의 팬층을 늘릴 수 있습니다.
+    경쟁사의 직원, 스튜디오, 게임을 인수할지 여부를 선택할 수도 있습니다.
+    아니면 그들을 없애고 싶을 수도 있습니다.
+  LABEL_GET_ALL_STUDIO: 모든 스튜디오 인수
+  LABEL_HIRE_ALL: 모든 직원 획득
+  LABEL_GET_ALL_GAME: 모든 게임 인수
+  LABEL_UPCOMING_GAME: 오늘 위시리스트에 추가하세요!
+  LABEL_BANKER_GOODBYE_MESSAGE: 시간과 고려에 감사드립니다. 최종 결정에 따라 진행하겠습니다. 추가 도움이 필요하시면 언제든지 말씀해 주세요.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 최근 몇 달 동안 개발한 게임 엔진을 판매할 생각이신가요? 이는 미래 프로젝트에 해를 끼칠 수 있습니다.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: 확인. 다른 선택지가 없습니다. 즉시 부채를 줄여야 합니다.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: 취소. 이렇게 귀중한 자산을 팔기 전에 다른 옵션을 고려해야 합니다.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: 방금 완성한 콘솔을 판매할 생각이신가요? 이는 파트너와 고객과의 관계에 영향을 줄 수 있습니다.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: 확인. 상황이 심각하며, 이 판매가 부채를 줄이는데 필요합니다.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: 취소. 콘솔은 우리 회사의 미래를 대표합니다. 이 판매를 고려하기 전에 다른 해결책을 모색해야 합니다.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: 전체 스튜디오와 모든 직원을 판매할 생각이신가요? 이는 팀과 생산에 큰 영향을 미칠 수 있습니다.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: 확인. 어려운 결과에도 불구하고, 이 옵션이 부채를 줄이는 가장 빠른 방법입니다.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: 취소. 팀을 잃는 것은 치명적입니다. 이 결정을 고려하기 전에 다른 대안을 시도해야 합니다.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: 즉시 파산을 선언할 생각이신가요? 이는 모든 활동을 종료시키고 신용에 지속적인 영향을 미칠 것입니다.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: 확인. 다른 모든 옵션을 소진했으며, 파산이 유일한 선택인 것 같습니다.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: 취소. 이렇게 극단적인 결정을 내리기 전에 다른 가능한 옵션을 모두 탐색하는 것이 좋습니다.
+  LABEL_BANKER_SELL_GAME_ENGINE: 지난 몇 달 동안 개발한 게임 엔진을 판매.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: 최근 완성한 콘솔을 판매.
+  LABEL_BANKER_SELL_STUDIO: 모든 직원이 포함된 전체 스튜디오를 판매.
+  LABEL_BANKER_GO_BANKRUPT: 즉시 파산 신청.
+  LABEL_BANKER_WELCOME: |
+    [b]%s[/b]님께,
+
+    최근 재정 검토 결과, 현재 $[b]%s[/b]의 부채를 안고 있는 귀사의 위기 상황을 해결하기 위해서는 극단적인 조치가 필요합니다.
+    다음과 같은 어려운 선택지를 고려해야 합니다:
+  LABEL_BANKER_WELCOME_END: |
+    재정 안정을 위해 지체 없이 결정을 내리셔야 합니다.
+  LABEL_SHOW_GAME_PERCENTAGE: 게임 생성 시 백분율 표시
+  LABEL_BIGGER_FONT: 더 큰 글꼴
+  LABEL_OPTIMIZE_HAPPINESS: 행복 최적화
+  TOOLTIP_OPTIMIZE_HAPPINESS: |
+    스튜디오 행복도를 최대한 100%에 가깝게 유지합니다.
+
+    이 옵션을 비활성화하면 행복도를 희생하여 스튜디오에 더 많은 책상을 배치할 수 있습니다.
+  LABEL_REWORK_LEGACY_CODE: |
+    게임 엔진을 다시 작성합니다.
+    게임 엔진을 다시 작성하면 레거시 코드에 대한 불이익이 사라지지만, 새로운 게임 엔진보다 비용이 조금 더 듭니다.
+  TOOLTIP_TWITCH_BUTTON: |
+    트위치에서 투표를 시작합니다.
+
+    시청자는 채팅을 통해 이름을 제안할 수 있습니다.
+  LABEL_SECONDS: 초
+  LABEL_TWITCH_POLL_DURATION: 투표 기간
   LABEL_TWITCH_CHANNEL_NAME: Twitch 채널 이름
   LABEL_TWITCH_TOKEN: Twitch 토큰
   LABEL_TWITCH_CONNECTING: Twitch에 연결 중...
@@ -1080,6 +1139,11 @@ ko:
   LABEL_RENT_SERVER_COST: 임차료(서버)
   LABEL_SERVER_USAGE_THRESHOLD: >
     실시간 자원 사용량이 임곗값에 도달하는 즉시, 새로운 서버를 임차합니다.
+  LABEL_STEAM_TRYING_TO_REACH: |
+    Steam에 연결하려고 합니다.
+    Steam이 실행 중이고 로그인되어 있는지 확인하세요.
+
+    문제가 지속되면 Steam에 다시 로그인하세요.
   LABEL_STEAM_NOT_DETECTED: |
     스팀에 연결할 수 없습니다.
 
@@ -2289,7 +2353,9 @@ ko:
     이 버튼을 클릭하면 게임을 개발할 수 있습니다.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
     게임엔진이 노후화되어 게임엔진 업데이트 비용이 많이 나올 것으로 예상됩니다.
+    
     이 게임엔진의 업데이트를 중단하고, 새로운 게임엔진을 개발하는 걸 추천합니다.
+    또는 새 엔진을 만드는 것보다 저렴한 레거시 코드를 다시 작성할 수도 있습니다.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     콘솔의 제조비가 가격보다 높으며,
     판매량이 증가할 경우 회사가 파산할 수 있습니다.
