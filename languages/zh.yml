@@ -105,6 +105,33 @@ zh:
   BUTTON_EXIT_NO_SAVE: 退出，不保存
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
+    授权制片厂厂长使用专家。
+    这意味着工作室总监总是尽量使用此处允许的专家中可用的专家。
+    因此，如果允许制片厂厂长使用会计师，那么只要有会计师可用，制片厂厂长就会将他们分配到游戏中。
+  LABEL_IF_POSSIBLE: "(如果可能的话)"
+  LABEL_PREFER_MANUAL_SELECTION: 自己选择
+  LABEL_PREFER_NEW_TYPE: 未掌握的游戏类型
+  LABEL_PREFER_MASTERED_TYPE: 已掌握的游戏类型
+  LABEL_PREFER_PRODUCER_TYPE: 制作人的游戏类型
+  LABEL_PREFER_THE_MOST_FEATURES: 功能最多
+  LABEL_PREFER_THE_CHEAPEST: 最便宜
+  LABEL_PREFER_MOST_POWERFUL: 功能最强大
+  LABEL_PREFER_HOME_MADE: 公司内部
+  LABEL_PREFER_MARKET_SHARE: 市场份额最大
+  LABEL_PREFER_SMALLEST_CATALOG_SIZE: 最小的游戏目录
+  LABEL_PRIORITIZE_PROFIT: 利润第一
+  LABEL_PRIORITIZE_FANBASE_GROW: 粉丝增长第一
+  LABEL_BONUS_PROFIT_SHARE: 利润分成
+  TOOLTIP_BONUS_PROFIT_SHARE: |
+    工作室主管从他们制作的游戏中获得固定比例的利润。
+    这个奖金保证了稳定的回报，激励他们在保持最佳表现的同时继续制作高质量的游戏。
+  LABEL_STUDIO_DIRECTOR: 工作室主管
+  LABEL_STUDIO_DIRECTOR_CUT: 工作室导演的利润分成
+  TOOLTIP_STUDIO_DIRECTOR: |
+    工作室主管可以自主开发游戏并进行更新。
+    您可以分配任意数量的工作室给他，以便他创建游戏并处理更新。
+    工作室主管将使用这些工作室中的所有员工：开发人员、制片人、网络管理员、会计和市场经理。
   LABEL_AUTO_PAUSE: 发布时自动暂停
   TOOLTIP_AUTO_PAUSE_GAME: |
     当您发布视频游戏时，游戏将自动暂停。
@@ -2094,6 +2121,8 @@ zh:
     人力资源专员能提高员工的幸福感，并允许你可以编排员工的工作表。
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     雇佣一个会计能帮助你缴更少的税。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
+    工作室主管自主管理游戏开发和更新。
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     你可以租用新建筑物。这将你就可以同时处理多个游戏项目。
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

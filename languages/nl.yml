@@ -105,6 +105,34 @@ nl:
   BUTTON_EXIT_NO_SAVE: Afsluiten zonder opslaan
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
+    Geef de studiodirecteur toestemming om specialisten te gebruiken.
+    Dit betekent dat de studio director altijd probeert de specialisten te gebruiken die beschikbaar zijn onder de specialisten die hier zijn toegestaan.
+    Dus als een studiodirecteur toestemming heeft om accountants te gebruiken, zal hij ze aan zijn spellen toewijzen zolang er accountants beschikbaar zijn.
+  LABEL_IF_POSSIBLE: "(indien mogelijk)"
+  LABEL_PREFER_MANUAL_SELECTION: Kies jezelf
+  LABEL_PREFER_NEW_TYPE: Spelgenre niet beheerst
+  LABEL_PREFER_MASTERED_TYPE: Spelgenre beheerst
+  LABEL_PREFER_PRODUCER_TYPE: Spelgenre van producent
+  LABEL_PREFER_THE_MOST_FEATURES: Meeste functies
+  LABEL_PREFER_THE_CHEAPEST: Goedkoopste
+  LABEL_PREFER_MOST_POWERFUL: Krachtigste
+  LABEL_PREFER_HOME_MADE: Intern
+  LABEL_PREFER_MARKET_SHARE: Grootste marktaandeel
+  LABEL_PREFER_SMALLEST_CATALOG_SIZE: Kleinste spelcatalogus
+  LABEL_PRIORITIZE_PROFIT: Winst eerst
+  LABEL_PRIORITIZE_FANBASE_GROW: Fanbase groei eerst
+  LABEL_BONUS_PROFIT_SHARE: Winstdeling
+  TOOLTIP_BONUS_PROFIT_SHARE: |
+    De studio-directeur ontvangt een vast percentage van de winst die wordt gegenereerd door de spellen die hij heeft geproduceerd.
+    Deze bonus garandeert een stabiele beloning en motiveert hem om door te gaan met het produceren van hoogwaardige games en optimale prestaties te leveren.
+  LABEL_STUDIO_DIRECTOR: Studio Directeur
+  LABEL_STUDIO_DIRECTOR_CUT: Winstdeling van de studio-directeuren
+  TOOLTIP_STUDIO_DIRECTOR: |
+    Een studio-directeur kan games ontwikkelen en zelfstandig updaten.
+    Wijs hem zoveel studio's toe als je wilt, zodat hij games kan maken en updates kan beheren.
+    De studio-directeur maakt gebruik van alle werknemers in die studio's: ontwikkelaars,
+    producenten, netwerkbeheerders, accountants en marketingmanagers.
   LABEL_AUTO_PAUSE: Automatische pauze bij publiceren
   TOOLTIP_AUTO_PAUSE_GAME: |
     Het spel wordt automatisch gepauzeerd wanneer je een videogame publiceert.
@@ -2169,6 +2197,8 @@ nl:
     Le risorse umane aumentano la felicità dei dipendenti ed è possibile personalizzare gli orari dei dipendenti.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     L'assunzione di un commercialista ti aiuterà a risparmiare sulle tasse.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
+    Een studio-directeur beheert zelfstandig de ontwikkeling en updates van games.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Je kan nieuwe gebouwen huren. Dit zal je toelaten om aan meerdere projecten te werken op hetzelfde moment.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

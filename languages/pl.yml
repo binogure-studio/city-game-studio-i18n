@@ -105,6 +105,34 @@ pl:
   BUTTON_EXIT_NO_SAVE: Wyjście bez zapisywania
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
+    Upoważnienie dyrektora studia do korzystania ze specjalistów.
+    Oznacza to, że dyrektor studia zawsze stara się korzystać ze specjalistów, którzy są dostępni spośród tych dozwolonych tutaj.
+    Jeśli więc dyrektor studia może korzystać z księgowych, przydzieli ich do swoich gier, o ile księgowi będą dostępni.
+  LABEL_IF_POSSIBLE: "(jeśli to możliwe)"
+  LABEL_PREFER_MANUAL_SELECTION: Wybierz siebie
+  LABEL_PREFER_NEW_TYPE: Nieopanowany gatunek gier
+  LABEL_PREFER_MASTERED_TYPE: Gatunek gry opanowany
+  LABEL_PREFER_PRODUCER_TYPE: Gatunek gry producenta
+  LABEL_PREFER_THE_MOST_FEATURES: Najwięcej funkcji
+  LABEL_PREFER_THE_CHEAPEST: Najtańszy
+  LABEL_PREFER_MOST_POWERFUL: Najbardziej wydajny
+  LABEL_PREFER_HOME_MADE: Własny
+  LABEL_PREFER_MARKET_SHARE: Największy udział w rynku
+  LABEL_PREFER_SMALLEST_CATALOG_SIZE: Najmniejszy katalog gier
+  LABEL_PRIORITIZE_PROFIT: Zyski na pierwszym miejscu
+  LABEL_PRIORITIZE_FANBASE_GROW: Wzrost bazy fanów na pierwszym miejscu
+  LABEL_BONUS_PROFIT_SHARE: Udział w zyskach
+  TOOLTIP_BONUS_PROFIT_SHARE: |
+    Dyrektor studia otrzymuje stały procent zysków wygenerowanych przez gry, które wyprodukował.
+    Ten bonus zapewnia stabilną nagrodę i motywuje go do dalszego tworzenia wysokiej jakości gier, przy zachowaniu optymalnych wyników.
+  LABEL_STUDIO_DIRECTOR: Dyrektor Studia
+  LABEL_STUDIO_DIRECTOR_CUT: Udział w zysku dyrektorów studia
+  TOOLTIP_STUDIO_DIRECTOR: |
+    Dyrektor studia może samodzielnie tworzyć gry i aktualizować je.
+    Przydziel mu tyle studiów, ile chcesz, aby mógł tworzyć gry i zarządzać aktualizacjami.
+    Dyrektor studia wykorzysta wszystkich pracowników w tych studiach: programistów,
+    producentów, administratorów sieci, księgowych i menedżerów ds. marketingu.
   LABEL_AUTO_PAUSE: Automatyczna pauza przy publikacji
   TOOLTIP_AUTO_PAUSE_GAME: |
     Gra zostanie automatycznie wstrzymana, gdy opublikujesz grę wideo.
@@ -2172,6 +2200,8 @@ pl:
     HR zwiększa szczęście pracowników i można dostosować harmonogramy pracowników
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     Zatrudnienie księgowego pomoże Ci zaoszczędzić na podatkach.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
+    Dyrektor studia samodzielnie zarządza tworzeniem i aktualizacjami gier.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Pozwala na wynajmowanie nowych budynków. Dzięki temu będziesz mógł pracować nad kilkoma projektami w tym samym czasie.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

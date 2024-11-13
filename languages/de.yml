@@ -105,6 +105,34 @@ de:
   BUTTON_EXIT_NO_SAVE: Beenden ohne zu speichern
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
+    Ermächtigen Sie den Studioleiter, Spezialisten einzusetzen.
+    Das bedeutet, dass der Studiodirektor immer versucht, die Spezialisten einzusetzen, die unter den hier erlaubten verfügbar sind.
+    Wenn ein Studiodirektor also die Erlaubnis hat, Buchhalter einzusetzen, wird er sie seinen Spielen zuweisen, solange Buchhalter verfügbar sind.
+  LABEL_IF_POSSIBLE: "(wenn möglich)"
+  LABEL_PREFER_MANUAL_SELECTION: Wählen Sie selbst
+  LABEL_PREFER_NEW_TYPE: Nicht beherrschtes Spielgenre
+  LABEL_PREFER_MASTERED_TYPE: Spielgenre gemeistert
+  LABEL_PREFER_PRODUCER_TYPE: Spielgenre des Produzenten
+  LABEL_PREFER_THE_MOST_FEATURES: Die meisten Merkmale
+  LABEL_PREFER_THE_CHEAPEST: Am billigsten
+  LABEL_PREFER_MOST_POWERFUL: Am leistungsfähigsten
+  LABEL_PREFER_HOME_MADE: Hausintern
+  LABEL_PREFER_MARKET_SHARE: Größter Marktanteil
+  LABEL_PREFER_SMALLEST_CATALOG_SIZE: Kleinster Spielekatalog
+  LABEL_PRIORITIZE_PROFIT: Gewinne zuerst
+  LABEL_PRIORITIZE_FANBASE_GROW: Erstes Wachstum der Fangemeinde
+  LABEL_BONUS_PROFIT_SHARE: Gewinnbeteiligung
+  TOOLTIP_BONUS_PROFIT_SHARE: |
+    Der Studio-Direktor erhält einen festen Prozentsatz der Gewinne, die durch die von ihm produzierten Spiele erzielt werden.
+    Dieser Bonus garantiert eine stabile Belohnung und motiviert ihn, weiterhin hochwertige Spiele zu produzieren und dabei optimale Leistungen zu erbringen.
+  LABEL_STUDIO_DIRECTOR: Studio-Direktor
+  LABEL_STUDIO_DIRECTOR_CUT: Gewinnbeteiligung der Studioleiter
+  TOOLTIP_STUDIO_DIRECTOR: |
+    Ein Studio-Direktor kann Spiele entwickeln und autonom aktualisieren.
+    Weisen Sie ihm so viele Studios zu, wie Sie möchten, damit er Spiele entwickeln und Updates verwalten kann.
+    Der Studio-Direktor wird alle Mitarbeiter in diesen Studios nutzen: Entwickler, Produzenten,
+    Netzwerkadministratoren, Buchhalter und Marketingmanager.
   LABEL_AUTO_PAUSE: Auto-Pause bei Veröffentlichung
   TOOLTIP_AUTO_PAUSE_GAME: |
     Das Spiel wird automatisch pausiert, wenn Sie ein Videospiel veröffentlichen.
@@ -2192,6 +2220,8 @@ de:
     Die Personalabteilung steigert die Zufriedenheit der Mitarbeiter und Sie können die Schichten der Mitarbeiter anpassen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     Die Einstellung eines Buchhalters hilft dir Steuern zu sparen.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
+    Ein Studio-Direktor verwaltet die Spieleentwicklung und Updates autonom.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Ermöglicht es dir, neue Gebäude zu mieten. Auf diese Weise kannst du an mehreren Projekten gleichzeitig arbeiten.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >
