@@ -105,6 +105,34 @@ ja:
   BUTTON_EXIT_NO_SAVE: 保存せずに終了する
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
+    スタジオディレクターにスペシャリストの使用を許可する。
+    これは、スタジオディレクターが、ここで許可されたスペシャリストのうち、利用可能なスペシャリストを常に使用しようとすることを意味します。
+    つまり、スタジオディレクターが会計士の使用を許可されている場合、会計士がいる限り、会計士をゲームに割り当てます。
+  LABEL_IF_POSSIBLE: "(可能であれば)"
+  LABEL_PREFER_MANUAL_SELECTION: 自分を選ぶ
+  LABEL_PREFER_NEW_TYPE: マスターしていないゲームジャンル
+  LABEL_PREFER_MASTERED_TYPE: マスターしたゲームジャンル
+  LABEL_PREFER_PRODUCER_TYPE: プロデューサーのゲームジャンル
+  LABEL_PREFER_THE_MOST_FEATURES: 最も機能が多いもの
+  LABEL_PREFER_THE_CHEAPEST: 最も安いもの
+  LABEL_PREFER_MOST_POWERFUL: 最もパワフル
+  LABEL_PREFER_HOME_MADE: 自社製
+  LABEL_PREFER_MARKET_SHARE: 最大の市場シェア
+  LABEL_PREFER_SMALLEST_CATALOG_SIZE: 最小のゲームカタログ
+  LABEL_PRIORITIZE_PROFIT: 利益第一
+  LABEL_PRIORITIZE_FANBASE_GROW: ファンベースの成長が第一
+  LABEL_BONUS_PROFIT_SHARE: 利益分配
+  TOOLTIP_BONUS_PROFIT_SHARE: |
+    スタジオディレクターは、自分が制作したゲームから得られる利益の固定パーセンテージを受け取ります。
+    このボーナスは安定した報酬を保証し、最適なパフォーマンスを維持しつつ、高品質なゲームの制作を続ける動機になります。
+  LABEL_STUDIO_DIRECTOR: スタジオディレクター
+  LABEL_STUDIO_DIRECTOR_CUT: スタジオ・ディレクターズの収益分配
+  TOOLTIP_STUDIO_DIRECTOR: |
+    スタジオディレクターは、ゲームを開発し、
+    自律的に更新を行うことができます。彼に好きなだけ多くのスタジオを割り当てて、
+    ゲームを作成し、アップデートを行わせましょう。スタジオディレクターは、開発者、プロデューサー、
+    ネットワーク管理者、会計士、マーケティング担当者を含む、スタジオ内のすべての従業員を活用します。
   LABEL_AUTO_PAUSE: 公開時の自動一時停止
   TOOLTIP_AUTO_PAUSE_GAME: |
     ゲームを公開すると、自動的に一時停止します。
@@ -2164,6 +2192,8 @@ ja:
     人事部は社員の幸福度を高め、社員のスケジュールをカスタマイズできます。
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     会計士を雇えば、税金の節約にもなります。
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
+    スタジオディレクターは、ゲームの開発と更新を自律的に管理します。
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     新しい建物のレンタルを可能にします。これにより、複数のプロジェクトを同時に進めることができるようになります。
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

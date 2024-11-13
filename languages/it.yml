@@ -105,6 +105,34 @@ it:
   BUTTON_EXIT_NO_SAVE: Esci senza salvare
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
+    Autorizza il direttore dello studio a utilizzare gli specialisti.
+    Ciò significa che il direttore dello studio cerca sempre di utilizzare gli specialisti disponibili tra quelli autorizzati.
+    Quindi, se il direttore dello studio è autorizzato a utilizzare i contabili, li assegnerà ai suoi giochi finché ci saranno contabili disponibili.
+  LABEL_IF_POSSIBLE: "(se possibile)"
+  LABEL_PREFER_MANUAL_SELECTION: Scegliete voi stessi
+  LABEL_PREFER_NEW_TYPE: Genere di gioco non padroneggiato
+  LABEL_PREFER_MASTERED_TYPE: Genere di gioco masterizzato
+  LABEL_PREFER_PRODUCER_TYPE: Genere di gioco del produttore
+  LABEL_PREFER_THE_MOST_FEATURES: Caratteristiche maggiori
+  LABEL_PREFER_THE_CHEAPEST: Il più economico
+  LABEL_PREFER_MOST_POWERFUL: Il più potente
+  LABEL_PREFER_HOME_MADE: In-house
+  LABEL_PREFER_MARKET_SHARE: Maggior quota di mercato
+  LABEL_PREFER_SMALLEST_CATALOG_SIZE: Catalogo di giochi più piccolo
+  LABEL_PRIORITIZE_PROFIT: Prima i profitti
+  LABEL_PRIORITIZE_FANBASE_GROW: La crescita della fanbase prima di tutto
+  LABEL_BONUS_PROFIT_SHARE: Quota di Profitto
+  TOOLTIP_BONUS_PROFIT_SHARE: |
+    Il direttore di studio riceve una percentuale fissa dei profitti generati dai giochi che produce.
+    Questo bonus garantisce una ricompensa stabile, motivandolo a continuare a produrre giochi di alta qualità mantenendo prestazioni ottimali.
+  LABEL_STUDIO_DIRECTOR: Direttore di Studio
+  LABEL_STUDIO_DIRECTOR_CUT: Partecipazione agli utili dei direttori di studio
+  TOOLTIP_STUDIO_DIRECTOR: |
+    Un direttore di studio può sviluppare giochi e aggiornarli in modo autonomo.
+    Assegna tutti gli studi che vuoi affinché possano creare giochi e gestire gli aggiornamenti.
+    Il direttore di studio utilizzerà tutti i dipendenti di quegli studi: sviluppatori, produttori,
+    amministratori di rete, contabili e responsabili del marketing.
   LABEL_AUTO_PAUSE: Il gioco si metterà automaticamente in pausa quando pubblichi un videogioco.
   TOOLTIP_AUTO_PAUSE_GAME: |
     Pausa automatica alla pubblicazione
@@ -2169,6 +2197,8 @@ it:
     Le risorse umane aumentano la felicità dei dipendenti ed è possibile personalizzare gli orari dei dipendenti.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: >
     L'assunzione di un commercialista ti aiuterà a risparmiare sulle tasse.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
+    Un direttore di studio gestisce autonomamente lo sviluppo e gli aggiornamenti dei giochi.
   LABEL_STUDIO_RENT_DESCRIPTION_0: >
     Affitta un nuovo edificio. Questo ti permetterà di lavorare su diversi progetti allo stesso tempo.
   LABEL_STUDIO_BUILD_DESCRIPTION_0: >

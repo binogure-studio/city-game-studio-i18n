@@ -3,6 +3,7 @@ const fs = require('fs')
 const path = require('path')
 
 const langMatch = {
+  cs: 'czech',
   de: 'german',
   en: 'english',
   es: 'spanish',
@@ -17,7 +18,7 @@ const langMatch = {
   ru: 'russian',
   tr: 'turkish',
   th: 'thai',
-  ua: 'ukranian',
+  uk: 'ukranian',
   zh: 'schinese'
 }
 const language_directory = path.resolve('achievements')
