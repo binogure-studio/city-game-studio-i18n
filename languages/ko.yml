@@ -1,5 +1,6 @@
 ko:
   # Buttons actions verbs
+  BUTTON_RENAME: 이름 변경
   BUTTON_DISABLE_TUTORIEL: 튜토리얼 비활성화
   BUTTON_ACQUIRE: 습득
   BUTTON_READ: 읽기
@@ -105,6 +106,21 @@ ko:
   BUTTON_EXIT_NO_SAVE: 저장하지 않고 종료
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    자동 설정을 비활성화하여 게임 생성의 모든 측면을 구성할 수 있습니다.
+
+    기본적으로 스튜디오 디렉터는 전체 전략을 고려하지 않고 최선의 결정을 내립니다.
+    게임의 품질을 회사의 재정적 건강보다 우선시합니다.
+
+    기본적으로 스튜디오 디렉터는 게임을 발표하거나 업데이트하지 않지만, 이를 수행하도록 요청할 수 있습니다.
+    그러나 게임 보고서는 자동으로 생성됩니다.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    스튜디오 디렉터를 활성화하려면 스튜디오를 할당하십시오.
+    비활성화하려면 그에게 할당된 모든 스튜디오를 제거하십시오.
+
+    진행 중인 게임과 업데이트는 자동으로 취소됩니다.
+
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     스튜디오 디렉터가 전문가를 사용할 수 있도록 승인합니다.
     즉, 스튜디오 디렉터는 여기에서 허용된 전문가 중 사용 가능한 전문가를 항상 사용하려고 합니다.

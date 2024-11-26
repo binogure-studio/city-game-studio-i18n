@@ -1,5 +1,6 @@
 th:
   # Buttons actions verbs
+  BUTTON_RENAME: Rename
   BUTTON_DISABLE_TUTORIEL: Disable tutorial
   BUTTON_ACQUIRE: ได้รับ
   BUTTON_READ: อ่าน
@@ -105,6 +106,20 @@ th:
   BUTTON_EXIT_NO_SAVE: Exit without saving
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    You can configure every aspect of game creation by disabling the automatic settings.
+
+    By default, the studio director will make the best decisions without considering your overall strategy.
+    It will prioritize game quality over the financial health of the company.
+
+    By default, the studio director does not announce games or update them, but you can ask him to do so.
+    However, he will automatically generate game reports.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    To activate a studio director, assign studios to him.
+    To deactivate, remove all studios assigned to him.
+
+    Any games or updates currently in development will be automatically canceled.
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Authorize the studio director to use specialists.
     This means that the studio director always tries to use the specialists that are available among the ones allowed here.

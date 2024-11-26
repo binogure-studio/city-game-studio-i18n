@@ -1,5 +1,6 @@
 nl:
   # Buttons actions verbs
+  BUTTON_RENAME: Hernoemen
   BUTTON_DISABLE_TUTORIEL: Zelfstudie uitschakelen
   BUTTON_ACQUIRE: Verwerven
   BUTTON_READ: Lezen
@@ -105,6 +106,21 @@ nl:
   BUTTON_EXIT_NO_SAVE: Afsluiten zonder opslaan
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    U kunt elk aspect van het maken van een game configureren door de automatische instellingen uit te schakelen.
+
+    Standaard zal de studio-directeur de beste beslissingen nemen zonder rekening te houden met uw algemene strategie.
+    Hij zal de kwaliteit van games boven de financiële gezondheid van het bedrijf stellen.
+
+    Standaard kondigt de studio-directeur games niet aan en werkt hij ze niet bij, maar u kunt hem vragen dit te doen.
+    Hij genereert echter automatisch game-rapporten.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    Om een studio-directeur te activeren, wijst u studio's aan hem toe.
+    Om hem te deactiveren, verwijdert u alle studio's die aan hem zijn toegewezen.
+
+    Heden in ontwikkeling zijnde games en updates worden automatisch geannuleerd.
+
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Geef de studiodirecteur toestemming om specialisten te gebruiken.
     Dit betekent dat de studio director altijd probeert de specialisten te gebruiken die beschikbaar zijn onder de specialisten die hier zijn toegestaan.

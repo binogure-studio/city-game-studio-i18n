@@ -1,5 +1,6 @@
 zh:
   # Buttons actions verbs
+  BUTTON_RENAME: 重命名
   BUTTON_DISABLE_TUTORIEL: 禁用教程
   BUTTON_ACQUIRE: 获得
   BUTTON_READ: 阅读
@@ -105,6 +106,21 @@ zh:
   BUTTON_EXIT_NO_SAVE: 退出，不保存
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    您可以通过禁用自动设置来配置游戏创建的各个方面。
+
+    默认情况下，工作室经理将做出最佳决策，而不考虑您的整体战略。
+    他将优先考虑游戏质量，而非公司的财务健康。
+
+    默认情况下，工作室经理不会宣布游戏或更新它们，但您可以要求他这么做。
+    另一方面，他会自动生成游戏报告。
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    要激活工作室经理，请为他分配工作室。
+    要禁用，请移除所有分配给他的工作室。
+
+    当前正在开发的游戏和更新将被自动取消。
+
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     授权制片厂厂长使用专家。
     这意味着工作室总监总是尽量使用此处允许的专家中可用的专家。

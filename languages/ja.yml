@@ -1,5 +1,6 @@
 ja:
   # Buttons actions verbs
+  BUTTON_RENAME: 名前を変更
   BUTTON_DISABLE_TUTORIEL: チュートリアルを無効にする
   BUTTON_ACQUIRE: アクワイア
   BUTTON_READ: 読む
@@ -105,6 +106,20 @@ ja:
   BUTTON_EXIT_NO_SAVE: 保存せずに終了する
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    自動設定を無効にすることで、ゲーム制作のあらゆる側面を構成できます。
+
+    デフォルトでは、スタジオディレクターは全体的な戦略を考慮せず、最良の決定を下します。
+    彼は会社の財務健全性よりもゲームの品質を優先します。
+
+    デフォルトでは、スタジオディレクターはゲームを発表したり、更新したりしませんが、これを依頼することができます。
+    しかし、彼はゲームレポートを自動で生成します。
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    スタジオディレクターを有効にするには、スタジオを割り当ててください。
+    無効にするには、割り当てられたスタジオをすべて取り除いてください。
+
+    開発中のゲームやアップデートは自動的にキャンセルされます。
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     スタジオディレクターにスペシャリストの使用を許可する。
     これは、スタジオディレクターが、ここで許可されたスペシャリストのうち、利用可能なスペシャリストを常に使用しようとすることを意味します。
