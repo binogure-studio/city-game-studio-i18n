@@ -1,5 +1,6 @@
 tr:
   # Buttons actions verbs
+  BUTTON_RENAME: Yeniden Adlandır
   BUTTON_DISABLE_TUTORIEL: Öğreticiyi devre dışı bırak
   BUTTON_ACQUIRE: Edinme
   BUTTON_READ: Okumak
@@ -105,6 +106,21 @@ tr:
   BUTTON_EXIT_NO_SAVE: Kaydetmeden çık
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    Oyun yapım sürecinin her yönünü otomatik ayarları devre dışı bırakıp yapılandırabilirsiniz.
+
+    Varsayılan olarak, stüdyo yöneticisi genel stratejinizi göz önünde bulundurmadan en iyi kararları alacaktır.
+    Oyun kalitesini, şirketin mali sağlığından daha önemli tutacaktır.
+
+    Varsayılan olarak, stüdyo yöneticisi oyunları duyurmaz ve güncellemez, ancak bunu yapmasını isteyebilirsiniz.
+    Ancak, oyun raporlarını otomatik olarak oluşturacaktır.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    Bir stüdyo yöneticisini etkinleştirmek için ona stüdyolar atayın.
+    Devre dışı bırakmak için ona atanan tüm stüdyoları kaldırın.
+
+    Şu anda geliştirilen oyunlar ve güncellemeler otomatik olarak iptal edilecektir.
+
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Stüdyo yöneticisine uzmanları kullanma yetkisi verin.
     Bu, stüdyo yöneticisinin her zaman burada izin verilenler arasında mevcut olan uzmanları kullanmaya çalıştığı anlamına gelir.

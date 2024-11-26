@@ -1,5 +1,6 @@
 cs:
   # Buttons actions verbs
+  BUTTON_RENAME: Přejmenovat
   BUTTON_DISABLE_TUTORIEL: Zakázat výukový program
   BUTTON_ACQUIRE: Odkoupit
   BUTTON_READ: Přečíst
@@ -105,6 +106,20 @@ cs:
   BUTTON_EXIT_NO_SAVE: Ukončení bez uložení
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    Můžete konfigurovat každý aspekt tvorby hry deaktivací automatických nastavení.
+
+    Ve výchozím nastavení ředitel studia učiní nejlepší rozhodnutí, aniž by bral v úvahu vaši celkovou strategii.
+    Upřednostní kvalitu her před finančním zdravím společnosti.
+
+    Ve výchozím nastavení ředitel studia neoznamuje hry a neaktualizuje je, ale můžete ho požádat, aby tak učinil.
+    Na druhou stranu automaticky generuje herní zprávy.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    Chcete-li aktivovat ředitele studia, přiřaďte mu studia.
+    Chcete-li ho deaktivovat, odeberte všechna studia, která mu byla přiřazena.
+
+    Hry a aktualizace ve vývoji budou automaticky zrušeny.
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Pověřit ředitele studia využíváním specialistů.
     To znamená, že ředitel studia se vždy pokusí použít specialisty, kteří jsou k dispozici mezi zde povolenými.

@@ -1,5 +1,6 @@
 pt-br:
   # Buttons actions verbs
+  BUTTON_RENAME: Renomear
   BUTTON_DISABLE_TUTORIEL: Desativar tutorial
   BUTTON_ACQUIRE: Adquirir
   BUTTON_READ: Ler
@@ -105,6 +106,21 @@ pt-br:
   BUTTON_EXIT_NO_SAVE: Sair sem salvar
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    Você pode configurar todos os aspectos da criação de jogos desativando as configurações automáticas.
+
+    Por padrão, o diretor de estúdio tomará as melhores decisões sem considerar sua estratégia global.
+    Ele priorizará a qualidade dos jogos em vez da saúde financeira da empresa.
+
+    Por padrão, o diretor de estúdio não anuncia os jogos nem os atualiza, mas você pode pedir para ele fazer isso.
+    No entanto, ele gerará automaticamente os relatórios dos jogos.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    Para ativar um diretor de estúdio, atribua estúdios a ele.
+    Para desativá-lo, remova todos os estúdios atribuídos a ele.
+
+    Jogos e atualizações em desenvolvimento serão automaticamente cancelados.
+
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Autorizar o diretor do estúdio a usar especialistas.
     Isso significa que o diretor do estúdio sempre tentará usar os especialistas que estiverem disponíveis entre os permitidos aqui.

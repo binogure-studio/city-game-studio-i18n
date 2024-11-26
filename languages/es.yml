@@ -1,5 +1,6 @@
 es:
   # Botones, acciones y verbos
+  BUTTON_RENAME: Renombrar
   BUTTON_DISABLE_TUTORIEL: Desactivar tutorial
   BUTTON_ACQUIRE: Adquirir
   BUTTON_READ: Leer
@@ -105,6 +106,20 @@ es:
   BUTTON_EXIT_NO_SAVE: Salir sin guardar
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    Puedes configurar cada aspecto de la creación de juegos desactivando las configuraciones automáticas.
+
+    Por defecto, el director del estudio tomará las mejores decisiones sin tener en cuenta tu estrategia global.
+    Priorizará la calidad de los juegos en lugar de la salud financiera de la empresa.
+
+    Por defecto, el director del estudio no anuncia los juegos ni los actualiza, pero puedes pedirle que lo haga.
+    Sin embargo, generará automáticamente los informes de los juegos.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    Para activar un director de estudio, asígnale estudios.
+    Para desactivarlo, retira todos los estudios que le hayas asignado.
+
+    Los juegos y actualizaciones en desarrollo serán automáticamente cancelados.
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Autoriza al director del estudio a utilizar especialistas.
     Esto significa que el director del estudio siempre intenta utilizar los especialistas que están disponibles entre los permitidos aquí.

@@ -1,5 +1,6 @@
 pl:
   # Buttons actions verbs
+  BUTTON_RENAME: Zmień nazwę
   BUTTON_DISABLE_TUTORIEL: Wyłącz samouczek
   BUTTON_ACQUIRE: Pozyskaj
   BUTTON_READ: Przeczytaj
@@ -105,6 +106,21 @@ pl:
   BUTTON_EXIT_NO_SAVE: Wyjście bez zapisywania
 
   # Labels, descriptive
+  TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
+    Możesz skonfigurować każdy aspekt tworzenia gry, wyłączając ustawienia automatyczne.
+
+    Domyślnie dyrektor studia podejmuje najlepsze decyzje, nie uwzględniając Twojej ogólnej strategii.
+    Będzie priorytetowo traktować jakość gier, a nie zdrowie finansowe firmy.
+
+    Domyślnie dyrektor studia nie ogłasza gier ani ich nie aktualizuje, ale możesz poprosić go o to.
+    Z drugiej strony, automatycznie generuje raporty gier.
+
+  TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
+    Aby aktywować dyrektora studia, przypisz mu studia.
+    Aby go dezaktywować, usuń wszystkie studia, które mu przypisano.
+
+    Gry i aktualizacje w trakcie tworzenia zostaną automatycznie anulowane.
+
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
     Upoważnienie dyrektora studia do korzystania ze specjalistów.
     Oznacza to, że dyrektor studia zawsze stara się korzystać ze specjalistów, którzy są dostępni spośród tych dozwolonych tutaj.
