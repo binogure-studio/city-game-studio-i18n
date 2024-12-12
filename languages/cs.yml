@@ -1,7 +1,7 @@
 cs:
   # Buttons actions verbs
   BUTTON_RENAME: Přejmenovat
-  BUTTON_DISABLE_TUTORIEL: Zakázat výukový program
+  BUTTON_DISABLE_TUTORIEL: Vypnout tutoriál
   BUTTON_ACQUIRE: Odkoupit
   BUTTON_READ: Přečíst
   BUTTON_ANNOUNCE: Oznámit hru
@@ -59,7 +59,7 @@ cs:
   BUTTON_CRACK_GAME: Cracknout tuto hru
   BUTTON_FORCE_STUDIO_SELL: Vynutit prodej studia
   BUTTON_SPY: Provést špionáž
-  BUTTON_HIRE_THEIR_EMPLOYE: Najmout zaměstnance konkurence
+  BUTTON_HIRE_THEIR_EMPLOYE: Najmout zaměstnance konkurenta
   BUTTON_SELECT: Vybrat
   BUTTON_SAVEGAME: Uložit hru
   BUTTON_SELL_ITEMS: Prodat nábytek
@@ -102,116 +102,116 @@ cs:
   BUTTON_SAVEGAMEAS: Nová uložená hra
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Získat token
-  BUTTON_MAIN_MENU_NO_SAVE: Hlavní nabídka bez uložení
-  BUTTON_EXIT_NO_SAVE: Ukončení bez uložení
+  BUTTON_MAIN_MENU_NO_SAVE: Hlavní menu bez ukládání
+  BUTTON_EXIT_NO_SAVE: Ukončit bez ukládání
 
   # Labels, descriptive
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
-    Můžete konfigurovat každý aspekt tvorby hry deaktivací automatických nastavení.
+    Deaktivací automatických nastavení můžete nastavit každý aspekt vývoje her.
 
-    Ve výchozím nastavení ředitel studia učiní nejlepší rozhodnutí, aniž by bral v úvahu vaši celkovou strategii.
-    Upřednostní kvalitu her před finančním zdravím společnosti.
+    Defaultně bude ředitel studia činit nejlepší rozhodnutí bez ohledu na vaší celkovou strategii.
+    Upředností kvalitu hry před finanční situací společnosti.
 
-    Ve výchozím nastavení ředitel studia neoznamuje hry a neaktualizuje je, ale můžete ho požádat, aby tak učinil.
-    Na druhou stranu automaticky generuje herní zprávy.
+    Defaultně sice ředitel studia neoznamuje hry ani pro ně nevyvíjí aktualizace, ale můžete ho o to požádat.
+    Automaticky bude ale generovat zprávy o hrách.
 
   TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
-    Chcete-li aktivovat ředitele studia, přiřaďte mu studia.
-    Chcete-li ho deaktivovat, odeberte všechna studia, která mu byla přiřazena.
+    K aktivaci ředitele studia mu přiřaďte studia ke správě.
+    K jeho deaktivaci zruště přiřazení všech studií k němu.
 
-    Hry a aktualizace ve vývoji budou automaticky zrušeny.
+    Jakékoliv hry nebo aktualizace momentoálně ve vývoji budou automaticky zrušeny.
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
-    Pověřit ředitele studia využíváním specialistů.
-    To znamená, že ředitel studia se vždy pokusí použít specialisty, kteří jsou k dispozici mezi zde povolenými.
-    Pokud má tedy ředitel studia povoleno používat účetní, přiřadí je ke svým hrám, dokud jsou k dispozici.
-  LABEL_IF_POSSIBLE: "(pokud je to možné)"
-  LABEL_PREFER_MANUAL_SELECTION: Vyberte si sami
-  LABEL_PREFER_NEW_TYPE: Nezvládnutý herní žánr
-  LABEL_PREFER_MASTERED_TYPE: Herní žánr zvládnutý
-  LABEL_PREFER_PRODUCER_TYPE: Herní žánr výrobce
-  LABEL_PREFER_THE_MOST_FEATURES: Většina funkcí
+    Povolit ředitelovi studia využívat specialisty.
+    To znamená, že se ředitel studia pokusí vždy využít dostupné specialisty povolených specializací.
+    Pokud například může ředitel studia využívat účetní, bude je přiřazovat ke svým hrám, pokud jsou dostupní.
+  LABEL_IF_POSSIBLE: "(pokud možno)"
+  LABEL_PREFER_MANUAL_SELECTION: Vybrat manuálně
+  LABEL_PREFER_NEW_TYPE: Neovládané žánry
+  LABEL_PREFER_MASTERED_TYPE: Ovládané žánry
+  LABEL_PREFER_PRODUCER_TYPE: Žánry producenta
+  LABEL_PREFER_THE_MOST_FEATURES: Nejvíce funkcí
   LABEL_PREFER_THE_CHEAPEST: Nejlevnější
   LABEL_PREFER_MOST_POWERFUL: Nejvýkonnější
   LABEL_PREFER_HOME_MADE: Vlastní
-  LABEL_PREFER_MARKET_SHARE: Největší podíl na trhu
+  LABEL_PREFER_MARKET_SHARE: Nejvyšší tržní podíl
   LABEL_PREFER_SMALLEST_CATALOG_SIZE: Nejmenší katalog her
   LABEL_PRIORITIZE_PROFIT: Zisky na prvním místě
-  LABEL_PRIORITIZE_FANBASE_GROW: Růst fanouškovské základny na prvním místě
-  LABEL_BONUS_PROFIT_SHARE: Podíl na zisku
+  LABEL_PRIORITIZE_FANBASE_GROW: Fanoušci na prvním místě
+  LABEL_BONUS_PROFIT_SHARE: Podíl ze zisku
   TOOLTIP_BONUS_PROFIT_SHARE: |
-    Ředitel studia dostává pevně stanovené procento ze zisků, které vygenerují hry, jež produkoval.
-    Tento bonus zajišťuje stabilní odměnu a motivuje ho k pokračování ve výrobě kvalitních her při zachování optimální výkonnosti.
-  LABEL_STUDIO_DIRECTOR: Ředitel Studia
-  LABEL_STUDIO_DIRECTOR_CUT: Podíl zisku ředitelů studia
+    Ředitel studia bude dostávat pevně daný podíl ze zisků všech her, na jejichž vývoji se bude podílet.
+    Tento bonus zajišťuje stabilní odměnu a ředitele tak motivuje k produkci kvalitních her při zachování optimálního výkonu.
+  LABEL_STUDIO_DIRECTOR: Ředitel studia
+  LABEL_STUDIO_DIRECTOR_CUT: Podíl ze zisku ředitelů studií
   TOOLTIP_STUDIO_DIRECTOR: |
-    Ředitel studia může vyvíjet hry a aktualizovat je autonomně.
-    Přidělte mu tolik studií, kolik chcete, aby mohl vytvářet hry a spravovat aktualizace.
-    Ředitel studia využije všechny zaměstnance v těchto studiích: vývojáře, producenty,
-    síťové administrátory, účetní a marketingové manažery.
-  LABEL_AUTO_PAUSE: Automatická pauza při publikování
+    Ředitel studia může automaticky vyvíjet a aktualizovat hry.
+    Přiřaďte mu k vývoji her a aktualizací tolik studií, kolik chcete.
+    Ředitel studia využije z přiřazených studií všechny zaměstnance: vývojáře,
+    producenty, síťové administrátory, účetní a marketingové manažery.
+  LABEL_AUTO_PAUSE: Při vydání videohry automaticky zastavit hru
   TOOLTIP_AUTO_PAUSE_GAME: |
-    Hra se automaticky pozastaví, když vydáte videohru.
+    Hra se po vydání nové videohry automaticky zastaví.
   LABEL_COMPETITION_FANBASE_ACQUISITION: >
     Fanoušci získaní akvizicí konkurenta
   LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
-    Chystáte se získat konkurenta.
+    Chystáte se odkoupit konkurenta.
 
-    Tato akvizice zvýší počet fanoušků vaší společnosti.
-    Můžete si také vybrat, zda chcete získat jejich zaměstnance, studia a hry.
-    Nebo jestli se jich chcete zbavit.
-  LABEL_GET_ALL_STUDIO: Získejte všechna studia
+    Tato akvizice zvětší fanouškovskou základnu vaší společnosti.
+    Můžete si také vybrat, jestli chcete touto akvizicí získat zaměstnance, studia a hry.
+    Nebo se jich můžete zbavit.
+  LABEL_GET_ALL_STUDIO: Získat všechna studia
   LABEL_HIRE_ALL: Získat všechny zaměstnance
   LABEL_GET_ALL_GAME: Získat všechny hry
-  LABEL_UPCOMING_GAME: Na seznam přání ještě dnes!
-  LABEL_BANKER_GOODBYE_MESSAGE: Děkuji za váš čas a zvážení. Budeme pokračovat podle vašeho konečného rozhodnutí. Pokud budete potřebovat další pomoc, dejte nám vědět.
-  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Jste si jistý, že chcete prodat herní engine, který jste vyvinuli v posledních několika měsících? To může negativně ovlivnit vaše budoucí projekty.
-  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Potvrzení. Nemáme jinou možnost. Musíme okamžitě snížit naše dluhy.
-  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Zrušení. Musíme zvážit jiné možnosti, než prodáme tak cenný majetek.
-  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Jste si jistý, že chcete prodat nově dokončenou konzoli? To může ovlivnit vaše vztahy s partnery a klienty.
-  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Potvrzení. Situace je kritická a tento prodej je nezbytný pro snížení našich dluhů.
-  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Zrušení. Konzole představuje budoucnost naší společnosti. Musíme prozkoumat jiné řešení, než začneme zvažovat tento prodej.
-  LABEL_BANKER_SELL_STUDIO_MESSAGE: Jste si jistý, že chcete prodat celé studio včetně všech jeho zaměstnanců? To bude mít významný dopad na váš tým a produkci.
-  LABEL_BANKER_SELL_STUDIO_CONFIRM: Potvrzení. I přes těžké následky je tato možnost nejrychlejším způsobem, jak snížit náš dluh.
-  LABEL_BANKER_SELL_STUDIO_CANCEL: Zrušení. Ztráta týmu by byla katastrofální. Musíme zkusit jiné alternativy, než se rozhodneme pro tento krok.
-  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Jste si jistý, že chcete okamžitě vyhlásit bankrot? To ukončí všechny vaše aktivity a bude mít dlouhodobý dopad na vaši kreditní schopnost.
-  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Potvrzení. Vyčerpali jsme všechny ostatní možnosti a bankrot se zdá být jedinou zbývající cestou.
-  LABEL_BANKER_GO_BANKRUPT_CANCEL: Zrušení. Rád bych nejprve prozkoumal všechny ostatní možné možnosti, než učiním tak radikální rozhodnutí.
-  LABEL_BANKER_SELL_GAME_ENGINE: Prodat herní engine vyvinutý v posledních měsících.
-  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Prodat nově dokončenou konzoli.
-  LABEL_BANKER_SELL_STUDIO: Prodat celé studio se všemi jeho zaměstnanci.
-  LABEL_BANKER_GO_BANKRUPT: Okamžitě vyhlásit bankrot.
+  LABEL_UPCOMING_GAME: Přidejte na seznam přání ještě dnes!
+  LABEL_BANKER_GOODBYE_MESSAGE: Děkuji za váš čas a pozornost. Budeme postupovat na základě vašeho finálního rozhodnutí. Pokud budete potřebovat další asistenci, dejte nám vědět.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Opravdu chcete prodat herní engine, který jste během několika posledních měsíců vyvíjeli? Mohlo by to uškodit vašim budoucím projektům.
+  LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Ano. Nemáme na výběr. Musíme náš dluh snížit co nejdřív.
+  LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Ne. Musíme zvážit i jiné možnosti, než prodáme tak cennou věc.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: Opravdu chcete prodat platformu, kterou jste nedávno dokončili? Mohlo by to ovlivnit váš vztah s partnery a zákazníky.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: Ano. Situace je kritická a tento prodej je ke snížení našeho dluhu nutností.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: Ne. Ta platforma reprezentuje budoucnost naší společnosti. Před zvážením tohoto prodeje bychom se měli zamyslet i nad ostatními možnostmi.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: Opravdu chcete prodat celé studio i s jeho zaměstnanci? Tato možnost by mohlá mít vážné následky na váš tým a produktivitu.
+  LABEL_BANKER_SELL_STUDIO_CONFIRM: Ano. I přes těžké následky jde stále o nejrychlejší způsob, jak zmírnit náš dluh.
+  LABEL_BANKER_SELL_STUDIO_CANCEL: Ne. Ztráta celého studia by byla katastrofická. Před zvážením této možnosti se musíme zamyslet nad ostatními alternativami.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: Opravdu chcete vyhlásit bankrot? Ukončí to veškerou vaši aktivitu a bude to mít dlouhodobý negativní vliv na vaše kreditní skóre.
+  LABEL_BANKER_GO_BANKRUPT_CONFIRM: Ano. Vyčerpali jsme všechny ostatní možnosti a bankrot se zdá jako jediná možná cesta.
+  LABEL_BANKER_GO_BANKRUPT_CANCEL: Ne. Raději před učiněním tak drastického opatření zvážím všechny ostatní možnosti.
+  LABEL_BANKER_SELL_GAME_ENGINE: Prodat herní engine vyvíjený během posledních měsíců.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM: Prodat nedávno dokončenou platformu.
+  LABEL_BANKER_SELL_STUDIO: Prodat celé studio i s jeho zaměstnanci.
+  LABEL_BANKER_GO_BANKRUPT: Vyhlásit bankrot.
   LABEL_BANKER_WELCOME: |
-    Vážený pane [b]%s[/b],
+    Dobrý den, [b]%s[/b],
 
-    Na základě naší nedávné finanční analýzy je nezbytné přijmout drastická opatření k řešení kritické situace vaší společnosti, která je v současné době zadlužena ve výši [b]%s[/b].
-    Čelíte několika obtížným, ale nezbytným možnostem:
+    po naší nedávné finanční revizi jsme dospěli k závěru, že je k vyřešení kritické situace týkající se vaší společnosti nezbytné přijmout drastická opatření. Vaše firma momentálně dluží [b]%s[/b].
+    Máte na výběr z několika obtížných, ale nutných rozhodnutí:
   LABEL_BANKER_WELCOME_END: |
-    Je zásadní, abyste bez prodlení přijali rozhodnutí k stabilizaci vašich financí.
-  LABEL_SHOW_GAME_PERCENTAGE: Zobrazení procent při vytváření hry
-  LABEL_BIGGER_FONT: Větší písmo
-  LABEL_OPTIMIZE_HAPPINESS: Optimalizace štěstí
+    Je důležité, abyste se rozhodli neprodleně a stabilizovali tak své finance.
+  LABEL_SHOW_GAME_PERCENTAGE: Zobrazovat během vytváření her procenta
+  LABEL_BIGGER_FONT: Větší font
+  LABEL_OPTIMIZE_HAPPINESS: Optimalizovat spokojenost
   TOOLTIP_OPTIMIZE_HAPPINESS: |
-    Udržuje spokojenost ve studiu co nejblíže 100 %.
+    Udrží spokojenost ve studiu co nejblíže ke 100%.
     
-    Deaktivace této možnosti umožňuje mít ve studiu
-    více stolů na úkor štěstí.
+    Deaktivace této možnosti vám umožní mít ve studiu
+    více stolů na úkor spokojenosti zaměstnanců.
   LABEL_REWORK_LEGACY_CODE: |
-    Přepište herní engine.
-    Přepsání herního enginu odstraňuje postih za starší kód, i když stojí o něco více než zcela nový herní engine.
+    Přepsat herní engine.
+    Přepsání existujícího enginu odstraní penalizaci spojenou se zastaralým kódem, ale stojí trochu více než vývoj nového.
   TOOLTIP_TWITCH_BUTTON: |
-    Založte anketu na twitchi.
+    Začít anketu na Twitchi.
 
-    Diváci budou moci navrhovat jména prostřednictvím chatu.
-  LABEL_SECONDS: sekundy
-  LABEL_TWITCH_POLL_DURATION: Doba trvání průzkumu
-  LABEL_TWITCH_CHANNEL_NAME: Název kanálu Twitch
+    Sledující budou přes chat moct navrhnou názvy.
+  LABEL_SECONDS: sekund
+  LABEL_TWITCH_POLL_DURATION: Trvání ankety
+  LABEL_TWITCH_CHANNEL_NAME: Název Twitch kanálu
   LABEL_TWITCH_TOKEN: Twitch token
-  LABEL_TWITCH_CONNECTING: Připojení ke službě Twitch...
-  LABEL_TWITCH_DISCONNECTED: Odpojení od služby Twitch
+  LABEL_TWITCH_CONNECTING: Připojování ke službě Twitch...
+  LABEL_TWITCH_DISCONNECTED: Odpojeno od služby Twitch
   LABEL_TWITCH_CONNECTED: Připojeno ke službě Twitch!
-  LABEL_TWITCH_AUTHENTICATION_FAILED: Ověření se nezdařilo!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Ověření selhalo!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
-    Není jednoduché určit správnou cenu pro platformu.
+    Není jednoduché pro platformu určit správnou.
 
     Cena platformy ovlivňuje prodeje.
     Vysoké ceny prodeje sníží.
@@ -271,7 +271,7 @@ cs:
   LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
     Grafický výkon této platformy je průměrný.
   LABEL_CUSTOM_PLATFORM_BAD_GPU: >
-    Co se týče grafických schopností, s touto konzolí se vracíme zpět do doby kamenné.
+    Co se týče grafických schopností, s touto platformou se vracíme zpět do doby kamenné.
   LABEL_CUSTOM_PLATFORM_PERFECT_CPU: >
     Fenomenálně výkonná! Tato platforma vydrží léta!
   LABEL_CUSTOM_PLATFORM_GOOD_CPU: >
@@ -295,7 +295,7 @@ cs:
     Chystáte se zrušit hru s názvem [b]%s[/b] i všechny vytvořené porty.
     Opravdu chcete pokračovat?
   LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
-    Chystáte se zrušit přenesení [b]%s[/b] na konzolu [b]%s[/b].
+    Chystáte se zrušit port [b]%s[/b] na platformu [b]%s[/b].
     Opravdu chcete pokračovat?
   LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
     Chystáte se zrušit bezplatnou aktualizaci [b]%s[/b].
@@ -370,16 +370,16 @@ cs:
     Pro tuto oblast špatně odhadnuté množství práce
   LABEL_BACKWARD_COMPATIBILITY: Zpětná kompatibilita
   TOOLTIP_BACKWARD_COMPATIBILITY: |
-    K vytvoření konzole se zpětnou kompatibiliou je nutné mít v minulosti jinou konzoli stejného typu.
+    K vytvoření platformy se zpětnou kompatibiliou je nutné mít již existující platformu stejného typu.
     To znamená, že pokud chcete vytvořit handheld, který je zpětně kompatibilní,
     museli jste vytvořit již jeden handheld v minulosti.
-    Zpětná kompatibilita se vztahuje na předchozí konzoli stejného typu.
+    Zpětná kompatibilita se vztahuje na předchozí platformu stejného typu.
 
-    Zpětná kompatibilita dělá portování her z předchozích konzolí mnohem jednodušší.
+    Zpětná kompatibilita činí portování her z předchozích platformy mnohem jednodušší.
     Na druhou stranu je k implementaci potřeba o mnoho více bodů během vývoje.
 
-    Není možné implementovat zpětnou kompatibilitu, pokud jste ještě nevytvořili konzoli stejného typu.
-  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Prosím update!
+    Jestliže jste ještě nevytvořili platformu stejného typu, zpětnou kompatibilitu není možné implementovat.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: Update prosím!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
     Ahoj [b]%s[/b],
 
@@ -460,16 +460,16 @@ cs:
     To znamená, že vytížení z her, které na vaší platformě byly zveřejněny, jsou započítávány 
     do vytížení té platformy.
   LABEL_PAID_UPDATE_SALES: Prodeje DLC
-  LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Upravit barvu konzole
+  LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: Upravit barvu platformy
   LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: Slavnost na konci roku
   LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
     Dobrý den [b]%s[/b],
 
     Společnost nezávislých vývojářů má to potěšení vás pozvat na svou slavnost, která se pořádá na konci roku. Ohodnotíme vaši společnost [b]%s[/b], přičemž bude určeno a posléze do globálních žebříčků nahráno její skóre.
-    Come and see us again soon.
+    Přijďte se k nám brzy podívat.
 
     PS:
-    Hra na konci tohoto roku skončí. Zatímco můžete pokračovat v hraní i po tom datu, neobjeví se žádné nové konzole nebo komponenty
+    Hra na konci tohoto roku skončí. Přestože po tom datu můžete ve hře stále pokračovat, neobjeví se žádné nové platformy nebo komponenty.
   LABEL_PINBALL_CITY_GAME_STUDIO: Pinball
   LABEL_PINBALL_SNEAK_IN: Pinball Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Kontaktovat všechnu zbývající konkurenci.
@@ -580,7 +580,7 @@ cs:
     Vývojáři věděli, jak využít nejnovější technologie. Jde o celkem solidní remake.
   LABEL_REMAKE_ENGINE_GOOD: >
     Perfektně využili nejnovější technologie a výsledek vypadá fantasticky.
-  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Využití schopností konzole originálem."
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: "Využití schopností platformy originálem."
   LABEL_REMAKE_CPU_USAGE: Využití CPU originálem
   LABEL_REMAKE_GPU_USAGE: Využití GPU originálem
   LABEL_REMAKE_TOOLTIP: |
@@ -686,9 +686,9 @@ cs:
     CEO [b]%s[/b] akvizici okomentoval:
     [indent]Náš průmysl neustále roste, a spolu budeme v pozici, ze které ho v této nové éře zábavního průmyslu budeme vést.[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
-    Tato hra nevyužila schopností konzole naplno.
+    Tato hra nevyužila schopností platformy naplno.
   LABEL_MARKETSHARE_KRASHING: >
-    Tato konzole trpí z příšerné reputace, což omezuje prodeje. Je doporučeno od ní už zůstat dál.
+    Tato platforma trpí z příšerné reputace, což omezuje prodeje. Je doporučeno od ní už zůstat dál.
   LABEL_LOSING_MONEY_DESCRIPTION: |
     Zde jsou vaše finanční výsledky. Ukazují vaše výdělky a ztráty.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
@@ -702,7 +702,7 @@ cs:
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
     Utrácíte mnoho na marketingu. Možná zvažte zastavení některých kampaní a účast na výstavách.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
-    Zdá se, že vaše půjčky jsou velmi drahé. Pokud je to možné, splaťte je s dražší, ale delší půjčkou.
+    Zdá se, že vaše půjčky jsou velmi drahé. Pokud je to možné, splaťte je dražší, ale delší půjčkou.
   LABEL_LOSING_MONEY_HARD: >
     Utrácíte více, než vyděláváte. Pokud chcete zjistit, co stojí nejvíce, podívejte se na své finanční detaily.
   LABEL_SUBSCRIPTION: Předplatné
@@ -710,7 +710,7 @@ cs:
     Tato platforma není dostatečně výkonná
   BUTTON_RELEASE_ALL: Vydat vše
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    Vydá všechny hry, konzole a kontrakty,
+    Vydá všechny hry, platformy a kontrakty,
     které jsou připraveny.
   LABEL_PLATFORM_LIST_GAME: Seznam videoher
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Nadcházející komponenty
@@ -725,12 +725,12 @@ cs:
 
     S pozdravem
     Binogure
-  LABEL_PLATFORM_COST_REDUCTION_TITLE: Zpráva o prodeji konzole
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Zpráva o prodeji platformy
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
     Zdravím %s,
 
     další email k zaplnění vaší schránky. Tento ale obsahuje dobrou zprávu.
-    Jsem tu, abych vám řekl o redukci výrobních cen ohledně konzolí.
+    Jsem tu, abych vám řekl o redukci výrobních cen ohledně platforem.
 
     %s
 
@@ -738,7 +738,7 @@ cs:
     Hezký den.
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
-    Výrobní ceny [b]%s[/b] zmenšeny o [b]%s%%[/b].
+    Výrobní ceny [b]%s[/b] sníženy o [b]%s%%[/b].
   LABEL_PLATFORM_NOT_RELEASED: |
     Platforma %s není zatím dostupná
   LABEL_PLATFORM_NO_COMPONENT: |
@@ -747,10 +747,10 @@ cs:
   LABEL_FILTER_PLATFORM_RELEASED: Vydané platformy
   LABEL_FILTER_PLATFORM_DISCONTINUED: Stažené platformy
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
-    Upraví kvalitu konzole.
+    Upraví kvalitu platformy.
     
-    Od konzole s nízkou kvalitou se očekává, že bude mnohem častěji selhávat.
-    Zákazníci, kteří si koupili vadnou konzoli, mají vždy nárok na vrácení peněz.
+    Od platformy s nízkou kvalitou se očekává, že bude mnohem častěji selhávat.
+    Zákazníci, kteří si koupili vadnou platformu, mají vždy nárok na vrácení peněz.
   LABEL_PLATFORM_DISCONTINUE: Zrušit produkci
   LABEL_PLATFORM_CHANGE_PRICE: Upravit cenu
   LABEL_PLATFORM_UNIT_RETURNED: Vráceno kusů 
@@ -761,28 +761,28 @@ cs:
   LABEL_PLATFORM_COMPONENT_MEMORY: Paměť
   LABEL_PLATFORM_COMPONENT_GPU: Grafická karta
   LABEL_PLATFORM_COMPONENT_SCREEN: Obrazovka
-  LABEL_PLATFORM_COMPONENT_BOX: Provedení konzole
+  LABEL_PLATFORM_COMPONENT_BOX: Provedení platformy
   LABEL_PLATFORM_COMPONENT_HARDDRIVE: Pevný disk
   LABEL_PLATFORM_MAKING_COSTS: Výrobní ceny
-  LABEL_PLATFORM_UNLOCK_COSTS: Cena odemčení
+  LABEL_PLATFORM_UNLOCK_COSTS: Cena odemknutí
   LABEL_PLATFORM_DEVELOPMENT_POINTS: Cena vývoje
   LABEL_PLATFORM_QUALITY: Kvalita
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Odhadované výrobní náklady
   LABEL_PLATFORM_UNIT_PROFIT: Profit za kus
   LABEL_PLATFORM_NAME: "Název platformy"
   LABEL_TRADE_PUBLISH_TOOLTIP: |
-    Tato vydavatelská nabídka je podložena grantem $%s.
+    Tato vydavatelská nabídka je podložena grantem ve výši $%s.
     Pokud nedosáhnete minimálního skóre %d%%, obdržíte pokutu v hodnotě %s$.
   LABEL_CANNOT_HIRE_NO_DESK: |
-    K pronajmutí specialisty musíte mít volný stůl.
-  LABEL_CUSTOM_CONSOLE: Vývoj konzole
+    K najmutí specialisty musíte mít volný stůl.
+  LABEL_CUSTOM_CONSOLE: Vývoj platformy
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
-    Vytvořte vlastní videoherní konzoli.
+    Vytvořte vlastní platformu.
   LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
-    Vyberte komponenty sestavte konzoli a připravte se na marketingovou kampaň!
-    K dosažení co nejlepších výsledků najměte účetní a marketingového manažera.
+    Vyberte komponenty, sestavte platformu a připravte se na marketingovou kampaň!
+    K dosažení co nejlepších výsledků najměte účetního a marketingového manažera.
   LABEL_INCOMPATIBLE_VERSION: >
-    Nelze načíst uloženou hru, protože byla vytvořena v novější verzi hry
+    Uloženou hru nelze načíst, protože byla vytvořena v novější verzi hry
   LABEL_GAME_CANCELED: Hra zrušena
   LABEL_EMPLOYEE_FIRED: Zaměstnanec vyhozen
   LABEL_ASSIGN_SPECIALIST: Přiřadit specialisty.
@@ -885,7 +885,7 @@ cs:
   LABEL_PLATFORM_GAME_EXCLUSIVE_WELCOME: |
     Dobrý den, [b]%s[/b].
 
-    Jsem potěšen tím, že vaše studio publikuje kvalitní hry. Přišel jsem si promluvit o [b]%s[/b] - ta hra vypadá velmi slibně, chtěl bych vám pomoct k tomu, aby se z ní stal celosvětový úspěch! [b]%s[/b] bude námi jednak propagováno, a jednak přibaleno ke každému kusu naší konzole. Na oplátku chceme, aby šlo o [b]%s[/b] exkluzivitu. [i](Všechny porty pro pkonzole, které nejsou od společnosti [b]%s[/b], budou zrušeny)[/i]
+    Jsem potěšen tím, že vaše studio publikuje kvalitní hry. Přišel jsem si promluvit o [b]%s[/b] - ta hra vypadá velmi slibně, chtěl bych vám pomoct k tomu, aby se z ní stal celosvětový úspěch! [b]%s[/b] bude námi jednak propagováno, a jednak přibaleno ke každému kusu naší platformy. Na oplátku chceme, aby šlo o [b]%s[/b] exkluzivitu. [i](Všechny porty pro platformy, které nejsou od společnosti [b]%s[/b], budou zrušeny)[/i]
     Kromě propagace vaší hry vám nabídneme i [b]%s$[/b]. Co na to říkáte?
   LABEL_CLOUDS: Ukázat mraky na mapě
   LABEL_AUTOSAVE: Automatické ukládání
@@ -928,7 +928,7 @@ cs:
     Co pro vás mohu udělat?
   LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
     Vývojem [b]%s[/b] jsme strávili mnoho let. Byl bych potěšen s vámi spolupracovat,
-    ale nejdříve by mě zajímalo, co vaše společnost může přinést naší konzoli [b]%s[/b].
+    ale nejdříve by mě zajímalo, co vaše společnost může naší platformě [b]%s[/b] přinést.
   LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
     Odhadovaný počet prodaných kusů: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
@@ -943,7 +943,7 @@ cs:
     Co říkáte na tohle?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
     Platba [b]%s$[/b] pro licenci [b]%s[/b] a smlouva o exkluzivitě pro [b]%s[/b] na [b]%s[/b] měsíců.
-    (nebudete schopni vydávat hry na konzole jiných výrobců).
+    (nebudete schopni vydávat hry na platformy jiných výrobců).
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
     Platba [b]%s$[/b] pro licenci [b]%s[/b].
   LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
@@ -1062,9 +1062,9 @@ cs:
   LABEL_NOT_AVAILABLE: Nedostupné
   LABEL_REQUIRED: Vyžadováno
   LABEL_REVIEW_GAMEENGINE_BAD: >
-    Měli naplno využít schopností konzole
+    Měli naplno využít schopností platformy
   LABEL_REVIEW_GAMEENGINE_GOOD: >
-    Byli schopni z konzole dostat všechny její schopnosti
+    Byli schopni využít schopností platformy naplno
   LABEL_GAME_ENGINE: Herní engine
   LABEL_FEATURE_LIST: Seznam funkcí
   LABEL_DESIGN_CAPACITY: Schopnost produkovat body designu
@@ -2179,7 +2179,7 @@ cs:
     k propagaci a marketingu!
 
   LABEL_GAMEPORT_FEATURE: >
-    Splnily se všechny sny. Nová konzole byla vydána!
+    Splnily se všechny sny. Byla vydána nová konzole!
     Můžete nyní vytvářet multiplatformní hry.
     Zkuste to!
 
@@ -2311,15 +2311,15 @@ cs:
   TOOLTIP_BONUS_HYPE: |
     Bonusový hype vzniká, když své hry např. předvádíte na herních veletrzích.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
-    Gratulujeme, právě jste vyvinuli svou konzoli!
+    Gratulujeme, právě jste vyvinuli svou platformu!
 
-    Před jejím vydáním je důležité vytvořit slušný katalog her.
+    Před jejím vydáním je důležité sestavit slušný katalog her.
     Za tímto účelem zvažte podepsání exkluzivních smluv s konkurencí,
     případně vydejte několik malých her nebo portů sami.
     Samozřejmě je tu vždy možnost jednat jako vydavatel a najmout
     si malá nezávislá studia, aby pro vás hry vytvářela.
 
-    Po zvážení všech okolností je nejlepší mít před vydáním alespoň 15 her.
+    Každopádně je nejlepší mít před vydáním alespoň 15 her.
   TOOLTIP_UNIVERSITY_TRAINING: |
     Univerzity vám umožňují školit zaměstnance za hranice normálních možností.
     Nicméně, školení také může navýšit výplatu.
@@ -2394,7 +2394,7 @@ cs:
     Nebo můžete přepsat jeho starší kód, což je levnější než vytvoření nového motoru.
   TUTORIEL_PLATFORM_MAKING_COSTS: |
     Mějte na mysli, že výrobní cena této platformy jsou vyšší než prodejní cena, kterou jste nastavili.
-    Pokud se konzole stane populární, vaše společnost by mohla zbankrotovat.
+    Pokud se platforma stane populární, vaše společnost by mohla zbankrotovat.
 
     Z tohoto důvodu by jste měli cenu platformy navýšit.
   TUTORIEL_CREATE_GAME_OBSOLETE: |
@@ -2435,10 +2435,10 @@ cs:
 
     Je načase navýšit kapacitu svých serverů.
   TOOLTIP_FIRST_CUSTOM_CONSOLE: |
-    Gratulujeme, začali jste pracovat na své první konzoli!
+    Gratulujeme, začali jste pracovat na své první platformě!
 
     K úspěchu budete potřebovat velký katalog her. Posílání vývojářských sad
-    konkurenci podpoří k tomu, aby na vaši konzoli nějakou hru vydala.
+    konkurenci podpoří k tomu, aby na vaši platformu vydala nějakou hru.
 
     Stiskněte tlačítko k odeslání vývojařských sad.
   TOOLTIP_GAME_PRICE_TAG: |
