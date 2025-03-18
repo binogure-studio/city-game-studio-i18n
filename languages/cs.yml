@@ -106,6 +106,9 @@ cs:
   BUTTON_EXIT_NO_SAVE: Ukončit bez ukládání
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    Plocha studia je menší než plocha původního studia.
+    Proto není možné zkopírovat rozmístění nábytku cílového studia.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Deaktivací automatických nastavení můžete nastavit každý aspekt vývoje her.
 
@@ -124,6 +127,7 @@ cs:
     Povolit ředitelovi studia využívat specialisty.
     To znamená, že se ředitel studia pokusí vždy využít dostupné specialisty povolených specializací.
     Pokud například může ředitel studia využívat účetní, bude je přiřazovat ke svým hrám, pokud jsou dostupní.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Skrýt nedostupná studia
   LABEL_IF_POSSIBLE: "(pokud možno)"
   LABEL_PREFER_MANUAL_SELECTION: Vybrat manuálně
   LABEL_PREFER_NEW_TYPE: Neovládané žánry
@@ -141,6 +145,12 @@ cs:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     Ředitel studia bude dostávat pevně daný podíl ze zisků všech her, na jejichž vývoji se bude podílet.
     Tento bonus zajišťuje stabilní odměnu a ředitele tak motivuje k produkci kvalitních her při zachování optimálního výkonu.
+  LABEL_PUBLISH_ALL_GAMES: Publikovat všechny hry
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Můžete se rozhodnout publikovat všechny hry vytvořené ředitelem studia.
+    Nebo můžete publikovat pouze hry určité kvality.
+    Ostatní hry budou automaticky vyřazeny.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Zobrazit hodnocení tisku pro hry ředitelů
   LABEL_STUDIO_DIRECTOR: Ředitel studia
   LABEL_STUDIO_DIRECTOR_CUT: Podíl ze zisku ředitelů studií
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2670,6 +2680,7 @@ cs:
   CONCURRENT_STUDIOS_LIST: Seznam zaměstnanců
   CONCURRENT_STUDIOS_BUY: Odkoupit konkurenci
   FURNITURES_COMMON_BUY: Koupit nábytek
+  COPY_STUDIO_LAYOUT: Rozložení kopírovacího studia
   EMPLOYEES_HIRE: Najmout zaměstnance
   STUDIO_RENT: Pronajmout budovz
   STUDIO_BUILD: Postavit budovu

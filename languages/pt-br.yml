@@ -106,6 +106,9 @@ pt-br:
   BUTTON_EXIT_NO_SAVE: Sair sem salvar
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    A área do estúdio é menor que a do estúdio original.
+    Por isso, não é possível copiar a disposição do mobiliário do estúdio alvo.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Você pode configurar todos os aspectos da criação de jogos desativando as configurações automáticas.
 
@@ -125,6 +128,7 @@ pt-br:
     Autorizar o diretor do estúdio a usar especialistas.
     Isso significa que o diretor do estúdio sempre tentará usar os especialistas que estiverem disponíveis entre os permitidos aqui.
     Portanto, se um diretor de estúdio tiver permissão para usar contadores, ele os designará para seus jogos, desde que haja contadores disponíveis.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Ocultar estúdios indisponíveis
   LABEL_IF_POSSIBLE: "(se possível)"
   LABEL_PREFER_MANUAL_SELECTION: Escolha você mesmo
   LABEL_PREFER_NEW_TYPE: Gênero de jogo não dominado
@@ -142,6 +146,12 @@ pt-br:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     O diretor de estúdio recebe uma porcentagem fixa dos lucros gerados pelos jogos que produziu.
     Este bônus garante uma recompensa estável, incentivando-o a continuar produzindo jogos de alta qualidade e a manter um desempenho ótimo.
+  LABEL_PUBLISH_ALL_GAMES: Publicar todos os jogos
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Você pode escolher publicar todos os jogos produzidos pelo diretor do estúdio.
+    Ou pode publicar apenas jogos de certa qualidade.
+    Os outros jogos serão automaticamente descartados.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Ver avaliações da imprensa dos jogos dos diretores
   LABEL_STUDIO_DIRECTOR: Diretor de Estúdio
   LABEL_STUDIO_DIRECTOR_CUT: Participação nos lucros dos diretores de estúdio
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2689,6 +2699,7 @@ pt-br:
   CONCURRENT_STUDIOS_LIST: Listar os concorrentes
   CONCURRENT_STUDIOS_BUY: Compra de concorrentes
   FURNITURES_COMMON_BUY: Compra de móveis
+  COPY_STUDIO_LAYOUT: Copiar o layout do estúdio
   EMPLOYEES_HIRE: Contratar funcionários
   STUDIO_RENT: Alugar um estúdio
   STUDIO_BUILD: Construir um estúdio

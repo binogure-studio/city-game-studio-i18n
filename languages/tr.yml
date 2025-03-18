@@ -106,6 +106,9 @@ tr:
   BUTTON_EXIT_NO_SAVE: Kaydetmeden çık
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    Stüdyo alanı orijinal stüdyodan daha küçük.
+    Bu nedenle, hedef stüdyonun mobilya düzenini kopyalamak mümkün değil.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Oyun yapım sürecinin her yönünü otomatik ayarları devre dışı bırakıp yapılandırabilirsiniz.
 
@@ -125,6 +128,7 @@ tr:
     Stüdyo yöneticisine uzmanları kullanma yetkisi verin.
     Bu, stüdyo yöneticisinin her zaman burada izin verilenler arasında mevcut olan uzmanları kullanmaya çalıştığı anlamına gelir.
     Yani, bir stüdyo yöneticisinin muhasebecileri kullanmasına izin verilirse, muhasebeciler mevcut olduğu sürece onları oyunlarına atayacaktır.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Kullanılamayan stüdyoları gizle
   LABEL_IF_POSSIBLE: "(mümkünse)"
   LABEL_PREFER_MANUAL_SELECTION: Kendini seç
   LABEL_PREFER_NEW_TYPE: Oyun türüne hakim değil
@@ -142,6 +146,12 @@ tr:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     Stüdyo direktörü, ürettiği oyunlardan elde edilen kârın sabit bir yüzdesini alır. 
     Bu bonus, istikrarlı bir ödül sağlar ve onları yüksek kaliteli oyunlar üretmeye ve en iyi performansı sürdürmeye teşvik eder.
+  LABEL_PUBLISH_ALL_GAMES: Tüm oyunları yayınla
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Stüdyo yöneticisi tarafından üretilen tüm oyunları yayınlamayı seçebilirsiniz.
+    Veya sadece belirli kalitedeki oyunları yayınlayabilirsiniz.
+    Diğer oyunlar otomatik olarak atılacaktır.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Direktörlerin oyunları için basın değerlendirmelerini gör
   LABEL_STUDIO_DIRECTOR: Stüdyo Direktörü
   LABEL_STUDIO_DIRECTOR_CUT: Stüdyo yöneticilerinin kar payı
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2652,6 +2662,7 @@ tr:
   CONCURRENT_STUDIOS_LIST: Rakipleri listele
   CONCURRENT_STUDIOS_BUY: Rakipleri satın al
   FURNITURES_COMMON_BUY: Mobilya satın al
+  COPY_STUDIO_LAYOUT: Stüdyonun düzenini kopyalayın
   EMPLOYEES_HIRE: Personel al
   STUDIO_RENT: Stüdyo dairesi kiralamak
   STUDIO_BUILD: Bir stüdyo inşa et

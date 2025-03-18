@@ -106,6 +106,9 @@ nl:
   BUTTON_EXIT_NO_SAVE: Afsluiten zonder opslaan
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    De studio-oppervlakte is kleiner dan die van de originele studio.
+    Daarom is het niet mogelijk om de meubelopstelling van de doelstudio te kopiëren.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     U kunt elk aspect van het maken van een game configureren door de automatische instellingen uit te schakelen.
 
@@ -125,6 +128,7 @@ nl:
     Geef de studiodirecteur toestemming om specialisten te gebruiken.
     Dit betekent dat de studio director altijd probeert de specialisten te gebruiken die beschikbaar zijn onder de specialisten die hier zijn toegestaan.
     Dus als een studiodirecteur toestemming heeft om accountants te gebruiken, zal hij ze aan zijn spellen toewijzen zolang er accountants beschikbaar zijn.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Onbeschikbare studio's verbergen
   LABEL_IF_POSSIBLE: "(indien mogelijk)"
   LABEL_PREFER_MANUAL_SELECTION: Kies jezelf
   LABEL_PREFER_NEW_TYPE: Spelgenre niet beheerst
@@ -142,6 +146,12 @@ nl:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     De studio-directeur ontvangt een vast percentage van de winst die wordt gegenereerd door de spellen die hij heeft geproduceerd.
     Deze bonus garandeert een stabiele beloning en motiveert hem om door te gaan met het produceren van hoogwaardige games en optimale prestaties te leveren.
+  LABEL_PUBLISH_ALL_GAMES: Alle games publiceren
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Je kunt ervoor kiezen om alle games die door de studiodirecteur zijn gemaakt te publiceren.
+    Of je kunt alleen games van een bepaalde kwaliteit publiceren.
+    Andere games worden automatisch weggegooid.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Bekijk persrecensies van games van directeuren
   LABEL_STUDIO_DIRECTOR: Studio Directeur
   LABEL_STUDIO_DIRECTOR_CUT: Winstdeling van de studio-directeuren
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2668,6 +2678,7 @@ nl:
   CONCURRENT_STUDIOS_LIST: Lijst de concurrenten op
   CONCURRENT_STUDIOS_BUY: Koop concurrenten uit
   FURNITURES_COMMON_BUY: Koop meubels
+  COPY_STUDIO_LAYOUT: De lay-out van de kopieerstudio
   EMPLOYEES_HIRE: Werf staf aan
   STUDIO_RENT: Huur een studio apartement
   STUDIO_BUILD: Bouw een studio

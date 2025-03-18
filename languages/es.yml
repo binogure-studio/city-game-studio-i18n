@@ -106,6 +106,9 @@ es:
   BUTTON_EXIT_NO_SAVE: Salir sin guardar
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    El área del estudio es más pequeña que la del estudio original.
+    Por lo tanto, no es posible copiar la disposición del mobiliario del estudio objetivo.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Puedes configurar cada aspecto de la creación de juegos desactivando las configuraciones automáticas.
 
@@ -124,6 +127,7 @@ es:
     Autoriza al director del estudio a utilizar especialistas.
     Esto significa que el director del estudio siempre intenta utilizar los especialistas que están disponibles entre los permitidos aquí.
     Así, si un director de estudio está autorizado a utilizar contables, los asignará a sus partidas siempre que haya contables disponibles.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Ocultar estudios no disponibles
   LABEL_IF_POSSIBLE: "(si es posible)"
   LABEL_PREFER_MANUAL_SELECTION: Elige tú mismo
   LABEL_PREFER_NEW_TYPE: Género de juego no dominado
@@ -141,6 +145,12 @@ es:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     El director de estudio recibe un porcentaje fijo de los beneficios generados por los juegos que produce.
     Este bono garantiza una recompensa estable, motivándolo a seguir produciendo juegos de alta calidad mientras mantiene un rendimiento óptimo.
+  LABEL_PUBLISH_ALL_GAMES: Publicar todos los juegos
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Puedes elegir publicar todos los juegos producidos por el director del estudio.
+    O puedes publicar solo los juegos de cierta calidad.
+    Los otros juegos serán descartados automáticamente.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Ver reseñas de prensa de los juegos de directores
   LABEL_STUDIO_DIRECTOR: Director de Estudio
   LABEL_STUDIO_DIRECTOR_CUT: Participación en los beneficios de los directores de estudio
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2685,6 +2695,7 @@ es:
   CONCURRENT_STUDIOS_LIST: Lista de competidores
   CONCURRENT_STUDIOS_BUY: Comprar a la competencia
   FURNITURES_COMMON_BUY: Comprar muebles
+  COPY_STUDIO_LAYOUT: Diseño del estudio de copiado
   EMPLOYEES_HIRE: Contratar personal
   STUDIO_RENT: Alquilar un estudio
   STUDIO_BUILD: Construir un estudio

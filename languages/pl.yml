@@ -106,6 +106,9 @@ pl:
   BUTTON_EXIT_NO_SAVE: Wyjście bez zapisywania
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    Powierzchnia studia jest mniejsza niż studia oryginalnego.
+    Dlatego nie można skopiować układu mebli z docelowego studia.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Możesz skonfigurować każdy aspekt tworzenia gry, wyłączając ustawienia automatyczne.
 
@@ -125,6 +128,7 @@ pl:
     Upoważnienie dyrektora studia do korzystania ze specjalistów.
     Oznacza to, że dyrektor studia zawsze stara się korzystać ze specjalistów, którzy są dostępni spośród tych dozwolonych tutaj.
     Jeśli więc dyrektor studia może korzystać z księgowych, przydzieli ich do swoich gier, o ile księgowi będą dostępni.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Ukryj niedostępne studia
   LABEL_IF_POSSIBLE: "(jeśli to możliwe)"
   LABEL_PREFER_MANUAL_SELECTION: Wybierz siebie
   LABEL_PREFER_NEW_TYPE: Nieopanowany gatunek gier
@@ -142,6 +146,12 @@ pl:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     Dyrektor studia otrzymuje stały procent zysków wygenerowanych przez gry, które wyprodukował.
     Ten bonus zapewnia stabilną nagrodę i motywuje go do dalszego tworzenia wysokiej jakości gier, przy zachowaniu optymalnych wyników.
+  LABEL_PUBLISH_ALL_GAMES: Opublikuj wszystkie gry
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Możesz wybrać publikację wszystkich gier wyprodukowanych przez dyrektora studia.
+    Lub możesz publikować tylko gry o określonej jakości.
+    Pozostałe gry zostaną automatycznie odrzucone.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Zobacz recenzje prasowe gier dyrektorów
   LABEL_STUDIO_DIRECTOR: Dyrektor Studia
   LABEL_STUDIO_DIRECTOR_CUT: Udział w zysku dyrektorów studia
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2675,6 +2685,7 @@ pl:
   CONCURRENT_STUDIOS_LIST: Lista konkurentów
   CONCURRENT_STUDIOS_BUY: Wykupienie konkurentów
   FURNITURES_COMMON_BUY: Zakup wyposażenia
+  COPY_STUDIO_LAYOUT: Układ studia kopiowania
   EMPLOYEES_HIRE: Zatrudnij pracowników
   STUDIO_RENT: Wynajem mieszkania typu kawalerka
   STUDIO_BUILD: Budowa pracowni

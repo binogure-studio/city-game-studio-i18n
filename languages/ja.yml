@@ -106,6 +106,9 @@ ja:
   BUTTON_EXIT_NO_SAVE: 保存せずに終了する
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    スタジオの面積が元のスタジオより小さいです。
+    そのため、対象スタジオの家具レイアウトをコピーすることができません。
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     自動設定を無効にすることで、ゲーム制作のあらゆる側面を構成できます。
 
@@ -124,6 +127,7 @@ ja:
     スタジオディレクターにスペシャリストの使用を許可する。
     これは、スタジオディレクターが、ここで許可されたスペシャリストのうち、利用可能なスペシャリストを常に使用しようとすることを意味します。
     つまり、スタジオディレクターが会計士の使用を許可されている場合、会計士がいる限り、会計士をゲームに割り当てます。
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: 利用できないスタジオを非表示
   LABEL_IF_POSSIBLE: "(可能であれば)"
   LABEL_PREFER_MANUAL_SELECTION: 自分を選ぶ
   LABEL_PREFER_NEW_TYPE: マスターしていないゲームジャンル
@@ -141,6 +145,12 @@ ja:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     スタジオディレクターは、自分が制作したゲームから得られる利益の固定パーセンテージを受け取ります。
     このボーナスは安定した報酬を保証し、最適なパフォーマンスを維持しつつ、高品質なゲームの制作を続ける動機になります。
+  LABEL_PUBLISH_ALL_GAMES: すべてのゲームを公開
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    スタジオディレクターが制作したすべてのゲームを公開することができます。
+    または、特定の品質のゲームのみを公開することもできます。
+    その他のゲームは自動的に破棄されます。
+  LABEL_STUDIO_DIRECTOR_REVIEW: ディレクターのゲームのプレス評価を表示
   LABEL_STUDIO_DIRECTOR: スタジオディレクター
   LABEL_STUDIO_DIRECTOR_CUT: スタジオ・ディレクターズの収益分配
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2645,6 +2655,7 @@ ja:
   CONCURRENT_STUDIOS_LIST: 競合他社のリスト
   CONCURRENT_STUDIOS_BUY: 競合他社の買収
   FURNITURES_COMMON_BUY: 家具の購入
+  COPY_STUDIO_LAYOUT: コピースタジオのレイアウト
   EMPLOYEES_HIRE: 従業員を雇う
   STUDIO_RENT: ワンルームマンションを借りる
   STUDIO_BUILD: スタジオ建設

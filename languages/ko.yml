@@ -106,6 +106,9 @@ ko:
   BUTTON_EXIT_NO_SAVE: 저장하지 않고 종료
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    스튜디오 면적이 원본 스튜디오보다 작습니다.
+    따라서 대상 스튜디오의 가구 배치를 복사할 수 없습니다.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     자동 설정을 비활성화하여 게임 생성의 모든 측면을 구성할 수 있습니다.
 
@@ -125,6 +128,7 @@ ko:
     스튜디오 디렉터가 전문가를 사용할 수 있도록 승인합니다.
     즉, 스튜디오 디렉터는 여기에서 허용된 전문가 중 사용 가능한 전문가를 항상 사용하려고 합니다.
     따라서 스튜디오 디렉터가 회계사를 사용할 수 있도록 허용되면 사용 가능한 회계사가 있는 한 해당 회계사를 게임에 배정합니다.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: 사용할 수 없는 스튜디오 숨기기
   LABEL_IF_POSSIBLE: "(가능한 경우)"
   LABEL_PREFER_MANUAL_SELECTION: 직접 선택
   LABEL_PREFER_NEW_TYPE: 마스터하지 못한 게임 장르
@@ -142,6 +146,12 @@ ko:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     스튜디오 디렉터는 자신이 제작한 게임에서 발생한 수익의 고정된 비율을 받습니다.
     이 보너스는 안정적인 보상을 보장하며, 최적의 성과를 유지하면서 양질의 게임을 계속 제작하도록 동기를 부여합니다.
+  LABEL_PUBLISH_ALL_GAMES: 모든 게임 출시
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    스튜디오 디렉터가 제작한 모든 게임을 출시할 수 있습니다.
+    또는 특정 품질의 게임만 출시할 수 있습니다.
+    다른 게임들은 자동으로 폐기됩니다.
+  LABEL_STUDIO_DIRECTOR_REVIEW: 디렉터 게임의 언론 평가 보기
   LABEL_STUDIO_DIRECTOR: 스튜디오 디렉터
   LABEL_STUDIO_DIRECTOR_CUT: 스튜디오 디렉터의 수익 분배
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2655,6 +2665,7 @@ ko:
   CONCURRENT_STUDIOS_LIST: 경쟁사
   CONCURRENT_STUDIOS_BUY: 인수 합병
   FURNITURES_COMMON_BUY: 물건 구매
+  COPY_STUDIO_LAYOUT: 카피 스튜디오의 레이아웃
   EMPLOYEES_HIRE: 고용
   STUDIO_RENT: 스튜디오 임차
   STUDIO_BUILD: 스튜디오

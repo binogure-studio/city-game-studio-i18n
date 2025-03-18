@@ -106,6 +106,9 @@ de:
   BUTTON_EXIT_NO_SAVE: Beenden ohne zu speichern
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    Die Studiofläche ist kleiner als die des ursprünglichen Studios.
+    Daher ist es nicht möglich, die Möbelaufstellung des Zielstudios zu kopieren.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Sie können jeden Aspekt der Spielentwicklung konfigurieren, indem Sie die automatischen Einstellungen deaktivieren.
 
@@ -124,6 +127,7 @@ de:
     Ermächtigen Sie den Studioleiter, Spezialisten einzusetzen.
     Das bedeutet, dass der Studiodirektor immer versucht, die Spezialisten einzusetzen, die unter den hier erlaubten verfügbar sind.
     Wenn ein Studiodirektor also die Erlaubnis hat, Buchhalter einzusetzen, wird er sie seinen Spielen zuweisen, solange Buchhalter verfügbar sind.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Nicht verfügbare Studios ausblenden
   LABEL_IF_POSSIBLE: "(wenn möglich)"
   LABEL_PREFER_MANUAL_SELECTION: Wählen Sie selbst
   LABEL_PREFER_NEW_TYPE: Nicht beherrschtes Spielgenre
@@ -141,6 +145,12 @@ de:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     Der Studio-Direktor erhält einen festen Prozentsatz der Gewinne, die durch die von ihm produzierten Spiele erzielt werden.
     Dieser Bonus garantiert eine stabile Belohnung und motiviert ihn, weiterhin hochwertige Spiele zu produzieren und dabei optimale Leistungen zu erbringen.
+  LABEL_PUBLISH_ALL_GAMES: Alle Spiele veröffentlichen
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Sie können alle vom Studiodirektor produzierten Spiele veröffentlichen.
+    Oder Sie können nur Spiele einer bestimmten Qualität veröffentlichen.
+    Andere Spiele werden automatisch verworfen.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Pressebewertungen für Spiele der Direktoren anzeigen
   LABEL_STUDIO_DIRECTOR: Studio-Direktor
   LABEL_STUDIO_DIRECTOR_CUT: Gewinnbeteiligung der Studioleiter
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2699,6 +2709,7 @@ de:
   CONCURRENT_STUDIOS_LIST: Liste der Wettbewerber
   CONCURRENT_STUDIOS_BUY: Kaufen von Wettbewerbern
   FURNITURES_COMMON_BUY: Möbel kaufen
+  COPY_STUDIO_LAYOUT: Layout des Studios kopieren
   EMPLOYEES_HIRE: Personal einstellen
   STUDIO_RENT: Miete ein Büro
   STUDIO_BUILD: Neubau

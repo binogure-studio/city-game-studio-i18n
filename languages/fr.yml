@@ -106,6 +106,9 @@ fr:
   BUTTON_EXIT_NO_SAVE: Quitter sans sauvegarder
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_AREA_TOO_SMALL: |
+    La superficie du studio est plus petite que celle du studio d'origine.
+    Il n'est donc pas possible de copier l'ameublement du studio visé.
   TOOLTIP_STUDIODIRECTOR_DESCRIPTION: |
     Vous pouvez configurer chaque aspect de la création de jeu en désactivant les réglages automatiques.
 
@@ -124,6 +127,7 @@ fr:
     Donnez la permission au directeur de studio d'utiliser des spécialistes.
     Le directeur de studio essaiera d'utiliser les spécialistes qui sont disponibles parmi ceux qui lui sont autorisés.
     Ainsi, si un directeur de studio a le droit d'utiliser des comptables, il en assignera à ses jeux tant qu'il y aura des comptables disponibles.
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Cacher les studios indisponibles
   LABEL_IF_POSSIBLE: "(si possible)"
   LABEL_PREFER_MANUAL_SELECTION: Sélectionner soit-même
   LABEL_PREFER_NEW_TYPE: Genre de jeu non maitrisé
@@ -141,6 +145,12 @@ fr:
   TOOLTIP_BONUS_PROFIT_SHARE: |
     Le directeur de studio reçoit un pourcentage fixe des bénéfices générés par les jeux qu'il a produits.
     Ce bonus garantit une récompense stable, l'incitant à continuer à produire des jeux de qualité tout en maintenant des performances optimales.
+  LABEL_PUBLISH_ALL_GAMES: Publier tous les jeux
+  TOOLTIP_PUBLISH_ALL_GAMES: |
+    Vous pouvez choisir de publier tous les jeux produits par le directeur de studio.
+    Ou alors vous pouvez ne publier que les jeux d'une certaine qualité.
+    Les autres jeux seront automatiquement jetés à la poubelle.
+  LABEL_STUDIO_DIRECTOR_REVIEW: Voir les notes de presse des jeux des directeurs
   LABEL_STUDIO_DIRECTOR: Directeur de Studio.
   LABEL_STUDIO_DIRECTOR_CUT: Part des directeurs de studio
   TOOLTIP_STUDIO_DIRECTOR: |
@@ -2699,6 +2709,7 @@ fr:
   CONCURRENT_STUDIOS_LIST: Lister les compétiteurs
   CONCURRENT_STUDIOS_BUY: Racheter les compétiteurs
   FURNITURES_COMMON_BUY: Acheter des meubles
+  COPY_STUDIO_LAYOUT: Copier l'agencement du studio
   EMPLOYEES_HIRE: Engager du personnel
   STUDIO_RENT: Louer un studio
   STUDIO_BUILD: Construire un studio
