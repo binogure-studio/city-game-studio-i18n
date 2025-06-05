@@ -1,5 +1,7 @@
 fr:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: Reset les assignations
+  BUTTON_TRANSFERT_STAFF: Transférer les employés vers...
   BUTTON_RENAME: Renommer
   BUTTON_DISABLE_TUTORIEL: Désactiver les tutoriel
   BUTTON_ACQUIRE: Acquérir
@@ -102,10 +104,40 @@ fr:
   BUTTON_SAVEGAMEAS: Nouvelle sauvegarde
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: Récupérer le token
-  BUTTON_MAIN_MENU_NO_SAVE: Menu principal sans sauvegarder
   BUTTON_EXIT_NO_SAVE: Quitter sans sauvegarder
+  BUTTON_MAIN_MENU_NO_SAVE: Menu principal sans sauvegarder
+  BUTTON_MAX_OUT_DEVKIT: Maximiser la quantité de kits de développement
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximiser la durée du contrat d'exclusivité
+  BUTTON_SCHEDULE_AUTO: Assignation automatique
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: Compagnie fondée en %s
+  LABEL_FIRST_GAME_ENGINE_DATE: Premier moteur de jeu
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: Premier studio acheté
+  LABEL_DIGITAL_STORE_CREATION_DATE: Magasin numérique créé
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: Première console créée
+  LABEL_FANBASE_THRESHOLD_DATE: "%s fans atteint"
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: Utilisateurs du magasin numérique
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: Consoles créées
+  LABEL_AMOUNT_EDITED_REMAKE: Remakes édités
+  LABEL_AMOUNT_OF_GOTY: Jeux de l'Année
+  LABEL_AMOUNT_OF_GAME_ENGINE: Moteurs de jeu créés
+  LABEL_AMOUNT_OF_EMPLOYEE: Employés
+  LABEL_AMOUNT_OF_GAMEPORT: Game ports
+  LABEL_AMOUNT_OF_GAMES: Jeux publiés
+  LABEL_AMOUNT_OF_STUDIOS: Studios
+  LABEL_AMOUNT_OF_CONVENTIONS: Conventions assistées
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    Assigne automatiquement les employés.
+
+    Les designers seront assignés aux tâches de design, les développeurs aux tâches de développement
+    et les testeurs aux tâches de polissage.
+
+    Tout en essayant d'équilibrer les studios.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    Remet à zéro l'assignation des employés.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    Il est impossible d'assigner les employés dans des studios qui ont moins de 5 employés.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     La superficie du studio est plus petite que celle du studio d'origine.
     Il n'est donc pas possible de copier l'ameublement du studio visé.
@@ -589,6 +621,9 @@ fr:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Estimation du nombre de jeu
   LABEL_NUMBER_OF_DEVKITS: Nombre de dev kits
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Nombre de dev kits restants
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Obtenez des jeux exclusifs en envoyant des kits de développement et en négociant des accords d'exclusivité avec les studios concurrents.
+    Un catalogue de jeux robuste stimule directement le succès de votre console - plus votre bibliothèque est diverse et étendue, plus vos ventes seront importantes.
   LABEL_EXCLUSIVITY_DURATION: Durée de l'exclusivité
   LABEL_FILTER_NONE: Aucun
   LABEL_FILTER_ONLY_NO_CONTRACTS: Sans contrat
@@ -877,6 +912,19 @@ fr:
   LABEL_DETAILS_HIDDEN: Cacher tous les graphiques et détails
   LABEL_AUTO_ADJUST: Ajustement automatique
   LABEL_MISC_SETTINGS: Paramètres divers
+  TOOLTIP_MOD_BAD_QUALITY: |
+    Ajoute du contenu qui déséquilibre City Game Studio.
+    Cela peut venir des événements, des consoles ou des composants de consoles qui sont ajoutés par ce mod.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    Ajoute du contenu qui pourrait peut-être déséquilibrer City Game Studio.
+    Mais l'expérience de jeu devrait quand même être bonne.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    Ajoute du contenu équilibré à City Game Studio.
+    Garantit une excellente expérience de jeu.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Ajoute du réalisme en renommant des éléments du jeu.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Ajoute de nouveaux éléments au jeu tels que des événements, des consoles...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Afficher uniquement les mods auxquels vous êtes abonnés
   LABEL_MOD_UNSUBSCRIBE: Se désabonner
   LABEL_MOD_BRANCH: Multi-branches
@@ -1223,16 +1271,19 @@ fr:
     Louer de nouveaux serveurs dès que la charge des serveurs
     atteint:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Tentative de connexion à Steam.
-    Assurez-vous que Steam fonctionne et que vous êtes connecté.
+    City Game Studio essaie d'initialiser Steam:
+    - Vérifiez que Steam est lancé
+    - Déconnectez-vous puis reconnectez-vous à Steam
+    - Désactivez votre antivirus et redémarrez votre ordinateur
 
-    Si le problème persiste, reconnectez-vous à Steam.
+    Si le problème persiste, venez sur le forum Steam pour obtenir de l'aide.
   LABEL_STEAM_NOT_DETECTED: |
-    Impossible de joindre Steam.
+    Impossible d'initialiser Steam:
+    - Vérifiez que Steam est lancé
+    - Déconnectez-vous puis reconnectez-vous à Steam
+    - Désactivez votre antivirus et redémarrez votre ordinateur
 
-    Merci de redémarrer Steam.
-    Si le problème persiste, veuillez contacter:
-    contact@binogure-studio.com
+    Si le problème persiste, venez sur le forum Steam pour obtenir de l'aide.
   LABEL_ONLINE_GAMES: Jeux en ligne
   LABEL_CLOUD_SERVER: >
     C'est une véritable révolution, une compagnie vient de proposer ces services de location de serveur cloud

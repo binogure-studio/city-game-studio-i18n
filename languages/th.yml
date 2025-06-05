@@ -1,5 +1,7 @@
 th:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: รีเซ็ตการมอบหมาย
+  BUTTON_TRANSFERT_STAFF: โอนพนักงานไปยัง...
   BUTTON_RENAME: Rename
   BUTTON_DISABLE_TUTORIEL: Disable tutorial
   BUTTON_ACQUIRE: ได้รับ
@@ -104,8 +106,38 @@ th:
   BUTTON_FETCH_TOKEN: Get token
   BUTTON_MAIN_MENU_NO_SAVE: Main menu without saving
   BUTTON_EXIT_NO_SAVE: Exit without saving
+  BUTTON_MAX_OUT_DEVKIT: Maximize development kit quantity
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximize exclusivity contract length
+  BUTTON_SCHEDULE_AUTO: การมอบหมายอัตโนมัติ
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: บริษัทก่อตั้งในปี %s
+  LABEL_FIRST_GAME_ENGINE_DATE: เอนจินเกมแรก
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: สตูดิโอแรกที่ซื้อ
+  LABEL_DIGITAL_STORE_CREATION_DATE: สร้างร้านค้าดิจิทัล
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: เปิดตัวคอนโซลเกมแรก
+  LABEL_FANBASE_THRESHOLD_DATE: มีแฟนคลับครบ %s คน
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: ผู้ใช้ร้านค้าดิจิทัล
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: คอนโซลที่สร้าง
+  LABEL_AMOUNT_EDITED_REMAKE: รีเมคที่เผยแพร่
+  LABEL_AMOUNT_OF_GOTY: รางวัลเกมแห่งปี
+  LABEL_AMOUNT_OF_GAME_ENGINE: เอนจินเกมที่พัฒนา
+  LABEL_AMOUNT_OF_EMPLOYEE: พนักงาน
+  LABEL_AMOUNT_OF_GAMEPORT: เกมพอร์ต
+  LABEL_AMOUNT_OF_GAMES: เกมที่เผยแพร่
+  LABEL_AMOUNT_OF_STUDIOS: สตูดิโอ
+  LABEL_AMOUNT_OF_CONVENTIONS: งานแสดงเกมที่เข้าร่วม
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    มอบหมายพนักงานโดยอัตโนมัติ
+
+    นักออกแบบจะได้รับมอบหมายงานออกแบบ นักพัฒนาจะได้รับงานพัฒนา
+    และผู้ทดสอบจะได้รับงานปรับปรุงคุณภาพ
+
+    พร้อมทั้งพยายามสร้างความสมดุลให้กับสตูดิโอต่างๆ
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    รีเซ็ตการมอบหมายพนักงาน
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    ไม่สามารถมอบหมายพนักงานอัตโนมัติในสตูดิโอที่มีพนักงานน้อยกว่า 5 คน
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     The studio area is smaller than the original studio.
     Therefore, it is not possible to copy the targeted studio's furniture layout.
@@ -577,6 +609,9 @@ th:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: จำนวนเกมโดยประมาณ
   LABEL_NUMBER_OF_DEVKITS: จำนวนชุดพัฒนา
   LABEL_NUMBER_OF_DEVKITS_REMAINING: จำนวนชุดพัฒนาที่เหลืออยู่
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Secure exclusive games by sending development kits and negotiating exclusivity deals with rival studios. 
+    A robust game catalog directly drives your console's success - the more diverse and extensive your library, the stronger your sales will be.
   LABEL_EXCLUSIVITY_DURATION: ระยะเวลาพิเศษ
   LABEL_FILTER_NONE: ไม่มี
   LABEL_FILTER_ONLY_NO_CONTRACTS: ไม่มีสัญญา
@@ -858,6 +893,19 @@ th:
   LABEL_DETAILS_HIDDEN: ซ่อนชาร์ตและรายละเอียดทั้งหมด
   LABEL_AUTO_ADJUST: ปรับอัตโนมัติ
   LABEL_MISC_SETTINGS: ตั้งค่าเบ็ดเตล็ด
+  TOOLTIP_MOD_BAD_QUALITY: |
+    Adds content that unbalances City Game Studio.
+    This can come from events, consoles, or console components that are added by this mod.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    Adds content that might potentially unbalance City Game Studio.
+    But the gaming experience should still be good.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    Adds balanced content to City Game Studio.
+    Guarantees an excellent gaming experience.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Adds realism by renaming elements of the game.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Adds new elements to the game such as events, consoles...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Show only mods you have subscribed to
   LABEL_MOD_UNSUBSCRIBE: Unsubscribe
   LABEL_MOD_BRANCH: Steam branches
@@ -1198,16 +1246,19 @@ th:
   LABEL_SERVER_USAGE_THRESHOLD: >
     Rent new servers as soon as the servers load reaches this threshold:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Trying to reach Steam.
-    Make sure Steam is running and that you are logged in.
-
-    If the problem persists, please log in to Steam again.
+    City Game Studio is trying to initialize Steam:
+    - Make sure Steam is running
+    - Log out and log back in to Steam
+    - Disable your antivirus and restart your computer
+    
+    If the problem persists, visit the Steam forum for help.
   LABEL_STEAM_NOT_DETECTED: |
-    Steam can't be reached.
-
-    Please restart Steam.
-    If the problem persists, please contact us:
-    contact@binogure-studio.com
+    Unable to initialize Steam:
+    - Make sure Steam is running
+    - Log out and log back in to Steam
+    - Disable your antivirus and restart your computer
+    
+    If the problem persists, visit the Steam forum for help.
   LABEL_ONLINE_GAMES: Online games
   LABEL_CLOUD_SERVER: >
     Cloud computing is the on-demand availability of computer system resources

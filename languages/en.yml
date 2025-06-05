@@ -1,5 +1,7 @@
 en:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: Reset Assignments
+  BUTTON_TRANSFERT_STAFF: Transfer employees to...
   BUTTON_RENAME: Rename
   BUTTON_DISABLE_TUTORIEL: Disable tutorial
   BUTTON_ACQUIRE: Acquire
@@ -104,8 +106,38 @@ en:
   BUTTON_FETCH_TOKEN: Get token
   BUTTON_MAIN_MENU_NO_SAVE: Main menu without saving
   BUTTON_EXIT_NO_SAVE: Exit without saving
+  BUTTON_MAX_OUT_DEVKIT: Maximize development kit quantity
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximize exclusivity contract length
+  BUTTON_SCHEDULE_AUTO: Auto Assignment
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: Company founded in %s
+  LABEL_FIRST_GAME_ENGINE_DATE: First game engine
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: First studio acquired
+  LABEL_DIGITAL_STORE_CREATION_DATE: Digital store created
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: First console released
+  LABEL_FANBASE_THRESHOLD_DATE: "%s fans reached"
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: Digital store users
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: Consoles created
+  LABEL_AMOUNT_EDITED_REMAKE: Remakes published
+  LABEL_AMOUNT_OF_GOTY: Game of the Year awards
+  LABEL_AMOUNT_OF_GAME_ENGINE: Game engines developed
+  LABEL_AMOUNT_OF_EMPLOYEE: Employees
+  LABEL_AMOUNT_OF_GAMEPORT: Game ports
+  LABEL_AMOUNT_OF_GAMES: Games released
+  LABEL_AMOUNT_OF_STUDIOS: Studios
+  LABEL_AMOUNT_OF_CONVENTIONS: Conventions attended
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    Automatically assigns employees.
+
+    Designers will be assigned to design tasks, developers to development tasks,
+    and testers to polishing tasks.
+
+    While trying to balance the studios.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    Resets employee assignments.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    Cannot automatically assign employees in studios with fewer than 5 employees.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     The studio area is smaller than the original studio.
     Therefore, it is not possible to copy the targeted studio's furniture layout.
@@ -575,6 +607,9 @@ en:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Estimated number of games
   LABEL_NUMBER_OF_DEVKITS: Number of Dev Kits
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Number of remaining dev kits
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Secure exclusive games by sending development kits and negotiating exclusivity deals with rival studios. 
+    A robust game catalog directly drives your console's success - the more diverse and extensive your library, the stronger your sales will be.
   LABEL_EXCLUSIVITY_DURATION: Exclusive duration
   LABEL_FILTER_NONE: None
   LABEL_FILTER_ONLY_NO_CONTRACTS: Without contract
@@ -855,6 +890,19 @@ en:
   LABEL_DETAILS_HIDDEN: Hide all charts and details
   LABEL_AUTO_ADJUST: Auto adjust
   LABEL_MISC_SETTINGS: Misc settings
+  TOOLTIP_MOD_BAD_QUALITY: |
+    Adds content that unbalances City Game Studio.
+    This can come from events, consoles, or console components that are added by this mod.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    Adds content that might potentially unbalance City Game Studio.
+    But the gaming experience should still be good.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    Adds balanced content to City Game Studio.
+    Guarantees an excellent gaming experience.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Adds realism by renaming elements of the game.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Adds new elements to the game such as events, consoles...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Show only mods you have subscribed to
   LABEL_MOD_UNSUBSCRIBE: Unsubscribe
   LABEL_MOD_BRANCH: Steam branches
@@ -1194,16 +1242,19 @@ en:
   LABEL_SERVER_USAGE_THRESHOLD: >
     Rent new servers as soon as the servers load reaches this threshold:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Trying to reach Steam.
-    Make sure Steam is running and that you are logged in.
-
-    If the problem persists, please log in to Steam again.
+    City Game Studio is trying to initialize Steam:
+    - Make sure Steam is running
+    - Log out and log back in to Steam
+    - Disable your antivirus and restart your computer
+    
+    If the problem persists, visit the Steam forum for help.
   LABEL_STEAM_NOT_DETECTED: |
-    Steam can't be reached.
-
-    Please restart Steam.
-    If the problem persists, please contact us:
-    contact@binogure-studio.com
+    Unable to initialize Steam:
+    - Make sure Steam is running
+    - Log out and log back in to Steam
+    - Disable your antivirus and restart your computer
+    
+    If the problem persists, visit the Steam forum for help.
   LABEL_ONLINE_GAMES: Online games
   LABEL_CLOUD_SERVER: >
     Cloud computing is the on-demand availability of computer system resources

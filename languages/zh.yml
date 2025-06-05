@@ -1,5 +1,7 @@
 zh:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: 重置分配
+  BUTTON_TRANSFERT_STAFF: 将员工转移至...
   BUTTON_RENAME: 重命名
   BUTTON_DISABLE_TUTORIEL: 禁用教程
   BUTTON_ACQUIRE: 获得
@@ -104,8 +106,38 @@ zh:
   BUTTON_FETCH_TOKEN: 获取标记
   BUTTON_MAIN_MENU_NO_SAVE: 主菜单无需保存
   BUTTON_EXIT_NO_SAVE: 退出，不保存
+  BUTTON_MAX_OUT_DEVKIT: 最大化开发套件数量
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 最大化独家协议期限
+  BUTTON_SCHEDULE_AUTO: 自动分配
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: 公司成立于%s年
+  LABEL_FIRST_GAME_ENGINE_DATE: 首个游戏引擎
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: 首个收购工作室
+  LABEL_DIGITAL_STORE_CREATION_DATE: 数字商店创建
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: 首款游戏主机发布
+  LABEL_FANBASE_THRESHOLD_DATE: 达成%s粉丝
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: 数字商店用户
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: 创建的游戏主机
+  LABEL_AMOUNT_EDITED_REMAKE: 发布的重制版
+  LABEL_AMOUNT_OF_GOTY: 年度游戏奖项
+  LABEL_AMOUNT_OF_GAME_ENGINE: 研发的游戏引擎
+  LABEL_AMOUNT_OF_EMPLOYEE: 员工
+  LABEL_AMOUNT_OF_GAMEPORT: 游戏移植
+  LABEL_AMOUNT_OF_GAMES: 发行的游戏
+  LABEL_AMOUNT_OF_STUDIOS: 工作室
+  LABEL_AMOUNT_OF_CONVENTIONS: 参加的展会
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    自动分配员工。
+
+    设计师将被分配到设计任务，开发者分配到开发任务，
+    测试人员分配到品质提升任务。
+
+    同时尝试平衡各个工作室。
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    重置员工分配。
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    无法在员工数少于5人的工作室中自动分配员工。
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     工作室面积小于原始工作室。
     因此无法复制目标工作室的家具布局。
@@ -560,6 +592,9 @@ zh:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: 预计游戏数量
   LABEL_NUMBER_OF_DEVKITS: 开发工具包数量
   LABEL_NUMBER_OF_DEVKITS_REMAINING: 其他开发工具包的数量
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    通过发送开发套件并与竞争对手工作室协商独家协议，确保获得独家游戏。
+    强大的游戏目录直接推动您游戏机的成功 - 您的游戏库越多样化和广泛，销售就越强劲。
   LABEL_EXCLUSIVITY_DURATION: 独占期限
   LABEL_FILTER_NONE: 无
   LABEL_FILTER_ONLY_NO_CONTRACTS: 口头约定
@@ -833,6 +868,19 @@ zh:
   LABEL_DETAILS_HIDDEN: 隐藏所有图表和细节
   LABEL_AUTO_ADJUST: 自动调节
   LABEL_MISC_SETTINGS: 其他设置
+  TOOLTIP_MOD_BAD_QUALITY: |
+    添加使City Game Studio失衡的内容。
+    这可能来自于该模组添加的事件、游戏机或游戏机组件。
+  TOOLTIP_MOD_POOR_QUALITY: |
+    添加可能会使City Game Studio失衡的内容。
+    但游戏体验应该仍然不错。
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    向City Game Studio添加平衡的内容。
+    保证优秀的游戏体验。
+  TOOLTIP_MOD_ADD_REALISM: |
+    通过重命名游戏元素来增加真实感。
+  TOOLTIP_MOD_ADD_CONTENT: |
+    添加新的游戏元素，如事件、游戏机等...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: 只显示您已订阅的模式
   LABEL_MOD_UNSUBSCRIBE: 退订
   LABEL_MOD_BRANCH: Steam分支版本
@@ -1160,16 +1208,19 @@ zh:
   LABEL_SERVER_USAGE_THRESHOLD: >
     当服务器负载达到此阈值时租用新服务器：
   LABEL_STEAM_TRYING_TO_REACH: |
-    尝试连接 Steam。
-    请确保 Steam 正在运行并已登录。
-
-    如果问题仍然存在，请重新登录 Steam。
+    City Game Studio 正在尝试初始化 Steam：
+    - 确保 Steam 正在运行
+    - 登出并重新登录 Steam
+    - 禁用杀毒软件并重新启动计算机
+    
+    如果问题仍然存在，请访问 Steam 论坛寻求帮助。
   LABEL_STEAM_NOT_DETECTED: |
-    无法连接至Steam。
-
-    请重新启动Steam。
-    如果问题仍然存在，请与我们联系：
-    contact@binogure-studio.com
+    无法初始化 Steam：
+    - 确保 Steam 正在运行
+    - 登出并重新登录 Steam
+    - 禁用杀毒软件并重新启动计算机
+    
+    如果问题仍然存在，请访问 Steam 论坛寻求帮助。
   LABEL_ONLINE_GAMES: 在线游戏
   LABEL_CLOUD_SERVER: >
     云计算可以按需分配计算机资源

@@ -1,5 +1,7 @@
 ru:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: Сбросить назначения
+  BUTTON_TRANSFERT_STAFF: Перевести сотрудников в...
   BUTTON_RENAME: Переименовать
   BUTTON_DISABLE_TUTORIEL: Отключить учебник
   BUTTON_ACQUIRE: Приобрести
@@ -104,8 +106,38 @@ ru:
   BUTTON_FETCH_TOKEN: Получить токен
   BUTTON_MAIN_MENU_NO_SAVE: Главное меню без сохранения
   BUTTON_EXIT_NO_SAVE: Выход без сохранения
+  BUTTON_MAX_OUT_DEVKIT: Максимизировать количество девкитов
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Максимизировать срок эксклюзивного контракта
+  BUTTON_SCHEDULE_AUTO: Автоматическое назначение
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: Компания основана в %s
+  LABEL_FIRST_GAME_ENGINE_DATE: Первый игровой движок
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: Первая приобретенная студия
+  LABEL_DIGITAL_STORE_CREATION_DATE: Цифровой магазин создан
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: Первая выпущенная консоль
+  LABEL_FANBASE_THRESHOLD_DATE: Достигнуто %s фанатов
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: Пользователи цифрового магазина
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: Созданные консоли
+  LABEL_AMOUNT_EDITED_REMAKE: Выпущенные ремейки
+  LABEL_AMOUNT_OF_GOTY: Награды "Игра года"
+  LABEL_AMOUNT_OF_GAME_ENGINE: Разработанные игровые движки
+  LABEL_AMOUNT_OF_EMPLOYEE: Сотрудники
+  LABEL_AMOUNT_OF_GAMEPORT: Игровые порты
+  LABEL_AMOUNT_OF_GAMES: Выпущенные игры
+  LABEL_AMOUNT_OF_STUDIOS: Студии
+  LABEL_AMOUNT_OF_CONVENTIONS: Посещенные выставки
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    Автоматически назначает сотрудников.
+
+    Дизайнеры будут назначены на задачи дизайна, разработчики на задачи разработки,
+    а тестировщики на задачи полировки.
+
+    При этом пытается сбалансировать студии.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    Сбрасывает назначения сотрудников.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    Невозможно автоматически назначить сотрудников в студиях с менее чем 5 сотрудниками.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     Площадь студии меньше, чем у исходной студии.
     Поэтому невозможно скопировать планировку мебели целевой студии.
@@ -580,6 +612,9 @@ ru:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Предполагаемое количество игр
   LABEL_NUMBER_OF_DEVKITS: Количество девайс-комплектов
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Количество оставшихся наборов для разработки
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Обеспечьте эксклюзивные игры, отправляя девкиты и заключая соглашения об эксклюзивности с конкурирующими студиями.
+    Надежный каталог игр напрямую способствует успеху вашей консоли - чем разнообразнее и обширнее ваша библиотека, тем сильнее будут ваши продажи.
   LABEL_EXCLUSIVITY_DURATION: Продолжительность эксклюзивности
   LABEL_FILTER_NONE: Нет
   LABEL_FILTER_ONLY_NO_CONTRACTS: Без контракта
@@ -861,6 +896,19 @@ ru:
   LABEL_DETAILS_HIDDEN: Скрыть все диаграммы и детали
   LABEL_AUTO_ADJUST: Автоматическая настройка
   LABEL_MISC_SETTINGS: Прочие настройки
+  TOOLTIP_MOD_BAD_QUALITY: |
+    Добавляет контент, который нарушает баланс City Game Studio.
+    Это может быть связано с событиями, консолями или компонентами консолей, которые добавляются этим модом.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    Добавляет контент, который потенциально может нарушить баланс City Game Studio.
+    Но игровой опыт всё равно должен быть хорошим.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    Добавляет сбалансированный контент в City Game Studio.
+    Гарантирует отличный игровой опыт.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Добавляет реализм, переименовывая элементы игры.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Добавляет новые элементы в игру, такие как события, консоли...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Показывать только те моды, на которые вы подписаны
   LABEL_MOD_UNSUBSCRIBE: Отписаться от рассылки
   LABEL_MOD_BRANCH: Ответлвения Steam
@@ -1204,16 +1252,19 @@ ru:
   LABEL_SERVER_USAGE_THRESHOLD: >
     Аренда новых серверов, как только загрузка серверов достигает этого порога:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Пытаюсь зайти в Steam.
-    Убедитесь, что Steam запущен и что вы вошли в систему.
-
-    Если проблема сохраняется, пожалуйста, войдите в Steam снова.
+    City Game Studio пытается инициализировать Steam:
+    - Убедитесь, что Steam запущен
+    - Выйдите из Steam и снова войдите
+    - Отключите антивирус и перезагрузите компьютер
+    
+    Если проблема не исчезнет, посетите форум Steam для получения помощи.
   LABEL_STEAM_NOT_DETECTED: |
-    Невозможно связаться с Steam.
-
-    Пожалуйста, перезапустите Steam.
-    Если проблема сохраняется, пожалуйста, свяжитесь с нами:
-    contact@binogure-studio.com
+    Не удалось инициализировать Steam:
+    - Убедитесь, что Steam запущен
+    - Выйдите из Steam и снова войдите
+    - Отключите антивирус и перезагрузите компьютер
+    
+    Если проблема не исчезнет, посетите форум Steam для получения помощи.
   LABEL_ONLINE_GAMES: Онлайн игры
   LABEL_CLOUD_SERVER: >
     Облачные сервера - это доступность ресурсов компьютерной системы по требованию.

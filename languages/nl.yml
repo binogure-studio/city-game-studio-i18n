@@ -1,5 +1,7 @@
 nl:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: Toewijzingen resetten
+  BUTTON_TRANSFERT_STAFF: Medewerkers verplaatsen naar...
   BUTTON_RENAME: Hernoemen
   BUTTON_DISABLE_TUTORIEL: Zelfstudie uitschakelen
   BUTTON_ACQUIRE: Verwerven
@@ -104,8 +106,38 @@ nl:
   BUTTON_FETCH_TOKEN: Ontvang token
   BUTTON_MAIN_MENU_NO_SAVE: Hoofdmenu zonder opslaan
   BUTTON_EXIT_NO_SAVE: Afsluiten zonder opslaan
+  BUTTON_MAX_OUT_DEVKIT: Maximaliseer aantal ontwikkelkits
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximaliseer duur van exclusiviteitscontract
+  BUTTON_SCHEDULE_AUTO: Automatische toewijzing
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: Bedrijf opgericht in %s
+  LABEL_FIRST_GAME_ENGINE_DATE: Eerste game-engine
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: Eerste studio verworven
+  LABEL_DIGITAL_STORE_CREATION_DATE: Digitale winkel geopend
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: Eerste console uitgebracht
+  LABEL_FANBASE_THRESHOLD_DATE: "%s fans bereikt"
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: Gebruikers digitale winkel
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: Ontwikkelde consoles
+  LABEL_AMOUNT_EDITED_REMAKE: Uitgebrachte remakes
+  LABEL_AMOUNT_OF_GOTY: Game of the Year prijzen
+  LABEL_AMOUNT_OF_GAME_ENGINE: Ontwikkelde game-engines
+  LABEL_AMOUNT_OF_EMPLOYEE: Werknemers
+  LABEL_AMOUNT_OF_GAMEPORT: Game-ports
+  LABEL_AMOUNT_OF_GAMES: Uitgebrachte games
+  LABEL_AMOUNT_OF_STUDIOS: Studio's
+  LABEL_AMOUNT_OF_CONVENTIONS: Bezochte beurzen
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    Wijst automatisch medewerkers toe.
+
+    Ontwerpers worden toegewezen aan ontwerptaken, ontwikkelaars aan ontwikkelingstaken
+    en testers aan afwerktaken.
+
+    Terwijl geprobeerd wordt de studio's in balans te houden.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    Reset medewerkertoewijzingen.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    Het is onmogelijk om medewerkers automatisch toe te wijzen in studio's met minder dan 5 medewerkers.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     De studio-oppervlakte is kleiner dan die van de originele studio.
     Daarom is het niet mogelijk om de meubelopstelling van de doelstudio te kopiëren.
@@ -581,6 +613,9 @@ nl:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Geschat aantal spellen
   LABEL_NUMBER_OF_DEVKITS: Aantal ontwikkelingskits
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Aantal resterende dev kits
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Verzeker je van exclusieve games door ontwikkelkits te versturen en exclusiviteitsovereenkomsten te onderhandelen met concurrerende studio's.
+    Een robuuste spelcatalogus stimuleert direct het succes van je console - hoe diverser en uitgebreider je bibliotheek, hoe sterker je verkoopcijfers zullen zijn.
   LABEL_EXCLUSIVITY_DURATION: Duur exclusiviteit
   LABEL_FILTER_NONE: Geen
   LABEL_FILTER_ONLY_NO_CONTRACTS: Zonder contract
@@ -863,6 +898,19 @@ nl:
   LABEL_DETAILS_HIDDEN: Nascondi tutti i grafici e i dettagli
   LABEL_AUTO_ADJUST: Automatisch aanpassen
   LABEL_MISC_SETTINGS: Overige instellingen
+  TOOLTIP_MOD_BAD_QUALITY: |
+    Voegt inhoud toe die City Game Studio uit balans brengt.
+    Dit kan komen door evenementen, consoles of console-onderdelen die door deze mod worden toegevoegd.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    Voegt inhoud toe die mogelijk City Game Studio uit balans kan brengen.
+    Maar de spelervaring zou nog steeds goed moeten zijn.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    Voegt gebalanceerde inhoud toe aan City Game Studio.
+    Garandeert een uitstekende spelervaring.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Voegt realisme toe door elementen van het spel te hernoemen.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Voegt nieuwe elementen toe aan het spel zoals evenementen, consoles...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Toon alleen mods waarop je bent geabonneerd
   LABEL_MOD_UNSUBSCRIBE: Afmelden
   LABEL_MOD_BRANCH: Steam-takken
@@ -1208,16 +1256,19 @@ nl:
   LABEL_SERVER_USAGE_THRESHOLD: >
     Huur nieuwe servers zodra de servers deze drempel bereiken:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Ik probeer Steam te bereiken.
-    Zorg ervoor dat Steam actief is en dat je bent ingelogd.
-
-    Als het probleem zich blijft voordoen, log dan opnieuw in op Steam.
+    City Game Studio probeert Steam te initialiseren:
+    - Zorg ervoor dat Steam actief is
+    - Log uit en log opnieuw in bij Steam
+    - Schakel uw antivirusprogramma uit en herstart uw computer
+    
+    Als het probleem aanhoudt, bezoek dan het Steam-forum voor hulp.
   LABEL_STEAM_NOT_DETECTED: |
-    Steam kan niet worden bereikt.
-
-    Gelieve Steam opnieuw op te starten.
-    Als het probleem aanhoudt, neem dan contact met ons op:
-    contact@binogure-studio.com
+    Kan Steam niet initialiseren:
+    - Zorg ervoor dat Steam actief is
+    - Log uit en log opnieuw in bij Steam
+    - Schakel uw antivirusprogramma uit en herstart uw computer
+    
+    Als het probleem aanhoudt, bezoek dan het Steam-forum voor hulp.
   LABEL_ONLINE_GAMES: Online spelletjes
   LABEL_CLOUD_SERVER: >
     Cloud computing is de on-demand beschikbaarheid van computersysteembronnen

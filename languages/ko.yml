@@ -1,5 +1,7 @@
 ko:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: 할당 초기화
+  BUTTON_TRANSFERT_STAFF: 직원 이동하기...
   BUTTON_RENAME: 이름 변경
   BUTTON_DISABLE_TUTORIEL: 튜토리얼 비활성화
   BUTTON_ACQUIRE: 습득
@@ -104,8 +106,38 @@ ko:
   BUTTON_FETCH_TOKEN: 토큰 받기
   BUTTON_MAIN_MENU_NO_SAVE: 저장하지 않고 메인 메뉴
   BUTTON_EXIT_NO_SAVE: 저장하지 않고 종료
+  BUTTON_MAX_OUT_DEVKIT: 개발 키트 수량 최대화
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 독점 계약 기간 최대화
+  BUTTON_SCHEDULE_AUTO: 자동 할당
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: "%s년 회사 설립"
+  LABEL_FIRST_GAME_ENGINE_DATE: 첫 게임 엔진
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: 첫 스튜디오 인수
+  LABEL_DIGITAL_STORE_CREATION_DATE: 디지털 스토어 개설
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: 첫 콘솔 출시
+  LABEL_FANBASE_THRESHOLD_DATE: 팬 %s명 달성
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: 디지털 스토어 사용자
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: 개발한 콘솔
+  LABEL_AMOUNT_EDITED_REMAKE: 출시한 리메이크
+  LABEL_AMOUNT_OF_GOTY: 올해의 게임 수상
+  LABEL_AMOUNT_OF_GAME_ENGINE: 개발한 게임 엔진
+  LABEL_AMOUNT_OF_EMPLOYEE: 직원
+  LABEL_AMOUNT_OF_GAMEPORT: 이식한 게임
+  LABEL_AMOUNT_OF_GAMES: 출시한 게임
+  LABEL_AMOUNT_OF_STUDIOS: 스튜디오
+  LABEL_AMOUNT_OF_CONVENTIONS: 참가한 컨벤션
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    직원을 자동으로 할당합니다.
+
+    디자이너는 디자인 작업에, 개발자는 개발 작업에,
+    테스터는 품질 향상 작업에 할당됩니다.
+
+    스튜디오의 균형을 맞추려고 시도합니다.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    직원 할당을 초기화합니다.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    직원이 5명 미만인 스튜디오에서는 자동 할당이 불가능합니다.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     스튜디오 면적이 원본 스튜디오보다 작습니다.
     따라서 대상 스튜디오의 가구 배치를 복사할 수 없습니다.
@@ -559,6 +591,9 @@ ko:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: 예상 독점 개발 게임 수
   LABEL_NUMBER_OF_DEVKITS: 개발 도구 수
   LABEL_NUMBER_OF_DEVKITS_REMAINING: 남은 개발 도구 수
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    개발 키트를 보내고 경쟁 스튜디오와 독점 계약을 협상하여 독점 게임을 확보하세요.
+    강력한 게임 카탈로그는 콘솔의 성공을 직접적으로 촉진합니다 - 라이브러리가 다양하고 광범위할수록 판매가 더 강해집니다.
   LABEL_EXCLUSIVITY_DURATION: 독점 계약 만료일
   LABEL_FILTER_NONE: 없음
   LABEL_FILTER_ONLY_NO_CONTRACTS: 계약 안 함
@@ -855,6 +890,19 @@ ko:
   LABEL_DETAILS_HIDDEN: 모든 차트 및 세부정보 숨기기
   LABEL_AUTO_ADJUST: 자동 설정
   LABEL_MISC_SETTINGS: 기타 설정
+  TOOLTIP_MOD_BAD_QUALITY: |
+    City Game Studio의 균형을 무너뜨리는 콘텐츠를 추가합니다.
+    이는 이 모드가 추가하는 이벤트, 콘솔 또는 콘솔 구성 요소에서 발생할 수 있습니다.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    City Game Studio의 균형을 무너뜨릴 가능성이 있는 콘텐츠를 추가합니다.
+    하지만 게임 경험은 여전히 좋을 것입니다.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    City Game Studio에 균형 잡힌 콘텐츠를 추가합니다.
+    우수한 게임 경험을 보장합니다.
+  TOOLTIP_MOD_ADD_REALISM: |
+    게임 요소의 이름을 변경하여 현실감을 추가합니다.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    이벤트, 콘솔 등과 같은 새로운 요소를 게임에 추가합니다...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: 구독한 모드만 표시
   LABEL_MOD_UNSUBSCRIBE: 구독 취소
   LABEL_MOD_BRANCH: 스팀 브랜치(베타)
@@ -1193,15 +1241,19 @@ ko:
   LABEL_SERVER_USAGE_THRESHOLD: >
     실시간 자원 사용량이 임곗값에 도달하는 즉시, 새로운 서버를 임차합니다.
   LABEL_STEAM_TRYING_TO_REACH: |
-    Steam에 연결하려고 합니다.
-    Steam이 실행 중이고 로그인되어 있는지 확인하세요.
-
-    문제가 지속되면 Steam에 다시 로그인하세요.
+    City Game Studio가 Steam을 초기화하려고 시도 중입니다:
+    - Steam이 실행 중인지 확인하세요
+    - Steam에서 로그아웃한 후 다시 로그인하세요
+    - 바이러스 백신을 비활성화하고 컴퓨터를 재시작하세요
+    
+    문제가 계속되면 Steam 포럼을 방문하여 도움을 받으세요.
   LABEL_STEAM_NOT_DETECTED: |
-    스팀에 연결할 수 없습니다.
-
-    스팀을 다시 시작해보시고, 문제가 지속되면 아래의 이메일로 연락해 주십시오.
-    contact@binogure-studio.com
+    Steam을 초기화할 수 없습니다:
+    - Steam이 실행 중인지 확인하세요
+    - Steam에서 로그아웃한 후 다시 로그인하세요
+    - 바이러스 백신을 비활성화하고 컴퓨터를 재시작하세요
+    
+    문제가 계속되면 Steam 포럼을 방문하여 도움을 받으세요.
   LABEL_ONLINE_GAMES: 온라인 멀티플레이
   LABEL_CLOUD_SERVER: >
     클라우드 컴퓨팅은 실시간으로 사용자에 요청에 따라, 컴퓨팅 자원을 제공하는 기술입니다.

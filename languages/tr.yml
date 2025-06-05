@@ -1,5 +1,7 @@
 tr:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: Atamaları sıfırla
+  BUTTON_TRANSFERT_STAFF: Çalışanları şuraya aktar...
   BUTTON_RENAME: Yeniden Adlandır
   BUTTON_DISABLE_TUTORIEL: Öğreticiyi devre dışı bırak
   BUTTON_ACQUIRE: Edinme
@@ -104,8 +106,38 @@ tr:
   BUTTON_FETCH_TOKEN: Belirteç al
   BUTTON_MAIN_MENU_NO_SAVE: Kaydetmeden ana menü
   BUTTON_EXIT_NO_SAVE: Kaydetmeden çık
+  BUTTON_MAX_OUT_DEVKIT: Geliştirme kiti miktarını maksimuma çıkar
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Özel anlaşma süresini maksimuma çıkar
+  BUTTON_SCHEDULE_AUTO: Otomatik atama
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: Şirket %s'da kuruldu
+  LABEL_FIRST_GAME_ENGINE_DATE: İlk oyun motoru
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: İlk satın alınan stüdyo
+  LABEL_DIGITAL_STORE_CREATION_DATE: Dijital mağaza oluşturuldu
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: İlk konsol piyasaya sürüldü
+  LABEL_FANBASE_THRESHOLD_DATE: "%s hayran sayısına ulaşıldı"
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: Dijital mağaza kullanıcıları
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: Oluşturulan konsollar
+  LABEL_AMOUNT_EDITED_REMAKE: Yayınlanan yeniden yapımlar
+  LABEL_AMOUNT_OF_GOTY: Yılın Oyunu ödülleri
+  LABEL_AMOUNT_OF_GAME_ENGINE: Geliştirilen oyun motorları
+  LABEL_AMOUNT_OF_EMPLOYEE: Çalışanlar
+  LABEL_AMOUNT_OF_GAMEPORT: Oyun portları
+  LABEL_AMOUNT_OF_GAMES: Yayınlanan oyunlar
+  LABEL_AMOUNT_OF_STUDIOS: Stüdyolar
+  LABEL_AMOUNT_OF_CONVENTIONS: Katılınan fuarlar
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    Çalışanları otomatik olarak atar.
+
+    Tasarımcılar tasarım görevlerine, geliştiriciler geliştirme görevlerine
+    ve test uzmanları parlatma görevlerine atanacaktır.
+
+    Stüdyoları dengelemeye çalışırken.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    Çalışan atamalarını sıfırlar.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    5'ten az çalışanı olan stüdyolarda otomatik atama mümkün değildir.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     Stüdyo alanı orijinal stüdyodan daha küçük.
     Bu nedenle, hedef stüdyonun mobilya düzenini kopyalamak mümkün değil.
@@ -578,6 +610,9 @@ tr:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Tahmini oyun sayısı
   LABEL_NUMBER_OF_DEVKITS: Geliştirme Kiti Sayısı
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Kalan geliştirme kitlerinin sayısı
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Rakip stüdyolara geliştirme kitleri göndererek ve özel anlaşmalar yaparak özel oyunlar elde edin.
+    Güçlü bir oyun kataloğu, konsolunuzun başarısını doğrudan etkiler - kütüphaneniz ne kadar çeşitli ve kapsamlı olursa, satışlarınız o kadar güçlü olacaktır.
   LABEL_EXCLUSIVITY_DURATION: Özel süre
   LABEL_FILTER_NONE: Hiçbiri
   LABEL_FILTER_ONLY_NO_CONTRACTS: Sözleşmesiz
@@ -859,6 +894,19 @@ tr:
   LABEL_DETAILS_HIDDEN: Tüm grafikleri ve ayrıntıları gizle
   LABEL_AUTO_ADJUST: Otomatik olarak ayarla
   LABEL_MISC_SETTINGS: Diğer ayarlar
+  TOOLTIP_MOD_BAD_QUALITY: |
+    City Game Studio'nun dengesini bozan içerik ekler.
+    Bu, bu mod tarafından eklenen etkinliklerden, konsollardan veya konsol bileşenlerinden kaynaklanabilir.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    City Game Studio'nun dengesini potansiyel olarak bozabilecek içerik ekler.
+    Ancak oyun deneyimi yine de iyi olmalıdır.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    City Game Studio'ya dengeli içerik ekler.
+    Mükemmel bir oyun deneyimi garantiler.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Oyun öğelerini yeniden adlandırarak gerçekçilik katar.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Oyuna etkinlikler, konsollar gibi yeni öğeler ekler...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Yalnızca abone olduğunuz modları göster
   LABEL_MOD_UNSUBSCRIBE: Abonelikten çık
   LABEL_MOD_BRANCH: Steam şubeleri
@@ -1200,16 +1248,19 @@ tr:
   LABEL_SERVER_USAGE_THRESHOLD: >
     Yeni sunucular, sunucular yüklendiğinde bu eşiğe ulaşır ulaşmaz kiralayın:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Steam'e ulaşmaya çalışıyorum.
-    Steam'in çalıştığından ve giriş yaptığınızdan emin olun.
-
-    Sorun devam ederse, lütfen Steam'e tekrar giriş yapın.
+    City Game Studio Steam'i başlatmaya çalışıyor:
+    - Steam'in çalıştığından emin olun
+    - Steam'den çıkış yapın ve yeniden giriş yapın
+    - Antivirüs programınızı devre dışı bırakın ve bilgisayarınızı yeniden başlatın
+    
+    Sorun devam ederse, yardım için Steam forumunu ziyaret edin.
   LABEL_STEAM_NOT_DETECTED: |
-    Steam'a ulaşılamıyor.
-
-    Lütfen Steam'i yeniden başlatın.
-    Sorun devam ederse, lütfen bizimle iletişime geçin:
-    contact@binogure-studio.com
+    Steam başlatılamıyor:
+    - Steam'in çalıştığından emin olun
+    - Steam'den çıkış yapın ve yeniden giriş yapın
+    - Antivirüs programınızı devre dışı bırakın ve bilgisayarınızı yeniden başlatın
+    
+    Sorun devam ederse, yardım için Steam forumunu ziyaret edin.
   LABEL_ONLINE_GAMES: Çevrimiçi oyunlar
   LABEL_CLOUD_SERVER: >
     Bulut bilişim, bilgisayar sistemi kaynaklarının isteğe bağlı kullanılabilirliğidir

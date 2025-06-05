@@ -1,5 +1,7 @@
 cs:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: Resetovat úkoly
+  BUTTON_TRANSFERT_STAFF: Přesunout zaměstnance do...
   BUTTON_RENAME: Přejmenovat
   BUTTON_DISABLE_TUTORIEL: Vypnout tutoriál
   BUTTON_ACQUIRE: Odkoupit
@@ -104,8 +106,38 @@ cs:
   BUTTON_FETCH_TOKEN: Získat token
   BUTTON_MAIN_MENU_NO_SAVE: Hlavní menu bez ukládání
   BUTTON_EXIT_NO_SAVE: Ukončit bez ukládání
+  BUTTON_MAX_OUT_DEVKIT: Maximalizovat počet vývojářských kitů
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximalizovat dobu trvání exkluzivity
+  BUTTON_SCHEDULE_AUTO: Automatické přiřazení
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: Společnost založena v roce %s
+  LABEL_FIRST_GAME_ENGINE_DATE: První herní engine
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: První získané studio
+  LABEL_DIGITAL_STORE_CREATION_DATE: Digitální obchod vytvořen
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: První vydaná konzole
+  LABEL_FANBASE_THRESHOLD_DATE: Dosaženo %s fanoušků
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: Uživatelé digitálního obchodu
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: Vytvořené konzole
+  LABEL_AMOUNT_EDITED_REMAKE: Vydané remakey
+  LABEL_AMOUNT_OF_GOTY: Ocenění Hra roku
+  LABEL_AMOUNT_OF_GAME_ENGINE: Vyvinuté herní enginy
+  LABEL_AMOUNT_OF_EMPLOYEE: Zaměstnanci
+  LABEL_AMOUNT_OF_GAMEPORT: Portované hry
+  LABEL_AMOUNT_OF_GAMES: Vydané hry
+  LABEL_AMOUNT_OF_STUDIOS: Studia
+  LABEL_AMOUNT_OF_CONVENTIONS: Navštívené konvence
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    Automaticky přiřadí zaměstnance.
+
+    Designéři budou přiřazeni k designérským úkolům, vývojáři k vývojovým úkolům
+    a testeři k úkolům spojených s ladněním.
+
+    Přitom se snaží vyvážit studia.
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    Resetuje přiřazení zaměstnanců.
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    Nemožné automaticky přiřadit zaměstnance ve studiích s méně než 5 zaměstnanci.
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     Plocha studia je menší než plocha původního studia.
     Proto není možné zkopírovat rozmístění nábytku cílového studia.
@@ -576,6 +608,9 @@ cs:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: Odhadované množství her
   LABEL_NUMBER_OF_DEVKITS: Množství devkitů
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Množství zbývajících devkitů
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    Zajistěte si exkluzivní hry zasíláním vývojářských kitů a vyjednáváním exkluzivních smluv s konkurenčními studii.
+    Robustní katalog her přímo pohání úspěch vaší konzole - čím rozmanitější a rozsáhlejší je vaše knihovna, tím silnější budou vaše prodeje.
   LABEL_EXCLUSIVITY_DURATION: Trvání exkluzivity
   LABEL_FILTER_NONE: Žádný
   LABEL_FILTER_ONLY_NO_CONTRACTS: Bez smlouvy
@@ -857,6 +892,19 @@ cs:
   LABEL_DETAILS_HIDDEN: Schovat všechny grafy a podrobnosti
   LABEL_AUTO_ADJUST: Automaticky nastavit
   LABEL_MISC_SETTINGS: Různá nastavení
+  TOOLTIP_MOD_BAD_QUALITY: |
+    Přidává obsah, který narušuje rovnováhu City Game Studio.
+    Může to pocházet z událostí, konzolí nebo komponentů konzolí, které jsou přidány tímto modem.
+  TOOLTIP_MOD_POOR_QUALITY: |
+    Přidává obsah, který by potenciálně mohl narušit rovnováhu City Game Studio.
+    Herní zážitek by však měl být stále dobrý.
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    Přidává vyvážený obsah do City Game Studio.
+    Zaručuje vynikající herní zážitek.
+  TOOLTIP_MOD_ADD_REALISM: |
+    Přidává realismus přejmenováním prvků hry.
+  TOOLTIP_MOD_ADD_CONTENT: |
+    Přidává do hry nové prvky, jako jsou události, konzole...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Ukázat pouze modifikace, které odebíráte
   LABEL_MOD_UNSUBSCRIBE: Přestat odebírat
   LABEL_MOD_BRANCH: Větve Steam
@@ -1196,16 +1244,19 @@ cs:
   LABEL_SERVER_USAGE_THRESHOLD: >
     Pronajmout nové servery hned, jak jejich zatíženost překročí tuto hranici:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Snaha o dosažení služby Steam.
-    Zkontrolujte, zda je služba Steam spuštěna a zda jste přihlášeni.
-
-    Pokud problém přetrvává, přihlaste se do služby Steam znovu.
+    City Game Studio se pokouší inicializovat Steam:
+    - Ujistěte se, že je Steam spuštěn
+    - Odhlaste se a znovu se přihlaste do Steamu
+    - Vypněte antivirový program a restartujte počítač
+    
+    Pokud problém přetrvává, navštivte Steam fórum pro pomoc.
   LABEL_STEAM_NOT_DETECTED: |
-    Steam nemůže být dosažen.
-
-    Prosím, restartujte Steam.
-    Pokud problém přetrvává, kontaktujte nás prosím na adrese:
-    contact@binogure-studio.com
+    Nelze inicializovat Steam:
+    - Ujistěte se, že je Steam spuštěn
+    - Odhlaste se a znovu se přihlaste do Steamu
+    - Vypněte antivirový program a restartujte počítač
+    
+    Pokud problém přetrvává, navštivte Steam fórum pro pomoc.
   LABEL_ONLINE_GAMES: Online hry
   LABEL_CLOUD_SERVER: >
     Cloudová výpočetní kapacita je dostupnost serverových zdrojů závislá na poptávce

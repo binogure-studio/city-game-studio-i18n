@@ -1,5 +1,7 @@
 ja:
   # Buttons actions verbs
+  BUTTON_RESET_SCHEDULE: 割り当てリセット
+  BUTTON_TRANSFERT_STAFF: スタッフを転送先へ...
   BUTTON_RENAME: 名前を変更
   BUTTON_DISABLE_TUTORIEL: チュートリアルを無効にする
   BUTTON_ACQUIRE: アクワイア
@@ -104,8 +106,38 @@ ja:
   BUTTON_FETCH_TOKEN: トークン取得
   BUTTON_MAIN_MENU_NO_SAVE: 保存せずにメインメニュー
   BUTTON_EXIT_NO_SAVE: 保存せずに終了する
+  BUTTON_MAX_OUT_DEVKIT: 開発キットの数を最大化
+  BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 独占契約期間を最大化
+  BUTTON_SCHEDULE_AUTO: 自動割り当て
 
   # Labels, descriptive
+  LABEL_COMPANY_FOUNDED_IN: "%s年に創業"
+  LABEL_FIRST_GAME_ENGINE_DATE: 初のゲームエンジン
+  LABEL_FIRST_STUDIO_BOUGHT_DATE: 初のスタジオ買収
+  LABEL_DIGITAL_STORE_CREATION_DATE: デジタルストア開設
+  LABEL_FIRST_CUSTOM_PLATFORM_DATE: 初のコンソール発売
+  LABEL_FANBASE_THRESHOLD_DATE: ファン%s人達成
+  LABEL_NUMBER_OF_ONLINE_USER_DIGITAL_STORE: デジタルストアユーザー数
+  LABEL_AMOUNT_OF_PLATFORM_CREATED: 開発したコンソール
+  LABEL_AMOUNT_EDITED_REMAKE: 発売したリメイク
+  LABEL_AMOUNT_OF_GOTY: 年間ゲーム大賞
+  LABEL_AMOUNT_OF_GAME_ENGINE: 開発したゲームエンジン
+  LABEL_AMOUNT_OF_EMPLOYEE: 従業員数
+  LABEL_AMOUNT_OF_GAMEPORT: 移植したゲーム
+  LABEL_AMOUNT_OF_GAMES: 発売したゲーム
+  LABEL_AMOUNT_OF_STUDIOS: スタジオ数
+  LABEL_AMOUNT_OF_CONVENTIONS: 参加した展示会
+  TOOLTIP_STAFF_SCHEDULE_AUTO: |
+    従業員を自動的に割り当てます。
+
+    デザイナーはデザイン作業に、開発者は開発作業に、
+    テスターは品質向上作業に割り当てられます。
+
+    スタジオのバランスを取るよう努めます。
+  TOOLTIP_STAFF_SCHEDULE_RESET: |
+    従業員の割り当てをリセットします。
+  TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
+    5人未満の従業員のスタジオでは自動割り当てできません。
   TOOLTIP_STUDIO_AREA_TOO_SMALL: |
     スタジオの面積が元のスタジオより小さいです。
     そのため、対象スタジオの家具レイアウトをコピーすることができません。
@@ -575,6 +607,9 @@ ja:
   LABEL_AMOUNT_EDITED_GAME_ESTIMATION: 推定ゲーム数
   LABEL_NUMBER_OF_DEVKITS: 開発キットの数
   LABEL_NUMBER_OF_DEVKITS_REMAINING: 残りの開発キットの数
+  LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
+    開発キットを送り、ライバルスタジオと独占契約を交渉することで、独占ゲームを確保しましょう。
+    充実したゲームカタログは、コンソールの成功を直接後押しします - ライブラリが多様で幅広いほど、売上は強くなります。
   LABEL_EXCLUSIVITY_DURATION: 独占期間
   LABEL_FILTER_NONE: なし
   LABEL_FILTER_ONLY_NO_CONTRACTS: 契約なし
@@ -855,6 +890,19 @@ ja:
   LABEL_DETAILS_HIDDEN: すべてのチャートと詳細を隠す
   LABEL_AUTO_ADJUST: 自動調整
   LABEL_MISC_SETTINGS: 各種設定
+  TOOLTIP_MOD_BAD_QUALITY: |
+    City Game Studioのバランスを崩すコンテンツを追加します。
+    これは、このModによって追加されるイベント、コンソール、またはコンソールコンポーネントから生じる可能性があります。
+  TOOLTIP_MOD_POOR_QUALITY: |
+    City Game Studioのバランスを崩す可能性のあるコンテンツを追加します。
+    しかし、ゲーム体験は依然として良好であるはずです。
+  TOOLTIP_MOD_GOOD_QUALITY: |
+    City Game Studioにバランスの取れたコンテンツを追加します。
+    優れたゲーム体験を保証します。
+  TOOLTIP_MOD_ADD_REALISM: |
+    ゲーム要素の名前を変更することでリアリズムを追加します。
+  TOOLTIP_MOD_ADD_CONTENT: |
+    イベント、コンソールなどの新しい要素をゲームに追加します...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: 購読しているMODのみを表示する
   LABEL_MOD_UNSUBSCRIBE: 登録解除
   LABEL_MOD_BRANCH: ブランチ(Steam)
@@ -1196,16 +1244,19 @@ ja:
   LABEL_SERVER_USAGE_THRESHOLD: >
     サーバの負荷がこのしきい値に達した場合、すぐに新しいサーバをレンタルします:
   LABEL_STEAM_TRYING_TO_REACH: |
-    Steamに接続しようとしています。
-    Steamが起動しており、ログインしていることを確認してください。
-
-    問題が解決しない場合は、Steam に再度ログインしてください。
+    City Game Studioが Steamの初期化を試みています:
+    - Steamが起動していることを確認してください
+    - Steamからログアウトし、再度ログインしてください
+    - ウイルス対策ソフトを無効にしてコンピューターを再起動してください
+    
+    問題が解決しない場合は、Steamフォーラムでサポートを受けてください。
   LABEL_STEAM_NOT_DETECTED: |
-    Steam に接続できません。
-
-    Steam を再起動してください。
-    それでも問題が解決しない場合は以下にお問い合わせください:
-    contact@binogure-studio.com
+    Steamを初期化できません:
+    - Steamが起動していることを確認してください
+    - Steamからログアウトし、再度ログインしてください
+    - ウイルス対策ソフトを無効にしてコンピューターを再起動してください
+    
+    問題が解決しない場合は、Steamフォーラムでサポートを受けてください。
   LABEL_ONLINE_GAMES: オンラインゲーム
   LABEL_CLOUD_SERVER: >
     クラウドコンピューティングとは、コンピュータシステムのリソースを要求に応じて利用することです。
