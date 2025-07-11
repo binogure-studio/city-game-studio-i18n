@@ -1,5 +1,6 @@
 de:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Immer an der Spitze
   BUTTON_RESET_SCHEDULE: Resetovat úkoly
   BUTTON_TRANSFERT_STAFF: Mitarbeiter übertragen nach...
   BUTTON_RENAME: Umbenennen
@@ -109,8 +110,14 @@ de:
   BUTTON_MAX_OUT_DEVKIT: Anzahl der Entwicklerkits maximieren
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Exklusivitätsdauer maximieren
   BUTTON_SCHEDULE_AUTO: Automatische Zuteilung
+  BUTTON_HISTORICAL_MODE: Historischer Modus
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Historischer Modus:
+    
+    • Aktiviert: Völlige Treue zur realen Videospielgeschichte
+    • Deaktiviert: Konkurrenten können ihre eigenen Konsolen erstellen    
   LABEL_COMPANY_FOUNDED_IN: Unternehmen gegründet in %s
   LABEL_FIRST_GAME_ENGINE_DATE: Erste Spiel-Engine
   LABEL_FIRST_STUDIO_BOUGHT_DATE: Erstes Studio erworben
@@ -1117,6 +1124,7 @@ de:
   LABEL_MONEY_LOSER: Nicht profitabel
   LABEL_SELECT_ALL: Wählen Sie Alle
   LABEL_SELECT_NONE: Nichts auswählen
+  LABEL_SELECT_UNASSIGNED: Nicht zugewiesene Mitarbeiter auswählen
   LABEL_FREE_GAME: Kostenlos
   LABEL_SUBSCRIPTION_PRICE: Abo-Preis
   LABEL_GAME_PRICE: Spielpreis

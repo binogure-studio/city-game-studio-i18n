@@ -1,5 +1,6 @@
 pl:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Zawsze na szczycie
   BUTTON_RESET_SCHEDULE: Resetuj przydziały
   BUTTON_TRANSFERT_STAFF: Przenieś pracowników do...
   BUTTON_RENAME: Zmień nazwę
@@ -109,8 +110,14 @@ pl:
   BUTTON_MAX_OUT_DEVKIT: Zmaksymalizuj liczbę zestawów deweloperskich
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Zmaksymalizuj czas trwania umowy na wyłączność
   BUTTON_SCHEDULE_AUTO: Automatyczne przydzielanie
+  BUTTON_HISTORICAL_MODE: Tryb historyczny
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Tryb historyczny:
+  
+    • Włączony: Pełna wierność prawdziwej historii gier wideo
+    • Wyłączony: Konkurenci mogą tworzyć własne konsole
   LABEL_COMPANY_FOUNDED_IN: Firma założona w %s
   LABEL_FIRST_GAME_ENGINE_DATE: Pierwszy silnik gry
   LABEL_FIRST_STUDIO_BOUGHT_DATE: Pierwsze nabyte studio
@@ -1099,6 +1106,7 @@ pl:
   LABEL_MONEY_LOSER: Nieopłacalne
   LABEL_SELECT_ALL: Wybierz wszystko
   LABEL_SELECT_NONE: Nic nie wybieraj
+  LABEL_SELECT_UNASSIGNED: Wybierz nieprzypisanych pracowników
   LABEL_FREE_GAME: Bezpłatnie
   LABEL_SUBSCRIPTION_PRICE: Cena subskrypcji
   LABEL_GAME_PRICE: Cena gry

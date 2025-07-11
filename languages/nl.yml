@@ -1,5 +1,6 @@
 nl:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Altijd aan de top
   BUTTON_RESET_SCHEDULE: Toewijzingen resetten
   BUTTON_TRANSFERT_STAFF: Medewerkers verplaatsen naar...
   BUTTON_RENAME: Hernoemen
@@ -109,8 +110,14 @@ nl:
   BUTTON_MAX_OUT_DEVKIT: Maximaliseer aantal ontwikkelkits
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximaliseer duur van exclusiviteitscontract
   BUTTON_SCHEDULE_AUTO: Automatische toewijzing
+  BUTTON_HISTORICAL_MODE: Historische modus
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Historische modus:
+  
+    • Ingeschakeld: Volledige trouw aan de echte videogamegeschiedenis
+    • Uitgeschakeld: Concurrenten kunnen hun eigen consoles maken
   LABEL_COMPANY_FOUNDED_IN: Bedrijf opgericht in %s
   LABEL_FIRST_GAME_ENGINE_DATE: Eerste game-engine
   LABEL_FIRST_STUDIO_BOUGHT_DATE: Eerste studio verworven
@@ -1110,6 +1117,7 @@ nl:
   LABEL_MONEY_LOSER: Niet winstgevend
   LABEL_SELECT_ALL: Selecteer alles
   LABEL_SELECT_NONE: Kies niets
+  LABEL_SELECT_UNASSIGNED: Niet-toegewezen medewerkers selecteren
   LABEL_FREE_GAME: Gratis
   LABEL_SUBSCRIPTION_PRICE: Abonnements prijs
   LABEL_GAME_PRICE: Game prijs

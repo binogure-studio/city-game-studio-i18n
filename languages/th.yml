@@ -1,5 +1,6 @@
 th:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Always on top
   BUTTON_RESET_SCHEDULE: รีเซ็ตการมอบหมาย
   BUTTON_TRANSFERT_STAFF: โอนพนักงานไปยัง...
   BUTTON_RENAME: Rename
@@ -109,8 +110,14 @@ th:
   BUTTON_MAX_OUT_DEVKIT: Maximize development kit quantity
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximize exclusivity contract length
   BUTTON_SCHEDULE_AUTO: การมอบหมายอัตโนมัติ
+  BUTTON_HISTORICAL_MODE: โหมดประวัติศาสตร์
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    โหมดประวัติศาสตร์:
+  
+    • เปิดใช้งาน: ซื่อสัตย์ต่อประวัติศาสตร์วิดีโอเกมจริงอย่างสมบูรณ์
+    • ปิดใช้งาน: คู่แข่งสามารถสร้างเครื่องเกมของตนเองได้
   LABEL_COMPANY_FOUNDED_IN: บริษัทก่อตั้งในปี %s
   LABEL_FIRST_GAME_ENGINE_DATE: เอนจินเกมแรก
   LABEL_FIRST_STUDIO_BOUGHT_DATE: สตูดิโอแรกที่ซื้อ
@@ -1100,6 +1107,7 @@ th:
   LABEL_MONEY_LOSER: ไม่ได้กำไร
   LABEL_SELECT_ALL: เลือกทั้งหมด
   LABEL_SELECT_NONE: ไม่เลือกอะไรเลย
+  LABEL_SELECT_UNASSIGNED: เลือกพนักงานที่ยังไม่ได้มอบหมาย
   LABEL_FREE_GAME: Free of charge
   LABEL_SUBSCRIPTION_PRICE: Subscription price
   LABEL_GAME_PRICE: ราคาเกม

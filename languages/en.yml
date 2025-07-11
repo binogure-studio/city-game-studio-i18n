@@ -1,5 +1,6 @@
 en:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Always on top
   BUTTON_RESET_SCHEDULE: Reset Assignments
   BUTTON_TRANSFERT_STAFF: Transfer employees to...
   BUTTON_RENAME: Rename
@@ -109,8 +110,14 @@ en:
   BUTTON_MAX_OUT_DEVKIT: Maximize development kit quantity
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximize exclusivity contract length
   BUTTON_SCHEDULE_AUTO: Auto Assignment
+  BUTTON_HISTORICAL_MODE: Historical Mode
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Historical Mode:
+  
+    • Enabled: Total fidelity to real video game history
+    • Disabled: Competitors can create their own consoles
   LABEL_COMPANY_FOUNDED_IN: Company founded in %s
   LABEL_FIRST_GAME_ENGINE_DATE: First game engine
   LABEL_FIRST_STUDIO_BOUGHT_DATE: First studio acquired
@@ -1096,6 +1103,7 @@ en:
   LABEL_MONEY_LOSER: Not profitable
   LABEL_SELECT_ALL: Select all
   LABEL_SELECT_NONE: Select nothing
+  LABEL_SELECT_UNASSIGNED: Select unassigned employees
   LABEL_FREE_GAME: Free of charge
   LABEL_SUBSCRIPTION_PRICE: Subscription price
   LABEL_GAME_PRICE: Game price

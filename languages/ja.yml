@@ -1,5 +1,6 @@
 ja:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: 常にトップ
   BUTTON_RESET_SCHEDULE: 割り当てリセット
   BUTTON_TRANSFERT_STAFF: スタッフを転送先へ...
   BUTTON_RENAME: 名前を変更
@@ -109,8 +110,14 @@ ja:
   BUTTON_MAX_OUT_DEVKIT: 開発キットの数を最大化
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 独占契約期間を最大化
   BUTTON_SCHEDULE_AUTO: 自動割り当て
+  BUTTON_HISTORICAL_MODE: 歴史モード
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    歴史モード：
+  
+    • 有効：実際のビデオゲーム史に完全に忠実
+    • 無効：競合他社が独自のコンソールを作成可能
   LABEL_COMPANY_FOUNDED_IN: "%s年に創業"
   LABEL_FIRST_GAME_ENGINE_DATE: 初のゲームエンジン
   LABEL_FIRST_STUDIO_BOUGHT_DATE: 初のスタジオ買収
@@ -1098,6 +1105,7 @@ ja:
   LABEL_MONEY_LOSER: 収益性が低い
   LABEL_SELECT_ALL: 全て選択
   LABEL_SELECT_NONE: 何も選択しない
+  LABEL_SELECT_UNASSIGNED: 未配属の従業員を選択
   LABEL_FREE_GAME: 無料配布
   LABEL_SUBSCRIPTION_PRICE: サブスクリプション価格
   LABEL_GAME_PRICE: ゲーム価格

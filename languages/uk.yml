@@ -1,5 +1,6 @@
 uk:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Завжди на висоті
   BUTTON_RESET_SCHEDULE: Скинути призначення
   BUTTON_TRANSFERT_STAFF: Перевести працівників до...
   BUTTON_RENAME: Перейменувати
@@ -109,8 +110,14 @@ uk:
   BUTTON_MAX_OUT_DEVKIT: Максимізувати кількість девкітів
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Максимізувати тривалість ексклюзивного контракту
   BUTTON_SCHEDULE_AUTO: Автоматичне призначення
+  BUTTON_HISTORICAL_MODE: Історичний режим
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Історичний режим:
+  
+    • Увімкнено: Повна відповідність реальній історіï відеоігор
+    • Вимкнено: Конкуренти можуть створювати власні консолі
   LABEL_COMPANY_FOUNDED_IN: Компанія заснована в %s
   LABEL_FIRST_GAME_ENGINE_DATE: Перший ігровий рушій
   LABEL_FIRST_STUDIO_BOUGHT_DATE: Перша придбана студія
@@ -121,11 +128,11 @@ uk:
   LABEL_AMOUNT_OF_PLATFORM_CREATED: Створені консолі
   LABEL_AMOUNT_EDITED_REMAKE: Випущені ремейки
   LABEL_AMOUNT_OF_GOTY: Нагороди "Гра року"
-  LABEL_AMOUNT_OF_GAME_ENGINE: Розроблені ігрові рушії
+  LABEL_AMOUNT_OF_GAME_ENGINE: Розроблені ігрові рушіï
   LABEL_AMOUNT_OF_EMPLOYEE: Співробітники
   LABEL_AMOUNT_OF_GAMEPORT: Ігрові порти
   LABEL_AMOUNT_OF_GAMES: Випущені ігри
-  LABEL_AMOUNT_OF_STUDIOS: Студії
+  LABEL_AMOUNT_OF_STUDIOS: Студіï
   LABEL_AMOUNT_OF_CONVENTIONS: Відвідані виставки
   TOOLTIP_STAFF_SCHEDULE_AUTO: |
     Автоматично призначає співробітників.
@@ -133,7 +140,7 @@ uk:
     Дизайнери будуть призначені на задачі дизайну, розробники на задачі розробки,
     а тестувальники на задачі поліровки.
 
-    При цьому намагається збалансувати студії.
+    При цьому намагається збалансувати студіh.
   TOOLTIP_STAFF_SCHEDULE_RESET: |
     Скидає призначення співробітників.
   TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
@@ -160,7 +167,7 @@ uk:
     Дозволити директору студiï залучати спецiалiстiв.
     Це означає, що директор студiï завжди намагається використовувати тих спецiалiстiв, якi доступнi серед дозволених тут.
     Отже, якщо директору студiï дозволено використовувати бухгалтерiв, вiн призначатиме ïх на своï iгри доти, доки вони будуть доступнi.
-  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Приховати недоступні студії
+  LABEL_HIDE_STUDIO_NOT_AVAILABLE: Приховати недоступні студіï
   LABEL_IF_POSSIBLE: "(якщо можливо)"
   LABEL_PREFER_MANUAL_SELECTION: Обери себе
   LABEL_PREFER_NEW_TYPE: Жанр гри не освоєний
@@ -614,7 +621,7 @@ uk:
   LABEL_NUMBER_OF_DEVKITS_REMAINING: Кiлькiсть залишених наборiв для розробки
   LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
     Забезпечте ексклюзивні ігри, надсилаючи девкіти та укладаючи ексклюзивні угоди з конкуруючими студіями.
-    Потужний каталог ігор безпосередньо сприяє успіху вашої консолі - чим різноманітніша та обширніша ваша бібліотека, тим сильнішими будуть ваші продажі.
+    Потужний каталог ігор безпосередньо сприяє успіху вашоï консолі - чим різноманітніша та обширніша ваша бібліотека, тим сильнішими будуть ваші продажі.
   LABEL_EXCLUSIVITY_DURATION: Тривалiсть ексклюзивностi
   LABEL_FILTER_NONE: Немає
   LABEL_FILTER_ONLY_NO_CONTRACTS: Без контракту
@@ -907,7 +914,7 @@ uk:
   TOOLTIP_MOD_ADD_REALISM: |
     Додає реалізм, перейменовуючи елементи гри.
   TOOLTIP_MOD_ADD_CONTENT: |
-    Додає нові елементи в гру, такі як події, консолі...
+    Додає нові елементи в гру, такі як подіï, консолі...
   LABEL_MOD_FILTER_SUBSCRIBED_ONLY: Показувати лише пiдписанi моди
   LABEL_MOD_UNSUBSCRIBE: Вiдписатися вiд розсилки
   LABEL_MOD_BRANCH: Гiлка Steam
@@ -1105,6 +1112,7 @@ uk:
   LABEL_MONEY_LOSER: Неприбутковий
   LABEL_SELECT_ALL: Вибрати все
   LABEL_SELECT_NONE: Не вибирати нiчого
+  LABEL_SELECT_UNASSIGNED: Вибрати непризначених працівників
   LABEL_FREE_GAME: Безкоштовно
   LABEL_SUBSCRIPTION_PRICE: Вартiсть пiдписки
   LABEL_GAME_PRICE: Цiна гри

@@ -1,5 +1,6 @@
 ru:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Всегда на высоте
   BUTTON_RESET_SCHEDULE: Сбросить назначения
   BUTTON_TRANSFERT_STAFF: Перевести сотрудников в...
   BUTTON_RENAME: Переименовать
@@ -109,8 +110,14 @@ ru:
   BUTTON_MAX_OUT_DEVKIT: Максимизировать количество девкитов
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Максимизировать срок эксклюзивного контракта
   BUTTON_SCHEDULE_AUTO: Автоматическое назначение
+  BUTTON_HISTORICAL_MODE: Исторический режим
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Исторический режим:
+  
+    • Включён: Полное соответствие реальной истории видеоигр
+    • Отключён: Конкуренты могут создавать собственные консоли
   LABEL_COMPANY_FOUNDED_IN: Компания основана в %s
   LABEL_FIRST_GAME_ENGINE_DATE: Первый игровой движок
   LABEL_FIRST_STUDIO_BOUGHT_DATE: Первая приобретенная студия
@@ -1106,6 +1113,7 @@ ru:
   LABEL_MONEY_LOSER: Нерентабельный
   LABEL_SELECT_ALL: Выбрать всё
   LABEL_SELECT_NONE: Ничего не выбирать
+  LABEL_SELECT_UNASSIGNED: Выбрать неназначенных сотрудников
   LABEL_FREE_GAME: Бесплатно
   LABEL_SUBSCRIPTION_PRICE: Стоимость подписки
   LABEL_GAME_PRICE: Цена игры

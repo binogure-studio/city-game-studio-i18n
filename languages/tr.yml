@@ -1,5 +1,6 @@
 tr:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Her zaman zirvede
   BUTTON_RESET_SCHEDULE: Atamaları sıfırla
   BUTTON_TRANSFERT_STAFF: Çalışanları şuraya aktar...
   BUTTON_RENAME: Yeniden Adlandır
@@ -109,8 +110,14 @@ tr:
   BUTTON_MAX_OUT_DEVKIT: Geliştirme kiti miktarını maksimuma çıkar
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Özel anlaşma süresini maksimuma çıkar
   BUTTON_SCHEDULE_AUTO: Otomatik atama
+  BUTTON_HISTORICAL_MODE: Tarihsel Mod
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Tarihsel Mod:
+  
+    • Etkin: Gerçek video oyunu tarihine tam sadakat
+    • Devre dışı: Rakipler kendi konsollarını yaratabilir
   LABEL_COMPANY_FOUNDED_IN: Şirket %s'da kuruldu
   LABEL_FIRST_GAME_ENGINE_DATE: İlk oyun motoru
   LABEL_FIRST_STUDIO_BOUGHT_DATE: İlk satın alınan stüdyo
@@ -1102,6 +1109,7 @@ tr:
   LABEL_MONEY_LOSER: Kârlı değil
   LABEL_SELECT_ALL: Hepsini seç
   LABEL_SELECT_NONE: Hiçbir şey seçme
+  LABEL_SELECT_UNASSIGNED: Atanmamış çalışanları seç
   LABEL_FREE_GAME: Ücretsiz
   LABEL_SUBSCRIPTION_PRICE: Abonelik ücreti
   LABEL_GAME_PRICE: Oyun fiyatı

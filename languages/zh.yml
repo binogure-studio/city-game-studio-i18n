@@ -1,5 +1,6 @@
 zh:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: 始终保持领先
   BUTTON_RESET_SCHEDULE: 重置分配
   BUTTON_TRANSFERT_STAFF: 将员工转移至...
   BUTTON_RENAME: 重命名
@@ -109,8 +110,14 @@ zh:
   BUTTON_MAX_OUT_DEVKIT: 最大化开发套件数量
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 最大化独家协议期限
   BUTTON_SCHEDULE_AUTO: 自动分配
+  BUTTON_HISTORICAL_MODE: 历史模式
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    历史模式：
+  
+    • 启用：完全忠实于真实的电子游戏历史
+    • 禁用：竞争对手可以创建自己的游戏机
   LABEL_COMPANY_FOUNDED_IN: 公司成立于%s年
   LABEL_FIRST_GAME_ENGINE_DATE: 首个游戏引擎
   LABEL_FIRST_STUDIO_BOUGHT_DATE: 首个收购工作室
@@ -1061,6 +1068,7 @@ zh:
   LABEL_MONEY_LOSER: 无利可图
   LABEL_SELECT_ALL: 全选
   LABEL_SELECT_NONE: 全不选
+  LABEL_SELECT_UNASSIGNED: 选择未分配员工
   LABEL_FREE_GAME: 免费的
   LABEL_SUBSCRIPTION_PRICE: 订阅价
   LABEL_GAME_PRICE: 游戏价格

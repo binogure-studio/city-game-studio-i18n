@@ -1,5 +1,6 @@
 cs:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: Vždy na vrcholu
   BUTTON_RESET_SCHEDULE: Resetovat úkoly
   BUTTON_TRANSFERT_STAFF: Přesunout zaměstnance do...
   BUTTON_RENAME: Přejmenovat
@@ -109,8 +110,14 @@ cs:
   BUTTON_MAX_OUT_DEVKIT: Maximalizovat počet vývojářských kitů
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximalizovat dobu trvání exkluzivity
   BUTTON_SCHEDULE_AUTO: Automatické přiřazení
+  BUTTON_HISTORICAL_MODE: Historický režim
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    Historický režim:
+  
+    • Zapnuto: Naprostá věrnost skutečné historii videoher
+    • Vypnuto: Konkurenti mohou vytvářet vlastní konzole
   LABEL_COMPANY_FOUNDED_IN: Společnost založena v roce %s
   LABEL_FIRST_GAME_ENGINE_DATE: První herní engine
   LABEL_FIRST_STUDIO_BOUGHT_DATE: První získané studio
@@ -1098,6 +1105,7 @@ cs:
   LABEL_MONEY_LOSER: Nevýdělečné
   LABEL_SELECT_ALL: Vybrat vše
   LABEL_SELECT_NONE: Nevybrat nic
+  LABEL_SELECT_UNASSIGNED: Vybrat nepřiřazené zaměstnance
   LABEL_FREE_GAME: Zdarma
   LABEL_SUBSCRIPTION_PRICE: Cena předplatného
   LABEL_GAME_PRICE: Cena hry

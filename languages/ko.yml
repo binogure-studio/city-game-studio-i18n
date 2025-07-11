@@ -1,5 +1,6 @@
 ko:
   # Buttons actions verbs
+  BUTTON_ALWAYS_ON_TOP: 항상 최상위
   BUTTON_RESET_SCHEDULE: 할당 초기화
   BUTTON_TRANSFERT_STAFF: 직원 이동하기...
   BUTTON_RENAME: 이름 변경
@@ -109,8 +110,14 @@ ko:
   BUTTON_MAX_OUT_DEVKIT: 개발 키트 수량 최대화
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 독점 계약 기간 최대화
   BUTTON_SCHEDULE_AUTO: 자동 할당
+  BUTTON_HISTORICAL_MODE: 역사 모드
 
   # Labels, descriptive
+  TOOLTIP_HISTORICAL_MODE: |
+    역사 모드:
+  
+    • 활성화: 실제 비디오 게임 역사에 완전히 충실
+    • 비활성화: 경쟁업체가 자체 콘솔을 만들 수 있음
   LABEL_COMPANY_FOUNDED_IN: "%s년 회사 설립"
   LABEL_FIRST_GAME_ENGINE_DATE: 첫 게임 엔진
   LABEL_FIRST_STUDIO_BOUGHT_DATE: 첫 스튜디오 인수
@@ -1090,6 +1097,7 @@ ko:
   LABEL_MONEY_LOSER: 적자
   LABEL_SELECT_ALL: 모두 선택
   LABEL_SELECT_NONE: 선택된 게임이 없습니다.
+  LABEL_SELECT_UNASSIGNED: 미배정 직원 선택
   LABEL_FREE_GAME: 무료
   LABEL_SUBSCRIPTION_PRICE: 정액제 요금
   LABEL_GAME_PRICE: 가격
