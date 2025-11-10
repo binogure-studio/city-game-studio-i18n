@@ -2,9 +2,9 @@
 
 A repository for City Game Studio's translation efforts. There are only two folders:
 
+- **achievements** contains a list of files for every supported languages
 - **languages** contains a list of files for every supported languages
 - [**steam-page**](https://store.steampowered.com/app/726840/City_Game_Studio/) contains two files for every supported languages, one for the short description, one for the long description
-- [**gog-page**](https://www.gog.com/game/city_game_studio_a_tycoon_about_game_dev)
 
 ## Contributing languages
 
