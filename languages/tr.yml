@@ -96,6 +96,8 @@ tr:
   BUTTON_REMAKE_CREATE: Yeniden yapım oluştur
   BUTTON_VIEW_REMAKE: Yeniden çevrimi görüntüle
   BUTTON_VIEW_ORIGINAL_GAME: Orijinal oyunu görüntüle
+  BUTTON_VIEW_GAME: Oyunu görüntüle
+  BUTTON_PUBLISH_GOTY: GOTY yayınla
   BUTTON_ACCEPT: Kabul etmek
   BUTTON_REFUSE: Reddetmek
   BUTTON_IMPORT_IMAGE: Görüntü içe aktarma
@@ -111,8 +113,90 @@ tr:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Özel anlaşma süresini maksimuma çıkar
   BUTTON_SCHEDULE_AUTO: Otomatik atama
   BUTTON_HISTORICAL_MODE: Tarihsel Mod
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: Güncelleme yok
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Tüm oyunları güncelle
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Kendi oyunlarını güncelle
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Sadece tüm oyunları güncelle
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Oyun oluştur
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Oyunları güncelle
+  LABEL_STUDIODIRECTOR_PORT_GAME: Oyunları port et
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Stüdyo yöneticisinin oyun oluşturmasına izin verir.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Stüdyo yöneticisinin oyunları güncellemesine izin verir.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Stüdyo yöneticisinin oyunları port etmesine izin verir.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Oyunu port etmek için minimum platform uyumluluğu
+  LABEL_STUDIODIRECTOR_GAMEPORT: Oyunları diğer konsolara port et
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Port edilecek oyunlar
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Bu stüdyo yöneticisi tarafından üretilen oyunlar
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Port edilebilecek tüm oyunlar
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Her platformun başka bir platformla uyumluluk oranı vardır.
+    Uyumluluk ne kadar yüksekse, port o kadar başarılı olacaktır.
+    Tersine, uyumluluk ne kadar düşükse, portun puanı o kadar düşük olacaktır.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    Bu oyun, tüm pazarlamayı üstlenen başka bir şirketin yardımıyla yayınlandı.
+
+    Bu nedenle indirim veya pazarlama kampanyaları düzenleyemezsiniz.
+  LABEL_OPTION_120_FPS: 120 FPS zorla
+  TOOLTIP_OPTION_120_FPS: |
+    Oyunu saniyede 120 kare görüntülemeye zorlar.
+    Varsayılan olarak oyun saniyede 60 kare görüntüler.
+
+    Bu seçenek dengesizliğe yol açabilir.
+    Sorunlarla karşılaşırsanız devre dışı bırakmayı düşünün.
+  LABEL_OPTION_PARTICLE: Çalışan parçacıkları
+  LABEL_OPTION_SEASON: Mevsim gösterimi
+  TOOLTIP_OPTION_PARTICLE: |
+    Bir çalışan oyun veya başka bir proje için puan ürettiğinde başının üzerinde küçük bir balon görüntüler.
+
+    Bu seçeneği devre dışı bırakmak performansı önemli ölçüde iyileştirebilir.
+  TOOLTIP_OPTION_SEASON: |
+    Şehir haritası mevsimlere göre renk değiştirir.
+
+    Bu seçeneğin performans üzerinde çok az etkisi vardır.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Oyun içi dokuların görüntülenmesini iyileştirir.
+
+    Bu seçeneğin performans üzerinde çok az etkisi vardır.
+  TOOLTIP_OPTION_CLOUDS: |
+    Şehir haritası bulutları gösterir.
+
+    Bu seçeneğin performans üzerinde çok az etkisi vardır.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Kazanan
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Finalistler
+  LABEL_NOMINATED: Aday gösterildi
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    Yılın Oyunu kupası yerleştirmek için oyunlarınızdan birinin Yılın Oyunu ödülünü kazanmış olması gerekir.
+
+    Her galibiyet için bir kupa yerleştirebilirsiniz.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    Bu oyun için Yılın Oyunu sürümünü zaten yayınladınız.
+  TOOLTIP_NOT_UNLOCKED_YET: Henüz kilidi açılmadı
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Oyununuz %s piyasadan kaldırıldı. Bir oyun orada minimum 6 ay kalır, ardından 6 aylık bir süre boyunca ayda 1.000 $'dan az gelir elde ederse otomatik olarak kaldırılır.
+  LABEL_WINDOWED: Pencere
+  LABEL_WINDOWED_BORDERLESS: Kenarsız pencere
+  LABEL_FULLSCREEN_BORDERLESS: Kenarsız tam ekran
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Direktörün güncelleme stratejisini seçin:
+
+    • Güncelleme yok: sadece yeni oyun yaratmaya odaklanır
+    • Sadece kendi oyunları: yalnızca geliştirdiği oyunları günceller
+    • Tüm oyunlar: mevcut tüm katalog için güncellemeleri yönetir
+
+    Güncellemeler tamamlandıktan sonra direktör yeni projelerin geliştirilmesine devam eder.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    En fazla %s stüdyo direktörü işe alabilirsiniz.
+  
+    Oyun dengesini korumak için bu sınır stratejik yönetimi teşvik eder.
+
+    Tavsiye:
+    Daha iddialı projeler geliştirmek için aynı anda birden fazla stüdyoyu
+    denetleyebilecek deneyimli direktörler işe alın!
   TOOLTIP_HISTORICAL_MODE: |
     Tarihsel Mod:
   
@@ -212,6 +296,7 @@ tr:
   LABEL_GET_ALL_STUDIO: Tüm stüdyoları alın
   LABEL_HIRE_ALL: Tüm personeli edinin
   LABEL_GET_ALL_GAME: Tüm oyunları edinin
+  LABEL_GET_ALL_PLATFORM: Tüm platformları edinin
   LABEL_UPCOMING_GAME: Bugün dilek listesine!
   LABEL_BANKER_GOODBYE_MESSAGE: Zamanınız ve dikkatiniz için teşekkür ederim. Nihai kararınıza göre devam edeceğiz. Daha fazla yardıma ihtiyacınız olursa lütfen bize bildirin.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Son birkaç ayda geliştirdiğiniz oyun motorunu satmak istediğinizden emin misiniz? Bu, gelecekteki projelerinize zarar verebilir.
@@ -1101,6 +1186,8 @@ tr:
   LABEL_NO_FILTER: Filtresiz
   LABEL_GAME_UPDATE_EXPECTED: Bir güncelleme bekleniyor
   LABEL_GAME_UPDATE_NOTEXPECTED: Bir güncelleme beklemiyor
+  LABEL_STUDIO_DIRECTOR_PRESENT: Stüdyo direktörü ile yapıldı
+  LABEL_STUDIO_DIRECTOR_ABSENT: Manuel olarak yapıldı
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Aktif pazarlama kampanyası
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Aktif pazarlama kampanyası yok
   LABEL_FANBASE_GAIN: Büyüyen fan tabanı

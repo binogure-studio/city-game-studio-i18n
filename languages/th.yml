@@ -96,6 +96,8 @@ th:
   BUTTON_REMAKE_CREATE: สร้างรีเมค
   BUTTON_VIEW_REMAKE: ดูรีเมค
   BUTTON_VIEW_ORIGINAL_GAME: ดูเกมต้นฉบับ
+  BUTTON_VIEW_GAME: ดูเกม
+  BUTTON_PUBLISH_GOTY: เผยแพร่ GOTY
   BUTTON_ACCEPT: ยอมรับ
   BUTTON_REFUSE: ปฏิเสธ
   BUTTON_IMPORT_IMAGE: นำเข้ารูปภาพ
@@ -111,8 +113,90 @@ th:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximize exclusivity contract length
   BUTTON_SCHEDULE_AUTO: การมอบหมายอัตโนมัติ
   BUTTON_HISTORICAL_MODE: โหมดประวัติศาสตร์
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: ไม่อัปเดต
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: อัปเดตเกมทั้งหมด
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: อัปเดตเกมของตัวเอง
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: อัปเดตเฉพาะเกมทั้งหมด
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: สร้างเกม
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: อัปเดตเกม
+  LABEL_STUDIODIRECTOR_PORT_GAME: พอร์ตเกม
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    อนุญาตให้ผู้อำนวยการสตูดิโอสร้างเกม
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    อนุญาตให้ผู้อำนวยการสตูดิโออัปเดตเกม
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    อนุญาตให้ผู้อำนวยการสตูดิโอพอร์ตเกม
+  LABEL_PLATFORM_COMPATIBILITY_MIN: ความเข้ากันได้ขั้นต่ำของแพลตฟอร์มเพื่อพอร์ตเกม
+  LABEL_STUDIODIRECTOR_GAMEPORT: พอร์ตเกมไปยังคอนโซลอื่น
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: เกมที่จะพอร์ต
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: เกมที่ผลิตโดยผู้อำนวยการสตูดิโอคนนี้
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: เกมทั้งหมดที่สามารถพอร์ตได้
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    แพลตฟอร์มแต่ละแห่งมีอัตราความเข้ากันได้กับแพลตฟอร์มอื่น ยิ่งความเข้ากันได้สูงเท่าไร
+    การพอร์ตก็จะยิ่งประสบความสำเร็จมากขึ้นเท่านั้น ในทางกลับกัน
+    ยิ่งความเข้ากันได้ต่ำเท่าไร คะแนนของการพอร์ตก็จะยิ่งต่ำลงเท่านั้น
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    เกมนี้ถูกเผยแพร่โดยความช่วยเหลือจากบริษัทอื่นที่ดูแลการตลาดทั้งหมด
+
+    ด้วยเหตุนี้ คุณจึงไม่สามารถจัดการลดราคาหรือแคมเปญการตลาดได้
+  LABEL_OPTION_120_FPS: บังคับ 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    บังคับให้เกมแสดง 120 เฟรมต่อวินาที
+    โดยค่าเริ่มต้น เกมจะแสดง 60 เฟรมต่อวินาที
+
+    ตัวเลือกนี้อาจนำไปสู่ความไม่เสถียร
+    หากคุณประสบปัญหา ให้พิจารณาปิดการใช้งาน
+  LABEL_OPTION_PARTICLE: อนุภาคของพนักงาน
+  LABEL_OPTION_SEASON: การแสดงฤดูกาล
+  TOOLTIP_OPTION_PARTICLE: |
+    แสดงฟองเล็กๆ เหนือหัวของพนักงานเมื่อพวกเขาสร้างคะแนนให้กับเกมหรือโปรเจกต์อื่นๆ
+
+    การปิดใช้งานตัวเลือกนี้สามารถปรับปรุงประสิทธิภาพได้อย่างมาก
+  TOOLTIP_OPTION_SEASON: |
+    แผนที่เมืองเปลี่ยนสีตามฤดูกาล
+
+    ตัวเลือกนี้มีผลกระทบเพียงเล็กน้อยต่อประสิทธิภาพ
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    ปรับปรุงการแสดงผลพื้นผิวในเกม
+
+    ตัวเลือกนี้มีผลกระทบเพียงเล็กน้อยต่อประสิทธิภาพ
+  TOOLTIP_OPTION_CLOUDS: |
+    แผนที่เมืองแสดงเมฆ
+
+    ตัวเลือกนี้มีผลกระทบเพียงเล็กน้อยต่อประสิทธิภาพ
+  LABEL_GAME_OF_THE_YEAR_WINNER: ผู้ชนะ
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: รองชนะเลิศ
+  LABEL_NOMINATED: ได้รับการเสนอชื่อ
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    ในการวางถ้วยรางวัลเกมแห่งปี เกมใดเกมหนึ่งของคุณต้องได้รับรางวัลเกมแห่งปี
+
+    คุณสามารถวางถ้วยรางวัลได้หนึ่งถ้วยต่อหนึ่งชัยชนะ
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    คุณได้เผยแพร่เวอร์ชันเกมแห่งปีสำหรับเกมนี้แล้ว
+  TOOLTIP_NOT_UNLOCKED_YET: ยังไม่ได้ปลดล็อก
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    เกม %s ของคุณถูกถอนออกจากตลาดแล้ว เกมจะอยู่ในตลาดอย่างน้อย 6 เดือน จากนั้นจะถูกถอนออกโดยอัตโนมัติหากสร้างรายได้น้อยกว่า 1,000 ดอลลาร์ต่อเดือนเป็นระยะเวลา 6 เดือน
+  LABEL_WINDOWED: หน้าต่าง
+  LABEL_WINDOWED_BORDERLESS: หน้าต่างไร้ขอบ
+  LABEL_FULLSCREEN_BORDERLESS: เต็มจอไร้ขอบ
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    เลือกกลยุทธ์การอัปเดตของผู้อำนวยการ:
+
+    • ไม่อัปเดต: มุ่งเน้นเฉพาะการสร้างเกมใหม่เท่านั้น
+    • เฉพาะเกมของตัวเอง: อัปเดตเฉพาะเกมที่พัฒนาขึ้นเอง
+    • ทุกเกม: จัดการการอัปเดตสำหรับทั้งแคตตาล็อกที่มีอยู่
+
+    เมื่ออัปเดตเสร็จสิ้น ผู้อำนวยการจะกลับมาพัฒนาโครงการใหม่
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    คุณสามารถจ้างผู้อำนวยการสตูดิโอได้สูงสุด %s คน
+  
+    เพื่อรักษาความสมดุลของเกม ข้อจำกัดนี้ส่งเสริมการจัดการเชิงกลยุทธ์
+
+    คำแนะนำ:
+    จ้างผู้อำนวยการที่มีประสบการณ์ที่สามารถดูแลหลายสตูดิโอ
+    พร้อมกันเพื่อพัฒนาโครงการที่ทะเยอทะยานมากขึ้น!
   TOOLTIP_HISTORICAL_MODE: |
     โหมดประวัติศาสตร์:
   
@@ -211,6 +295,7 @@ th:
   LABEL_GET_ALL_STUDIO: Acquire all studios
   LABEL_HIRE_ALL: Acquire all staff
   LABEL_GET_ALL_GAME: Acquire all games
+  LABEL_GET_ALL_PLATFORM: รับแพลตฟอร์มทั้งหมด
   LABEL_UPCOMING_GAME: Wishlist today!
   LABEL_BANKER_GOODBYE_MESSAGE: Thank you for your time and consideration. We’ll proceed based on your final decision. If you need further assistance, please let us know.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Are you sure you want to sell the game engine you developed over the past few months? This could harm your future projects.
@@ -1099,6 +1184,8 @@ th:
   LABEL_NO_FILTER: ไม่มีฟิลเตอร์
   LABEL_GAME_UPDATE_EXPECTED: Awaiting an update
   LABEL_GAME_UPDATE_NOTEXPECTED: Not awaiting an update
+  LABEL_STUDIO_DIRECTOR_PRESENT: สร้างด้วยผู้อำนวยการสตูดิโอ
+  LABEL_STUDIO_DIRECTOR_ABSENT: สร้างด้วยตนเอง
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Active marketing campaign
   LABEL_MARKETING_CAMPAIGN_INACTIVE: No active marketing campaign
   LABEL_FANBASE_GAIN: Growing fanbase

@@ -96,6 +96,8 @@ en:
   BUTTON_REMAKE_CREATE: Create a remake
   BUTTON_VIEW_REMAKE: View the remake
   BUTTON_VIEW_ORIGINAL_GAME: View the original game
+  BUTTON_VIEW_GAME: View Game
+  BUTTON_PUBLISH_GOTY: Publish GOTY
   BUTTON_ACCEPT: Accept
   BUTTON_REFUSE: Refuse
   BUTTON_IMPORT_IMAGE: Import an image
@@ -111,8 +113,90 @@ en:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximize exclusivity contract length
   BUTTON_SCHEDULE_AUTO: Auto Assignment
   BUTTON_HISTORICAL_MODE: Historical Mode
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: No update
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Update all games
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Update own games
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Only Update All Games
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Create games
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Update games
+  LABEL_STUDIODIRECTOR_PORT_GAME: Port games
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Allows the studio director to create games.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Allows the studio director to update games.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Allows the studio director to port games.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Minimum platform compatibility to port the game
+  LABEL_STUDIODIRECTOR_GAMEPORT: Port games to other consoles
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Games to port
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Games produced by this studio director
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: All games that can be ported
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Each platform has a compatibility rate with another platform.
+    The higher the compatibility, the more successful the port will be.
+    Conversely, the lower the compatibility, the lower the port's rating will be.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    This game was published with the help of another company that handles all marketing.
+
+    For this reason, you cannot organize sales or marketing campaigns.
+  LABEL_OPTION_120_FPS: Force 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    Forces the game to display 120 frames per second.
+    By default, the game displays 60 frames per second.
+
+    This option may lead to instability.
+    If you experience issues, consider disabling it.
+  LABEL_OPTION_PARTICLE: Employee particles
+  LABEL_OPTION_SEASON: Season display
+  TOOLTIP_OPTION_PARTICLE: |
+    Displays a small bubble above an employee's head when they produce points for a game or any other project.
+
+    Disabling this option can greatly improve performance.
+  TOOLTIP_OPTION_SEASON: |
+    The city map changes color based on the seasons.
+
+    This option has little impact on performance.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Improves the rendering of in-game textures.
+
+    This option has little impact on performance.
+  TOOLTIP_OPTION_CLOUDS: |
+    The city map displays clouds.
+
+    This option has little impact on performance.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Winner
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Runners-up
+  LABEL_NOMINATED: Nominated
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    To place a Game of the Year trophy, one of your games must have won the Game of the Year award.
+
+    You can place one trophy per win.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    You have already published the Game of the Year edition for this game.
+  TOOLTIP_NOT_UNLOCKED_YET: Not unlocked yet
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Your game %s has been removed from the market. A game remains there for a minimum of 6 months, then is automatically removed if it generates less than $1,000 per month over a 6-month period.
+  LABEL_WINDOWED: Windowed
+  LABEL_WINDOWED_BORDERLESS: Windowed Borderless
+  LABEL_FULLSCREEN_BORDERLESS: Fullscreen Borderless
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Choose the director's update strategy:
+
+    • No updates: focuses solely on creating new games
+    • Own games only: updates only games they developed
+    • All games: manages updates for the entire available catalog
+
+    Once updates are complete, the director resumes developing new projects.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    You can recruit up to %s studio directors.
+  
+    To preserve game balance, this limit encourages strategic management.
+
+    Tip:
+    Recruit experienced directors capable of overseeing multiple studios
+    simultaneously to develop more ambitious projects!
   TOOLTIP_HISTORICAL_MODE: |
     Historical Mode:
   
@@ -210,6 +294,7 @@ en:
   LABEL_GET_ALL_STUDIO: Acquire all studios
   LABEL_HIRE_ALL: Acquire all staff
   LABEL_GET_ALL_GAME: Acquire all games
+  LABEL_GET_ALL_PLATFORM: Acquire all platforms
   LABEL_UPCOMING_GAME: Wishlist today!
   LABEL_BANKER_GOODBYE_MESSAGE: Thank you for your time and consideration. We’ll proceed based on your final decision. If you need further assistance, please let us know.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Are you sure you want to sell the game engine you developed over the past few months? This could harm your future projects.
@@ -1095,6 +1180,8 @@ en:
   LABEL_NO_FILTER: No filter
   LABEL_GAME_UPDATE_EXPECTED: Awaiting an update
   LABEL_GAME_UPDATE_NOTEXPECTED: Not awaiting an update
+  LABEL_STUDIO_DIRECTOR_PRESENT: Made with studio director
+  LABEL_STUDIO_DIRECTOR_ABSENT: Made manually
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Active marketing campaign
   LABEL_MARKETING_CAMPAIGN_INACTIVE: No active marketing campaign
   LABEL_FANBASE_GAIN: Growing fanbase
@@ -1358,7 +1445,7 @@ en:
   LABEL_ACCESS_GRANTED: Access granted
   LABEL_CLICK_FOR_ACTION: Press to open the menu
   LABEL_NO_GAME_INDEV: |
-    There are no games in development
+    No games currently in development
   LABEL_ALREADY_REGISTERED: Attending
   LABEL_NET_PROFITS: Net profits
   LABEL_ENERGY: Energy

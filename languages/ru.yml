@@ -96,6 +96,8 @@ ru:
   BUTTON_REMAKE_CREATE: Создать ремейк
   BUTTON_VIEW_REMAKE: Посмотреть ремейк
   BUTTON_VIEW_ORIGINAL_GAME: Просмотр оригинальной игры
+  BUTTON_VIEW_GAME: Просмотреть игру
+  BUTTON_PUBLISH_GOTY: Опубликовать GOTY
   BUTTON_ACCEPT: Aceitar
   BUTTON_REFUSE: Recusar
   BUTTON_IMPORT_IMAGE: Импорт изображения
@@ -111,8 +113,90 @@ ru:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Максимизировать срок эксклюзивного контракта
   BUTTON_SCHEDULE_AUTO: Автоматическое назначение
   BUTTON_HISTORICAL_MODE: Исторический режим
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: Без обновлений
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Обновить все игры
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Обновить свои игры
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Обновлять только все игры
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Создавать игры
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Обновлять игры
+  LABEL_STUDIODIRECTOR_PORT_GAME: Портировать игры
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Позволяет директору студии создавать игры.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Позволяет директору студии обновлять игры.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Позволяет директору студии портировать игры.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Минимальная совместимость платформы для портирования игры
+  LABEL_STUDIODIRECTOR_GAMEPORT: Портировать игры на другие консоли
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Игры для портирования
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Игры, произведённые этим директором студии
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Все игры, которые можно портировать
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Каждая платформа имеет уровень совместимости с другой платформой.
+    Чем выше совместимость, тем успешнее будет порт.
+    И наоборот, чем ниже совместимость, тем ниже будет оценка порта.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    Эта игра была опубликована с помощью другой компании, которая занимается всем маркетингом.
+
+    По этой причине вы не можете организовывать распродажи или маркетинговые кампании.
+  LABEL_OPTION_120_FPS: Принудительно 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    Принуждает игру отображать 120 кадров в секунду.
+    По умолчанию игра отображает 60 кадров в секунду.
+
+    Эта опция может привести к нестабильности.
+    Если возникнут проблемы, рассмотрите возможность её отключения.
+  LABEL_OPTION_PARTICLE: Частицы сотрудников
+  LABEL_OPTION_SEASON: Отображение сезонов
+  TOOLTIP_OPTION_PARTICLE: |
+    Отображает маленький пузырь над головой сотрудника, когда он производит очки для игры или любого другого проекта.
+
+    Отключение этой опции может значительно улучшить производительность.
+  TOOLTIP_OPTION_SEASON: |
+    Карта города меняет цвет в зависимости от сезона.
+
+    Эта опция мало влияет на производительность.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Улучшает отображение текстур в игре.
+
+    Эта опция мало влияет на производительность.
+  TOOLTIP_OPTION_CLOUDS: |
+    Карта города отображает облака.
+
+    Эта опция мало влияет на производительность.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Победитель
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Финалисты
+  LABEL_NOMINATED: Номинирован
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    Чтобы разместить трофей «Игра года», одна из ваших игр должна выиграть награду «Игра года».
+
+    Вы можете разместить один трофей за каждую победу.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    Вы уже опубликовали издание «Игра года» для этой игры.
+  TOOLTIP_NOT_UNLOCKED_YET: Ещё не разблокировано
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Ваша игра %s была удалена с рынка. Игра остается на рынке минимум 6 месяцев, затем автоматически удаляется, если приносит менее 1 000 $ в месяц в течение 6 месяцев.
+  LABEL_WINDOWED: Оконный режим
+  LABEL_WINDOWED_BORDERLESS: Окно без границ
+  LABEL_FULLSCREEN_BORDERLESS: Полный экран без границ
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Выберите стратегию обновлений директора:
+
+    • Без обновлений: сосредоточен исключительно на создании новых игр
+    • Только свои игры: обновляет только игры, которые разработал
+    • Все игры: управляет обновлениями всего доступного каталога
+
+    После завершения обновлений директор возобновляет разработку новых проектов.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    Вы можете нанять до %s директоров студий.
+  
+    Для сохранения баланса игры это ограничение поощряет стратегическое управление.
+
+    Совет:
+    Нанимайте опытных директоров, способных одновременно курировать несколько студий
+    для разработки более амбициозных проектов!
   TOOLTIP_HISTORICAL_MODE: |
     Исторический режим:
   
@@ -212,6 +296,7 @@ ru:
   LABEL_GET_ALL_STUDIO: Приобрести все студии
   LABEL_HIRE_ALL: Приобрести всех сотрудников
   LABEL_GET_ALL_GAME: Приобрести все игры
+  LABEL_GET_ALL_PLATFORM: Приобрести все платформы
   LABEL_UPCOMING_GAME: В список желаний сегодня!
   LABEL_BANKER_GOODBYE_MESSAGE: Спасибо за ваше время и внимание. Мы будем действовать в соответствии с вашим окончательным решением. Если вам понадобится дополнительная помощь, пожалуйста, дайте нам знать.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Вы уверены, что хотите продать игровую движок, который вы разрабатывали последние несколько месяцев? Это может негативно сказаться на ваших будущих проектах.
@@ -1105,6 +1190,8 @@ ru:
   LABEL_NO_FILTER: Нет фильтра
   LABEL_GAME_UPDATE_EXPECTED: В ожидании обновления
   LABEL_GAME_UPDATE_NOTEXPECTED: Не ожидает обновления
+  LABEL_STUDIO_DIRECTOR_PRESENT: Сделано с директором студии
+  LABEL_STUDIO_DIRECTOR_ABSENT: Сделано вручную
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Активная маркетинговая кампания
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Нет активной маркетинговой кампании
   LABEL_FANBASE_GAIN: Рост фанатов

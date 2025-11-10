@@ -96,6 +96,8 @@ ja:
   BUTTON_REMAKE_CREATE: リメイク版の作成
   BUTTON_VIEW_REMAKE: リメイク版を表示
   BUTTON_VIEW_ORIGINAL_GAME: オリジナル版を表示
+  BUTTON_VIEW_GAME: ゲームを表示
+  BUTTON_PUBLISH_GOTY: GOTYを発表
   BUTTON_ACCEPT: 受け入れる
   BUTTON_REFUSE: 断る
   BUTTON_IMPORT_IMAGE: 画像の取り込み
@@ -111,8 +113,90 @@ ja:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 独占契約期間を最大化
   BUTTON_SCHEDULE_AUTO: 自動割り当て
   BUTTON_HISTORICAL_MODE: 歴史モード
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: アップデートなし
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: 全てのゲームを更新
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: 自分のゲームを更新
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: 全ゲームのみアップデート
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: ゲームを作成
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: ゲームを更新
+  LABEL_STUDIODIRECTOR_PORT_GAME: ゲームを移植
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    スタジオディレクターがゲームを作成できるようにします。
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    スタジオディレクターがゲームを更新できるようにします。
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    スタジオディレクターがゲームを移植できるようにします。
+  LABEL_PLATFORM_COMPATIBILITY_MIN: ゲームを移植するための最低プラットフォーム互換性
+  LABEL_STUDIODIRECTOR_GAMEPORT: 他のコンソールへゲームを移植
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: 移植するゲーム
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: このスタジオディレクターが制作したゲーム
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: 移植可能なすべてのゲーム
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    各プラットフォームは他のプラットフォームとの互換性率があります。
+    互換性が高いほど、移植の成功率が高くなります。
+    逆に、互換性が低いほど、移植の評価は低くなります。
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    このゲームは、マーケティング全体を担当する別の会社の協力を得て発売されました。
+
+    そのため、セールやマーケティングキャンペーンを企画することはできません。
+  LABEL_OPTION_120_FPS: 120 FPSを強制
+  TOOLTIP_OPTION_120_FPS: |
+    ゲームを120フレーム/秒で表示するよう強制します。
+    デフォルトでは、ゲームは60フレーム/秒で表示されます。
+
+    このオプションは不安定性を引き起こす可能性があります。
+    問題が発生した場合は、無効にすることを検討してください。
+  LABEL_OPTION_PARTICLE: 従業員パーティクル
+  LABEL_OPTION_SEASON: 季節の表示
+  TOOLTIP_OPTION_PARTICLE: |
+    従業員がゲームやその他のプロジェクトのポイントを生成すると、頭上に小さな吹き出しが表示されます。
+
+    このオプションを無効にすると、パフォーマンスが大幅に向上します。
+  TOOLTIP_OPTION_SEASON: |
+    都市マップが季節に応じて色を変えます。
+
+    このオプションはパフォーマンスへの影響が少ないです。
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    ゲーム内のテクスチャのレンダリングを改善します。
+
+    このオプションはパフォーマンスへの影響が少ないです。
+  TOOLTIP_OPTION_CLOUDS: |
+    都市マップに雲が表示されます。
+
+    このオプションはパフォーマンスへの影響が少ないです。
+  LABEL_GAME_OF_THE_YEAR_WINNER: 受賞作
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: 次点
+  LABEL_NOMINATED: ノミネート済み
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    年間最優秀ゲームのトロフィーを配置するには、あなたのゲームの1つが年間最優秀ゲーム賞を受賞している必要があります。
+
+    受賞ごとに1つのトロフィーを配置できます。
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    このゲームの年間最優秀ゲーム版は既に発売されています。
+  TOOLTIP_NOT_UNLOCKED_YET: まだアンロックされていません
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    あなたのゲーム %s が市場から削除されました。ゲームは最低6ヶ月間市場に残り、その後6ヶ月間月間1,000ドル未満の収益の場合、自動的に削除されます。
+  LABEL_WINDOWED: ウィンドウ
+  LABEL_WINDOWED_BORDERLESS: ボーダーレスウィンドウ
+  LABEL_FULLSCREEN_BORDERLESS: ボーダーレスフルスクリーン
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    ディレクターのアップデート戦略を選択してください：
+
+    • アップデートなし：新しいゲーム作成のみに集中
+    • 自分のゲームのみ：開発したゲームのみ更新
+    • 全てのゲーム：利用可能な全カタログの更新を管理
+
+    アップデート完了後、ディレクターは新プロジェクトの開発を再開します。
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    スタジオディレクターを最大%s人まで雇用できます。
+  
+    ゲームバランスを保つため、この制限は戦略的な管理を促進します。
+
+    アドバイス：
+    複数のスタジオを同時に監督し、より野心的なプロジェクトを
+    開発できる経験豊富なディレクターを雇用しましょう！
   TOOLTIP_HISTORICAL_MODE: |
     歴史モード：
   
@@ -211,6 +295,7 @@ ja:
   LABEL_GET_ALL_STUDIO: すべてのスタジオを買収する
   LABEL_HIRE_ALL: すべてのスタッフを買収する
   LABEL_GET_ALL_GAME: すべてのゲームを獲得する
+  LABEL_GET_ALL_PLATFORM: 全プラットフォームを取得
   LABEL_UPCOMING_GAME: 今日のウィッシュリストへ
   LABEL_BANKER_GOODBYE_MESSAGE: お時間とご検討いただきありがとうございます。最終決定に基づいて進めます。さらにサポートが必要な場合は、お知らせください。
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 過去数ヶ月間に開発したゲームエンジンを販売するつもりですか？これは将来のプロジェクトに悪影響を与える可能性があります。
@@ -1097,6 +1182,8 @@ ja:
   LABEL_NO_FILTER: フィルターなし
   LABEL_GAME_UPDATE_EXPECTED: アップデート待機中
   LABEL_GAME_UPDATE_NOTEXPECTED: アップデート予定なし
+  LABEL_STUDIO_DIRECTOR_PRESENT: スタジオディレクターと作成
+  LABEL_STUDIO_DIRECTOR_ABSENT: 手動で作成
   LABEL_MARKETING_CAMPAIGN_ACTIVE: アクティブなマーケティング活動
   LABEL_MARKETING_CAMPAIGN_INACTIVE: アクティブでないマーケティング活動
   LABEL_FANBASE_GAIN: ファンの増加

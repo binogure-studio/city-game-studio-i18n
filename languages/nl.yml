@@ -96,6 +96,8 @@ nl:
   BUTTON_REMAKE_CREATE: Maak remake
   BUTTON_VIEW_REMAKE: Bekijk de remake
   BUTTON_VIEW_ORIGINAL_GAME: Bekijk het originele spel
+  BUTTON_VIEW_GAME: Spel bekijken
+  BUTTON_PUBLISH_GOTY: GOTY publiceren
   BUTTON_ACCEPT: Accepteren
   BUTTON_REFUSE: Weigeren
   BUTTON_IMPORT_IMAGE: Een afbeelding importeren
@@ -111,8 +113,90 @@ nl:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximaliseer duur van exclusiviteitscontract
   BUTTON_SCHEDULE_AUTO: Automatische toewijzing
   BUTTON_HISTORICAL_MODE: Historische modus
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: Geen updates
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Alle games bijwerken
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Eigen games bijwerken
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Alleen alle spellen updaten
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Spellen maken
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Spellen updaten
+  LABEL_STUDIODIRECTOR_PORT_GAME: Spellen porten
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Stelt de studiodirecteur in staat om spellen te maken.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Stelt de studiodirecteur in staat om spellen te updaten.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Stelt de studiodirecteur in staat om spellen te porten.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Minimale platformcompatibiliteit om het spel te porten
+  LABEL_STUDIODIRECTOR_GAMEPORT: Spellen naar andere consoles porten
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Te porten spellen
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Spellen geproduceerd door deze studiodirecteur
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Alle spellen die geport kunnen worden
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Elk platform heeft een compatibiliteitspercentage met een ander platform.
+    Hoe hoger de compatibiliteit, hoe succesvoller de port zal zijn.
+    Omgekeerd, hoe lager de compatibiliteit, hoe lager de beoordeling van de port zal zijn.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    Dit spel werd uitgebracht met hulp van een ander bedrijf dat alle marketing verzorgt.
+
+    Om deze reden kunt u geen kortingsacties of marketingcampagnes organiseren.
+  LABEL_OPTION_120_FPS: Forceer 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    Dwingt het spel om 120 frames per seconde weer te geven.
+    Standaard geeft het spel 60 frames per seconde weer.
+
+    Deze optie kan leiden tot instabiliteit.
+    Als u problemen ondervindt, overweeg het uit te schakelen.
+  LABEL_OPTION_PARTICLE: Werknemersdeeltjes
+  LABEL_OPTION_SEASON: Seizoenweergave
+  TOOLTIP_OPTION_PARTICLE: |
+    Toont een kleine bel boven het hoofd van een werknemer wanneer deze punten produceert voor een spel of een ander project.
+
+    Het uitschakelen van deze optie kan de prestaties aanzienlijk verbeteren.
+  TOOLTIP_OPTION_SEASON: |
+    De stadskaart verandert van kleur op basis van de seizoenen.
+
+    Deze optie heeft weinig invloed op de prestaties.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Verbetert de weergave van texturen in het spel.
+
+    Deze optie heeft weinig invloed op de prestaties.
+  TOOLTIP_OPTION_CLOUDS: |
+    De stadskaart toont wolken.
+
+    Deze optie heeft weinig invloed op de prestaties.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Winnaar
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Finalisten
+  LABEL_NOMINATED: Genomineerd
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    Om een Game of the Year-trofee te plaatsen, moet een van uw spellen de Game of the Year-prijs hebben gewonnen.
+
+    U kunt één trofee per overwinning plaatsen.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    U heeft al de Game of the Year-editie van dit spel uitgebracht.
+  TOOLTIP_NOT_UNLOCKED_YET: Nog niet ontgrendeld
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Je spel %s is van de markt gehaald. Een spel blijft daar minimaal 6 maanden en wordt vervolgens automatisch verwijderd als het over een periode van 6 maanden minder dan $ 1.000 per maand genereert.
+  LABEL_WINDOWED: Venster
+  LABEL_WINDOWED_BORDERLESS: Venster zonder rand
+  LABEL_FULLSCREEN_BORDERLESS: Volledig scherm zonder rand
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Kies de updatestrategie van de directeur:
+
+    • Geen updates: richt zich uitsluitend op het maken van nieuwe games
+    • Alleen eigen games: werkt alleen games bij die hij heeft ontwikkeld
+    • Alle games: beheert updates voor de gehele beschikbare catalogus
+
+    Na voltooiing van de updates hervat de directeur de ontwikkeling van nieuwe projecten.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    Je kunt maximaal %s studiodirecteuren werven.
+  
+    Om de spelbalans te behouden, moedigt deze limiet strategisch management aan.
+
+    Tip:
+    Werf ervaren directeuren die meerdere studio's tegelijkertijd kunnen
+    overzien om ambitieuzere projecten te ontwikkelen!
   TOOLTIP_HISTORICAL_MODE: |
     Historische modus:
   
@@ -212,6 +296,7 @@ nl:
   LABEL_GET_ALL_STUDIO: Alle studio's overnemen
   LABEL_HIRE_ALL: Al het personeel overnemen
   LABEL_GET_ALL_GAME: Alle games overnemen
+  LABEL_GET_ALL_PLATFORM: Verkrijg alle platforms
   LABEL_UPCOMING_GAME: Naar verlanglijstje vandaag!
   LABEL_BANKER_GOODBYE_MESSAGE: Bedankt voor uw tijd en overweging. We zullen verdergaan op basis van uw uiteindelijke beslissing. Als u verdere hulp nodig heeft, laat het ons dan weten.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Bent u er zeker van dat u de game-engine wilt verkopen die u in de afgelopen maanden heeft ontwikkeld? Dit kan uw toekomstige projecten schaden.
@@ -1109,6 +1194,8 @@ nl:
   LABEL_NO_FILTER: Geen filter
   LABEL_GAME_UPDATE_EXPECTED: In afwachting van een update
   LABEL_GAME_UPDATE_NOTEXPECTED: Niet wachten op een update
+  LABEL_STUDIO_DIRECTOR_PRESENT: Gemaakt met studiodirecteur
+  LABEL_STUDIO_DIRECTOR_ABSENT: Handmatig gemaakt
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Actieve marketingcampagne
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Geen actieve marketingcampagne
   LABEL_FANBASE_GAIN: Groeiende fanbase

@@ -96,6 +96,8 @@ cs:
   BUTTON_REMAKE_CREATE: Vytvořit remake
   BUTTON_VIEW_REMAKE: Zobrazit remake
   BUTTON_VIEW_ORIGINAL_GAME: Zobrazit originální hru
+  BUTTON_VIEW_GAME: Zobrazit hru
+  BUTTON_PUBLISH_GOTY: Publikovat GOTY
   BUTTON_ACCEPT: Přijmout
   BUTTON_REFUSE: Odmítnout
   BUTTON_IMPORT_IMAGE: Importovat obrázek
@@ -111,8 +113,90 @@ cs:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximalizovat dobu trvání exkluzivity
   BUTTON_SCHEDULE_AUTO: Automatické přiřazení
   BUTTON_HISTORICAL_MODE: Historický režim
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: Žádné aktualizace
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Aktualizovat všechny hry
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Aktualizovat vlastní hry
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Aktualizovat pouze všechny hry
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Vytvářet hry
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Aktualizovat hry
+  LABEL_STUDIODIRECTOR_PORT_GAME: Portovat hry
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Umožňuje řediteli studia vytvářet hry.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Umožňuje řediteli studia aktualizovat hry.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Umožňuje řediteli studia portovat hry.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Minimální kompatibilita platformy pro portování hry
+  LABEL_STUDIODIRECTOR_GAMEPORT: Portovat hry na jiné konzole
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Hry k portování
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Hry vyrobené tímto ředitelem studia
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Všechny hry, které lze portovat
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Každá platforma má míru kompatibility s jinou platformou.
+    Čím vyšší kompatibilita, tím úspěšnější bude port.
+    Naopak, čím nižší kompatibilita, tím nižší bude hodnocení portu.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    Tato hra byla publikována s pomocí jiné společnosti, která má na starosti celý marketing.
+
+    Z tohoto důvodu nemůžete organizovat výprodeje ani marketingové kampaně.
+  LABEL_OPTION_120_FPS: Vynutit 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    Vynutí hru zobrazovat 120 snímků za sekundu.
+    Ve výchozím nastavení hra zobrazuje 60 snímků za sekundu.
+
+    Tato možnost může vést k nestabilitě.
+    Pokud narazíte na problémy, zvažte její vypnutí.
+  LABEL_OPTION_PARTICLE: Částice zaměstnanců
+  LABEL_OPTION_SEASON: Zobrazení ročních období
+  TOOLTIP_OPTION_PARTICLE: |
+    Zobrazí malou bublinu nad hlavou zaměstnance, když produkuje body pro hru nebo jakýkoli jiný projekt.
+
+    Vypnutí této možnosti může výrazně zlepšit výkon.
+  TOOLTIP_OPTION_SEASON: |
+    Mapa města mění barvu podle ročních období.
+
+    Tato možnost má malý vliv na výkon.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Zlepšuje vykreslování textur ve hře.
+
+    Tato možnost má malý vliv na výkon.
+  TOOLTIP_OPTION_CLOUDS: |
+    Mapa města zobrazuje mraky.
+
+    Tato možnost má malý vliv na výkon.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Vítěz
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Finalisté
+  LABEL_NOMINATED: Nominován
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    Abyste mohli umístit trofej Hra roku, jedna z vašich her musí vyhrát cenu Hra roku.
+
+    Můžete umístit jednu trofej za každou výhru.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    Již jste publikovali edici Hra roku pro tuto hru.
+  TOOLTIP_NOT_UNLOCKED_YET: Ještě neodemčeno
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Vaše hra %s byla stažena z trhu. Hra na něm zůstává minimálně 6 měsíců a poté je automaticky stažena, pokud generuje méně než 1 000 $ měsíčně po dobu 6 měsíců.
+  LABEL_WINDOWED: Okno
+  LABEL_WINDOWED_BORDERLESS: Okno bez okrajů
+  LABEL_FULLSCREEN_BORDERLESS: Celá obrazovka bez okrajů
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Zvolte strategii aktualizace ředitele:
+
+    • Žádné aktualizace: soustředí se výhradně na tvorbu nových her
+    • Pouze vlastní hry: aktualizuje jen hry, které vyvinul
+    • Všechny hry: spravuje aktualizace celého dostupného katalogu
+
+    Po dokončení aktualizací ředitel obnoví vývoj nových projektů.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    Můžete najmout až %s ředitelů studia.
+  
+    Pro zachování rovnováhy hry toto omezení podporuje strategické řízení.
+
+    Rada:
+    Najímejte zkušené ředitele schopné současně dohlížet na několik studií
+    pro vývoj ambicióznějších projektů!
   TOOLTIP_HISTORICAL_MODE: |
     Historický režim:
   
@@ -211,6 +295,7 @@ cs:
   LABEL_GET_ALL_STUDIO: Získat všechna studia
   LABEL_HIRE_ALL: Získat všechny zaměstnance
   LABEL_GET_ALL_GAME: Získat všechny hry
+  LABEL_GET_ALL_PLATFORM: Získat všechny platformy
   LABEL_UPCOMING_GAME: Přidejte na seznam přání ještě dnes!
   LABEL_BANKER_GOODBYE_MESSAGE: Děkuji za váš čas a pozornost. Budeme postupovat na základě vašeho finálního rozhodnutí. Pokud budete potřebovat další asistenci, dejte nám vědět.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Opravdu chcete prodat herní engine, který jste během několika posledních měsíců vyvíjeli? Mohlo by to uškodit vašim budoucím projektům.
@@ -1097,6 +1182,8 @@ cs:
   LABEL_NO_FILTER: Žádný filtr
   LABEL_GAME_UPDATE_EXPECTED: Očekávána aktualizace
   LABEL_GAME_UPDATE_NOTEXPECTED: Aktualizace neočekávána
+  LABEL_STUDIO_DIRECTOR_PRESENT: Vytvořeno s ředitelem studia
+  LABEL_STUDIO_DIRECTOR_ABSENT: Vytvořeno ručně
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Aktivní marketingová kampaň
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Žádná aktivní marketingová kampaň
   LABEL_FANBASE_GAIN: Rostoucí fanouškovská základna

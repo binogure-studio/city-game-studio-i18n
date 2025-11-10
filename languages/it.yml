@@ -96,6 +96,8 @@ it:
   BUTTON_REMAKE_CREATE: Creare il remake
   BUTTON_VIEW_REMAKE: Guarda il remake
   BUTTON_VIEW_ORIGINAL_GAME: Guarda il gioco originale
+  BUTTON_VIEW_GAME: Visualizza gioco
+  BUTTON_PUBLISH_GOTY: Pubblica GOTY
   BUTTON_ACCEPT: Accettare
   BUTTON_REFUSE: Rifiuta
   BUTTON_IMPORT_IMAGE: Importare un'immagine
@@ -111,8 +113,90 @@ it:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Massimizza la durata del contratto di esclusività
   BUTTON_SCHEDULE_AUTO: Assegnazione automatica
   BUTTON_HISTORICAL_MODE: Modalità storica
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: Nessun aggiornamento
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Aggiorna tutti i giochi
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Aggiorna propri giochi
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Aggiorna solo tutti i giochi
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Creare giochi
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Aggiornare giochi
+  LABEL_STUDIODIRECTOR_PORT_GAME: Portare giochi
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Consente al direttore di studio di creare giochi.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Consente al direttore di studio di aggiornare giochi.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Consente al direttore di studio di portare giochi.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Compatibilità minima della piattaforma per portare il gioco
+  LABEL_STUDIODIRECTOR_GAMEPORT: Portare giochi su altre console
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Giochi da portare
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Giochi prodotti da questo direttore di studio
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Tutti i giochi che possono essere portati
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Ogni piattaforma ha un tasso di compatibilità con un'altra piattaforma.
+    Più alta è la compatibilità, più il port avrà successo.
+    Al contrario, più bassa è la compatibilità, più bassa sarà la valutazione del port.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    Questo gioco è stato pubblicato con l'aiuto di un'altra azienda che si occupa di tutto il marketing.
+
+    Per questo motivo, non puoi organizzare saldi o campagne di marketing.
+  LABEL_OPTION_120_FPS: Forza 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    Forza il gioco a visualizzare 120 fotogrammi al secondo.
+    Per impostazione predefinita, il gioco visualizza 60 fotogrammi al secondo.
+
+    Questa opzione può causare instabilità.
+    Se riscontri problemi, valuta di disattivarla.
+  LABEL_OPTION_PARTICLE: Particelle dipendenti
+  LABEL_OPTION_SEASON: Visualizzazione stagioni
+  TOOLTIP_OPTION_PARTICLE: |
+    Mostra una piccola bolla sopra la testa di un dipendente quando produce punti per un gioco o qualsiasi altro progetto.
+
+    Disabilitare questa opzione può migliorare notevolmente le prestazioni.
+  TOOLTIP_OPTION_SEASON: |
+    La mappa della città cambia colore in base alle stagioni.
+
+    Questa opzione ha poco impatto sulle prestazioni.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Migliora il rendering delle texture di gioco.
+
+    Questa opzione ha poco impatto sulle prestazioni.
+  TOOLTIP_OPTION_CLOUDS: |
+    La mappa della città mostra le nuvole.
+
+    Questa opzione ha poco impatto sulle prestazioni.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Vincitore
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Finalisti
+  LABEL_NOMINATED: Nominato
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    Per posizionare un trofeo Gioco dell'Anno, uno dei tuoi giochi deve aver vinto il premio Gioco dell'Anno.
+
+    Puoi posizionare un trofeo per vittoria.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    Hai già pubblicato l'edizione Gioco dell'Anno per questo gioco.
+  TOOLTIP_NOT_UNLOCKED_YET: Non ancora sbloccato
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Il tuo gioco %s è stato rimosso dal mercato. Un gioco vi rimane per un minimo di 6 mesi, poi viene automaticamente rimosso se genera meno di 1.000 $ al mese per un periodo di 6 mesi.
+  LABEL_WINDOWED: Finestra
+  LABEL_WINDOWED_BORDERLESS: Finestra senza bordi
+  LABEL_FULLSCREEN_BORDERLESS: Schermo intero senza bordi
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Scegli la strategia di aggiornamento del direttore:
+
+    • Nessun aggiornamento: si concentra esclusivamente sulla creazione di nuovi giochi
+    • Solo propri giochi: aggiorna solo i giochi che ha sviluppato
+    • Tutti i giochi: gestisce gli aggiornamenti per l'intero catalogo disponibile
+
+    Una volta completati gli aggiornamenti, il direttore riprende lo sviluppo di nuovi progetti.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    Puoi reclutare fino a %s direttori di studio.
+  
+    Per preservare l'equilibrio del gioco, questo limite incoraggia una gestione strategica.
+
+    Consiglio:
+    Recluta direttori esperti capaci di supervisionare più studi
+    simultaneamente per sviluppare progetti più ambiziosi!
   TOOLTIP_HISTORICAL_MODE: |
     Modalità storica:
   
@@ -211,6 +295,7 @@ it:
   LABEL_GET_ALL_STUDIO: Acquisire tutti gli studi
   LABEL_HIRE_ALL: Acquisire tutto il personale
   LABEL_GET_ALL_GAME: Acquisire tutti i giochi
+  LABEL_GET_ALL_PLATFORM: Acquisire tutte le piattaforme
   LABEL_UPCOMING_GAME: Da mettere in wishlist oggi!
   LABEL_BANKER_GOODBYE_MESSAGE: Grazie per il tempo e la considerazione. Procederemo in base alla tua decisione finale. Se hai bisogno di ulteriore assistenza, faccelo sapere.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Siete sicuri di voler vendere il motore di gioco che avete sviluppato negli ultimi mesi? Questo potrebbe danneggiare i vostri progetti futuri.
@@ -1111,6 +1196,8 @@ it:
   LABEL_NO_FILTER: Senza Filtro
   LABEL_GAME_UPDATE_EXPECTED: In attesa di un aggiornamento
   LABEL_GAME_UPDATE_NOTEXPECTED: Non in attesa di un aggiornamento
+  LABEL_STUDIO_DIRECTOR_PRESENT: Fatto con direttore di studio
+  LABEL_STUDIO_DIRECTOR_ABSENT: Fatto manualmente
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Campagna marketing attiva
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Nessuna campagna marketing attiva
   LABEL_FANBASE_GAIN: Fanbase in crescita

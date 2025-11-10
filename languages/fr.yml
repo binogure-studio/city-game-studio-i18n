@@ -96,6 +96,8 @@ fr:
   BUTTON_REMAKE_CREATE: Créer le remake
   BUTTON_VIEW_REMAKE: Voir le remake
   BUTTON_VIEW_ORIGINAL_GAME: Voir le jeu original
+  BUTTON_VIEW_GAME: Voir le jeu
+  BUTTON_PUBLISH_GOTY: Publier le GOTY
   BUTTON_ACCEPT: Accepter
   BUTTON_REFUSE: Refuser
   BUTTON_IMPORT_IMAGE: Importer une image
@@ -111,8 +113,90 @@ fr:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: Maximiser la durée du contrat d'exclusivité
   BUTTON_SCHEDULE_AUTO: Assignation automatique
   BUTTON_HISTORICAL_MODE: Mode historique
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: Aucune mise à jour
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Mettre à jour tous les jeux
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Mettre à jour ses jeux
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Faire uniquement des mises à jour
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: Créer des jeux
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: Mettre à jour les jeux
+  LABEL_STUDIODIRECTOR_PORT_GAME: Porter les jeux
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    Permet au directeur de studio de créer des jeux.
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    Permet au directeur de studio de mettre à jour les jeux.
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    Permet au directeur de studio de porter les jeux.
+  LABEL_PLATFORM_COMPATIBILITY_MIN: Compatibilité minimum de la plateforme pour porter le jeu
+  LABEL_STUDIODIRECTOR_GAMEPORT: Porter les jeux vers d'autres consoles
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Les jeux à porter
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Les jeux produits par ce directeur de studio
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Tous les jeux qui peuvent être portés
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    Chaque plateforme a un taux de compatibilité avec une autre plateforme.
+    Plus la compatibilité est élevée, plus le port sera un succès.
+    Au contraire, plus la compatibilité est faible, plus la note du port sera faible.
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    Ce jeu a été publié avec l'aide d'une autre compagnie qui est en charge de toute la partie marketing.
+
+    Pour cette raison, vous ne pouvez pas organiser des soldes ou de campagnes marketing.
+  LABEL_OPTION_120_FPS: Forcer 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    Force le jeu à afficher 120 images par seconde.
+    Par défaut, le jeu affiche 60 images par seconde.
+
+    Cette option peut mener à une instabilité.
+    Si vous rencontrez des problèmes, pensez à la désactiver.
+  LABEL_OPTION_PARTICLE: Particules des employés
+  LABEL_OPTION_SEASON: Affichage des saisons
+  TOOLTIP_OPTION_PARTICLE: |
+    Affiche une petite bulle au-dessus de la tête d'un employé dès lors qu'il produit des points pour un jeu ou tout autre projet.
+
+    Désactiver cette option peut grandement améliorer les performances.
+  TOOLTIP_OPTION_SEASON: |
+    La carte de la ville change de couleur en fonction des saisons.
+
+    Cette option n'a pas beaucoup d'impact sur les performances.
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    Permet d'améliorer le rendu des textures en jeu.
+
+    Cette option a peu d'impact sur les performances.
+  TOOLTIP_OPTION_CLOUDS: |
+    La carte de la ville affiche des nuages.
+
+    Cette option n'a pas beaucoup d'impact sur les performances.
+  LABEL_GAME_OF_THE_YEAR_WINNER: Gagnant
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: Finalistes
+  LABEL_NOMINATED: Nominé
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    Pour placer un trophée Jeu de l'année, l'un de vos jeux doit avoir remporté le prix Jeu de l'année.
+
+    Vous pouvez placer un trophée par victoire.
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    Vous avez déjà publié l'édition Jeu de l'année de ce jeu.
+  TOOLTIP_NOT_UNLOCKED_YET: Pas encore débloqué
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    Votre jeu %s a été retiré du marché. Un jeu y reste au minimum 6 mois, puis est automatiquement retiré s'il génère moins de 1 000 $ par mois sur une période de 6 mois.
+  LABEL_WINDOWED: Fenêtré
+  LABEL_WINDOWED_BORDERLESS: Fenêtré sans bordure
+  LABEL_FULLSCREEN_BORDERLESS: Plein écran sans bordure
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    Choisissez la stratégie de mise à jour du directeur :
+
+    • Aucune mise à jour : se concentre uniquement sur la création de nouveaux jeux
+    • Ses propres jeux : met à jour seulement les jeux qu'il a développés
+    • Tous les jeux : gère les mises à jour de l'ensemble du catalogue disponible
+
+    Une fois les mises à jour terminées, le directeur reprend le développement de nouveaux projets.
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    Vous pouvez recruter jusqu'à %s directeurs de studio.
+  
+    Pour préserver l'équilibre du jeu, cette limite encourage une gestion stratégique.
+
+    Conseil :
+    recrutez des directeurs expérimentés capables de superviser plusieurs studios
+    simultanément pour développer des projets plus ambitieux !
   TOOLTIP_HISTORICAL_MODE: |
     Mode historique :
     
@@ -211,6 +295,7 @@ fr:
   LABEL_GET_ALL_STUDIO: Acquérir tous les studios
   LABEL_HIRE_ALL: Acquérir tout le staff
   LABEL_GET_ALL_GAME: Acquérir tous les jeux
+  LABEL_GET_ALL_PLATFORM: Acquérir toutes les plateformes
   LABEL_UPCOMING_GAME: A wishlist dès aujourd'hui !
   LABEL_BANKER_GOODBYE_MESSAGE: Merci pour votre temps et votre considération. Nous procéderons en fonction de votre décision finale. Si vous avez besoin de plus d’assistance, faites-le nous savoir.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Êtes-vous sûr de vouloir vendre le moteur de jeu que vous avez développé au cours des derniers mois? Cela pourrait nuire à vos futurs projets.
@@ -1123,6 +1208,8 @@ fr:
   LABEL_NO_FILTER: Aucun filtre
   LABEL_GAME_UPDATE_EXPECTED: En attente d'une mise à jour
   LABEL_GAME_UPDATE_NOTEXPECTED: N'attendant pas de mise à jour
+  LABEL_STUDIO_DIRECTOR_PRESENT: Fait avec un directeur de studio
+  LABEL_STUDIO_DIRECTOR_ABSENT: Fait manuellement
   LABEL_MARKETING_CAMPAIGN_ACTIVE: Campagne de marketing active
   LABEL_MARKETING_CAMPAIGN_INACTIVE: Aucune campagne de marketing active
   LABEL_FANBASE_GAIN: Nombre de fans grandissant

@@ -1,6 +1,6 @@
 zh:
   # Buttons actions verbs
-  BUTTON_ALWAYS_ON_TOP: 始终保持领先
+  BUTTON_ALWAYS_ON_TOP: 总在最前
   BUTTON_RESET_SCHEDULE: 重置分配
   BUTTON_TRANSFERT_STAFF: 将员工转移至...
   BUTTON_RENAME: 重命名
@@ -96,11 +96,13 @@ zh:
   BUTTON_REMAKE_CREATE: 制作重制版
   BUTTON_VIEW_REMAKE: 查看重制版
   BUTTON_VIEW_ORIGINAL_GAME: 查看原版游戏
+  BUTTON_VIEW_GAME: 查看游戏
+  BUTTON_PUBLISH_GOTY: 发布年度游戏
   BUTTON_ACCEPT: 接受
   BUTTON_REFUSE: 拒绝
   BUTTON_IMPORT_IMAGE: 导入图像
   BUTTON_ROADMAP: 路线图
-  BUTTON_VIEW_MODS: 查看模式
+  BUTTON_VIEW_MODS: 查看模组
   BUTTON_DEMOLISH_STUDIO: 拆除大楼
   BUTTON_SAVEGAMEAS: 新的保存游戏
   BUTTON_TWITCH_INTEGRATION: Twitch
@@ -111,8 +113,90 @@ zh:
   BUTTON_MAX_OUT_EXCLUSIVITY_DURATION: 最大化独家协议期限
   BUTTON_SCHEDULE_AUTO: 自动分配
   BUTTON_HISTORICAL_MODE: 历史模式
+  BUTTON_STUDIO_DIRECTOR_NO_UPDATE: 不更新
+  BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: 更新全部游戏
+  BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: 更新自己的游戏
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: 仅更新所有游戏
 
   # Labels, descriptive
+  LABEL_STUDIODIRECTOR_MAKE_GAME: 制作游戏
+  LABEL_STUDIODIRECTOR_UPDATE_GAME: 更新游戏
+  LABEL_STUDIODIRECTOR_PORT_GAME: 移植游戏
+  TOOLTIP_STUDIODIRECTOR_MAKE_GAME: |
+    允许工作室总监制作游戏。
+  TOOLTIP_STUDIODIRECTOR_UPDATE_GAME: |
+    允许工作室总监更新游戏。
+  TOOLTIP_STUDIODIRECTOR_PORT_GAME: |
+    允许工作室总监移植游戏。
+  LABEL_PLATFORM_COMPATIBILITY_MIN: 移植游戏所需的最低平台兼容性
+  LABEL_STUDIODIRECTOR_GAMEPORT: 将游戏移植到其他主机
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: 要移植的游戏
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: 由此工作室总监制作的游戏
+  LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: 所有可以移植的游戏
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
+    每个平台都有与另一个平台的兼容率。
+    兼容性越高移植就越成功。
+    相反，兼容性越低，移植的评分就越低。
+  TOOLTIP_CANNOT_PILOT_TRADE_PUBLISHED_GAME: |
+    此游戏是在另一家负责所有营销工作的公司的帮助下发布的。
+
+    因此，您无法组织促销或营销活动。
+  LABEL_OPTION_120_FPS: 强制 120 FPS
+  TOOLTIP_OPTION_120_FPS: |
+    强制游戏显示每秒120帧。
+    默认情况下，游戏显示每秒60帧。
+
+    此选项可能导致不稳定。
+    如果遇到问题，请考虑禁用它。
+  LABEL_OPTION_PARTICLE: 员工粒子
+  LABEL_OPTION_SEASON: 季节显示
+  TOOLTIP_OPTION_PARTICLE: |
+    当员工为游戏或任何其他项目产生积分时，在其头顶显示一个小气泡。
+
+    禁用此选项可以大幅提高性能。
+  TOOLTIP_OPTION_SEASON: |
+    城市地图根据季节改变颜色。
+
+    此选项对性能影响很小。
+  TOOLTIP_OPTION_ANISOTROPIC_FILTER: |
+    改善游戏中纹理的渲染效果。
+
+    此选项对性能影响很小。
+  TOOLTIP_OPTION_CLOUDS: |
+    城市地图显示云朵。
+
+    此选项对性能影响很小。
+  LABEL_GAME_OF_THE_YEAR_WINNER: 获奖者
+  LABEL_GAME_OF_THE_YEAR_RUNNERS_UP: 亚军
+  LABEL_NOMINATED: 已提名
+  TOOLTIP_GAME_OF_THE_YEAR_REQUIREMENT_NOT_FULLFILLED: |
+    要放置年度游戏奖杯，您的游戏之一必须赢得年度游戏奖。
+
+    每次获奖可以放置一个奖杯。
+  TOOLTIP_GOTY_ALREADY_PUBLISHED: |
+    您已经发布了这款游戏的年度游戏版本。
+  TOOLTIP_NOT_UNLOCKED_YET: 尚未解锁
+  LABEL_REMOVE_GAME_FROM_SHELVES: >
+    您的游戏 %s 已从市场下架。游戏至少保留6个月,如果在6个月期间每月收入低于1,000美元,则会自动下架。
+  LABEL_WINDOWED: 窗口模式
+  LABEL_WINDOWED_BORDERLESS: 无边框窗口
+  LABEL_FULLSCREEN_BORDERLESS: 无边框全屏
+  TOOLTIP_STUDIO_DIRECTOR_UPDATE_GAME: |
+    选择总监的更新策略：
+
+    • 不更新：专注于创建新游戏
+    • 仅更新自己的游戏：只更新自己开发的游戏
+    • 更新所有游戏：管理整个可用目录的更新
+
+    完成更新后，总监将继续开发新项目。
+  TOOLTIP_STUDIO_DIRECTOR_MAXIMUM_VALUE: |
+    您最多可以招聘%s名工作室总监。
+  
+    为了保持游戏平衡，此限制鼓励战略性管理。
+
+    建议：
+    招聘能够同时监督多个工作室的资深总监，
+    以开发更具雄心的项目！
   TOOLTIP_HISTORICAL_MODE: |
     历史模式：
   
@@ -211,6 +295,7 @@ zh:
   LABEL_GET_ALL_STUDIO: 收购所有工作室
   LABEL_HIRE_ALL: 收购所有员工
   LABEL_GET_ALL_GAME: 收购所有游戏
+  LABEL_GET_ALL_PLATFORM: 获取所有平台
   LABEL_UPCOMING_GAME: 今天的愿望清单
   LABEL_BANKER_GOODBYE_MESSAGE: 感谢您的时间和考虑。我们将根据您的最终决定进行处理。如果您需要进一步的帮助，请随时告知我们。
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 您确定要出售您在过去几个月开发的游戏引擎吗？这可能会对未来项目产生负面影响。
@@ -540,7 +625,7 @@ zh:
     最有可能的情况估计与该设备无法产生满意效果有关。有报道称，有玩家在测试期间玩游戏时出现晕动病，且多达40%的用户在开发过程中感受"虚拟恶心"。已公布四款的游戏从未向公众展示，也没有其他新游戏公开。由于无法创造他们承诺的栩栩如生的沉浸感，[b]Saga[/b]于1994年明智地终止了该项目，而[b]Saga[/b] VR也安静地淡出了人们的视野。
 
     [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
-  LABEL_MINI_GAMES_FX: 迷您游戏视觉效果
+  LABEL_MINI_GAMES_FX: 迷你游戏视觉效果
   LABEL_RESTART_REQUIRED: 需要重新启动
   LABEL_DARK_MODE: 深色主题
   LABEL_LAST_12_MONTHS: 过去12个月
@@ -1060,6 +1145,8 @@ zh:
   LABEL_NO_FILTER: 不筛选
   LABEL_GAME_UPDATE_EXPECTED: 等待更新
   LABEL_GAME_UPDATE_NOTEXPECTED: 无需更新
+  LABEL_STUDIO_DIRECTOR_PRESENT: 由工作室总监制作
+  LABEL_STUDIO_DIRECTOR_ABSENT: 手动制作
   LABEL_MARKETING_CAMPAIGN_ACTIVE: 正在进行中的营销活动
   LABEL_MARKETING_CAMPAIGN_INACTIVE: 没有正在进行的营销活动
   LABEL_FANBASE_GAIN: 不断增长的粉丝数量
