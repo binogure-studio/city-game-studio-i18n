@@ -117,8 +117,17 @@ th:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: อัปเดตเกมทั้งหมด
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: อัปเดตเกมของตัวเอง
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: อัปเดตเฉพาะเกมทั้งหมด
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: เขียนทับไฟล์บันทึกหรือไม่?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: บันทึกและโหลด
+  LABEL_SETTINGS_AND_HELP: การตั้งค่าและความช่วยเหลือ
+  LABEL_NAVIGATION: การนำทาง
+  LABEL_STAFF_DEV_SIZE: จำนวนนักพัฒนา
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    ไฟล์บันทึก "%s" มีอยู่แล้ว
+
+    คุณต้องการเขียนทับหรือไม่?
   LABEL_COPY_PROTECTION: การป้องกันการคัดลอก
   TOOLTIP_COPY_PROTECTION: |
     การเพิ่มการป้องกันการคัดลอกช่วยรับประกันคุณภาพของเกมที่เผยแพร่บนคอนโซลของคุณ
@@ -2446,6 +2455,9 @@ th:
   PLACEHOLDER_GAME_GENRE: ประเภทของเกม
   PLACEHOLDER_GAME_NAME: ชื่อเกม
   PLACEHOLDER_PLAYER_NAME: ชื่อของคุณ
+  PLACEHOLDER_SAVEGAME_NAME: ชื่อไฟล์บันทึก
+  LABEL_CANNOT_BE_EMPTY: ชื่อต้องไม่เว้นว่าง
+  LABEL_NAME_CANNOT_CONTAIN: ชื่อต้องไม่มี
 
   LABEL_VERSION_BETA: Beta version
   LABEL_BREAK_LAW: |

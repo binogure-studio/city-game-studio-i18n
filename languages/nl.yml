@@ -117,8 +117,17 @@ nl:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Alle games bijwerken
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Eigen games bijwerken
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Alleen alle spellen updaten
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Save overschrijven?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Opslaan & Laden
+  LABEL_SETTINGS_AND_HELP: Instellingen & Hulp
+  LABEL_NAVIGATION: Navigatie
+  LABEL_STAFF_DEV_SIZE: Aantal ontwikkelaars
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    De save "%s" bestaat al.
+
+    Wil je deze overschrijven?
   LABEL_COPY_PROTECTION: Kopieerbescherming
   TOOLTIP_COPY_PROTECTION: |
     Het toevoegen van kopieerbescherming helpt een zekere kwaliteit te garanderen voor games die op je console worden uitgebracht.
@@ -2442,6 +2451,9 @@ nl:
   PLACEHOLDER_GAME_GENRE: Game genre
   PLACEHOLDER_GAME_NAME: Gamenaam
   PLACEHOLDER_PLAYER_NAME: jouw naam
+  PLACEHOLDER_SAVEGAME_NAME: Naam van de save
+  LABEL_CANNOT_BE_EMPTY: De naam mag niet leeg zijn
+  LABEL_NAME_CANNOT_CONTAIN: De naam mag niet bevatten
 
   LABEL_VERSION_BETA: Beta versie
   LABEL_BREAK_LAW: |

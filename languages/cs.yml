@@ -117,8 +117,17 @@ cs:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Aktualizovat všechny hry
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Aktualizovat vlastní hry
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Aktualizovat pouze všechny hry
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Přepsat uloženou hru?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Uložení & Načtení
+  LABEL_SETTINGS_AND_HELP: Nastavení & Nápověda
+  LABEL_NAVIGATION: Navigace
+  LABEL_STAFF_DEV_SIZE: Počet vývojářů
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    Uložená hra "%s" již existuje.
+
+    Chcete ji přepsat?
   LABEL_COPY_PROTECTION: Ochrana proti kopírování
   TOOLTIP_COPY_PROTECTION: |
     Přidání ochrany proti kopírování pomáhá zajistit určitou kvalitu her vydaných na vaší konzoli.
@@ -2445,6 +2454,9 @@ cs:
   PLACEHOLDER_GAME_GENRE: Žánr
   PLACEHOLDER_GAME_NAME: Název hry
   PLACEHOLDER_PLAYER_NAME: Vaše jméno
+  PLACEHOLDER_SAVEGAME_NAME: Název uložené hry
+  LABEL_CANNOT_BE_EMPTY: Název nemůže být prázdný
+  LABEL_NAME_CANNOT_CONTAIN: Název nesmí obsahovat
 
   LABEL_VERSION_BETA: Beta verze
   LABEL_BREAK_LAW: |

@@ -117,8 +117,17 @@ de:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Alle Spiele aktualisieren
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Eigene Spiele aktualisieren
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Nur alle Spiele aktualisieren
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Spielstand überschreiben?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Speichern & Laden
+  LABEL_SETTINGS_AND_HELP: Einstellungen & Hilfe
+  LABEL_NAVIGATION: Navigation
+  LABEL_STAFF_DEV_SIZE: Anzahl der Entwickler
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    Der Spielstand "%s" existiert bereits.
+
+    Möchten Sie ihn überschreiben?
   LABEL_COPY_PROTECTION: Kopierschutz
   TOOLTIP_COPY_PROTECTION: |
     Das Hinzufügen eines Kopierschutzes hilft, eine gewisse Qualität der auf Ihrer Konsole veröffentlichten Spiele zu gewährleisten.
@@ -2464,6 +2473,9 @@ de:
   PLACEHOLDER_GAME_GENRE: Spielgenre
   PLACEHOLDER_GAME_NAME: Spielname
   PLACEHOLDER_PLAYER_NAME: Dein Name
+  PLACEHOLDER_SAVEGAME_NAME: Name des Spielstands
+  LABEL_CANNOT_BE_EMPTY: Der Name darf nicht leer sein
+  LABEL_NAME_CANNOT_CONTAIN: Der Name darf nicht enthalten
 
   LABEL_VERSION_BETA: Betaversion
   LABEL_BREAK_LAW: |

@@ -117,8 +117,17 @@ uk:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Оновити всі ігри
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Оновити своï ігри
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Оновлювати лише всі ігри
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Перезаписати збереження?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Збереження та Завантаження
+  LABEL_SETTINGS_AND_HELP: Налаштування та Допомога
+  LABEL_NAVIGATION: Навігація
+  LABEL_STAFF_DEV_SIZE: Кількість розробників
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    Збереження "%s" вже існує.
+
+    Бажаєте перезаписати його?
   LABEL_COPY_PROTECTION: Захист від копіювання
   TOOLTIP_COPY_PROTECTION: |
     Додавання захисту від копіювання допомагає забезпечити певну якість ігор, що випускаються на вашій консолі.
@@ -2471,6 +2480,9 @@ uk:
   PLACEHOLDER_GAME_GENRE: Жанр гри
   PLACEHOLDER_GAME_NAME: Назва гри
   PLACEHOLDER_PLAYER_NAME: Ваше iм'я
+  PLACEHOLDER_SAVEGAME_NAME: Назва збереження
+  LABEL_CANNOT_BE_EMPTY: Назва не може бути порожньою
+  LABEL_NAME_CANNOT_CONTAIN: Назва не повинна містити
 
   LABEL_VERSION_BETA: Бета-версiя
   LABEL_BREAK_LAW: |

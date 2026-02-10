@@ -117,8 +117,17 @@ es:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Actualizar todos los juegos
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Actualizar sus juegos
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Solo actualizar todos los juegos
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: ¿Sobrescribir la partida?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Guardar y Cargar
+  LABEL_SETTINGS_AND_HELP: Configuración y Ayuda
+  LABEL_NAVIGATION: Navegación
+  LABEL_STAFF_DEV_SIZE: Número de desarrolladores
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    La partida "%s" ya existe.
+
+    ¿Deseas sobrescribirla?
   LABEL_COPY_PROTECTION: Protección anticopia
   TOOLTIP_COPY_PROTECTION: |
     Añadir protección anticopia ayuda a garantizar cierta calidad en los juegos publicados en tu consola.
@@ -2457,7 +2466,10 @@ es:
   PLACEHOLDER_GAME_GENRE: Género del juego
   PLACEHOLDER_GAME_NAME: Nombre del juego
   PLACEHOLDER_PLAYER_NAME: Tu nombre
-  
+  PLACEHOLDER_SAVEGAME_NAME: Nombre de la partida
+  LABEL_CANNOT_BE_EMPTY: El nombre no puede estar vacío
+  LABEL_NAME_CANNOT_CONTAIN: El nombre no debe contener
+
   LABEL_VERSION_BETA: Versión beta
   LABEL_BREAK_LAW: |
     Estás a punto de quebrantar la ley.

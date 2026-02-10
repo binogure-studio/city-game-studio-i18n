@@ -117,8 +117,17 @@ fr:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Mettre à jour tous les jeux
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Mettre à jour ses jeux
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Faire uniquement des mises à jour
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Écraser la sauvegarde ?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Sauvegarde & Chargement
+  LABEL_SETTINGS_AND_HELP: Paramètres & Aide
+  LABEL_NAVIGATION: Navigation
+  LABEL_STAFF_DEV_SIZE: Nombre de développeurs
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    La sauvegarde "%s" existe déjà.
+
+    Voulez-vous l'écraser ?
   LABEL_COPY_PROTECTION: Protection contre la copie
   TOOLTIP_COPY_PROTECTION: |
     Ajouter une protection contre la copie permet d'assurer une certaine qualité des jeux publiés.
@@ -2459,6 +2468,9 @@ fr:
   PLACEHOLDER_GAME_GENRE: Genre du jeu
   PLACEHOLDER_GAME_NAME: Nom du jeu
   PLACEHOLDER_PLAYER_NAME: Votre nom
+  PLACEHOLDER_SAVEGAME_NAME: Nom de la sauvegarde
+  LABEL_CANNOT_BE_EMPTY: Le nom ne peut pas être vide
+  LABEL_NAME_CANNOT_CONTAIN: Le nom ne doit pas contenir
 
   LABEL_VERSION_BETA: Version bêta
   LABEL_BREAK_LAW: |

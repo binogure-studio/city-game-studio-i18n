@@ -117,8 +117,17 @@ tr:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Tüm oyunları güncelle
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Kendi oyunlarını güncelle
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Sadece tüm oyunları güncelle
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Kayıt üzerine yazılsın mı?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Kaydet ve Yükle
+  LABEL_SETTINGS_AND_HELP: Ayarlar ve Yardım
+  LABEL_NAVIGATION: Gezinme
+  LABEL_STAFF_DEV_SIZE: Geliştirici sayısı
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    "%s" kaydı zaten mevcut.
+
+    Üzerine yazmak istiyor musunuz?
   LABEL_COPY_PROTECTION: Kopya koruması
   TOOLTIP_COPY_PROTECTION: |
     Kopya koruması eklemek, konsolunuzda yayınlanan oyunların belirli bir kalitesini sağlamaya yardımcı olur.
@@ -2432,6 +2441,9 @@ tr:
   PLACEHOLDER_GAME_GENRE: Oyun türü
   PLACEHOLDER_GAME_NAME: Oyun ismi
   PLACEHOLDER_PLAYER_NAME: İsminiz
+  PLACEHOLDER_SAVEGAME_NAME: Kayıt adı
+  LABEL_CANNOT_BE_EMPTY: Ad boş olamaz
+  LABEL_NAME_CANNOT_CONTAIN: Ad şunları içermemeli
 
   LABEL_VERSION_BETA: Beta versiyon
   LABEL_BREAK_LAW: |

@@ -117,8 +117,17 @@ pl:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Aktualizuj wszystkie gry
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Aktualizuj własne gry
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Aktualizuj tylko wszystkie gry
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Nadpisać zapis?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Zapis i Wczytywanie
+  LABEL_SETTINGS_AND_HELP: Ustawienia i Pomoc
+  LABEL_NAVIGATION: Nawigacja
+  LABEL_STAFF_DEV_SIZE: Liczba programistów
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    Zapis "%s" już istnieje.
+
+    Czy chcesz go nadpisać?
   LABEL_COPY_PROTECTION: Zabezpieczenie przed kopiowaniem
   TOOLTIP_COPY_PROTECTION: |
     Dodanie zabezpieczenia przed kopiowaniem pomaga zapewnić określoną jakość gier wydawanych na twojej konsoli.
@@ -2445,6 +2454,9 @@ pl:
   PLACEHOLDER_GAME_GENRE: Gatunek gry
   PLACEHOLDER_GAME_NAME: Nazwa gry
   PLACEHOLDER_PLAYER_NAME: Twoje imię
+  PLACEHOLDER_SAVEGAME_NAME: Nazwa zapisu
+  LABEL_CANNOT_BE_EMPTY: Nazwa nie może być pusta
+  LABEL_NAME_CANNOT_CONTAIN: Nazwa nie może zawierać
 
   LABEL_VERSION_BETA: Wersja beta
   LABEL_BREAK_LAW: |

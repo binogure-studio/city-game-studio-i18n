@@ -117,8 +117,17 @@ en:
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: Update all games
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Update own games
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Only Update All Games
+  BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Overwrite save?
 
   # Labels, descriptive
+  LABEL_SAVE_AND_LOAD: Save & Load
+  LABEL_SETTINGS_AND_HELP: Settings & Help
+  LABEL_NAVIGATION: Navigation
+  LABEL_STAFF_DEV_SIZE: Number of developers
+  LABEL_SAVEGAME_ALREADY_EXISTS: |
+    The save "%s" already exists.
+
+    Do you want to overwrite it?
   LABEL_COPY_PROTECTION: Copy Protection
   TOOLTIP_COPY_PROTECTION: |
     Adding copy protection helps ensure a certain quality for games published on your console.
@@ -2442,6 +2451,9 @@ en:
   PLACEHOLDER_GAME_GENRE: Game genre
   PLACEHOLDER_GAME_NAME: Game name
   PLACEHOLDER_PLAYER_NAME: Your name
+  PLACEHOLDER_SAVEGAME_NAME: Save name
+  LABEL_CANNOT_BE_EMPTY: Name cannot be empty
+  LABEL_NAME_CANNOT_CONTAIN: Name must not contain
 
   LABEL_VERSION_BETA: Beta version
   LABEL_BREAK_LAW: |
