@@ -106,7 +106,7 @@ uk:
   BUTTON_DEMOLISH_STUDIO: Знеснення будiвлi
   BUTTON_SAVEGAMEAS: Нове збереження
   BUTTON_TWITCH_INTEGRATION: Twitch
-  BUTTON_FETCH_TOKEN: Get token
+  BUTTON_FETCH_TOKEN: Отримати токен
   BUTTON_MAIN_MENU_NO_SAVE: Головне меню без збереження
   BUTTON_EXIT_NO_SAVE: Вихiд без збереження
   BUTTON_MAX_OUT_DEVKIT: Максимізувати кількість девкітів
@@ -448,13 +448,13 @@ uk:
 
     Глядачi зможуть пропонувати iмена через чат.
   LABEL_SECONDS: секунди
-  LABEL_TWITCH_POLL_DURATION: Тривалiсть опитування
-  LABEL_TWITCH_CHANNEL_NAME: Twitch channel name
-  LABEL_TWITCH_TOKEN: Twitch token
-  LABEL_TWITCH_CONNECTING: Connecting to Twitch...
-  LABEL_TWITCH_DISCONNECTED: Disconnected from Twitch
-  LABEL_TWITCH_CONNECTED: Connected to Twitch!
-  LABEL_TWITCH_AUTHENTICATION_FAILED: Authentication failed!
+  LABEL_TWITCH_POLL_DURATION: Тривалість опитування
+  LABEL_TWITCH_CHANNEL_NAME: Назва каналу Twitch
+  LABEL_TWITCH_TOKEN: Токен Twitch
+  LABEL_TWITCH_CONNECTING: Підключення до Twitch...
+  LABEL_TWITCH_DISCONNECTED: Відключено від Twitch
+  LABEL_TWITCH_CONNECTED: Підключено до Twitch!
+  LABEL_TWITCH_AUTHENTICATION_FAILED: Автентифікація не вдалася!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
     Встановлення правильноï цiни на консоль не так просто, але це може вплинути на ваш бiзнес.
 
@@ -948,157 +948,157 @@ uk:
     Генеральний директор [b]%s[/b] так прокоментував придбання:
     [indent]Наша галузь росте, i разом ми зможемо стати лiдерами в нову еру розваг[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: >
-    This game has not taken full advantage of the console's capabilities.
+    Ця гра не повністю використала можливості консолі.
   LABEL_MARKETSHARE_KRASHING: >
-    This console suffers from a terrible reputation which leads to low sales. It is recommended to stay away from it from now on.
+    Ця консоль має жахливу репутацію, що призводить до низьких продажів. Відтепер рекомендується триматися від неï подалі.
   LABEL_LOSING_MONEY_DESCRIPTION: |
-    Here are your financial results. It shows all your operating expenses and revenues.
+    Ось ваші фінансові результати. Вони показують усі ваші операційні витрати та доходи.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    Rental costs are a significant expense. You could buy the buildings or rent smaller ones and close those that cost you the most.
+    Витрати на оренду – це значні витрати. Ви можете купити будівлі або орендувати менші та закрити ті, які коштують вам найбільше.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    Payroll is a major expense. You should consider laying off staff.
+    Заробітна плата – це значна стаття витрат. Вам слід розглянути можливість звільнення персоналу.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    You have a lot of coffee machines/vending machines, and this is a strain on your budget
+    У вас багато кавових/вендингових автоматів, і це є навантаженням на ваш бюджет
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    Servers are expensive. If you have unused servers, you should sell them.
+    Сервери дорогі. Якщо у вас є невикористані сервери, вам слід ïх продати.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
-    You spend a lot on marketing campaigns. Maybe you should stop some marketing campaigns or conventions.
+    Ви багато витрачаєте на маркетингові кампаніï. Можливо, вам варто припинити деякі маркетингові кампаніï чи заходи.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
-    It seems that your mortgages are expensive. If you can, pay them off with a larger, long-term mortgage.
+    Здається, ваші іпотечні кредити дорогі. Якщо можете, погасіть ïх більшою довгостроковою іпотекою.
   LABEL_LOSING_MONEY_HARD: >
-    You spend more than you earn. If you want to figure out which costs you the most, consult your financial details.
-  LABEL_SUBSCRIPTION: Subscription
+    Ви витрачаєте більше, ніж заробляєте. Якщо ви хочете з'ясувати, що коштує вам найбільше, перевірте своï фінансові дані.
+  LABEL_SUBSCRIPTION: Підписка
   LABEL_PLATFORM_NOT_POWERFULL: >
-    This platform is not powerful enough
-  BUTTON_RELEASE_ALL: Release everything
+    Ця платформа недостатньо потужна
+  BUTTON_RELEASE_ALL: Випустити усе
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    Releases all games, contracts and consoles
-    that are ready to be published.
-  LABEL_PLATFORM_LIST_GAME: List video games
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Upcoming components
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Manufacturing news
+    Випускає всі ігри, контракти та консолі,
+    готові до публікаціï.
+  LABEL_PLATFORM_LIST_GAME: Список відеоігор
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: Майбутні компоненти
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: Новини виробництва
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
-    Hello %s,
+    Привіт %s,
 
-    I am very pleased to announce the release of a brand new component.
-    It is the brand new [b]%s[/b]. The engineers who designed it are proud to present it here.
+    Я дуже радий оголосити про випуск абсолютно нового компонента.
+    Це зовсім новий [b]%s[/b]. Інженери, які його спроектували, з гордістю представляють його тут.
     [center][img]%s[/img][/center]
-    Wishing you a pleasant day,
+    Бажаю вам приємного дня,
 
-    Sincerely
-    Binogure
-  LABEL_PLATFORM_COST_REDUCTION_TITLE: Console sales report
+    З повагою,
+    Bіnogure
+  LABEL_PLATFORM_COST_REDUCTION_TITLE: Звіт про продажі консолей
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
-    Hello %s,
+    Привіт %s,
 
-    Another email to fill your mailbox. But it's for a good cause.
-    I'm here to tell you about a reduction in manufacturing costs.
+    Ще один електронний лист, щоб заповнити вашу поштову скриньку. Але він для доброï справи.
+    Я тут, щоб розповісти вам про зниження виробничих витрат.
 
     %s
 
-    That will be all,
-    Have a nice day.
-    Binogure
+    Це буде все,
+    Гарного дня.
+    Bіnogure
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
-    [b]%s[/b]'s manufacturing costs reduced by [b]%s%%[/b].
+    Виробничі витрати [b]%s[/b] зменшено на [b]%s%%[/b].
   LABEL_PLATFORM_NOT_RELEASED: |
-    %s is not yet available
+    %s ще не доступний
   LABEL_PLATFORM_NO_COMPONENT: |
-    No selected components
-  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Manufacturing costs reduction
-  LABEL_FILTER_PLATFORM_RELEASED: Released platforms
-  LABEL_FILTER_PLATFORM_DISCONTINUED: Stopped Platforms
+    Немає вибраних компонентів
+  LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: Зниження виробничих витрат
+  LABEL_FILTER_PLATFORM_RELEASED: Випущені платформи
+  LABEL_FILTER_PLATFORM_DISCONTINUED: Зупинені платформи
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
-    Adjusts console quality.
+    Налаштовує якість консолі.
     
-    A poorly manufactured console is expected to fail more often.
-    Customers who purchased a faulty console are always entitled to a refund.
-  LABEL_PLATFORM_DISCONTINUE: Halt production
-  LABEL_PLATFORM_CHANGE_PRICE: Modify the price
-  LABEL_PLATFORM_UNIT_RETURNED: Units returned 
-  LABEL_PLATFORM_COST_RATIO: Costs' ratio
-  LABEL_PLATFORM_COMPONENT_CONTROLLER: Controller
-  LABEL_PLATFORM_COMPONENT_CPU: Processor
-  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Cartridge
-  LABEL_PLATFORM_COMPONENT_MEMORY: Memory
-  LABEL_PLATFORM_COMPONENT_GPU: Graphic card
-  LABEL_PLATFORM_COMPONENT_SCREEN: Screen
-  LABEL_PLATFORM_COMPONENT_BOX: Console case
-  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Hard drive
-  LABEL_PLATFORM_MAKING_COSTS: Manufacturing costs
-  LABEL_PLATFORM_UNLOCK_COSTS: Unlocking costs
-  LABEL_PLATFORM_DEVELOPMENT_POINTS: Development costs
-  LABEL_PLATFORM_QUALITY: Quality
-  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Estimated manufacturing costs
-  LABEL_PLATFORM_UNIT_PROFIT: Profit per unit
-  LABEL_PLATFORM_NAME: "Platform's name"
+    Очікується, що погано виготовлена ​​консоль частіше виходитиме з ладу.
+    Клієнти, які придбали несправну консоль, завжди мають право на відшкодування.
+  LABEL_PLATFORM_DISCONTINUE: Зупинити виробництво
+  LABEL_PLATFORM_CHANGE_PRICE: Змінити ціну
+  LABEL_PLATFORM_UNIT_RETURNED: Повернено одиниць
+  LABEL_PLATFORM_COST_RATIO: Коефіціант витрат
+  LABEL_PLATFORM_COMPONENT_CONTROLLER: Контролер
+  LABEL_PLATFORM_COMPONENT_CPU: Процесор
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: Картрідж
+  LABEL_PLATFORM_COMPONENT_MEMORY: Пам'ять
+  LABEL_PLATFORM_COMPONENT_GPU: Відеокарта
+  LABEL_PLATFORM_COMPONENT_SCREEN: Екран
+  LABEL_PLATFORM_COMPONENT_BOX: Корпус консолі
+  LABEL_PLATFORM_COMPONENT_HARDDRIVE: Жорсткий диск
+  LABEL_PLATFORM_MAKING_COSTS: Витрати на виробництво
+  LABEL_PLATFORM_UNLOCK_COSTS: Ціна розблокування
+  LABEL_PLATFORM_DEVELOPMENT_POINTS: Витрати на розробку
+  LABEL_PLATFORM_QUALITY: Якість
+  LABEL_PLATFORM_COMPUTED_MAKING_COSTS: Орієнтовні витрати на виробництво
+  LABEL_PLATFORM_UNIT_PROFIT: Прибуток на одиницю
+  LABEL_PLATFORM_NAME: "Назва платформи"
   LABEL_TRADE_PUBLISH_TOOLTIP: |
-    This publishing offer is backed by a $%s grant.
-    A %s$ penalty applies if you do not achieve a minimum score of %d%%.
+    Ця публікаційна пропозиція підкріплена грантом у розмірі $%s доларів.
+    Штраф у розмірі %s$ застосовується, якщо ви не досягнете мінімального бала в %d%%.
   LABEL_CANNOT_HIRE_NO_DESK: |
-    You must have a desk available to hire a specialist.
-  LABEL_CUSTOM_CONSOLE: Console development
+    Щоб найняти спеціаліста, вам потрібно мати вільне робоче місце.
+  LABEL_CUSTOM_CONSOLE: Розробка консолі
   LABEL_PLATFORM_MAKE_DESCRIPTION_0: |
-    Create your own video game console.
+    Створіть власну ігрову консоль.
   LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
-    Pick parts, assemble the console and get ready for the marketing campaign!
-    To maximize the benefit, consider hiring a marketing manager and an accountant.
+    Вибирайте деталі, збирайте консоль та готуйтеся до маркетинговоï кампаніï!
+    Щоб максимізувати вигоду, подумайте про найм менеджера з маркетингу та бухгалтера.
   LABEL_INCOMPATIBLE_VERSION: >
-    Cannot open save because it was created with newer version of the game
-  LABEL_GAME_CANCELED: Game canceled
-  LABEL_EMPLOYEE_FIRED: Employee fired
-  LABEL_ASSIGN_SPECIALIST: Assign specialists.
+    Не вдається відкрити збереження, оскільки воно було створено в новішій версіï гри
+  LABEL_GAME_CANCELED: Гру скасовано
+  LABEL_EMPLOYEE_FIRED: Працівника звільнено
+  LABEL_ASSIGN_SPECIALIST: Назначте спеціалістів.
   LABEL_ACCOUNTANT_TOOLTIP: |
-    Assign an accountant to reduce taxes liability.
+    Призначте бухгалтера для зменшення податкових зобов'язань.
   LABEL_MARKETING_MANAGER_TOOLTIP: |
-    Assign a marketing manager to boost a game's popularity.
+    Призначте менеджера з маркетингу, щоб підвищити популярність гри.
   LABEL_PRODUCER_ASSIGN_TOOLTIP: |
-    Assign a producer to find out the number of points required
+    Призначте продюсера, щоб дізнатися необхідну кількість очок.
   LABEL_PRODUCER_TOOLTIP: |
-    Producers create big/AAA games and boost developer productivity.
-    They specialize in a particular genre, which optimizes the blue areas of the gauges and
-    double the productivity boost if the game you're making matches with it's specialty.
+    Продюсери створюють великі/AAA-ігри та підвищують продуктивність розробників.
+    Вони спеціалізуються на певному жанрі, який оптимізує сині області індикаторів та
+    подвоює продуктивність, якщо гра, яку ви робите, відповідає спеціалізаціï.
   LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
-    You've assigned the right producer to make your game.
-    And that gives you even more tips than normal.
+    Ви призначили правильного продюсера для створення вашоï гри.
+    І це дає вам ще більше порад, ніж зазвичай.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
-    Assigning a network administrator to optimize the server
-    load needed per player.
+    Призначення мережевого адміністратора для оптимізаціï навантаження на сервер,
+    необхідне для кожного гравця.
   LABEL_INTERVIEW_INDIE: |
-    Hi,
-    I am Bruno Trigger. Every Wednesday I host the show [i]3615 Dorian[/i] about independent video games. 
-    As a big fan of [b]%s[/b] I'd like to ask you a few questions for our big game night of [b]%s[/b].
-    Do you have 5 minutes?
+    Привіт,
+    Я Бруно Тріггер. Щосереди я веду передачу [i]3615 Dorian[/i] про незалежні відеоігри.
+    Як великий шанувальник [b]%s[/b], я хотів би поставити вам кілька запитань щодо нашого великого ігрового вечора [b]%s[/b].
+    У вас є 5 хвилин?
   LABEL_INTERVIEW_INDIE_QUESTION: |
-    I dream of embarking on the adventure of independent game development! Being my own boss and responding to a loving and caring community, what a dream!
-    Our small community being fans of [b]%s[/b] games, what do you think we should focus on if we want to make a game?
+    Я мрію вирушити у пригоду незалежноï розробки ігор! Бути власним босом і реагувати на люблячу та турботливу спільноту - це ж мрія!
+    Наша невелика спільнота є фанатами [b]%s[/b] ігор, на чому, на вашу думку, нам слід зосередитися, якщо ми хочемо створити гру?
   LABEL_INTERVIEW_INDIE_RIGHT: |
-    Our expert Dorian agrees, and so does the [i]3615 Dorian[/i] community. [b]%s[/b] is the nugget we've all been waiting for!
+    Наш експерт Доріан погоджується, як і спільнота [i]3615 Dorian[/i]. [b]%s[/b] - це саме та перлина, на яку ми всі чекали!
   LABEL_INTERVIEW_BIG: |
-    Hello,
-    Gio Tard, I work for the [i]Rock Paper Pistol[/i]. [b]%s[/b] seems promising, I would like to ask you some questions for an article.
-    Do you have 5 minutes?
+    Привіт,
+    Джіо Тард, я працюю на [i]Rock Paper Pistol[/i]. [b]%s[/b] здається багатообіцяючим, я хотів би поставити вам кілька запитань для статті.
+    У вас є 5 хвилин?
   LABEL_INTERVIEW_BIG_QUESTION: |
-    After [b]%d[/b] years of existence you publish your first AAA. With [b]%s[/b], you enter the big league of the industry.
-    We would like to know, will [b]%s[/b] be named Game of the Year [b]%d[/b]?
+    Після [b]%d[/b] років існування ви публікуєте свою першу ААА. З [b]%s[/b] ви вступаєте в вищу лігу галузі.
+    Ми хотіли б знати, чи буде [b]%s[/b] названа Грою [b]%d[/b] року?
   LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
-    [b]%s[/b] has to have a crystal ball! Predicting in anticipation who will be nominated Game of the Year is not easy!
-    To be that farsighted, they have to know the inner workings of the industry!
+    [b]%s[/b] повинен мати кришталеву кулю! Прогнозувати в очікуванні, хто буде номінований на «Гру року», непросто!
+    Щоб бути такими далекоглядними, вони повинні знати, як влаштована галузь зсередини!
   LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
-    Anyone can be wrong, you, me, everyone.One thing is certain, however, [b]%s[/b] has not been able to predict the future!
-    People learn more from their mistakes than from their successes. In any case, this is something we probably hear a lot at [b]%s[/b].
+    Хто завгодно може помилятися: ти, я, всі. Одне можна сказати точно, як би там не було, [b]%s[/b] не зміг передбачити майбутнє!
+    Люди більше вчаться на своïх помилках, ніж на своïх успіхах. У будь-якому випадку, це те, що ми, наймовірніше, часто чуємо на [b]%s[/b].
   LABEL_INTERVIEW_BIG_YES: |
-    Well, after a lot of hard work, it is for sure.
+    Ну, після важкоï роботи це точно.
   LABEL_INTERVIEW_BIG_NO: |
-    We would be the first surprised if it was the case!
+    Якби це було так, ми здивувалися б першими!
   LABEL_INTERVIEW_REFUSAL: |
-    Sorry to have wasted your time.
+    Пробачте, що витратив ваш час.
   LABEL_INTERVIEW_ACCEPT: |
-    Of course.
+    Звісно.
   LABEL_ADVANCED_START_TOOLTIP: |
-    It is best to leave this box unchecked if this is your first game.
+    Краще не ставити цей прапорець, якщо це ваша перша гра.
 
-    The advanced start unlocks all the features from the very beginning of the game.
+    Розширений запуск відкриває всі можливості з самого початку гри.
   LABEL_NUMBER_OF_PRODUCED_POINTS: Кiлькiсть вироблених очок
   LABEL_REQUIRE_FANBASE: Потрiбно %s фанатiв для збiльшення продажiв.
   LABEL_MAINTENANCE: Технiчне обслуговування
