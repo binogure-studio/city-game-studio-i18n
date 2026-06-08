@@ -118,8 +118,74 @@ th:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: อัปเดตเกมของตัวเอง
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: อัปเดตเฉพาะเกมทั้งหมด
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: เขียนทับไฟล์บันทึกหรือไม่?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: ไม่มีภาคต่อ
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: สร้างภาคต่อสำหรับเกมทั้งหมด
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: สร้างภาคต่อสำหรับเกมของตัวเอง
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    เลือกกลยุทธ์ภาคต่อของผู้อำนวยการ:
+
+    • ไม่มีภาคต่อ: มุ่งเน้นเฉพาะการสร้างเกมใหม่
+    • เฉพาะเกมของตัวเอง: สร้างภาคต่อเฉพาะเกมที่พวกเขาพัฒนา
+    • เกมทั้งหมด: สร้างภาคต่อสำหรับแค็ตตาล็อกที่มีทั้งหมด
+
+    เมื่อเสร็จสิ้น ผู้อำนวยการจะกลับมาพัฒนาโครงการใหม่
+  LABEL_CONVENTION_UPDATE_ALL_GAME: เปลี่ยนเกมทั้งหมดสำหรับงานแสดงทั้งหมด
+  LABEL_STUDIO_IDLE_FIRST: สตูดิโอที่ว่างก่อน
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: รายงานประจำปี — ปีงบประมาณ %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: เป็นความลับ — ใช้ภายในเท่านั้น
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: ภาพรวมทางการเงิน
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: รายได้ทั้งหมด
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: ค่าใช้จ่ายทั้งหมด
+  LABEL_ANNUAL_REPORT_NET_PROFIT: กำไรสุทธิ
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: เงินสดที่มี
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: รายละเอียดรายได้
+  LABEL_ANNUAL_REPORT_GAME_SALES: ยอดขายเกม
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: ใบอนุญาตเกมเอ็นจิน
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: ร้านค้าดิจิทัล
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: แพลตฟอร์ม
+  LABEL_ANNUAL_REPORT_STOCK: หุ้น
+  LABEL_ANNUAL_REPORT_CONTRACT: สัญญาเผยแพร่
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: รายละเอียดค่าใช้จ่าย
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: ส่วนแบ่งของผู้อำนวยการสตูดิโอ
+  LABEL_ANNUAL_REPORT_MORTGAGE: จำนอง
+  LABEL_ANNUAL_REPORT_RENT: ค่าเช่า
+  LABEL_ANNUAL_REPORT_SERVER: เซิร์ฟเวอร์
+  LABEL_ANNUAL_REPORT_MAINTENANCE: การบำรุงรักษา
+  LABEL_ANNUAL_REPORT_SALARY: เงินเดือน
+  LABEL_ANNUAL_REPORT_TAXES: ภาษี
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: การพัฒนา
+  LABEL_ANNUAL_REPORT_TRAINING: การฝึกอบรม
+  LABEL_ANNUAL_REPORT_MARKETING: การตลาด
+  LABEL_ANNUAL_REPORT_FURNITURE: เฟอร์นิเจอร์
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: สำนักงาน
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: ทรัพยากรบุคคล
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: สตูดิโอที่ใช้งาน
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: จำนวนพนักงานทั้งหมด
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · ก่อตั้งในปี %s · สงวนลิขสิทธิ์"
+  LABEL_NO_CONTRACT_AVAILABLE: ไม่มีสัญญาที่พร้อมใช้งาน
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: มค
+  LABEL_MONTH_FEBRUARY: กพ
+  LABEL_MONTH_MARCH: มีค
+  LABEL_MONTH_APRIL: เมย
+  LABEL_MONTH_MAY: พค
+  LABEL_MONTH_JUNE: มิย
+  LABEL_MONTH_JULY: กค
+  LABEL_MONTH_AUGUST: สค
+  LABEL_MONTH_SEPTEMBER: กย
+  LABEL_MONTH_OCTOBER: ตค
+  LABEL_MONTH_NOVEMBER: พย
+  LABEL_MONTH_DECEMBER: ธค
+  LABEL_CHECK_OTHER_GAME: เกมอื่นของฉัน
   LABEL_SAVE_AND_LOAD: บันทึกและโหลด
   LABEL_SETTINGS_AND_HELP: การตั้งค่าและความช่วยเหลือ
   LABEL_NAVIGATION: การนำทาง
@@ -153,6 +219,13 @@ th:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: เกมที่จะพอร์ต
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: เกมที่ผลิตโดยผู้อำนวยการสตูดิโอคนนี้
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: เกมทั้งหมดที่สามารถพอร์ตได้
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    อิงจากส่วนแบ่งตลาดของคอนโซลเพื่อพอร์ตเกม
+    หากส่วนแบ่งตลาดต่ำกว่าค่าที่กำหนด เกมจะไม่ถูกพอร์ตไปยังคอนโซล
+    แต่หากส่วนแบ่งตลาดของคอนโซลมากกว่าหรือเท่ากับค่าที่กำหนด เกมจะถูกพอร์ตไปยังคอนโซล
+
+    การตั้งค่าตัวบ่งชี้เป็น 0 หมายถึงการพอร์ตเกมทั้งหมดไปยังแพลตฟอร์มที่มีทั้งหมด
+  LABEL_PLATFORM_MARKETSHARE_MIN: ส่วนแบ่งตลาดขั้นต่ำ
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     แพลตฟอร์มแต่ละแห่งมีอัตราความเข้ากันได้กับแพลตฟอร์มอื่น ยิ่งความเข้ากันได้สูงเท่าไร
     การพอร์ตก็จะยิ่งประสบความสำเร็จมากขึ้นเท่านั้น ในทางกลับกัน
@@ -318,6 +391,22 @@ th:
   LABEL_GET_ALL_PLATFORM: รับแพลตฟอร์มทั้งหมด
   LABEL_UPCOMING_GAME: Wishlist today!
   LABEL_BANKER_GOODBYE_MESSAGE: Thank you for your time and consideration. We’ll proceed based on your final decision. If you need further assistance, please let us know.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    ขายหุ้นทั้งหมดที่คุณเป็นเจ้าของในคู่แข่งทุกราย
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    คุณแน่ใจหรือไม่ว่าต้องการยอมรับข้อเสนอนี้? หากยอมรับ คุณจะขายหุ้นทั้งหมดของคุณ!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    ยอมรับ ขายทั้งหมด
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    ยกเลิก ต้องมีวิธีอื่นแน่ๆ
+  LABEL_BANKER_STATE_LOAN: >
+    รัฐเสนอที่จะชำระหนี้ของคุณเพื่อแลกกับภาษีเพิ่มเติม %d%% เป็นเวลา %d ปี
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    คุณแน่ใจหรือไม่ว่าต้องการยอมรับข้อเสนอนี้? หากยอมรับ คุณจะต้องจ่ายภาษีเพิ่มเติม %d%% เป็นระยะเวลา %d ปี
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    ยอมรับ เราไม่มีทางเลือก นี่ยังคงเป็นทางออกที่สมเหตุสมผลที่สุด
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    ยกเลิก ภาษีเพิ่มเติมนี้จะทำลายรายได้ของเราในระยะยาว
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Are you sure you want to sell the game engine you developed over the past few months? This could harm your future projects.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Confirmation. We have no other choice. We need to reduce our debt immediately.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Cancellation. We need to consider other options before selling such a valuable asset.
@@ -625,6 +714,13 @@ th:
   LABEL_PINBALL_CITY_GAME_STUDIO: พินบอล City Game Studio
   LABEL_PINBALL_SNEAK_IN: พินบอล Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: ติดต่อคู่แข่งที่เหลือทั้งหมด
+  LABEL_COVID_EVENT: |
+    ไวรัสแปลกปรากฏขึ้น ผู้ติดเชื้อมีอาการไอและมีไข้สูงในบรรดาอาการต่างๆ
+    ประมาณห้าสิบอาการ มันแพร่กระจายด้วยความเร็วที่น่าตกใจ เมื่อเผชิญกับไวรัสใหม่นี้ รัฐบาลทั่วโลกกำลังใช้มาตรการที่เข้มงวดและเรียกร้องให้พลเมืองอยู่บ้าน
+
+    ผู้คนที่ถูกกักขังจึงหันไปหาคอมพิวเตอร์และเครื่องเล่นเกมของพวกเขา
+    สิ่งนี้มีผลดีต่อการขายเกมทั้งหมดของคุณ คาดว่าจะมี[b]ยอดขายเพิ่มขึ้น[/b]ใน[b]24 เดือนข้างหน้า[/b]
+  LABEL_COVID_EVENT_ANNOUNCEMENT: ยอดขายเพิ่มขึ้นในอนาคต
   LABEL_GRANTENDO_DENY_PARTNERSHIP: "Grantendo/Deny partnership"
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
     The word is in, and that word is CD-ROM for the [b]Super Grantendo[/b]! [b]Grantendo[/b] hannounced that a CD-ROM drive for use with the [b]Super Grantendo[/b] would be introduced in January of 1993. Shortly thereafter, [b]Grantendo[/b]'s third-party licensee developers received technical specification for the new drive and were invited to a conference devoted to explaining the new hardware in detail. There they will learn about the outstanding capabilities of the Super GES CD-ROM drive including full-screen, full-motion video, XA compatibility and the unit's 8 megs of RAM. Unless you're an engineer, however, much of that technical jargon might not mean much.
@@ -728,6 +824,8 @@ th:
   LABEL_FILTER_NONE: ไม่มี
   LABEL_FILTER_ONLY_NO_CONTRACTS: ไม่มีสัญญา
   LABEL_FILTER_ONLY_CONTRACTS: สัญญา
+  TOOLTIP_ENTER_COMPANY_NAME: ป้อนชื่อบริษัทของคุณ
+  TOOLTIP_ENTER_PLAYER_NAME: ป้อนชื่อของคุณ
   TOOLTIP_SELECT_DIFFICULTY: |
     โปรดเลือกระดับความยาก
   LABEL_EASY: ง่าย
@@ -787,6 +885,8 @@ th:
     ไปกันเถอะ!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     ปล่อยให้มันเกิดขึ้น!
+  LABEL_MINIGAME_DEFEND_PAY: |
+    จ่าย [b]%s[/b] เพื่อหยุดการโจมตีครั้งนี้และบล็อกการโจมตีในอนาคตทั้งหมด
   LABEL_MINIGAME_LOSE: |
     เกมของคุณเปิดให้เล่นฟรีในตลาด ยอดขายจะพุ่งกระฉูด
   LABEL_MINIGAME_DEFEND_WIN: |
@@ -2487,8 +2587,17 @@ th:
   LABEL_HOOVERBALL: แอร์ฮอกกี้
   LABEL_TV: โทรทัศน์
   LABEL_ARCADE_CITY_GAME_STUDIO: อาเขต City Game Studio
+  LABEL_YELLOWCOUCH: โซฟาสีเหลืองอ่อน
+  LABEL_BLUECOUCH: โซฟาสีน้ำเงินอ่อน
+  LABEL_BLUEARMCHAIR: เก้าอี้สีน้ำเงินอ่อน
+  LABEL_YELLOWARMCHAIR: เก้าอี้สีเหลืองอ่อน
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    เฟอร์นิเจอร์ชิ้นนี้เหมือนกับต้นฉบับแต่มีรูปลักษณ์ที่แตกต่าง
+    ไม่มีสถิติที่ดีกว่าหรือผลกระทบที่แตกต่างกัน
+
+    คุณต้องเป็นเจ้าของ DLC "Supporter Pack" เพื่อปลดล็อกเฟอร์นิเจอร์ชิ้นนี้
   TOOLTIP_BONUS_HYPE: |
     It's when you show off your games at conventions that you generate the bonus hype.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2584,8 +2693,12 @@ th:
 
     You should make the game slightly smaller to sell it better.
     To grow your fan base, you can also take offers to publish from other companies.
+  LABEL_ORDER_BY_NAME_ONLY: ตามชื่อเท่านั้น
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: ตามชื่อและกิจกรรม
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    จัดเรียงรายการสตูดิโอ
   TOOLTIP_TIPS_CAPACITY: |
     You get more hints by making contracts or game reports.
     More hints means a more accurate blue gauge.

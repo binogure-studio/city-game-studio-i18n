@@ -118,8 +118,74 @@ ja:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: 自分のゲームを更新
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: 全ゲームのみアップデート
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: セーブを上書きしますか？
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: 続編なし
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: すべてのゲームの続編を作成
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: 自分のゲームの続編を作成
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    ディレクターの続編戦略を選択：
+
+    • 続編なし：新しいゲームの作成のみに専念
+    • 自分のゲームのみ：開発したゲームの続編のみを作成
+    • すべてのゲーム：利用可能なカタログ全体の続編を作成
+
+    完了すると、ディレクターは新しいプロジェクトの開発を再開します。
+  LABEL_CONVENTION_UPDATE_ALL_GAME: すべてのコンベンションのすべてのゲームを変更する。
+  LABEL_STUDIO_IDLE_FIRST: アイドル状態のスタジオを最初に表示
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: 年次報告書 — 会計年度%s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: 機密 — 社内使用のみ
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: 財務概要
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: 総収益
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: 総支出
+  LABEL_ANNUAL_REPORT_NET_PROFIT: 純利益
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: 利用可能現金
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: 収益内訳
+  LABEL_ANNUAL_REPORT_GAME_SALES: ゲーム販売
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: ゲームエンジンライセンス
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: デジタルストア
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: プラットフォーム
+  LABEL_ANNUAL_REPORT_STOCK: 株式
+  LABEL_ANNUAL_REPORT_CONTRACT: パブリッシング契約
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: 支出内訳
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: スタジオディレクター報酬
+  LABEL_ANNUAL_REPORT_MORTGAGE: 住宅ローン
+  LABEL_ANNUAL_REPORT_RENT: 家賃
+  LABEL_ANNUAL_REPORT_SERVER: サーバー
+  LABEL_ANNUAL_REPORT_MAINTENANCE: メンテナンス
+  LABEL_ANNUAL_REPORT_SALARY: 給与
+  LABEL_ANNUAL_REPORT_TAXES: 税金
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: 開発
+  LABEL_ANNUAL_REPORT_TRAINING: 研修
+  LABEL_ANNUAL_REPORT_MARKETING: マーケティング
+  LABEL_ANNUAL_REPORT_FURNITURE: 家具
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: オフィス
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: 人事
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: 稼働中のスタジオ
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: 総従業員数
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · %s年設立 · 無断転載禁止"
+  LABEL_NO_CONTRACT_AVAILABLE: 利用可能な契約がありません
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: 01月
+  LABEL_MONTH_FEBRUARY: 02月
+  LABEL_MONTH_MARCH: 03月
+  LABEL_MONTH_APRIL: 04月
+  LABEL_MONTH_MAY: 05月
+  LABEL_MONTH_JUNE: 06月
+  LABEL_MONTH_JULY: 07月
+  LABEL_MONTH_AUGUST: 08月
+  LABEL_MONTH_SEPTEMBER: 09月
+  LABEL_MONTH_OCTOBER: 10月
+  LABEL_MONTH_NOVEMBER: 11月
+  LABEL_MONTH_DECEMBER: 12月
+  LABEL_CHECK_OTHER_GAME: 私の他のゲーム
   LABEL_SAVE_AND_LOAD: セーブ＆ロード
   LABEL_SETTINGS_AND_HELP: 設定＆ヘルプ
   LABEL_NAVIGATION: ナビゲーション
@@ -153,6 +219,13 @@ ja:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: 移植するゲーム
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: このスタジオディレクターが制作したゲーム
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: 移植可能なすべてのゲーム
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    ゲームを移植するためのコンソールの市場シェアに基づいています。
+    市場シェアが値より低い場合、ゲームはそのコンソールに移植されません。
+    しかし、コンソールの市場シェアが値以上の場合、ゲームはそのコンソールに移植されます。
+
+    ゲージを0に設定すると、すべてのゲームをすべての利用可能なプラットフォームに移植します。
+  LABEL_PLATFORM_MARKETSHARE_MIN: 最小市場シェア
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     各プラットフォームは他のプラットフォームとの互換性率があります。
     互換性が高いほど、移植の成功率が高くなります。
@@ -318,6 +391,22 @@ ja:
   LABEL_GET_ALL_PLATFORM: 全プラットフォームを取得
   LABEL_UPCOMING_GAME: 今日のウィッシュリストへ
   LABEL_BANKER_GOODBYE_MESSAGE: お時間とご検討いただきありがとうございます。最終決定に基づいて進めます。さらにサポートが必要な場合は、お知らせください。
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    すべての競合他社の保有株式をすべて売却する
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    本当にこの提案を受け入れますか？受け入れると、すべての株式を売却することになります！
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    受け入れる、すべて売却する。
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    キャンセル、他に方法があるはずだ。
+  LABEL_BANKER_STATE_LOAN: >
+    国家が%d年間の追加税%d%%と引き換えに、あなたの負債を支払うことを提案しています
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    本当にこの提案を受け入れますか？受け入れると、%d年間にわたって%d%%の追加税を支払う必要があります。
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    受け入れる。選択肢がない、これが最も論理的な解決策だ。
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    キャンセル。この追加税は長期的に収益を破壊するだろう。
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 過去数ヶ月間に開発したゲームエンジンを販売するつもりですか？これは将来のプロジェクトに悪影響を与える可能性があります。
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: 確認。選択肢はありません。直ちに負債を減らす必要があります。
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: キャンセル。このような貴重な資産を売る前に他の選択肢を検討する必要があります。
@@ -627,6 +716,13 @@ ja:
   LABEL_PINBALL_CITY_GAME_STUDIO: ピンボール City Game Studio
   LABEL_PINBALL_SNEAK_IN: ピンボール Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: 残りのすべての競合他社に連絡する。
+  LABEL_COVID_EVENT: |
+    奇妙なウイルスが出現しました。感染者は、約50種類のさまざまな症状の中で咳と激しい発熱に苦しんでいます。
+    目まぐるしい速さで拡散しています。この新しいウイルスに直面して、世界中の政府は抜本的な対策を講じ、市民に自宅待機を呼びかけています。
+
+    こうして閉じ込められた人々は、コンピュータやゲーム機に目を向けています。
+    これは、すべてのゲームの売上にプラスの効果をもたらします。[b]今後24か月間[/b]、[b]売上増加[/b]が見込まれます。
+  LABEL_COVID_EVENT_ANNOUNCEMENT: 売上増加が見込まれます
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Denyパートナーシップ
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     その言葉とは、[b]Super Grantendo[/b]用のCD-ROM! [b]Grantendo[/b]は、
@@ -726,6 +822,8 @@ ja:
   LABEL_FILTER_NONE: なし
   LABEL_FILTER_ONLY_NO_CONTRACTS: 契約なし
   LABEL_FILTER_ONLY_CONTRACTS: 契約済み
+  TOOLTIP_ENTER_COMPANY_NAME: 会社名を入力してください
+  TOOLTIP_ENTER_PLAYER_NAME: 名前を入力してください
   TOOLTIP_SELECT_DIFFICULTY: |
     難易度を選択してください
   LABEL_EASY: 簡単
@@ -785,6 +883,8 @@ ja:
     よし、やろう!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     放っておけ!
+  LABEL_MINIGAME_DEFEND_PAY: |
+    [b]%s[/b]を支払ってこの攻撃を止め、今後のすべての攻撃をブロックする
   LABEL_MINIGAME_LOSE: |
     あなたのゲームはタダで市場に出回っています。
     売上に響くでしょう。
@@ -2476,8 +2576,17 @@ ja:
   LABEL_HOOVERBALL: エアホッケー
   LABEL_TV: テレビ
   LABEL_ARCADE_CITY_GAME_STUDIO: アーケード City Game Studio
+  LABEL_YELLOWCOUCH: 明るい黄色のソファ
+  LABEL_BLUECOUCH: 明るい青色のソファ
+  LABEL_BLUEARMCHAIR: 明るい青色のアームチェア
+  LABEL_YELLOWARMCHAIR: 明るい黄色のアームチェア
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    この家具は、見た目が異なるだけで元の家具と同じです。
+    より良い統計や異なる効果はありません
+
+    この家具のロックを解除するには、DLC「Supporter Pack」を所有している必要があります。
   TOOLTIP_BONUS_HYPE: |
     コンベンションでゲームを披露するときこそ、ボーナスの誇大広告が生まれるのだ。
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2571,8 +2680,12 @@ ja:
 
     成功する為にはゲームのサイズを少し小さめにしたほうが良いでしょう。
     また、ファンを増やすために他社からの出版のオファーを受けるのもいいでしょう。
+  LABEL_ORDER_BY_NAME_ONLY: 名前のみ
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: 名前とアクティビティ順
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    スタジオリストを並べ替える
   TOOLTIP_TIPS_CAPACITY: |
     契約書やゲームレポートを作成することで、より多くのヒントを得ることができる。
     ヒントが増えるということは、ブルーゲージの精度が上がるということだ。

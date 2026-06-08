@@ -118,8 +118,74 @@ tr:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Kendi oyunlarını güncelle
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Sadece tüm oyunları güncelle
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Kayıt üzerine yazılsın mı?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Devam oyunu yok
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Tüm oyunlar için devam oyunu oluştur
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Kendi oyunları için devam oyunu oluştur
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Yönetmenin devam oyunu stratejisini seçin:
+
+    • Devam oyunu yok: yalnızca yeni oyunlar oluşturmaya odaklanır
+    • Yalnızca kendi oyunları: yalnızca geliştirdikleri oyunlar için devam oyunu yapar
+    • Tüm oyunlar: mevcut tüm katalog için devam oyunu yapar
+
+    Tamamlandıktan sonra, yönetmen yeni projeleri geliştirmeye devam eder.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Tüm konvansiyonlardaki tüm oyunları değiştir.
+  LABEL_STUDIO_IDLE_FIRST: Boşta olan stüdyolar önce
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Yıllık Rapor — Mali Yıl %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Gizli — Yalnızca dahili kullanım
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Finansal genel bakış
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Toplam gelir
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Toplam giderler
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Net kâr
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Mevcut nakit
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Gelir dağılımı
+  LABEL_ANNUAL_REPORT_GAME_SALES: Oyun satışları
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Oyun motoru lisansları
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Dijital mağaza
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Platformlar
+  LABEL_ANNUAL_REPORT_STOCK: Hisse senetleri
+  LABEL_ANNUAL_REPORT_CONTRACT: Yayın sözleşmeleri
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Gider dağılımı
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Stüdyo yönetmeni payı
+  LABEL_ANNUAL_REPORT_MORTGAGE: Mortgage
+  LABEL_ANNUAL_REPORT_RENT: Kira
+  LABEL_ANNUAL_REPORT_SERVER: Sunucu
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Bakım
+  LABEL_ANNUAL_REPORT_SALARY: Maaş
+  LABEL_ANNUAL_REPORT_TAXES: Vergiler
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Geliştirme
+  LABEL_ANNUAL_REPORT_TRAINING: Eğitim
+  LABEL_ANNUAL_REPORT_MARKETING: Pazarlama
+  LABEL_ANNUAL_REPORT_FURNITURE: Mobilya
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Ofis
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: İnsan kaynakları
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Aktif stüdyolar
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Toplam çalışan sayısı
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · %s yılında kuruldu · Tüm hakları saklıdır"
+  LABEL_NO_CONTRACT_AVAILABLE: Mevcut sözleşme yok
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: OCA
+  LABEL_MONTH_FEBRUARY: ŞUB
+  LABEL_MONTH_MARCH: MAR
+  LABEL_MONTH_APRIL: NİS
+  LABEL_MONTH_MAY: MAY
+  LABEL_MONTH_JUNE: HAZ
+  LABEL_MONTH_JULY: TEM
+  LABEL_MONTH_AUGUST: AĞU
+  LABEL_MONTH_SEPTEMBER: EYL
+  LABEL_MONTH_OCTOBER: EKİ
+  LABEL_MONTH_NOVEMBER: KAS
+  LABEL_MONTH_DECEMBER: ARA
+  LABEL_CHECK_OTHER_GAME: Diğer oyunum
   LABEL_SAVE_AND_LOAD: Kaydet ve Yükle
   LABEL_SETTINGS_AND_HELP: Ayarlar ve Yardım
   LABEL_NAVIGATION: Gezinme
@@ -154,6 +220,13 @@ tr:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Port edilecek oyunlar
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Bu stüdyo yöneticisi tarafından üretilen oyunlar
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Port edilebilecek tüm oyunlar
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Bir oyunu port etmek için konsolun pazar payına dayanır.
+    Pazar payı değerden düşükse, oyun konsola port edilmeyecektir.
+    Ancak konsolun pazar payı büyük veya eşitse, oyun konsola port edilecektir.
+
+    Göstergeyi 0'a ayarlamak, tüm oyunları mevcut tüm platformlara port etmek anlamına gelir.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Minimum pazar payı
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Her platformun başka bir platformla uyumluluk oranı vardır.
     Uyumluluk ne kadar yüksekse, port o kadar başarılı olacaktır.
@@ -320,6 +393,22 @@ tr:
   LABEL_GET_ALL_PLATFORM: Tüm platformları edinin
   LABEL_UPCOMING_GAME: Bugün dilek listesine!
   LABEL_BANKER_GOODBYE_MESSAGE: Zamanınız ve dikkatiniz için teşekkür ederim. Nihai kararınıza göre devam edeceğiz. Daha fazla yardıma ihtiyacınız olursa lütfen bize bildirin.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Tüm rakiplerdeki sahip olduğunuz tüm hisseleri sat
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Bu teklifi kabul ettiğinizden emin misiniz? Kabul ederseniz tüm hisselerinizi satacaksınız!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Kabul et, her şeyi sat.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    İptal et, başka bir yol olmalı.
+  LABEL_BANKER_STATE_LOAN: >
+    Devlet, %d yıl boyunca %d%% ek vergi karşılığında borcunuzu ödemeyi teklif ediyor
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Bu teklifi kabul ettiğinizden emin misiniz? Kabul ederseniz %d yıl boyunca %d%% ek vergi ödemek zorunda kalacaksınız.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Kabul et. Başka seçeneğimiz yok, hala en mantıklı çözüm bu.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    İptal et. Bu ek vergi uzun vadede gelirlerimizi öldürecek.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Son birkaç ayda geliştirdiğiniz oyun motorunu satmak istediğinizden emin misiniz? Bu, gelecekteki projelerinize zarar verebilir.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Onay. Başka seçeneğimiz yok. Borcumuzu hemen azaltmalıyız.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: İptal. Bu kadar değerli bir varlığı satmadan önce diğer seçenekleri değerlendirmeliyiz.
@@ -631,6 +720,13 @@ tr:
   LABEL_PINBALL_CITY_GAME_STUDIO: Pinball City Game Studio
   LABEL_PINBALL_SNEAK_IN: Pinball Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Kalan tüm rakiplerle iletişime geçin.
+  LABEL_COVID_EVENT: |
+    Garip bir virüs ortaya çıktı. Enfekte olanlar, yaklaşık elli farklı semptom arasında öksürük ve şiddetli ateşten muzdarip.
+    Baş döndürücü bir hızla yayılıyor. Bu yeni virüs karşısında dünyanın dört bir yanındaki hükümetler sert önlemler alıyor ve vatandaşlarını evde kalmaya davet ediyor.
+
+    Böylece kapatılan insanlar bilgisayarlarına ve oyun konsollarına yöneliyorlar.
+    Bu, tüm oyunlarınızın satışları üzerinde olumlu bir etkiye sahip. [b]Önümüzdeki 24 ay[/b] boyunca [b]satış artışı[/b] bekleniyor.
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Satış artışı bekleniyor
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny Ortaklığı
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     Haber geldi ve bu haber [b]Super Grantendo[/b] için CD-ROM!
@@ -730,6 +826,8 @@ tr:
   LABEL_FILTER_NONE: Hiçbiri
   LABEL_FILTER_ONLY_NO_CONTRACTS: Sözleşmesiz
   LABEL_FILTER_ONLY_CONTRACTS: sözleşmeli
+  TOOLTIP_ENTER_COMPANY_NAME: Şirketinizin adını girin
+  TOOLTIP_ENTER_PLAYER_NAME: Adınızı girin
   TOOLTIP_SELECT_DIFFICULTY: |
     Lütfen bir zorluk seviyesi seçin
   LABEL_EASY: Kolay
@@ -789,6 +887,8 @@ tr:
     Hadi gidelim!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Hadi olsun!
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Bu saldırıyı durdurmak ve gelecekteki tüm saldırıları engellemek için [b]%s[/b] öde
   LABEL_MINIGAME_LOSE: |
     Oyununuz piyasada ücretsiz olarak mevcuttur.
     Satışlar patlayacak.
@@ -2472,8 +2572,17 @@ tr:
   LABEL_HOOVERBALL: Hava Hokeyi
   LABEL_TV: Televizyon
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
+  LABEL_YELLOWCOUCH: Açık sarı kanepe
+  LABEL_BLUECOUCH: Açık mavi kanepe
+  LABEL_BLUEARMCHAIR: Açık mavi koltuk
+  LABEL_YELLOWARMCHAIR: Açık sarı koltuk
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Bu mobilya, farklı bir estetiğe sahip orijinaliyle aynıdır.
+    Daha iyi istatistikleri veya farklı bir etkisi yoktur
+
+    Bu mobilyanın kilidini açmak için "Supporter Pack" DLC'sine sahip olmalısınız.
   TOOLTIP_BONUS_HYPE: |
     Oyunlarınızı kongrelerde sergilediğinizde bonus heyecanı yaratmış olursunuz.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2571,8 +2680,12 @@ tr:
 
     Daha iyi satmak için oyunu biraz küçültmek isteyebilirsiniz.
     Takipçi sayınızı artırmak için başka şirketlerden de yayın teklifleri almak isteyebilirsiniz.
+  LABEL_ORDER_BY_NAME_ONLY: Yalnızca ada göre
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: Ada ve aktiviteye göre
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Stüdyo listesini sırala
   TOOLTIP_TIPS_CAPACITY: |
     Sözleşmeler veya oyun raporları yaparak daha fazla ipucu elde edersiniz.
     Daha fazla ipucu, daha doğru bir mavi gösterge anlamına gelir.

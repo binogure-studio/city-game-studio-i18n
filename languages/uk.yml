@@ -118,8 +118,74 @@ uk:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Оновити своï ігри
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Оновлювати лише всі ігри
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Перезаписати збереження?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Без продовжень
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Створювати продовження для всіх ігор
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Створювати продовження для своïх ігор
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Виберіть стратегію продовжень директора:
+
+    • Без продовжень: зосереджений виключно на створенні нових ігор
+    • Лише власні ігри: створює продовження лише для ігор, які розробив
+    • Всі ігри: створює продовження для всього доступного каталогу
+
+    Після завершення директор відновлює розробку нових проектів.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Змінити всі ігри на всіх конвенціях.
+  LABEL_STUDIO_IDLE_FIRST: Неактивні студіï спочатку
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Річний звіт — Фінансовий рік %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Конфіденційно — Лише для внутрішнього використання
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Фінансовий огляд
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Загальний дохід
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Загальні витрати
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Чистий прибуток
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Доступні кошти
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Структура доходів
+  LABEL_ANNUAL_REPORT_GAME_SALES: Продажі ігор
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Ліцензіï ігрових рушіïв
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Цифровий магазин
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Платформи
+  LABEL_ANNUAL_REPORT_STOCK: Акціï
+  LABEL_ANNUAL_REPORT_CONTRACT: Видавничі контракти
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Структура витрат
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Частка директора студіï
+  LABEL_ANNUAL_REPORT_MORTGAGE: Іпотека
+  LABEL_ANNUAL_REPORT_RENT: Оренда
+  LABEL_ANNUAL_REPORT_SERVER: Сервер
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Обслуговування
+  LABEL_ANNUAL_REPORT_SALARY: Зарплата
+  LABEL_ANNUAL_REPORT_TAXES: Податки
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Розробка
+  LABEL_ANNUAL_REPORT_TRAINING: Навчання
+  LABEL_ANNUAL_REPORT_MARKETING: Маркетинг
+  LABEL_ANNUAL_REPORT_FURNITURE: Меблі
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Офіс
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Кадри
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Активні студіï
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Загальна кількість співробітників
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · Заснована в %s · Усі права захищені"
+  LABEL_NO_CONTRACT_AVAILABLE: Немає доступних контрактів
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: СІЧ
+  LABEL_MONTH_FEBRUARY: ЛЮТ
+  LABEL_MONTH_MARCH: БЕР
+  LABEL_MONTH_APRIL: КВІ
+  LABEL_MONTH_MAY: ТРА
+  LABEL_MONTH_JUNE: ЧЕР
+  LABEL_MONTH_JULY: ЛИП
+  LABEL_MONTH_AUGUST: СЕР
+  LABEL_MONTH_SEPTEMBER: ВЕР
+  LABEL_MONTH_OCTOBER: ЖОВ
+  LABEL_MONTH_NOVEMBER: ЛИС
+  LABEL_MONTH_DECEMBER: ГРУ
+  LABEL_CHECK_OTHER_GAME: Інша моя гра
   LABEL_SAVE_AND_LOAD: Збереження та Завантаження
   LABEL_SETTINGS_AND_HELP: Налаштування та Допомога
   LABEL_NAVIGATION: Навігація
@@ -131,8 +197,8 @@ uk:
   LABEL_COPY_PROTECTION: Захист від копіювання
   TOOLTIP_COPY_PROTECTION: |
     Додавання захисту від копіювання допомагає забезпечити певну якість ігор, що випускаються на вашій консолі.
-    Справді, щоб компанії могли випускати ігри на вашій консолі,
-    їм потрібен доступ до офіційного devkit.
+    Справді, щоб компаніï могли випускати ігри на вашій консолі,
+    ïм потрібен доступ до офіційного devkit.
 
     Якщо ви випустите консоль наприкінці 70-х або на початку 80-х,
     додавання захисту від копіювання допоможе вам уникнути краху 1983 року.
@@ -154,6 +220,13 @@ uk:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Ігри для портування
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Ігри, вироблені цим директором студіï
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Всі ігри, які можна портувати
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Ґрунтується на частці ринку консолі для портування гри.
+    Якщо частка ринку нижча за значення, то гра не буде портована на консоль.
+    Але якщо частка ринку консолі більша або дорівнює, то гра буде портована на консоль.
+
+    Встановлення індикатора на 0 означає портування всіх ігор на всі доступні платформи.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Мінімальна частка ринку
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Кожна платформа має рівень сумісності з іншою платформою.
     Чим вища сумісність, тим успішнішим буде порт.
@@ -320,6 +393,22 @@ uk:
   LABEL_GET_ALL_PLATFORM: Придбати всі платформи
   LABEL_UPCOMING_GAME: До списку бажань сьогоднi!
   LABEL_BANKER_GOODBYE_MESSAGE: Дякую за ваш час i увагу. Ми продовжимо вiдповiдно до вашого остаточного рiшення. Якщо вам потрiбна подальша допомога, будь ласка, дайте нам знати.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Продати всі акціï, якими ви володієте в усіх конкурентів
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Ви впевнені, що хочете прийняти цю пропозицію? Прийнявши ïï, ви продасте всі своï акціï!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Прийняти, продати все.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    Скасувати, має бути інший спосіб.
+  LABEL_BANKER_STATE_LOAN: >
+    Держава пропонує погасити ваш борг в обмін на додатковий податок %d%% протягом %d років
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Ви впевнені, що хочете прийняти цю пропозицію? Прийнявши ïï, ви будете платити %d%% додаткових податків. Протягом %d років.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Прийняти. У нас немає вибору, це все ще найлогічніше рішення.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    Скасувати. Цей додатковий податок знищить наші доходи в довгостроковій перспективі.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Ви впевненi, що хочете продати iгровий движок, який ви розробили за останнi кiлька мiсяцiв? Це може зашкодити вашим майбутнiм проектам.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Пiдтвердження. У нас немає iншого вибору. Ми повиннi термiново зменшити нашi борги.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Скасування. Нам потрiбно розглянути iншi варiанти перед тим, як продавати таку цiнну власнiсть.
@@ -631,6 +720,13 @@ uk:
   LABEL_PINBALL_CITY_GAME_STUDIO: Пiнбол City Game Studio
   LABEL_PINBALL_SNEAK_IN: Пiнбол Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Зв'яжiться з усiма залишившимися конкурентами.
+  LABEL_COVID_EVENT: |
+    З'явився дивний вірус. Заражені страждають від кашлю та сильноï лихоманки серед приблизно п'ятдесяти різних симптомів.
+    Він поширюється з запаморочливою швидкістю. Зіткнувшись з цим новим вірусом, уряди по всьому світу вживають рішучих заходів і закликають своïх громадян залишатися вдома.
+
+    Перебуваючи в ізоляціï, люди звертаються до своïх комп'ютерів та ігрових консолей.
+    Це має позитивний вплив на продаж усіх ваших ігор. Очікується [b]зростання продажів[/b] протягом [b]наступних 24 місяців[/b].
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Зростання продажів попереду
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Партнерство Grantendo/Deny
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     Слово отримано, i це слово - CD-ROM для [b]Super Grantendo[/b]!
@@ -732,6 +828,8 @@ uk:
   LABEL_FILTER_NONE: Немає
   LABEL_FILTER_ONLY_NO_CONTRACTS: Без контракту
   LABEL_FILTER_ONLY_CONTRACTS: За контрактом
+  TOOLTIP_ENTER_COMPANY_NAME: Введіть назву вашоï компаніï
+  TOOLTIP_ENTER_PLAYER_NAME: Введіть ваше ім'я
   TOOLTIP_SELECT_DIFFICULTY: |
     Будь ласка, виберiть рiвень складностi
   LABEL_EASY: Легко
@@ -791,6 +889,8 @@ uk:
     Поïхали!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Хай це станеться!
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Сплатити [b]%s[/b], щоб зупинити цю атаку та заблокувати всі майбутні атаки
   LABEL_MINIGAME_LOSE: |
     Ваша гра доступна безкоштовно на ринку.
     Продажi будуть стрiмкими.
@@ -2512,8 +2612,17 @@ uk:
   LABEL_HOOVERBALL: Повiтряний хокей
   LABEL_TV: Телебачення
   LABEL_ARCADE_CITY_GAME_STUDIO: Аркада City Game Studio
+  LABEL_YELLOWCOUCH: Світло-жовтий диван
+  LABEL_BLUECOUCH: Світло-синій диван
+  LABEL_BLUEARMCHAIR: Світло-синє крісло
+  LABEL_YELLOWARMCHAIR: Світло-жовте крісло
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Ці меблі такі ж, як оригінал, з іншою естетикою.
+    Вони не мають кращих характеристик чи іншого ефекту
+
+    Ви повинні володіти DLC "Supporter Pack", щоб розблокувати ці меблі.
   TOOLTIP_BONUS_HYPE: |
     Саме тодi, коли ви демонструєте своï iгри на конвенцiях, ви створюєте ажiотаж.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2611,8 +2720,12 @@ uk:
 
     Можливо, ви захочете зробити гру трохи меншою, щоб вона продавалась краще.
     Щоб збiльшити кiлькiсть своïх прихильникiв, ви також можете приймати пропозицiï про публiкацiю вiд iнших компанiй.
+  LABEL_ORDER_BY_NAME_ONLY: Лише за назвою
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: За назвою та активністю
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Сортувати список студій
   TOOLTIP_TIPS_CAPACITY: |
     Отримуйте бiльше порад, укладаючи контракти або складаючи звiти про гру.
     Бiльше порад означає бiльш точний показник синього кольору.

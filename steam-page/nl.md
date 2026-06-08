@@ -1,48 +1,53 @@
-City Game Studio is een diepgaand managementspel dat zich afspeelt in een stad waar je verschillende studio's kunt beheren. Creëer en beheer je eigen videogamebedrijf, run verschillende studio's en maak tonnen games. Geniet van tientallen uren gameplay en zie het geld stromen, of reken af met de bankier!
-
-[img]{STEAM_APP_IMAGE}/extras/map-rounded.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-0[/img]
+City Game Studio is een diepgaand managementspel in een stad waar je meerdere studio's kunt beheren. Richt je eigen videogamebedrijf op, run meerdere studio's en ontwikkel een heleboel games. Geniet van tientallen uren gameplay en zie het geld binnenstromen... of ga in onderhandeling met de bankier!
 
 [img]{STEAM_APP_IMAGE}/extras/gameplay-616x96.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-1[/img]
+Januari 1976, je hebt net je eigen videogamebedrijf opgericht. Je huurt een krap pand waar je je eerste game kunt ontwikkelen. Al snel zijn je games succesvol en moet je al verhuizen, maar jij beslist waar je naartoe gaat in de stad. In een oogwenk huur je artiesten in om het visuele aspect van je games te verbeteren. Dan komen de ontwikkelaars, en daarna de testers.
 
-Januari 1976, je hebt net je eigen video game bedrijf opgestart. Je huurt een kleine plaats dat je toelaat je eerste games te ontwikkelen. Al snel zijn je games succesvol en ben je klaar om te verhuizen. Het is aan jou om je volgende locatie te kiezen in de stad. Voor je het weet neem je artiesten aan om de visuele onderdelen te verbeteren van je game. Daarna komen de developers en dan de testers.
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-2[/img]
 
-[img]{STEAM_APP_IMAGE}/extras/create-game-rounded.gif[/img]
+Maar er blijft een probleem: ook al zijn je games schitterend, je hebt niet genoeg fans om een grote game zelf uit te brengen en je studio winstgevend te maken. Je zult je moeten wenden tot uitgevers die het leeuwendeel opeisen. Successen aan elkaar rijgen is de enige manier om van die uitgevers af te komen. Daarna kun je je eigen uitgavercontracten aanbieden. Dan ben je klaar om de markt te domineren en je concurrenten op te kopen.
 
-Er blijft natuurlijk het probleem , ook al zijn je games brilliant, dat je niet genoeg fans zal hebben om zelf een grote game te publiceren om je studio winstgevend te maken.
-Je zal je moeten richten op video game editors die het grootste deel zullen wegkapen. Succesvol blijfen is de enige manier om van publishers af te geraken. Later zal je dan ook zelf publishing contracts kunnen opstellen. Dan zal je klaar zijn om de markt te domineren en concurrenten op te kopen.
-
-[img]{STEAM_APP_IMAGE}/extras/create-engine-rounded.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-3[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/features-616x96.png[/img]
 
-
-[list][*] Ontwikkelen of huren van game engines
-[*] Aanbiedingen van spellen ontvangen/publiceren
-[*] Het kopen of huren van meerdere gebouwen
-[*] Ontwikkelen en beheren van een digitale winkel
-[*] Kraken van de concurrentie
-[*] Het ontsluiten van nieuwe spelgenres
-[*] Bespioneer de concurrenten
-[*] Personeel inhuren
+[list][*] Game-engines ontwikkelen of huren
+[*] Game-aanbiedingen ontvangen en publiceren
+[*] Meerdere gebouwen kopen of huren
+[*] Een digitale winkel ontwikkelen en beheren
+[*] Games van concurrenten cracken
+[*] Nieuwe gamegenres ontgrendelen
+[*] Concurrenten bespioneren
+[*] Personeel aannemen
 [*] Marketingcampagnes organiseren
-[*] Het organiseren en bijwonen van congressen
-[*] Uitkoopbedrijven
-[*] Uitvoeren van contracten die uw medewerkers opleiden
-[*] Spellen overbrengen naar verschillende consoles
-[*] Ontwerp uw bedrijfslogo
-[*] Beheer de agenda's van uw medewerkers
-[*] Word bekroond tot Spel van het Jaar
-[*] Veel plezier[/list]
+[*] Conventies organiseren en bijwonen
+[*] Bedrijven overnemen
+[*] Contracten uitvoeren die je medewerkers trainen
+[*] Games naar meerdere consoles porten
+[*] Het logo van je bedrijf ontwerpen
+[*] De roosters van je medewerkers beheren
+[*] De Game of the Year-prijs winnen
+[*] Je eigen console maken
+[*] Onderhandelen over consolelicenties
+[*] Studiodirecteuren inhuren om de gameproductie te automatiseren
+[*] DLC's en updates voor je games uitbrengen
+[*] Concurrenten hun eigen consoles laten maken en verkopen
+[*] Streamen op Twitch en je kijkers je medewerkers laten worden
+[*] Mods laden en maken om je ervaring aan te passen
+[*] Studio-indelingen kopiëren en plakken
+[*] Plezier maken[/list]
 
 [img]{STEAM_APP_IMAGE}/extras/game-modes-616x96.png[/img]
 
-City Game Studio biedt verschillende moeilijkheidsgraden. Van een rustige wandeling tot een permanente uitdaging, je kunt de moeilijkheidsgraad vinden die het beste bij je past.
-Voor degenen die het spel in al zijn hoeken en gaten willen verkennen, is er een zandbakmodus. Jij bepaalt je spelervaring door elk nieuw spel in te stellen.
+City Game Studio biedt meerdere moeilijkheidsgraden. Van een rustige wandeling tot een permanente uitdaging, je vindt altijd de moeilijkheidsgraad die het beste bij je past.
+Voor wie het spel in alle uithoeken wil verkennen, is er een sandboxmodus. Jij bepaalt je eigen spelervaring door elke nieuwe game zelf in te stellen.
 
 [img]{STEAM_APP_IMAGE}/extras/development-team-616x96.png[/img]
 
-City Game Studio is het resultaat van een aantal jaren werk van één levend wezen - nou ja, één mens. Behalve de soundtrack, die is gecomponeerd door een getalenteerde muzikant: Conciliator!
+City Game Studio is het resultaat van jarenlang werk door één enkel levend wezen, nou ja, één enkel mens. Op de soundtrack na, die gecomponeerd werd door een getalenteerde muzikant: Conciliator!
 
-Ik verwelkom alle soorten constructief commentaar, dus aarzel niet om contact met me op te nemen! Ik zal mijn best doen om snel te reageren op berichten en eventuele problemen op te lossen :) 
+Ik verwelkom constructieve opmerkingen van alle soorten, dus aarzel niet om contact met me op te nemen! Ik doe mijn best om snel te reageren op berichten en eventuele problemen op te lossen. :)
 
 https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/

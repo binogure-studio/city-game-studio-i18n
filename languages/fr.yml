@@ -118,8 +118,74 @@ fr:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Mettre à jour ses jeux
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Faire uniquement des mises à jour
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Écraser la sauvegarde ?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Aucune suite
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Créer des suites pour tous les jeux
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Créer des suites pour ses propres jeux
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Choisissez la stratégie de suite du directeur :
+
+    • Aucune suite : se concentre uniquement sur la création de nouveaux jeux
+    • Ses propres jeux uniquement : crée des suites uniquement pour les jeux qu'il a développés
+    • Tous les jeux : crée des suites pour l'ensemble du catalogue disponible
+
+    Une fois terminé, le directeur reprend le développement de nouveaux projets.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Changer tous les jeux de toutes les conventions.
+  LABEL_STUDIO_IDLE_FIRST: Afficher les studios inactifs en premier
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Rapport annuel — Exercice fiscal %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Confidentiel — Usage interne uniquement
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Aperçu financier
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Revenus totaux
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Dépenses totales
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Bénéfice net
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Trésorerie disponible
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Répartition des revenus
+  LABEL_ANNUAL_REPORT_GAME_SALES: Ventes de jeux
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Licences de moteur de jeu
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Magasin dématérialisé
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Plateformes
+  LABEL_ANNUAL_REPORT_STOCK: Actions
+  LABEL_ANNUAL_REPORT_CONTRACT: Contrats de publication
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Répartition des dépenses
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Part du directeur de studio
+  LABEL_ANNUAL_REPORT_MORTGAGE: Hypothèque
+  LABEL_ANNUAL_REPORT_RENT: Loyer
+  LABEL_ANNUAL_REPORT_SERVER: Serveur
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Maintenance
+  LABEL_ANNUAL_REPORT_SALARY: Salaire
+  LABEL_ANNUAL_REPORT_TAXES: Taxes
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Développement
+  LABEL_ANNUAL_REPORT_TRAINING: Formation
+  LABEL_ANNUAL_REPORT_MARKETING: Marketing
+  LABEL_ANNUAL_REPORT_FURNITURE: Ameublement
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Bureau
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Ressources humaines
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Studios actifs
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Effectif total
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · Fondée en %s · Tous droits réservés"
+  LABEL_NO_CONTRACT_AVAILABLE: Il n'y a aucun contrat disponible
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: JAN
+  LABEL_MONTH_FEBRUARY: FÉV
+  LABEL_MONTH_MARCH: MAR
+  LABEL_MONTH_APRIL: AVR
+  LABEL_MONTH_MAY: MAI
+  LABEL_MONTH_JUNE: JUN
+  LABEL_MONTH_JULY: JUL
+  LABEL_MONTH_AUGUST: AOÛ
+  LABEL_MONTH_SEPTEMBER: SEP
+  LABEL_MONTH_OCTOBER: OCT
+  LABEL_MONTH_NOVEMBER: NOV
+  LABEL_MONTH_DECEMBER: DÉC
+  LABEL_CHECK_OTHER_GAME: Un autre de mes jeux
   LABEL_SAVE_AND_LOAD: Sauvegarde & Chargement
   LABEL_SETTINGS_AND_HELP: Paramètres & Aide
   LABEL_NAVIGATION: Navigation
@@ -154,6 +220,13 @@ fr:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Les jeux à porter
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Les jeux produits par ce directeur de studio
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Tous les jeux qui peuvent être portés
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Se base sur la part de marché de la console pour faire le port d'un jeu.
+    Si la part de marché est inférieure à la valeur, alors le jeu ne sera pas porté sur la console.
+    Mais si la part de marché de la console est supérieure ou égale, alors le jeu sera porté sur la console.
+
+    Mettre la jauge à 0 revient à porter tous les jeux sur toutes les plateformes disponibles.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Part de marché minimum
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Chaque plateforme a un taux de compatibilité avec une autre plateforme.
     Plus la compatibilité est élevée, plus le port sera un succès.
@@ -319,6 +392,22 @@ fr:
   LABEL_GET_ALL_PLATFORM: Acquérir toutes les plateformes
   LABEL_UPCOMING_GAME: A wishlist dès aujourd'hui !
   LABEL_BANKER_GOODBYE_MESSAGE: Merci pour votre temps et votre considération. Nous procéderons en fonction de votre décision finale. Si vous avez besoin de plus d’assistance, faites-le nous savoir.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Vendre toutes les parts de tous vos concurrents.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Êtes-vous sûr de vouloir accepter cette proposition ? En acceptant vous allez vendre toutes vos parts !
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Accepter, vendons tout !
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    Annuler, il doit y avoir un autre moyen.
+  LABEL_BANKER_STATE_LOAN: >
+    L'état vous propose de payer votre dette en échange d'une taxe supplémentaire de %d%% sur les %d prochaines années.
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Êtes-vous sûr d'accepter cette offre ? En acceptant vous devrez payer %d%% de taxes supplémentaires. Pour une durée de %d ans.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Accepter. On n'a pas le choix, c'est encore la solution la plus logique.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    Annulation. Cette taxe supplémentaire va tuer nos revenus sur le long terme.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Êtes-vous sûr de vouloir vendre le moteur de jeu que vous avez développé au cours des derniers mois? Cela pourrait nuire à vos futurs projets.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Confirmation. Nous n’avons pas d'autre choix. Nous devons alléger notre dette immédiatement.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Annulation. Nous devons envisager d'autres options avant de vendre un actif aussi précieux.
@@ -634,6 +723,13 @@ fr:
   LABEL_PINBALL_CITY_GAME_STUDIO: Flipper City Game Studio
   LABEL_PINBALL_SNEAK_IN: Flipper Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Contacter tous les concurrents restants
+  LABEL_COVID_EVENT: |
+    Un étrange virus a fait son apparition. Les personnes atteintes sont prises de toux et de violentes fièvres parmi une cinquantaine de symptômes divers et variés.
+    Il se répand à une vitesse vertigineuse. Face à ce nouveau virus, les différents gouvernements du monde entier prennent des mesures drastiques et invitent leurs citoyens à rester chez eux.
+
+    Ainsi confinés, les gens se tournent vers leurs ordinateurs et consoles de jeux.
+    Cela a un effet positif sur les ventes de tous vos jeux. Une [b]hausse des ventes[/b] est à attendre pour les [b]prochains 24 mois[/b].
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Une hausse des ventes en perspective
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Partenariat Grantendo/Deny
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     Le mot est passé, et ce mot est CD-ROM pour la SGES!
@@ -741,6 +837,8 @@ fr:
   LABEL_FILTER_NONE: Aucun
   LABEL_FILTER_ONLY_NO_CONTRACTS: Sans contrat
   LABEL_FILTER_ONLY_CONTRACTS: Sous contrat
+  TOOLTIP_ENTER_COMPANY_NAME: Entrez le nom de votre compagnie
+  TOOLTIP_ENTER_PLAYER_NAME: Entrez votre nom
   TOOLTIP_SELECT_DIFFICULTY: |
     Veuillez sélectionner un niveau de difficulté
   LABEL_EASY: Facile
@@ -801,6 +899,8 @@ fr:
     C'est parti
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Laissez les faire
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Payer [b]%s[/b] pour stopper cette attaque et bloquer toutes les futures attaques
   LABEL_MINIGAME_LOSE: |
     Votre jeu est maintenant disponible gratuitement sur le marché.
     Les ventes vont être impactées.
@@ -2543,8 +2643,21 @@ fr:
   LABEL_HOOVERBALL: Air Hockey
   LABEL_TV: Telévision
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
+  LABEL_YELLOWCOUCH: Canapé jaune clair
+  LABEL_BLUECOUCH: Canapé bleu clair
+  LABEL_BLUEARMCHAIR: Fauteuil bleu clair
+  LABEL_YELLOWARMCHAIR: Fauteuil jaune clair
+  LABEL_ORDER_BY_NAME_ONLY: Par nom seulement
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: Par nom et par inactivité
 
   # Tutoriel labels
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Trier la liste des studios
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Ce meuble est le même que l'original avec une esthétique différente.
+    Il n'a pas de meilleures statistiques ni d'effet différent
+
+    Vous devez posséder le DLC "Supporter Pack" pour débloquer ce meuble.
   TOOLTIP_BONUS_HYPE: |
     C'est lorsque vous présentez vos jeux lors de conventions que vous générez un engouement supplémentaire.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |

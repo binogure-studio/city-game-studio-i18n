@@ -118,8 +118,74 @@ ru:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Обновить свои игры
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Обновлять только все игры
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Перезаписать сохранение?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Без продолжений
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Создавать продолжения для всех игр
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Создавать продолжения для своих игр
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Выберите стратегию продолжений директора:
+
+    • Без продолжений: сосредоточен исключительно на создании новых игр
+    • Только свои игры: создаёт продолжения только для игр, которые разработал
+    • Все игры: создаёт продолжения для всего доступного каталога
+
+    После завершения директор возобновляет разработку новых проектов.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Изменить все игры на всех конвенциях.
+  LABEL_STUDIO_IDLE_FIRST: Неактивные студии сначала
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Годовой отчёт — Финансовый год %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Конфиденциально — Только для внутреннего использования
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Финансовый обзор
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Общий доход
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Общие расходы
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Чистая прибыль
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Доступные средства
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Структура доходов
+  LABEL_ANNUAL_REPORT_GAME_SALES: Продажи игр
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Лицензии игровых движков
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Цифровой магазин
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Платформы
+  LABEL_ANNUAL_REPORT_STOCK: Акции
+  LABEL_ANNUAL_REPORT_CONTRACT: Издательские контракты
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Структура расходов
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Доля директора студии
+  LABEL_ANNUAL_REPORT_MORTGAGE: Ипотека
+  LABEL_ANNUAL_REPORT_RENT: Аренда
+  LABEL_ANNUAL_REPORT_SERVER: Сервер
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Обслуживание
+  LABEL_ANNUAL_REPORT_SALARY: Зарплата
+  LABEL_ANNUAL_REPORT_TAXES: Налоги
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Разработка
+  LABEL_ANNUAL_REPORT_TRAINING: Обучение
+  LABEL_ANNUAL_REPORT_MARKETING: Маркетинг
+  LABEL_ANNUAL_REPORT_FURNITURE: Мебель
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Офис
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Кадры
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Активные студии
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Общее количество сотрудников
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · Основана в %s · Все права защищены"
+  LABEL_NO_CONTRACT_AVAILABLE: Нет доступных контрактов
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: ЯНВ
+  LABEL_MONTH_FEBRUARY: ФЕВ
+  LABEL_MONTH_MARCH: МАР
+  LABEL_MONTH_APRIL: АПР
+  LABEL_MONTH_MAY: МАЙ
+  LABEL_MONTH_JUNE: ИЮН
+  LABEL_MONTH_JULY: ИЮЛ
+  LABEL_MONTH_AUGUST: АВГ
+  LABEL_MONTH_SEPTEMBER: СЕН
+  LABEL_MONTH_OCTOBER: ОКТ
+  LABEL_MONTH_NOVEMBER: НОЯ
+  LABEL_MONTH_DECEMBER: ДЕК
+  LABEL_CHECK_OTHER_GAME: Другая моя игра
   LABEL_SAVE_AND_LOAD: Сохранение и Загрузка
   LABEL_SETTINGS_AND_HELP: Настройки и Справка
   LABEL_NAVIGATION: Навигация
@@ -154,6 +220,13 @@ ru:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Игры для портирования
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Игры, произведённые этим директором студии
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Все игры, которые можно портировать
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Основано на доле рынка консоли для портирования игры.
+    Если доля рынка ниже значения, то игра не будет портирована на консоль.
+    Но если доля рынка консоли больше или равна, то игра будет портирована на консоль.
+
+    Установка индикатора на 0 означает портирование всех игр на все доступные платформы.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Минимальная доля рынка
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Каждая платформа имеет уровень совместимости с другой платформой.
     Чем выше совместимость, тем успешнее будет порт.
@@ -320,6 +393,22 @@ ru:
   LABEL_GET_ALL_PLATFORM: Приобрести все платформы
   LABEL_UPCOMING_GAME: В список желаний сегодня!
   LABEL_BANKER_GOODBYE_MESSAGE: Спасибо за ваше время и внимание. Мы будем действовать в соответствии с вашим окончательным решением. Если вам понадобится дополнительная помощь, пожалуйста, дайте нам знать.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Продать все акции, которыми вы владеете у всех конкурентов
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Вы уверены, что хотите принять это предложение? Приняв его, вы продадите все свои акции!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Принять, продать всё.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    Отменить, должен быть другой способ.
+  LABEL_BANKER_STATE_LOAN: >
+    Государство предлагает погасить ваш долг в обмен на дополнительный налог %d%% в течение %d лет
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Вы уверены, что хотите принять это предложение? Приняв его, вы будете платить %d%% дополнительных налогов. В течение %d лет.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Принять. У нас нет выбора, это всё ещё самое логичное решение.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    Отменить. Этот дополнительный налог убьёт наши доходы в долгосрочной перспективе.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Вы уверены, что хотите продать игровую движок, который вы разрабатывали последние несколько месяцев? Это может негативно сказаться на ваших будущих проектах.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Подтверждение. У нас нет другого выбора. Мы должны немедленно сократить наши долги.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Отмена. Нам нужно рассмотреть другие варианты, прежде чем продавать такой ценный актив.
@@ -631,6 +720,13 @@ ru:
   LABEL_PINBALL_CITY_GAME_STUDIO: Пинбол City Game Studio
   LABEL_PINBALL_SNEAK_IN: Пинбол Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Свяжитесь со всеми оставшимися конкурентами.
+  LABEL_COVID_EVENT: |
+    Появился странный вирус. Заражённые страдают от кашля и сильной лихорадки среди примерно пятидесяти различных симптомов.
+    Он распространяется с головокружительной скоростью. Столкнувшись с этим новым вирусом, правительства по всему миру принимают решительные меры и призывают своих граждан оставаться дома.
+
+    Находясь взаперти, люди обращаются к своим компьютерам и игровым консолям.
+    Это положительно влияет на продажи всех ваших игр. Ожидается [b]рост продаж[/b] в течение [b]следующих 24 месяцев[/b].
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Рост продаж впереди
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Партнерство Grantendo/Deny
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     Слово получено, и это слово - CD-ROM для [b]Super Grantendo[/b]!
@@ -732,6 +828,8 @@ ru:
   LABEL_FILTER_NONE: Нет
   LABEL_FILTER_ONLY_NO_CONTRACTS: Без контракта
   LABEL_FILTER_ONLY_CONTRACTS: По контракту
+  TOOLTIP_ENTER_COMPANY_NAME: Введите название вашей компании
+  TOOLTIP_ENTER_PLAYER_NAME: Введите ваше имя
   TOOLTIP_SELECT_DIFFICULTY: |
     Пожалуйста, выберите уровень сложности
   LABEL_EASY: Легко
@@ -791,6 +889,8 @@ ru:
     Поехали!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Пусть это случится!
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Заплатить [b]%s[/b], чтобы остановить эту атаку и заблокировать все будущие атаки
   LABEL_MINIGAME_LOSE: |
     Ваша игра доступна бесплатно на рынке.
     Продажи будут стремительными.
@@ -2520,8 +2620,17 @@ ru:
   LABEL_HOOVERBALL: Воздушный хоккей
   LABEL_TV: Телевидение
   LABEL_ARCADE_CITY_GAME_STUDIO: Аркада City Game Studio
+  LABEL_YELLOWCOUCH: Светло-желтый диван
+  LABEL_BLUECOUCH: Светло-синий диван
+  LABEL_BLUEARMCHAIR: Светло-синее кресло
+  LABEL_YELLOWARMCHAIR: Светло-желтое кресло
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Эта мебель такая же, как оригинал, с другой эстетикой.
+    У неё нет лучших характеристик или другого эффекта
+
+    Вы должны владеть DLC "Supporter Pack", чтобы разблокировать эту мебель.
   TOOLTIP_BONUS_HYPE: |
     Именно когда вы демонстрируете свои игры на конвенциях, вы создаете ажиотаж.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2619,8 +2728,12 @@ ru:
 
     Возможно, вы захотите сделать игру немного меньше, чтобы она продавалась лучше.
     Чтобы увеличить число своих поклонников, вы также можете принимать предложения о публикации от других компаний.
+  LABEL_ORDER_BY_NAME_ONLY: Только по имени
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: По имени и активности
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Сортировать список студий
   TOOLTIP_TIPS_CAPACITY: |
     Вы получаете больше подсказок, заключая контракты или составляя отчеты об игре.
     Больше подсказок означает более точный показатель синего цвета.

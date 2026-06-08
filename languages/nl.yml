@@ -118,8 +118,74 @@ nl:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Eigen games bijwerken
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Alleen alle spellen updaten
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Save overschrijven?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Geen vervolgen
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Vervolgen maken voor alle games
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Vervolgen maken voor eigen games
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Kies de vervolgstrategie van de directeur:
+
+    • Geen vervolgen: richt zich uitsluitend op het maken van nieuwe games
+    • Alleen eigen games: maakt vervolgen alleen voor games die ze hebben ontwikkeld
+    • Alle games: maakt vervolgen voor de gehele beschikbare catalogus
+
+    Zodra voltooid, hervat de directeur de ontwikkeling van nieuwe projecten.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Verander alle games voor alle conventies.
+  LABEL_STUDIO_IDLE_FIRST: Inactieve studio's eerst
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Jaarverslag — Boekjaar %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Vertrouwelijk — Alleen voor intern gebruik
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Financieel overzicht
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Totale omzet
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Totale uitgaven
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Nettowinst
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Beschikbaar contant geld
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Omzetverdeling
+  LABEL_ANNUAL_REPORT_GAME_SALES: Gameverkoop
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Game engine-licenties
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Digitale winkel
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Platforms
+  LABEL_ANNUAL_REPORT_STOCK: Aandelen
+  LABEL_ANNUAL_REPORT_CONTRACT: Publicatiecontracten
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Uitgavenverdeling
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Aandeel studiodirecteur
+  LABEL_ANNUAL_REPORT_MORTGAGE: Hypotheek
+  LABEL_ANNUAL_REPORT_RENT: Huur
+  LABEL_ANNUAL_REPORT_SERVER: Server
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Onderhoud
+  LABEL_ANNUAL_REPORT_SALARY: Salaris
+  LABEL_ANNUAL_REPORT_TAXES: Belastingen
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Ontwikkeling
+  LABEL_ANNUAL_REPORT_TRAINING: Training
+  LABEL_ANNUAL_REPORT_MARKETING: Marketing
+  LABEL_ANNUAL_REPORT_FURNITURE: Meubilair
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Kantoor
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Human resources
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Actieve studio's
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Totaal personeelsbestand
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · Opgericht in %s · Alle rechten voorbehouden"
+  LABEL_NO_CONTRACT_AVAILABLE: Geen contract beschikbaar
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: JAN
+  LABEL_MONTH_FEBRUARY: FEB
+  LABEL_MONTH_MARCH: MRT
+  LABEL_MONTH_APRIL: APR
+  LABEL_MONTH_MAY: MEI
+  LABEL_MONTH_JUNE: JUN
+  LABEL_MONTH_JULY: JUL
+  LABEL_MONTH_AUGUST: AUG
+  LABEL_MONTH_SEPTEMBER: SEP
+  LABEL_MONTH_OCTOBER: OKT
+  LABEL_MONTH_NOVEMBER: NOV
+  LABEL_MONTH_DECEMBER: DEC
+  LABEL_CHECK_OTHER_GAME: Een ander spel van mij
   LABEL_SAVE_AND_LOAD: Opslaan & Laden
   LABEL_SETTINGS_AND_HELP: Instellingen & Hulp
   LABEL_NAVIGATION: Navigatie
@@ -154,6 +220,13 @@ nl:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Te porten spellen
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Spellen geproduceerd door deze studiodirecteur
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Alle spellen die geport kunnen worden
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Gebaseerd op het marktaandeel van de console om een game te porten.
+    Als het marktaandeel lager is dan de waarde, dan wordt de game niet naar de console geport.
+    Maar als het marktaandeel van de console groter of gelijk is, dan wordt de game naar de console geport.
+
+    De meter op 0 zetten betekent alle games naar alle beschikbare platforms porten.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Minimaal marktaandeel
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Elk platform heeft een compatibiliteitspercentage met een ander platform.
     Hoe hoger de compatibiliteit, hoe succesvoller de port zal zijn.
@@ -320,6 +393,22 @@ nl:
   LABEL_GET_ALL_PLATFORM: Verkrijg alle platforms
   LABEL_UPCOMING_GAME: Naar verlanglijstje vandaag!
   LABEL_BANKER_GOODBYE_MESSAGE: Bedankt voor uw tijd en overweging. We zullen verdergaan op basis van uw uiteindelijke beslissing. Als u verdere hulp nodig heeft, laat het ons dan weten.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Verkoop alle aandelen die je bezit van elke concurrent
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Weet je zeker dat je dit aanbod wilt accepteren? Door te accepteren ga je al je aandelen verkopen!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Accepteren, verkoop alles.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    Annuleren, er moet een andere manier zijn.
+  LABEL_BANKER_STATE_LOAN: >
+    De staat biedt aan je schuld te betalen in ruil voor een extra belasting van %d%% gedurende %d jaar
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Weet je zeker dat je dit aanbod wilt accepteren? Door te accepteren moet je %d%% extra belasting betalen. Voor een duur van %d jaar.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Accepteren. We hebben geen keuze, het is nog steeds de meest logische oplossing.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    Annuleren. Deze extra belasting zal onze inkomsten op de lange termijn vernietigen.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Bent u er zeker van dat u de game-engine wilt verkopen die u in de afgelopen maanden heeft ontwikkeld? Dit kan uw toekomstige projecten schaden.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Bevestiging. We hebben geen andere keuze. We moeten onze schulden onmiddellijk verminderen.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Annulering. We moeten andere opties overwegen voordat we een dergelijke waardevolle asset verkopen.
@@ -631,6 +720,13 @@ nl:
   LABEL_PINBALL_CITY_GAME_STUDIO: Flipperkast City Game Studio
   LABEL_PINBALL_SNEAK_IN: Flipperkast Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Neem contact op met alle overgebleven concurrenten.
+  LABEL_COVID_EVENT: |
+    Er is een vreemd virus opgedoken. Geïnfecteerden lijden aan hoesten en hevige koorts onder een vijftigtal verschillende symptomen.
+    Het verspreidt zich met duizelingwekkende snelheid. Geconfronteerd met dit nieuwe virus nemen regeringen over de hele wereld drastische maatregelen en vragen hun burgers thuis te blijven.
+
+    Zo opgesloten wenden mensen zich tot hun computers en spelconsoles.
+    Dit heeft een positief effect op de verkoop van al je games. Er wordt een [b]verkoopstijging[/b] verwacht voor de [b]komende 24 maanden[/b].
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Verkoopstijging in het vooruitzicht
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny partnerschap
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     Het woord is binnen, en dat woord is CD-ROM voor de [b]Super Grantendo[/b]!
@@ -733,6 +829,8 @@ nl:
   LABEL_FILTER_NONE: Geen
   LABEL_FILTER_ONLY_NO_CONTRACTS: Zonder contract
   LABEL_FILTER_ONLY_CONTRACTS: Gecontracteerd
+  TOOLTIP_ENTER_COMPANY_NAME: Voer de naam van je bedrijf in
+  TOOLTIP_ENTER_PLAYER_NAME: Voer je naam in
   TOOLTIP_SELECT_DIFFICULTY: |
     Selecteer een moeilijkheidsgraad
   LABEL_EASY: Gemakkelijk
@@ -792,6 +890,8 @@ nl:
     Laten we gaan.
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Laat het gebeuren.
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Betaal [b]%s[/b] om deze aanval te stoppen en alle toekomstige aanvallen te blokkeren
   LABEL_MINIGAME_LOSE: |
     Je spel is gratis op de markt.
     De verkoop zal aanslaan.
@@ -2483,8 +2583,17 @@ nl:
   LABEL_HOOVERBALL: Hockey
   LABEL_TV: Televisie
   LABEL_ARCADE_CITY_GAME_STUDIO: Arcade City Game Studio
+  LABEL_YELLOWCOUCH: Lichtgele bank
+  LABEL_BLUECOUCH: Lichtblauwe bank
+  LABEL_BLUEARMCHAIR: Lichtblauwe fauteuil
+  LABEL_YELLOWARMCHAIR: Lichtgele fauteuil
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Dit meubelstuk is hetzelfde als het origineel met een andere esthetiek.
+    Het heeft geen betere statistieken of een ander effect
+
+    Je moet de "Supporter Pack" DLC bezitten om dit meubelstuk te ontgrendelen.
   TOOLTIP_BONUS_HYPE: |
     Het is wanneer je je spellen laat zien op conventies dat je de bonushype genereert.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2582,8 +2691,12 @@ nl:
 
     Misschien wil je het spel een beetje kleiner maken om beter te verkopen.
     Om je aantal fans te laten groeien, kun je misschien ook aanbiedingen voor publicaties van andere bedrijven aannemen.
+  LABEL_ORDER_BY_NAME_ONLY: Alleen op naam
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: Op naam en activiteit
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Sorteer de studiolijst
   TOOLTIP_TIPS_CAPACITY: |
     Je krijgt meer hints door contracten of wedstrijdverslagen te maken.
     Meer hints betekent een nauwkeurigere blauwe meter.

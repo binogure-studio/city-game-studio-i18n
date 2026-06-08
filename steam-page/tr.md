@@ -1,48 +1,53 @@
-City Game Studio, birkaç stüdyoyu yönetebileceğiniz bir şehirde geçen derin bir yönetim oyunudur. Kendi video oyun şirketinizi kurun ve yönetin, birkaç stüdyo çalıştırın, tonlarca oyun yaratın. Düzinelerce saatlik oyunun tadını çıkarın ve para akışını izleyin veya bankacı ile anlaşın!
-
-[img]{STEAM_APP_IMAGE}/extras/map-rounded.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-0[/img]
+City Game Studio, birden fazla stüdyoyu yönetebileceğiniz bir şehirde geçen derin bir yönetim simülasyonu oyunudur. Kendi video oyun şirketinizi kurun ve yönetin, birden fazla stüdyo işletin, tonlarca oyun geliştirin. Onlarca saat oyun keyfini çıkarın ve parayı akarken izleyin... ya da bankacıyla baş başa kalın!
 
 [img]{STEAM_APP_IMAGE}/extras/gameplay-616x96.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-1[/img]
+Ocak 1976, kendi video oyun şirketinizi yeni kurduğunuz günler. İlk oyununuzu geliştirmenize yetecek küçük bir yer kiralıyorsunuz. Oyunlarınız kısa sürede başarıya ulaşıyor ve taşınma vakti çoktan gelmiş. Şehri dolaşarak bir sonraki mekanı bulmak size kalmış. Göz açıp kapayıncaya kadar oyunlarınızın görsel kalitesini artırmak için sanatçılar işe alıyorsunuz. Ardından geliştiriciler, sonra da test uzmanları geliyor.
 
-Ocak 1976'te kendi video oyun şirketinizi yarattınız. İlk oyununuzu geliştirmenize olanak sağlayan küçük bir yer kiralıyorsunuz. Hızla, oyunlarınız başarılı ve zaten hareket etmek zorundasınız ancak bir sonraki yerinizi seçmek için şehri geçmek size kalmış. göz açıp kapayıncaya kadar oyunların görsel yönünü geliştirmek için grafikçi işe alıyorsunuz. Daha sonra geliştiriciler ve testçiler geliyor.
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-2[/img]
 
-[img]{STEAM_APP_IMAGE}/extras/create-game-rounded.gif[/img]
+Ama bir sorun devam ediyor: oyunlarınız ne kadar iyi olursa olsun, stüdyonuzu kârlı hale getirecek büyük bir oyunu kendi başınıza yayımlamak için yeterince hayranınız yok. Aslan payını alacak olan yayıncılara başvurmanız gerekecek. Başarıları art arda sıralamak, yayıncılardan kurtulmanın tek yolu. Ardından kendi yayın sözleşmelerinizi sunabilir hale geleceksiniz. O zaman pazarı ele geçirmeye ve rakiplerinizi satın almaya hazır olacaksınız.
 
-Ancak oyunlarınız mükemmel olsa bile, bir sorun var, stüdyonuzu kârlı kılmak için büyük bir oyun yayınlamalısınız bunun için yeterli hayranınız yok. Aslan payını ortaya çıkaracak video oyun editörlerine gitmeniz gerekecek. Başarıları zincirlemek, yayıncılardan kurtulmanın tek yoludur. Ayrıca kendi yayıncılık sözleşmelerinizi yayınlayabileceksiniz. O zaman pazarı geri almaya ve rakiplerinize hakim olmaya hazır olacaksınız.
-
-[img]{STEAM_APP_IMAGE}/extras/create-engine-rounded.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-3[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/features-616x96.png[/img]
 
-[list][*] Oyun motorları geliştirin veya kiralayın
-[*] Oyun teklifleri alma / yayınlama
-[*] Birkaç bina satın alma veya kiralama
-[*] Dijital mağaza geliştirme ve yönetme
-[*] Rakiplerin oyunlarını kırma
-[*] Yeni oyun türlerinin kilidini açma
-[*] Rakiplere casusluk yapın
-[*] Personel almak
-[*] Pazarlama kampanyaları düzenleme
-[*] Sözleşmeleri düzenlemek ve katılmak
-[*] Şirket satın alın
-[*] Çalışanlarınızı eğiten sözleşmeler yapma
-[*] Oyunları birkaç konsola taşıma
-[*] Şirket logonuzu tasarlayın
-[*] Çalışanlarınızın programlarını yönetin
-[*] Yılın Yılın Oyunu
-[*] Kendi konsolunuzu oluşturun
-[*] Konsolların lisanslarını almak için görüşün
-[*] İyi vakit geçir[/list]
+[list][*] Oyun motorları geliştirmek veya kiralamak
+[*] Oyun teklifleri almak ve yayımlamak
+[*] Birden fazla bina satın almak veya kiralamak
+[*] Dijital bir mağaza geliştirmek ve yönetmek
+[*] Rakiplerin oyunlarını kırmak
+[*] Yeni oyun türlerinin kilidini açmak
+[*] Rakipleri casusluk yoluyla takip etmek
+[*] Personel işe almak
+[*] Pazarlama kampanyaları düzenlemek
+[*] Fuarlar düzenlemek ve katılmak
+[*] Şirketleri satın almak
+[*] Çalışanlarınızı yetiştiren sözleşmeleri yürütmek
+[*] Oyunları birden fazla konsola taşımak
+[*] Şirket logonuzu tasarlamak
+[*] Çalışanlarınızın programlarını yönetmek
+[*] Yılın Oyunu ödülünü kazanmak
+[*] Kendi konsolunuzu yaratmak
+[*] Konsol lisansları için müzakere etmek
+[*] Oyun üretimini otomatikleştirmek için Stüdyo Direktörleri işe almak
+[*] Oyunlarınız için DLC ve güncellemeler yayımlamak
+[*] Rakiplerin kendi konsollarını geliştirmesine ve satmasına izin vermek
+[*] Twitch'te yayın yapmak ve izleyicilerinizin çalışanlarınız olmasına izin vermek
+[*] Oyun deneyiminizi özelleştirmek için mod yüklemek ve oluşturmak
+[*] Stüdyo düzenlerini kopyalayıp yapıştırmak
+[*] İyi vakit geçirmek[/list]
 
 [img]{STEAM_APP_IMAGE}/extras/game-modes-616x96.png[/img]
 
-City Game Studio çeşitli zorluk seviyeleri sunar. Yavaş bir gezintiden kalıcı bir mücadeleye kadar, size en uygun zorluğu bulabileceksiniz.
-Oyunu tüm köşelerinde ve çatlaklarında keşfetmek isteyenler için bir sandbox modu var. Her yeni oyunu kurarak oyun deneyiminizi kontrol edersiniz.
+City Game Studio birçok zorluk seviyesi sunmaktadır. Keyifli bir yürüyüşten kalıcı bir meydan okumaya kadar, size en uygun zorluğu bulacaksınız.
+Oyunu her köşesiyle keşfetmek isteyenler için bir sandbox modu bulunuyor. Her yeni oyunu kendiniz ayarlayarak oyun deneyiminizi dilediğiniz gibi şekillendirebilirsiniz.
 
 [img]{STEAM_APP_IMAGE}/extras/development-team-616x96.png[/img]
 
-City Game Studio, yaşayan tek bir varlığın - yani tek bir insanın - birkaç yıllık çalışmasının ürünüdür. Yetenekli bir müzisyen tarafından bestelenen müzikler hariç: Conciliator!
+City Game Studio, tek bir canlı varlığın yıllar süren emeğinin ürünüdür. Yani tek bir insanın. Müzik şeridi hariç, onu yetenekli bir müzisyen besteledi: Conciliator!
 
-Her türlü yapıcı yorumu memnuniyetle karşılıyorum, bu nedenle lütfen benimle iletişime geçmekten çekinmeyin! Mesajlara derhal yanıt vermek ve ortaya çıkan sorunları çözmek için elimden geleni yapacağım :) 
+Her türlü yapıcı yoruma açığım, bu yüzden benimle iletişime geçmekten çekinmeyin! Mesajlara mümkün olan en kısa sürede yanıt vermeye ve karşılaşılan sorunları çözmeye elimden geleni yapacağım. :)
 
 https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/

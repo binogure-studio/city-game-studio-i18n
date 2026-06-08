@@ -118,8 +118,74 @@ ko:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: 자신의 게임 업데이트
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: 모든 게임만 업데이트
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: 저장을 덮어쓰시겠습니까?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: 속편 없음
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: 모든 게임의 속편 만들기
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: 자신의 게임 속편 만들기
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    디렉터의 속편 전략 선택:
+
+    • 속편 없음: 새 게임 제작에만 집중
+    • 자신의 게임만: 개발한 게임의 속편만 제작
+    • 모든 게임: 사용 가능한 전체 카탈로그의 속편 제작
+
+    완료되면 디렉터는 새 프로젝트 개발을 재개합니다.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: 모든 컨벤션의 모든 게임 변경.
+  LABEL_STUDIO_IDLE_FIRST: 유휴 스튜디오 먼저 표시
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: 연례 보고서 — 회계연도 %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: 기밀 — 내부 사용 전용
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: 재무 개요
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: 총 수익
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: 총 지출
+  LABEL_ANNUAL_REPORT_NET_PROFIT: 순이익
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: 사용 가능한 현금
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: 수익 내역
+  LABEL_ANNUAL_REPORT_GAME_SALES: 게임 판매
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: 게임 엔진 라이선스
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: 디지털 스토어
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: 플랫폼
+  LABEL_ANNUAL_REPORT_STOCK: 주식
+  LABEL_ANNUAL_REPORT_CONTRACT: 퍼블리싱 계약
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: 지출 내역
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: 스튜디오 디렉터 수수료
+  LABEL_ANNUAL_REPORT_MORTGAGE: 담보대출
+  LABEL_ANNUAL_REPORT_RENT: 임대료
+  LABEL_ANNUAL_REPORT_SERVER: 서버
+  LABEL_ANNUAL_REPORT_MAINTENANCE: 유지보수
+  LABEL_ANNUAL_REPORT_SALARY: 급여
+  LABEL_ANNUAL_REPORT_TAXES: 세금
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: 개발
+  LABEL_ANNUAL_REPORT_TRAINING: 교육
+  LABEL_ANNUAL_REPORT_MARKETING: 마케팅
+  LABEL_ANNUAL_REPORT_FURNITURE: 가구
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: 사무실
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: 인사
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: 활성 스튜디오
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: 총 인원
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · %s년 설립 · 판권 소유"
+  LABEL_NO_CONTRACT_AVAILABLE: 사용 가능한 계약이 없습니다
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: 01월
+  LABEL_MONTH_FEBRUARY: 02월
+  LABEL_MONTH_MARCH: 03월
+  LABEL_MONTH_APRIL: 04월
+  LABEL_MONTH_MAY: 05월
+  LABEL_MONTH_JUNE: 06월
+  LABEL_MONTH_JULY: 07월
+  LABEL_MONTH_AUGUST: 08월
+  LABEL_MONTH_SEPTEMBER: 09월
+  LABEL_MONTH_OCTOBER: 10월
+  LABEL_MONTH_NOVEMBER: 11월
+  LABEL_MONTH_DECEMBER: 12월
+  LABEL_CHECK_OTHER_GAME: 제 다른 게임
   LABEL_SAVE_AND_LOAD: 저장 및 불러오기
   LABEL_SETTINGS_AND_HELP: 설정 및 도움말
   LABEL_NAVIGATION: 탐색
@@ -154,6 +220,13 @@ ko:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: 이식할 게임
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: 이 스튜디오 디렉터가 제작한 게임
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: 이식 가능한 모든 게임
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    게임을 이식하기 위한 콘솔의 시장 점유율을 기반으로 합니다.
+    시장 점유율이 값보다 낮으면 게임이 해당 콘솔로 이식되지 않습니다.
+    그러나 콘솔의 시장 점유율이 값보다 크거나 같으면 게임이 해당 콘솔로 이식됩니다.
+
+    게이지를 0으로 설정하면 모든 게임을 사용 가능한 모든 플랫폼으로 이식합니다.
+  LABEL_PLATFORM_MARKETSHARE_MIN: 최소 시장 점유율
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     각 플랫폼은 다른 플랫폼과의 호환성 비율이 있습니다.
     호환성이 높을수록 이식이 더 성공적입니다.
@@ -319,6 +392,22 @@ ko:
   LABEL_GET_ALL_PLATFORM: 모든 플랫폼 획득
   LABEL_UPCOMING_GAME: 오늘 위시리스트에 추가하세요!
   LABEL_BANKER_GOODBYE_MESSAGE: 시간과 고려에 감사드립니다. 최종 결정에 따라 진행하겠습니다. 추가 도움이 필요하시면 언제든지 말씀해 주세요.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    모든 경쟁사의 보유 주식을 모두 매각
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    이 제안을 수락하시겠습니까? 수락하면 모든 주식을 매각하게 됩니다!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    수락, 모두 매각한다.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    취소, 다른 방법이 있을 것이다.
+  LABEL_BANKER_STATE_LOAN: >
+    국가가 %d년 동안 추가 세금 %d%%를 대가로 귀하의 부채를 상환하겠다고 제안합니다
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    이 제안을 수락하시겠습니까? 수락하면 %d년 동안 %d%%의 추가 세금을 납부해야 합니다.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    수락. 선택의 여지가 없습니다. 여전히 가장 논리적인 해결책입니다.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    취소. 이 추가 세금은 장기적으로 수익을 망칠 것입니다.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 최근 몇 달 동안 개발한 게임 엔진을 판매할 생각이신가요? 이는 미래 프로젝트에 해를 끼칠 수 있습니다.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: 확인. 다른 선택지가 없습니다. 즉시 부채를 줄여야 합니다.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: 취소. 이렇게 귀중한 자산을 팔기 전에 다른 옵션을 고려해야 합니다.
@@ -618,6 +707,13 @@ ko:
   LABEL_PINBALL_CITY_GAME_STUDIO: 핀볼 City Game Studio
   LABEL_PINBALL_SNEAK_IN: 핀볼 Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: 나머지 모든 경쟁업체에 문의하십시오.
+  LABEL_COVID_EVENT: |
+    이상한 바이러스가 나타났습니다. 감염된 사람들은 약 50가지의 다양한 증상 중 기침과 심한 열로 고통받고 있습니다.
+    현기증이 날 정도로 빠른 속도로 확산되고 있습니다. 이 새로운 바이러스에 직면하여 전 세계 정부들은 과감한 조치를 취하고 시민들에게 집에 머물 것을 권고하고 있습니다.
+
+    이렇게 격리된 사람들은 컴퓨터와 게임 콘솔로 눈을 돌리고 있습니다.
+    이는 모든 게임의 판매에 긍정적인 영향을 미칩니다. [b]향후 24개월 동안[/b] [b]판매 증가[/b]가 예상됩니다.
+  LABEL_COVID_EVENT_ANNOUNCEMENT: 판매 증가 전망
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny 파트너십
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
     이는 무엇을 의미할까요? 바로 [b]Super Grantendo[/b]용 CD-ROM입니다! [b]Grantendo[/b]는 1993년 1월에 [b]Super Grantendo[/b]와 함께 사용하기 위한 CD-ROM 드라이브가 출시될 것이라고 발표했습니다. 그 직후 [b]Grantendo[/b]의 타사 라이선스 개발자는 새 드라이브에 대한 기술 사양을 받고 새로운 하드웨어를 설명하는 회의에 초대되었습니다. 여기에서 전체 화면, 전체 모션 비디오, XA 호환성 및 장치의 8메가 메모리를 포함한 [b]Super Grantendo[/b] CD-ROM 드라이브의 뛰어난 기능에 대해 배울 것입니다. 그러나 당신이 엔지니어가 아닌 이상 그 기술 용어의 대부분은 별로 의미가 없을 수 있습니다.
@@ -711,6 +807,8 @@ ko:
   LABEL_FILTER_NONE: 없음
   LABEL_FILTER_ONLY_NO_CONTRACTS: 계약 안 함
   LABEL_FILTER_ONLY_CONTRACTS: 계약함
+  TOOLTIP_ENTER_COMPANY_NAME: 회사 이름을 입력하세요
+  TOOLTIP_ENTER_PLAYER_NAME: 이름을 입력하세요
   TOOLTIP_SELECT_DIFFICULTY: |
     난이도를 선택해 주십시오.
   LABEL_EASY: 쉬움
@@ -771,6 +869,8 @@ ko:
     시작해 보자고!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     포기하면 편해... 하지마...
+  LABEL_MINIGAME_DEFEND_PAY: |
+    [b]%s[/b]을(를) 지불하여 이 공격을 중단하고 향후 모든 공격을 차단
   LABEL_MINIGAME_LOSE: |
     크랙이 성공적으로 배포되었으며, 매출에 큰 타격이 있을 것으로 예상됩니다.
   LABEL_MINIGAME_DEFEND_WIN: |
@@ -2480,8 +2580,17 @@ ko:
   LABEL_HOOVERBALL: 에어 하키
   LABEL_TV: 텔레비전
   LABEL_ARCADE_CITY_GAME_STUDIO: 아케이드 City Game Studio
+  LABEL_YELLOWCOUCH: 연한 노란색 소파
+  LABEL_BLUECOUCH: 연한 파란색 소파
+  LABEL_BLUEARMCHAIR: 연한 파란색 안락의자
+  LABEL_YELLOWARMCHAIR: 연한 노란색 안락의자
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    이 가구는 외관만 다를 뿐 원본과 동일합니다.
+    더 나은 능력치나 다른 효과가 없습니다
+
+    이 가구를 잠금 해제하려면 "Supporter Pack" DLC를 소유해야 합니다.
   TOOLTIP_BONUS_HYPE: |
     컨벤션에서 게임을 선보일 때 가장 큰 홍보 효과를 얻을 수 있습니다.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2596,8 +2705,12 @@ ko:
     팬층이 부족하여 게임의 평점이 90점을 넘지 못하는 경우, 판매량이 저조할 것으로 예상됩니다.
 
     게임의 규모를 줄이거나 게임 퍼블리싱(개발)을 수행하여 팬층을 늘리십시오.
+  LABEL_ORDER_BY_NAME_ONLY: 이름만
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: 이름 및 활동별
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    스튜디오 목록 정렬
   TOOLTIP_TIPS_CAPACITY: |
     계약서나 게임 보고서를 작성하면 더 많은 힌트를 얻을 수 있습니다.
     힌트가 많을수록 블루 게이지가 더 정확해집니다.

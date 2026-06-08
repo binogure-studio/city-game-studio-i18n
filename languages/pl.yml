@@ -118,8 +118,74 @@ pl:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Aktualizuj własne gry
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Aktualizuj tylko wszystkie gry
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Nadpisać zapis?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Bez kontynuacji
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Twórz kontynuacje dla wszystkich gier
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Twórz kontynuacje dla własnych gier
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Wybierz strategię kontynuacji dyrektora:
+
+    • Bez kontynuacji: koncentruje się wyłącznie na tworzeniu nowych gier
+    • Tylko własne gry: tworzy kontynuacje tylko dla gier, które opracował
+    • Wszystkie gry: tworzy kontynuacje dla całego dostępnego katalogu
+
+    Po zakończeniu dyrektor wznawia tworzenie nowych projektów.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Zmień wszystkie gry na wszystkich konwencjach.
+  LABEL_STUDIO_IDLE_FIRST: Nieaktywne studia jako pierwsze
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Raport Roczny — Rok Fiskalny %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Poufne — Tylko do użytku wewnętrznego
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Przegląd finansowy
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Całkowite przychody
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Całkowite wydatki
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Zysk netto
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Dostępna gotówka
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Podział przychodów
+  LABEL_ANNUAL_REPORT_GAME_SALES: Sprzedaż gier
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Licencje silników gier
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Sklep cyfrowy
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Platformy
+  LABEL_ANNUAL_REPORT_STOCK: Akcje
+  LABEL_ANNUAL_REPORT_CONTRACT: Umowy wydawnicze
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Podział wydatków
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Udział dyrektora studia
+  LABEL_ANNUAL_REPORT_MORTGAGE: Kredyt hipoteczny
+  LABEL_ANNUAL_REPORT_RENT: Czynsz
+  LABEL_ANNUAL_REPORT_SERVER: Serwer
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Konserwacja
+  LABEL_ANNUAL_REPORT_SALARY: Wynagrodzenie
+  LABEL_ANNUAL_REPORT_TAXES: Podatki
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Rozwój
+  LABEL_ANNUAL_REPORT_TRAINING: Szkolenie
+  LABEL_ANNUAL_REPORT_MARKETING: Marketing
+  LABEL_ANNUAL_REPORT_FURNITURE: Meble
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Biuro
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Zasoby ludzkie
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Aktywne studia
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Całkowita liczba pracowników
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · Założona w %s · Wszelkie prawa zastrzeżone"
+  LABEL_NO_CONTRACT_AVAILABLE: Brak dostępnych umów
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: T
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: STY
+  LABEL_MONTH_FEBRUARY: LUT
+  LABEL_MONTH_MARCH: MAR
+  LABEL_MONTH_APRIL: KWI
+  LABEL_MONTH_MAY: MAJ
+  LABEL_MONTH_JUNE: CZE
+  LABEL_MONTH_JULY: LIP
+  LABEL_MONTH_AUGUST: SIE
+  LABEL_MONTH_SEPTEMBER: WRZ
+  LABEL_MONTH_OCTOBER: PAŹ
+  LABEL_MONTH_NOVEMBER: LIS
+  LABEL_MONTH_DECEMBER: GRU
+  LABEL_CHECK_OTHER_GAME: Inna moja gra
   LABEL_SAVE_AND_LOAD: Zapis i Wczytywanie
   LABEL_SETTINGS_AND_HELP: Ustawienia i Pomoc
   LABEL_NAVIGATION: Nawigacja
@@ -154,6 +220,13 @@ pl:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Gry do portowania
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Gry wyprodukowane przez tego dyrektora studia
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Wszystkie gry, które mogą być portowane
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Opiera się na udziale w rynku konsoli, aby przenieść grę.
+    Jeśli udział w rynku jest niższy niż wartość, gra nie zostanie przeniesiona na konsolę.
+    Ale jeśli udział w rynku konsoli jest większy lub równy, gra zostanie przeniesiona na konsolę.
+
+    Ustawienie wskaźnika na 0 oznacza przeniesienie wszystkich gier na wszystkie dostępne platformy.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Minimalny udział w rynku
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Każda platforma ma wskaźnik kompatybilności z inną platformą.
     Im wyższa kompatybilność, tym bardziej udany będzie port.
@@ -320,6 +393,22 @@ pl:
   LABEL_GET_ALL_PLATFORM: Przejmij wszystkie platformy
   LABEL_UPCOMING_GAME: Do listy życzeń już dziś!
   LABEL_BANKER_GOODBYE_MESSAGE: Dziękuję za poświęcony czas i rozważenie. Postąpimy zgodnie z ostateczną decyzją. Jeśli potrzebujesz dalszej pomocy, daj nam znać.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Sprzedać wszystkie udziały, które posiadasz w każdym konkurencie
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Czy na pewno chcesz przyjąć tę ofertę? Akceptując, sprzedasz wszystkie swoje udziały!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Zaakceptuj, sprzedaj wszystko.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    Anuluj, musi być inny sposób.
+  LABEL_BANKER_STATE_LOAN: >
+    Państwo oferuje spłatę twojego długu w zamian za dodatkowy podatek %d%% przez %d lat
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Czy na pewno chcesz przyjąć tę ofertę? Akceptując, będziesz musiał płacić %d%% dodatkowych podatków. Przez okres %d lat.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Zaakceptuj. Nie mamy wyboru, to nadal najbardziej logiczne rozwiązanie.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    Anuluj. Ten dodatkowy podatek zniszczy nasze przychody w długim okresie.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Czy jesteś pewien, że chcesz sprzedać silnik gry, który opracowałeś w ciągu ostatnich kilku miesięcy? Może to zaszkodzić Twoim przyszłym projektom.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Potwierdzenie. Nie mamy innego wyboru. Musimy natychmiast zmniejszyć nasze długi.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Anulowanie. Musimy rozważyć inne opcje przed sprzedażą tak cennego aktywa.
@@ -630,6 +719,13 @@ pl:
   LABEL_PINBALL_CITY_GAME_STUDIO: Pinball City Game Studio
   LABEL_PINBALL_SNEAK_IN: Zakradnij się do Pinball
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Skontaktuj się z pozostałymi konkurentami.
+  LABEL_COVID_EVENT: |
+    Pojawił się dziwny wirus. Zarażone osoby cierpią na kaszel i gwałtowną gorączkę wśród około pięćdziesięciu różnych objawów.
+    Rozprzestrzenia się z zawrotną prędkością. W obliczu tego nowego wirusa rządy na całym świecie podejmują drastyczne środki i wzywają swoich obywateli do pozostania w domach.
+
+    W ten sposób zamknięci ludzie zwracają się do swoich komputerów i konsol do gier.
+    Ma to pozytywny wpływ na sprzedaż wszystkich twoich gier. Można spodziewać się [b]wzrostu sprzedaży[/b] przez [b]najbliższe 24 miesiące[/b].
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Wzrost sprzedaży w perspektywie
   LABEL_GRANTENDO_DENY_PARTNERSHIP: "Przyznawanie/Odmawianie partnerstwa"
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
     Gra kończy się wraz z końcem tego roku. Możesz kontynuować grę po tej dacie, jednak nie będzie już nowych konsol ani nowych komponentów. Słowo się rzekło, a tym słowem jest CD-ROM dla [b]Super Grantendo[/b]! [b]Grantendo[/b] zapowiedziało, że napęd CD-ROM do użytku z [b]Super Grantendo[/b] zostanie wprowadzony w styczniu 1993 roku. Wkrótce potem twórcy licencji [b]Grantendo[/b] otrzymali specyfikację techniczną nowego napędu i zostali zaproszeni na konferencję poświęconą szczegółowemu objaśnianiu nowego sprzętu. Tam dowiedzą się o wyjątkowych możliwościach napędu Super GES CD-ROM, w tym o pełnoekranowym, pełnowymiarowym wideo, kompatybilności z XA i 8 megach pamięci RAM w urządzeniu. Jeśli jednak nie jesteś inżynierem, wiele z tego technicznego żargonu może nie mieć znaczenia.
@@ -730,6 +826,8 @@ pl:
   LABEL_FILTER_NONE: Brak
   LABEL_FILTER_ONLY_NO_CONTRACTS: Bez umowy
   LABEL_FILTER_ONLY_CONTRACTS: Umowa
+  TOOLTIP_ENTER_COMPANY_NAME: Wprowadź nazwę swojej firmy
+  TOOLTIP_ENTER_PLAYER_NAME: Wprowadź swoje imię
   TOOLTIP_SELECT_DIFFICULTY: |
     Proszę wybrać poziom trudności
   LABEL_EASY: Łatwy
@@ -789,6 +887,8 @@ pl:
     Chodźmy!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Niech tak się stanie!
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Zapłać [b]%s[/b], aby zatrzymać ten atak i zablokować wszystkie przyszłe ataki
   LABEL_MINIGAME_LOSE: |
     Twoja gra jest dostępna za darmo na rynku.
     Sprzedaż będzie hitem.
@@ -2122,7 +2222,7 @@ pl:
   LABEL_POSTMORTEM_TITLE: Sprawozdanie (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: Nie dowiedzieliśmy się niczego nowego od [b]%s[/b]
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "Oto czego dowiedzieliśmy się od [b]%s[/b]:%s"
-  LABEL_POSTMORTEM_MATCH: "[ul]- Dopasowanie pomiędzy [i]%s[/i] a [i]%s[/i] wynosi [b]%s[/b][/ul]."
+  LABEL_POSTMORTEM_MATCH: "[ul]- Dopasowanie dla [i]%s[/i] na [i]%s[/i] to [b]%s[/b][/ul]."
   LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b] jest [b]%s[/b] dla gier [b]%s[/b][/ul]."
   LABEL_POSTMORTEM_MARGINAL: marginalne
   LABEL_POSTMORTEM_INSIGNIFICANT: nieznaczny
@@ -2227,7 +2327,7 @@ pl:
   LABEL_NO_MONEY: Zbyt drogie
   LABEL_COMPUTER: Komputer
   LABEL_PLANT: Roślina
-  LABEL_TABLEPLANT: Tablica
+  LABEL_TABLEPLANT: Stolik dekoracyjny
   LABEL_PRINTER: Drukarka
   LABEL_COFFEEMACHINE: Ekspres do kawy
   LABEL_DARKMETALTABLEDESK: Biurko z ciemnego metalu
@@ -2486,8 +2586,17 @@ pl:
   LABEL_HOOVERBALL: Powietrzny hokej
   LABEL_TV: Telewizor
   LABEL_ARCADE_CITY_GAME_STUDIO: Pasaż City Game Studio
+  LABEL_YELLOWCOUCH: Jasna żółta sofa
+  LABEL_BLUECOUCH: Jasna niebieska sofa
+  LABEL_BLUEARMCHAIR: Jasny niebieski fotel
+  LABEL_YELLOWARMCHAIR: Jasny żółty fotel
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Ten mebel jest taki sam jak oryginał z inną estetyką.
+    Nie ma lepszych statystyk ani innego efektu
+
+    Musisz posiadać DLC "Supporter Pack", aby odblokować ten mebel.
   TOOLTIP_BONUS_HYPE: |
     To właśnie wtedy, gdy prezentujesz swoje gry na konwentach, generujesz dodatkowy szum.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2588,8 +2697,12 @@ pl:
 
     Trzeba zrobić grę nieco mniejszą, aby lepiej się sprzedawała.
     Aby powiększyć swoją bazę fanów, możesz również przyjmować oferty publikacji od innych firm.
+  LABEL_ORDER_BY_NAME_ONLY: Tylko według nazwy
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: Według nazwy i aktywności
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Sortuj listę studiów
   TOOLTIP_TIPS_CAPACITY: |
     Więcej wskazówek można uzyskać, zawierając kontrakty lub sporządzając raporty z gry.
     Więcej wskazówek oznacza dokładniejszy niebieski wskaźnik.

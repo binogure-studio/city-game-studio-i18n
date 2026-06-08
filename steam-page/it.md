@@ -1,48 +1,53 @@
-City Game Studio è un gioco gestionale ambientato in una città dove è possibile gestire diversi studi. Create e gestite la vostra azienda di videogiochi, dirigete diversi studi e create tonnellate di giochi. Godetevi decine di ore di gioco e guardate il flusso di denaro, o fate i conti con il banchiere!
-
-[img]{STEAM_APP_IMAGE}/extras/map-rounded.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-0[/img]
+City Game Studio è un profondo gestionale ambientato in una città dove potete gestire diversi studi. Create e gestite la vostra compagnia di videogiochi, dirigete più studi, sviluppate tantissimi giochi. Godetevi decine di ore di gioco e guardate i soldi scorrere... oppure fate i conti con il banchiere!
 
 [img]{STEAM_APP_IMAGE}/extras/gameplay-616x96.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-1[/img]
+Gennaio 1976, avete appena fondato la vostra compagnia di videogiochi. Affittate uno spazio angusto che vi permette di sviluppare il vostro primo gioco. In poco tempo i vostri giochi hanno successo e dovete già trasferirvi, ma spetta a voi attraversare la città per scegliere il prossimo locale. In un batter d'occhio assumete artisti per migliorare l'aspetto visivo dei vostri giochi. Poi arrivano gli sviluppatori, e poi i tester.
 
-Gennaio 1976, hai appena fondato la tua ditta di videogiochi. Affitti un piccolo spazio che ti permetterà di sviluppare la tua prima opera. Presto, i tuoi giochi diventano un successo ed è già tempo di trasferirsi, ma sta a te scegliere dove collocare il nuovo ufficio. In un batter d'occhio stai già assumendo artisti per migliorare l'aspetto grafico dei tuoi giochi, poi è il turno di programmatori e tester.
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-2[/img]
 
-[img]{STEAM_APP_IMAGE}/extras/create-game-rounded.gif[/img]
+Ma rimane un problema: anche se i vostri giochi sono brillanti, non avete abbastanza fan per autopubblicare un grande gioco e rendere redditizio il vostro studio. Dovrete rivolgervi agli editori, che si prenderanno la fetta più grande. Inanellare successi è l'unico modo per liberarsi di loro. Potrete poi pubblicare i vostri contratti editoriali. A quel punto sarete pronti a dominare il mercato e ad acquisire i vostri concorrenti.
 
-Ma rimane un problema: nonostante il tuo successo, non hai abbastanza fans per pubblicare autonomamente giochi più elaborati, e avere migliori profitti. Dovrai ricorrere a degli editori per raggiungere un'udienza più grande e l'unico modo per sbarazzarsene sarà concatenare successi. Solo allora sarai pronto a dominare il mercato.
-
-[img]{STEAM_APP_IMAGE}/extras/create-engine-rounded.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/cgs-steam-video-3[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/features-616x96.png[/img]
 
 [list][*] Sviluppare o affittare motori di gioco
-[*] Ricevere/pubblicare le offerte di gioco
-[*] Acquisto o affitto di diversi edifici
+[*] Ricevere e pubblicare offerte di gioco
+[*] Acquistare o affittare diversi edifici
 [*] Sviluppare e gestire un negozio digitale
-[*] Giochi di Cracking dei concorrenti
+[*] Craccare i giochi dei concorrenti
 [*] Sbloccare nuovi generi di gioco
 [*] Spiare i concorrenti
 [*] Assumere personale
 [*] Organizzare campagne di marketing
-[*] Organizzazione e partecipazione a convegni
-[*] Acquistare aziende
-[*] Esecuzione di contratti che formano i vostri dipendenti
+[*] Organizzare e partecipare a convention
+[*] Acquisire compagnie
+[*] Eseguire contratti che formano i vostri dipendenti
 [*] Portare i giochi su diverse console
-[*] Progetta il tuo logo aziendale
+[*] Progettare il logo della vostra compagnia
 [*] Gestire gli orari dei vostri dipendenti
-[*] Premiato come gioco dell'anno
-[*] Creare la propria console
-[*] Negoziare per ottenere le licenze delle console
-[*] Divertitevi[/list]
+[*] Vincere il premio Gioco dell'Anno
+[*] Creare la vostra console
+[*] Negoziare le licenze delle console
+[*] Assumere Direttori di Studio per automatizzare la produzione
+[*] Pubblicare DLC e aggiornamenti per i vostri giochi
+[*] Lasciare che i concorrenti creino e vendano le proprie console
+[*] Fare streaming su Twitch e lasciare che i vostri spettatori diventino i vostri dipendenti
+[*] Caricare e creare mod per personalizzare la vostra esperienza
+[*] Copiare e incollare l'arredamento degli studi
+[*] Divertirsi[/list]
 
 [img]{STEAM_APP_IMAGE}/extras/game-modes-616x96.png[/img]
 
-City Game Studio offre diversi livelli di difficoltà. Da una tranquilla passeggiata a una sfida permanente, sarete in grado di trovare la difficoltà più adatta a voi.
-Per coloro che desiderano esplorare il gioco in tutti i suoi angoli e fessure, c'è una modalità sandbox. È possibile controllare la propria esperienza di gioco impostando ogni nuova partita.
+City Game Studio offre diversi livelli di difficoltà. Da una passeggiata tranquilla a una sfida permanente, troverete la difficoltà più adatta a voi.
+Per chi vuole esplorare il gioco in ogni suo angolo, c'è una modalità sandbox. Voi controllate la vostra esperienza di gioco configurando ogni nuova partita.
 
 [img]{STEAM_APP_IMAGE}/extras/development-team-616x96.png[/img]
 
-City Game Studio è il risultato di diversi anni di lavoro da parte di un singolo essere vivente - beh, un singolo essere umano. Ad eccezione della colonna sonora, che è stata composta da un musicista di talento: Conciliator!
+City Game Studio è il frutto di diversi anni di lavoro di un unico essere vivente, beh, di un unico essere umano. Tranne la colonna sonora, composta da un musicista di talento: Conciliator!
 
-Accetto volentieri commenti costruttivi di ogni tipo, quindi non esitate a contattarmi! Farò del mio meglio per rispondere prontamente ai messaggi e risolvere eventuali problemi. :) 
+Accolgo con piacere commenti costruttivi di ogni tipo, non esitate a contattarmi! Farò del mio meglio per rispondere prontamente ai messaggi e risolvere qualsiasi problema. :)
 
 https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/

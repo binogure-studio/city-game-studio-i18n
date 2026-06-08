@@ -118,8 +118,74 @@ cs:
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: Aktualizovat vlastní hry
   BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: Aktualizovat pouze všechny hry
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: Přepsat uloženou hru?
+  BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: Žádné pokračování
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: Vytvořit pokračování pro všechny hry
+  BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Vytvořit pokračování pro vlastní hry
 
   # Labels, descriptive
+  TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
+    Vyberte strategii pokračování ředitele:
+
+    • Žádné pokračování: zaměřuje se pouze na vytváření nových her
+    • Pouze vlastní hry: vytváří pokračování pouze pro hry, které vyvinuli
+    • Všechny hry: vytváří pokračování pro celý dostupný katalog
+
+    Po dokončení ředitel pokračuje ve vývoji nových projektů.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Změnit všechny hry na všech konvencích.
+  LABEL_STUDIO_IDLE_FIRST: Nečinná studia jako první
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: Výroční zpráva — Fiskální rok %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Důvěrné — Pouze pro interní použití
+  LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Finanční přehled
+  LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Celkové příjmy
+  LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Celkové výdaje
+  LABEL_ANNUAL_REPORT_NET_PROFIT: Čistý zisk
+  LABEL_ANNUAL_REPORT_AVAILABLE_CURRENCY: Dostupná hotovost
+  LABEL_ANNUAL_REPORT_REVENUE_BREAKDOWN: Rozdělení příjmů
+  LABEL_ANNUAL_REPORT_GAME_SALES: Prodej her
+  LABEL_ANNUAL_REPORT_GAME_ENGINE: Licence herních enginů
+  LABEL_ANNUAL_REPORT_DIGITAL_STORE: Digitální obchod
+  LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Platformy
+  LABEL_ANNUAL_REPORT_STOCK: Akcie
+  LABEL_ANNUAL_REPORT_CONTRACT: Vydavatelské smlouvy
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Rozdělení výdajů
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Podíl ředitele studia
+  LABEL_ANNUAL_REPORT_MORTGAGE: Hypotéka
+  LABEL_ANNUAL_REPORT_RENT: Nájem
+  LABEL_ANNUAL_REPORT_SERVER: Server
+  LABEL_ANNUAL_REPORT_MAINTENANCE: Údržba
+  LABEL_ANNUAL_REPORT_SALARY: Plat
+  LABEL_ANNUAL_REPORT_TAXES: Daně
+  LABEL_ANNUAL_REPORT_DEVELOPMENT: Vývoj
+  LABEL_ANNUAL_REPORT_TRAINING: Školení
+  LABEL_ANNUAL_REPORT_MARKETING: Marketing
+  LABEL_ANNUAL_REPORT_FURNITURE: Nábytek
+  LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Kancelář
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Lidské zdroje
+  LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Aktivní studia
+  LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Celkový počet zaměstnanců
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · Založeno v %s · Všechna práva vyhrazena"
+  LABEL_NO_CONTRACT_AVAILABLE: Není k dispozici žádná smlouva
+  LABEL_UNIT_K: K
+  LABEL_UNIT_M: M
+  LABEL_UNIT_G: G
+  LABEL_UNIT_T: Tclaude
+  LABEL_UNIT_P: P
+  LABEL_UNIT_E: E
+  LABEL_UNIT_Z: Z
+  LABEL_UNIT_Y: Y
+  LABEL_MONTH_JANUARY: LED
+  LABEL_MONTH_FEBRUARY: ÚNO
+  LABEL_MONTH_MARCH: BŘE
+  LABEL_MONTH_APRIL: DUB
+  LABEL_MONTH_MAY: KVĚ
+  LABEL_MONTH_JUNE: ČVN
+  LABEL_MONTH_JULY: ČVC
+  LABEL_MONTH_AUGUST: SRP
+  LABEL_MONTH_SEPTEMBER: ZÁŘ
+  LABEL_MONTH_OCTOBER: ŘÍJ
+  LABEL_MONTH_NOVEMBER: LIS
+  LABEL_MONTH_DECEMBER: PRO
+  LABEL_CHECK_OTHER_GAME: Další moje hra
   LABEL_SAVE_AND_LOAD: Uložení & Načtení
   LABEL_SETTINGS_AND_HELP: Nastavení & Nápověda
   LABEL_NAVIGATION: Navigace
@@ -154,6 +220,13 @@ cs:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE: Hry k portování
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: Hry vyrobené tímto ředitelem studia
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: Všechny hry, které lze portovat
+  TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
+    Vychází z podílu konzole na trhu pro portování hry.
+    Pokud je podíl na trhu nižší než hodnota, hra nebude na konzoli portována.
+    Pokud je však podíl konzole na trhu větší nebo roven, hra bude na konzoli portována.
+
+    Nastavení ukazatele na 0 znamená portování všech her na všechny dostupné platformy.
+  LABEL_PLATFORM_MARKETSHARE_MIN: Minimální podíl na trhu
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_COMPATIBILITY: |
     Každá platforma má míru kompatibility s jinou platformou.
     Čím vyšší kompatibilita, tím úspěšnější bude port.
@@ -319,6 +392,22 @@ cs:
   LABEL_GET_ALL_PLATFORM: Získat všechny platformy
   LABEL_UPCOMING_GAME: Přidejte na seznam přání ještě dnes!
   LABEL_BANKER_GOODBYE_MESSAGE: Děkuji za váš čas a pozornost. Budeme postupovat na základě vašeho finálního rozhodnutí. Pokud budete potřebovat další asistenci, dejte nám vědět.
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
+    Prodat všechny akcie, které vlastníte u všech konkurentů
+  LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
+    Jste si jisti, že chcete tuto nabídku přijmout? Přijetím prodáte všechny své akcie!
+  LABEL_BANKER_SELL_SHARE_CONFIRM: >
+    Přijmout, prodat vše.
+  LABEL_BANKER_SELL_SHARE_CANCEL: >
+    Zrušit, musí existovat jiný způsob.
+  LABEL_BANKER_STATE_LOAN: >
+    Stát nabízí splacení vašeho dluhu výměnou za dodatečnou daň %d%% po dobu %d let
+  LABEL_BANKER_STATE_LOAN_MESSAGE: >
+    Jste si jisti, že chcete tuto nabídku přijmout? Přijetím budete muset platit %d%% dodatečných daní. Platí po dobu %d let.
+  LABEL_BANKER_STATE_LOAN_CONFIRM: >
+    Přijmout. Nemáme na výběr, je to stále nejlogičtější řešení.
+  LABEL_BANKER_STATE_LOAN_CANCEL: >
+    Zrušit. Tato dodatečná daň zničí naše příjmy z dlouhodobého hlediska.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Opravdu chcete prodat herní engine, který jste během několika posledních měsíců vyvíjeli? Mohlo by to uškodit vašim budoucím projektům.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: Ano. Nemáme na výběr. Musíme náš dluh snížit co nejdřív.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: Ne. Musíme zvážit i jiné možnosti, než prodáme tak cennou věc.
@@ -628,6 +717,13 @@ cs:
   LABEL_PINBALL_CITY_GAME_STUDIO: Pinball
   LABEL_PINBALL_SNEAK_IN: Pinball Sneak In
   LABEL_SUBMIT_TO_ALL_COMPETITORS: Kontaktovat všechnu zbývající konkurenci.
+  LABEL_COVID_EVENT: |
+    Objevil se zvláštní virus. Nakažení lidé trpí kašlem a silnými horečkami mezi asi padesáti různými příznaky. Šíří se závratnou rychlostí.
+    Tváří v tvář tomuto novému viru přijímají vlády po celém světě drastická opatření a vyzývají své občany, aby zůstali doma.
+
+    Takto izolovaní lidé se obracejí ke svým počítačům a herním konzolím.
+    To má pozitivní vliv na prodej všech vašich her. Lze očekávat [b]nárůst prodejů[/b] po dobu [b]příštích 24 měsíců[/b].
+  LABEL_COVID_EVENT_ANNOUNCEMENT: Nárůst prodejů se blíží
   LABEL_GRANTENDO_DENY_PARTNERSHIP: "Parterství Grantendo/Deny"
   LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
     [b]Grantendo[/b] nedávno oznámilo, že v partnerství s [b]Deny[/b] vydá verzi [b]Super Grantendo[/b] s podporou pro CD-ROM! Zařízení má být představeno na trh v lednu 1993. Krátce po oznámení získali vývojáři třetích stran vyvíjející pro [b]Grantendo[/b] technické specifikace a byli pozváni na konferenci, která bude věnována podrobnostem nového zařízení. Zde se také dozví o jeho vynikajících schopnostech a funkcích, včetně podpory režimu celé obrazovky, FMV, kompatibility s CD-ROM XA a osmi megabajty RAM. Pokud ale nejste inženýřem, tahle slova vám toho moc říkat nemusí.
@@ -728,6 +824,8 @@ cs:
   LABEL_FILTER_NONE: Žádný
   LABEL_FILTER_ONLY_NO_CONTRACTS: Bez smlouvy
   LABEL_FILTER_ONLY_CONTRACTS: Se smlouvou
+  TOOLTIP_ENTER_COMPANY_NAME: Zadejte název vaší společnosti
+  TOOLTIP_ENTER_PLAYER_NAME: Zadejte své jméno
   TOOLTIP_SELECT_DIFFICULTY: |
     Prosím vyberte obtížnost
   LABEL_EASY: Snadná
@@ -787,6 +885,8 @@ cs:
     Pojďme!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
     Klidně, ať se to stane...
+  LABEL_MINIGAME_DEFEND_PAY: |
+    Zaplatit [b]%s[/b] pro zastavení tohoto útoku a zablokování všech budoucích útoků
   LABEL_MINIGAME_LOSE: |
     Vaše hra je dostupná na trhu zadarmo.
     Prodeje budou značně zasaženy.
@@ -2486,8 +2586,17 @@ cs:
   LABEL_HOOVERBALL: Vzdušný hokej
   LABEL_TV: Televize
   LABEL_ARCADE_CITY_GAME_STUDIO: Arkádový automat City Game Studio
+  LABEL_YELLOWCOUCH: Světle žlutá pohovka
+  LABEL_BLUECOUCH: Světle modrá pohovka
+  LABEL_BLUEARMCHAIR: Světle modré křeslo
+  LABEL_YELLOWARMCHAIR: Světle žluté křeslo
 
   # Tutoriel labels
+  TOOLTIP_SUPPORTER_DLC_REQUIRED: |
+    Tento nábytek je stejný jako originál s jinou estetikou.
+    Nemá lepší statistiky ani jiný efekt
+
+    Musíte vlastnit DLC "Supporter Pack", abyste odemkli tento nábytek.
   TOOLTIP_BONUS_HYPE: |
     Bonusový hype vzniká, když své hry např. předvádíte na herních veletrzích.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2588,8 +2697,12 @@ cs:
 
     V zájmu lepších prodejů by jste měli velikost hry zmenšit.
     K rozšíření své fanouškovské základny můžete také najít vydavatele a vyvinout pro něj několik her.
+  LABEL_ORDER_BY_NAME_ONLY: Pouze podle názvu
+  LABEL_ORDER_BY_NAME_AND_ACTIVITY: Podle názvu a činnosti
 
   # Tooltips
+  TOOLTIP_SORT_STUDIO_LIST: |
+    Seřadit seznam studií
   TOOLTIP_TIPS_CAPACITY: |
     Další tipy získáte, když budete uzavírat smlouvy nebo podávat zprávy o hře.
     Více tipů znamená přesnější modrý ukazatel.
