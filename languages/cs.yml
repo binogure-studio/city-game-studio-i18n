@@ -401,11 +401,11 @@ cs:
   LABEL_BANKER_SELL_SHARE_CANCEL: >
     Zrušit, musí existovat jiný způsob.
   LABEL_BANKER_STATE_LOAN: >
-    Stát nabízí splacení vašeho dluhu výměnou za dodatečnou daň %d%% po dobu %d let
+    Stát nabízí splacení vašeho dluhu výměnou za zvýšaní vašich daní o %d%% na dobu %d let.
   LABEL_BANKER_STATE_LOAN_MESSAGE: >
-    Jste si jisti, že chcete tuto nabídku přijmout? Přijetím budete muset platit %d%% dodatečných daní. Platí po dobu %d let.
+    Jste si jisti, že chcete tuto nabídku přijmout? Přijetím budete muset platit o %d%% vyšší daň. Platí po dobu %d let.
   LABEL_BANKER_STATE_LOAN_CONFIRM: >
-    Přijmout. Nemáme na výběr, je to stále nejlogičtější řešení.
+    Přijmout. Nemáme na výběr, je to nejlogičtější řešení.
   LABEL_BANKER_STATE_LOAN_CANCEL: >
     Zrušit. Tato dodatečná daň zničí naše příjmy z dlouhodobého hlediska.
   LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: Opravdu chcete prodat herní engine, který jste během několika posledních měsíců vyvíjeli? Mohlo by to uškodit vašim budoucím projektům.
@@ -548,8 +548,8 @@ cs:
     Chystáte se zrušit [b]%s[/b].
     Chcete pokračovat?
   LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
-    Jako vydavatel nedostanete žádné tipy z herních reportáží a nezískáte žádné fanoušky.
-    Ale ani o žádné fanoušky nepřijdete.
+    Jako vydavatel nedostanete žádné tipy ze zprávy o hře a nezískáte žádné fanoušky.
+    Zároveň ale o žádné fanoušky nepřijdete.
   LABEL_CANNOT_HIRE_AND_ASSIGN: |
     K přijetí a přidělení zaměstnance potřebujete volný stůl.
   LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
@@ -952,11 +952,11 @@ cs:
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
     Náklady vynaložené na pronájmy jsou významnou ztrátou. Mohli by jste buď budovy kupovat, nebo pronajímat menší a zavřít ty, které vás stojí nejvíce.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    Výplaty jsou velkou ztrátou. Zkuste zvážit propouštění některých zaměstnanců.
+    Výplaty jsou velkou ztrátou. Zvažte propuštění některých zaměstnanců.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    Vlastníte mnoho automatů, což je zátěž pro rozpočet
+    Vlastníte mnoho automatů, což je zátěž pro rozpočet.
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    Servery jsou velmi drahé. Pokud máte nějaké nepoužité, měly by se prodat.
+    Servery jsou velmi drahé. Pokud máte nějaké nevyužívané, měly by se prodat.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
     Utrácíte mnoho na marketingu. Možná zvažte zastavení některých kampaní a účast na výstavách.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
@@ -1049,9 +1049,9 @@ cs:
   LABEL_MARKETING_MANAGER_TOOLTIP: |
     Přiřaďte marketingového manažera ke zvýšení popularity hry.
   LABEL_PRODUCER_ASSIGN_TOOLTIP: |
-    Přiřazení výrobce ke zjištění počtu požadovaných bodů
+    Přiřaďte producenta ke zjištění počtu požadovaných bodů.
   LABEL_PRODUCER_TOOLTIP: |
-    Výrobci vytvářejí velké hry/AAA a zvyšují produktivitu vývojářů.
+    Producenti vytvářejí velké hry/AAA a zvyšují produktivitu vývojářů.
     Specializují se na určitý žánr, což optimalizuje modré oblasti ukazatelů
     a dvojnásobné zvýšení produktivity, pokud hra, kterou vytváříte,
     odpovídá jeho specializaci.
@@ -1319,7 +1319,7 @@ cs:
   LABEL_GAME_PRICE: Cena hry
   LABEL_UPDATE_PRICE: Cena DLC
   LABEL_X_STUDIOS: "%d studií"
-  LABEL_RANDOM_SLIDER: Randomizovat' zaměření hry
+  LABEL_RANDOM_SLIDER: Randomizovat zaměření her
   LABEL_DISCOUNT: Vytvořit slevu
   LABEL_ORGANIZE_YEARLY: Zorganizovat každoroční výstavu
   LABEL_YEARLY: Roční
@@ -1667,14 +1667,14 @@ cs:
   LABEL_STUDIO_NOT_BALANCED: >
     Zkontrolujte tým vašeho studia. Nevytváří stejné množství bodů designu/vývoje nebo dokončení.
     Naruší to kvalitu her, které vytváříte.
-  LABEL_LAST_COMBO: "Naposled, kdy jste vytvořili hru se stejnou kombinací téma/žánr."
+  LABEL_LAST_COMBO: "Naposled, kdy jste vytvořili hru se stejnou kombinací téma/žánr:"
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b] schází [b]%s[/b].
   LABEL_POINTRATIO_TOO_MUCH: |
     [b]%s[/b] má příliš mnoho [b]%s[/b].
   LABEL_PLATFORM_NOT_EXPLOITED: |
     Měli lépe využít schopnosti platformy.
-  LABEL_MARKETING_CAMPAIGN: Marketingová kapmaň
+  LABEL_MARKETING_CAMPAIGN: Marketing
   LABEL_CAMPAIGN_TYPE: Typ kampaně
   LABEL_WORKLOAD: Pracovní vytížení
   LABEL_WORKLOAD_DISTRIBUTION: Distribuce pracovního vytížení
@@ -1686,7 +1686,7 @@ cs:
   LABEL_POINTRATIO_BAD: |
     [b]%s[/b] je jejich slabostí. Jejich zaměstnanci nejsou dostatečně vybalancovaní.
   LABEL_REVIEW_PLATFORM_GOOD: |
-    [b]%s[/b] má skvělý tým, který září na všech stranách.
+    [b]%s[/b] má skvělý tým, který září po všech stránkách.
   LABEL_REVIEW_PLATFORM_BAD: |
     [b]%s[/b] nemůže vydávat skvělé hry ([b]%s[/b]) na [b]%s[/b] kvůli nedostatku zaměstnanců.
   LABEL_REVIEW_GAME_BAD: |
@@ -1775,7 +1775,7 @@ cs:
   LABEL_EXPENSES: Výdaje
   LABEL_RENT: Nájem
   LABEL_MARKETING: Marketingové poplatky
-  LABEL_FINANCIAL_RESULT: Finanční výsledky
+  LABEL_FINANCIAL_RESULT: Finanční výpisy
   LABEL_PROPERTY_VALUE: Hodnota nemovitostí
   LABEL_FURNITURE_VALUE: Hodnota nábytku
   LABEL_CATALOG_VALUE: Hodnota herního katalogu
@@ -1786,8 +1786,8 @@ cs:
   LABEL_INTEREST: Úrok
   LABEL_MONTHLY: Měsíční splátky
   LABEL_AUTO_ASSIGN_STAFF: Automaticky přiřadit zaměstnance
-  LABEL_UPGRADE_COMPUTER: Automaticky vylepšit počítače
-  LABEL_UPGRADE_SERVER: Automaticky vylepšit servery
+  LABEL_UPGRADE_COMPUTER: Automaticky zmodernizovat počítače
+  LABEL_UPGRADE_SERVER: Automaticky zmodernizovat servery
   LABEL_COMPANY_WIDE: V celé společnosti
   LABEL_STUDIO_WIDE: V tomto studiu
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
@@ -1812,7 +1812,7 @@ cs:
     Oddělení špatných prodejů, [b]%s[/b]
   LABEL_SELECT_GAME_PRESENT: Vyberte hru, kterou chcete vystavit
   LABEL_ROYALTIES: Podíl
-  LABEL_PENALITY: Pokuta
+  LABEL_PENALITY: Penále
   LABEL_NOTE_MIN: Minimální hodnocení
   LABEL_MARKETING_GLOBAL_ITEM: Celkový marketing
   LABEL_MARKETING_MAGAZINE_ITEM: Časopisy
@@ -1822,7 +1822,7 @@ cs:
   LABEL_MARKETING_BILLBOARD_ITEM: Billboardy
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Sociální sítě
   LABEL_MARKETING_MAILINGLIST_ITEM: Newsletter
-  LABEL_SELF_PUBLISH: Samostatné vydání
+  LABEL_SELF_PUBLISH: Nezávislé vydání
   LABEL_TRADE_PUBLISH: Tradiční vydání
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Zdravím,
@@ -1890,7 +1890,7 @@ cs:
   LABEL_SPECIAL_THANKS: Speciální poděkování
   LABEL_VISITORS: "%d návštěvníků"
   LABEL_ATTENDANCE: Návštěvníků
-  LABEL_NONE: Žádná
+  LABEL_NONE: Žádný
   LABEL_NO_BUILDING: Žádná dostupná budova
   LABEL_NO_CONVENTION: Žádné plánované výstavy
   LABEL_CONVENTION_LAST_DATE: Poslední výstava
@@ -1965,7 +1965,7 @@ cs:
   LABEL_STUDIO: Studio
   LABEL_TARGETTED_AUDIENCE: Cílová skupina
   LABEL_THEME: Téma
-  LABEL_TUTORIEL: Tutorial
+  LABEL_TUTORIEL: Tutoriál
   LABEL_USERINTERFACE: Uživatelské rozhraní
   LABEL_THEME_MOVIE_ADAPTATION: Adaptace filmu
   LABEL_THEME_PREHISTORY: Prehistorické
@@ -2593,10 +2593,10 @@ cs:
 
   # Tutoriel labels
   TOOLTIP_SUPPORTER_DLC_REQUIRED: |
-    Tento nábytek je stejný jako originál s jinou estetikou.
-    Nemá lepší statistiky ani jiný efekt
+    Tento motiv je stejný jako originál, jen s jinou estetikou.
+    Nemá lepší statistiky ani jiný efekt.
 
-    Musíte vlastnit DLC "Supporter Pack", abyste odemkli tento nábytek.
+    Musíte vlastnit DLC "Supporter Pack", abyste odemkli tento motiv.
   TOOLTIP_BONUS_HYPE: |
     Bonusový hype vzniká, když své hry např. předvádíte na herních veletrzích.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
@@ -2853,7 +2853,7 @@ cs:
   TOOLTIP_EMAIL: |
     Čtěte zprávy a své emaily.
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    Umožňuje vám odemknout nové herní žánry.
+    Odemkněte nové herní žánry.
   TOOLTIP_MANAGE_STUDIO: |
     Ke správě vaších studií, upgradování počítačů, přiřazování zaměstnanců, atd...
   TOOLTIP_GAMEPORT: Vytvořte port videohry pro jinou platformu.
@@ -2928,7 +2928,7 @@ cs:
   LOADING_SCREEN_TIP_9: >
     Během vývoje City Game Studia bylo přehráno 12,654 vánočních písní.
   LOADING_SCREEN_TIP_10: >
-    Tržní podíl je sice hezká metrika, ale musíte se také starat o množství her, které byly pro platformu vytvořeny.
+    Tržní podíl je sice pěkná metrika, musíte se ale zajímat také o množství her, které byly pro platformu vytvořeny.
   LOADING_SCREEN_TIP_11: >
     Chcete pomoct s překládáním City Game Studia? Připojte se na náš Discord server: https://discord.gg/citygamestudio
   LOADING_SCREEN_TIP_12: >
@@ -2965,7 +2965,7 @@ cs:
   FURNITURES_COMMON_BUY: Koupit nábytek
   COPY_STUDIO_LAYOUT: Rozložení kopírovacího studia
   EMPLOYEES_HIRE: Najmout zaměstnance
-  STUDIO_RENT: Pronajmout budovz
+  STUDIO_RENT: Pronajmout budovu
   STUDIO_BUILD: Postavit budovu
   CONVENTION_ORGANIZE: Organizovat výstavu
   CONVENTION_PARTICIPATE: Zúčastnit se výstavy
