@@ -1,6 +1,6 @@
 cs:
   # Buttons actions verbs
-  BUTTON_ALWAYS_ON_TOP: Vždy na vrcholu
+  BUTTON_ALWAYS_ON_TOP: Vždy nahoře
   BUTTON_RESET_SCHEDULE: Resetovat úkoly
   BUTTON_TRANSFERT_STAFF: Přesunout zaměstnance do...
   BUTTON_RENAME: Přejmenovat
@@ -124,17 +124,17 @@ cs:
 
   # Labels, descriptive
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
-    Vyberte strategii pokračování ředitele:
+    Vyberte strategii ředitele pro pokračování:
 
-    • Žádné pokračování: zaměřuje se pouze na vytváření nových her
-    • Pouze vlastní hry: vytváří pokračování pouze pro hry, které vyvinuli
+    • Žádná pokračování: zaměřuje se pouze na vytváření nových her
+    • Pouze vlastní hry: vytváří pokračování pouze pro hry, které vyvinul
     • Všechny hry: vytváří pokračování pro celý dostupný katalog
 
     Po dokončení ředitel pokračuje ve vývoji nových projektů.
-  LABEL_CONVENTION_UPDATE_ALL_GAME: Změnit všechny hry na všech konvencích.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: Aktualizovat všechny hry na výstavách
   LABEL_STUDIO_IDLE_FIRST: Nečinná studia jako první
   LABEL_ANNUAL_REPORT_YEAR_HEADER: Výroční zpráva — Fiskální rok %s
-  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Důvěrné — Pouze pro interní použití
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: Důvěrné — Pouze pro interní účely
   LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: Finanční přehled
   LABEL_ANNUAL_REPORT_TOTAL_REVENUE: Celkové příjmy
   LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: Celkové výdaje
@@ -147,9 +147,9 @@ cs:
   LABEL_ANNUAL_REPORT_CUSTOM_PLATFORM: Platformy
   LABEL_ANNUAL_REPORT_STOCK: Akcie
   LABEL_ANNUAL_REPORT_CONTRACT: Vydavatelské smlouvy
-  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Rozdělení výdajů
+  LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: Rozbor výdajů
   LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: Podíl ředitele studia
-  LABEL_ANNUAL_REPORT_MORTGAGE: Hypotéka
+  LABEL_ANNUAL_REPORT_MORTGAGE: Půjčky
   LABEL_ANNUAL_REPORT_RENT: Nájem
   LABEL_ANNUAL_REPORT_SERVER: Server
   LABEL_ANNUAL_REPORT_MAINTENANCE: Údržba
@@ -160,7 +160,7 @@ cs:
   LABEL_ANNUAL_REPORT_MARKETING: Marketing
   LABEL_ANNUAL_REPORT_FURNITURE: Nábytek
   LABEL_ANNUAL_REPORT_STUDIO_OFFICE: Kancelář
-  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Lidské zdroje
+  LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: Personál
   LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: Aktivní studia
   LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: Celkový počet zaměstnanců
   LABEL_ANNUAL_REPORT_FOOTER: "%s · Založeno v %s · Všechna práva vyhrazena"
@@ -185,7 +185,7 @@ cs:
   LABEL_MONTH_OCTOBER: ŘÍJ
   LABEL_MONTH_NOVEMBER: LIS
   LABEL_MONTH_DECEMBER: PRO
-  LABEL_CHECK_OTHER_GAME: Další moje hra
+  LABEL_CHECK_OTHER_GAME: Má jiná hra
   LABEL_SAVE_AND_LOAD: Uložení & Načtení
   LABEL_SETTINGS_AND_HELP: Nastavení & Nápověda
   LABEL_NAVIGATION: Navigace
