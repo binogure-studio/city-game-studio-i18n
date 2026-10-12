@@ -123,6 +123,17 @@ pl:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Twórz kontynuacje dla własnych gier
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Motyw interfejsu
+  LABEL_LIGHT_THEME: Jasny motyw
+  LABEL_DARK_THEME: Ciemny motyw
+  LABEL_SOLARI_THEME: Motyw Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Minimalne szczęście
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Automatycznie wysyła pracownika na urlop, gdy jego szczęście spadnie poniżej ustalonego limitu.
+
+    Gdy pracownik jest nieszczęśliwy, pracuje mniej efektywnie i częściej wyjeżdża na urlop.
+    Aby zwiększyć produktywność pracowników, lepiej wysłać ich na urlop, zanim staną się
+    zbyt nieszczęśliwi.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Wybierz strategię kontynuacji dyrektora:
 
@@ -1384,6 +1395,8 @@ pl:
     Możesz teraz tworzyć własne silniki gier.
     Silniki gier zwiększają ilość punktów generowanych przez Twoich pracowników.
   LABEL_GAME_ENGINE_OPEN_WORLD: Otwarty świat
+  LABEL_GAME_ENGINE_TEXT_BASED: Gra tekstowa
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Podzielony ekran
   LABEL_GAME_ENGINE_SANDBOX: Piaskownica (Sandbox)
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Zaawansowane wykrywanie ruchu
   LABEL_GAME_ENGINE_MOTION_CONTROL: Proste wykrywanie ruchu
@@ -1497,6 +1510,7 @@ pl:
   LABEL_SERVER_LOAD: Obciążenie serwerów
   LABEL_SALES_BONUS: Wzrost sprzedaży
   LABEL_SERVER_COST: Koszty serwerów
+  LABEL_DS_STORE_FESTIVAL_THEME: Trwający festiwal
   LABEL_DS_SALES: Sprzedaż gier
   LABEL_DS_PLATFORMCUT: Cięcie w sklepie cyfrowym
   LABEL_DS_CCU: Współuczestniczący użytkownicy
@@ -1545,6 +1559,18 @@ pl:
   LABEL_DS_SALES_TITLE: Sprzedaż
   LABEL_DS_SALES_DESCRIPTION: |
     Umożliwia tworzenie sprzedaży na grę.
+  LABEL_DS_FESTIVAL_TITLE: Festiwal
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organizuj festiwale w swoim sklepie cyfrowym.
+
+    Przypisując menedżera ds. marketingu, zwiększysz sprzedaż i widoczność!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Warstwa sieciowa
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Pozwala przypisać administratora sieci, który poprawi wydajność
+    twojego sklepu cyfrowego.
+
+    Krótko mówiąc, jeśli przypiszesz administratora sieci, jego umiejętności zmniejszą
+    obciążenie serwera
   LABEL_HIRING_COSTS: Koszty zatrudnienia
   LABEL_COMPLETE: Kompletny
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2016,6 +2042,7 @@ pl:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Transport
   LABEL_THEME_MUSIC: Muzyka
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: Taktyka czasu rzeczywistego (RTT)
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Akcja przygodowa

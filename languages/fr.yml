@@ -123,6 +123,17 @@ fr:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Créer des suites pour ses propres jeux
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Thème de l'interface
+  LABEL_LIGHT_THEME: Thème clair
+  LABEL_DARK_THEME: Thème sombre
+  LABEL_SOLARI_THEME: Thème Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Minimum de bonheur
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Envoie automatiquement un employé en vacances lorsque son bonheur est inférieur à la limite fixée.
+
+    Lorsqu'un employé est malheureux, il travaille moins bien et part plus souvent en vacances.
+    Afin de rendre les employés plus productifs, il est préférable de les envoyer en vacances
+    avant qu'ils ne soient trop malheureux.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Choisissez la stratégie de suite du directeur :
 
@@ -1409,6 +1420,8 @@ fr:
     Vous pouvez maintenant créer vos propres moteurs de jeu.
     Les moteurs de jeu augmentent le nombre de points générés par votre personnel. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Monde ouvert
+  LABEL_GAME_ENGINE_TEXT_BASED: Jeu textuel
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Écran partagé
   LABEL_GAME_ENGINE_SANDBOX: Bac à sable
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Détection de mouvement avancé
   LABEL_GAME_ENGINE_MOTION_CONTROL: Simple détection de mouvement
@@ -1524,6 +1537,7 @@ fr:
   LABEL_SERVER_LOAD: Charge des serveurs
   LABEL_SALES_BONUS: Bonus de ventes
   LABEL_SERVER_COST: Coûts de serveurs
+  LABEL_DS_STORE_FESTIVAL_THEME: Festival en cours
   LABEL_DS_SALES: Vente de jeux
   LABEL_DS_PLATFORMCUT: La part du magasin numérique
   LABEL_DS_CCU: Utilisateurs concurrents
@@ -1572,6 +1586,18 @@ fr:
   LABEL_DS_SALES_TITLE: Soldes
   LABEL_DS_SALES_DESCRIPTION: |
     Permet de créer des soldes pour un jeu vidéo
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organisez des festivals sur votre magasin digital.
+
+    En assignant un responsable marketing, vous allez booster vos ventes et la visibilité !
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Couche réseau
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Vous permet d'assigner un administrateur réseau qui va améliorer les performances
+    de votre magasin digital.
+
+    En somme, si vous assignez un administrateur réseau, ses compétences vont réduire
+    la charge serveur
   LABEL_HIRING_COSTS: Prime d'embauche
   LABEL_COMPLETE: Terminé
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2057,6 +2083,7 @@ fr:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Transports
   LABEL_THEME_MUSIC: Musique
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Action aventure

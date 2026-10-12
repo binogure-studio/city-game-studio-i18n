@@ -123,6 +123,16 @@ tr:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Kendi oyunları için devam oyunu oluştur
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Arayüz teması
+  LABEL_LIGHT_THEME: Açık tema
+  LABEL_DARK_THEME: Koyu tema
+  LABEL_SOLARI_THEME: Solari teması
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Minimum mutluluk
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Bir çalışanın mutluluğu belirlenen sınırın altına düştüğünde otomatik olarak tatile gönderir.
+
+    Bir çalışan mutsuz olduğunda daha az verimli çalışır ve daha sık tatile gider.
+    Çalışanları daha üretken tutmak için, onları çok mutsuz olmadan önce tatile göndermek daha iyidir.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Yönetmenin devam oyunu stratejisini seçin:
 
@@ -1387,6 +1397,8 @@ tr:
     Artık kendi oyun motorlarınızı oluşturabilirsiniz.
     Oyun motorları, personeliniz tarafından oluşturulan puan miktarını arttırır.
   LABEL_GAME_ENGINE_OPEN_WORLD: Açık dünya
+  LABEL_GAME_ENGINE_TEXT_BASED: Metin tabanlı oyun
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Bölünmüş ekran
   LABEL_GAME_ENGINE_SANDBOX: Sandbox
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Gelişmiş hareket algılama
   LABEL_GAME_ENGINE_MOTION_CONTROL: Basit hareket algılama
@@ -1501,6 +1513,7 @@ tr:
   LABEL_SERVER_LOAD: Sunucuların yükü
   LABEL_SALES_BONUS: Satış artışı
   LABEL_SERVER_COST: Sunucu maliyetleri
+  LABEL_DS_STORE_FESTIVAL_THEME: Devam eden festival
   LABEL_DS_SALES: Oyun satışları
   LABEL_DS_PLATFORMCUT: Dijital mağazanın payı
   LABEL_DS_CCU: Eşzamanlı kullanıcılar
@@ -1549,6 +1562,18 @@ tr:
   LABEL_DS_SALES_TITLE: Bakiyesi
   LABEL_DS_SALES_DESCRIPTION: |
     Bir oyun için bakiyeler oluşturmanıza izin verir.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Dijital mağazanızda festivaller düzenleyin.
+
+    Bir pazarlama yöneticisi atayarak satışlarınızı ve görünürlüğünüzü artıracaksınız!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Ağ katmanı
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Dijital mağazanızın performansını artıracak bir ağ yöneticisi
+    atamanızı sağlar.
+
+    Kısacası, bir ağ yöneticisi atarsanız, becerileri sunucu yükünü
+    azaltacaktır
   LABEL_HIRING_COSTS: Kiralama maliyetleri
   LABEL_COMPLETE: Tamamlamak, tam, eksiksiz
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2010,6 +2035,7 @@ tr:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Taşımacılık
   LABEL_THEME_MUSIC: Müzik
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Aksiyon macera

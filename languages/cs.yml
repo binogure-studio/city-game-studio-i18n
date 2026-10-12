@@ -123,6 +123,17 @@ cs:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Vytvořit pokračování pro vlastní hry
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Motiv rozhraní
+  LABEL_LIGHT_THEME: Světlý motiv
+  LABEL_DARK_THEME: Tmavý motiv
+  LABEL_SOLARI_THEME: Motiv Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Minimální spokojenost
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Automaticky pošle zaměstnance na dovolenou, když jeho spokojenost klesne pod nastavenou hranici.
+
+    Když je zaměstnanec nespokojený, pracuje méně efektivně a častěji odchází na dovolenou.
+    Aby byli zaměstnanci produktivnější, je lepší je poslat na dovolenou dříve,
+    než budou příliš nespokojení.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Vyberte strategii pokračování ředitele:
 
@@ -168,7 +179,7 @@ cs:
   LABEL_UNIT_K: K
   LABEL_UNIT_M: M
   LABEL_UNIT_G: G
-  LABEL_UNIT_T: Tclaude
+  LABEL_UNIT_T: T
   LABEL_UNIT_P: P
   LABEL_UNIT_E: E
   LABEL_UNIT_Z: Z
@@ -1383,6 +1394,8 @@ cs:
     Můžete nyní vytvářet vlastní enginy.
     Herní enginy navyšují počet bodů produkované vašimi zaměstnanci. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Otevřený svět
+  LABEL_GAME_ENGINE_TEXT_BASED: Textová hra
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Dělená obrazovka
   LABEL_GAME_ENGINE_SANDBOX: Sandbox
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Pokročilá detekce pohybu
   LABEL_GAME_ENGINE_MOTION_CONTROL: Jednoduchá detekce pohybu
@@ -1496,6 +1509,7 @@ cs:
   LABEL_SERVER_LOAD: Vytížení serverů
   LABEL_SALES_BONUS: Bonusy v prodejích
   LABEL_SERVER_COST: Ceny serverů
+  LABEL_DS_STORE_FESTIVAL_THEME: Probíhající festival
   LABEL_DS_SALES: Prodeje her
   LABEL_DS_PLATFORMCUT: Podíl distribuční platformy
   LABEL_DS_CCU: Souběžných uživatelů
@@ -1544,6 +1558,18 @@ cs:
   LABEL_DS_SALES_TITLE: Slevy
   LABEL_DS_SALES_DESCRIPTION: |
     Umožní vám vytvářet pro hry slevy.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Pořádejte festivaly ve svém digitálním obchodě.
+
+    Přiřazením marketingového manažera zvýšíte své prodeje a viditelnost!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Síťová vrstva
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Umožňuje přiřadit síťového administrátora, který zlepší výkon
+    vašeho digitálního obchodu.
+
+    Stručně řečeno, pokud přiřadíte síťového administrátora, jeho dovednosti sníží
+    zátěž serveru
   LABEL_HIRING_COSTS: Ceny najmutí
   LABEL_COMPLETE: Dokončeno
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2016,6 +2042,7 @@ cs:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Doprava
   LABEL_THEME_MUSIC: Hudba
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: Real-time taktika
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Akční adventura

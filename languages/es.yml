@@ -123,6 +123,17 @@ es:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Crear secuelas para sus propios juegos
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Tema de la interfaz
+  LABEL_LIGHT_THEME: Tema claro
+  LABEL_DARK_THEME: Tema oscuro
+  LABEL_SOLARI_THEME: Tema Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Felicidad mínima
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Envía automáticamente a un empleado de vacaciones cuando su felicidad cae por debajo del límite establecido.
+
+    Cuando un empleado está infeliz, trabaja peor y se va de vacaciones con más frecuencia.
+    Para mantener a los empleados más productivos, es mejor enviarlos de vacaciones antes de
+    que estén demasiado infelices.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Elige la estrategia de secuelas del director:
 
@@ -1393,6 +1404,8 @@ es:
     Ahora puedes crear tus propios motores de juego.
     Los motores de juego aumentan la cantidad de puntos generados por tus trabajadores. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Mundo abierto
+  LABEL_GAME_ENGINE_TEXT_BASED: Juego basado en texto
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Pantalla dividida
   LABEL_GAME_ENGINE_SANDBOX: Caja de arena
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Detección de movimiento avanzada
   LABEL_GAME_ENGINE_MOTION_CONTROL: Detección de movimiento simple
@@ -1508,6 +1521,7 @@ es:
   LABEL_SERVER_LOAD: Carga de los servidores
   LABEL_SALES_BONUS: Impulso de ventas
   LABEL_SERVER_COST: Costes de servidores
+  LABEL_DS_STORE_FESTIVAL_THEME: Festival en curso
   LABEL_DS_SALES: Venta de juegos
   LABEL_DS_PLATFORMCUT: Cuota de la tienda digital
   LABEL_DS_CCU: Usuarios conectdos
@@ -1556,6 +1570,18 @@ es:
   LABEL_DS_SALES_TITLE: Ventas
   LABEL_DS_SALES_DESCRIPTION: |
     Permite crear balances para un juego.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organiza festivales en tu tienda digital.
+
+    Al asignar un responsable de marketing, ¡aumentarás tus ventas y tu visibilidad!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Capa de red
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Te permite asignar un administrador de red que mejorará el rendimiento
+    de tu tienda digital.
+
+    En resumen, si asignas un administrador de red, sus habilidades reducirán
+    la carga del servidor
   LABEL_HIRING_COSTS: Costes de contratación
   LABEL_COMPLETE: Completo
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2028,6 +2054,7 @@ es:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Transporte
   LABEL_THEME_MUSIC: Música
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: Táctica en tiempo real
   LABEL_TYPE_4X: Imperios
   LABEL_TYPE_ACTION_ADVENTURE: Acción-aventura

@@ -123,6 +123,16 @@ ru:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Создавать продолжения для своих игр
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Тема интерфейса
+  LABEL_LIGHT_THEME: Светлая тема
+  LABEL_DARK_THEME: Тёмная тема
+  LABEL_SOLARI_THEME: Тема Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Минимальное счастье
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Автоматически отправляет сотрудника в отпуск, когда его счастье опускается ниже установленного предела.
+
+    Когда сотрудник несчастлив, он работает хуже и чаще уходит в отпуск. Чтобы сотрудники были более продуктивными,
+    лучше отправлять их в отпуск до того, как они станут слишком несчастны.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Выберите стратегию продолжений директора:
 
@@ -1391,6 +1401,8 @@ ru:
     Теперь вы можете создавать собственные игровые движки.
     Игровые движки увеличивают количество очков, генерируемых вашим персоналом. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Открытый мир
+  LABEL_GAME_ENGINE_TEXT_BASED: Текстовая игра
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Разделённый экран
   LABEL_GAME_ENGINE_SANDBOX: Песочница
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Расширенное обнаружение движения
   LABEL_GAME_ENGINE_MOTION_CONTROL: Простое обнаружение движения
@@ -1505,6 +1517,7 @@ ru:
   LABEL_SERVER_LOAD: Загрузка серверов
   LABEL_SALES_BONUS: Увеличение продаж
   LABEL_SERVER_COST: Стоимость серверов
+  LABEL_DS_STORE_FESTIVAL_THEME: Текущий фестиваль
   LABEL_DS_SALES: Продажа игр
   LABEL_DS_PLATFORMCUT: Доля цифрового магазина
   LABEL_DS_CCU: Нагрузка интернет магазина
@@ -1553,6 +1566,18 @@ ru:
   LABEL_DS_SALES_TITLE: Сторонние компании
   LABEL_DS_SALES_DESCRIPTION: |
     Позволяет продавать игры от других компаний.
+  LABEL_DS_FESTIVAL_TITLE: Фестиваль
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Организуйте фестивали в своём цифровом магазине.
+
+    Назначив менеджера по маркетингу, вы увеличите продажи и узнаваемость!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Сетевой уровень
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Позволяет назначить сетевого администратора, который улучшит производительность
+    вашего цифрового магазина.
+
+    Иными словами, если вы назначите сетевого администратора, его навыки снизят
+    нагрузку на сервер
   LABEL_HIRING_COSTS: Стоимость найма
   LABEL_COMPLETE: Полный
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2036,6 +2061,7 @@ ru:
   LABEL_THEME_STEAMPUNK: Стимпанк
   LABEL_THEME_TRANSPORTATION: Транспорт
   LABEL_THEME_MUSIC: Музыка
+  LABEL_TYPE_FRIENDSLOP: Френдслоп
   LABEL_TYPE_RTT: Тактика в реальном времени
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Экшн-приключение

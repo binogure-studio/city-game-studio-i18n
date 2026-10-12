@@ -123,6 +123,17 @@ it:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Crea sequel per i propri giochi
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Tema dell'interfaccia
+  LABEL_LIGHT_THEME: Tema chiaro
+  LABEL_DARK_THEME: Tema scuro
+  LABEL_SOLARI_THEME: Tema Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Felicità minima
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Invia automaticamente un dipendente in vacanza quando la sua felicità scende sotto il limite impostato.
+
+    Quando un dipendente è infelice, lavora peggio e va in vacanza più spesso.
+    Per mantenere i dipendenti più produttivi, è meglio mandarli in vacanza prima
+    che diventino troppo infelici.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Scegli la strategia dei sequel del direttore:
 
@@ -1397,6 +1408,8 @@ it:
     Ora è possibile creare i propri motori di gioco.
     I motori di gioco aumentano la quantità di punti generati dal tuo staff. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Mondo aperto
+  LABEL_GAME_ENGINE_TEXT_BASED: Gioco testuale
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Schermo diviso
   LABEL_GAME_ENGINE_SANDBOX: Sandbox
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Rilevamento avanzato del movimento
   LABEL_GAME_ENGINE_MOTION_CONTROL: Rilevamento del movimento semplice
@@ -1511,6 +1524,7 @@ it:
   LABEL_SERVER_LOAD: Carico dei server
   LABEL_SALES_BONUS: Incremento delle vendite
   LABEL_SERVER_COST: Costo dei server
+  LABEL_DS_STORE_FESTIVAL_THEME: Festival in corso
   LABEL_DS_SALES: Vendite di giochi
   LABEL_DS_PLATFORMCUT: La commissione dello store digitale
   LABEL_DS_CCU: Utenti simultanei
@@ -1559,6 +1573,18 @@ it:
   LABEL_DS_SALES_TITLE: I saldi
   LABEL_DS_SALES_DESCRIPTION: |
     Permette di creare saldi per una partita.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organizza festival nel tuo negozio digitale.
+
+    Assegnando un responsabile marketing, aumenterai le tue vendite e la visibilità!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Livello di rete
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Ti permette di assegnare un amministratore di rete che migliorerà le prestazioni
+    del tuo negozio digitale.
+
+    In breve, se assegni un amministratore di rete, le sue competenze ridurranno
+    il carico del server
   LABEL_HIRING_COSTS: Costi di noleggio
   LABEL_COMPLETE: Completare
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -1676,7 +1702,7 @@ it:
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Le voci stanno circolando e sembra che %s non sia soddisfatto dell'accordo che hanno fatto con %s.    
   LABEL_REQUIRE_EMPLOYEE: |
-    Richiede %d dipendenti
+    Richiede %d sviluppatore
     Richiede %d produttore
   LABEL_STUDIO_NOT_BALANCED: >
     Controlla la squadra del tuo studio. Sembra che non produca la stessa quantità di design/sviluppo o lucido.
@@ -2020,6 +2046,7 @@ it:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Trasporto
   LABEL_THEME_MUSIC: Musica
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Azione avventura

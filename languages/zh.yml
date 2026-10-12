@@ -123,6 +123,16 @@ zh:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: 为自己的游戏创建续作
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: 界面主题
+  LABEL_LIGHT_THEME: 浅色主题
+  LABEL_DARK_THEME: 深色主题
+  LABEL_SOLARI_THEME: Solari主题
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: 最低幸福度
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    当员工的幸福度低于设定的限制时，自动送其休假。
+
+    当员工不开心时，他们的工作效率会降低，休假频率也会更高。
+    为了让员工更有效率，最好在他们变得太不开心之前就送他们去休假。
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     选择总监的续作策略：
 
@@ -1346,6 +1356,8 @@ zh:
     您现在可以创建自己的游戏引擎。
     游戏引擎可以提高员工产生的点数数量。
   LABEL_GAME_ENGINE_OPEN_WORLD: 开放世界
+  LABEL_GAME_ENGINE_TEXT_BASED: 文字游戏
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: 分屏
   LABEL_GAME_ENGINE_SANDBOX: 沙盒
   LABEL_GAME_ENGINE_GESTURE_CONTROL: 高级运动检测
   LABEL_GAME_ENGINE_MOTION_CONTROL: 简易运动检测
@@ -1458,6 +1470,7 @@ zh:
   LABEL_SERVER_LOAD: 服务器负载
   LABEL_SALES_BONUS: 销售奖励
   LABEL_SERVER_COST: 服务器成本
+  LABEL_DS_STORE_FESTIVAL_THEME: 当前节日活动
   LABEL_DS_SALES: 游戏销量
   LABEL_DS_PLATFORMCUT: 数字商店市场份额
   LABEL_DS_CCU: 并发用户数
@@ -1506,6 +1519,18 @@ zh:
   LABEL_DS_SALES_TITLE: 折扣
   LABEL_DS_SALES_DESCRIPTION: |
     允许您为游戏创建促销活动
+  LABEL_DS_FESTIVAL_TITLE: 节日活动
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    在您的数字商店中组织节日活动。
+
+    通过指派营销经理，您将提升销量和知名度！
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: 网络层
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    允许您指派网络管理员，从而提升您数字商店的
+    性能。
+
+    简而言之，如果您指派网络管理员，他们的技能将降低
+    服务器负载
   LABEL_HIRING_COSTS: 招聘成本
   LABEL_COMPLETE: 完成
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -1962,6 +1987,7 @@ zh:
   LABEL_THEME_STEAMPUNK: 蒸汽朋克
   LABEL_THEME_TRANSPORTATION: 运输
   LABEL_THEME_MUSIC: 音乐
+  LABEL_TYPE_FRIENDSLOP: 好友水货
   LABEL_TYPE_RTT: 即时战术（RTT）
   LABEL_TYPE_4X: 4X策略
   LABEL_TYPE_ACTION_ADVENTURE: 动作冒险

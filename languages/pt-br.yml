@@ -123,6 +123,17 @@ pt-br:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Criar sequências para seus próprios jogos
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Tema da interface
+  LABEL_LIGHT_THEME: Tema claro
+  LABEL_DARK_THEME: Tema escuro
+  LABEL_SOLARI_THEME: Tema Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Felicidade mínima
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Envia automaticamente um funcionário de férias quando sua felicidade cai abaixo do limite definido.
+
+    Quando um funcionário está infeliz, ele trabalha pior e tira férias com mais frequência.
+    Para manter os funcionários mais produtivos, é melhor enviá-los de férias antes que
+    fiquem infelizes demais.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Escolha a estratégia de sequências do diretor:
 
@@ -1397,6 +1408,8 @@ pt-br:
     Você agora pode criar os seus próprios motores de jogo.
     Os motores de jogo aumentam a quantidade de pontos gerados pela sua equipe.
   LABEL_GAME_ENGINE_OPEN_WORLD: Mundo aberto
+  LABEL_GAME_ENGINE_TEXT_BASED: Jogo baseado em texto
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Tela dividida
   LABEL_GAME_ENGINE_SANDBOX: Sandbox
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Detecção avançada de movimento
   LABEL_GAME_ENGINE_MOTION_CONTROL: Detecção simples de movimento
@@ -1511,6 +1524,7 @@ pt-br:
   LABEL_SERVER_LOAD: Carga de servidores
   LABEL_SALES_BONUS: Aumento de vendas
   LABEL_SERVER_COST: Custos com servidores
+  LABEL_DS_STORE_FESTIVAL_THEME: Festival em andamento
   LABEL_DS_SALES: Vendas de jogos
   LABEL_DS_PLATFORMCUT: Quota da loja digital
   LABEL_DS_CCU: Usuários concorrentes
@@ -1559,6 +1573,18 @@ pt-br:
   LABEL_DS_SALES_TITLE: Vendas
   LABEL_DS_SALES_DESCRIPTION: |
     Permite-lhe criar saldos para um jogo.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organize festivais em sua loja digital.
+
+    Ao designar um gerente de marketing, você vai impulsionar suas vendas e visibilidade!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Camada de rede
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Permite que você designe um administrador de rede que vai melhorar o desempenho
+    da sua loja digital.
+
+    Em resumo, se você designar um administrador de rede, suas habilidades vão reduzir
+    a carga do servidor
   LABEL_HIRING_COSTS: Custos de contratação
   LABEL_COMPLETE: Completo
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2020,6 +2046,7 @@ pt-br:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Transporte
   LABEL_THEME_MUSIC: Música
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: Tática em tempo real
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Ação-aventura

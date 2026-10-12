@@ -123,6 +123,18 @@ de:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Fortsetzungen für eigene Spiele erstellen
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Oberflächenthema
+  LABEL_LIGHT_THEME: Helles Thema
+  LABEL_DARK_THEME: Dunkles Thema
+  LABEL_SOLARI_THEME: Solari-Thema
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Mindestzufriedenheit
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Schickt einen Mitarbeiter automatisch in den Urlaub,
+    wenn seine Zufriedenheit unter den festgelegten Grenzwert fällt.
+
+    Wenn ein Mitarbeiter unzufrieden ist, arbeitet er weniger effektiv und geht häufiger in den Urlaub.
+    Um die Mitarbeiter produktiver zu halten, ist es besser, sie in den Urlaub zu schicken,
+    bevor sie zu unzufrieden werden.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Wählen Sie die Fortsetzungsstrategie des Direktors:
 
@@ -1402,6 +1414,8 @@ de:
     Du kannst nun deine eigenen Spiel-Engines erstellen.
     Spiel-Engines erhöhen die Anzahl der von Ihren Mitarbeitern generierten Punkte. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Offene Welt
+  LABEL_GAME_ENGINE_TEXT_BASED: Textbasiertes Spiel
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Geteilter Bildschirm
   LABEL_GAME_ENGINE_SANDBOX: Sandkasten
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Erweiterte Bewegungserkennung
   LABEL_GAME_ENGINE_MOTION_CONTROL: Einfache Bewegungserkennung
@@ -1516,6 +1530,7 @@ de:
   LABEL_SERVER_LOAD: Serverauslastung
   LABEL_SALES_BONUS: Umsatzsteigerung
   LABEL_SERVER_COST: Serverkosten
+  LABEL_DS_STORE_FESTIVAL_THEME: Aktuelles Festival
   LABEL_DS_SALES: Spiele-Verkauf
   LABEL_DS_PLATFORMCUT: Anteil des digitalen Geschäfts
   LABEL_DS_CCU: Gleichzeitige Benutzer
@@ -1564,6 +1579,18 @@ de:
   LABEL_DS_SALES_TITLE: Sales
   LABEL_DS_SALES_DESCRIPTION: |
     Ermöglicht es Ihnen, Rabatte für ein Spiel zu erstellen.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organisieren Sie Festivals in Ihrem digitalen Shop.
+
+    Durch die Zuweisung eines Marketingmanagers steigern Sie Ihren Umsatz und Ihre Sichtbarkeit!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Netzwerkschicht
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Ermöglicht Ihnen, einen Netzwerkadministrator zuzuweisen, der die Leistung
+    Ihres digitalen Shops verbessert.
+
+    Kurz gesagt, wenn Sie einen Netzwerkadministrator zuweisen, reduzieren seine Fähigkeiten
+    die Serverlast
   LABEL_HIRING_COSTS: Einstellungskosten
   LABEL_COMPLETE: Vollständig
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2025,6 +2052,7 @@ de:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Transport
   LABEL_THEME_MUSIC: Musik
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Action abenteuer

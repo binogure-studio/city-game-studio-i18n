@@ -123,6 +123,16 @@ ja:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: 自分のゲームの続編を作成
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: インターフェーステーマ
+  LABEL_LIGHT_THEME: ライトテーマ
+  LABEL_DARK_THEME: ダークテーマ
+  LABEL_SOLARI_THEME: Solariテーマ
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: 最低幸福度
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    従業員の幸福度が設定された限界を下回ると、自動的に休暇に送ります。
+
+    従業員が不幸だと、仕事の効率が落ち、より頻繁に休暇を取るようになります。
+    従業員の生産性を高めるためには、あまりに不幸になる前に休暇に送るのが良いでしょう。
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     ディレクターの続編戦略を選択：
 
@@ -1382,6 +1392,8 @@ ja:
     オリジナルのゲームエンジンを作成できるようになりました。
     ゲームエンジンは、従業員が生み出すポイントの量を増やしてくれます。
   LABEL_GAME_ENGINE_OPEN_WORLD: オープンワールド
+  LABEL_GAME_ENGINE_TEXT_BASED: テキストベースゲーム
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: 画面分割
   LABEL_GAME_ENGINE_SANDBOX: サンドボックス
   LABEL_GAME_ENGINE_GESTURE_CONTROL: 高度なモーションディテクション
   LABEL_GAME_ENGINE_MOTION_CONTROL: 単純な動き検出
@@ -1495,6 +1507,7 @@ ja:
   LABEL_SERVER_LOAD: サーバの負荷
   LABEL_SALES_BONUS: 売上増加
   LABEL_SERVER_COST: サーバコスト
+  LABEL_DS_STORE_FESTIVAL_THEME: 開催中のフェスティバル
   LABEL_DS_SALES: ゲームの売上高
   LABEL_DS_PLATFORMCUT: デジタルストアのシェア
   LABEL_DS_CCU: 同時接続ユーザ数
@@ -1543,6 +1556,18 @@ ja:
   LABEL_DS_SALES_TITLE: 割り引き
   LABEL_DS_SALES_DESCRIPTION: |
     ゲームの割り引きが行えるようになります。
+  LABEL_DS_FESTIVAL_TITLE: フェスティバル
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    デジタルストアでフェスティバルを開催しましょう。
+
+    マーケティングマネージャーを配置することで、売上と認知度を向上させることができます！
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: ネットワーク層
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    デジタルストアのパフォーマンスを向上させるネットワーク管理者を
+    配置できます。
+
+    つまり、ネットワーク管理者を配置すると、そのスキルによって
+    サーバー負荷が軽減されます
   LABEL_HIRING_COSTS: 雇用コスト
   LABEL_COMPLETE: コンプリート
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -1596,7 +1621,7 @@ ja:
   LABEL_BONUS_TAXES: 税金の削減
   LABEL_NETWORK_ADMINISTRATOR: ネットワーク管理者
   LABEL_BONUS_SERVER: サーバー負荷ボーナス
-  LABEL_HUMAN_RESOURCE: 人的資源
+  LABEL_HUMAN_RESOURCE: 人事
   LABEL_BONUS_HAPPINESS: 幸福度ボーナス
   LABEL_AMOUNT_OF_TIPS: ヒントの数
   LABEL_REQUIRED_POINTS: 必要なポイント
@@ -2012,6 +2037,7 @@ ja:
   LABEL_THEME_STEAMPUNK: スチームパンク
   LABEL_THEME_TRANSPORTATION: 交通
   LABEL_THEME_MUSIC: 音楽
+  LABEL_TYPE_FRIENDSLOP: フレンドスロップ
   LABEL_TYPE_RTT: リアルタイムタクティクス
   LABEL_TYPE_4X: 4Xストラテジー
   LABEL_TYPE_ACTION_ADVENTURE: アクション・アドベンチャー

@@ -123,6 +123,16 @@ ko:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: 자신의 게임 속편 만들기
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: 인터페이스 테마
+  LABEL_LIGHT_THEME: 라이트 테마
+  LABEL_DARK_THEME: 다크 테마
+  LABEL_SOLARI_THEME: Solari 테마
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: 최소 행복도
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    직원의 행복도가 설정된 한계 아래로 떨어지면 자동으로 휴가를 보냅니다.
+
+    직원이 불행하면 업무 효율이 떨어지고 더 자주 휴가를 갑니다.
+    직원의 생산성을 높이려면 너무 불행해지기 전에 휴가를 보내는 것이 좋습니다.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     디렉터의 속편 전략 선택:
 
@@ -1380,6 +1390,8 @@ ko:
     이제 자체적으로 게임 엔진을 개발할 수 있으며,
     게임 엔진이 좋을수록 직원들이 생성하는 점수가 증가합니다.
   LABEL_GAME_ENGINE_OPEN_WORLD: 오픈 월드
+  LABEL_GAME_ENGINE_TEXT_BASED: 텍스트 기반 게임
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: 화면 분할
   LABEL_GAME_ENGINE_SANDBOX: 모래 상자
   LABEL_GAME_ENGINE_GESTURE_CONTROL: 고급 동작 감지
   LABEL_GAME_ENGINE_MOTION_CONTROL: 기초 동작 감지
@@ -1494,6 +1506,7 @@ ko:
   LABEL_SERVER_LOAD: 실시간 자원 사용량
   LABEL_SALES_BONUS: 판매량(보너스)
   LABEL_SERVER_COST: 유지비(서버)
+  LABEL_DS_STORE_FESTIVAL_THEME: 진행 중인 페스티벌
   LABEL_DS_SALES: 게임 판매 수익
   LABEL_DS_PLATFORMCUT: 배급 수수료
   LABEL_DS_CCU: 동시 접속자 수
@@ -1542,6 +1555,18 @@ ko:
   LABEL_DS_SALES_TITLE: 할인
   LABEL_DS_SALES_DESCRIPTION: |
     게임을 할인하여 판매할 수 있게 됩니다.
+  LABEL_DS_FESTIVAL_TITLE: 페스티벌
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    디지털 스토어에서 페스티벌을 개최하세요.
+
+    마케팅 매니저를 배정하면 판매와 인지도가 향상됩니다!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: 네트워크 레이어
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    디지털 스토어의 성능을 향상시킬 네트워크 관리자를
+    배정할 수 있습니다.
+
+    요약하면, 네트워크 관리자를 배정하면 그들의 기술로 인해
+    서버 부하가 줄어듭니다
   LABEL_HIRING_COSTS: 이적 수수료
   LABEL_COMPLETE: 성공
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2013,6 +2038,7 @@ ko:
   LABEL_THEME_STEAMPUNK: 스팀펑크
   LABEL_THEME_TRANSPORTATION: 운송
   LABEL_THEME_MUSIC: 음악
+  LABEL_TYPE_FRIENDSLOP: 프렌드슬롭
   LABEL_TYPE_RTT: 실시간 전술 시뮬레이션
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: 액션 어드벤처

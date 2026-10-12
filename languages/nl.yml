@@ -123,6 +123,17 @@ nl:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Vervolgen maken voor eigen games
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Interfacethema
+  LABEL_LIGHT_THEME: Licht thema
+  LABEL_DARK_THEME: Donker thema
+  LABEL_SOLARI_THEME: Solari-thema
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Minimale tevredenheid
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Stuurt automatisch een werknemer op vakantie wanneer hun tevredenheid onder de ingestelde limiet daalt.
+
+    Wanneer een werknemer ontevreden is, werkt hij minder effectief en gaat vaker op vakantie.
+    Om werknemers productiever te houden, is het beter om ze op vakantie te sturen voordat
+    ze te ontevreden worden.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Kies de vervolgstrategie van de directeur:
 
@@ -1395,6 +1406,8 @@ nl:
     U kunt nu uw eigen spelmotoren maken.
     Spelmotoren verhogen de hoeveelheid punten die door uw personeel worden gegenereerd. 
   LABEL_GAME_ENGINE_OPEN_WORLD: Open wereld
+  LABEL_GAME_ENGINE_TEXT_BASED: Tekstgebaseerde game
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Gesplitst scherm
   LABEL_GAME_ENGINE_SANDBOX: Zandbak
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Geavanceerde bewegingsdetectie
   LABEL_GAME_ENGINE_MOTION_CONTROL: Eenvoudige bewegingsdetectie
@@ -1509,6 +1522,7 @@ nl:
   LABEL_SERVER_LOAD: Servers laden
   LABEL_SALES_BONUS: Verkoopverhoging
   LABEL_SERVER_COST: Servers kosten
+  LABEL_DS_STORE_FESTIVAL_THEME: Huidig festival
   LABEL_DS_SALES: Games verkopen
   LABEL_DS_PLATFORMCUT: Het aandeel van de digitale winkel
   LABEL_DS_CCU: Gelijktijdige gebruikers
@@ -1557,6 +1571,18 @@ nl:
   LABEL_DS_SALES_TITLE: Tegoeden
   LABEL_DS_SALES_DESCRIPTION: |
     Hiermee kun je balansen creëren voor een spel.
+  LABEL_DS_FESTIVAL_TITLE: Festival
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Organiseer festivals in je digitale winkel.
+
+    Door een marketingmanager toe te wijzen, verhoog je je verkoop en zichtbaarheid!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Netwerklaag
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Hiermee kun je een netwerkbeheerder toewijzen die de prestaties
+    van je digitale winkel zal verbeteren.
+
+    Kortom, als je een netwerkbeheerder toewijst, zullen zijn vaardigheden
+    de serverbelasting verminderen
   LABEL_HIRING_COSTS: Huurkosten
   LABEL_COMPLETE: Voltooi
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2019,6 +2045,7 @@ nl:
   LABEL_THEME_STEAMPUNK: Steampunk
   LABEL_THEME_TRANSPORTATION: Vervoer
   LABEL_THEME_MUSIC: Muziek
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Actie avontuur

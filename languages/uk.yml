@@ -123,6 +123,17 @@ uk:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Створювати продовження для своïх ігор
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: Тема інтерфейсу
+  LABEL_LIGHT_THEME: Світла тема
+  LABEL_DARK_THEME: Темна тема
+  LABEL_SOLARI_THEME: Тема Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: Мінімальне щастя
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    Автоматично відправляє співробітника у відпустку, коли його щастя падає нижче встановленого ліміту.
+
+    Коли співробітник нещасний, він працює гірше і частіше йде у відпустку.
+    Щоб зробити співробітників продуктивнішими, краще відправляти ïх у відпустку до того,
+    як вони стануть занадто нещасними.
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     Виберіть стратегію продовжень директора:
 
@@ -1390,6 +1401,8 @@ uk:
     Тепер ви можете створювати власнi iгровi двигуни.
     iгровi рушiï збiльшують кiлькiсть балiв, що генеруються вашим персоналом.
   LABEL_GAME_ENGINE_OPEN_WORLD: Вiдкритий свiт
+  LABEL_GAME_ENGINE_TEXT_BASED: Текстова гра
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: Розділений екран
   LABEL_GAME_ENGINE_SANDBOX: Пiсочниця
   LABEL_GAME_ENGINE_GESTURE_CONTROL: Розширене виявлення руху
   LABEL_GAME_ENGINE_MOTION_CONTROL: Просте виявлення руху
@@ -1501,9 +1514,10 @@ uk:
     функцiю для цифрового магазину.
   LABEL_DS_SUPPORT_ALL_PLATFORMS: "Пiдтримка всiх iгрових консолей"
   LABEL_NUMBER_OF_PLATFORMS: "Кiлькiсть iгрових приставок"
-  LABEL_SERVER_LOAD: "Завантаження серверiв"
-  LABEL_SALES_BONUS: "Збiльшення продажiв"
-  LABEL_SERVER_COST: "Вартiсть серверiв"
+  LABEL_SERVER_LOAD: Завантаження серверiв
+  LABEL_SALES_BONUS: Збiльшення продажiв
+  LABEL_SERVER_COST: Вартiсть серверiв
+  LABEL_DS_STORE_FESTIVAL_THEME: Поточний фестиваль
   LABEL_DS_SALES: "Продаж iгор"
   LABEL_DS_PLATFORMCUT: "Частка цифрового магазину"
   LABEL_DS_CCU: "Навантаження iнтернет-магазину"
@@ -1552,6 +1566,18 @@ uk:
   LABEL_DS_SALES_TITLE: "Стороннi компанiï"
   LABEL_DS_SALES_DESCRIPTION: |
     Дозволяє продавати iгри вiд iнших компанiй.
+  LABEL_DS_FESTIVAL_TITLE: Фестиваль
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    Організовуйте фестивалі у своєму цифровому магазині.
+
+    Призначивши менеджера з маркетингу, ви збільшите продажі та впізнаваність!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: Мережевий рівень
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    Дозволяє призначити мережевого адміністратора, який покращить продуктивність
+    вашого цифрового магазину.
+
+    Коротше кажучи, якщо ви призначите мережевого адміністратора, його навички зменшать
+    навантаження на сервер
   LABEL_HIRING_COSTS: "Вартiсть найму"
   LABEL_COMPLETE: "Повний"
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2031,6 +2057,7 @@ uk:
   LABEL_THEME_STEAMPUNK: Стiмпанк
   LABEL_THEME_TRANSPORTATION: Транспорт
   LABEL_THEME_MUSIC: Музика
+  LABEL_TYPE_FRIENDSLOP: Френдслоп
   LABEL_TYPE_RTT: Тактика у реальному часi
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Екшн-пригода

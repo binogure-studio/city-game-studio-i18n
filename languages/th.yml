@@ -123,6 +123,16 @@ th:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: สร้างภาคต่อสำหรับเกมของตัวเอง
 
   # Labels, descriptive
+  LABEL_THEME_INTERFACE: ธีมอินเทอร์เฟซ
+  LABEL_LIGHT_THEME: ธีมสว่าง
+  LABEL_DARK_THEME: ธีมมืด
+  LABEL_SOLARI_THEME: ธีม Solari
+  LABEL_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: ความสุขขั้นต่ำ
+  TOOLTIP_MINIMUM_HAPPINESS_BEFORE_HOLIDAY: |
+    ส่งพนักงานไปพักร้อนโดยอัตโนมัติเมื่อความสุขของพวกเขาต่ำกว่าขีดจำกัดที่กำหนด
+
+    เมื่อพนักงานไม่มีความสุข พวกเขาจะทำงานได้แย่ลงและไปพักร้อนบ่อยขึ้น เพื่อให้พนักงานมีประสิทธิภาพมากขึ้น
+    ควรส่งพวกเขาไปพักร้อนก่อนที่จะไม่มีความสุขเกินไป
   TOOLTIP_STUDIO_DIRECTOR_SEQUEL: |
     เลือกกลยุทธ์ภาคต่อของผู้อำนวยการ:
 
@@ -1384,6 +1394,8 @@ th:
     ตอนนี้คุณสามารถสร้างเอ็นจิ้นเกมของคุณเองได้แล้ว เอนจิ้นเกมเพิ่มจำนวน
     คะแนนที่สร้างขึ้นโดยพนักงานของคุณ
   LABEL_GAME_ENGINE_OPEN_WORLD: เปิดโลก
+  LABEL_GAME_ENGINE_TEXT_BASED: เกมแบบข้อความ
+  LABEL_GAME_ENGINE_SPLIT_SCREEN: แบ่งหน้าจอ
   LABEL_GAME_ENGINE_SANDBOX: แซนด์บ็อกซ์
   LABEL_GAME_ENGINE_GESTURE_CONTROL: การตรวจจับการเคลื่อนไหวขั้นสูง
   LABEL_GAME_ENGINE_MOTION_CONTROL: การตรวจจับการเคลื่อนไหวอย่างง่าย
@@ -1497,6 +1509,7 @@ th:
   LABEL_SERVER_LOAD: Servers' load
   LABEL_SALES_BONUS: Sales boost
   LABEL_SERVER_COST: Servers costs
+  LABEL_DS_STORE_FESTIVAL_THEME: เทศกาลปัจจุบัน
   LABEL_DS_SALES: Games sales
   LABEL_DS_PLATFORMCUT: Digital store's cut
   LABEL_DS_CCU: Concurrent users
@@ -1545,6 +1558,18 @@ th:
   LABEL_DS_SALES_TITLE: Sales
   LABEL_DS_SALES_DESCRIPTION: |
     Allows you to create sales for a game.
+  LABEL_DS_FESTIVAL_TITLE: เทศกาล
+  LABEL_DS_FESTIVAL_DESCRIPTION: |
+    จัดงานเทศกาลในร้านค้าดิจิทัลของคุณ
+
+    โดยการมอบหมายผู้จัดการฝ่ายการตลาด คุณจะเพิ่มยอดขายและการมองเห็น!
+  LABEL_DS_CLOUD_MANAGEMENT_TITLE: เลเยอร์เครือข่าย
+  LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
+    ช่วยให้คุณสามารถมอบหมายผู้ดูแลระบบเครือข่ายที่จะปรับปรุงประสิทธิภาพ
+    ร้านค้าดิจิทัลของคุณ
+
+    กล่าวโดยสรุป หากคุณมอบหมายผู้ดูแลระบบเครือข่าย ทักษะของพวกเขาจะลด
+    ภาระของเซิร์ฟเวอร์
   LABEL_HIRING_COSTS: Hiring costs
   LABEL_COMPLETE: Complete
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
@@ -2016,6 +2041,7 @@ th:
   LABEL_THEME_STEAMPUNK: สตีมพังค์
   LABEL_THEME_TRANSPORTATION: การขนส่ง
   LABEL_THEME_MUSIC: เพลง
+  LABEL_TYPE_FRIENDSLOP: Friendslop
   LABEL_TYPE_RTT: RTT
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: แอ็คชั่นผจญภัย
