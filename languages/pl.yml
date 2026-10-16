@@ -123,6 +123,18 @@ pl:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Twórz kontynuacje dla własnych gier
 
   # Labels, descriptive
+  LABEL_FRANCHISE_SINCE_YEAR: Od %s roku
+  LABEL_AVERAGE_SCORE: Średni wynik
+  LABEL_GOTY_AWARD: Liczba nagród Gra Roku
+  LABEL_SEARCH: Szukaj
+  LABEL_FRANCHISE: Franczyza
+  LABEL_FRANCHISE_FATIGUE: Zmęczenie
+  TOOLTIP_FRANCHISE_FATIGUE: |
+    Pozwala sprawdzić, kiedy franczyza jest gotowa na nową grę.
+    Im zmęczenie jest bliższe 0, tym bardziej franczyza jest gotowa na nową grę.
+    Im wyższe zmęczenie, tym dłużej trzeba czekać przed wydaniem nowej gry
+
+    Porty nie podlegają zmęczeniu.
   LABEL_THEME_INTERFACE: Motyw interfejsu
   LABEL_LIGHT_THEME: Jasny motyw
   LABEL_DARK_THEME: Ciemny motyw

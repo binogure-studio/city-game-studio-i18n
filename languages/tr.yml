@@ -123,6 +123,18 @@ tr:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Kendi oyunları için devam oyunu oluştur
 
   # Labels, descriptive
+  LABEL_FRANCHISE_SINCE_YEAR: "%s yılından beri"
+  LABEL_AVERAGE_SCORE: Ortalama puan
+  LABEL_GOTY_AWARD: Yılın Oyunu ödülü sayısı
+  LABEL_SEARCH: Ara
+  LABEL_FRANCHISE: Franchise
+  LABEL_FRANCHISE_FATIGUE: Yorgunluk
+  TOOLTIP_FRANCHISE_FATIGUE: |
+    Bir franchise'ın yeni bir oyun için ne zaman hazır olduğunu görmenizi sağlar.
+    Yorgunluk 0'a ne kadar yakınsa, franchise yeni bir oyun için o kadar hazırdır.
+    Yorgunluk ne kadar yüksekse, yeni bir oyun yayınlamadan önce o kadar uzun beklemeniz gerekir.
+
+    Portlar yorgunluktan etkilenmez.
   LABEL_THEME_INTERFACE: Arayüz teması
   LABEL_LIGHT_THEME: Açık tema
   LABEL_DARK_THEME: Koyu tema

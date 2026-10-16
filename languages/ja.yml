@@ -123,6 +123,18 @@ ja:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: 自分のゲームの続編を作成
 
   # Labels, descriptive
+  LABEL_FRANCHISE_SINCE_YEAR: "%s年から"
+  LABEL_AVERAGE_SCORE: 平均スコア
+  LABEL_GOTY_AWARD: ゲーム・オブ・ザ・イヤー受賞数
+  LABEL_SEARCH: 検索
+  LABEL_FRANCHISE: フランチャイズ
+  LABEL_FRANCHISE_FATIGUE: 疲労
+  TOOLTIP_FRANCHISE_FATIGUE: |
+    フランチャイズが新作を出せる状態かどうかを確認できます。
+    疲労が0に近いほど、新作を出す準備が整っています。
+    疲労が高いほど、新作を発売するまでに待つ必要があります。
+
+    移植は疲労の影響を受けません。
   LABEL_THEME_INTERFACE: インターフェーステーマ
   LABEL_LIGHT_THEME: ライトテーマ
   LABEL_DARK_THEME: ダークテーマ

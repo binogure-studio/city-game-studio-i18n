@@ -123,6 +123,18 @@ pt:
   BUTTON_STUDIO_DIRECTOR_SEQUEL_SELF_GAMES: Criar sequelas para os seus próprios jogos
 
   # Labels, descriptive
+  LABEL_FRANCHISE_SINCE_YEAR: Desde %s
+  LABEL_AVERAGE_SCORE: Pontuação média
+  LABEL_GOTY_AWARD: Número de prémios Jogo do Ano
+  LABEL_SEARCH: Pesquisar
+  LABEL_FRANCHISE: Franquia
+  LABEL_FRANCHISE_FATIGUE: Fadiga
+  TOOLTIP_FRANCHISE_FATIGUE: |
+    Permite saber quando uma franquia está pronta para um novo jogo.
+    Quanto mais próxima de 0 estiver a fadiga, mais pronta a franquia está para um novo jogo.
+    Quanto maior a fadiga, mais é necessário esperar antes de publicar um novo jogo
+
+    Os ports não são afetados pela fadiga.
   LABEL_THEME_INTERFACE: Tema da interface
   LABEL_LIGHT_THEME: Tema claro
   LABEL_DARK_THEME: Tema escuro
