@@ -1210,7 +1210,8 @@ nl:
     Je kunt geen spellen op dit platform publiceren omdat
     je moet onderhandelen om het te ontgrendelen.
   LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
-    Je kunt geen spellen op dit platform publiceren omdat je een exclusief contract met %s hebt.
+    Je kunt geen spellen op dit platform publiceren omdat
+    je een exclusief contract met %s hebt.
   LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
     Je kunt nog geen nieuwe contracten tekenen omdat je een exclusief contract hebt met %s.
   LABEL_PLATFORM_EXCLUSIVE_DURATION: |
@@ -1286,10 +1287,12 @@ nl:
     Bij het updaten van een game-engine is een straf van toepassing,
     deze heeft alleen invloed op het aantal benodigde punten.
   LABEL_TOO_MUCH_TIME_SPENT: |
-    Ofwel is je ontwikkelingsteam niet evenwichtig genoeg, ofwel heb je veel meer tijd aan de %s besteed in vergelijking
+    Ofwel is je ontwikkelingsteam niet evenwichtig genoeg,
+    ofwel heb je veel meer tijd aan de %s besteed in vergelijking
     met andere ontwikkelingsfasen.
   LABEL_NOT_ENOUGH_TIME_SPENT: |
-    Ofwel is je ontwikkelingsteam niet evenwichtig genoeg, ofwel heb je te weinig tijd besteed aan de %s in vergelijking
+    Ofwel is je ontwikkelingsteam niet evenwichtig genoeg,
+    ofwel heb je te weinig tijd besteed aan de %s in vergelijking
     met de andere ontwikkelingsfasen.
   LABEL_WARNING_THEME_MISSING: Selecteer een thema
   LABEL_BUYABLE: Te koop
@@ -2271,31 +2274,43 @@ nl:
   LABEL_LICENSE_COST: Licentie
   LABEL_OWNED: In bezit
   LABEL_WEEK_COST: "Ontwikkelingskosten"
-  LABEL_PLATFORM_DEV_COSTS: "Platformgerelateerde opstartkosten"
+  LABEL_PLATFORM_DEV_COSTS: |
+    Platformgerelateerde opstartkosten
   LABEL_CATALOG_SIZE: Grootte spelcatalogus
   LABEL_PLATFORM_LIST: "Platformlijst"
   LABEL_IDLE: Inactief
-  LABEL_ADOPT_CAT_DESCRIPTION: "Het personeel van de studio [b]%s[/b] heeft een zwerfkat gevonden die zich achter het afval verstopte. De kat is heel aanhankelijk en het personeel heeft haar al een naam gegeven. Wat wil je doen?"
+  LABEL_ADOPT_CAT_DESCRIPTION: |
+    Het personeel van de studio [b]%s[/b] heeft een zwerfkat gevonden die zich achter het afval verstopte. De kat is heel aanhankelijk en het personeel heeft haar al een naam gegeven. Wat wil je doen?
   LABEL_ADOPT_CAT_TITLE: Zwerfkat
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: "Bij Blue Studio hebben twee broers net een nieuwe game uitgebracht. Het is een gamechanger en er is een nieuw gametype ontstaan: de Mystery-like."
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
+    Bij Blue Studio hebben twee broers net een nieuwe game uitgebracht. Het is een gamechanger en er is een nieuw gametype ontstaan: de Mystery-like.
   LABEL_UNLOCK_MYSTERY_LIKE_TITLE: "Mystery-like is uitgevonden"
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: "DustStar heeft net een nieuwe game uitgebracht die een revolutie in de game-industrie heeft veroorzaakt. Het heeft het HTA-like-genre gecreëerd."
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
+    DustStar heeft net een nieuwe game uitgebracht die een revolutie in de game-industrie heeft veroorzaakt. Het heeft het HTA-like-genre gecreëerd.
   LABEL_UNLOCK_HTA_LIKE_TITLE: HTA-like is uitgevonden
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: "3 jongens in een garage hebben een gloednieuwe game gemaakt. Hij is zo beroemd dat hij een nieuw gamegenre heeft gecreëerd: de Crook-like."
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
+    3 jongens in een garage hebben een gloednieuwe game gemaakt. Hij is zo beroemd dat hij een nieuw gamegenre heeft gecreëerd: de Crook-like.
   LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: "Crook-like is uitgevonden"
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: "3 Amerikaanse designers hebben net een mod gemaakt voor een bekende game. Het MOBA-genre is geboren."
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
+    3 Amerikaanse designers hebben net een mod gemaakt voor een bekende game. Het MOBA-genre is geboren.
   LABEL_UNLOCK_MOBA_LIKE_TITLE: "MOBA-like is uitgevonden"
   LABEL_BROKEN_COFFEEMAKER_TITLE: "Kapotte koffiemachine"
-  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: "De werknemers van studio [b]%s[/b] zijn verslaafd aan koffie. Maar de koffiemachine heeft zijn laatste kopje geschonken..."
-  LABEL_RABBIT_INVASION_DESCRIPTION: "Konijnen, overal konijnen. Ze maken lawaai... ze rennen overal rond. Maar niemand merkt ze op en iedereen werkt gewoon door..."
+  LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: |
+    De werknemers van studio [b]%s[/b] zijn verslaafd aan koffie. Maar de koffiemachine heeft zijn laatste kopje geschonken...
+  LABEL_RABBIT_INVASION_DESCRIPTION: |
+    Konijnen, overal konijnen. Ze maken lawaai... ze rennen overal rond. Maar niemand merkt ze op en iedereen werkt gewoon door...
   LABEL_RABBIT_INVASION_TITLE: "Konijneninvasie"
-  LABEL_TARGETTED_AUDIENCE_FEATURE: "Experts hebben ontdekt dat games zich op een specifiek doelpubliek kunnen richten. Ze hebben een paper gepubliceerd over 3 verschillende doelpublieken: jong, iedereen en volwassen."
-  LABEL_VIRUS_UNLEASHED_DESCRIPTION: "Er is een onbekend virus losgelaten dat zich op videogamebedrijven richt. Het klinkt vreemd, maar het vertraagt cursors en herstart willekeurig computers. Dit zal zeker gevolgen hebben voor de productiviteit van je werknemers. Alleen [b]%s[/b] wordt aangevallen."
+  LABEL_TARGETTED_AUDIENCE_FEATURE: |
+    Experts hebben ontdekt dat games zich op een specifiek doelpubliek kunnen richten. Ze hebben een paper gepubliceerd over 3 verschillende doelpublieken: jong, iedereen en volwassen.
+  LABEL_VIRUS_UNLEASHED_DESCRIPTION: |
+    Er is een onbekend virus losgelaten dat zich op videogamebedrijven richt. Het klinkt vreemd, maar het vertraagt cursors en herstart willekeurig computers. Dit zal zeker gevolgen hebben voor de productiviteit van je werknemers. Alleen [b]%s[/b] wordt aangevallen.
   LABEL_VIRUS_UNLEASHED_TITLE: Virus losgelaten
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: "The Smitties, bekend om hun gamereviews, hebben net een nieuwe video gepubliceerd. Ze hebben [b]%s[/b] gereviewd, dat is JOUW game! Dit zal invloed hebben op de verkoop."
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
+    The Smitties, bekend om hun gamereviews, hebben net een nieuwe video gepubliceerd. Ze hebben [b]%s[/b] gereviewd, dat is JOUW game! Dit zal invloed hebben op de verkoop.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: "Gratis reclame"
   LABEL_LOAN_TITLE: "Noodlening"
-  LABEL_LOAN_DESCRIPTION: "Je hebt wat extra geld nodig en wij kunnen je helpen. Je kunt jezelf redden met een lening van [b]%s$[/b]. Onze rente is zo laag als [b]%s%%[/b] en je hebt [b]%s[/b] weken om terug te betalen. Voor een bedrijf zoals het jouwe is dat een eeuwigheid. Wij zijn je laatste optie, laat je verleiden."
+  LABEL_LOAN_DESCRIPTION: |
+    Je hebt wat extra geld nodig en wij kunnen je helpen. Je kunt jezelf redden met een lening van [b]%s$[/b]. Onze rente is zo laag als [b]%s%%[/b] en je hebt [b]%s[/b] weken om terug te betalen. Voor een bedrijf zoals het jouwe is dat een eeuwigheid. Wij zijn je laatste optie, laat je verleiden.
   LABEL_BURNING_SERVER_DESCRIPTION: |
     Ruik je brand?!
     Je servers hebben hun maximale capaciteit bereikt.
@@ -2388,93 +2403,158 @@ nl:
   LABEL_SKILLS_AVERAGE: Vaardigheden (gemiddelde)
   LABEL_VSYNC: VSync
   LABEL_BORDERLESS_WINDOW: "Venster zonder rand"
-  LABEL_GAME_UPDATE_FEATURE: "Publiceer updates en maak nieuwe content voor je games. Gratis of betaalde updates? Dat bepaal jij."
-  LABEL_GAMEEDITION_SUBMIT: "Je hebt veel fans. Je bent bekend genoeg om games uit te geven."
-  LABEL_GAMEEDITION_RECEIVE: "Na je recente succes zullen uitgevers je binnenkort contacteren met aanbiedingen."
+  LABEL_GAME_UPDATE_FEATURE: |
+    Publiceer updates en maak nieuwe content voor je games. Gratis of betaalde updates? Dat bepaal jij.
+  LABEL_GAMEEDITION_SUBMIT: |
+    Je hebt veel fans. Je bent bekend genoeg om games uit te geven.
+  LABEL_GAMEEDITION_RECEIVE: |
+    Na je recente succes zullen uitgevers je binnenkort contacteren met aanbiedingen.
   LABEL_WORLDMAP: >
     Je kijkt op, er is een hele wereld die buiten op je wacht.
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE: "De allereerste videogametijdschriften verschijnen. Wil je een van je games promoten?"
-  LABEL_MARKETING_CAMPAIGN_TV: "Het is tijd om je games bekend te maken met tv-reclame."
-  LABEL_MARKETING_CAMPAIGN_INTERNET: "Het internettijdperk begint, je kunt miljoenen mensen bereiken met een simpele banneradvertentie."
-  LABEL_CONCURRENT_STUDIOS_LIST: "Je studio groeit, het is tijd om de markt te bestuderen en een kijkje te nemen bij de concurrentie."
-  LABEL_CONCURRENT_STUDIOS_BUY: "Je zwemt in het geld, misschien is het tijd om concurrerende studio's te kopen?"
-  LABEL_FURNITURES_COMMON_BUY: "Tijd voor een stijlvolle make-over van je kantoor."
-  LABEL_EMPLOYEES_HIRE: "Je studio groeit, maakt meer games en verbetert hun kwaliteit. Maar eerst moet je mensen aannemen."
-  LABEL_STUDIO_RENT: "Je voelt je opgesloten in je kleine studio, tijd voor een nieuwe locatie."
-  LABEL_STUDIO_BUILD: "Je succes stelt je in staat om je eigen studio's te bouwen."
-  LABEL_CONVENTION_ORGANIZE: "Met honderdduizend mensen achter je kun je nu je eigen beurzen organiseren."
-  LABEL_CONVENTION_PARTICIPATE: "Je gamecatalogus mag gezien worden, dus deelnemen aan beurzen kan je zichtbaarheid vergroten."
-  LABEL_STUDIO_CUSTOMIZE: "Saaie muren die aan je productiviteit knagen? Tijd om ze opnieuw in te richten."
-  LABEL_GAME_ONLINE: "Hoe hou je spelers aan het scherm gekluisterd? Het INTERNET. Maak online games en ze raken verslaafd!"
-  LABEL_FURNITURES_SERVERS_BUY: "Meer bureaus, meer stoelen, meer computers, meer whiteboards, meer, meer, meer!"
-  LABEL_DIGITAL_STORE: "Digitale distributie? Je begint er iets over te horen en je weet nu al dat het de toekomst is."
-  LABEL_POSTMORTEM_FEATURE: "Gefeliciteerd, je hebt je eerste game gemaakt. Je kunt nu een post-mortem maken om het ontwerp, de ontwikkeling en de afwerking te evalueren."
-  LABEL_NEW_GAME_FEATURE: "Klaar om de epische geschiedenis van videogames vanaf het allereerste begin te herbeleven? Welkom in City Game Studio. Ga aan de slag en maak je eerste game."
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE: |
+    De allereerste videogametijdschriften verschijnen. Wil je een van je games promoten?
+  LABEL_MARKETING_CAMPAIGN_TV: |
+    Het is tijd om je games bekend te maken met tv-reclame.
+  LABEL_MARKETING_CAMPAIGN_INTERNET: |
+    Het internettijdperk begint, je kunt miljoenen mensen bereiken met een simpele banneradvertentie.
+  LABEL_CONCURRENT_STUDIOS_LIST: |
+    Je studio groeit, het is tijd om de markt te bestuderen en een kijkje te nemen bij de concurrentie.
+  LABEL_CONCURRENT_STUDIOS_BUY: |
+    Je zwemt in het geld, misschien is het tijd om concurrerende studio's te kopen?
+  LABEL_FURNITURES_COMMON_BUY: |
+    Tijd voor een stijlvolle make-over van je kantoor.
+  LABEL_EMPLOYEES_HIRE: |
+    Je studio groeit, maakt meer games en verbetert hun kwaliteit. Maar eerst moet je mensen aannemen.
+  LABEL_STUDIO_RENT: |
+    Je voelt je opgesloten in je kleine studio, tijd voor een nieuwe locatie.
+  LABEL_STUDIO_BUILD: |
+    Je succes stelt je in staat om je eigen studio's te bouwen.
+  LABEL_CONVENTION_ORGANIZE: |
+    Met honderdduizend mensen achter je kun je nu je eigen beurzen organiseren.
+  LABEL_CONVENTION_PARTICIPATE: |
+    Je gamecatalogus mag gezien worden, dus deelnemen aan beurzen kan je zichtbaarheid vergroten.
+  LABEL_STUDIO_CUSTOMIZE: |
+    Saaie muren die aan je productiviteit knagen? Tijd om ze opnieuw in te richten.
+  LABEL_GAME_ONLINE: |
+    Hoe hou je spelers aan het scherm gekluisterd? Het INTERNET. Maak online games en ze raken verslaafd!
+  LABEL_FURNITURES_SERVERS_BUY: |
+    Meer bureaus, meer stoelen, meer computers, meer whiteboards, meer, meer, meer!
+  LABEL_DIGITAL_STORE: |
+    Digitale distributie? Je begint er iets over te horen en je weet nu al dat het de toekomst is.
+  LABEL_POSTMORTEM_FEATURE: |
+    Gefeliciteerd, je hebt je eerste game gemaakt. Je kunt nu een post-mortem maken om het ontwerp, de ontwikkeling en de afwerking te evalueren.
+  LABEL_NEW_GAME_FEATURE: |
+    Klaar om de epische geschiedenis van videogames vanaf het allereerste begin te herbeleven? Welkom in City Game Studio. Ga aan de slag en maak je eerste game.
   LABEL_LOADING: Laden
   LABEL_NAME: Naam
   LABEL_SALARY: Loon
   LABEL_NO_SCORE: "Nog geen score geüpload!"
-  LABEL_CAPACITY_STORY_FEATURE: "Een goede game is altijd goed, een goed verhaal is altijd goed. Wat dacht je van een goede game met een goed verhaal?"
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE: "Waar dient die knop voor? Je moet de gebruikersinterface van je games beheren."
-  LABEL_CAPACITY_NETWORK_FEATURE: "Een videogame spelen is geweldig, maar samen met vrienden spelen is nog beter! Je moet het netwerk van je games beheren."
-  LABEL_CAPACITY_MODDING_FEATURE: "Sommige van je games zijn al aangepast door spelers. Daardoor verkoop je meer games. Het is tijd om die hackers te helpen en te werken aan een degelijke modding-API voor je games."
-  LABEL_CAPACITY_CUTSCENES_FEATURE: "Films beïnvloeden videogames en we moeten cutscenes beheren bij het maken van een nieuwe game."
-  LABEL_CAPACITY_TUTORIEL_FEATURE: "Een nieuwe game spelen is als leren. Het is niet makkelijk, dus je hebt besloten een tutorial te maken voor je nieuwe games."
+  LABEL_CAPACITY_STORY_FEATURE: |
+    Een goede game is altijd goed, een goed verhaal is altijd goed. Wat dacht je van een goede game met een goed verhaal?
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE: |
+    Waar dient die knop voor? Je moet de gebruikersinterface van je games beheren.
+  LABEL_CAPACITY_NETWORK_FEATURE: |
+    Een videogame spelen is geweldig, maar samen met vrienden spelen is nog beter! Je moet het netwerk van je games beheren.
+  LABEL_CAPACITY_MODDING_FEATURE: |
+    Sommige van je games zijn al aangepast door spelers. Daardoor verkoop je meer games. Het is tijd om die hackers te helpen en te werken aan een degelijke modding-API voor je games.
+  LABEL_CAPACITY_CUTSCENES_FEATURE: |
+    Films beïnvloeden videogames en we moeten cutscenes beheren bij het maken van een nieuwe game.
+  LABEL_CAPACITY_TUTORIEL_FEATURE: |
+    Een nieuwe game spelen is als leren. Het is niet makkelijk, dus je hebt besloten een tutorial te maken voor je nieuwe games.
 
-  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: "Rick en Paris stellen hun privéleven tentoon. Sociale netwerken zijn er om te blijven en je kunt ze gebruiken om je games te promoten!"
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK: |
+    Rick en Paris stellen hun privéleven tentoon. Sociale netwerken zijn er om te blijven en je kunt ze gebruiken om je games te promoten!
 
-  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: "Een recente studie toont aan dat het versturen van ongevraagde e-mails de zichtbaarheid van je games aanzienlijk kan vergroten. Spam is het nieuwe modewoord en je kunt het gebruiken om je games te promoten!"
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST: |
+    Een recente studie toont aan dat het versturen van ongevraagde e-mails de zichtbaarheid van je games aanzienlijk kan vergroten. Spam is het nieuwe modewoord en je kunt het gebruiken om je games te promoten!
 
-  LABEL_GAMEPORT_FEATURE: "Dromen komen uit. Er is net een nieuwe console uitgebracht! Je kunt een cross-platform game uitbrengen. Kom op, probeer het uit!"
+  LABEL_GAMEPORT_FEATURE: |
+    Dromen komen uit. Er is net een nieuwe console uitgebracht! Je kunt een cross-platform game uitbrengen. Kom op, probeer het uit!
 
   LABEL_GAME_CREATION: "Schat de werklast van elk onderdeel van je game in door elke meter aan te passen."
-  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: "Je kunt de aanbiedingen van uitgevers bekijken. Een game laten uitgeven is een makkelijke manier om populair te worden en grotere games uit te brengen."
-  LABEL_WORLDMAP_DESCRIPTION_0: "Bezoek de stad, neem een kijkje bij de concurrentie en kijk waar je studio is."
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: "Hiermee kun je een marketingcampagne organiseren via veel gametijdschriften. Dit vergroot de zichtbaarheid van je games."
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: "Hiermee kun je reclameborden huren om posters te plaatsen van je games die nu te koop zijn."
-  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: "Je kunt nu marketingmanagers inhuren. Zij versterken je marketingcampagnes!"
-  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: "Hiermee kun je tv-reclamecampagnes organiseren. Het is duur, maar wie kijkt er tegenwoordig geen tv?!"
+  LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: |
+    Je kunt de aanbiedingen van uitgevers bekijken. Een game laten uitgeven is een makkelijke manier om populair te worden en grotere games uit te brengen.
+  LABEL_WORLDMAP_DESCRIPTION_0: |
+    Bezoek de stad, neem een kijkje bij de concurrentie en kijk waar je studio is.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: |
+    Hiermee kun je een marketingcampagne organiseren via veel gametijdschriften. Dit vergroot de zichtbaarheid van je games.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_1: |
+    Hiermee kun je reclameborden huren om posters te plaatsen van je games die nu te koop zijn.
+  LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_2: |
+    Je kunt nu marketingmanagers inhuren. Zij versterken je marketingcampagnes!
+  LABEL_MARKETING_CAMPAIGN_TV_DESCRIPTION_0: |
+    Hiermee kun je tv-reclamecampagnes organiseren. Het is duur, maar wie kijkt er tegenwoordig geen tv?!
   LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_0: >
     Je kan nu advertenties plaatsen op websites. Het is goedkoop en het brengt meer spelers binnen.
-  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: "Je kunt nu een etalage maken op het world wide web om de wereld te laten zien dat je games bestaan."
-  LABEL_GAME_ONLINE_DESCRIPTION_1: "Netwerkbeheerders verbeteren de capaciteit van servers, zodat je meer spelers kunt ondersteunen met hetzelfde aantal servers."
-  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: "Tot nu toe kon je je concurrenten alleen op de stadskaart zien. Nu kun je ze in de gaten houden."
+  LABEL_MARKETING_CAMPAIGN_INTERNET_DESCRIPTION_1: |
+    Je kunt nu een etalage maken op het world wide web om de wereld te laten zien dat je games bestaan.
+  LABEL_GAME_ONLINE_DESCRIPTION_1: |
+    Netwerkbeheerders verbeteren de capaciteit van servers, zodat je meer spelers kunt ondersteunen met hetzelfde aantal servers.
+  LABEL_CONCURRENT_STUDIOS_LIST_DESCRIPTION_0: |
+    Tot nu toe kon je je concurrenten alleen op de stadskaart zien. Nu kun je ze in de gaten houden.
   LABEL_CONCURRENT_STUDIOS_BUY_DESCRIPTION_0: >
     Je concurrenten kopen is een makkelijke manier om veel fans te winnen, alsook om je bedrijf uit te breiden.
-  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: "Terwijl je naar een van je studio's kijkt, kun je nu nieuwe meubels kopen."
-  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: "Onthoud dat de beste games gemaakt worden door teams die even sterk zijn in ontwerp, ontwikkeling en afwerking."
-  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: "Gameproducenten verhogen de productiviteit van werknemers en laten je AAA-games maken."
-  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: "Personeelszaken verhoogt het geluk van werknemers en laat je hun planning aanpassen."
-  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: "Een boekhouder aannemen helpt je te besparen op belastingen."
+  LABEL_FURNITURES_COMMON_BUY_DESCRIPTION_0: |
+    Terwijl je naar een van je studio's kijkt, kun je nu nieuwe meubels kopen.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_0: |
+    Onthoud dat de beste games gemaakt worden door teams die even sterk zijn in ontwerp, ontwikkeling en afwerking.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_1: |
+    Gameproducenten verhogen de productiviteit van werknemers en laten je AAA-games maken.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_2: |
+    Personeelszaken verhoogt het geluk van werknemers en laat je hun planning aanpassen.
+  LABEL_EMPLOYEES_HIRE_DESCRIPTION_3: |
+    Een boekhouder aannemen helpt je te besparen op belastingen.
   LABEL_EMPLOYEES_HIRE_DESCRIPTION_4: >
     Een studiodirecteur beheert zelfstandig de ontwikkeling en updates van games.
-  LABEL_STUDIO_RENT_DESCRIPTION_0: "Hiermee kun je nieuwe gebouwen huren. Zo kun je tegelijk aan meerdere projecten werken."
-  LABEL_STUDIO_BUILD_DESCRIPTION_0: "Hiermee kun je nieuwe studio's bouwen. Het is duur, maar het is een van de weinige manieren om onbeperkt te blijven groeien."
-  LABEL_STUDIO_BUILD_DESCRIPTION_1: "Naast studio's kun je ook beurscentra bouwen, die nodig zijn om beurzen te organiseren."
-  LABEL_STUDIO_BUILD_DESCRIPTION_2: "Bouw universiteiten om personeel op te leiden. Ze zullen de perfectie bereiken!"
-  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: "Als je beurscentra hebt, kun je beurzen organiseren."
-  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: "Je kunt deelnemen aan beurzen en dit zal af en toe de zichtbaarheid van je games vergroten."
-  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: "Je kunt de muren herschilderen, de pilaren veranderen en de vloeren van je studio's vernieuwen."
-  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: "Door servers te kopen kun je online games maken, maar ook een online portaal."
-  LABEL_GAME_ONLINE_DESCRIPTION_0: "Je kunt online games maken. Ze zijn normaal goedkoper, maar spelers moeten een maandelijks abonnement betalen."
-  LABEL_DIGITAL_STORE_DESCRIPTION_0: "Je kunt een digitale gamewinkel maken. Nou ja, een eerste alfaversie die nog verbeterd moet worden."
+  LABEL_STUDIO_RENT_DESCRIPTION_0: |
+    Hiermee kun je nieuwe gebouwen huren. Zo kun je tegelijk aan meerdere projecten werken.
+  LABEL_STUDIO_BUILD_DESCRIPTION_0: |
+    Hiermee kun je nieuwe studio's bouwen. Het is duur, maar het is een van de weinige manieren om onbeperkt te blijven groeien.
+  LABEL_STUDIO_BUILD_DESCRIPTION_1: |
+    Naast studio's kun je ook beurscentra bouwen, die nodig zijn om beurzen te organiseren.
+  LABEL_STUDIO_BUILD_DESCRIPTION_2: |
+    Bouw universiteiten om personeel op te leiden. Ze zullen de perfectie bereiken!
+  LABEL_CONVENTION_ORGANIZE_DESCRIPTION_0: |
+    Als je beurscentra hebt, kun je beurzen organiseren.
+  LABEL_CONVENTION_PARTICIPATE_DESCRIPTION_0: |
+    Je kunt deelnemen aan beurzen en dit zal af en toe de zichtbaarheid van je games vergroten.
+  LABEL_STUDIO_CUSTOMIZE_DESCRIPTION_0: |
+    Je kunt de muren herschilderen, de pilaren veranderen en de vloeren van je studio's vernieuwen.
+  LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: |
+    Door servers te kopen kun je online games maken, maar ook een online portaal.
+  LABEL_GAME_ONLINE_DESCRIPTION_0: |
+    Je kunt online games maken. Ze zijn normaal goedkoper, maar spelers moeten een maandelijks abonnement betalen.
+  LABEL_DIGITAL_STORE_DESCRIPTION_0: |
+    Je kunt een digitale gamewinkel maken. Nou ja, een eerste alfaversie die nog verbeterd moet worden.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     Optreden als uitgever en bedrijven inhuren om je spel te maken.
-  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: "Een post-mortem is een rapport van wat goed of fout ging tijdens de ontwikkeling van de game. Het geeft je tips."
-  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: "Een goede game maken laat je vooruitgaan in City Game Studio en levert je geld, fans en ervaring op."
-  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: "Bij het maken van een game kun je nu het doelpubliek kiezen. Dit heeft invloed op de eindscore en de verkoop van de game."
-  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: "Je hebt een nieuwe ontwerpmeter bij het maken van een game."
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: "Je hebt een nieuwe ontwerpmeter bij het maken van een game."
-  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: "Je hebt een nieuwe ontwikkelingsmeter bij het maken van een game."
-  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: "Je hebt een nieuwe ontwikkelingsmeter bij het maken van een game."
-  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: "Je hebt een nieuwe afwerkingsmeter bij het maken van een game."
-  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: "Je hebt een nieuwe afwerkingsmeter bij het maken van een game."
-  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: "Je kunt adverteren op sociale netwerken. Het is heel gericht, duur en zeer effectief."
-  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: "E-mails versturen kost je bijna niets en heeft invloed op de verkoop van je games."
+  LABEL_POSTMORTEM_FEATURE_DESCRIPTION_0: |
+    Een post-mortem is een rapport van wat goed of fout ging tijdens de ontwikkeling van de game. Het geeft je tips.
+  LABEL_NEW_GAME_FEATURE_DESCRIPTION_0: |
+    Een goede game maken laat je vooruitgaan in City Game Studio en levert je geld, fans en ervaring op.
+  LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: |
+    Bij het maken van een game kun je nu het doelpubliek kiezen. Dit heeft invloed op de eindscore en de verkoop van de game.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: |
+    Je hebt een nieuwe ontwerpmeter bij het maken van een game.
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: |
+    Je hebt een nieuwe ontwerpmeter bij het maken van een game.
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: |
+    Je hebt een nieuwe ontwikkelingsmeter bij het maken van een game.
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: |
+    Je hebt een nieuwe ontwikkelingsmeter bij het maken van een game.
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: |
+    Je hebt een nieuwe afwerkingsmeter bij het maken van een game.
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: |
+    Je hebt een nieuwe afwerkingsmeter bij het maken van een game.
+  LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: |
+    Je kunt adverteren op sociale netwerken. Het is heel gericht, duur en zeer effectief.
+  LABEL_MARKETING_CAMPAIGN_MAILINGLIST_DESCRIPTION_0: |
+    E-mails versturen kost je bijna niets en heeft invloed op de verkoop van je games.
   LABEL_GAMEPORT_FEATURE_DESCRIPTION_0: >
     Je kan je games naar nieuwe platformen porten.
   LABEL_UNLOCK_GAMEGENRE: "Je hebt ervaring opgedaan met het maken van games. Je voelt je klaar om nieuwe spelmechanismen te ontwikkelen."
-  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: "Je kunt nu nieuwe gamegenres ontgrendelen. Om ervaringspunten te verdienen, hoef je alleen maar games uit te brengen."
+  LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_0: |
+    Je kunt nu nieuwe gamegenres ontgrendelen. Om ervaringspunten te verdienen, hoef je alleen maar games uit te brengen.
   LABEL_UNLOCK_GAMEGENRE_DESCRIPTION_1: >
     Contracten zijn nu beschikbaar. Het afronden van een contract geeft je geld, ervaring en tips voor een specifiek spelgenre.
 
@@ -2528,7 +2608,8 @@ nl:
     Het heeft geen betere statistieken of andere effecten.
 
     Je moet de DLC «Supporter Pack» bezitten om dit meubelstuk te ontgrendelen.
-  TOOLTIP_BONUS_HYPE: "Bonushype ontstaat wanneer je je game op beurzen laat zien."
+  TOOLTIP_BONUS_HYPE: |
+    Bonushype ontstaat wanneer je je game op beurzen laat zien.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
     Gefeliciteerd, je hebt net je console ontwikkeld!
 
@@ -2550,8 +2631,10 @@ nl:
     Dit genre is voorlopig vergrendeld.
   TOOLTIP_GAME_TYPE_SELECT_ONE: |
     Je moet minstens één spelgenre selecteren om een spel te maken.
-  TOOLTIP_RANDOM_SLIDER: "Bij het maken van een game worden de verwachte waarden van de meters in de ontwikkelings-, ontwerp- en afwerkingsfase willekeurig."
-  TOOLTIP_REQUIRE_GAME: "Je moet %s bezitten om dit item te ontgrendelen."
+  TOOLTIP_RANDOM_SLIDER: |
+    Bij het maken van een game worden de verwachte waarden van de meters in de ontwikkelings-, ontwerp- en afwerkingsfase willekeurig.
+  TOOLTIP_REQUIRE_GAME: |
+    Je moet %s bezitten om dit item te ontgrendelen.
   TOOLTIP_RELATIONSHIP: |
     Met een goede relatie kun je betere aanbiedingen krijgen.
     Een slechte relatie leidt daarentegen tot moeilijkere onderhandelingen.
@@ -2561,7 +2644,8 @@ nl:
 
     Relaties verslechteren wanneer je een exclusief contract weigert,
     of wanneer je onderhandelingen begint zonder een licentie te kopen.
-  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: "Voeg automaten, planten of koffiemachines toe om hun werkplek te verbeteren."
+  TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
+    Voeg automaten, planten of koffiemachines toe om hun werkplek te verbeteren.
   TOOLTIP_EMPLOYEE_BORED_GENRE: |
     Je werknemer wil een nieuw gamegenre uitproberen. Je werknemer wil niet 
     werken aan gamegenres zoals:
@@ -2594,8 +2678,10 @@ nl:
   TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
     Sommige functies worden niet ondersteund,
     kies andere.
-  TOOLTIP_POSTMORTEM_ALREADY_DONE: "Het spelrapport is al gemaakt."
-  TOOLTIP_POSTMORTEM_AUTOMATICALLY: "Het spelrapport automatisch maken."
+  TOOLTIP_POSTMORTEM_ALREADY_DONE: |
+    Het spelrapport is al gemaakt.
+  TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
+    Het spelrapport automatisch maken.
   TUTORIEL_CREATE_GAME: |
     Klik op deze knop om het paneel voor het maken van spellen te openen.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
@@ -2636,9 +2722,12 @@ nl:
   TOOLTIP_KEEP_HINT: |
     Als je dit vakje aanvinkt, behoud je alle kennis die je hebt verzameld met de
     spelrapporten van je vorige saves.
-  TOOLTIP_CONCURRENT_PAY_TO: "Omdat de game %s niet aan de verwachtingen van %s voldeed, moet je een boete van %s$ betalen. Aangezien je maar %s$ hebt, kun je beter een lening afsluiten om een faillissement te vermijden."
-  TOOLTIP_ROYALTY_GET: "Dit is het percentage dat je ontvangt van de gegenereerde inkomsten."
-  TOOLTIP_ROYALTY_GIVE: "Dit is het percentage dat je betaalt over de gegenereerde inkomsten."
+  TOOLTIP_CONCURRENT_PAY_TO: |
+    Omdat de game %s niet aan de verwachtingen van %s voldeed, moet je een boete van %s$ betalen. Aangezien je maar %s$ hebt, kun je beter een lening afsluiten om een faillissement te vermijden.
+  TOOLTIP_ROYALTY_GET: |
+    Dit is het percentage dat je ontvangt van de gegenereerde inkomsten.
+  TOOLTIP_ROYALTY_GIVE: |
+    Dit is het percentage dat je betaalt over de gegenereerde inkomsten.
   TOOLTIP_SERVER_BURNING: |
     Let op: de servers kunnen zoveel spelers niet aan.
 
@@ -2676,8 +2765,10 @@ nl:
     de tijd die nodig is om het spel te ontwikkelen en de productiekosten.
 
     Het is moeilijker om een score van meer dan 90 te halen met een klein spel dan met een groot spel.
-  TOOLTIP_THEME_TREND: "Thematrends beïnvloeden de verkoop."
-  TOOLTIP_HAPPY_EMPLOYEE: "Je werknemer is gelukkig."
+  TOOLTIP_THEME_TREND: |
+    Thematrends beïnvloeden de verkoop.
+  TOOLTIP_HAPPY_EMPLOYEE: |
+    Je werknemer is gelukkig.
   TOOLTIP_EMPLOYEE_HAPPINESS: |
     Hoe gelukkiger een werknemer is, hoe minder vaak hij op vakantie zal gaan.
     Hoe ongelukkiger een werknemer is, hoe vaker hij op vakantie zal gaan.
@@ -2703,25 +2794,34 @@ nl:
     Op dit moment moet het bedrijf gered worden.
 
     Je beste optie is een lening af te sluiten die zo groot en zo lang mogelijk is.
-  TOOLTIP_GAME_UPDATE_BUTTON: "Klik om je games bij te werken, DLC te maken of financiële details te bekijken"
+  TOOLTIP_GAME_UPDATE_BUTTON: |
+    Klik om je games bij te werken, DLC te maken of financiële details te bekijken
   TOOLTIP_GAMECREATION_HELP: >
     Toont de spellen van hetzelfde genre die je hebt gemaakt. Handig om de meters af te stellen.
-  TOOLTIP_GAMEENGINE_CREATE: "Kies welke functies je in je game-engine wilt stoppen"
-  TOOLTIP_TIRED_GAME_GENRE: "Je werknemers willen graag nieuwe gamegenres uitproberen, ze zijn het beu om steeds dezelfde gamegenres te maken:"
+  TOOLTIP_GAMEENGINE_CREATE: |
+    Kies welke functies je in je game-engine wilt stoppen
+  TOOLTIP_TIRED_GAME_GENRE: |
+    Je werknemers willen graag nieuwe gamegenres uitproberen, ze zijn het beu om steeds dezelfde gamegenres te maken:
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     Selecteer de te analyseren thema's/platforms
-  TOOLTIP_MARKETSEARCH_SELECT_GENRE: "Selecteer het gamegenre dat je wilt bestuderen"
-  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: "Selecteer de gamegenres/doelpublieken die je wilt analyseren"
-  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: "Selecteer het platform dat je wilt bestuderen"
-  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: "Aangezien je dat item al hebt bestudeerd, hoef je het niet opnieuw te analyseren."
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
+    Selecteer het gamegenre dat je wilt bestuderen
+  TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
+    Selecteer de gamegenres/doelpublieken die je wilt analyseren
+  TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
+    Selecteer het platform dat je wilt bestuderen
+  TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
+    Aangezien je dat item al hebt bestudeerd, hoef je het niet opnieuw te analyseren.
   TOOLTIP_UNIVERSITY_TRAINING_TYPE: |
     Train je werknemers tot ze perfect zijn of gedurende een vaste
     tijd.
   TOOLTIP_UNIVERSITY_AUTOTRAINING: |
     Stuurt werknemers automatisch naar training tot ze perfect zijn
     of tot er werk te doen is. Vereist Personeelszaken.
-  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: "Traint personeel in elk aspect van videogameontwikkeling."
-  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: "Traint personeel in een specifiek aspect van videogameontwikkeling."
+  TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
+    Traint personeel in elk aspect van videogameontwikkeling.
+  TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
+    Traint personeel in een specifiek aspect van videogameontwikkeling.
   TOOLTIP_PLATFORM_MARKETING: |
     Eenmaal geactiveerd, start de marketingcampagne
     zodra de console wordt uitgebracht.
@@ -2745,19 +2845,28 @@ nl:
   TOOLTIP_MATCH_GOOD: Goede match
   TOOLTIP_MATCH_OK: "Oké match"
   TOOLTIP_MATCH_POOR: Slechte match
-  TOOTIP_STUDIO_HAPPINESS: "Welke gamegenres de geselecteerde studio leuk vindt."
-  TOOLTIP_TOPSALES: "Bestverkochte games"
-  TOOLTIP_CONVENTION_LIST: "Bijgewoonde beurzen"
-  TOOLTIP_FORCE_STUDIO: "Je moet de studio selecteren waarvan je de verkoop wilt afdwingen."
+  TOOTIP_STUDIO_HAPPINESS: |
+    Welke gamegenres de geselecteerde studio leuk vindt.
+  TOOLTIP_TOPSALES: |
+    Bestverkochte games
+  TOOLTIP_CONVENTION_LIST: |
+    Bijgewoonde beurzen
+  TOOLTIP_FORCE_STUDIO: |
+    Je moet de studio selecteren waarvan je de verkoop wilt afdwingen.
   TOOLTIP_CRACK_GAME: |
     Je moet het spel selecteren dat je wil hacken.
-  TOOLTIP_HIRE_STAFF: "Je moet de werknemer selecteren die je wilt aannemen."
-  TOOLTIP_CONCURRENT_LOCKED: "Je kunt opnieuw actie ondernemen tegen %s vanaf %s."
+  TOOLTIP_HIRE_STAFF: |
+    Je moet de werknemer selecteren die je wilt aannemen.
+  TOOLTIP_CONCURRENT_LOCKED: |
+    Je kunt opnieuw actie ondernemen tegen %s vanaf %s.
   TOOLTIP_TUTORIEL: |
     %s om %s te ontgrendelen
-  TOOLTIP_EMAIL: "Lees het nieuws en je e-mail."
-  TOOLTIP_UNLOCK_GAME_GENRE: "Hiermee kun je nieuwe soorten games ontgrendelen."
-  TOOLTIP_MANAGE_STUDIO: "Beheer je studio's, upgrade computers, wijs werknemers toe..."
+  TOOLTIP_EMAIL: |
+    Lees het nieuws en je e-mail.
+  TOOLTIP_UNLOCK_GAME_GENRE: |
+    Hiermee kun je nieuwe soorten games ontgrendelen.
+  TOOLTIP_MANAGE_STUDIO: |
+    Beheer je studio's, upgrade computers, wijs werknemers toe...
   TOOLTIP_GAMEPORT: "Port een videogame naar een ander platform."
   TOOLTIP_POSTMORTEM: |
     Maak een post-mortemrapport.
@@ -2785,11 +2894,13 @@ nl:
   TOOLTIP_ANNOUNCE_GAME: |
     Kondig de videogame aan.
     Genereert hype.
-  TOOLTIP_CONCURRENT: "Lijst van videogamebedrijven"
+  TOOLTIP_CONCURRENT: |
+    Lijst van videogamebedrijven
   TOOLTIP_STUDIO_COST: |
     Totale studiokosten. Inclusief huur en de kosten voor het onderhoud
     van de apparatuur (bijvoorbeeld voor servers)
-  TOOLTIP_MARKETING_COST: "Kosten van lopende marketingcampagnes"
+  TOOLTIP_MARKETING_COST: |
+    Kosten van lopende marketingcampagnes
   TOOLTIP_SALARY_COST: |
     Loon van elke werknemer
   TOOLTIP_STEAM_MODS: |
@@ -2797,38 +2908,60 @@ nl:
   TOOLTIP_HUMANRESOURCE: |
     Wijs een personeelsmanager toe om de roosters
     en loonsverhogingen van je werknemers te beheren
-  TOOLTIP_GAME_OF_THE_YEAR: "Elk jaar wordt een nieuwe game uitgeroepen tot Game of the Year."
-  TOOLTIP_DESK_REPLACE: "Bureaus vervangen en computers upgraden"
+  TOOLTIP_GAME_OF_THE_YEAR: |
+    Elk jaar wordt een nieuwe game uitgeroepen tot Game of the Year.
+  TOOLTIP_DESK_REPLACE: |
+    Bureaus vervangen en computers upgraden
   TOOLTIP_POSTMORTEM_RED_ZONE: |
     Spelrapporten hebben je geholpen de blauwe zone te verfijnen.
     Als je de blauwe zone verlaat, loop je het risico een onevenwichtige game te maken
     en slechte recensies te krijgen.
 
   # Showed when game is loading
-  LOADING_SCREEN_TIP_0: "Je bedrijf wordt in het geheim beoordeeld op basis van de kwaliteit van de games die je de afgelopen vier jaar hebt gemaakt."
+  LOADING_SCREEN_TIP_0: |
+    Je bedrijf wordt in het geheim beoordeeld op basis van de kwaliteit van de games die je de afgelopen vier jaar hebt gemaakt.
   LOADING_SCREEN_TIP_1: >
     Perfecte werknemers kunnen spontaan solliciteren om je productie teams te versterken.
-  LOADING_SCREEN_TIP_2: "Dit laadscherm is er alleen om je te laten wachten, eigenlijk is het een sleep(random(0, 50)) in een lus."
-  LOADING_SCREEN_TIP_3: "Een nieuw gamegenre ontdekken geeft je een aanzienlijk voordeel op de concurrentie."
+  LOADING_SCREEN_TIP_2: |
+    Dit laadscherm is er alleen om je te laten wachten, eigenlijk is het een sleep(random(0, 50)) in een lus.
+  LOADING_SCREEN_TIP_3: |
+    Een nieuw gamegenre ontdekken geeft je een aanzienlijk voordeel op de concurrentie.
   LOADING_SCREEN_TIP_4: >
     Games produceren met je concurrenten is de beste manier om beroemd te worden.
-  LOADING_SCREEN_TIP_5: "Je kunt beurzen organiseren in je eigen gebouwen, maar laat er best een jaar tussen."
-  LOADING_SCREEN_TIP_6: "De afdeling slechte verkoop heeft altijd gelijk."
-  LOADING_SCREEN_TIP_7: "Je hebt servers nodig om online games te hosten. Ze zijn goedkoper, maar spelers moeten maandelijks betalen om te blijven spelen."
-  LOADING_SCREEN_TIP_8: "Einstein, onze mascotte, heeft 65,13 keer geblaft tijdens de ontwikkeling van City Game Studio."
-  LOADING_SCREEN_TIP_9: "Tijdens de ontwikkeling van City Game Studio werden 12.654 kerstliedjes gespeeld."
-  LOADING_SCREEN_TIP_10: "Kijken naar marktaandelen is goed, maar je moet ook letten op het aantal games dat op een platform is uitgebracht."
-  LOADING_SCREEN_TIP_11: "Wil je helpen City Game Studio te vertalen? Word lid van onze Discord: https://discord.gg/citygamestudio"
-  LOADING_SCREEN_TIP_12: "Als de lampjes van je servers rood oplichten, betekent dat dat ze overbelast zijn."
-  LOADING_SCREEN_TIP_13: "Vergeet niet een koffiepauze te nemen... Ah, de koffiemachine is weer kapot."
-  LOADING_SCREEN_TIP_14: "Crunchtime is geen ontbijtgranenmerk, maar wel een wijdverspreide managementpraktijk."
-  LOADING_SCREEN_TIP_15: "Een nieuwe game uitbrengen is de beste manier om geld te verdienen."
-  LOADING_SCREEN_TIP_16: "Post-mortems laten je meer leren over de games die je hebt uitgebracht."
-  LOADING_SCREEN_TIP_17: "Volgens een recente studie blaft bijna 1 op de 625,3 honden wanneer het regent, en de anderen lachen hem uit."
-  LOADING_SCREEN_TIP_18: "Vertrouw niet op alles wat je op laadschermen leest."
-  LOADING_SCREEN_TIP_19: "Een kat adopteren geeft je studio's een kleine bonus."
-  LOADING_SCREEN_TIP_20: "Als je studio een ongelijk vaardigheidsniveau heeft, kan dat de algemene kwaliteit van een game beïnvloeden."
-  LOADING_SCREEN_TIP_21: "Druk op F1 om de in-game console te openen."
+  LOADING_SCREEN_TIP_5: |
+    Je kunt beurzen organiseren in je eigen gebouwen, maar laat er best een jaar tussen.
+  LOADING_SCREEN_TIP_6: |
+    De afdeling slechte verkoop heeft altijd gelijk.
+  LOADING_SCREEN_TIP_7: |
+    Je hebt servers nodig om online games te hosten. Ze zijn goedkoper, maar spelers moeten maandelijks betalen om te blijven spelen.
+  LOADING_SCREEN_TIP_8: |
+    Einstein, onze mascotte, heeft 65,13 keer geblaft tijdens de ontwikkeling van City Game Studio.
+  LOADING_SCREEN_TIP_9: |
+    Tijdens de ontwikkeling van City Game Studio werden 12.654 kerstliedjes gespeeld.
+  LOADING_SCREEN_TIP_10: |
+    Kijken naar marktaandelen is goed, maar je moet ook letten op het aantal games dat op een platform is uitgebracht.
+  LOADING_SCREEN_TIP_11: |
+    Wil je helpen City Game Studio te vertalen? Word lid van onze Discord: https://discord.gg/citygamestudio
+  LOADING_SCREEN_TIP_12: |
+    Als de lampjes van je servers rood oplichten, betekent dat dat ze overbelast zijn.
+  LOADING_SCREEN_TIP_13: |
+    Vergeet niet een koffiepauze te nemen... Ah, de koffiemachine is weer kapot.
+  LOADING_SCREEN_TIP_14: |
+    Crunchtime is geen ontbijtgranenmerk, maar wel een wijdverspreide managementpraktijk.
+  LOADING_SCREEN_TIP_15: |
+    Een nieuwe game uitbrengen is de beste manier om geld te verdienen.
+  LOADING_SCREEN_TIP_16: |
+    Post-mortems laten je meer leren over de games die je hebt uitgebracht.
+  LOADING_SCREEN_TIP_17: |
+    Volgens een recente studie blaft bijna 1 op de 625,3 honden wanneer het regent, en de anderen lachen hem uit.
+  LOADING_SCREEN_TIP_18: |
+    Vertrouw niet op alles wat je op laadschermen leest.
+  LOADING_SCREEN_TIP_19: |
+    Een kat adopteren geeft je studio's een kleine bonus.
+  LOADING_SCREEN_TIP_20: |
+    Als je studio een ongelijk vaardigheidsniveau heeft, kan dat de algemene kwaliteit van een game beïnvloeden.
+  LOADING_SCREEN_TIP_21: |
+    Druk op F1 om de in-game console te openen.
 
   GAME_UPDATE: "Game-update"
   GAMEENGINE: "Game-engines"

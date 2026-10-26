@@ -1,18 +1,18 @@
 ko:
   # Buttons actions verbs
-  BUTTON_ALWAYS_ON_TOP: 항상 최상위
+  BUTTON_ALWAYS_ON_TOP: 항상 위에 표시
   BUTTON_RESET_SCHEDULE: 할당 초기화
   BUTTON_TRANSFERT_STAFF: 직원 이동하기...
   BUTTON_RENAME: 이름 변경
   BUTTON_DISABLE_TUTORIEL: 튜토리얼 비활성화
-  BUTTON_ACQUIRE: 습득
+  BUTTON_ACQUIRE: 인수
   BUTTON_READ: 읽기
   BUTTON_ANNOUNCE: 게임 발표
-  BUTTON_NEW_GAME: 새로하기
+  BUTTON_NEW_GAME: 새 게임
   BUTTON_HIRE: 고용
-  BUTTON_APPLY: 확인
-  BUTTON_BACK: 취소
-  BUTTON_BUILD_MODE: 인테리어
+  BUTTON_APPLY: 적용
+  BUTTON_BACK: 이전
+  BUTTON_BUILD_MODE: 건설 모드
   BUTTON_BUILDING_RENT: 임차
   BUTTON_CANCEL: 취소
   BUTTON_CANCEL_ALL: 모두 취소
@@ -20,8 +20,8 @@ ko:
   BUTTON_CREDITS: 제작자
   BUTTON_EXIT: 종료하기
   BUTTON_FIRE: 해고
-  BUTTON_LOAD: 열기
-  BUTTON_LOAD_GAME: 불러오기
+  BUTTON_LOAD: 불러오기
+  BUTTON_LOAD_GAME: 게임 불러오기
   BUTTON_MAIN_MENU: 메인메뉴
   BUTTON_NEXT: 다음
   BUTTON_OK: 확인
@@ -31,12 +31,12 @@ ko:
   BUTTON_START: 시작
   BUTTON_NEED_STUDIO: 사용 가능한 스튜디오 없음
   BUTTON_CLEAR_EVENTS: 삭제
-  BUTTON_TOO_BAD: 매우 나쁨
-  BUTTON_BUY_ANOTHER_ONE: 추가 구매(1개)
-  BUTTON_ADOPT: 키운다
-  BUTTON_ABANDON: 버린다
+  BUTTON_TOO_BAD: 아쉽네요
+  BUTTON_BUY_ANOTHER_ONE: 하나 더 구매
+  BUTTON_ADOPT: 입양하기
+  BUTTON_ABANDON: 포기하기
   BUTTON_ASSIGN_EMPLOYEE: 배치
-  BUTTON_WITHDRAW_SPECIALISTS: 모두 배치 취소
+  BUTTON_WITHDRAW_SPECIALISTS: 모든 전문가 배치 해제
   BUTTON_KEEP_PLAYING: 계속하기
   BUTTON_LEADERBOARD: 랭킹
   BUTTON_GIVEUP: 포기
@@ -57,12 +57,12 @@ ko:
   BUTTON_HOLIDAY_SOLO: 휴가 보내기
   BUTTON_MODS: 모드
   BUTTON_BUGREPORT: 버그 제보하기
-  BUTTON_FEEDBACK: 의견 제시하기
+  BUTTON_FEEDBACK: 피드백
   DROPDOWN_LANGUAGE: 언어
-  BUTTON_CRACK_GAME: 불법 복제
+  BUTTON_CRACK_GAME: 이 게임 크랙하기
   BUTTON_FORCE_STUDIO_SELL: 스튜디오 강제 매각
-  BUTTON_SPY: 해킹
-  BUTTON_HIRE_THEIR_EMPLOYE: 헤드 헌팅
+  BUTTON_SPY: 경쟁사 염탐
+  BUTTON_HIRE_THEIR_EMPLOYE: 직원 빼오기
   BUTTON_SELECT: 선택
   BUTTON_SAVEGAME: 저장하기
   BUTTON_SELL_ITEMS: 가구 판매
@@ -73,11 +73,11 @@ ko:
   BUTTON_GRID: 격자 표시
   BUTTON_EDIT_LOGO: 로고 수정
   BUTTON_BUILD: 건설
-  BUTTON_PAY: 상환
+  BUTTON_PAY: 지불
   BUTTON_UPDATE: 업데이트
   BUTTON_EDIT: 편집
   BUTTON_CONFINE_MOUSE: 화면 안에 마우스 가두기
-  BUTTON_SHOW_STUDIO: 스튜디오
+  BUTTON_SHOW_STUDIO: 스튜디오 보기
   BUTTON_CANCEL_GAME: 개발 중단
   BUTTON_VIEW_SEQUEL: 속편 보기
   BUTTON_COPY: 복사
@@ -97,14 +97,14 @@ ko:
   BUTTON_VIEW_REMAKE: 리메이크 작품 보기
   BUTTON_VIEW_ORIGINAL_GAME: 원작 보기
   BUTTON_VIEW_GAME: 게임 보기
-  BUTTON_PUBLISH_GOTY: GOTY 발표
+  BUTTON_PUBLISH_GOTY: GOTY 에디션 출시
   BUTTON_ACCEPT: 수락
   BUTTON_REFUSE: 거절
   BUTTON_IMPORT_IMAGE: 이미지 가져오기
   BUTTON_ROADMAP: 로드맵
   BUTTON_VIEW_MODS: 모드 보기
   BUTTON_DEMOLISH_STUDIO: 건물 철거
-  BUTTON_SAVEGAMEAS: 새로운 저장 게임
+  BUTTON_SAVEGAMEAS: 새 저장 파일
   BUTTON_TWITCH_INTEGRATION: Twitch
   BUTTON_FETCH_TOKEN: 토큰 받기
   BUTTON_MAIN_MENU_NO_SAVE: 저장하지 않고 메인 메뉴
@@ -116,7 +116,7 @@ ko:
   BUTTON_STUDIO_DIRECTOR_NO_UPDATE: 업데이트 없음
   BUTTON_STUDIO_DIRECTOR_UPDATE_ALL_GAMES: 모든 게임 업데이트
   BUTTON_STUDIO_DIRECTOR_UPDATE_SELF_GAMES: 자신의 게임 업데이트
-  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: 모든 게임만 업데이트
+  BUTTON_STUDIO_DIRECTOR_ONLY_UPDATE_ALL_GAMES: 업데이트만 하기
   BUTTON_SAVEGAME_OVERWRITE_CONFIRM: 저장을 덮어쓰시겠습니까?
   BUTTON_STUDIO_DIRECTOR_NO_SEQUEL: 속편 없음
   BUTTON_STUDIO_DIRECTOR_SEQUEL_ALL_GAMES: 모든 게임의 속편 만들기
@@ -141,7 +141,7 @@ ko:
   TOOLTIP_FRANCHISE_FATIGUE: |
     프랜차이즈가 새 게임을 낼 준비가 되었는지 알 수 있습니다.
     피로도가 0에 가까울수록 새 게임을 낼 준비가 된 것입니다.
-    피로도가 높을수록 새 게임을 출시하기 전에 더 오래 기다려야 합니다 .
+    피로도가 높을수록 새 게임을 출시하기 전에 더 오래 기다려야 합니다.
 
     이식작은 피로도의 영향을 받지 않습니다.
   LABEL_THEME_INTERFACE: 인터페이스 테마
@@ -162,10 +162,10 @@ ko:
     • 모든 게임: 사용 가능한 전체 카탈로그의 속편 제작
 
     완료되면 디렉터는 새 프로젝트 개발을 재개합니다.
-  LABEL_CONVENTION_UPDATE_ALL_GAME: 모든 컨벤션의 모든 게임 변경.
+  LABEL_CONVENTION_UPDATE_ALL_GAME: 모든 전시회의 모든 게임 변경.
   LABEL_STUDIO_IDLE_FIRST: 유휴 스튜디오 먼저 표시
-  LABEL_ANNUAL_REPORT_YEAR_HEADER: 연례 보고서 — 회계연도 %s
-  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: 기밀 — 내부 사용 전용
+  LABEL_ANNUAL_REPORT_YEAR_HEADER: 연례 보고서 · 회계연도 %s
+  LABEL_ANNUAL_REPORT_INTERNAL_HEADER: 기밀 · 내부 사용 전용
   LABEL_ANNUAL_REPORT_FINANCIAL_OVERVIEW: 재무 개요
   LABEL_ANNUAL_REPORT_TOTAL_REVENUE: 총 수익
   LABEL_ANNUAL_REPORT_TOTAL_EXPENSE: 총 지출
@@ -179,8 +179,8 @@ ko:
   LABEL_ANNUAL_REPORT_STOCK: 주식
   LABEL_ANNUAL_REPORT_CONTRACT: 퍼블리싱 계약
   LABEL_ANNUAL_REPORT_EXPENSE_BREAKDOWN: 지출 내역
-  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: 스튜디오 디렉터 수수료
-  LABEL_ANNUAL_REPORT_MORTGAGE: 담보대출
+  LABEL_ANNUAL_REPORT_STUDIO_DIRECTOR_CUT: 스튜디오 디렉터 몫
+  LABEL_ANNUAL_REPORT_MORTGAGE: 대출
   LABEL_ANNUAL_REPORT_RENT: 임대료
   LABEL_ANNUAL_REPORT_SERVER: 서버
   LABEL_ANNUAL_REPORT_MAINTENANCE: 유지보수
@@ -194,7 +194,7 @@ ko:
   LABEL_ANNUAL_REPORT_HUMAN_RESOURCE: 인사
   LABEL_ANNUAL_REPORT_ACTIVE_STUDIO: 활성 스튜디오
   LABEL_ANNUAL_REPORT_TOTAL_HEADCOUNT: 총 인원
-  LABEL_ANNUAL_REPORT_FOOTER: "%s · %s년 설립 · 판권 소유"
+  LABEL_ANNUAL_REPORT_FOOTER: "%s · %s년 설립 · 모든 권리 보유"
   LABEL_NO_CONTRACT_AVAILABLE: 사용 가능한 계약이 없습니다
   LABEL_UNIT_K: K
   LABEL_UNIT_M: M
@@ -216,13 +216,13 @@ ko:
   LABEL_MONTH_OCTOBER: 10월
   LABEL_MONTH_NOVEMBER: 11월
   LABEL_MONTH_DECEMBER: 12월
-  LABEL_CHECK_OTHER_GAME: 제 다른 게임
+  LABEL_CHECK_OTHER_GAME: 개발자의 다른 게임
   LABEL_SAVE_AND_LOAD: 저장 및 불러오기
   LABEL_SETTINGS_AND_HELP: 설정 및 도움말
   LABEL_NAVIGATION: 탐색
   LABEL_STAFF_DEV_SIZE: 개발자 수
   LABEL_SAVEGAME_ALREADY_EXISTS: |
-    저장 "%s"이(가) 이미 존재합니다.
+    저장 파일 "%s"이(가) 이미 존재합니다.
 
     덮어쓰시겠습니까?
   LABEL_COPY_PROTECTION: 복제 방지
@@ -252,9 +252,9 @@ ko:
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_SELF_GAMES: 이 스튜디오 디렉터가 제작한 게임
   LABEL_STUDIODIRECTOR_GAMEPORT_TYPE_PORT_ALL_GAMES: 이식 가능한 모든 게임
   TOOLTIP_STUDIODIRECTOR_GAMEPORT_MARKETSHARE: |
-    게임을 이식하기 위한 콘솔의 시장 점유율을 기반으로 합니다.
-    시장 점유율이 값보다 낮으면 게임이 해당 콘솔로 이식되지 않습니다.
-    그러나 콘솔의 시장 점유율이 값보다 크거나 같으면 게임이 해당 콘솔로 이식됩니다.
+    콘솔의 시장 점유율을 기준으로 게임 이식 여부를 결정합니다.
+    콘솔의 시장 점유율이 이 값보다 낮으면 게임이 해당 콘솔로 이식되지 않습니다.
+    이 값보다 크거나 같으면 게임이 해당 콘솔로 이식됩니다.
 
     게이지를 0으로 설정하면 모든 게임을 사용 가능한 모든 플랫폼으로 이식합니다.
   LABEL_PLATFORM_MARKETSHARE_MIN: 최소 시장 점유율
@@ -342,14 +342,14 @@ ko:
   LABEL_AMOUNT_OF_GAMEPORT: 이식한 게임
   LABEL_AMOUNT_OF_GAMES: 출시한 게임
   LABEL_AMOUNT_OF_STUDIOS: 스튜디오
-  LABEL_AMOUNT_OF_CONVENTIONS: 참가한 컨벤션
+  LABEL_AMOUNT_OF_CONVENTIONS: 참가한 전시회
   TOOLTIP_STAFF_SCHEDULE_AUTO: |
-    직원을 자동으로 할당합니다.
+    직원을 자동으로 배치합니다.
 
-    디자이너는 디자인 작업에, 개발자는 개발 작업에,
-    테스터는 품질 향상 작업에 할당됩니다.
+    디자이너는 설계 작업에, 개발자는 개발 작업에,
+    테스터는 마감 작업에 배치됩니다.
 
-    스튜디오의 균형을 맞추려고 시도합니다.
+    이때 스튜디오 간의 균형을 맞추려고 합니다.
   TOOLTIP_STAFF_SCHEDULE_RESET: |
     직원 할당을 초기화합니다.
   TOOLTIP_STAFF_SCHEDULE_CANNOT_AUTO_TOO_SMALL: |
@@ -364,7 +364,7 @@ ko:
     게임의 품질을 회사의 재정적 건강보다 우선시합니다.
 
     기본적으로 스튜디오 디렉터는 게임을 발표하거나 업데이트하지 않지만, 이를 수행하도록 요청할 수 있습니다.
-    그러나 게임 보고서는 자동으로 생성됩니다.
+    그러나 사후분석 보고서는 자동으로 생성됩니다.
 
   TOOLTIP_STUDIODIRECTOR_ACTIVATION: |
     스튜디오 디렉터를 활성화하려면 스튜디오를 할당하십시오.
@@ -373,7 +373,7 @@ ko:
     진행 중인 게임과 업데이트는 자동으로 취소됩니다.
 
   LABEL_STUDIODIRECTOR_SPECIALIST_TO_USE: >
-    스튜디오 디렉터가 전문가를 사용할 수 있도록 승인합니다.
+    스튜디오 디렉터가 전문가를 사용할 수 있도록 허용합니다.
     즉, 스튜디오 디렉터는 여기에서 허용된 전문가 중 사용 가능한 전문가를 항상 사용하려고 합니다.
     따라서 스튜디오 디렉터가 회계사를 사용할 수 있도록 허용되면 사용 가능한 회계사가 있는 한 해당 회계사를 게임에 배정합니다.
   LABEL_HIDE_STUDIO_NOT_AVAILABLE: 사용할 수 없는 스튜디오 숨기기
@@ -382,10 +382,10 @@ ko:
   LABEL_PREFER_NEW_TYPE: 마스터하지 못한 게임 장르
   LABEL_PREFER_MASTERED_TYPE: 마스터한 게임 장르
   LABEL_PREFER_PRODUCER_TYPE: 프로듀서의 게임 장르
-  LABEL_PREFER_THE_MOST_FEATURES: 대부분의 기능
-  LABEL_PREFER_THE_CHEAPEST: 가장 저렴한 기능
-  LABEL_PREFER_MOST_POWERFUL: 가장 강력한
-  LABEL_PREFER_HOME_MADE: 인하우스
+  LABEL_PREFER_THE_MOST_FEATURES: 기능이 가장 많은 것
+  LABEL_PREFER_THE_CHEAPEST: 가장 저렴한 것
+  LABEL_PREFER_MOST_POWERFUL: 가장 강력한 것
+  LABEL_PREFER_HOME_MADE: 자체 제작
   LABEL_PREFER_MARKET_SHARE: 가장 큰 시장 점유율
   LABEL_PREFER_SMALLEST_CATALOG_SIZE: 가장 작은 게임 카탈로그
   LABEL_PRIORITIZE_PROFIT: 수익 우선
@@ -401,11 +401,11 @@ ko:
     다른 게임들은 자동으로 폐기됩니다.
   LABEL_STUDIO_DIRECTOR_REVIEW: 디렉터 게임의 언론 평가 보기
   LABEL_STUDIO_DIRECTOR: 스튜디오 디렉터
-  LABEL_STUDIO_DIRECTOR_CUT: 스튜디오 디렉터의 수익 분배
+  LABEL_STUDIO_DIRECTOR_CUT: 스튜디오 디렉터 몫
   TOOLTIP_STUDIO_DIRECTOR: |
     스튜디오 디렉터는 게임을 개발하고 자율적으로 업데이트할 수 있습니다.
     원하는 만큼 많은 스튜디오를 할당하여 게임을 만들고 업데이트를 처리하게 할 수 있습니다.
-    스튜디오 디렉터는 개발자, 프로듀서, 네트워크 관리자, 회계사 및 마케팅 관리자 등 스튜디오의 모든 직원을 활용합니다.
+    스튜디오 디렉터는 개발자, 프로듀서, 네트워크 책임자, 회계 책임자 및 마케팅 책임자 등 스튜디오의 모든 직원을 활용합니다.
   LABEL_AUTO_PAUSE: 출시 시 자동 일시 중지
   TOOLTIP_AUTO_PAUSE_GAME: |
     비디오 게임을 출시할 때 게임이 자동으로 일시 중지됩니다.
@@ -414,41 +414,41 @@ ko:
   LABEL_ACQUIRE_COMPANY_DESCRIPTION: |
     경쟁사를 인수하려고 합니다.
 
-    이 인수를 통해 회사의 팬층을 늘릴 수 있습니다.
-    경쟁사의 직원, 스튜디오, 게임을 인수할지 여부를 선택할 수도 있습니다.
-    아니면 그들을 없애고 싶을 수도 있습니다.
+    이 인수를 통해 회사의 팬층이 늘어납니다.
+    경쟁사의 직원, 스튜디오, 게임을 인수할지 여부도 선택할 수 있습니다.
+    원한다면 이들을 정리할 수도 있습니다.
   LABEL_GET_ALL_STUDIO: 모든 스튜디오 인수
-  LABEL_HIRE_ALL: 모든 직원 획득
+  LABEL_HIRE_ALL: 모든 직원 인수
   LABEL_GET_ALL_GAME: 모든 게임 인수
-  LABEL_GET_ALL_PLATFORM: 모든 플랫폼 획득
-  LABEL_UPCOMING_GAME: 오늘 위시리스트에 추가하세요!
-  LABEL_BANKER_GOODBYE_MESSAGE: 시간과 고려에 감사드립니다. 최종 결정에 따라 진행하겠습니다. 추가 도움이 필요하시면 언제든지 말씀해 주세요.
+  LABEL_GET_ALL_PLATFORM: 모든 플랫폼 인수
+  LABEL_UPCOMING_GAME: 오늘 찜 목록에 추가하세요!
+  LABEL_BANKER_GOODBYE_MESSAGE: 시간을 내어 검토해 주셔서 감사합니다. 최종 결정에 따라 진행하겠습니다. 추가 도움이 필요하시면 언제든지 말씀해 주세요.
   LABEL_BANKER_SELL_ALL_YOUR_SHARE: >
     모든 경쟁사의 보유 주식을 모두 매각
   LABEL_BANKER_SELL_ALL_YOUR_SHARE_MESSAGE: >
     이 제안을 수락하시겠습니까? 수락하면 모든 주식을 매각하게 됩니다!
   LABEL_BANKER_SELL_SHARE_CONFIRM: >
-    수락, 모두 매각한다.
+    수락합니다. 모두 매각하겠습니다.
   LABEL_BANKER_SELL_SHARE_CANCEL: >
-    취소, 다른 방법이 있을 것이다.
-  LABEL_BANKER_STATE_LOAN: >
-    국가가 %d년 동안 추가 세금 %d%%를 대가로 귀하의 부채를 상환하겠다고 제안합니다
+    취소합니다. 분명 다른 방법이 있을 겁니다.
+  LABEL_BANKER_STATE_LOAN: |
+    국가가 추가 세금 %d%%를 %d년 동안 부과하는 대가로 귀하의 부채를 상환하겠다고 제안합니다
   LABEL_BANKER_STATE_LOAN_MESSAGE: >
-    이 제안을 수락하시겠습니까? 수락하면 %d년 동안 %d%%의 추가 세금을 납부해야 합니다.
+    이 제안을 수락하시겠습니까? 수락하면 %d%%의 추가 세금을 납부해야 합니다. 이는 %d년 동안 지속됩니다.
   LABEL_BANKER_STATE_LOAN_CONFIRM: >
     수락. 선택의 여지가 없습니다. 여전히 가장 논리적인 해결책입니다.
   LABEL_BANKER_STATE_LOAN_CANCEL: >
     취소. 이 추가 세금은 장기적으로 수익을 망칠 것입니다.
-  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 최근 몇 달 동안 개발한 게임 엔진을 판매할 생각이신가요? 이는 미래 프로젝트에 해를 끼칠 수 있습니다.
+  LABEL_BANKER_SELL_GAME_ENGINE_MESSAGE: 최근 몇 달 동안 개발한 게임 엔진을 판매하시겠습니까? 이는 미래 프로젝트에 해를 끼칠 수 있습니다.
   LABEL_BANKER_SELL_GAME_ENGINE_CONFIRM: 확인. 다른 선택지가 없습니다. 즉시 부채를 줄여야 합니다.
   LABEL_BANKER_SELL_GAME_ENGINE_CANCEL: 취소. 이렇게 귀중한 자산을 팔기 전에 다른 옵션을 고려해야 합니다.
-  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: 방금 완성한 콘솔을 판매할 생각이신가요? 이는 파트너와 고객과의 관계에 영향을 줄 수 있습니다.
+  LABEL_BANKER_SELL_CUSTOM_PLATFORM_MESSAGE: 방금 완성한 콘솔을 판매하시겠습니까? 이는 파트너와 고객과의 관계에 영향을 줄 수 있습니다.
   LABEL_BANKER_SELL_CUSTOM_PLATFORM_CONFIRM: 확인. 상황이 심각하며, 이 판매가 부채를 줄이는데 필요합니다.
   LABEL_BANKER_SELL_CUSTOM_PLATFORM_CANCEL: 취소. 콘솔은 우리 회사의 미래를 대표합니다. 이 판매를 고려하기 전에 다른 해결책을 모색해야 합니다.
-  LABEL_BANKER_SELL_STUDIO_MESSAGE: 전체 스튜디오와 모든 직원을 판매할 생각이신가요? 이는 팀과 생산에 큰 영향을 미칠 수 있습니다.
+  LABEL_BANKER_SELL_STUDIO_MESSAGE: 전체 스튜디오와 모든 직원을 판매하시겠습니까? 이는 팀과 생산에 큰 영향을 미칠 수 있습니다.
   LABEL_BANKER_SELL_STUDIO_CONFIRM: 확인. 어려운 결과에도 불구하고, 이 옵션이 부채를 줄이는 가장 빠른 방법입니다.
   LABEL_BANKER_SELL_STUDIO_CANCEL: 취소. 팀을 잃는 것은 치명적입니다. 이 결정을 고려하기 전에 다른 대안을 시도해야 합니다.
-  LABEL_BANKER_GO_BANKRUPT_MESSAGE: 즉시 파산을 선언할 생각이신가요? 이는 모든 활동을 종료시키고 신용에 지속적인 영향을 미칠 것입니다.
+  LABEL_BANKER_GO_BANKRUPT_MESSAGE: 즉시 파산을 선언하시겠습니까? 이는 모든 활동을 종료시키고 신용에 지속적인 영향을 미칠 것입니다.
   LABEL_BANKER_GO_BANKRUPT_CONFIRM: 확인. 다른 모든 옵션을 소진했으며, 파산이 유일한 선택인 것 같습니다.
   LABEL_BANKER_GO_BANKRUPT_CANCEL: 취소. 이렇게 극단적인 결정을 내리기 전에 다른 가능한 옵션을 모두 탐색하는 것이 좋습니다.
   LABEL_BANKER_SELL_GAME_ENGINE: 지난 몇 달 동안 개발한 게임 엔진을 판매.
@@ -458,7 +458,7 @@ ko:
   LABEL_BANKER_WELCOME: |
     [b]%s[/b]님께,
 
-    최근 재정 검토 결과, 현재 $[b]%s[/b]의 부채를 안고 있는 귀사의 위기 상황을 해결하기 위해서는 극단적인 조치가 필요합니다.
+    최근 재정 검토 결과, 현재 $[b]%s[/b]의 부채를 안고 있는 귀사의 위기 상황을 해결하기 위해서는 과감한 조치가 반드시 필요합니다.
     다음과 같은 어려운 선택지를 고려해야 합니다:
   LABEL_BANKER_WELCOME_END: |
     재정 안정을 위해 지체 없이 결정을 내리셔야 합니다.
@@ -473,7 +473,7 @@ ko:
     게임 엔진을 다시 작성합니다.
     게임 엔진을 다시 작성하면 레거시 코드에 대한 불이익이 사라지지만, 새로운 게임 엔진보다 비용이 조금 더 듭니다.
   TOOLTIP_TWITCH_BUTTON: |
-    트위치에서 투표를 시작합니다.
+    Twitch에서 투표를 시작합니다.
 
     시청자는 채팅을 통해 이름을 제안할 수 있습니다.
   LABEL_SECONDS: 초
@@ -481,24 +481,24 @@ ko:
   LABEL_TWITCH_CHANNEL_NAME: Twitch 채널 이름
   LABEL_TWITCH_TOKEN: Twitch 토큰
   LABEL_TWITCH_CONNECTING: Twitch에 연결 중...
-  LABEL_TWITCH_DISCONNECTED: 트위치에서 연결 해제됨
-  LABEL_TWITCH_CONNECTED: 트위치에 연결했습니다!
+  LABEL_TWITCH_DISCONNECTED: Twitch에서 연결 해제됨
+  LABEL_TWITCH_CONNECTED: Twitch에 연결했습니다!
   LABEL_TWITCH_AUTHENTICATION_FAILED: 인증에 실패했습니다!
   TOOLTIP_CUSTOM_PLATFORM_PRICING: |
-    콘솔의 적정 가격을 정확히 파악하는 것은 쉽지 않지만, 그렇게 하면 사업을 중단하는 경향이 있습니다.
+    콘솔의 적정 가격을 정확히 정하기는 쉽지 않으며, 잘못 정하면 회사가 문을 닫을 수도 있습니다.
 
-    콘솔 가격은 판매에 영향을 미칩니다.
-    가격이 높으면 매출이 감소합니다.
-    가격을 낮추면 판매량이 증가하지만 비용이 매우 많이 듭니다.
+    콘솔 가격은 판매량에 영향을 미칩니다.
+    가격이 높으면 판매량이 줄어듭니다.
+    가격을 낮추면 판매량은 늘어나지만 비용이 매우 많이 듭니다.
   LABEL_CONVENTION_LIST_NONE_ATTENDED: >
-    현재 어떤 컨벤션에도 참석하지 않고 있으며, 참석할 수 있는 발표된 컨벤션이 없습니다.
+    현재 어떤 전시회에도 참석하지 않고 있으며, 참석할 수 있는 발표된 전시회이 없습니다.
   LABEL_CONVENTION_LIST_NONE_AVAILABLE: >
-    참석할 수 있는 공지된 컨벤션이 있으며 위의 버튼을 클릭하면 해당 컨벤션으로 이동합니다. 하지만 현재 귀하는 어떤 컨벤션에도 참석하지 않고 있습니다.
+    참석할 수 있는 공지된 전시회이 있으며 위의 버튼을 클릭하면 해당 전시회으로 이동합니다. 하지만 현재 어떤 전시회에도 참석하지 않고 있습니다.
   LABEL_CUSTOM_PLATFORM_MATCH_PREVIEW: >
-    향후 콘솔에 대응하는 게임 장르와 해당 게임 목록입니다.
+    향후 콘솔에 대한 게임 장르와 그 적합도 목록입니다.
   TOOLTIP_CUSTOM_PLATFORM_GENRE_MATCH: "%s/%s 중 무작위로 선택"
   TOOLTIP_CUSTOM_PLATFORM_CATALOG_GAME_LIST: |
-    이 섹션에는 귀하와 귀하의 직접 경쟁사가 귀하의 콘솔에 퍼블리싱한 게임이 나열되어 있습니다.
+    이 섹션에는 귀하와 직접 경쟁사가 귀하의 콘솔에 퍼블리싱한 게임이 나열되어 있습니다.
     여기에는 콘솔에 퍼블리싱된 모든 게임이 포함되어 있지는 않습니다.
   LABEL_CUSTOM_PLATFORM_SUGGESTED_PRICE: 권장 소매 가격입니다.
   TOOLTIP_CUSTOM_PLATFORM_SUGGESTED_PRICE: |
@@ -506,43 +506,42 @@ ko:
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_00_19: >
     날씨를 보셨나요?
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_20_39: >
-    이 콘솔은 10년 늦게 출시됩니다.
+    10년 늦게 나온 콘솔
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_40_59: >
-    우리는 더 나은 것을 보았습니다...
+    이보다 나은 것도 봤죠...
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_60_79: >
     눈에 띄는 콘솔
   LABEL_CUSTOM_PLATFORM_FEEDBACK_TITLE_80_100: >
     완벽에 이름이 있다면
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_00_19: |
-    %s은 새로운 콘솔을 제공합니다.
+    %s에서 새로운 콘솔을 내놓았습니다.
 
-    %s 은 경쟁 서비스에 비해 확실히 부족합니다.
-    무료라고 해도 저는 원하지 않을 것 같습니다.
+    %s은(는) 확실히 경쟁 제품에 미치지 못합니다.
+    무료라고 해도 갖고 싶지 않습니다.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_20_39: |
-    %s은 노력하고 있지만 아직 갈 길이 멀다.
+    %s은(는) 노력하고 있지만 아직 갈 길이 멉니다.
 
-    %s 몇 년 늦게 출시되었습니다.
-    기술적으로 이 콘솔은 최신 게임을 플레이하는 데 어려움을 겪을 것입니다.
-    이 콘솔의 시장 점유율은 땅콩을 넘지 못할 것입니다.
+    %s은(는) 몇 년 늦게 출시되었습니다.
+    기술적으로 이 콘솔은 최신 게임을 실행하는 데 어려움을 겪을 것입니다.
+    이 콘솔의 시장 점유율은 쥐꼬리만 할 것입니다.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_40_59: |
-    %s은 물론 최고는 아니지만 선택의 여지를 제공합니다.
+    %s은(는) 하나의 선택지를 제공합니다. 최고는 아니지만, 분명 존재합니다.
 
-    %s 는 시중에서 가장 성능이 떨어지는 콘솔 중 하나입니다.
-    물론 최신 게임을 실행할 수는 있지만, 후드 아래에서 조금 더 강력한 성능을 발휘했으면 좋았을 것입니다.
-    이 콘솔의 시장 점유율을 높이려면 뛰어난 게임 카탈로그가 필요합니다.
+    %s은(는) 시중에서 가장 성능이 떨어지는 콘솔 중 하나입니다.
+    물론 최신 게임을 실행할 수는 있지만, 성능이 조금만 더 좋았다면 좋았을 것입니다.
+    이 콘솔의 시장 점유율을 끌어올리려면 뛰어난 게임 카탈로그가 필요합니다.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_60_79: |
-    %s이 바로 그 역할을 하며 업계에서 두각을 나타내고 있습니다.
+    %s이(가) 등장해 업계에 존재감을 드러내고 있습니다. %s은(는) 흥미로운 성능을 제공합니다.
 
-    %s 흥미로운 성능을 제공합니다.
-    시장에서 최고는 아니지만 적절한 가격과 적절한 게임 카탈로그로 이 콘솔은 상당한 시장 점유율을 달성할 수 있습니다.
+    시장 최고는 아니지만, 적절한 가격과 괜찮은 게임 카탈로그가 있다면 이 콘솔은 상당한 시장 점유율을 차지할 수 있습니다.
   LABEL_CUSTOM_PLATFORM_FEEDBACK_DESCRIPTION_80_100: |
-    %s은 우리를 위해 너겟을 만들었습니다.
+    %s이(가) 우리에게 보물을 선사했습니다.
 
-    %s 는 차세대 콘솔입니다.
-    최신 게임을 실행할 수 있을 뿐만 아니라 미래도 밝습니다.
-    적절한 가격과 적절한 게임 카탈로그만 있다면 이 콘솔은 컬트가 될 수 있습니다.
+    %s은(는) 차세대 콘솔입니다.
+    최신 게임을 실행할 수 있을 뿐만 아니라 앞날도 밝습니다.
+    적절한 가격과 괜찮은 게임 카탈로그가 있다면 이 콘솔은 전설이 될 수 있습니다.
   LABEL_CUSTOM_PLATFORM_PERFECT_GPU: >
-    놀라운 그래픽 성능을 갖춘 놀라운 콘솔입니다.
+    숨이 멎을 듯한, 놀라운 그래픽 성능을 갖춘 콘솔입니다.
   LABEL_CUSTOM_PLATFORM_GOOD_GPU: >
     이 콘솔의 그래픽은 평균 수준입니다.
   LABEL_CUSTOM_PLATFORM_BAD_GPU: >
@@ -556,7 +555,7 @@ ko:
   LABEL_CUSTOM_PLATFORM_PERFECT_ONLINE: >
     지구 반대편에 있는 친구들과 인터넷으로 플레이할 수 있다는 것은 놀랍고 특별한 경험입니다.
   LABEL_CUSTOM_PLATFORM_GOOD_ONLINE: >
-    이 콘솔은 인터넷 연결이 가능한 콘솔이며, 이는 요즘 우리가 할 수 있는 최소한의 기능입니다.
+    이 콘솔은 인터넷 연결이 가능한 콘솔이며, 이는 요즘 기대할 수 있는 최소한의 기능입니다.
   LABEL_CUSTOM_PLATFORM_BAD_ONLINE: >
     인터넷 연결은 점점 더 중요해지고 있습니다. 판매에 영향을 미칠 것입니다.
   TOOLTIP_CUSTOM_PLATFORM_INVALID_MANUFACTURER: 콘솔 제조업체를 선택하세요.
@@ -567,10 +566,10 @@ ko:
     건물 [b]%s[/b]를 철거하려고 합니다.
     계속하시겠습니까?
   LABEL_CANCEL_GAME_AND_PORT_CONFIRM_DIALOG: |
-    [b]%s[/b]라는 게임과 모든 포트를 취소하려고 합니다.
+    [b]%s[/b]라는 게임과 지금까지 이식된 모든 버전을 취소하려고 합니다.
     정말 계속하시겠습니까?
   LABEL_CANCEL_GAMEPORT_CONFIRM_DIALOG: |
-    [b]%s[/b]의 콘솔 포팅을 [b]%s[/b]로 취소하려고 합니다.
+    [b]%s[/b]의 [b]%s[/b] 콘솔 이식을 취소하려고 합니다.
     정말 계속하시겠습니까?
   LABEL_CANCEL_FREE_UPDATE_CONFIRM_DIALOG: |
     [b]%s[/b]의 무료 업데이트를 취소하려고 합니다.
@@ -579,19 +578,19 @@ ko:
     [b]%s[/b]를 취소하려고 합니다.
     계속하시겠습니까?
   LABEL_PUBLISHER_DONT_GET_TIPS_OR_FANS: >
-    퍼블리셔는 게임 리포트로부터 팁을 얻지 못하고 팬도 얻지 못합니다.
+    퍼블리셔는 사후분석 보고서로부터 팁을 얻지 못하고 팬도 얻지 못합니다.
     하지만 팬을 잃는 것도 아닙니다.
   LABEL_CANNOT_HIRE_AND_ASSIGN: |
-    직원을 고용하고 배정하려면 사용 가능한 사무실이 필요합니다.
+    직원을 고용하고 배정하려면 빈 책상이 필요합니다.
   LABEL_DEMOLISH_STUDIO_DESCRIPTION: |
-    사무실 [b]%s[/b]]를 철거하려고 합니다.
+    스튜디오 [b]%s[/b]을(를) 철거하려고 합니다.
     계속하시겠습니까?
   LABEL_CURRENT: 현재
   LABEL_MAXIMUM: 최대
   LABEL_PLATFORM_GENERATION: 세대
-  LABEL_MODS_NOT_LOADED: 일부 모드가 로드되지 않습니다.
+  LABEL_MODS_NOT_LOADED: 일부 모드가 로드되지 않았습니다
   LABEL_MOD_LOADING: 모드 로드 중... (%s / %s)
-  LABEL_MOD_LOADED: 모드가 로드되었습니다. (%s / %s)
+  LABEL_MOD_LOADED: 모드 로드 완료 (%s / %s)
   LABEL_IN_GAME_ACHIEVEMENT: 업적 비활성화
   LABEL_REACH_YEAR: "%s년에 도달하기"
   LABEL_NUMBER_SERVER: 서버 수
@@ -608,11 +607,11 @@ ko:
   LABEL_PANT_COLOR: 바지 색상
   LABEL_SHOES_COLOR: 신발 색상
   LABEL_PUBLISHED_SAME_COMBO_TOO_FAST: |
-    이미 [b]%s[/b]개월 이내에 [b]%s-%s[/b] 게임을 퍼블리싱한 적이 있습니다.
+    [b]%s-%s[/b] 게임을 출시한 지 [b]%s[/b]개월도 지나지 않았습니다.
     동일한 게임을 만들면 이미 새롭고 신선한 게임을 기대하는 비평가들의 분노를 사게 될 위험이 있습니다.
   TOOLTIP_GAME_GENRE_EAGER_NEW_GENRE: |
     이 스튜디오의 직원들은 더 이상 "%s"라는 장르의 게임을 만들고 싶어하지 않습니다.
-    대신 새로운 게임 장르를 만들고 싶어 합니다.
+    대신 새로운 게임 장르에 도전하고 싶어 합니다.
 
     "%s" 장르의 게임을 만들면 지루해질 것입니다.
     따라서 생산성이 떨어지고 휴가를 더 자주 가게 될 것입니다.
@@ -621,7 +620,7 @@ ko:
   LABEL_GENRE_INTEREST: 선택한 게임 장르에 대한 관심
   LABEL_POPUP_ANIMATION: 팝업 애니메이션
   LABEL_TRANS_SINE: Sine
-  LABEL_TRANS_EXPO: 엑스포
+  LABEL_TRANS_EXPO: Expo
   LABEL_TRANS_CUBIC: Cubic
   LABEL_TRANS_QUAD: Quad
   LABEL_TRANS_BOUNCE: Bounce
@@ -632,112 +631,122 @@ ko:
   LABEL_TRANS_BACK: Back
   LABEL_TRANS_CIRC: Circ
   TOOLTIP_MAXIMUM_MORTGAGE_AVAILABLE: |
-    최대 %s$까지 빌릴 수 있습니다.
+    최대 $%s까지 빌릴 수 있습니다.
   LABEL_FURNITURES: 가구
-  LABEL_UI_DESIGNER: UI Designer
+  LABEL_UI_DESIGNER: UI 디자이너
   TOOLTIP_AUTOFURNISH_MODE: |
     사무실에 자동으로 가구를 배치하는 방법과 수동으로 가구를 배치하는 방법 중에서 선택하세요.
   LABEL_GAUGE_GOOD: |
-    이 게이지에 적합한 워크로드를 할당했습니다.
+    이 게이지에 적합한 작업 부하를 할당했습니다.
   LABEL_GAUGE_OK: |
     이 게이지의 작업 부하를 개선할 수 있습니다.
   LABEL_GAUGE_POOR: |
     이 게이지에 필요한 작업 부하를 잘못 추정했습니다.
-  LABEL_BACKWARD_COMPATIBILITY: 뒤로 호환성
+  LABEL_BACKWARD_COMPATIBILITY: 하위 호환성
   TOOLTIP_BACKWARD_COMPATIBILITY: |
-    뒤로 호환성을 가진 콘솔을 만들기 위해서는, 동일한 종류의 콘솔을 이미 만들어 놓아야 합니다.
-    이것은, 핸드헬드 콘솔을 만들고 뒤로 호환성을 가지게 하고 싶다면, 이전에 만든 핸드헬드 콘솔이 필요함을 의미합니다.
-    이것은 이전에 설계한 동일한 종류의 콘솔과 뒤로 호환됩니다.
+    하위 호환 콘솔을 만들려면 같은 종류의 콘솔을 이미 만든 적이 있어야 합니다.
+    즉, 휴대용 콘솔을 만들고 하위 호환성을 갖추고 싶다면
+    이전에 만든 휴대용 콘솔이 있어야 합니다.
+    새 콘솔은 직접 설계한 같은 종류의 마지막 콘솔과 하위 호환됩니다.
 
-    이전 콘솔과 호환되므로 이전 콘솔의 게임을 더 빠르고 쉽게 포팅할 수 있습니다.
-    반면, 현재 콘솔을 달성하려면 많은 개발 지점이 필요합니다.
+    하위 호환성이 있으면 이전 콘솔의 게임을 더 빠르고 더 잘 이식할 수 있습니다.
+    반면 현재 콘솔을 완성하려면 많은 개발 포인트가 필요합니다.
 
-    이전에 같은 장르의 콘솔을 릴리스하지 않은 경우 콘솔을 이전 버전과의 호환성을 만들 수 없습니다.
-  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: 좋은 업데이트!
+    같은 종류의 콘솔을 출시한 적이 없다면 하위 호환 콘솔을 만들 수 없습니다.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_TITLE: 업데이트해 주세요!
   LABEL_EVENT_GAME_NEEDS_UPDATE_ASK_DESCRIPTION: |
-    안녕하세요 [b]%s[/b],
+    안녕하세요, [b]%s[/b]님.
 
-    [b]%s[/b]를 중심으로 구축된 작은 커뮤니티가 있습니다.
-    그들은 팁을 공유하고 귀하의 회사 뉴스를 추적하며, [b]%s[/b]의 뉴스를 기다립니다.
+    저희는 [b]%s[/b]을(를) 중심으로 모인 작은 커뮤니티입니다.
+    저희는 팁을 공유하고 귀사의 소식을 지켜보며 [b]%s[/b]의 새 소식을 손꼽아 기다리고 있습니다.
 
-    당신이 [b]%d 개월[/b] 동안 업데이트를 게시하면 그들은 받아들일 것입니다!
-  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: 대단한 업데이트!
+    앞으로 [b]%d개월[/b] 안에 업데이트를 내주신다면 정말 기뻐할 거예요!
+  LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_TITLE: 훌륭한 업데이트!
   LABEL_EVENT_GAME_NEEDS_UPDATE_DONE_DESCRIPTION: |
-    팬들의 기대를 충족하는 당신에게 카두스를.
+    팬들의 기대에 부응하셨군요. 축하드립니다.
 
-    팬들은 이 업데이트로 기쁩니다! 그들은 주변에서 소식을 전파하며, [b]%s[/b] 주변의 기쁨을 증폭시킵니다.
-    이는 매출에 영향을 줄 것입니다. 대단한 일, 당신은 자신에 대해 자랑스러울 수 있습니다.
-  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: 너무 늦었어...
+    팬들이 이번 업데이트에 열광하고 있습니다!
+    주변에 입소문을 내며 [b]%s[/b]에 대한 열기를 키우고 있으니, 판매에도 영향을 줄 것입니다.
+
+    훌륭합니다. 스스로를 자랑스러워하셔도 됩니다.
+  LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_TITLE: 너무 늦었습니다...
   LABEL_EVENT_GAME_NEEDS_UPDATE_CANCEL_DESCRIPTION: |
     [b]%s[/b]는 몇 개월 전에 발매되었습니다.
-    게임 주변의 모멘텀은 약화되었고, 그동안 다른 유사한 게임들이 발매되었습니다.
+    게임에 대한 열기는 식었고, 그동안 다른 유사한 게임들이 발매되었습니다.
 
     이 기회를 놓치셨습니다. 다음 기회를 놓치지 마십시오.
-  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: 시리즈는 언제야?
+  LABEL_EVENT_GAME_SEQUEL_ASK_TITLE: 속편은 언제 나오나요?
   LABEL_EVENT_GAME_SEQUEL_ASK_DESCRIPTION: |
-    [b]%s[/b] 씨,
+    [b]%s[/b]님께,
 
-    저와 친구들은 [b]%s[/b]를 사랑합니다! 저희는 [b]%s[/b] 년 동안 플레이해왔습니다. 그리고 저희는 여러분들이 시리즈를 만들어주길 바랍니다!
+    저는 친구들과 [b]%s[/b]을(를) 정말 즐겨 하고 있어요!
+    벌써 [b]%s[/b]년 넘게 플레이하고 있는데, 속편을 만들어 주셨으면 좋겠어요!
 
-    저희는 이 게임을 절대 사랑합니다. 그리고 앞으로도 플레이 할 것입니다! 그러나 지금 시리즈를 만들어주시면 저희는 구입하고 친구들에게 추천할 것입니다.
+    저희는 이 게임을 정말 사랑하고, 앞으로도 몇 년은 더 할 거예요!
+    그래도 지금 속편을 만들어 주시면 사서 친구들에게도 알릴게요!
 
-    그러니, 시리즈를 만들어 주세요! 저희는 여러분의 재능에 큰 기대를 가지고 있습니다.
+    그러니 제발 속편을 만들어 주세요!
+    여러분은 재능이 넘치니 실망시킬 리 없어요!
 
     The Cellar Player
-  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: 시리즈?!
+  LABEL_EVENT_GAME_SEQUEL_GET_SAD_TITLE: 속편이라고?!
   LABEL_EVENT_GAME_SEQUEL_GET_SAD_DESCRIPTION: |
-    [b]%s[/b]를 플레이 한 저와 친구들은 정말 실망합니다. 이 게임은 원래 게임과는 아무런 상관이 없습니다!
+    정말 문자 그대로 실망했어요. 저와 친구들 모두 [b]%s[/b]을(를) 해봤는데 원작과는 전혀 딴판이에요!
 
-    그래도 우리는 이 게임을 구매하고 완료했지만, 더 좋은 품
-  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s는 대단해!"
+    그래도 사긴 샀고 끝까지 하긴 했지만, 더 완성도 높은 게임이었으면 좋았을 거예요.
+
+    The Cellar Player
+  LABEL_EVENT_GAME_SEQUEL_GET_OK_TITLE: "%s, 최고예요!"
   LABEL_EVENT_GAME_SEQUEL_GET_OK_DESCRIPTION: |
-    우리가 항상 원했던 것과 똑같습니다! 이것은 훌륭한 시리즈입니다! 저는 친구들과 이것에 대해 이야기했고, 저는 이 게임을 아주 많이 플레이할 것 같습니다.
+    저희가 늘 원하던 바로 그거예요! 환상적인 속편이에요!
+    친구들과 이야기를 나눴는데, 이 게임은 정말 많이 하게 될 것 같아요.
 
-    [b]%s[/b]는 우리의 기대를 충족시켰습니다. 그리고 솔직히, 매우 감사합니다!
+    [b]%s[/b]은(는) 저희의 기대에 부응했어요. 솔직히 정말 감사합니다!
 
     The Cellar Player
-  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: 대단하다!!
+  LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_TITLE: 믿을 수 없어요!!
   LABEL_EVENT_GAME_SEQUEL_GET_HAPPY_DESCRIPTION: |
-    [b]%s[/b]는 놀라운 것입니다!
+    [b]%s[/b], 숨이 멎을 정도예요!
 
-    그래픽, 게임플레이, 음악, 모든 것이 완벽합니다.
-    게임 만드는 기술에서 저희는 정말 숙련해졌습니다!
+    그래픽, 게임플레이, 음악, 모든 게 완벽해요.
+    여러분은 게임 제작의 달인이 되셨어요!
 
-    누구나 이 시리즈에 대해 만족합니다. 사실, 저는 이것을 10번 구매해서 내 가까운 친구들과 가족에게 선물했습니다!
+    다들 이번 속편에 너무 만족하고 있어요. 사실 저는 가까운 친구들과 가족에게 선물하려고 10개나 샀어요!
 
-    당신들은 최고입니다!
-    대단히 감사합니다!
+    여러분이 최고예요!
+    정말 고마워요!
 
     The Cellar Player
-  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s은 유행합니다."
+  LABEL_EVENT_GAME_THEME_TRENDING_TITLE: "%s 유행 중"
   LABEL_EVENT_GAME_THEME_TRENDING_DESCRIPTION: |
-    안녕하세요 [b]%s[/b],
+    안녕하세요, [b]%s[/b]님.
 
-    [b]%s[/b]의 발매는 현재 추세에서 진짜 파국입니다.
-    사람들은 그것을 더 많이 원합니다. 그들은 "[b]%s[/b]"의 게임을 절대로 원합니다.
+    [b]%s[/b]의 출시는 현재 트렌드에서 진정한 돌파구입니다.
+    사람들은 더, 더, 더 많이 원합니다. 다들 "[b]%s[/b]" 게임을 간절히 원하고 있습니다.
 
-    이것은 새로운 추세이며 오래 가지 않을 것입니다. 빨리 이것을 이용하는 것이 좋습니다.
-  LABEL_PLATFORM_NEWS: 게임기 뉴스
+    새로운 트렌드지만 오래가지는 않을 테니, 서둘러 활용하는 것이 좋습니다.
+  LABEL_PLATFORM_NEWS: 플랫폼 뉴스
   LABEL_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: 온라인 게임으로 인한 부하
-  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: 비물질화 저장소로 인한 부하
+  LABEL_SERVER_LOAD_FROM_DIGITAL_STORE_ONLY: 디지털 스토어로 인한 부하
   TOOLTIP_SERVER_LOAD_FROM_ONLINE_GAMES_ONLY: |
-    비물질화된 저장소에 게시되지 않은 게임에서 생성된 서버 부하만 포함합니다.
+    디지털 스토어에 출시되지 않은 게임에서 발생하는 서버 부하만 포함합니다.
 
-    따라서 온라인 상점에 게시된 많은 온라인 게임은 여기에 포함되지 않고 비물질화된 상점의 로드에 직접 포함됩니다.
+    따라서 디지털 스토어에 출시된 온라인 게임의 부하는 여기에 포함되지 않고,
+    디지털 스토어의 부하에 직접 포함됩니다.
   LABEL_PAID_UPDATE_SALES: DLC 판매
   LABEL_CUSTOMPLATFORM_EDIT_CONSOLE_CASE: 콘솔 색상 편집
   LABEL_EVENT_LAST_YEAR_INVITATION_TITLE: 연말 갈라
   LABEL_EVENT_LAST_YEAR_INVITATION_DESCRIPTION: |
-    친애하는 [b]%s[/b],
+    친애하는 [b]%s[/b]님께,
 
-    독립 게임 개발자 형제단이 연말 갈라에 여러분을 초대하게 된 것을 기쁘게 생각합니다. 귀하의 회사를 [b]%s[/b]로 평가하고 그 점수를 결정하여 전 세계 리더보드에 업로드합니다.
-    곧 다시 만나요.
+    독립 게임 개발자 협회가 연말 갈라에 귀하를 초대하게 되어 기쁩니다. 귀하의 회사 [b]%s[/b]을(를) 평가하고, 그 점수를 확정하여 세계 리더보드에 등록할 예정입니다.
+    조만간 다시 뵙겠습니다.
 
     추신:
-    게임은 올해 말에 끝납니다. 해당 날짜 이후에도 계속 플레이할 수 있지만 더 이상 새 콘솔이나 새 구성 요소가 없습니다.
+    게임은 올해 말에 끝납니다. 그 이후에도 계속 플레이할 수 있지만 새로운 콘솔이나 부품은 더 이상 나오지 않습니다.
   LABEL_PINBALL_CITY_GAME_STUDIO: 핀볼 City Game Studio
   LABEL_PINBALL_SNEAK_IN: 핀볼 Sneak In
-  LABEL_SUBMIT_TO_ALL_COMPETITORS: 나머지 모든 경쟁업체에 문의하십시오.
+  LABEL_SUBMIT_TO_ALL_COMPETITORS: 남은 모든 경쟁사에 연락
   LABEL_COVID_EVENT: |
     이상한 바이러스가 나타났습니다. 감염된 사람들은 약 50가지의 다양한 증상 중 기침과 심한 열로 고통받고 있습니다.
     현기증이 날 정도로 빠른 속도로 확산되고 있습니다. 이 새로운 바이러스에 직면하여 전 세계 정부들은 과감한 조치를 취하고 시민들에게 집에 머물 것을 권고하고 있습니다.
@@ -746,8 +755,9 @@ ko:
     이는 모든 게임의 판매에 긍정적인 영향을 미칩니다. [b]향후 24개월 동안[/b] [b]판매 증가[/b]가 예상됩니다.
   LABEL_COVID_EVENT_ANNOUNCEMENT: 판매 증가 전망
   LABEL_GRANTENDO_DENY_PARTNERSHIP: Grantendo/Deny 파트너십
-  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT:  |
-    이는 무엇을 의미할까요? 바로 [b]Super Grantendo[/b]용 CD-ROM입니다! [b]Grantendo[/b]는 1993년 1월에 [b]Super Grantendo[/b]와 함께 사용하기 위한 CD-ROM 드라이브가 출시될 것이라고 발표했습니다. 그 직후 [b]Grantendo[/b]의 타사 라이선스 개발자는 새 드라이브에 대한 기술 사양을 받고 새로운 하드웨어를 설명하는 회의에 초대되었습니다. 여기에서 전체 화면, 전체 모션 비디오, XA 호환성 및 장치의 8메가 메모리를 포함한 [b]Super Grantendo[/b] CD-ROM 드라이브의 뛰어난 기능에 대해 배울 것입니다. 그러나 당신이 엔지니어가 아닌 이상 그 기술 용어의 대부분은 별로 의미가 없을 수 있습니다.
+  LABEL_GRANTENDO_DENY_PROTOTYPE_ANNOUNCEMENT: |
+    소식이 들어왔습니다. 바로 [b]Super Grantendo[/b]용 CD-ROM입니다! [b]Grantendo[/b]는 [b]Super Grantendo[/b]용 CD-ROM 드라이브를 1993년 1월에 선보일 것이라고 발표했습니다. 그 직후 [b]Grantendo[/b]의 서드파티 라이선스 개발사들은 새 드라이브의 기술 사양을 받았고, 새 하드웨어를 자세히 설명하는 콘퍼런스에 초대받았습니다. 그곳에서 이들은 풀스크린 풀모션 비디오, XA 호환성, 8MB 램 등 Super GES CD-ROM 드라이브의 뛰어난 기능에 대해 알게 될 것입니다. 하지만 엔지니어가 아니라면 이런 기술 용어 대부분은 별 의미가 없을지도 모릅니다.
+
     [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
   LABEL_GRANTENDO_DENY_PROTOTYPE_CANCELATION:  |
     [b]Deny[/b]가 [b]Grantendo[/b]와 전자 게임기 제작 계약을 발표한 지 하루 만에 [b]Grantendo[/b]는 [b]Deny[/b]의 주요 라이벌 중 하나인 [b]Moris[/b]와 계약을 체결했다고 발표했습니다.
@@ -759,85 +769,91 @@ ko:
     [b]Deny[/b]는 [b]GameStation[/b]용 컴팩트 디스크에 자체 게임을 출시할 계획입니다. [b]Moris[/b] 발표와 [b]Grantendo[/b]와 [b]Deny[/b]의 관계에 대한 혼란은 [b]Grantendo[/b]가 오랫동안 계획했던 인기 있는 비디오 게임 시스템의 보다 강력한 버전 도입을 무색하게 만들었습니다.
     
     [center][img]res://texture/platforms/512x261/grantendo-gamestation.tex[/img][/center]
-  LABEL_SAGA_PROTYPE_VR: Saga, 최초의 VR 콘솔 출시
+  LABEL_SAGA_PROTYPE_VR: Saga, 최초의 VR 콘솔 발표
   LABEL_SAGA_RV_ANNOUNCEMENT: |
     가상 현실.
 
-    컴퓨터 운영자가 자신을 인공 환경에 투입한다는 공상 과학 개념에서 시작한 이 개념은 마케팅 커뮤니티에서 가상 현실(또는 VR)이라는 용어로 채택되었으며 가상 게임 센터에서 최신 1인칭 시점까지 다양하게 적용되었습니다. 일부 게이머들은 최소한이라도 플레이어를 둘러싼 것처럼 보이고 상호 작용할 수 있는 3D 시청각 환경 정도는 제공해야 한다고 주장합니다.
+    컴퓨터 사용자가 인공 환경에 몰입한다는 공상 과학 개념에서 출발한 가상 현실(VR)이라는 용어는 마케팅 업계에서 채택되어, 가상 게임 센터부터 최신 1인칭 게임까지 정도의 차이는 있지만 온갖 것에 적용되어 왔습니다. 순수주의자들은 최소한 플레이어를 둘러싸는 것처럼 보이고 플레이어가 상호작용할 수 있는 3D 시청각 환경을 제공해야 한다고 주장합니다.
 
     [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
 
-    [b]Saga[/b]는 콘솔 시스템과 함께 사용할 VR 헬멧을 작업 중이라고 발표했습니다. 현재 1993년 봄에 출시될 예정입니다. 모션 센서 및 장갑, 주변 비디오 및 다중 소스 사운드가 있는 챔버를 포함하여 훨씬 더 정교하고 비용이 많이 드는 시스템이 개발 중에 있습니다. 당분간 게임 커뮤니티는 집에서 고글과 이어폰으로 정착해야 할 수 있습니다.
+    [b]Saga[/b]는 자사 콘솔 시스템용 VR 헬멧을 개발 중이라고 발표했습니다. 현재 [b]1993년 봄[/b] 출시 예정입니다. 모션 센서와 장갑, 주변 영상과 다중 음원을 갖춘 챔버 등 훨씬 정교하고 비싼 시스템도 개발 중입니다. 당분간 게이머들은 집에서 고글과 이어폰으로 만족해야 할 것입니다.
   LABEL_SAGA_RV_VANISHES: |
-    여러 잡지와 수많은 무역 박람회에서 소개된 후 헤드셋은 1993년에 마지막으로 등장했습니다. 이 헤드셋은 완전히 낙담한 청중에게 비공개로 공개되었으며 한 저널리스트 작가는 자신이 플레이한 게임을 모호한 게임으로 설명했습니다. 순식간에 모든 호소력을 잃었습니다.
+    여러 잡지와 수많은 전시회에서 소개된 후, 이 헤드셋은 1993년에 마지막으로 모습을 드러냈습니다. 비공개로 시연되었지만 관객들은 크게 실망했고, 한 기자는 자신이 해본 게임을 반응이 느리고 흐릿해서 금세 흥미를 잃게 되는 게임이라고 묘사했습니다.
 
-    전체 프로젝트는 프로토타입 단계 이상으로 진행되지 않았으며 [b]Saga[/b]는 공식적으로 사용자가 헤드셋을 착용한 상태로 이동하여 부상을 당하여 중단되었다고 공식적으로 주장했습니다. 그들은 몰입감이 너무 현실적이어서 게임을 하는 아이들에게 잠재적으로 부상을 입힐 수 있다고 말했습니다. 그러나 10분 이상 콘솔을 플레이해 본 사람이라면 하드웨어의 한계를 감안할 때 이것이 불가능하다는 것을 알고 있습니다. 가장 가능성이 높은 시나리오는 아마도 만족스러운 효과를 낼 수 없는 부대와 관련되었을 것입니다. 테스터가 게임을 하는 동안 멀미가 난다는 보고가 있었고 개발 중 사용자의 최대 40%%가 "사이버 멀미"를 겪었습니다. 발표된 4개의 게임 중 어느 것도 대중에게 공개되지 않았으며 다른 타이틀도 발표되지 않았습니다.
+    프로젝트 전체가 프로토타입 단계를 넘어서지 못했으며, [b]Saga[/b]는 사용자가 헤드셋을 쓴 채 움직이다 다치는 문제로 중단했다고 공식 발표했습니다. 몰입감이 너무 사실적이어서 어린이가 다칠 수 있다는 것이었습니다.
 
-    그들이 약속한 실제와 같은 몰입감을 만들 수 없었던 [b]Saga[/b]는 1994년 현명하게 플러그를 뽑았고 [b]Saga VR[/b]은 조용히 사라졌습니다.
-  
+    하지만 이 콘솔을 10분 이상 해본 사람이라면 하드웨어의 한계상 그것이 불가능하다는 것을 압니다. 가장 가능성 있는 이유는 기기가 만족스러운 효과를 내지 못했기 때문일 것입니다. 테스터들이 플레이 중 멀미를 했다는 보고가 있었고, 개발 중 사용자의 최대 40%%가 "사이버 멀미"를 겪었습니다. 발표된 4개의 게임은 끝내 공개되지 않았고 다른 타이틀도 발표되지 않았습니다. 약속했던 진짜 같은 몰입감을 구현하지 못한 [b]Saga[/b]는 1994년 현명하게 프로젝트를 접었고, [b]Saga[/b] VR은 조용히 잊혀졌습니다.
+
     [center][img]res://texture/platforms/512x261/saga-rv.tex[/img][/center]
   LABEL_MINI_GAMES_FX: 미니게임 시각 효과
   LABEL_RESTART_REQUIRED: 재시작 필요
-  LABEL_DARK_MODE: 어두운 테마
+  LABEL_DARK_MODE: 다크 테마
   LABEL_LAST_12_MONTHS: 지난 12개월
-  LABEL_GOTY_PROBABILITY: Game of the Year
-  LABEL_EVENT_STOCK_YEARLY_TITLE: 배당금 지급 통지서
+  LABEL_GOTY_PROBABILITY: 올해의 게임 수상 확률
+  LABEL_EVENT_STOCK_YEARLY_TITLE: 연간 배당금 지급
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION: |
     [b]%s[/b] 귀하
 
-    이번 분기 배당내역을 통지하오니, 아래의 세부내용을 참고하시기 바랍니다.
+    매년 이맘때와 마찬가지로
+    주주 여러분께 배당금을 지급하게 되어 매우 기쁩니다.
 
     %s
 
-    원천징수세액 $[b]%s[/b]를 제외한 $[b]%s[/b]를 현금 지급합니다.
+    배당금에는 세금이 따르며,
+    배당금에서 $[b]%s[/b]의 세금이 공제되어
+    세후 $[b]%s[/b]을(를) 받으시게 됩니다.
 
-    City Game Studio 증권거래소
-    증권대행부
+    좋은 하루 보내세요.
+    Binogure
   LABEL_EVENT_STOCK_YEARLY_DESCRIPTION_ITEM: |
-    ‣[b]%s[/b], 소유 주식 평가액: $ [b]%s[/b], 소유 주식 수: [b]%s[/b]
+    ‣ [b]%s[/b]: 주주로서 [b]%s[/b]주를 보유하고 있으며, 이를 통해 $[b]%s[/b]을(를) 받습니다.
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION_EXTEND: |
     [i]소유 주식 수: [b]%s[/b], 회사명: [b]%s[/b], 주식 매도액: $[b]%s[/b][/i]
     [i]1주당 평가액 $[b]%s[/b][/i]
-  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s의 %s 주식 매수 제안"
+  LABEL_EVENT_STOCK_CONCURRENT_BUY_TITLE: "%s, %s 인수 희망!"
   LABEL_EVENT_STOCK_CONCURRENT_BUY_DESCRIPTION: |
     [b]%s[/b] 귀하
 
-    당사는 귀하가 50%%의 주식을 소유한 [b]%s[/b]의 인수합병을 추진하고 있으며,
-    귀하가 소유한 주식을 합리적인 가격에 매수하고자 합니다.
+    당사는 [b]%s[/b]의 인수를 추진하고 있습니다. 그런데 현재 귀하가 이 회사 주식의 50%% 이상을 보유하고 있습니다.
+    귀하의 사전 동의 없이는 당사가 주식을 취득할 수 없습니다.
 
-    당사는 [b]%s[/b]$로 평가되는 귀하의 주식을 [b]%s[/b]$에 매수할 용의가 있으며,
-    이 거래를 통해 귀사는 현금을, 당사는 [b]%s[/b]의 경영권을 얻을 것입니다.
+    당사가 후한 조건을 제시하고 있다는 점을 알아주시기 바랍니다.
+    현재 귀하의 주식 가치는 $[b]%s[/b]이며, 당사는 이 주식에 $[b]%s[/b]을(를) 지불할 용의가 있습니다.
+    귀하는 큰돈을 벌고, 당사는 [b]%s[/b]을(를) 경영하기만 하면 됩니다.
 
-    만약 귀하가 당사의 제안을 거절하면 민사소송을 진행할 예정이며.
+    좋게 보면 상대해야 할 경쟁사가 하나 줄어드는 셈입니다.
 
-    [i]당사의 최종 제안이며 추가적인 협상은 없습니다.[/i]
-    [i]현재 귀하의 은행 잔고는 [b]%s[/b]$입니다.[/i]
-  BUTTON_ORDER_SENT: 주문 체결
-  LABEL_STOCK_MARKET: 투자자산
-  LABEL_CONCURRENT_BUY_STOCK: 증권 거래소
-  LABEL_TRADING_PANEL: 주요 시세정보
+    만에 하나 매각을 원하지 않으신다면 법정에 갈 준비가 되어 있습니다.
+
+    [i]이것이 최종 제안이며 협상은 없습니다.[/i]
+    [i]현재 은행 잔고는 $[b]%s[/b]입니다.[/i]
+  BUTTON_ORDER_SENT: 주문 전송됨
+  LABEL_STOCK_MARKET: 주식 시장
+  LABEL_CONCURRENT_BUY_STOCK: 경쟁사 주식 매수
+  LABEL_TRADING_PANEL: 거래 패널
   LABEL_STOCKS_QUANTITY_TO_BUY: 매수할 주식 수량
   LABEL_STOCKS_QUANTITY_TO_SELL: 매도할 주식 수량
-  LABEL_STOCKS_COSTS: 소유 주식 취득원가
+  LABEL_STOCKS_COSTS: 주당 가격
   LABEL_STOCKS_OWNED: 소유 주식 수
   LABEL_STOCKS_VALUE: 소유 주식 평가액
   LABEL_STOCKS_QUANTITY: 주식 수
-  LABEL_STOCKS_BUY_PRICE: 주식 매수액
-  LABEL_STOCKS_SELL_PRICE: 주식 매도액
+  LABEL_STOCKS_BUY_PRICE: 주당 매수 가격
+  LABEL_STOCKS_SELL_PRICE: 주당 매도 가격
   LABEL_TRADE_HELP: 도움말
-  LABEL_DEVKITS: 개발 도구
+  LABEL_DEVKITS: 개발 키트
   LABEL_NO_CONCURRENT_REMAINING: 경쟁사 없음
-  LABEL_END_OF_EXCLUSIVITY: 독점 개발 기간
-  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: 예상 독점 개발 게임 수
-  LABEL_NUMBER_OF_DEVKITS: 개발 도구 수
-  LABEL_NUMBER_OF_DEVKITS_REMAINING: 남은 개발 도구 수
+  LABEL_END_OF_EXCLUSIVITY: 독점 기간
+  LABEL_AMOUNT_EDITED_GAME_ESTIMATION: 예상 게임 수
+  LABEL_NUMBER_OF_DEVKITS: 개발 키트 수
+  LABEL_NUMBER_OF_DEVKITS_REMAINING: 남은 개발 키트 수
   LABEL_DEVKIT_TOOLTIP_DESCRIPTION: |
     개발 키트를 보내고 경쟁 스튜디오와 독점 계약을 협상하여 독점 게임을 확보하세요.
     강력한 게임 카탈로그는 콘솔의 성공을 직접적으로 촉진합니다 - 라이브러리가 다양하고 광범위할수록 판매가 더 강해집니다.
-  LABEL_EXCLUSIVITY_DURATION: 독점 계약 만료일
+  LABEL_EXCLUSIVITY_DURATION: 독점 기간
   LABEL_FILTER_NONE: 없음
-  LABEL_FILTER_ONLY_NO_CONTRACTS: 계약 안 함
-  LABEL_FILTER_ONLY_CONTRACTS: 계약함
+  LABEL_FILTER_ONLY_NO_CONTRACTS: 계약 없음
+  LABEL_FILTER_ONLY_CONTRACTS: 계약 있음
   TOOLTIP_ENTER_COMPANY_NAME: 회사 이름을 입력하세요
   TOOLTIP_ENTER_PLAYER_NAME: 이름을 입력하세요
   TOOLTIP_SELECT_DIFFICULTY: |
@@ -850,16 +866,16 @@ ko:
     원작과 최신 기술을 적절히 활용했습니다.
   LABEL_REMAKE_ENGINE_GOOD: >
     원작과 최신 기술의 완벽한 조화입니다.
-  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: 원작에 콘솔 지원을 위한 기능만 추가되었습니다.
-  LABEL_REMAKE_CPU_USAGE: CPU 연산력(원작)
-  LABEL_REMAKE_GPU_USAGE: GPU 연산력(원작)
+  LABEL_REMAKE_ORIGINAL_GAME_CONSOLE_CAPACITIES: 원작의 콘솔 성능 활용도
+  LABEL_REMAKE_CPU_USAGE: 원작의 CPU 사용률
+  LABEL_REMAKE_GPU_USAGE: 원작의 GPU 사용률
   LABEL_REMAKE_TOOLTIP: |
     리메이크에 적용할 신기술을 선택할 수 있으며,
     신기술을 적절히 적용하면 좋은 평점을 받을 수 있습니다.
-  LABEL_REMAKE_REVIEW: 사용자 평가
+  LABEL_REMAKE_REVIEW: 모든 평가
   LABEL_DEVELOPPER_NAME: 개발사
-  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: 매우 긍정적
-  LABEL_REMAKE_REVIEW_VERY_POSITIVE: 압도적으로 긍정적
+  LABEL_REMAKE_REVIEW_OVERWHELMINGLY_POSITIVE: 압도적으로 긍정적
+  LABEL_REMAKE_REVIEW_VERY_POSITIVE: 매우 긍정적
   LABEL_REMAKE_REVIEW_MOSTLY_POSITIVE: 대체로 긍정적
   LABEL_REMAKE_REVIEW_MIXED: 복합적
   LABEL_REMAKE_REVIEW_MOSTLY_NEGATIVE: 대체로 부정적
@@ -873,14 +889,16 @@ ko:
     이제 예전에 발매했던 게임을 리메이크할 수 있으며,
     리메이크작의 성패는 게임 엔진의 최신 기능에 달려있습니다.
   LABEL_TRAINING_REQUIRE_UNIVERSITY: |
-    사용할 수 있는 강의실이 없습니다.
+    직원을 교육하려면 연수원이 필요합니다.
 
-    연수원을 건설하여 강의실을 확보하십시오.
+    사용 가능한 연수원이 없으니 연수원을 건설하십시오.
   LABEL_TRAINING_REQUIRE_EMPLOYEE: |
-    선택된 직원이 없습니다.
+    직원을 한 명 이상 선택해야 합니다.
   LABEL_TRAINING_REQUIRE_CAPACITIES: |
     교육할 분야를 한 개 이상 선택해야 합니다.
-  LABEL_NEW_COMPETITOR_TITLE: 글로벌 게임사의 본사 이전 발표
+
+    (설계/개발 또는 마감)
+  LABEL_NEW_COMPETITOR_TITLE: 새로운 경쟁사 등장
   LABEL_NEW_COMPETITOR_DESCRIPTION: |
     [center][img]%s[/img][/center]
 
@@ -899,67 +917,67 @@ ko:
   LABEL_MINIGAME_DEFEND_START: |
     시작해 보자고!
   LABEL_MINIGAME_DEFEND_GIVEUP: |
-    포기하면 편해... 하지마...
+    그냥 내버려 둬!
   LABEL_MINIGAME_DEFEND_PAY: |
     [b]%s[/b]을(를) 지불하여 이 공격을 중단하고 향후 모든 공격을 차단
   LABEL_MINIGAME_LOSE: |
     크랙이 성공적으로 배포되었으며, 매출에 큰 타격이 있을 것으로 예상됩니다.
   LABEL_MINIGAME_DEFEND_WIN: |
     성공적으로 추가 보안패치를 완료했습니다.
-  BUTTON_CLICK_ME: 시작
+  BUTTON_CLICK_ME: 눌러 주세요
   LABEL_FIREWALL_SIMULATOR_TITLE: 보안패치 시뮬레이션
   LABEL_FIREWALL_SIMULATOR_DESCRIPTION: |
-    제시간에 보안패치를 적용하지 않으면 게임의 보안이 뚫립니다.
-    짧은 시간밖에 주어지지 않았지만
-    보안이 뚫리기 전에 파란 버튼을 클릭하여 패치를 적용하십시오!
+    목표는 게임을 지키는 것입니다. 그렇지 않으면 해킹당합니다.
+    이를 위해 파란 버튼을 0이 될 때까지 눌러 네트워크를 보호하십시오.
+
+    간단하지만 빨리 움직여야 합니다!
   LABEL_GAME_UPDATE_NB: 업데이트 수
   LABEL_GAME_UPDATE_LAST: 최근 업데이트일
   LABEL_SELLING_PRICE: 판매 가격
   LABEL_EMPLOYEE: 직원
   LABEL_MARKET_RESEARCH_NEW: 새로운 시장 조사
   TOOLTIP_REQUIRE_MARKETING_MANAGER: |
-    마케팅 관리자가 필요합니다.
-    마케팅 관리자의 능력이 뛰어날수록, 시장 조사 속도가 빨라집니다.
+    마케팅 책임자가 필요합니다.
+    마케팅 책임자의 능력이 뛰어날수록, 시장 조사 속도가 빨라집니다.
   LABEL_MARKET_RESEARCH: 시장 조사
   LABEL_MARKET_RESEARCH_TYPE: 시장 조사 유형
   LABEL_GAME_TYPE_LIST: 장르 목록
   LABEL_MARKET_RESEARCH_TARGET_AUDIENCE: 목표 고객 조사
   LABEL_MARKET_RESEARCH_NONE: 진행 중인 시장 조사가 없음
-  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: 교육 완료
+  LABEL_UNIVERSITY_TRAINING_ENDED_TITLE: 강의실 사용 가능
   LABEL_UNIVERSITY_TRAINING_ENDED_DESCRIPTION: |
-    축하드립니다. 직원의 교육이 완료되었습니다.
-  LABEL_UNIVERSITY_TRAINING: 교육중
-  LABEL_UNIVERSITY_LECTURE_HALL_NAME: 강의실명
+    축하드립니다. 교육이 방금 끝났습니다.
+    새 교육을 진행할 수 있는 빈 강의실이 하나 이상 있습니다.
+  LABEL_UNIVERSITY_TRAINING: 교육
+  LABEL_UNIVERSITY_LECTURE_HALL_NAME: 강의실
   LABEL_UNIVERSITY_SIT: 최대 교육 인원
   LABEL_UNIVERSITY: 연수원
-  LABEL_UNIVERSITY_MANAGE_TRAINING: 직원교육
+  LABEL_UNIVERSITY_MANAGE_TRAINING: 교육 관리
   LABEL_UNIVERSITY_TRAINING_TYPE: 교육 유형
-  LABEL_UNIVERSITY_LECTURE_HALL: 사용할 수 있는 강의실
+  LABEL_UNIVERSITY_LECTURE_HALL: 강의실 수
   LABEL_UNIVERSITY_AUTOTRAINING: 자동 교육
   LABEL_UNIVERSITY_ABANDON: 건물 포기
   LABEL_UNIVERSITY_DESTROY: 건물 파괴
   LABEL_UNIVERSITY_GLOBAL_TRAINING: 종합교육
   LABEL_UNIVERSITY_SPECIFIC_TRAINING: 집중교육
   LABEL_UNIVERSITY_TRAINING_LIST: 강의 목록
-  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: 개설된 강의가 없습니다.
+  LABEL_UNIVERSITY_TRAINING_NO_TRAINING: 교육 없음
   LABEL_SOFA: 소파
   LABEL_MISC: 기타
   LABEL_MINUTES: 분
   LABEL_VIEW_MORE: 자세히 보기
   LABEL_GAME_INDUSTRY_NEWS: 게임산업 뉴스
-  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s이(가)  %s에 %s을(를) 합병"
+  LABEL_COMPETITOR_BUY_COMPETITOR_TITLE: "%s, %s을(를) %s에 인수 예정"
   LABEL_COMPETITOR_BUY_COMPETITOR_DESCRIPTION: |
-    [b]%s[/b]의 개발사인 [b]%s[/b]이(가) [b]%s[/b] 규모의 흡수합병을 진행한다고 발표했습니다.
+    [b]%s[/b]의 개발사 겸 퍼블리셔가 [b]%s[/b]에 [b]%s[/b] 규모로 인수되었습니다.
 
-    [b]%s[/b]는 피합병법인의 주식을 1주당 [b]%s[/b]에 매수하기로 결정했으며,
-    1분기 이내에 합병 절차가 완료될 예정입니다.
-
-    전문가들은 [b]%s[/b]의 경쟁력이 더욱 강화될 거라고 분석하고 있으며,
-    [b]%s[/b]의 CEO는 이번 흡수합병에 대해 다음과 같이 입장을 밝혔습니다.
-
+    [b]%s[/b]은(는) 피인수 법인의 주식을 1주당 [b]%s[/b]에 매수하기로 했으며,
+    1분기 이내에 인수 절차가 완료될 예정이라고 발표했습니다.
+    이번 인수로 [b]%s[/b] 산하의 게임 카탈로그가 늘어나게 됩니다.
+    [b]%s[/b]의 CEO는 이번 인수에 대해 다음과 같이 밝혔습니다.
     [indent]게임 산업은 계속 성장하고 있으며, 양사는 함께 새로운 엔터테인먼트 시대를 이끌어 나갈 것입니다.[/indent]
   LABEL_GAMEENGINE_NOT_ENOUGH: |
-    이 게임은 플랫폼의 연산력을 제대로 활용하지 못했습니다.
+    이 게임은 콘솔의 성능을 제대로 활용하지 못했습니다.
   LABEL_MARKETSHARE_KRASHING: >
     이 콘솔의 끔찍한 평판으로 인해 저조한 판매량이 기록되고 있습니다.
     앞으로 이 플랫폼과는 거리를 두는 편이 좋겠습니다.
@@ -967,21 +985,21 @@ ko:
     수익과 비용을 세부적으로 확인할 수
     있는 손익 계산서입니다.
   LABEL_LOSING_MONEY_DESCRIPTION_RENT: |
-    과도한 임차료 때문에, 재무건정성이 악화되고 있습니다.
+    과도한 임차료 때문에, 재무건전성이 악화되고 있습니다.
     건물 구입이나 스튜디오 폐쇄하는 방안을 고려해야 합니다.
   LABEL_LOSING_MONEY_DESCRIPTION_SALARY: |
-    과도한 급여 때문에, 재무건정성이 악화되고 있습니다.
+    과도한 급여 때문에, 재무건전성이 악화되고 있습니다.
     인력을 구조조정하는 방안을 고려해야 합니다.
   LABEL_LOSING_MONEY_DESCRIPTION_MAINTENANCE: |
-    과도한 자판기 유지비 때문에, 재무건정성이 악화되고 있습니다.
+    과도한 자판기 유지비 때문에, 재무건전성이 악화되고 있습니다.
   LABEL_LOSING_MONEY_DESCRIPTION_SERVER: |
-    과도한 서버 유지비 때문에, 재무건정성이 악화되고 있습니다.
+    과도한 서버 유지비 때문에, 재무건전성이 악화되고 있습니다.
     불필요한 서버를 매각하는 방안을 고려해야 합니다.
   LABEL_LOSING_MONEY_DESCRIPTION_MARKETING: |
-    과도한 마케팅 홍보비 때문에, 재무건정성이 악화되고 있습니다.
+    과도한 마케팅 홍보비 때문에, 재무건전성이 악화되고 있습니다.
     마케팅 홍보활동과 전시회 참가 계획을 재검토해야 합니다.
   LABEL_LOSING_MONEY_DESCRIPTION_MORTGAGE: |
-    과도한 대출 때문에, 재무건정성이 악화되고 있습니다.
+    과도한 대출 때문에, 재무건전성이 악화되고 있습니다.
     대환대출을 하는 방안을 고려해야 합니다.
   LABEL_LOSING_MONEY_HARD: >
     현재 적자가 발생하고 있으며, 자세한 내용은 손익 계산서를 통해 확인할 수 있습니다.
@@ -990,13 +1008,13 @@ ko:
     성능이 부족한 플랫폼입니다.
   BUTTON_RELEASE_ALL: 모두 발매
   TOOLTIP_RELEASE_ALL_BUTTON: |
-    개발이 완료된 모든 게임과
+    출시 준비가 끝난 모든 게임, 계약,
     콘솔을 발매합니다.
-  LABEL_PLATFORM_LIST_GAME: 플랫폼에 유통 중인 게임 목록
-  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: 출시 예정 구성 요소
+  LABEL_PLATFORM_LIST_GAME: 비디오 게임 목록
+  LABEL_PLATFORM_COMPONENT_ANNOUNCE_UPCOMING_TITLE: 출시 예정 부품
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_TITLE: 제조 뉴스
   LABEL_PLATFORM_COMPONENT_ANNOUNCE_DESCRIPTION: |
-    [b]%s[/b] 귀하
+    %s 귀하
 
     귀사의 발전을 기원합니다.
 
@@ -1016,9 +1034,13 @@ ko:
   LABEL_PLATFORM_COST_REDUCTION_DESCRIPTION: |
     %s 귀하
 
-    귀사에서 제조 중인 제품의 제조비가 알 수 없는 이유로 %s 퍼센트 감소했습니다.
+    메일함을 또 채우게 되었네요. 하지만 좋은 소식입니다.
+    제조비 절감 소식을 전해 드리려고 합니다.
 
-    귀사의 무궁한 발전을 기원합니다.
+    %s
+
+    이상입니다.
+    좋은 하루 보내세요.
     Binogure
   LABEL_PLATFORM_COST_REDUCTION_ANNOUNCED_ITEM: >
     [b]%s[/b]의 제조비가 [b]%s%%[/b] 감소함
@@ -1027,53 +1049,53 @@ ko:
   LABEL_PLATFORM_NO_COMPONENT:  |
     선택된 부품이 없음
   LABEL_PLATFORM_MAKINGCOSTS_REDUCTION: 제조비 감소
-  LABEL_FILTER_PLATFORM_RELEASED: 생산중인 플랫폼
+  LABEL_FILTER_PLATFORM_RELEASED: 출시된 플랫폼
   LABEL_FILTER_PLATFORM_DISCONTINUED: 단종된 플랫폼
   LABEL_PLATFORM_QUALITY_TOOLTIP: |
     제품의 품질을 조절합니다.
 
     조악한 품질의 제품은 결함이 발생할 확률이 높아지며,
     결함이 있는 제품을 구매한 고객은 무조건 환불을 받을 수 있습니다.
-  LABEL_PLATFORM_DISCONTINUE: 생산(개발) 중단
+  LABEL_PLATFORM_DISCONTINUE: 생산 중단
   LABEL_PLATFORM_CHANGE_PRICE: 가격 조정
-  LABEL_PLATFORM_UNIT_RETURNED: 환불량
-  LABEL_PLATFORM_COST_RATIO: 제조비 증가율
+  LABEL_PLATFORM_UNIT_RETURNED: 반품 수량
+  LABEL_PLATFORM_COST_RATIO: 비용 비율
   LABEL_PLATFORM_COMPONENT_CONTROLLER: 컨트롤러
-  LABEL_PLATFORM_COMPONENT_CPU: CPU
-  LABEL_PLATFORM_COMPONENT_CARTRIDGE: 외부 저장매체
+  LABEL_PLATFORM_COMPONENT_CPU: 프로세서
+  LABEL_PLATFORM_COMPONENT_CARTRIDGE: 카트리지
   LABEL_PLATFORM_COMPONENT_MEMORY: 메모리
-  LABEL_PLATFORM_COMPONENT_GPU: GPU
+  LABEL_PLATFORM_COMPONENT_GPU: 그래픽 카드
   LABEL_PLATFORM_COMPONENT_SCREEN: 화면
-  LABEL_PLATFORM_COMPONENT_BOX: 외장재
+  LABEL_PLATFORM_COMPONENT_BOX: 콘솔 케이스
   LABEL_PLATFORM_COMPONENT_HARDDRIVE: 하드 드라이브
   LABEL_PLATFORM_MAKING_COSTS: 제조비
-  LABEL_PLATFORM_UNLOCK_COSTS: 연구비
+  LABEL_PLATFORM_UNLOCK_COSTS: 잠금 해제 비용
   LABEL_PLATFORM_DEVELOPMENT_POINTS: 개발비
   LABEL_PLATFORM_QUALITY: 품질
   LABEL_PLATFORM_COMPUTED_MAKING_COSTS: 예상 제조비
-  LABEL_PLATFORM_UNIT_PROFIT: 예상 이익(한 대당)
+  LABEL_PLATFORM_UNIT_PROFIT: 대당 이익
   LABEL_PLATFORM_NAME: 플랫폼명
   LABEL_TRADE_PUBLISH_TOOLTIP: |
-    이 퍼블리싱 계약의 계약금은 %s$이며, 개발이 완료된 게임은 최소 %d%%점을 달성해야 합니다.
-    이를 위반하면 페널티로 %s$를 게임 유통사에 배상해야 합니다.
+    이 퍼블리싱 계약의 계약금은 $%s입니다.
+    페널티 $%s은(는) 최소 점수 %d%%를 달성하지 못할 경우 부과됩니다.
   LABEL_CANNOT_HIRE_NO_DESK:  |
-    사용 가능한 책상이 없어서, 고용을 할 수 없습니다.
+    전문가를 고용하려면 빈 책상이 있어야 합니다.
   LABEL_CUSTOM_CONSOLE: 콘솔 개발
   LABEL_PLATFORM_MAKE_DESCRIPTION_0:  |
-    당신만의 콘솔을 만들어보십시오
+    나만의 비디오 게임 콘솔을 만들어 보십시오.
   LABEL_PLATFORM_MAKE_DESCRIPTION_1: |
     부품을 선정해 콘솔을 설계한 후, 제품에 대한 마케팅 활동을 준비하십시오.
     또한 마케팅 책임자와 회계 책임자를 고용하여, 수익을 극대화하는 방안을 고려해보십시오.
   LABEL_INCOMPATIBLE_VERSION: >
-    버전이 일치하지 않아 게임을 불러올 수 없습니다.
+    더 새로운 버전의 게임에서 만든 저장 파일이라 열 수 없습니다.
   LABEL_GAME_CANCELED: 개발 중단
   LABEL_EMPLOYEE_FIRED: 직원 해고
-  LABEL_ASSIGN_SPECIALIST: 책임자 배치
+  LABEL_ASSIGN_SPECIALIST: 전문가를 배치하십시오.
   LABEL_ACCOUNTANT_TOOLTIP: |
-    회계 책임자를 배치하면  
+    회계 책임자를 배치하면 
     법인세를 절감할 수 있습니다.
   LABEL_MARKETING_MANAGER_TOOLTIP: |
-    마케팅 책임자를 배치하면  
+    마케팅 책임자를 배치하면 
     게임의 인기를 높일 수 있습니다.
   LABEL_PRODUCER_ASSIGN_TOOLTIP: |
     프로듀서를 지정하여 필요한 포인트 수 확인
@@ -1083,15 +1105,15 @@ ko:
     제작 중인 게임이 해당 장르에 특화되어 있다면 생산성을 두 배로 높일 수 있습니다.
   LABEL_PRODUCER_PERFECTER_GAUGE_TOOLTIP: |
     게임 제작에 적합한 프로듀서를 지정했습니다.
-    그리고 평소보다 더 많은 팁을 얻을 수 있습니다.
+    덕분에 평소보다 더 많은 팁을 얻을 수 있습니다.
   LABEL_NETWORK_ADMIN_TOOLTIP: |
-    네트워크 책임자를 배치하면  
+    네트워크 책임자를 배치하면 
     인터넷 서비스 제공에 필요한 서버 수를 줄일 수 있습니다.
   LABEL_INTERVIEW_INDIE: |
     안녕하세요.
 
-    저는 매주 수요일마다 [b]인디게임[/b]을 리뷰하는 [i]3615 도리안[/i]의 진행자 [b]브루노 트리거[/b]라고 합니다.
-    [b]%s[/b]의 열혈팬으로써, [b]%s[/b]에 대해 몇 가지 질문이 있는데,
+    저는 매주 수요일마다 인디 게임을 리뷰하는 [i]3615 도리안[/i]의 진행자 브루노 트리거라고 합니다.
+    [b]%s[/b]의 열혈 팬으로서, [b]%s[/b]에 대해 몇 가지 질문이 있는데,
     5분만 시간을 내주실 수 있으실까요?
   LABEL_INTERVIEW_INDIE_QUESTION: |
     저도 가끔씩 저만의 회사를 만들어 게임을 개발하고, 사랑스러운 커뮤니티에 친절한 답변을 남기는 상상을 하곤 하는데요.
@@ -1101,38 +1123,39 @@ ko:
     우리의 전문가 도리안 씨와 [i]3615 도리안[/i] 커뮤니티도 같은 생각인 거 같습니다.
     [b]%s[/b]이야말로 우리 모두가 기다려온 보물인 거 같습니다!
   LABEL_INTERVIEW_BIG: |
-    저는 [i]권총 바위 종이[/i]에서 근무하는 기자인 [b]지오 타드[/b]라고 합니다.
-    앞으로 발전 가능성이 충분한 [b]%s[/b]에 대해 몇 가지 질문이 있는데, 5분만 시간을 내주실 수 있을 실까요?
+    저는 [i]권총 바위 종이[/i]에서 근무하는 기자인 지오 타드라고 합니다.
+    앞으로 발전 가능성이 충분한 [b]%s[/b]에 대해 몇 가지 질문이 있는데, 5분만 시간을 내주실 수 있으실까요?
   LABEL_INTERVIEW_BIG_QUESTION: |
     창업 [b]%d[/b]년 만에 발매하는 첫 번째 AAA 규모의 게임인 [b]%s[/b]을(를) 통해,
     대형 게임사로 발돋움할 수 있을 거라는 예상이 파다한데요.
     [b]%s[/b]이(가) [b]%d[/b]년 GOTY로 선정될 수 있을 거라고 생각하십니까?
   LABEL_INTERVIEW_BIG_ANSWER_RIGHT: |
     혹시 최근에 점쟁이가 [b]%s[/b]에 입사했나요?
-    [b]GOTY 수상작[/b]은 게임산업의 내면을 잘 알지 못하면 예측하기 어려운데,
+    GOTY 수상작은 게임산업의 내면을 잘 알지 못하면 예측하기 어려운데,
     손쉽게 맞추신 거 같습니다.
   LABEL_INTERVIEW_BIG_ANSWER_WRONG: |
-    모든 사람은 실수할 수 있지만 확실히 [b]%s[/b]은(는) 미래를 예측하지 못하군요.
-    사람들은 실패로부터 많은 것을 배울 수 있는다고 하는데,
+    모든 사람은 실수할 수 있지만 확실히 [b]%s[/b]은(는) 미래를 예측하지 못했군요.
+    사람들은 실패로부터 많은 것을 배운다고 하는데,
     앞으로 [b]%s[/b]은(는) 이 소리를 많이 들을 수 있을 거 같습니다.
   LABEL_INTERVIEW_BIG_YES:  |
     물론이죠. 저희는 그 상을 받을 만큼 노력했다고 확신합니다.
   LABEL_INTERVIEW_BIG_NO:  |
     글쎄요. 그런 경우면 저희가 가장 놀라지 않을까요?
   LABEL_INTERVIEW_REFUSAL:  |
-    죄송합니다.
+    시간을 뺏어서 죄송합니다.
   LABEL_INTERVIEW_ACCEPT: 물론이죠.
   LABEL_ADVANCED_START_TOOLTIP: |
-    게임의 난이도가 올라갈 수 있으므로, 초심자는 유의하여 주시기 바랍니다.
-    또한 이 기능을 사용하면, 모든 기능의 잠금이 해제된 상태로 게임이 시작됩니다.
-  LABEL_NUMBER_OF_PRODUCED_POINTS: 최종 점수
+    처음 플레이한다면 이 항목은 체크하지 않는 것이 좋습니다.
+
+    고급 시작을 사용하면 게임 시작부터 모든 기능의 잠금이 해제됩니다.
+  LABEL_NUMBER_OF_PRODUCED_POINTS: 생산한 포인트 수
   LABEL_REQUIRE_FANBASE: "판매량 증가를 위해 필요한 팬: %s"
-  LABEL_MAINTENANCE: 수선비
+  LABEL_MAINTENANCE: 유지보수
   LABEL_PLATFORM_COMPATIBILITY: 호환성
-  LABEL_DETAILS_MAIN: 세부정보
+  LABEL_DETAILS_MAIN: 게임 세부정보
   LABEL_DETAILS_SHOWN: 모든 차트 및 세부정보 표시
   LABEL_DETAILS_HIDDEN: 모든 차트 및 세부정보 숨기기
-  LABEL_AUTO_ADJUST: 자동 설정
+  LABEL_AUTO_ADJUST: 자동 조정
   LABEL_MISC_SETTINGS: 기타 설정
   TOOLTIP_MOD_BAD_QUALITY: |
     City Game Studio의 균형을 무너뜨리는 콘텐츠를 추가합니다.
@@ -1174,9 +1197,9 @@ ko:
   LABEL_MOD_PATH: 파일 경로
   LABEL_MOD_PUBLISHED_DATE: 게시일
   LABEL_MOD_UPDATE: 모드 업데이트
-  LABEL_MOD_VALIDATE: 승인
-  LABEL_MOD_NOT_VALID: 거부
-  LABEL_MOD_CREATED: 모드가 배포되었습니다.
+  LABEL_MOD_VALIDATE: 검증
+  LABEL_MOD_NOT_VALID: 유효하지 않음
+  LABEL_MOD_CREATED: 모드가 생성되었습니다.
   LABEL_MOD_UPDATED: 모드가 업데이트되었습니다.
   TOOLTIP_HOLD_TO_CLICK: |
     마우스 왼쪽 버튼을 길게 누르십시오.
@@ -1191,54 +1214,53 @@ ko:
 
     전 세계적으로 엄청난 양의 판매량을 기록할 수 있을 것입니다. 그대신 이 게임은 저희([b]%s[/b]) 플랫폼의 독점작으로
     발매해야합니다.
-     [i]([b]%s[/b]의 플랫폼이 아닌 경우 이식이 불가능합니다.[/i]
+     [i]([b]%s[/b]의 플랫폼이 아닌 경우 이식이 불가능합니다.)[/i]
     별도로 계약금으로 [b]%s$[/b]도 지불할 계획인데, 계약을 진행하시겠습니까?
-  LABEL_CLOUDS: 구름 효과
+  LABEL_CLOUDS: 지도에 구름 표시
   LABEL_AUTOSAVE: 자동 저장
   LABEL_CONCURRENT_GAME_USING_ENGINE_TITLE: |
-    게임 엔진 라인선스 판매
+    경쟁사가 귀사의 게임 엔진을 사용 중
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION: |
-    [b]%s[/b]이(가) [b]%s[/b]의 라이선스를 구매하여 게임을 개발하고 있으며,
+    [b]%s[/b]이(가) 귀사의 게임 엔진([b]%s[/b])을 사용한 게임을 출시했습니다.
   LABEL_CONCURRENT_GAME_USING_ENGINE_DESCRIPTION_GAME: |
     [b]%s[/b]의 발매로 얻는 수익 중 [b]%d%%[/b]를 로열티로 받을 예정입니다.
   LABEL_PLATFORM_SELECT_OFFER: |
-    계약서(수정 가능)
+    제안 조정
   LABEL_PLATFORM_MONEY_OFFER: |
-    계약금: [b]%s$[/b]
+    계약금: [b]$%s[/b]
   LABEL_PLATFORM_EXCLUSIVITY_DURATION: |
-    독점 개발: [b]%s[/b] 개월
+    독점 기간: [b]%s[/b]개월
   LABEL_GAMEENGINE_DELETE_TITLE: 게임 엔진을 삭제하시겠습니까?
   LABEL_GAMEENGINE_DELETE_DESCRIPTION: |
     정말로 [b]%s[/b] 을(를) 삭제하시겠습니까?
   LABEL_PLATFORM_MANUFACTURER_MAIN: |
     무슨 용무로 연락을 하셨나요?
   LABEL_PLATFORM_MANUFACTURER_ANGRY: |
-    자네 덕분에 내 시간만 낭비했군!
+    내 시간 낭비하지 말게, 꼬마!
   LABEL_PLATFORM_CANNOT_PUBLISH_LOCKED: |
-    이 플랫폼의 라이선스가 없어
-    게임을 개발할 수 없습니다.
+    이 플랫폼에서 게임을 출시하려면
+    먼저 협상을 통해 라이선스를 얻어야 합니다.
   LABEL_PLATFORM_CANNOT_PUBLISH_EXCLU: |
-    %s와(과) 독점 개발 계약을 체결했기 때문에,
-    이 플랫폼으로는 게임을 개발할 수 없습니다.
+    %s와(과) 독점 계약을 맺고 있어
+    이 플랫폼에서는 게임을 출시할 수 없습니다.
   LABEL_PLATFORM_CANNOT_SIGN_NEW_CONTRACT: |
-    %s와(과) 독점 개발 계약을 체결했기 때문에,
-    새로운 계약을 체결할 수 없습니다.
+    %s와(과) 독점 계약을 맺고 있어 아직 새로운 계약을 체결할 수 없습니다.
   LABEL_PLATFORM_EXCLUSIVE_DURATION: |
-    독점 개발(%s) : %d 개월 남음
+    %s 독점 계약 잔여 기간: %d개월
   LABEL_PLATFORM_MANUFACTURER_CALL: |
-    %s와 라이선스 구매 협상을 시작합니다.
+    %s에 전화하여 협상하기
   LABEL_PLATFORM_MANUFACTURER_WELCOME: |
     안녕하세요.
 
-    저의 이름은 [b]%s[/b]이고, [b]%s[/b]의 CEO입니다.
+    저의 이름은 [b]%s[/b]이고, [b]%s[/b]에서 일하고 있습니다.
     무슨 용무로 연락을 하셨나요?
   LABEL_PLATFORM_MANUFACTURER_LICENSE_OFFER: |
-    물론 물론 저희도 귀사와 함께 일을 하고 싶지만, [b]%s[/b] 개발을 위해 많은 시간과 비용을 들였습니다.
-    [b]%s[/b]의 라이선스 구매 비용으로 귀사가 얼마나 지불할 수 있을지 궁금하군요.
+    저희는 [b]%s[/b] 개발에 오랜 세월을 들였습니다. 귀사와 함께 일하게 된다면 기쁘겠지만,
+    이 멋진 [b]%s[/b]에 귀사가 무엇을 더해 줄 수 있을지 궁금하군요.
   LABEL_PLATFORM_MANUFACTURER_PROJECTION_UNIT_SOLD: |
     해당 플랫폼의 예상 판매량: [b]%s[/b]
   LABEL_PLATFORM_MANUFACTURER_CHOICE: |
-    [b]%s[/b]용 게임을 개발하고 싶습니다.
+    [b]%s[/b]에서 게임을 출시하고 싶습니다.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT_BUT_PLAYER_REFUSE: |
     마음이 바뀌어서 취소할게요, 안녕히 계세요.
   LABEL_PLATFORM_MANUFACTURER_ACCEPT: |
@@ -1246,28 +1268,33 @@ ko:
   LABEL_PLATFORM_MANUFACTURER_REFUSAL: |
     그 제안은 받아들이기 힘듭니다.
   LABEL_PLATFORM_MANUFACTURER_COUNTEROFFER: |
-    그 제안은 받아들이기 힘들군요. 이 정도면 적당해 보이는데 어떻게 생각하시나요?
+    대신 이건 어떠신가요?
   LABEL_PLATFORM_MANUFACTURER_EXCLU: |
-    [b]%s$[/b]를 [b]%s[/b]의 라이선스 구매 비용으로 지불하고, 향후 [b]%s[/b]개월간 [b]%s[/b]의 플랫폼으로만
-    게임을 출시하겠습니다.
+    [b]$%s[/b]를 [b]%s[/b]의 라이선스 구매 비용으로 지불하고, 향후 [b]%s[/b]개월간 [b]%s[/b]와(과) 독점 계약을 맺겠습니다.
+    (다른 제조사의 콘솔에서는 게임을 출시할 수 없게 됩니다.)
   LABEL_PLATFORM_MANUFACTURER_LICENSE: |
-    [b]%s$[/b]면, [b]%s[/b]의 라이선스 구매 비용으로 적당하다고 생각합니다.
+    [b]$%s[/b]를 [b]%s[/b]의 라이선스 구매 비용으로 지불하겠습니다.
   LABEL_PLATFORM_MANUFACTURER_GIVEUP: |
     됐습니다.
   LABEL_PLATFORM_MANUFACTURER_GOODBYE: |
     시간을 내주셔서 감사합니다.
   LABEL_VIDEO_GAME_KRACH_1983_DESCRIPTION: |
-    1982년 연말, 게임산업의 선두주자였던 와타리의 판매 실적이 콘솔 수백 대와 게임 수천 장에 불과하다는 사실이 알려졌고,
-    연이어 콘솔이 아이들의 건강에 유해하다는 보고서가 연이어 발표되자 게임산업 시장은 빠르게 붕괴하기 시작했습니다. 
-    전문가들은 게임산업 시장의 불확실한 미래를 보여준 사건이라고 평가했으며,
-    이 같은 불황이 앞으로 몇 개월간은 지속될 거라고 예상하고 있습니다.
+    1982년 4분기와 1983년 초의 부진한 실적에 이어, 게임 업계의 선두 주자인 Wataggi가 콘솔 시장에서의 실적 하락을 발표했습니다.
+    Wataggi는 콘솔 수백 대와 카세트 2,500개 남짓을 판매하는 데 그쳐 목표 달성과는 거리가 멉니다.
+    가정용 컴퓨터 쪽의 상황도 대체로 부정적이어서, 오늘날 이 시장을 특징짓는 불확실성을 다시 확인시켜 주고 있습니다.
+
+    게임 업계의 주요 기업들은 앞으로 몇 달간 어려운 시기가 이어질 것으로 예상하고 있으며, 현재로서는 상황이 나아질 기미가 보이지 않습니다.
   LABEL_VIDEO_GAME_KRACH_1983_TITLE: |
     게임산업 시장의 붕괴
   LABEL_VIDEO_GAME_PREKRACH_1983_DESCRIPTION: |
-    와타리가 1983년 2분기 영업손실이 3억 5천5백만 달러라고 발표하면서 게임산업 시장의 주가는 곤두박질쳤으며,
-    게임산업 시장의 이인자였던 모텔은 시장에서 철수했습니다.
-    아직 게임산업 시장의 규모는 20억 달러를 유지하고 있지만,
-    게임산업 시장의 주도권이 콘솔에서 가정용 PC로 넘어가고 있는 것은 기정사실로 여겨지고 있습니다.
+    한여름, 비디오 게임 시장의 선두 주자인 Wataggi가 3억 5,600만 달러의 손실을 발표했습니다.
+    Plastics는 매우 심각한 어려움을 겪으며 시장에서 철수하고 있었습니다. 비디오 게임 시장이 무너지고
+    마이크로컴퓨터가 그 자리를 차지할 것이라는 소문이 돌았습니다.
+
+    사실 뉴욕 증권거래소의 주가 하락으로 이어진 Wataggi와 Plastics의 손실은 근거 없는 공포를 불러일으켰습니다.
+    미국 내 연간 매출이 20억 달러에 달하는 비디오 게임은 여전히 탄탄한 산업입니다. 다만 지난 2년간의
+    눈부신 성장세는 다소 주춤해졌습니다. 시장은 Roberto Industries의 RobertoVision 콘솔이 가정용 마이크로컴퓨터와
+    경쟁하는 고급 시장과, 가격 대비 성능이 만족스러운 기기를 위한 보급형 시장 양쪽으로 움직이고 있습니다.
   LABEL_VIDEO_GAME_PREKRACH_1983_TITLE: |
     안정적인 게임산업 시장
   LABEL_PLATFORM_TYPE: 플랫폼 종류
@@ -1279,38 +1306,39 @@ ko:
     플레이어의 요청을 고려하여, 업데이트할 요소를 선택하십시오.
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
     게임 엔진을 업데이트할 때 페널티가 적용되며,
-    최종 점수(필요)에 영향을 미칩니다.
+    필요 포인트 수에만 영향을 미칩니다.
   LABEL_TOO_MUCH_TIME_SPENT: |
-    %s 부서의 업무가 과중되었습니다.
-    부서 간 역량 차이가 나는지 확인한 후,
-    신규 직원 고용을 고려하십시오.
+    개발팀의 균형이 충분히 맞지 않거나,
+    다른 개발 단계에 비해 %s에
+    훨씬 많은 시간을 들였습니다
   LABEL_NOT_ENOUGH_TIME_SPENT: |
-    다른 분야에 비해 %s 능력이 부족합니다.
-    설계/개발/마감 능력의 균형을 잡아주십시오.
-  LABEL_WARNING_THEME_MISSING: 선택된 주제가 없음
+    개발팀의 균형이 충분히 맞지 않거나,
+    다른 개발 단계에 비해 %s에
+    충분한 시간을 들이지 않았습니다
+  LABEL_WARNING_THEME_MISSING: 주제를 선택해 주세요
   LABEL_BUYABLE: 구매 가능
-  LABEL_IAP_NO_TEMPLATE_SELECTED: 소액 결제 금지
+  LABEL_IAP_NO_TEMPLATE_SELECTED: 소액 결제 없음
   LABEL_IAP_ADD_MICROTRANSATION: >
     파란색 버튼을 클릭하면, 소액 결제 시스템을 추가할 수 있습니다.
   LABEL_NUMBER_OF_NEW_PLAYERS: 이용자 수(신규)
   LABEL_NUMBER_OF_RETURNING_PLAYERS: 이용자 수(복귀)
   LABEL_NUMBER_OF_PLAYER_LOST: 이용자 수(이탈)
-  LABEL_FEATURE_REQUIRED: >
-    이 기능을 사용하려면, 게임 엔진이 다음과 같은 기능을 지원해야 합니다.
-  LABEL_ESTIMATED_INCOME: 매출액(결산)
-  LABEL_ADS_WARNING: "마케팅 활동은 신중히 진행해야 하며, 동시 접속자 수에 영향을 줄 수 있습니다"
+  LABEL_FEATURE_REQUIRED: |
+    이 기능에는 다음 게임 엔진 모듈이 필요합니다:
+  LABEL_ESTIMATED_INCOME: 예상 매출
+  LABEL_ADS_WARNING: "광고는 신중하게 사용하십시오. 광고는 이용자 유지율에 영향을 줍니다."
   LABEL_IAP_WARNING: |
-    인게임 광고나 소액 결제 시스템은
-    플레이어들이 싫어하는 요소 중 하나입니다.
+    게임을 구매한 플레이어는 광고를 보거나
+    소액 결제에 돈을 쓰는 것을 싫어합니다.
   LABEL_IAP_NAME: 소액 결제
-  LABEL_IAP_PACK: "캐시 아이템 #%d"
+  LABEL_IAP_PACK: "팩 #%d"
   LABEL_IAP_TYPE_POWER_BOOST: 강화 아이템
   LABEL_IAP_POWER: 강화 수치
-  LABEL_IAP_TYPE_COSMETIC: 확률형 아이템
+  LABEL_IAP_TYPE_COSMETIC: 치장 아이템
   LABEL_IAP_TYPE_LOOTBOX: 확률형 아이템 상자
-  LABEL_IAP_LIST: 캐시 아이템 목록
+  LABEL_IAP_LIST: 아이템 목록
   LABEL_IAP_RARITY: 등급
-  LABEL_IAP_RARITY_UNCOMMON: 일반
+  LABEL_IAP_RARITY_UNCOMMON: 고급
   LABEL_IAP_RARITY_RARE: 희귀
   LABEL_IAP_RARITY_EPIC: 서사
   LABEL_IAP_RARITY_LEGENDARY: 전설
@@ -1321,78 +1349,75 @@ ko:
   LABEL_NUMBER_OF_PLAYER: 이용자 수
   LABEL_GAME_ENGINE_LIST: 게임 엔진 목록
   LABEL_THEME_LIST: 주제 목록
-  LABEL_GAME_ANNOUNCEMENT: 발표
+  LABEL_GAME_ANNOUNCEMENT: 게임 발표
   LABEL_CONVENTION_MESSAGE: 전시회
   LABEL_NO_FILTER: 필터 없음
   LABEL_GAME_UPDATE_EXPECTED: 업데이트를 기대하고 있음
   LABEL_GAME_UPDATE_NOTEXPECTED: 업데이트를 기대하지 않고 있음
-  LABEL_STUDIO_DIRECTOR_PRESENT: 스튜디오 디렉터와 제작
+  LABEL_STUDIO_DIRECTOR_PRESENT: 스튜디오 디렉터가 제작
   LABEL_STUDIO_DIRECTOR_ABSENT: 수동으로 제작
   LABEL_MARKETING_CAMPAIGN_ACTIVE: 마케팅 활동 활성화
   LABEL_MARKETING_CAMPAIGN_INACTIVE: 마케팅 활동 비활성화
-  LABEL_FANBASE_GAIN: 증가
-  LABEL_FANBASE_LOSS: 감소
+  LABEL_FANBASE_GAIN: 팬층 증가
+  LABEL_FANBASE_LOSS: 팬층 감소
   LABEL_MONEY_MAKER: 흑자
   LABEL_MONEY_LOSER: 적자
   LABEL_SELECT_ALL: 모두 선택
-  LABEL_SELECT_NONE: 선택된 게임이 없습니다.
+  LABEL_SELECT_NONE: 선택 해제
   LABEL_SELECT_UNASSIGNED: 미배정 직원 선택
   LABEL_FREE_GAME: 무료
   LABEL_SUBSCRIPTION_PRICE: 정액제 요금
   LABEL_GAME_PRICE: 가격
   LABEL_UPDATE_PRICE: 게임 업데이트 비용
-  LABEL_X_STUDIOS: "%d곳"
-  LABEL_RANDOM_SLIDER: 무작위게임 슬라이더
-  LABEL_DISCOUNT: 할인
-  LABEL_ORGANIZE_YEARLY: 전시회를 매년 개최합니다.
+  LABEL_X_STUDIOS: "스튜디오 %d곳"
+  LABEL_RANDOM_SLIDER: 슬라이더 무작위 설정
+  LABEL_DISCOUNT: 할인 제공
+  LABEL_ORGANIZE_YEARLY: 매년 전시회 개최
   LABEL_YEARLY: 매년 개최
-  LABEL_GAME_UPDATE_REQUIREMENTS: 플레이어가 업데이트를 기대하는 정도입니다.
-  LABEL_GAME_UPDATE_HYPE: 업데이트 기대도
-  LABEL_GAME_UPDATE: 게임 업데이트
+  LABEL_GAME_UPDATE_REQUIREMENTS: 업데이트에 대한 플레이어의 기대
+  LABEL_GAME_UPDATE_HYPE: 업데이트 흥미도
+  LABEL_GAME_UPDATE: 업데이트 출시
   LABEL_GAME_FREE_UPDATE: 무료 업데이트
   LABEL_GAME_PAID_UPDATE: 유료 업데이트
-  LABEL_REPAIR_ALL: 수리
-  LABEL_UNIQUE: 특별함
+  LABEL_REPAIR_ALL: 모두 수리
+  LABEL_UNIQUE: 고유
   LABEL_DS_NO_PLATFORM_SUPPORTED: |
-    전자 소프트웨어 유통망을 활성화하려면,
-    한 개 이상의 플랫폼을 선택해야 합니다.
+    디지털 스토어을 활성화하려면,
+    한 개 이상의 플랫폼을 지원해야 합니다.
   LABEL_NOT_AVAILABLE: 사용 불가함
   LABEL_REQUIRED: 필수
   LABEL_REVIEW_GAMEENGINE_BAD: >
-    플랫폼의 연산력을 제대로 활용하지 못한 것 같습니다.
+    콘솔의 성능을 제대로 활용했어야 합니다.
   LABEL_REVIEW_GAMEENGINE_GOOD: >
-    플랫폼의 연산력을 제대로 활용한 것 같습니다.
+    콘솔의 성능을 최대한 끌어냈습니다.
   LABEL_GAME_ENGINE: 게임 엔진
   LABEL_FEATURE_LIST: 기능 목록
-  LABEL_DESIGN_CAPACITY: 주당 생산되는 디자인 포인트
+  LABEL_DESIGN_CAPACITY: 주당 생산되는 설계 포인트
   LABEL_DEVELOPMENT_CAPACITY: 주당 생산되는 개발 포인트
-  LABEL_POLISH_CAPACITY: 주당 생산되는 연마 포인트
+  LABEL_POLISH_CAPACITY: 주당 생산되는 마감 포인트
   LABEL_GAMEENGINE_MAKEFOSS: 무료화
   LABEL_GAMEENGINE_PENALITY: >
-    기존 소스 코드로 인해, 게임 엔진을 업데이트하는 비용이 증가했습니다.
+    레거시 코드로 인해 게임 엔진 업데이트 비용이 조금 더 듭니다.
   LABEL_GAMEENGINE_READY: 게임 엔진이 준비되었습니다.
-  LABEL_GAMEENGINE_UPDATE: 게임 엔진 업데이트
+  LABEL_GAMEENGINE_UPDATE: 이 게임 엔진 업데이트
   LABEL_GAMEENGINE_LIST: >
     시중에서 판매 중인 게임 엔진 목록
   LABEL_FOSS: 자유 오픈 소스 소프트웨어
   LABEL_PROPRIETARY: 상용 소프트웨어
-  LABEL_OWNER: 비공개 소프트웨어
+  LABEL_OWNER: 사내 전용
   LABEL_PLATFORM_GPU_CAPABILITY: GPU 연산력
   LABEL_PLATFORM_CPU_CAPABILITY: CPU 연산력
   LABEL_PLATFORM_GPU_COSTS: GPU 연산량
   LABEL_PLATFORM_CPU_COSTS: CPU 연산량
-  LABEL_GAMEENGINE_DONATION_TITLE: 기부금 영수증
+  LABEL_GAMEENGINE_DONATION_TITLE: 기부금을 받았습니다
   LABEL_GAMEENGINE_DONATION_DESCRIPTION: |
-    [b]기부금 영수증[/b]
+    안녕하세요.
 
-    기부금 수령을 증명하기 위한 메일입니다.
+    [b]$%s[/b]의 기부금을 게임 엔진 [b]%s[/b] 앞으로 받으셨음을 확인하는 메일입니다.
 
-    기부금: [b]%s$[/b]
-    대상: [b]%s[/b] 개발사
-
-    귀사의 건승을 기원합니다.
+    감사합니다.
     BinoPal
-  LABEL_GAMEENGINE_FEATURE_TITLE: 무료 게임 엔진 업데이트
+  LABEL_GAMEENGINE_FEATURE_TITLE: 새로운 기능 구현
   LABEL_GAMEENGINE_FEATURE_DESCRIPTION: |
     안녕하세요.
     [b]%s[/b] 엔진 커뮤니티의 관리자입니다.
@@ -1404,21 +1429,21 @@ ko:
 
     별도의 사례는 필요 없으며,
     좋은 하루 보내시길 바랍니다.
-  LABEL_GAME_ENGINE_TITLE: 신기술 발표
-  LABEL_GAME_ENGINE_DESCRIPTION: >
-    신기술이 발표되었으며, 게임 엔진에 바로 적용할 수 있습니다.
+  LABEL_GAME_ENGINE_TITLE: 새로운 기술 사용 가능
+  LABEL_GAME_ENGINE_DESCRIPTION: |
+    다음 신기술을 적용할 수 있습니다:
   LABEL_GAMEENGINE_DESCRIPTION_0: >
     이제 자체적으로 게임 엔진을 개발할 수 있으며,
-    게임 엔진이 좋을수록 직원들이 생성하는 점수가 증가합니다.
+    게임 엔진이 좋을수록 직원들이 생성하는 포인트가 증가합니다.
   LABEL_GAME_ENGINE_OPEN_WORLD: 오픈 월드
   LABEL_GAME_ENGINE_TEXT_BASED: 텍스트 기반 게임
   LABEL_GAME_ENGINE_SPLIT_SCREEN: 화면 분할
-  LABEL_GAME_ENGINE_SANDBOX: 모래 상자
+  LABEL_GAME_ENGINE_SANDBOX: 샌드박스
   LABEL_GAME_ENGINE_GESTURE_CONTROL: 고급 동작 감지
   LABEL_GAME_ENGINE_MOTION_CONTROL: 기초 동작 감지
   LABEL_GAME_ENGINE_FACIAL_RECOGNITION: 안면 인식
-  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: 기초 보안 프로그램
-  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: AI기반 보안 프로그램
+  LABEL_GAME_ENGINE_SIMPLE_ANTICHEAT: 기초 안티치트
+  LABEL_GAME_ENGINE_AI_POWERED_ANTICHEAT: AI 기반 안티치트
   LABEL_GAME_ENGINE_CROSS_PLAY: 크로스 플랫폼
   LABEL_GAME_ENGINE_AUDIO_RECOGNITION: 음성 인식
   LABEL_GAME_ENGINE_LOW_LATENCY_SERVER: 저지연 서버
@@ -1430,15 +1455,15 @@ ko:
   LABEL_GAME_ENGINE_ADS: 광고 모듈
   LABEL_GAME_ENGINE_IAP: 소액 결제 모듈
   LABEL_GAME_ENGINE_2D_1BITCOLOR: 2D 그래픽(흑백)
-  LABEL_GAME_ENGINE_2D_8BITCOLOR: 2D 그래픽(8Bits)
-  LABEL_GAME_ENGINE_2D_16BITCOLOR: 2D 그래픽(16Bits)
-  LABEL_GAME_ENGINE_2D_24BITCOLOR: 2D 그래픽(24Bits)
-  LABEL_GAME_ENGINE_2D_32BITCOLOR: 2D 그래픽(32Bits)
+  LABEL_GAME_ENGINE_2D_8BITCOLOR: 2D 그래픽(8비트 컬러)
+  LABEL_GAME_ENGINE_2D_16BITCOLOR: 2D 그래픽(16비트 컬러)
+  LABEL_GAME_ENGINE_2D_24BITCOLOR: 2D 그래픽(24비트 컬러)
+  LABEL_GAME_ENGINE_2D_32BITCOLOR: 2D 그래픽(32비트 컬러)
   LABEL_GAME_ENGINE_3D_1BITCOLOR: 3D 그래픽(흑백)
-  LABEL_GAME_ENGINE_3D_8BITCOLOR: 3D 그래픽(8its)
-  LABEL_GAME_ENGINE_3D_16BITCOLOR: 3D 그래픽(16Bits)
-  LABEL_GAME_ENGINE_3D_24BITCOLOR: 3D 그래픽(24Bits)
-  LABEL_GAME_ENGINE_3D_32BITCOLOR: 3D 그래픽(32Bits)
+  LABEL_GAME_ENGINE_3D_8BITCOLOR: 3D 그래픽(8비트 컬러)
+  LABEL_GAME_ENGINE_3D_16BITCOLOR: 3D 그래픽(16비트 컬러)
+  LABEL_GAME_ENGINE_3D_24BITCOLOR: 3D 그래픽(24비트 컬러)
+  LABEL_GAME_ENGINE_3D_32BITCOLOR: 3D 그래픽(32비트 컬러)
   LABEL_GAME_ENGINE_VR_32BITCOLOR: VR 그래픽
   LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: 복셀 그래픽
   LABEL_GAME_ENGINE_BASIC_DIALOG: 기초 대화
@@ -1482,7 +1507,7 @@ ko:
   LABEL_GAME_ENGINE_CLOUD_LEADERBOARD: 클라우드 연동 랭킹
   LABEL_BUSY: 근무 중
   LABEL_AVAILABLE: 사용 가능함
-  LABEL_AUTOATTEND_CONVENTION: 전시회 자동 참가
+  LABEL_AUTOATTEND_CONVENTION: 모든 전시회에 자동으로 참가합니다.
   LABEL_SERVER_CAPACITY: 최대 동시 접속자 수(소유)
   LABEL_SERVER_RENT_CAPACITY: 최대 동시 접속자 수(임차)
   LABEL_TOTAL_COST: 총 비용
@@ -1503,44 +1528,44 @@ ko:
     - 바이러스 백신을 비활성화하고 컴퓨터를 재시작하세요
     
     문제가 계속되면 Steam 포럼을 방문하여 도움을 받으세요.
-  LABEL_ONLINE_GAMES: 온라인 멀티플레이
+  LABEL_ONLINE_GAMES: 온라인 게임
   LABEL_CLOUD_SERVER: >
-    클라우드 컴퓨팅은 실시간으로 사용자에 요청에 따라, 컴퓨팅 자원을 제공하는 기술입니다.
+    클라우드 컴퓨팅은 실시간으로 사용자의 요청에 따라 컴퓨팅 자원을 제공하는 기술입니다.
   TOOLTIP_CLOUD_SERVERS: |
     더 이상 수백 대의 서버를 수용하기 위해, 거대한 건물을 짓지 않아도 됩니다.
-  LABEL_RENT_SERVERS: 임차(서버)
+  LABEL_RENT_SERVERS: 서버 임차
   LABEL_ENABLED: 활성화
   LABEL_DISABLED: 비활성화
-  LABEL_TOTAL_UNIT_SOLD: 판매량
-  LABEL_DS_PLATFORM_NOT_COMPATIBLE: 전자 소프트웨어 유통망이 지원하지 않는 플랫폼입니다.
+  LABEL_TOTAL_UNIT_SOLD: 총 판매량
+  LABEL_DS_PLATFORM_NOT_COMPATIBLE: 디지털 스토어이 지원하지 않는 플랫폼입니다.
   LABEL_DISCONTINUE_PLATFORM_TITLE: 플랫폼 지원 중단
   LABEL_DISCONTINUE_PLATFORM_CONFIRMATION: |
-    아직도 한 개 이상의 %s 플랫폼용 게임이 판매되고 있습니다.
+    디지털 스토어에서 아직 '%s'용 게임을 한 개 이상 판매하고 있습니다.
 
-    정말로 %s 플랫폼의 지원을 중단하시겠습니까?
+    정말로 '%s' 플랫폼 지원을 중단하시겠습니까?
   TOOLTIP_DS_SUPPORT_ALL_PLATFORMS: |
     한 개 이상의 플랫폼을 지원하려면,
-    크로스 플랫폼 기능을
+    디지털 스토어의 크로스 플랫폼 기능을
     연구해야 합니다.
   LABEL_DS_SUPPORT_ALL_PLATFORMS: 모든 플랫폼 지원
   LABEL_NUMBER_OF_PLATFORMS: 플랫폼 수
-  LABEL_SERVER_LOAD: 실시간 자원 사용량
-  LABEL_SALES_BONUS: 판매량(보너스)
-  LABEL_SERVER_COST: 유지비(서버)
+  LABEL_SERVER_LOAD: 서버 부하
+  LABEL_SALES_BONUS: 판매 증가
+  LABEL_SERVER_COST: 서버 비용
   LABEL_DS_STORE_FESTIVAL_THEME: 진행 중인 페스티벌
   LABEL_DS_SALES: 게임 판매 수익
-  LABEL_DS_PLATFORMCUT: 배급 수수료
+  LABEL_DS_PLATFORMCUT: 디지털 스토어 수수료
   LABEL_DS_CCU: 동시 접속자 수
   LABEL_DS_CHAT_TITLE: 채팅
   LABEL_DS_CHAT_DESCRIPTION: |
     사용자끼리 채팅을 할 수 있게 됩니다.
-  LABEL_DS_FORUM_TITLE: 커뮤니티
+  LABEL_DS_FORUM_TITLE: 포럼
   LABEL_DS_FORUM_DESCRIPTION: |
-    사용자가 커뮤니티를 통해 의견을 나눌 수 있게 됩니다.
+    사용자가 디지털 스토어에 글을 올릴 수 있게 됩니다.
   LABEL_DS_CROSSPLATFORM_TITLE: 크로스 플랫폼
   LABEL_DS_CROSSPLATFORM_DESCRIPTION: |
     크로스 플랫폼 기능을 추가합니다.
-  LABEL_DS_BOTPROTECTION_TITLE: CAPTCHA
+  LABEL_DS_BOTPROTECTION_TITLE: 봇 방지
   LABEL_DS_BOTPROTECTION_DESCRIPTION: |
     봇을 이용한 공격을 완화합니다.
   LABEL_DS_WORKSHOP_TITLE: 창작마당
@@ -1554,10 +1579,10 @@ ko:
     사용자가 게임을 평가할 수 있게 됩니다.
   LABEL_DS_STORE_TITLE: 상점
   LABEL_DS_STORE_DESCRIPTION: |
-    경쟁사가 게임을 판매할 수 있게 됩니다.
+    경쟁사가 귀사의 디지털 스토어에서 게임을 판매할 수 있게 됩니다.
   LABEL_DS_ANALYTICS_TITLE: 통계
   LABEL_DS_ANALYTICS_DESCRIPTION: |
-    사용자 정보를 수집할 수 있게 됩니다.
+    사용자의 이용 습관 데이터를 수집합니다.
   LABEL_DS_INVENTORY_TITLE: 보관함
   LABEL_DS_INVENTORY_DESCRIPTION: |
     사용자가 아이템을 소유, 교환 및 재판매할 수 있게 됩니다.
@@ -1566,7 +1591,7 @@ ko:
     찜 목록 기능을 추가합니다.
   LABEL_DS_ACHIEVEMENTS_TITLE: 도전 과제
   LABEL_DS_ACHIEVEMENTS_DESCRIPTION: |
-    사용자가 게임 진행 상황을 추적 할 수 있게 됩니다.
+    사용자가 게임 진행 상황을 추적할 수 있게 됩니다.
   LABEL_DS_GIFTCARDS_TITLE: 기프트 카드
   LABEL_DS_GIFTCARDS_DESCRIPTION: |
     새로운 결제 수단을 추가합니다.
@@ -1580,24 +1605,24 @@ ko:
   LABEL_DS_FESTIVAL_DESCRIPTION: |
     디지털 스토어에서 페스티벌을 개최하세요.
 
-    마케팅 매니저를 배정하면 판매와 인지도가 향상됩니다!
+    마케팅 책임자를 배정하면 판매와 인지도가 향상됩니다!
   LABEL_DS_CLOUD_MANAGEMENT_TITLE: 네트워크 레이어
   LABEL_DS_CLOUD_MANAGEMENT_DESCRIPTION: |
-    디지털 스토어의 성능을 향상시킬 네트워크 관리자를
+    디지털 스토어의 성능을 향상시킬 네트워크 책임자를
     배정할 수 있습니다.
 
-    요약하면, 네트워크 관리자를 배정하면 그들의 기술로 인해
-    서버 부하가 줄어듭니다
-  LABEL_HIRING_COSTS: 이적 수수료
-  LABEL_COMPLETE: 성공
+    요약하면, 네트워크 책임자를 배정하면 그들의 기술로 인해
+    서버 부하가 줄어듭니다.
+  LABEL_HIRING_COSTS: 고용 비용
+  LABEL_COMPLETE: 완료
   LABEL_DRAG_ICON_TO_DOWNLOAD: |
     아이콘을 선택하고 드래그하여,
     다운로드를 시작하십시오.
   LABEL_CLOSE_POPUP: 계속하려면 팝업을 닫으십시오.
   LABEL_CLOSE_CAT_POPUP: |
-    계속하려면 야.동.이 나오는
-    팝업을 닫으십시오.
-  LABEL_SETTING_UP_FIREWALL: 방화벽 가동률
+    계속 다운로드하려면
+    고양이 팝업을 닫으십시오.
+  LABEL_SETTING_UP_FIREWALL: 방화벽 설정 중
   LABEL_PRESS_ANY_KEY: 해킹하려면 아무키나 누르십시오.
   LABEL_HACKED: |
     해킹 성공
@@ -1608,23 +1633,23 @@ ko:
   LABEL_OPEN_CONSOLE: >
     해킹을 시작하려면 '시작'을 클릭하십시오.
   LABEL_DOWNLOADING: 다운로드 중
-  LABEL_TARGET_LOCALIZING: 침입 탐지율
-  LABEL_CONNECTION_LOST: 접속 종료
+  LABEL_TARGET_LOCALIZING: 침입 탐지됨
+  LABEL_CONNECTION_LOST: 연결 끊김
   LABEL_ACCESS_GRANTED: 접속 승인
-  LABEL_CLICK_FOR_ACTION: 이곳을 클릭하여 세부 정보를 확인하십시오.
+  LABEL_CLICK_FOR_ACTION: 클릭하여 메뉴 열기
   LABEL_NO_GAME_INDEV: |
-    개발 중인 게임이나 콘솔이 없습니다.
-  LABEL_ALREADY_REGISTERED: 참가 중인 전시회
+    개발 중인 게임이 없습니다.
+  LABEL_ALREADY_REGISTERED: 참가 중
   LABEL_NET_PROFITS: 순이익
   LABEL_ENERGY: 체력
-  LABEL_LOSE: 실패
+  LABEL_LOSE: 게임 오버
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
-    게임을 불법 복제하려면 아래의 숫자를 조합하여, 바이너리 코드를 해독해야 합니다.
+    게임을 크랙하려면 화면 아래의 버튼으로 바이너리 코드를 디컴파일해야 합니다.
   LABEL_CANNOT_OPEN_FILE: 파일을 불러오지 못했습니다.
-  LABEL_OPEN_FILE: 성공적으로 파일을 불러왔습니다.
+  LABEL_OPEN_FILE: 파일 열기
   LABEL_KEEP_HINTS: 힌트 유지
   LABEL_SELECT_GAME_OF_THE_YEAR: 심사위원회에 제출할 게임을 선택하십시오.
-  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: GOTY 에디션을 발매할 수 있습니다.
+  LABEL_PUBLISH_GAME_OF_THE_YEAR_EDITION: GOTY 에디션 출시
   LABEL_GAME_OF_THE_YEAR: >
     수년간 많은 잡지사가 다양한 방법으로 게임의 순위를 정하고 발표해왔고,
     최근에는 GOTY(올해의 게임)가 주목받고 있습니다.
@@ -1632,15 +1657,15 @@ ko:
     마우스 오른쪽 버튼을 클릭하면
     닫을 수 있습니다.
   LABEL_STARTING_YEAR: 시작 연도
-  LABEL_CURRENCY_UNLIMITED: 무제한
-  LABEL_ADVANCED_START: 고급 설정
+  LABEL_CURRENCY_UNLIMITED: 무제한 자금
+  LABEL_ADVANCED_START: 고급 시작
   LABEL_WORKING: 근무
   LABEL_DEFAULT: 기본 근무 일정
   LABEL_DEVELOPER: 개발자
   LABEL_GAME_CAPACITY: 관리 역량(게임 수)
   LABEL_BONUS_PRODUCTIVITY: 생산성(보너스)
   LABEL_MARKETING_MANAGER: 마케팅 책임자
-  LABEL_BONUS_HYPE: 마케팅(보너스)
+  LABEL_BONUS_HYPE: 흥미도(보너스)
   LABEL_ACCOUNTANT: 회계 책임자
   LABEL_BONUS_TAXES: 법인세 절감(보너스)
   LABEL_NETWORK_ADMINISTRATOR: 네트워크 책임자
@@ -1648,11 +1673,11 @@ ko:
   LABEL_HUMAN_RESOURCE: 인사 책임자
   LABEL_BONUS_HAPPINESS: 만족도(보너스)
   LABEL_AMOUNT_OF_TIPS: 힌트 수
-  LABEL_REQUIRED_POINTS: 최종 점수(목표)
+  LABEL_REQUIRED_POINTS: 필요 포인트
   LABEL_STEP: 단계
   LABEL_CONTRACT: 게임 개발(하청)
   LABEL_BEST_GAME: 최고의 게임
-  LABEL_AMOUNT_GAMEPORT: 지원 플랫폼 수
+  LABEL_AMOUNT_GAMEPORT: 이식한 게임 수
   LABEL_AMOUNT_EDITED_GAME: 발매한 게임 수
   LABEL_AMOUNT_STUDIO: 관리 역량(스튜디오 수)
   LABEL_AMOUNT_POSTMORTEM: 사후분석 보고서 수
@@ -1663,7 +1688,7 @@ ko:
     안녕하십니까.
     이 게임의 개발자 Binogure입니다.
 
-    City Game Studio을 구입하여 주신다면 저희에게 큰 도움이 될 것이며,
+    City Game Studio를 구입하여 주신다면 저희에게 큰 도움이 될 것이며,
     여러분의 도움이 없다면 저희는 지속적으로 개발할 수 없을지 모릅니다.
 
     City Game Studio와 같은 인디게임을 좋아하시고 즐겨 하신다면,
@@ -1687,22 +1712,21 @@ ko:
   LABEL_LOW_CONFIGURATION: 저사양 모드
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: 마우스를 사용하여 화면 움직이기
   LABEL_WEEK: 주
-  LABEL_TOOLS: 도움을 주신 분들
+  LABEL_TOOLS: 제작 도구
   LABEL_SANDBOX: 샌드박스 모드
-  LABEL_SAVING: 저장하는 중
+  LABEL_SAVING: 게임 저장 중
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: 위약금 지급
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
     [b]%s[/b] 귀하
 
-    [b]%s[/b] 개발 결과가 계약서에 명시된 요구 사항을 충족하지 못한 점에 대해 진심으로 사과드리며,
-    계약서 1125쪽에 오동나무색으로 강조된 82조 z항에 따라, 가능한 한 빨리 위약금 [b]%s$[/b]를 지불할 것을 약속드립니다.
-    이일이 앞으로 귀사와 본사가 함께 나아가는 길에 걸림돌이 되지 않길 바랍니다.
+    [b]%s[/b]이(가) 기대했던 성과를 거두지 못했으므로, 가능한 한 빨리 위약금 [b]$%s[/b]를 지불할 것을 약속드립니다.
+    이 일이 앞으로의 협력에 걸림돌이 되지 않기를 바랍니다.
 
     진심을 담아
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     아직 새 게임을 발매할 수 없습니다.
-  LABEL_EDIT_GAME: 게임 퍼블리싱(유통)
+  LABEL_EDIT_GAME: 퍼블리싱 제안
   LABEL_EDIT_GAME_ANNOUNCE: |
     [b]%s[/b]이(가) [b]%s[/b] 개발을 시작했습니다.
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
@@ -1717,11 +1741,11 @@ ko:
   LABEL_POINTRATIO_NOT_ENOUGH: |
     [b]%s[/b]의 개발력은 [b]%s[/b] 분야가 부실합니다.
   LABEL_PLATFORM_NOT_EXPLOITED: |
-    기능이 부족한 플랫폼입니다.
+    플랫폼의 성능을 더 잘 활용했어야 합니다.
   LABEL_POINTRATIO_TOO_MUCH: |
     [b]%s[/b]의 개발력은 [b]%s[/b] 분야에 치중되어 있습니다.
-  LABEL_MARKETING_CAMPAIGN: 마케팅 비용
-  LABEL_CAMPAIGN_TYPE: 마케팅 종류
+  LABEL_MARKETING_CAMPAIGN: 마케팅 캠페인
+  LABEL_CAMPAIGN_TYPE: 캠페인 종류
   LABEL_WORKLOAD: 업무량
   LABEL_WORKLOAD_DISTRIBUTION: 업무량(분담)
   LABEL_RELEASE_DATE: 발매일
@@ -1734,61 +1758,61 @@ ko:
   LABEL_REVIEW_PLATFORM_GOOD: |
     [b]%s[/b]은(는) 모든 분야에서 뛰어난 훌륭한 팀을 보유한 것 같습니다.
   LABEL_REVIEW_PLATFORM_BAD: |
-    [b]%s[/b]의 개발 역량이 부족해, [b]%s[/b] 규모의 게임을 [b]%s[/b]에 발매한 거 같습니다.
+    [b]%s[/b]은(는) 인력 부족으로 훌륭한 [b]%s[/b] 게임을 [b]%s[/b]에 출시하지 못하고 있습니다.
   LABEL_REVIEW_GAME_BAD: |
-    [b]%s[/b]의 명성에 맞지 않는 작품입니다. [b]%s[/b] 이후로 그들에게 너무 큰 기대를 한 것 같군요.
+    [b]%s[/b]은(는) 그들의 명성에 걸맞지 않습니다. 특히 [b]%s[/b] 이후라 더 많은 것을 기대했습니다.
   LABEL_REVIEW_COMBO_GOOD: |
     [b]%s[/b]이(가) [b]%s[/b]을(를) 통해 시도한 새로운 조합은 매우 훌륭합니다.
   LABEL_REVIEW_COMBO_BAD: |
-    [b]%s[/b]이(가) 또 다른 게임을 발매습니다. 이번에는 [b]%s[/b]을(를) 반면교사 삼아 문제점을 개선할 수 있을까요?.
+    또 하나의 [b]%s[/b] 게임입니다. [b]%s[/b]은(는) 스스로를 새롭게 하는 법을 배워야 합니다.
   LABEL_CRACKED: 불법 복제됨
-  LABEL_SELECT_COMPANY_SPECIALIZATION: 전문적인 장르
+  LABEL_SELECT_COMPANY_SPECIALIZATION: 장르 전문 분야
   LABEL_DISCORD_COMMUNITY: Discord 커뮤니티
-  LABEL_LAST_MONTH: "할인 기간: %s개월"
+  LABEL_LAST_MONTH: "%s개월 동안 지속됩니다."
   LABEL_SUCCESS_RATE: 성공 확률
   LABEL_RISKS: 위험요인
   LABEL_SALES_HITS_TITLE: 판매 보고서
   LABEL_SALES_HITS_DESCRIPTION: |
-    [b]%s[/b] 귀하
+    %s 귀하
 
     귀사의 무궁한 발전을 기원합니다.
-    귀사가 발매한 [b]%s[/b]의 판매 동향 보고서입니다.
+    귀사가 발매한 %s의 판매 동향 보고서입니다.
     %s
 
     진심을 담아
     Binogure
   LABEL_SALES_HITS_0: >
-    [b]%s[/b]은(는) 순조로운 판매량을 보이고 있으며, 향후 [b]%d%%[/b]증가할 것으로 예상됨
+    [b]%s[/b]은(는) 순조로운 판매량을 보이고 있으며, 향후 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_SALES_HITS_1: >
-    저희가 추산한 결과에 따르면, [b]%s[/b]의 이번 달 판매량은 [b]%d%%[/b]증가할 것으로 예상됨
+    저희가 추산한 결과에 따르면, [b]%s[/b]의 이번 달 판매량은 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_SALES_HITS_2: >
-    [b]%s[/b]의 판매량은 안정적이며, 향후 [b]%d%%[/b]증가할 것으로 예상됨
+    [b]%s[/b]의 판매량은 안정적이며, 향후 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_SALES_HITS_3: >
-    [b]%s[/b]의 판매량은 계속 증가할 것으로 보이며, 향후 [b]%d%%[/b]증가할 것으로 예상됨
+    [b]%s[/b]의 판매량은 계속 증가할 것으로 보이며, 향후 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_SALES_HITS_4: >
-    [b]%s[/b]의 판매량이 [b]%d%%[/b]증가할 것으로 예상됨
+    [b]%s[/b]의 판매량이 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_SALES_HITS_5: >
-    [b]%s[/b]의 판매 동향을 분석한 결과 [b]%d%%[/b]증가할 것으로 예상됨
+    [b]%s[/b]의 판매 동향을 분석한 결과 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_SALES_HITS_6: >
-    [b]%s[/b]의 발매를 축하드리며, 향후 판매량이 [b]%d%%[/b]증가할 것으로 예상됨
+    [b]%s[/b]의 발매를 축하드리며, 향후 판매량이 [b]%d%%[/b] 증가할 것으로 예상됨
   LABEL_CONVENTION_INCOMING: |
-    [b]%s[/b] 귀하
+    %s 귀하
 
-    [b]%s[/b]이(가) [b]%s[/b]부터 3일동안 개최될 예정입니다.
+    [b]%s[/b]이(가) [b]%s[/b]부터 3일 동안 개최될 예정입니다.
 
     [b]%s[/b]명이 전시회를 관람할 것으로 예상하고 있으며,
     귀사의 훌륭한 게임들을 홍보할 수 있는 전시공간도 마련되어 있습니다.
 
-    전시공간이 한정적인점 양해하여 주시기 바랍니다.
+    전시공간이 한정적인 점 양해하여 주시기 바랍니다.
 
     진심을 담아
-    [b]%s[/b] 전시회 조직 위원장
+    %s 전시회 조직 위원장
   LABEL_REDCOUCH: 소파(빨간색)
   LABEL_DARKCOUCH: 소파(검정색)
   LABEL_WHITECOUCH: 소파(흰색)
-  LABEL_REDARMCHAIR: 의자(빨간색)
-  LABEL_DARKARMCHAIR: 의자(검은색)
-  LABEL_WHITEARMCHAIR: 의자(하얀색)
+  LABEL_REDARMCHAIR: 안락의자(빨간색)
+  LABEL_DARKARMCHAIR: 안락의자(검은색)
+  LABEL_WHITEARMCHAIR: 안락의자(흰색)
   LABEL_WHAT_WERE_YOU_DOING: 게임 진행에 불편을 끼쳐 죄송합니다. 버그가 발생한 상황을 자세하게 제보하여 주시면 감사하겠습니다.
   LABEL_VERSION: "버전: %s"
   LABEL_NO_MESSAGE: 메일함에 메일이 없습니다.
@@ -1829,12 +1853,12 @@ ko:
   LABEL_MORTGAGE: 대출
   LABEL_DURATION: 기간
   LABEL_INTEREST: 금리
-  LABEL_MONTHLY: 총 유지비(월간)
+  LABEL_MONTHLY: 월 상환액
   LABEL_AUTO_ASSIGN_STAFF: 직원 자동 배치
   LABEL_UPGRADE_COMPUTER: 컴퓨터 자동 업그레이드
   LABEL_UPGRADE_SERVER: 서버 자동 업그레이드
-  LABEL_COMPANY_WIDE: 모두 적용
-  LABEL_STUDIO_WIDE: 이곳만 적용
+  LABEL_COMPANY_WIDE: 회사 전체
+  LABEL_STUDIO_WIDE: 이 스튜디오
   LABEL_NO_STUDIO_TRADE_CAPABLE: >
     퍼블리싱 계약을 하려면 최소 5명의 직원이 필요합니다.
   LABEL_TRADE_GAME_CANCELED_TITLE: "%s 개발 중단"
@@ -1843,7 +1867,7 @@ ko:
 
     귀사와 본사가 계약을 체결한 사항이지만, 일방적으로 [b]%s[/b] 개발을 중단한 행위에 대해 본사는 매우 실망하고 있습니다.
 
-    따라서 계약서 445쪽에 핑크색으로 강조된 72조 W항에 따라, 위약금 [b]%s$[/b]가 발생한 사실을 알려드립니다.
+    따라서 계약서 453쪽에 핑크색으로 강조된 72조 W항에 따라, 위약금 [b]%s$[/b]가 발생한 사실을 알려드립니다.
 
     발신
     [b]%s[/b]의 법률대리인
@@ -1859,39 +1883,41 @@ ko:
     발신
     [b]%s[/b] 부실영업부
   LABEL_SELECT_GAME_PRESENT: 심사위원회에 제출할 게임을 선택하십시오.
-  LABEL_ROYALTIES: 수익 배분율
+  LABEL_ROYALTIES: 로열티
   LABEL_PENALITY: 페널티
-  LABEL_NOTE_MIN: 최종 점수(죄소)
+  LABEL_NOTE_MIN: 최소 점수
   LABEL_MARKETING_GLOBAL_ITEM: 모든 매체 활용
   LABEL_MARKETING_MAGAZINE_ITEM: 잡지
   LABEL_MARKETING_TV_ITEM: 텔레비전
   LABEL_MARKETING_WEBSITE_ITEM: 웹사이트
-  LABEL_MARKETING_ONLINEAD_ITEM: 온라인
+  LABEL_MARKETING_ONLINEAD_ITEM: 온라인 광고
   LABEL_MARKETING_BILLBOARD_ITEM: 광고판
   LABEL_MARKETING_SOCIALNETWORK_ITEM: SNS
   LABEL_MARKETING_MAILINGLIST_ITEM: 이메일 소식지
-  LABEL_SELF_PUBLISH: 게임 개발
-  LABEL_TRADE_PUBLISH: 게임 퍼블리싱(개발)
+  LABEL_SELF_PUBLISH: 자체 퍼블리싱
+  LABEL_TRADE_PUBLISH: 퍼블리셔를 통한 출시
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     [b]%s[/b]의 입사지원서
 
-    [b]최종 학력:[/b] 서울 대학교 컴퓨터공학과 졸업
-    [b]지원 동기[/b]: 채용공고에서 요구하는 인재가 저라는 확신이 들어 지원하게 되었습니다.
-    [b]입사 포부:[/b] 혁신적이고 독창적인 아이디어, 뛰어난 개발 능력을 활용해 %s의 발전에 공헌하도록 하겠습니다.
+    최종 학력: 화성 대학교 컴퓨터공학과 졸업
+    지원 동기: 채용 공고에서 요구하는 인재가 바로 저라는 확신이 들어 지원하게 되었습니다.
+    입사 포부: 혁신적이고 독창적인 아이디어와 뛰어난 엔지니어링 능력을 활용해 [b]%s[/b]의 발전에 공헌하겠습니다.
+
+    이 멋진 기회에 대해 자세히 이야기 나눌 수 있기를 바랍니다.
 
     입사지원자
     [b]%s[/b]
   LABEL_HIRE_PERFECT_EMPLOYEE_TITLE: 입사지원서
   LABEL_FIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
-    [b]사직서[/b]
+    사직서
 
-    본인은 귀 회사의 [b]%s[/b](으)로 근무했으며, 이번에 개인적인 사정으로 사직하고자 합니다.
+    본인은 [b]%s[/b]에서 근무하였으나, 이번에 즉시 사직하고자 합니다.
 
-    그동안 많은 것을 배울 수 있었으며 저에게 제공해 주신 모든 친절과 배려에 감사드립니다.
-    여러분들의 친절과 배려를 결코 잊지 못할 것입니다.
+    그동안 많은 것을 배울 수 있었으며, 회사가 제공해 주신 모든 기회에 감사드립니다.
+    동료 여러분의 친절과 배려를 결코 잊지 못할 것입니다.
 
     업무 인수인계를 위해 도움이 필요하시다면 언제든지 연락 주시기 바라며,
-    여러분 격려에 다시 한번 감사드립니다.
+    여러분의 지지와 격려에 다시 한번 감사드립니다.
 
     사직인
     [b]%s[/b]
@@ -1902,16 +1928,16 @@ ko:
     중형보다 큰 규모의 게임을 개발할 때, 팬층이 [b]%s[/b]명보다 적으면 매출에 악영향을 끼칠 수 있습니다.
   LABEL_CONCURRENT_AMOUNT: 경쟁자 수
   LABEL_YES: 예
-  LABEL_NO: 아니요.
+  LABEL_NO: 아니요
   LABEL_PRICE_MONTHLY: 유지비(월간)
   LABEL_SERVER_MONITORING_REPORT: 서버 상태
-  LABEL_ONLINE_USAGE: 온라인 멀티 플레이
+  LABEL_ONLINE_USAGE: 온라인 플레이어 수
   LABEL_ONLINE_CAPACITY: 최대 동시 접속자 수
   LABEL_ONLINE_CAPACITY_TOOLTIP: 동시 접속자 수
   LABEL_SERVER: 서버
-  LABEL_CAMPAIGN_NO_COST: 기자화견
+  LABEL_CAMPAIGN_NO_COST: 기자회견
   LABEL_CAMPAIGN_DEMO: 데모 버전 발매
-  LABEL_CAMPAIGN_FULL: 광고
+  LABEL_CAMPAIGN_FULL: 광고 캠페인 진행
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b]이(가) [b]%s[/b]을(를) [b]%s[/b]용으로
     개발 중이라고 발표했습니다.
@@ -1923,27 +1949,27 @@ ko:
     또한 팬들도 이번 신작을 매우 기대하고 있습니다.
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
     하지만 최근에 발매한 게임을 재탕한듯한 이번 신작 발표를 보고
-    팬들은 분노하고 있으며, 언론사들은 기름을 들이 붇고 있습니다.
+    팬들은 분노하고 있으며, 언론사들은 기름을 붓고 있습니다.
   LABEL_GAME_ANNOUNCED_TITLE: "%s 발표"
   LABEL_TRENDING: 인기
   LABEL_CREATOR: 제작자
   LABEL_PRODUCER: 개발 책임자
   LABEL_COMMUNITY_MANAGER: 커뮤니티 관리자
   LABEL_SOUND_COMPOSER: 작곡가
-  LABEL_SPECIAL_THANKS: 매우 고마운 분들
-  LABEL_VISITORS: "%d명"
+  LABEL_SPECIAL_THANKS: 특별히 감사드릴 분들
+  LABEL_VISITORS: "방문객 %d명"
   LABEL_ATTENDANCE: 관람객 수
   LABEL_NONE: 없음
   LABEL_NO_BUILDING: 사용 가능한 건물 없음
   LABEL_NO_CONVENTION: 전시회 일정 없음
-  LABEL_CONVENTION_LAST_DATE: 최근 개최연도
+  LABEL_CONVENTION_LAST_DATE: 최근 전시회
   LABEL_DATE: 전시 일정
   LABEL_STANDSIZE: 전시공간 크기
   LABEL_CONVENTION_NAME: 전시회명
   LABEL_ATTEND: 참가
   LABEL_ORGANIZE: 개최
   LABEL_INFORMATIONS: 세부정보
-  LABEL_GAME: 게임 개발
+  LABEL_GAME: 게임
   LABEL_GAMEPORT: 게임 이식
   LABEL_CONVENTION: 전시장
   LABEL_LAND_VALUE: 지가
@@ -1966,22 +1992,22 @@ ko:
   LABEL_FANBASE: 팬층
   LABEL_FULLSCREEN: 전체 화면
   LABEL_GAME_GENRE: 장르
-  LABEL_GAME_HISTORY: 기록관
+  LABEL_GAME_HISTORY: 게임 기록
   LABEL_GAME_NAME: 게임명
   LABEL_GAME_SIZE: 규모
   LABEL_GAME_ONLINE_SHORT: 온라인 멀티플레이 기능
   LABEL_PLATFORM_NOT_ONLINE: >
-    온라인 멀티플레이를 지원하지 않는 게임입니다.
+    온라인 멀티플레이를 지원하지 않는 플랫폼입니다.
   LABEL_GAMEPLAY: 게임 플레이
   LABEL_GRAPHIC_SETTINGS: 화면 설정
   LABEL_GRAPHISM: 그래픽
   LABEL_INCOME: 매출액
   LABEL_INVALID_SAVE: 저장 파일이 손상되었습니다.
-  LABEL_KICKOFF: 추방
-  LABEL_LOAD_GAME: 불러오기
+  LABEL_KICKOFF: 개발 시작
+  LABEL_LOAD_GAME: 게임 불러오기
   LABEL_MAP_SIZE: 지도 크기
   LABEL_MARKETING_MATERIAL: 마케팅 활동 매체
-  LABEL_MUSIC: 배경 음량
+  LABEL_MUSIC: 음악
   LABEL_NETWORK: 네트워크
   LABEL_GRADE: 평점
   LABEL_OPTIMIZATION: 최적화
@@ -2014,7 +2040,7 @@ ko:
   LABEL_THEME_PREHISTORY: 선사시대
   LABEL_THEME_ARCHEOLOGY: 고고학
   LABEL_THEME_POSTAPOCALYPTIC: 종말 후
-  LABEL_THEME_ATLANTIS: 초고대문명
+  LABEL_THEME_ATLANTIS: 아틀란티스
   LABEL_THEME_RELIGIOUS: 종교
   LABEL_THEME_ORGANIZED_CRIME: 조직범죄
   LABEL_THEME_CROSSOVER: 크로스오버
@@ -2022,7 +2048,7 @@ ko:
   LABEL_THEME_COMEDY: 코미디
   LABEL_THEME_DRAGON: 용
   LABEL_THEME_EROTIC: 성인물
-  LABEL_THEME_SPY: 첩보요원
+  LABEL_THEME_SPY: 첩보
   LABEL_THEME_FANTASY: 판타지
   LABEL_THEME_GHOST: 유령
   LABEL_THEME_HISTORY: 역사
@@ -2044,7 +2070,7 @@ ko:
   LABEL_THEME_GAMEDEV: 게임 개발
   LABEL_THEME_HACK: 해킹
   LABEL_THEME_HUNT: 사냥
-  LABEL_THEME_ANIME: 애니메이션
+  LABEL_THEME_ANIME: 애니메
   LABEL_THEME_MILITARY: 군대
   LABEL_THEME_INDUSTRIALIZATION: 산업시대
   LABEL_THEME_PET: 애완동물
@@ -2073,7 +2099,7 @@ ko:
   LABEL_TYPE_TPS: 3인칭 슈팅
   LABEL_TYPE_HACK_N_SLASH: 핵 앤 슬래시
   LABEL_TYPE_OPEN_WORLD: 오픈월드
-  LABEL_TYPE_HTA_LIKE: GTA류
+  LABEL_TYPE_HTA_LIKE: HTA류
   LABEL_TYPE_INFILTRATION: 잠입
   LABEL_TYPE_SURVIVAL: 생존
   LABEL_TYPE_HORROR: 공포
@@ -2082,16 +2108,16 @@ ko:
   LABEL_TYPE_INTERACTIVE_MOVIE: 인터렉티브 무비
   LABEL_TYPE_CHAT: 채팅
   LABEL_TYPE_BISHOJO: 미소녀 연애 시뮬레이션
-  LABEL_TYPE_EROGE: 에로(남성향)
-  LABEL_TYPE_OTOME: 에로(여성향)
+  LABEL_TYPE_EROGE: 에로게
+  LABEL_TYPE_OTOME: 오토메 게임
   LABEL_TYPE_VISUAL_NOVEL: 비주얼 노벨
-  LABEL_TYPE_MYSTERY_LIKE: 미스터리 하우스류
+  LABEL_TYPE_MYSTERY_LIKE: Mystery류
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: ARPG(액션)
   LABEL_TYPE_DUNGEON_CRAWLER: 던전 크롤
   LABEL_TYPE_MMORPG: MMORPG(온라인)
   LABEL_TYPE_DUNGEON: DRPG(던전)
-  LABEL_TYPE_CROOK_LIKE: 로그라이크
+  LABEL_TYPE_CROOK_LIKE: 크룩라이크
   LABEL_TYPE_TACTICAL_RPG: SRPG(시뮬레이션)
   LABEL_TYPE_REFLEXION: 고전 퍼즐
   LABEL_TYPE_MAZE: 미로
@@ -2101,13 +2127,13 @@ ko:
   LABEL_TYPE_ANIMALS: 동물 시뮬레이션
   LABEL_TYPE_GOD_GAME: 신 시뮬레이션
   LABEL_TYPE_FARMING: 농장 경영 시뮬레이션
-  LABEL_TYPE_LIVING_ORGANISM: 전염병 시뮬레이션
+  LABEL_TYPE_LIVING_ORGANISM: 생명체 시뮬레이션
   LABEL_TYPE_SPORT: 스포츠 시뮬레이션
   LABEL_TYPE_MANAGEMENT: 경영 시뮬레이션
   LABEL_TYPE_ECONOMY: 경제 시뮬레이션
   LABEL_TYPE_CITY_BUILDER: 도시 건설&경영 시뮬레이션
-  LABEL_TYPE_GOVERNMENT: 대전략 시뮬레이션
-  LABEL_TYPE_VEHICLE: 자동차 시뮬레이션
+  LABEL_TYPE_GOVERNMENT: 정부 시뮬레이션
+  LABEL_TYPE_VEHICLE: 탈것 시뮬레이션
   LABEL_TYPE_RACING: 레이싱 시뮬레이션
   LABEL_TYPE_DRIVE: 운전 시뮬레이션
   LABEL_TYPE_FLY: 비행 시뮬레이션
@@ -2116,7 +2142,7 @@ ko:
   LABEL_TYPE_TRAIN: 철도 시뮬레이션
   LABEL_TYPE_STRATEGY: 전략 시뮬레이션
   LABEL_TYPE_RTS: 실시간 전략 시뮬레이션
-  LABEL_TYPE_MOBA_LIKE: MOBA
+  LABEL_TYPE_MOBA_LIKE: MOBA류
   LABEL_TYPE_TOWER_DEFENSE: 타워 디펜스
   LABEL_TYPE_TURN_BASED: 턴제 전략 시뮬레이션
   LABEL_TYPE_ARTILLERY: 포격
@@ -2136,57 +2162,57 @@ ko:
   LABEL_MAP_SIZE_MEDIUM: 보통
   LABEL_MAP_SIZE_LARGE: 큼
   LABEL_MAP_SIZE_HUGE: 매우 큼
-  LABEL_DIFFICULTY_VERY_EASY: 1. QA 담당자 (매우 쉬움)
-  LABEL_DIFFICULTY_EASY: 2. 게임 개발자 (쉬움)
-  LABEL_DIFFICULTY_NORMAL: 3. 엔진 개발자 (보통)
-  LABEL_DIFFICULTY_HARD: 4. 개발 책임자 (어려움)
-  LABEL_DIFFICULTY_INSANE: 5. CEO (매우 어려움)
+  LABEL_DIFFICULTY_VERY_EASY: 1. QA 담당자 (가장 쉬움)
+  LABEL_DIFFICULTY_EASY: 2. 게임 개발자
+  LABEL_DIFFICULTY_NORMAL: 3. 엔진 개발자
+  LABEL_DIFFICULTY_HARD: 4. 개발 책임자
+  LABEL_DIFFICULTY_INSANE: 5. CEO (가장 어려움)
   LABEL_PLATFORM_RELEASED_DESCRIPTION: |
-    [b]%s[/b]이(가) 새로운 플랫폼을 발매했습니다.: [b]%s[/b]
+    [b]%s[/b]이(가) 새로운 플랫폼을 발매했습니다: [b]%s[/b]
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: |
     [b]%s[/b]이(가) [b]%s[/b]의 생산 중단을 발표했으며, 해당 기기의 팬들은 침울해 하고 있습니다.
   LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: |
-    몇 개월 이내에 [b]%s[/b]의 [b]%s[/b]이(가) 발매될 예정입니다.
+    몇 개월 이내에 [b]%s[/b]의 [b]%s[/b]이(가) 발매될 예정입니다. 수년간 사랑받을 플랫폼이 될 것입니다.
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: |
-    몇 개월 이내에 [b]%s[/b]의 [b]%s[/b]이(가) 단종될 예정입니다.
+    [b]%s[/b]이(가) 잘 알려진 [b]%s[/b]의 단종을 발표했습니다.
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: |
     [b]%s[/b]의 라이선스를 [b]%s$[/b]에 구매했습니다.
   LABEL_PLATFORM_RELEASED_TITLE: 플랫폼 발매
   LABEL_PLATFORM_DISCONTINUED_TITLE: 플랫폼 단종
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: 플랫폼 발매 예정
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: 플랫폼 단종 예정
-  LABEL_PLATFORM_UNLOCKED_TITLE: 라이선스 구매 영수증
+  LABEL_PLATFORM_UNLOCKED_TITLE: 플랫폼 라이선스 구매
   LABEL_CLICK_TO_CLOSE: 마우스 버튼을 클릭하면 닫을 수 있습니다.
   LABEL_SHOP_UI: 상점
   LABEL_DESK: 책상
   LABEL_BOOKSHELF: 책장
   LABEL_WASTEBASKET: 쓰레기통
   LABEL_ASSIGN_EMPLOYEE: 직원
-  LABEL_NEW_GAME: 새로하기
+  LABEL_NEW_GAME: 새 게임
   LABEL_MODDING: 모드
   LABEL_ARTWORK: 아트워크
-  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "최근에 얻은 경험을 통해 [b]%s[/b] 장르를 개발했습니다."
-  LABEL_UNLOCK_GAME_TYPE_TITLE: "%s 장르 연구"
-  LABEL_MAGAZINE_0: 게임메카
-  LABEL_MAGAZINE_1: 게임샷
-  LABEL_MAGAZINE_2: 게임어바웃
-  LABEL_MAGAZINE_3: 디스이즈게임
-  LABEL_MAGAZINE_4: IGN
-  LABEL_MAGAZINE_5: Kotaku
-  LABEL_MAGAZINE_6: 게임동아
-  LABEL_MAGAZINE_7: 게임조선
-  LABEL_MAGAZINE_8: 게임플
+  LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: "최근에 얻은 경험을 통해 새로운 장르 [b]%s[/b]을(를) 연구했습니다."
+  LABEL_UNLOCK_GAME_TYPE_TITLE: "%s 장르 연구 완료"
+  LABEL_MAGAZINE_0: Fan Game
+  LABEL_MAGAZINE_1: PC Player
+  LABEL_MAGAZINE_2: Game Geek
+  LABEL_MAGAZINE_3: Game over Mag
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Game 2
+  LABEL_MAGAZINE_6: ZQSD
+  LABEL_MAGAZINE_7: Wiki Player
+  LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: 게임 오버
   LABEL_SCORE: 평점
   LABEL_WAGE_INCREASES_TITLE: 급여 인상
   LABEL_WAGE_INCREASES_DESCRIPTION: >
-    [b]급여 인상 공고문[/b]
+    급여 인상 공고문
 
     업무 능력 향상에 따른 급여 인상 대상자 목록을
     다음과 같이 공고합니다.
 
     여러분의 노고에 진심으로 감사드립니다.
-  LABEL_PRESS_KEY: (공백)
+  LABEL_PRESS_KEY: 키
   LABEL_WORD_OR: 또는
   LABEL_INPUT_ACTION_UI_ROTATE: 를 눌러 물건을 회전시킬 수 있습니다.
   LABEL_INPUT_ACTION_UI_DELETE: 를 눌러 물건을 판매할 수 있습니다.
@@ -2197,7 +2223,7 @@ ko:
   LABEL_CATCHPHRASE_1_1: 트레일러 제작에 모든 걸 투자한 게임
   LABEL_CATCHPHRASE_1_2: 구매 금지
   LABEL_CATCHPHRASE_1_3: 창의력이 없는 개발자들
-  LABEL_CATCHPHRASE_1_4: 발작이 일어날정도로 평범함
+  LABEL_CATCHPHRASE_1_4: 평범함의 극치
   LABEL_CATCHPHRASE_1_5: 100점 만점에 0점
   LABEL_CATCHPHRASE_2_0: 예상치 못한 실망스러운 게임
   LABEL_CATCHPHRASE_2_1: 평범하다고 한 사람 나와!
@@ -2210,46 +2236,46 @@ ko:
   LABEL_CATCHPHRASE_3_2: 뱁새가 황새를 따라가면 다리가 찢어진다
   LABEL_CATCHPHRASE_3_3: 만약 그들이 게임 개발에만 집중했다면
   LABEL_CATCHPHRASE_3_4: 고통스러운 경험
-  LABEL_CATCHPHRASE_3_5: 여태껏 본 적 없는 최악의 게임
+  LABEL_CATCHPHRASE_3_5: 더 나쁜 것도 봤지만, 대부분은 더 나은 걸 봤다!
   LABEL_CATCHPHRASE_4_0: 좋은 아이디어를 망친 게임
   LABEL_CATCHPHRASE_4_1: 그저 그런 게임
-  LABEL_CATCHPHRASE_4_2: 아이디어 부족
+  LABEL_CATCHPHRASE_4_2: 좋은 아이디어, 아쉬운 완성도
   LABEL_CATCHPHRASE_4_3: 혁신을 추구한 게임...
-  LABEL_CATCHPHRASE_4_4: 좀 이상해도 다시 해볼 만한 게임
+  LABEL_CATCHPHRASE_4_4: 운이 좋으면 다시 해볼지도
   LABEL_CATCHPHRASE_4_5: 이 게임의 최고의 순간은 멈출 때
-  LABEL_CATCHPHRASE_5_0: 기술력 부족
+  LABEL_CATCHPHRASE_5_0: 딱 최소한
   LABEL_CATCHPHRASE_5_1: 맛없는 비빔밥
   LABEL_CATCHPHRASE_5_2: 매우 엇갈리는 평론가들의 의견
-  LABEL_CATCHPHRASE_5_3: 하면 할수록 단점밖에 안 보이는 게임
+  LABEL_CATCHPHRASE_5_3: 더 나은 것도 봤지만, 대부분은 더 나쁜 걸 봤다!
   LABEL_CATCHPHRASE_5_4: GOTY가 아니라는 건 확실
-  LABEL_CATCHPHRASE_5_5: 플레이 시간이 너무 짧은 게임
-  LABEL_CATCHPHRASE_6_0: 편안함
-  LABEL_CATCHPHRASE_6_1: 단순하지만 중독되는 게임
-  LABEL_CATCHPHRASE_6_2: 플레이 타임은 짧지만 흥미로움
-  LABEL_CATCHPHRASE_6_3: 재미있지만 만족스럽지 않음
-  LABEL_CATCHPHRASE_6_4: 무질서가 만들어낸 흥미로운 아이디어
-  LABEL_CATCHPHRASE_6_5: 좋은 시간이었다.
-  LABEL_CATCHPHRASE_7_0: 능숙하고 진지함
-  LABEL_CATCHPHRASE_7_1: 평범하지만 풍부한 콘텐츠
+  LABEL_CATCHPHRASE_5_5: 수명이 짧은 빈약한 게임
+  LABEL_CATCHPHRASE_6_0: 밋밋함
+  LABEL_CATCHPHRASE_6_1: 단순하지만 반복적인 게임
+  LABEL_CATCHPHRASE_6_2: 소박하지만 흥미로움
+  LABEL_CATCHPHRASE_6_3: 재미있지만 깊이가 없음
+  LABEL_CATCHPHRASE_6_4: 무작위성이 망친 흥미로운 콘셉트
+  LABEL_CATCHPHRASE_6_5: 즐거운 순간들
+  LABEL_CATCHPHRASE_7_0: 절제와 효율
+  LABEL_CATCHPHRASE_7_1: 풍부한 콘텐츠, 평범한 완성도
   LABEL_CATCHPHRASE_7_2: 훌륭한 예술성에 비해 부족한 기술력
   LABEL_CATCHPHRASE_7_3: 훌륭한 아이디어에 비해 부족한 콘텐츠
-  LABEL_CATCHPHRASE_7_4: 만족의 연속
-  LABEL_CATCHPHRASE_7_5: 일상에서 찾을 수 있는 보석
+  LABEL_CATCHPHRASE_7_4: 만족스러운 조합?
+  LABEL_CATCHPHRASE_7_5: 보석에 가까운 작품
   LABEL_CATCHPHRASE_8_0: 가장 순수한 형태의 재미
   LABEL_CATCHPHRASE_8_1: 신선한 게임
   LABEL_CATCHPHRASE_8_2: 홈 파티 필수품
-  LABEL_CATCHPHRASE_8_3: 진정한 게임
+  LABEL_CATCHPHRASE_8_3: 진정으로 독창적인 작품
   LABEL_CATCHPHRASE_8_4: 베일에 가려진 아름다움
   LABEL_CATCHPHRASE_8_5: 쾌적하고 강렬함
   LABEL_CATCHPHRASE_9_0: 올해 최고의 게임 중 하나
-  LABEL_CATCHPHRASE_9_1: 궁극의 게임
-  LABEL_CATCHPHRASE_9_2: 완벽한 조직력
-  LABEL_CATCHPHRASE_9_3: 매우 성공한 작품
+  LABEL_CATCHPHRASE_9_1: 궁극의 게임?
+  LABEL_CATCHPHRASE_9_2: 완벽하게 돌아가는 기계
+  LABEL_CATCHPHRASE_9_3: 엄청나다
   LABEL_CATCHPHRASE_9_4: 멋진 경험
   LABEL_CATCHPHRASE_9_5: 멋진 작품
   LABEL_CATCHPHRASE_10_0: 보석 같은 게임 플레이
-  LABEL_CATCHPHRASE_10_1: 걸작인 스토리
-  LABEL_CATCHPHRASE_10_2: 필수품
+  LABEL_CATCHPHRASE_10_1: 연출의 걸작
+  LABEL_CATCHPHRASE_10_2: 필수 구매작
   LABEL_CATCHPHRASE_10_3: 요 근래 발매된 최고의 게임 중 하나
   LABEL_CATCHPHRASE_10_4: 몇 시간 동안 좋은 경험만 했다.
   LABEL_CATCHPHRASE_10_5: 모든 사람의 마음을 사로잡을 게임
@@ -2259,30 +2285,30 @@ ko:
   LABEL_CATCHPHRASE_11_3: 게임 산업의 위신을 다시 세워줄 작품
   LABEL_CATCHPHRASE_11_4: 완벽한 게임의 기준
   LABEL_CATCHPHRASE_11_5: 20번째 세계 불가사의
-  LABEL_CREATE_SEQUEL: 후속작 개발
+  LABEL_CREATE_SEQUEL: 속편 개발
   LABEL_NEW_IP: 새로운 시리즈 개발
   LABEL_POSTMORTEM: 사후분석 보고서
   LABEL_EMPTY_STUDIO: 스튜디오에 컴퓨터가 설치된 책상이 없습니다.
   LABEL_MATCH_EXCELLENT: 훌륭함
   LABEL_MATCH_GOOD: 좋음
   LABEL_MATCH_OK: 평범함
-  LABEL_MATCH_POOR: 매우 안좋음
+  LABEL_MATCH_POOR: 나쁨
   LABEL_POSTMORTEM_TITLE: 사후분석 보고서 (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b]은(는) 별도로 분석할 내용이 없습니다."
   LABEL_POSTMORTEM_DESCRIPTION_LIST: "[b]%s[/b]의 사후분석 보고서 입니다.%s"
   LABEL_POSTMORTEM_MATCH: "[ul]- [i]%s[/i]와 [i]%s[/i]의 조합은 [b]%s[/b][/ul]."
-  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b]은(는) [b]%s[/b]이며, 향후 [b]%s[/b] 장르의 게임을 개발할 때 이 점을 참고하여야함[/ul]."
+  LABEL_POSTMORTEM_CAPACITY: "[ul]- [b]%s[/b]은(는) [b]%s[/b]이며, 향후 [b]%s[/b] 장르의 게임을 개발할 때 이 점을 참고해야 합니다[/ul]."
   LABEL_POSTMORTEM_MARGINAL: 중요하지 않은 요소
   LABEL_POSTMORTEM_INSIGNIFICANT: 사소한 요소
   LABEL_POSTMORTEM_RELATIVELY_IMPORTANT: 비교적 중요한 요소
   LABEL_POSTMORTEM_VERY_IMPORTANT: 매우 중요한 요소
   LABEL_POSTMORTEM_ESSENTIAL: 필수적인 요소
   LABEL_MARKET_SHARE: 시장 점유율
-  LABEL_LICENSE_COST: 라인선스
+  LABEL_LICENSE_COST: 라이선스
   LABEL_OWNED: 소유함
   LABEL_WEEK_COST: 개발비
   LABEL_PLATFORM_DEV_COSTS: |
-    콘솔 관련 시작 비용
+    플랫폼 관련 초기 비용
   LABEL_CATALOG_SIZE: 판매 중인 게임 수
   LABEL_PLATFORM_LIST: 플랫폼 목록
   LABEL_IDLE: 대기
@@ -2291,22 +2317,18 @@ ko:
     이미 귀여운 이 길고양이에게 이름도 지어준 모양입니다.
     이 길고양이를 어떻게 하시겠습니까?
   LABEL_ADOPT_CAT_TITLE: 길고양이
-  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
-    [b]2명의 형제[/b]가 게임산업에 혁명을 일으킬 새로운 게임을 발매했으며, [b]미스터리 하우스류[/b]라는 독자적인 장르로 불리고
-    있습니다.
-  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: 미스터리 하우스류 개발됨
-  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
-    [b]Rockstar Games[/b]가 게임산업에 혁명을 일으킬 새로운 게임을 발매했으며, [b]GTA류[/b]라는 독자적인 장르로
-    불리고 있습니다.
-  LABEL_UNLOCK_HTA_LIKE_TITLE: GTA류 개발됨
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
-    [b]4명의 청년[/b]이 게임산업에 혁명을 일으킬 새로운 게임을 발매했으며, [b]로그라이크[/b]라는 독자적인 장르로 불리고
-    있습니다.
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: 로그라이크 개발됨
-  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
-    [b]3명의 청년[/b]이 게임산업에 혁명을 일으킬 새로운 유즈맵을 제작했으며, [b]MOBA[/b]라는 독자적인 장르로 불리고
-    있습니다.
-  LABEL_UNLOCK_MOBA_LIKE_TITLE: MOBA 개발됨
+  LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: |
+    Blue Studio의 두 형제가 방금 새 게임을 출시했습니다. 판도를 바꾸는 이 게임으로 Mystery류라는 새로운 게임 유형이 탄생했습니다.
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: "Mystery류 탄생"
+  LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: |
+    DustStar가 게임 산업에 혁명을 일으킨 새 게임을 막 출시했습니다. 이 게임으로 HTA류라는 장르가 탄생했습니다.
+  LABEL_UNLOCK_HTA_LIKE_TITLE: "HTA류 탄생"
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: |
+    차고에서 청년 3명이 참신한 새 게임을 만들었습니다. 이 게임이 너무 유명해져서 크룩라이크라는 새로운 장르가 탄생했습니다.
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: "크룩라이크 탄생"
+  LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: |
+    미국인 디자이너 3명이 유명 게임의 모드를 막 만들었습니다. MOBA 장르가 탄생했습니다.
+  LABEL_UNLOCK_MOBA_LIKE_TITLE: "MOBA류 탄생"
   LABEL_BROKEN_COFFEEMAKER_TITLE: 커피 자판기 고장
   LABEL_BROKEN_COFFEEMAKER_DESCRIPTION: >
     [b]%s[/b]의 직원들은 지독한 커피 중독자이지만,
@@ -2325,30 +2347,22 @@ ko:
     직원의 생산성의 악영향을 미치고 있습니다.
     현재 [b]%s[/b] 스튜디오만 감염된 것으로 알려졌습니다.
   LABEL_VIRUS_UNLEASHED_TITLE: 바이러스 감염
-  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: >
-    유명한 게임 유튜버인 풍월량이 [b]%s[/b]를 리뷰한 영상을 올렸으며, 판매량에 긍정적인 영향을 미칠 것으로 예상됩니다.
+  LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_DESCRIPTION: |
+    게임 리뷰로 유명한 The Smitties가 새 영상을 올렸습니다. 리뷰한 게임은 [b]%s[/b], 바로 귀사의 게임입니다! 판매량에 영향을 미칠 것입니다.
   LABEL_VLOGGER_PUBLISH_A_VIDEO_ABOUT_YOUR_GAME_TITLE: 무료 광고
-  LABEL_LOAN_TITLE: 대환대출
-  LABEL_LOAN_DESCRIPTION: >
-    추가적인 대출이 필요하시다면 저희가 도와드릴 수 있습니다.
-    [b]%s$[/b]를 추가적으로 대출받을 수 있으며,
-    금리는 [b]%s%[/b]에 상환기간은 [b]%s[/b]주입니다.
-    귀사에 드리는 마지막 기회 오니, 잘 선택하여 주시길 바랍니다.
+  LABEL_LOAN_TITLE: 최후의 대출
+  LABEL_LOAN_DESCRIPTION: |
+    추가 자금이 필요하시다면 저희가 도와드릴 수 있습니다. [b]$%s[/b]의 대출로 위기에서 벗어날 수 있으며, 금리는 단 [b]%s%%[/b], 상환 기간은 [b]%s[/b]주입니다. 귀사 같은 회사에게는 평생과도 같은 기간이죠. 저희가 마지막 선택지입니다. 한번 넘어와 보시죠.
   LABEL_BURNING_SERVER_DESCRIPTION: |
     어디서 타는 냄새가 나지 않나요?
     서버의 실시간 자원 사용량이 과부하 상태이며,
     새로운 서버를 구매하거나 온라인 게임 운영을 종료해야 합니다.
-  LABEL_BURNING_SERVER_TITLE: >
-    현재 사용 중인 서버로는 대규모의 사용자를 감당할 수 없습니다.
-
-    정상적으로 게임을 이용하지 못한 사용자가 구매한 게임은 즉시 환불될 것이며,
-    이는 막대한 수익 손실로 이어질 것입니다.
-
-    서버의 용량을 증설할 때입니다.
+  LABEL_BURNING_SERVER_TITLE: "이 정도는 괜찮아"
   LABEL_SMOKING_SERVER_DESCRIPTION: |
-    온라인 게임의 흥행으로 서버의 실시간 자원 사용량이 90%를 넘어가고 있으며,
-    새로운 서버의 구매를 검토해야 합니다.
-  LABEL_SMOKING_SERVER_TITLE: 서버 과부하 경고
+    아주 훌륭한 온라인 게임을 만들고 있고, 판매도 매우 잘 되고 있습니다.
+    하지만 서버가 최대 용량에 가까워지고 있으며, 대부분 90%% 이상 사용되고 있습니다.
+    새로운 서버를 구매하는 것이 좋습니다.
+  LABEL_SMOKING_SERVER_TITLE: 서버 용량 경고
   LABEL_PAYLOAN_TITLE: 대출 상환
   LABEL_PAYLOAN_DESCRIPTION: "대출의 변제기일이 종료되어, [b]%s$[/b]를 상환해야 합니다."
   LABEL_SELL_STUDIO_TITLE: 스튜디오 매각
@@ -2364,7 +2378,7 @@ ko:
   LABEL_BUILDING_STREET: 거리
   LABEL_BUILDING_APARTMENT: 아파트
   LABEL_BUILDING_HOTEL: 호텔
-  LABEL_BUILDING_THEATER: 영화관
+  LABEL_BUILDING_THEATER: 극장
   LABEL_BUILDING_TOWER: 타워
   LABEL_BUILDING_STUDIO: 스튜디오
   LABEL_BUILDING_BIGSTUDIO: 대형 스튜디오
@@ -2402,28 +2416,28 @@ ko:
   LABEL_STUDIO_CAPACITY: 생산성(스튜디오)
   LABEL_EMPLOYEE_TOOLTIP: 생산성(직원)은 직원의 근무 효율을 증가시킵니다.
   LABEL_STUDIO_TOOLTIP: 생산성(스튜디오)은 스튜디오 내 모든 직원의 근무 효율을 증가시킵니다.
-  LABEL_BUILD_STUDIO: 건설
+  LABEL_BUILD_STUDIO: 스튜디오 편집
   LABEL_WALL: 벽
   LABEL_PILLAR: 기둥
   LABEL_FLOOR: 바닥
   LABEL_HIRING_DATE: 입사일
   LABEL_WORK: 현재 상태
   LABEL_NUMBER_OF_GAME_PRODUCED: 개발한 게임 수
-  LABEL_DESIGN_POINT_PRODUCED: 생산된 설계점수
-  LABEL_DEVELOPMENT_POINT_PRODUCED: 생산된 개발점수
-  LABEL_POLISH_POINT_PRODUCED: 생산된 마감점수
+  LABEL_DESIGN_POINT_PRODUCED: 생산된 설계 포인트
+  LABEL_DEVELOPMENT_POINT_PRODUCED: 생산된 개발 포인트
+  LABEL_POLISH_POINT_PRODUCED: 생산된 마감 포인트
   LABEL_PRODUCTIVITY: 생산성
   LABEL_MONEY_EFFICIENCY: 비용 효율성
   LABEL_SKILLS: 능력
-  LABEL_HOME: 집
+  LABEL_HOME: 홈
   LABEL_MONTH: 월
-  LABEL_ORDER_BY: 기준
+  LABEL_ORDER_BY: 정렬 기준
   LABEL_BUY_PRICE: 가격(구매)
   LABEL_RENT_PRICE: 가격(임차)
   LABEL_NO_STUDIO_AVAILABLE: 사용 가능한 스튜디오 없음
   LABEL_REAL_ESTATE: 부동산
   LABEL_STAFF_SIZE: 직원 수
-  LABEL_CREATION_DATE: 제작일
+  LABEL_CREATION_DATE: 생성일
   LABEL_STUDIO_LIST: 스튜디오 목록
   LABEL_NO_STUDIO_FOUND: 스튜디오를 찾을 수 없음
   LABEL_PRODUCTIVITY_BONUS: 생산성(보너스)
@@ -2445,8 +2459,8 @@ ko:
     당신의 게임을 텔레비전으로 홍보할 때입니다.
   LABEL_MARKETING_CAMPAIGN_INTERNET: >
     인터넷 시대가 시작되었으며, 간단한 배너 광고만으로도 수백만 명에게 제품을 홍보할 수 있습니다.
-  LABEL_CONCURRENT_STUDIOS_LIST: >
-    시장을 조사하거나 경쟁사를 해킹할 수 있습니다.
+  LABEL_CONCURRENT_STUDIOS_LIST: |
+    스튜디오가 성장하고 있습니다. 이제 시장을 조사하고 경쟁사를 살펴볼 때입니다.
   LABEL_CONCURRENT_STUDIOS_BUY: >
     돈이 썩어 넘치고 있으며, 이제는 경쟁사를 인수 합병할 때입니다.
   LABEL_FURNITURES_COMMON_BUY: >
@@ -2473,8 +2487,8 @@ ko:
     정답은 인터넷입니다! 온라인 게임을 만들면, 쉽게 중독시킬 수 있을 겁니다.
   LABEL_FURNITURES_SERVERS_BUY: >
     더 많은 책상, 더 많은 의자, 더 많은 컴퓨터, 더 많은 화이트보드 등등!
-  LABEL_DIGITAL_STORE: >
-    당신은 이미 게임 산업의 미래라고 알고 있는 전자 소프트웨어 유통망에 대한 소문이 들려오고 있습니다.
+  LABEL_DIGITAL_STORE: |
+    디지털 유통? 이제 막 소문이 들려오기 시작했지만, 이것이 미래라는 걸 당신은 이미 알고 있습니다.
   LABEL_POSTMORTEM_FEATURE: >
     첫 번째 게임 발매를 진심으로 축하드립니다.
     이제 사후분석 보고서를 작성하여, 게임 개발에 필요한 힌트를 얻을 수 있습니다.
@@ -2485,7 +2499,7 @@ ko:
   LABEL_LOADING: 불러오는 중
   LABEL_NAME: 이름
   LABEL_SALARY: 급여
-  LABEL_NO_SCORE: 랭킹을 갱신하는 중입니다.
+  LABEL_NO_SCORE: 아직 업로드된 점수가 없습니다!
   LABEL_CAPACITY_STORY_FEATURE: >
     훌륭한 게임과 훌륭한 스토리는 항상 좋은 것들입니다.
     만약 좋은 게임이 스토리도 좋다면 어떨까요?
@@ -2494,13 +2508,13 @@ ko:
     이제 게임을 개발할 때 UI도 신경 써야 합니다.
   LABEL_CAPACITY_NETWORK_FEATURE: >
     게임은 혼자서 할 때보다 친구와 같이 할 때 더욱 재미있는 법입니다.
-    이제 게임을 개발때 네트워크에 신경 써야 합니다.
+    이제 게임을 개발할 때 네트워크에 신경 써야 합니다.
   LABEL_CAPACITY_MODDING_FEATURE: >
     일부 게임이 플레이어들에 의해 개조되고 있으며, 덕분에 게임 판매량도 증가했습니다.
-    이제 이 고마운 해커들을 위해, 게임을 개발할 때 모드 AP에 신경 써야 합니다.
+    이제 이 고마운 해커들을 위해, 게임을 개발할 때 모드 API에 신경 써야 합니다.
   LABEL_CAPACITY_CUTSCENES_FEATURE: >
     영화가 게임산업에 미치는 영향이 커지고 있습니다.
-    이제 게임을 개발할때 컷신에 신경 써야 합니다.
+    이제 게임을 개발할 때 컷신에 신경 써야 합니다.
   LABEL_CAPACITY_TUTORIEL_FEATURE: >
     새로운 게임을 한다는 건 새로운 학문을 배우는 것만큼 어려우며,
     너무 어려운 게임을 위해 튜토리얼을 제작하기로 결정했습니다.
@@ -2517,8 +2531,8 @@ ko:
   LABEL_GAMEEDITION_RECEIVE_DESCRIPTION_0: >
     게임 유통사가 제안한 퍼블리싱 계약을 확인할 수 있으며,
     대형 게임을 개발하여 인지도를 높일 수도 있습니다.
-  LABEL_WORLDMAP_DESCRIPTION_0: >
-    이제 지도를 사용하여 스튜디오의 위치를 확인하고,\n경쟁사를\_살펴볼 수 있습니다.
+  LABEL_WORLDMAP_DESCRIPTION_0: |
+    도시를 둘러보고, 경쟁사를 살펴보고, 스튜디오의 위치를 확인할 수 있습니다.
   LABEL_MARKETING_CAMPAIGN_MAGAZINE_DESCRIPTION_0: >
     이제 수많은 게임 전문 잡지에 게임을 홍보하여
     흥미도를 높일 수 있습니다.
@@ -2576,11 +2590,11 @@ ko:
     이제 벽과 기둥의 페인트를 다시 칠하고
     바닥재를 변경할 수 있습니다.
   LABEL_FURNITURES_SERVERS_BUY_DESCRIPTION_0: >
-    서버를 구매하면 온라인 게임뿐만 아니라 전자 소프트웨어 유통망도 운영할 수 있습니다.
+    서버를 구매하면 온라인 게임뿐만 아니라 디지털 스토어도 운영할 수 있습니다.
   LABEL_GAME_ONLINE_DESCRIPTION_0: >
     매달 정액제 요금을 지불해야 하는 온라인 게임을 만들 수 있습니다.
   LABEL_DIGITAL_STORE_DESCRIPTION_0: >
-    전자 소프트웨어 유통망을 개발할 수 있습니다.
+    디지털 스토어을 개발할 수 있습니다.
   LABEL_GAMEEDITION_SUBMIT_DESCRIPTION_0: >
     다양한 게임을 유통하기 위해,
     다른 회사에 개발을 위탁할 수 있습니다.
@@ -2592,18 +2606,18 @@ ko:
     간단합니다. 게임을 개발하세요!
   LABEL_TARGETTED_AUDIENCE_FEATURE_DESCRIPTION_0: >
     이제 게임을 개발할 때 목표 고객을 선택할 수 있으며, 목표 고객은 개발된 게임의 최종 점수와 판매량에 영향을 미칩니다.
-  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: >
-    이제 스토리에 중점을 둔 게임을 개발할 수 있습니다.
-  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: >
-    이제 UI에 중점을 둔 게임을 개발할 수 있습니다.
-  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: >
-    이제 네트워크에 중점을 둔 게임을 개발할 수 있습니다.
-  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: >
-    이제 모드에 중점을 둔 게임을 개발할 수 있습니다.
-  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: >
-    이제 컷신에 중점을 둔 게임을 개발할 수 있습니다.
-  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: >
-    이제 튜토리얼에 중점을 둔 게임을 개발할 수 있습니다.
+  LABEL_CAPACITY_STORY_FEATURE_DESCRIPTION_0: |
+    게임을 개발할 때 새로운 설계 게이지가 생깁니다.
+  LABEL_CAPACITY_USER_INTERFACE_FEATURE_DESCRIPTION_0: |
+    게임을 개발할 때 새로운 설계 게이지가 생깁니다.
+  LABEL_CAPACITY_NETWORK_FEATURE_DESCRIPTION_0: |
+    게임을 개발할 때 새로운 개발 게이지가 생깁니다.
+  LABEL_CAPACITY_MODDING_FEATURE_DESCRIPTION_0: |
+    게임을 개발할 때 새로운 개발 게이지가 생깁니다.
+  LABEL_CAPACITY_CUTSCENES_FEATURE_DESCRIPTION_0: |
+    게임을 개발할 때 새로운 마감 게이지가 생깁니다.
+  LABEL_CAPACITY_TUTORIEL_FEATURE_DESCRIPTION_0: |
+    게임을 개발할 때 새로운 마감 게이지가 생깁니다.
   LABEL_MARKETING_CAMPAIGN_SOCIALNETWORK_DESCRIPTION_0: >
     이제 SNS를 이용하여 제품을 홍보할 수 있습니다.
     광고비용이 비싸지만 특정한 목표 고객에게 효과적으로 제품을 홍보할 수 있습니다.
@@ -2619,11 +2633,11 @@ ko:
     다른 회사의 게임을 하청 받아 개발 할 수 있으며,
     이에 대한 보상으로 수익과 장르 점수 등을 얻을 수 있습니다.
   LABEL_RELATIONSHIP: 관계
-  LABEL_RELATIONSHIP_FRIENDLY: 친근함
+  LABEL_RELATIONSHIP_FRIENDLY: 우호적
   LABEL_RELATIONSHIP_NEUTRAL: 중립적
   LABEL_RELATIONSHIP_UNFRIENDLY: 적대적
-  LABEL_ARCADE_SNEAK_IN: 아케이드 잠입
-  LABEL_FOOSBALL: 축구
+  LABEL_ARCADE_SNEAK_IN: 아케이드 Sneak In
+  LABEL_FOOSBALL: 테이블 축구
   LABEL_HOOVERBALL: 에어 하키
   LABEL_TV: 텔레비전
   LABEL_ARCADE_CITY_GAME_STUDIO: 아케이드 City Game Studio
@@ -2635,11 +2649,11 @@ ko:
   # Tutoriel labels
   TOOLTIP_SUPPORTER_DLC_REQUIRED: |
     이 가구는 외관만 다를 뿐 원본과 동일합니다.
-    더 나은 능력치나 다른 효과가 없습니다
+    더 나은 능력치나 다른 효과가 없습니다.
 
     이 가구를 잠금 해제하려면 "Supporter Pack" DLC를 소유해야 합니다.
   TOOLTIP_BONUS_HYPE: |
-    컨벤션에서 게임을 선보일 때 가장 큰 홍보 효과를 얻을 수 있습니다.
+    전시회에서 게임을 선보이면 추가 흥미도가 생깁니다.
   TOOLTIP_CUSTOM_PLATFORM_RELEASE: |
     이제 막 콘솔을 개발하셨습니다!
 
@@ -2650,7 +2664,7 @@ ko:
 
     모든 것을 고려할 때, 첫 콘솔 게임을 퍼블리싱하기 전에 최소 15개의 게임을 보유하는 것이 가장 좋습니다.
   TOOLTIP_UNIVERSITY_TRAINING: |
-    대학을 통해 직원의 일반적인 역량을 뛰어넘는 교육을 제공할 수 있습니다.
+    연수원을 통해 직원의 일반적인 역량을 뛰어넘는 교육을 제공할 수 있습니다.
     그러나 직원의 일반적인 역량을 넘어서는 교육을 실시하면 급여가 크게 인상됩니다.
   TOOLTIP_GAME_GENRE_MAX_2_GENRES: |
     게임당 최대 2개의 장르를 조합할 수 있습니다.
@@ -2668,13 +2682,13 @@ ko:
     좋은 관계를 유지하면 더 좋은 제안을 받을 수 있습니다.
     반면에 열악한 관계는 협상을 더 어렵게 만듭니다.
 
-    콘솔에 게임을 게시하면 관계가 개선됩니다.
-    독점 계약을 수락하거나 라이센스를 구입하는 것 또한 영향을 줍니다.
+    상대의 콘솔에 게임을 출시하면 관계가 개선됩니다.
+    독점 계약을 수락하거나 라이선스를 구입하는 것 또한 영향을 줍니다.
 
-    라이선스 구매 없이 토론을 시작하거나
+    라이선스 구매 없이 협상을 시작하거나
     독점계약을 거절하게 되면 관계가 악화됩니다.
   LABEL_TEAM_BALANCED: 균형이 잘 잡힌 팀
-  LABEL_TEAM_NOT_BALANCED: 팀 불균형
+  LABEL_TEAM_NOT_BALANCED: 균형이 맞지 않는 팀
   PLACEHOLDER_COMPANY_NAME: 회사명
   PLACEHOLDER_GAME_GENRE: 장르
   PLACEHOLDER_GAME_NAME: 게임명
@@ -2683,16 +2697,16 @@ ko:
   LABEL_CANNOT_BE_EMPTY: 이름은 비워둘 수 없습니다
   LABEL_NAME_CANNOT_CONTAIN: 이름에 다음을 포함할 수 없습니다
 
-  LABEL_VERSION_BETA: "버전: Beta"
+  LABEL_VERSION_BETA: "베타 버전"
   LABEL_BREAK_LAW: |
     불법적인 행위를 시도하고 있습니다.
     정말로 계속 진행하시겠습니까?
-  LABEL_SUCCESS: 성곰함
+  LABEL_SUCCESS: 성공
   LABEL_FAILURE: 실패
-  LABEL_CANNOT_INTERACT: "%s 와(과) 모든 협력 업무가 %s 까지 중단되었습니다."
-  LABEL_FAN_LOST: "이 사건 때문에 회사의 인기가 떨어졌으며, %s명의 팬층이 감소했습니다."
-  LABEL_PENALTY_COST: "법원의 판결에 따라, %s$를 지불해야 합니다."
-  LABEL_EMPLOYEE_HIRED: "%s 고용함"
+  LABEL_CANNOT_INTERACT: "%s와(과)의 모든 협력 업무가 %s까지 중단되었습니다."
+  LABEL_FAN_LOST: "이 사건 때문에 회사의 인기가 떨어졌으며, 팬 %s명을 잃었습니다."
+  LABEL_PENALTY_COST: "법원의 판결에 따라, $%s를 지불해야 합니다."
+  LABEL_EMPLOYEE_HIRED: "%s을(를) 고용했습니다"
   LABEL_GAME_CRACKED: |
     %s의 수익은 3분의 1로 감소할 것이며, 이제 더 이상 당신의 게임과 경쟁하지 못할 것입니다.
   LABEL_GENRE_STOLEN: "%s 연구함"
@@ -2700,7 +2714,7 @@ ko:
   LABEL_GENRE_UNIQ_ALREADY_UNLOCKED: |
     이 장르는 이미 다른 회사에서 개발되었으며, 더 이상 특별하지 않습니다.
   TOOLTIP_EMPLOYEE_BETTER_STUDIO_FURNISHING: |
-    자판기, 식물 또는 커피 머신을 추가하여 작업 공간을 개선하십시오.
+    자판기, 화분 또는 커피 자판기를 추가하여 작업 공간을 개선하십시오.
   TOOLTIP_EMPLOYEE_BORED_GENRE: |
     직원이 새로운 게임 장르를 시도하고 싶어 합니다. 직원은 다음과 같은 게임 장르에서 일하기를 원하지 않습니다.
   TOOLTIP_GAME_ENGINE_WHY: |
@@ -2724,15 +2738,15 @@ ko:
   TOOLTIP_REMAKE_MISSING_FEATURE_ALTERNATIVE: |
     이 기능은 사용할 수 없습니다.(대체 기능 있음)
   TOOLTIP_REMAKE_CAPACITIES_NOT_ENOUGH: |
-    이 리메이크 작품은 콘솔을 지원하지 않습니다.
+    이 리메이크 작품은 콘솔의 성능을 제대로 활용하지 못합니다.
   TOOLTIP_REMAKE_ENGINE_FEATURE_NOT_VALID: |
-    이 기능은 사용할 수 없습니다.
+    일부 기능이 지원되지 않습니다. 다른 기능을 선택하십시오.
   TOOLTIP_POSTMORTEM_ALREADY_DONE: |
     이미 사후분석 보고서가 작성되었습니다.
   TOOLTIP_POSTMORTEM_AUTOMATICALLY: |
     사후분석 보고서 자동 작성
   TUTORIEL_CREATE_GAME: |
-    이 버튼을 클릭하면 게임을 개발할 수 있습니다.
+    이 버튼을 클릭하면 게임 개발 패널이 열립니다.
   TUTORIEL_GAME_ENGINE_TOO_EXPENSIVE: |
     게임엔진이 노후화되어 게임엔진 업데이트 비용이 많이 나올 것으로 예상됩니다.
     
@@ -2759,57 +2773,69 @@ ko:
   TOOLTIP_SORT_STUDIO_LIST: |
     스튜디오 목록 정렬
   TOOLTIP_TIPS_CAPACITY: |
-    계약서나 게임 보고서를 작성하면 더 많은 힌트를 얻을 수 있습니다.
-    힌트가 많을수록 블루 게이지가 더 정확해집니다.
+    계약을 수행하거나 사후분석 보고서를 작성하면 더 많은 힌트를 얻을 수 있습니다.
+    힌트가 많을수록 파란색 게이지가 더 정확해집니다.
   TOOLTIP_CANCEL_EXCLUSIVE_GAME: |
     독점 제안에 서명했습니다.
-    이 게임은 다른 콘솔로 이식할 수 없으며 최소 1년 동안 선반에 있어야 합니다.
-    이 기간이 지나면 취소할 수 있습니다.
+    이 게임은 다른 콘솔로 이식할 수 없으며 최소 1년 동안 매장에 진열되어야 합니다.
+    이 기간이 지나면 계약을 취소할 수 있습니다.
   TOOLTIP_KEEP_HINT: |
-    이 상자를 선택하면 이전 게임의 게임 보고서와 함께 수집한 모든 지식을 유지합니다.
+    이 상자를 선택하면 이전 저장 파일의 사후분석 보고서로 수집한 모든 지식을 유지합니다.
   TOOLTIP_CONCURRENT_PAY_TO: >
-    %s의 개발 결과가 %s의 요구 조건을 충족하지 못했기 때문에 위약금 %s$를 지불해야 하지만,
-    현재 보유한 현금이 %s$ 밖에 없기 때문에 대출을 받아야 합니다.
+    %s의 개발 결과가 %s의 요구 조건을 충족하지 못했기 때문에 위약금 $%s를 지불해야 하지만,
+    현재 보유한 현금이 $%s밖에 없기 때문에 대출을 받아야 합니다.
   TOOLTIP_ROYALTY_GET: |
     게임의 수익 중 해당 비율만큼, 라이선스비로 지급받습니다.
   TOOLTIP_ROYALTY_GIVE: |
     게임의 수익 중 해당 비율만큼, 라이선스비로 지불합니다.
   TOOLTIP_SERVER_BURNING: |
-    서버 과부하 멈춰!
+    서버가 그렇게 많은 플레이어를 감당할 수 없습니다.
+
+    게임을 구매한 고객은 판매량에 집계되지만, 접속할 수 없어 즉시 환불됩니다.
+    이는 막대한 수익 손실로 이어집니다.
+
+    서버 용량을 늘릴 때입니다.
   TOOLTIP_FIRST_CUSTOM_CONSOLE: |
     첫 번째 콘솔 개발의 첫걸음을 진심으로 축하합니다.
 
     해당 콘솔을 기반으로 한 게임이 증가할수록 좋은 결과를 얻을 수 있으며,
-     경쟁사에 개발자용 도구를 제공하여 해당 콘솔을 기반으로 한 게임 개발을 독려할 수 있습니다.
+     경쟁사에 개발 키트를 제공하여 해당 콘솔을 기반으로 한 게임 개발을 독려할 수 있습니다.
 
-    개발자용 도구를 제공하려면 해당 버튼을 클릭하십시오.
+    개발 키트를 제공하려면 해당 버튼을 클릭하십시오.
   TOOLTIP_GAME_PRICE_TAG: |
-    게임의 무료 배포 여부를 선택할 수 있습니다.
+    유료 게임과 무료 게임 사이를 전환합니다.
 
-    게임을 무료로 배포하는 경우,
-    구독료나 소액결제 시스템을 통해 수익을 창출할 수 있습니다.
+    무료 게임으로 만들려면 월 구독제 온라인 게임으로 만들거나,
+    광고 모듈 또는 소액 결제 모듈을 활성화해야 합니다.
   TOOLTIP_TRADE_DELAY_BETWEEN_ORDER_EXECUTION: |
-    이 주식의 매매동향을 분석하여 시가를 평가하는데 소요되는 시간입니다.
+    이 기간 동안 접수된 매수·매도 주문을
+    모아서 처리합니다.
   TOOLTIP_TRADE_CHART: |
-    봉 차트는 4가지 요소로 구성되어 있으며, 각각 시가(당일 최초로 체결된 거래가), 종가(당일 마지막으로 체결된 거래가), 최고가(당일
-    최고 거래가), 최저가(당일 최저 거래가)입니다.
-
-    큰 게임보다 작은 게임에서 90점 이상의 점수를 얻는 것이 더 어렵습니다.
+    원리는 간단합니다. 각 봉은 빨간색 또는 파란색이며,
+    같은 봉의 시작 시점보다 주가가 떨어지면 빨간색,
+    올랐으면 파란색입니다. 사각형은 봉의 몸통으로,
+    시가부터 종가까지의 변동을 나타내며, 몸통을 가로지르는
+    가는 선은 최고가와 최저가를 나타냅니다.
   TOOLTIP_THEME_TREND: |
     주제의 인기는 판매량에 막대한 영향력을 미칩니다.
   TOOLTIP_HAPPY_EMPLOYEE: |
-    당신의 직원들은 행복합니다
+    직원이 행복합니다.
   TOOLTIP_EMPLOYEE_HAPPINESS: |
     만족도가 낮은 직원들은 다른 직원에 비해 휴가를 자주 갑니다.
   TOOLTIP_EMPLOYEE_PRODUCTIVITY: |
-    생산성이 높은 직원들은 다른 직원에 비해 많은 점수를 생성합니다.
+    생산성이 높은 직원들은 다른 직원에 비해 많은 포인트를 생성합니다.
   TOOLTIP_GAME_PRICE: |
     게임의 가격이 낮을수록 많은 팬층을 확보할 수 있지만, 게임의 수익성이 낮아지게 됩니다.
   TOOLTIP_TOO_HARD: |
-    게임을 처음 하시는 분은 좀 더 낮은 난이도로 플레이해보시는 걸 추천드립니다.
-    보통 난이도부터 불합리적이라고 느낄 만큼 게임이 점점 어려워집니다.
+    도전적인 난이도입니다.
+    이 난이도에 도전하기 전에 난이도 1 또는 2로 게임을 끝까지 플레이해 보는 것이 좋습니다.
+
+    너무 어려운 모드에 도전하면 게임을 즐기지 못하거나, 불공정하거나 균형이 맞지 않는다고 느낄 수 있습니다.
   TOOLTIP_REQUIRED_POINTS: |
-    좋은 게임을 만드는 데 필요한 점수입니다.
+    좋은 게임을 만드는 데 필요한 포인트 수입니다.
+
+    게임 규모가 클수록 필요한 포인트도 많아집니다.
+    최근 4년간 만들어진 비슷한 게임도 기준으로 사용됩니다.
   TOOLTIP_NO_MONEY: |
     회사를 계속 운영하기 위해서 지출 규모를 줄여야 하며,
     지출을 합리적으로 해야 할 때입니다.
@@ -2820,15 +2846,13 @@ ko:
     이전에 발매한 작품 중 현재 개발 중인 작품과 동일한 장르를 가진 작품의 목록을 보여주며, 업무량을 조절할 때 참고할 수 있습니다.
   TOOLTIP_GAMEENGINE_CREATE: >
     게임 엔진에 포함할 기능을 선택하십시오.
-  TOOLTIP_TIRED_GAME_GENRE: >
-    직원들은 계속 같은 장르의 게임을 만드는 데 지쳐 있으며,
-    새로운 장르의 게임을 개발하길 원하고 있습니다.
+  TOOLTIP_TIRED_GAME_GENRE: "직원들은 새로운 장르의 게임을 개발하고 싶어 하며, 같은 장르의 게임을 만드는 데 지쳐 있습니다: \n"
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM_OR_THEME: |
     조사할 대상(주제, 플랫폼 등)을 선택하십시오.
   TOOLTIP_MARKETSEARCH_SELECT_GENRE: |
     조사할 게임 장르를 선택하십시오.
   TOOLTIP_MARKETSEARCH_SELECT_GENRE_OR_TARGETTED_AUDIENCE: |
-    조사할 대상(게임 장르, 목표 고객, 플랫폼 등)을 선택하십시오.
+    조사할 대상(게임 장르, 목표 고객)을 선택하십시오.
   TOOLTIP_MARKETSEARCH_SELECT_PLATFORM: |
     조사할 플랫폼을 선택하십시오.
   TOOLTIP_MARKETSEARCH_MATCH_ALREADY_KNOWN: |
@@ -2837,10 +2861,13 @@ ko:
     직원의 생산력을 향상시키거나 완벽하게 만들기 위해,
     정해진 기간 동안 교육시킬 수 있습니다.
   TOOLTIP_UNIVERSITY_AUTOTRAINING: |
-    자동으로 직원을 교육할 수 있으며, 인사 관리자가 필요합니다.
+    직원이 완벽해지거나 할 일이 생길 때까지
+    자동으로 교육을 보냅니다. 인사 책임자가 필요합니다.
   TOOLTIP_GAME_SIZE: |
-    게임의 규모가 커질수록 업무량과 제작비, 개발일이 증가하지만,
-    소규모 게임에 비해 좋은 평가를 받을 수 있습니다.
+    게임 규모는 필요 포인트 수,
+    개발 기간, 제작비에 영향을 줍니다.
+
+    작은 게임은 큰 게임보다 90점 이상을 받기가 더 어렵습니다.
   TOOLTIP_UNIVERSITY_GLOBAL_TRAINING: |
     모든 분야의 능력을 향상시키기 위한 교육과정입니다.
   TOOLTIP_UNIVERSITY_SPECIFIC_TRAINING: |
@@ -2851,7 +2878,7 @@ ko:
     개발업무
     (게임 개발, 게임 이식, 엔진 개발, 보고서 확인, 계약 등)
   TOOLTIP_MENU_CREATE_CONSOLE: |
-    전자 소프트웨어 유통망이나
+    디지털 스토어이나
     콘솔을 개발할 수 있습니다.
   TOOLTIP_GAME_CREATION_BALANCING: |
     개발 단계별 직원들의 업무량을 나타내는 계기판입니다.
@@ -2863,11 +2890,11 @@ ko:
   TOOLTIP_MATCH_EXCELLENT: 조합(훌륭함)
   TOOLTIP_MATCH_GOOD: 조합(좋음)
   TOOLTIP_MATCH_OK: 조합(평범함)
-  TOOLTIP_MATCH_POOR: 조합(매우 안좋음)
+  TOOLTIP_MATCH_POOR: 조합(나쁨)
   TOOTIP_STUDIO_HAPPINESS: |
     이 스튜디오의 선호 장르
   TOOLTIP_TOPSALES: |
-    최고 인기 제품
+    최다 판매 게임
   TOOLTIP_CONVENTION_LIST: |
     전시회 참가 목록
   TOOLTIP_FORCE_STUDIO: |
@@ -2877,13 +2904,13 @@ ko:
   TOOLTIP_HIRE_STAFF: |
     고용하고 싶은 직원을 선택하십시오.
   TOOLTIP_CONCURRENT_LOCKED: |
-    이제 다시 %s에게 %s을 시도할 수 있습니다.
+    %s에 대해 %s부터 다시 조치를 취할 수 있습니다.
   TOOLTIP_TUTORIEL: |
     %s을(를) 하면, %s의 잠금이 해제됩니다.
   TOOLTIP_EMAIL: |
-    메일함
+    뉴스와 메일 읽기
   TOOLTIP_UNLOCK_GAME_GENRE: |
-    장르 연구
+    새로운 장르를 연구할 수 있습니다.
   TOOLTIP_MANAGE_STUDIO: |
     스튜디오 관리
     (물건 업그레이드, 직원 관리 등)
@@ -2909,10 +2936,10 @@ ko:
   TOOLTIP_CONFERENCE: 전시회 관리
   TOOLTIP_MARKETING: 마케팅 활동
   TOOLTIP_SELL: 스튜디오 매각
-  TOOLTIP_SHOP: 구매
+  TOOLTIP_SHOP: 사무실용 가구와 물건 구매
   TOOLTIP_BUILDMOD: 스튜디오의 인테리어를 변경할 수 있습니다.
   TOOLTIP_ASSIGN: 직원을 배치합니다.
-  TOOLTIP_STUDIO_SELECT: 스튜디오 목록
+  TOOLTIP_STUDIO_SELECT: 스튜디오 선택
   TOOLTIP_ANNOUNCE_GAME: |
     게임 발표
     (흥미도 증가)
@@ -2928,12 +2955,12 @@ ko:
   TOOLTIP_STEAM_MODS: |
     스팀 창작마당입니다.
   TOOLTIP_HUMANRESOURCE: |
-    인사 책임자를 배치하면  
+    인사 책임자를 배치하면 
     급여 인상, 근무 일정 등을 효율적으로 관리할 수 있습니다.
   TOOLTIP_GAME_OF_THE_YEAR:  |
     매년 새로운 게임이 GOTY로 선정됩니다.
   TOOLTIP_DESK_REPLACE: |
-    업그레이드
+    책상 교체 및 컴퓨터 업그레이드
   TOOLTIP_POSTMORTEM_RED_ZONE: |
     이미 사후분석 보고서를 통해 슬라이더의 적절한 위치(파란색 영역)를 찾았습니다.
 
@@ -2951,7 +2978,7 @@ ko:
   LOADING_SCREEN_TIP_4: >
     게임 퍼블리싱(개발)을 통해 손쉽게 회사를 성장시킬 수 있습니다.
   LOADING_SCREEN_TIP_5: >
-    전시회는 최소 1년의 간격을 두고\_개최하는 게\_좋습니다.
+    전시회는 최소 1년의 간격을 두고 개최하는 게 좋습니다.
   LOADING_SCREEN_TIP_6: >
     부실영업부는 항상 옳습니다.
   LOADING_SCREEN_TIP_7: >
@@ -2959,7 +2986,7 @@ ko:
   LOADING_SCREEN_TIP_8: >
     우리의 마스코트인 아인슈타인은 City Game Studio를 개발하는 동안 65.13번이나 짖었습니다.
   LOADING_SCREEN_TIP_9: >
-    City Game Studio를 개발하는 동안 12,654곡의\_캐럴이\_울려펴졌습니다.
+    City Game Studio를 개발하는 동안 12,654곡의 캐럴이 울려 퍼졌습니다.
   LOADING_SCREEN_TIP_10: >
     플랫폼의 시장 점유율뿐만 아니라, 판매 중인 게임의 수도 중요합니다.
   LOADING_SCREEN_TIP_11: >
@@ -2973,11 +3000,11 @@ ko:
   LOADING_SCREEN_TIP_15: >
     가장 손쉽게 돈을 버는 방법을 알고 계시나요? 정답은 게임개발입니다!
   LOADING_SCREEN_TIP_16: >
-    사후분석 보고서를 통해 발매한 게임을 자세하게\_평가해 볼 수\_있습니다.
+    사후분석 보고서를 통해 발매한 게임을 자세하게 평가해 볼 수 있습니다.
   LOADING_SCREEN_TIP_17: >
-    최근 연구에 따르면, 비가 올 때 지는 개는 625.3마리 중 1마리이며, 다른 개들은 그 개를 놀리는 거라고 합니다.
+    최근 연구에 따르면, 비가 올 때 짖는 개는 625.3마리 중 1마리이며, 다른 개들은 그 개를 놀리는 거라고 합니다.
   LOADING_SCREEN_TIP_18: >
-    로딩 중에\_나오는 팁에 의존하지 마십시오.
+    로딩 중에 나오는 팁에 의존하지 마십시오.
   LOADING_SCREEN_TIP_19: >
     고양이를 입양하면 스튜디오에 약간의 보너스가 추가됩니다.
   LOADING_SCREEN_TIP_20: >
@@ -2986,40 +3013,40 @@ ko:
     F1 키를 누르면 게임 내 콘솔을 열 수 있습니다.
 
   GAME_UPDATE: 게임 업데이트
-  GAMEENGINE: 게임 엔진 개발
+  GAMEENGINE: 게임 엔진
   GAMEEDITION_SUBMIT: 게임 퍼블리싱(유통)
   GAMEEDITION_RECEIVE: 게임 퍼블리싱(개발)
   WORLDMAP: 지도
-  MARKETING_CAMPAIGN_MAGAZINE: 신문
-  MARKETING_CAMPAIGN_TV: 텔레비전
-  MARKETING_CAMPAIGN_INTERNET: 온라인
+  MARKETING_CAMPAIGN_MAGAZINE: 언론 광고
+  MARKETING_CAMPAIGN_TV: TV 광고
+  MARKETING_CAMPAIGN_INTERNET: 온라인 광고
   CONCURRENT_STUDIOS_LIST: 경쟁사
   CONCURRENT_STUDIOS_BUY: 인수 합병
   FURNITURES_COMMON_BUY: 물건 구매
-  COPY_STUDIO_LAYOUT: 카피 스튜디오의 레이아웃
+  COPY_STUDIO_LAYOUT: 스튜디오 레이아웃 복사
   EMPLOYEES_HIRE: 고용
   STUDIO_RENT: 스튜디오 임차
-  STUDIO_BUILD: 스튜디오
+  STUDIO_BUILD: 스튜디오 건설
   CONVENTION_ORGANIZE: 전시회 개최
   CONVENTION_PARTICIPATE: 전시회 참가
   STUDIO_CUSTOMIZE: 스튜디오 리모델링
-  FURNITURES_SERVERS_BUY: 서버 자동 배치
-  GAME_ONLINE: 온라인 멀티플레이 게임으로 개발
-  DIGITAL_STORE: 전자 소프트웨어 유통망
+  FURNITURES_SERVERS_BUY: 서버 구매
+  GAME_ONLINE: 온라인 게임 출시
+  DIGITAL_STORE: 디지털 스토어
   POSTMORTEM: 사후분석 보고서
   NEW_GAME: 새 게임
   TARGETTED_AUDIENCE: 목표 고객
-  STORY: 역사
+  STORY: 스토리
   USERINTERFACE: UI
   NETWORK: 네트워크
   MODDING: 모드
   CUTSCENES: 컷신
   TUTORIEL: 튜토리얼
-  MARKETING_CAMPAIGN_SOCIALNETWORK: SNS
-  MARKETING_CAMPAIGN_MAILINGLIST: 이메일
+  MARKETING_CAMPAIGN_SOCIALNETWORK: 타깃 광고
+  MARKETING_CAMPAIGN_MAILINGLIST: 이메일 광고
   GAMEPORT: 게임 이식
-  UNLOCK_GAMEGENRE: 장르 연구 가능
+  UNLOCK_GAMEGENRE: 장르 연구
   UNLOCK_HUMANRESOURCE: 인사 책임자
-  UNLOCK_GAME_OF_THE_YEAR: Game of the Year
+  UNLOCK_GAME_OF_THE_YEAR: 올해의 게임
   UNLOCK_CLOUD_SERVER: 클라우드 컴퓨팅
-  REMASTER_AND_REMAKE: 게임 리메이크
+  REMASTER_AND_REMAKE: 리메이크 및 리마스터
